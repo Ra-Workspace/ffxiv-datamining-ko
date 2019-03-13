@@ -1,0 +1,241 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_JOBREL103_02214_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙:  직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+아르다시르는 '인조 정령'을 새 영혼석에 옮겨 담고 싶은 듯하다."
+1,"TEXT_JOBREL103_02214_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+   퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
+
+게롤트가 <Sheet(Item,13577,0)/>, <Sheet(Item,13578,0)/>, <Sheet(Item,13579,0)/>, <Sheet(Item,13580,0)/><13>FF0F02280BFF054974656DF2350C0103FF04EBA5BCFF04EC9D84</13> 가져오라고 한다. 퀘스트를 받았을 때의 직업으로 '아니마 웨폰'을 소지하거나 장비하고 모르도나 '망자의 종소리'에 있는 '크리스티아나'의 이야기를 들어보자."
+2,"TEXT_JOBREL103_02214_SEQ_02","크리스티아나와 대화했다. <Sheet(Item,13577,0)/>, <Sheet(Item,13578,0)/>, <Sheet(Item,13579,0)/>, <Sheet(Item,13580,0)/><13>FF0F02280BFF054974656DF2350C0103FF04EBA5BCFF04EC9D84</13> 크리스티아나에게 받은 후 퀘스트를 받았을 때의 직업이 되어, '아니마 웨폰'을 소지품에 보유한 상태로 아지스 라 '나선 발착장'에 있는 '게롤트'에게 건네자."
+3,"TEXT_JOBREL103_02214_SEQ_03","게롤트에게 재료를 주고 '새로운 아니마 웨폰'을 완성했다. 이에 반응했는지, 모험가 앞에 '인조 정령'이 나타났다. '인조 정령'도 꾸준히 성장하고 있는 모양이다. 다음 기회가 올 때까지 '새로운 아니마 웨폰'과 함께 여행하자."
+4,"TEXT_JOBREL103_02214_SEQ_04",""
+5,"TEXT_JOBREL103_02214_SEQ_05",""
+6,"TEXT_JOBREL103_02214_SEQ_06",""
+7,"TEXT_JOBREL103_02214_SEQ_07",""
+8,"TEXT_JOBREL103_02214_SEQ_08",""
+9,"TEXT_JOBREL103_02214_SEQ_09",""
+10,"TEXT_JOBREL103_02214_SEQ_10",""
+11,"TEXT_JOBREL103_02214_SEQ_11",""
+12,"TEXT_JOBREL103_02214_SEQ_12",""
+13,"TEXT_JOBREL103_02214_SEQ_13",""
+14,"TEXT_JOBREL103_02214_SEQ_14",""
+15,"TEXT_JOBREL103_02214_SEQ_15",""
+16,"TEXT_JOBREL103_02214_SEQ_16",""
+17,"TEXT_JOBREL103_02214_SEQ_17",""
+18,"TEXT_JOBREL103_02214_SEQ_18",""
+19,"TEXT_JOBREL103_02214_SEQ_19",""
+20,"TEXT_JOBREL103_02214_SEQ_20",""
+21,"TEXT_JOBREL103_02214_SEQ_21",""
+22,"TEXT_JOBREL103_02214_SEQ_22",""
+23,"TEXT_JOBREL103_02214_SEQ_23",""
+24,"TEXT_JOBREL103_02214_TODO_00","<If(Equal(IntegerParameter(4),19))><Sheet(Item,13597,0)/><13>FF0F02280BFF054974656DF2351D0103FF04EC9980FF04EAB3BC</13> <Sheet(Item,13610,0)/><13>FF0F02280BFF054974656DF2352A0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,13598,0)/><13>FF0F02280BFF054974656DF2351E0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,13599,0)/><13>FF0F02280BFF054974656DF2351F0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,13600,0)/><13>FF0F02280BFF054974656DF235200103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,13601,0)/><13>FF0F02280BFF054974656DF235210103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,13605,0)/><13>FF0F02280BFF054974656DF235250103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,13606,0)/><13>FF0F02280BFF054974656DF235260103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,13607,0)/><13>FF0F02280BFF054974656DF235270103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,13608,0)/><13>FF0F02280BFF054974656DF235280103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,13602,0)/><13>FF0F02280BFF054974656DF235220103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,13604,0)/><13>FF0F02280BFF054974656DF235240103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,13603,0)/><13>FF0F02280BFF054974656DF235230103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,13609,0)/><13>FF0F02280BFF054974656DF235290103FF04EBA5BCFF04EC9D84</13> <Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>소지하거나 장비하고
+망자의 종소리에서 크리스티아나와 대화"
+25,"TEXT_JOBREL103_02214_TODO_01","<If(Equal(IntegerParameter(4),19))><Sheet(Item,13597,0)/><13>FF0F02280BFF054974656DF2351D0103FF04EC9980FF04EAB3BC</13> <Sheet(Item,13610,0)/><13>FF0F02280BFF054974656DF2352A0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,13598,0)/><13>FF0F02280BFF054974656DF2351E0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,13599,0)/><13>FF0F02280BFF054974656DF2351F0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,13600,0)/><13>FF0F02280BFF054974656DF235200103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,13601,0)/><13>FF0F02280BFF054974656DF235210103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,13605,0)/><13>FF0F02280BFF054974656DF235250103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,13606,0)/><13>FF0F02280BFF054974656DF235260103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,13607,0)/><13>FF0F02280BFF054974656DF235270103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,13608,0)/><13>FF0F02280BFF054974656DF235280103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,13602,0)/><13>FF0F02280BFF054974656DF235220103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,13604,0)/><13>FF0F02280BFF054974656DF235240103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,13603,0)/><13>FF0F02280BFF054974656DF235230103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,13609,0)/><13>FF0F02280BFF054974656DF235290103FF04EBA5BCFF04EC9D84</13> <Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>소지하고
+나선 발착장에서 게롤트에게 지정된 물품 전달"
+26,"TEXT_JOBREL103_02214_TODO_02",""
+27,"TEXT_JOBREL103_02214_TODO_03",""
+28,"TEXT_JOBREL103_02214_TODO_04",""
+29,"TEXT_JOBREL103_02214_TODO_05",""
+30,"TEXT_JOBREL103_02214_TODO_06",""
+31,"TEXT_JOBREL103_02214_TODO_07",""
+32,"TEXT_JOBREL103_02214_TODO_08",""
+33,"TEXT_JOBREL103_02214_TODO_09",""
+34,"TEXT_JOBREL103_02214_TODO_10",""
+35,"TEXT_JOBREL103_02214_TODO_11",""
+36,"TEXT_JOBREL103_02214_TODO_12",""
+37,"TEXT_JOBREL103_02214_TODO_13",""
+38,"TEXT_JOBREL103_02214_TODO_14",""
+39,"TEXT_JOBREL103_02214_TODO_15",""
+40,"TEXT_JOBREL103_02214_TODO_16",""
+41,"TEXT_JOBREL103_02214_TODO_17",""
+42,"TEXT_JOBREL103_02214_TODO_18",""
+43,"TEXT_JOBREL103_02214_TODO_19",""
+44,"TEXT_JOBREL103_02214_TODO_20",""
+45,"TEXT_JOBREL103_02214_TODO_21",""
+46,"TEXT_JOBREL103_02214_TODO_22",""
+47,"TEXT_JOBREL103_02214_TODO_23",""
+48,"TEXT_JOBREL103_02214_SYSTEM_100_000","퀘스트 '빛나는 아니마 웨폰'에서 획득할 수 있는 무기는
+현재 직업인 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 아니마 웨폰입니다.
+'빛나는 아니마 웨폰'을 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If><14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
+49,"TEXT_JOBREL103_02214_Q1_000_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰을 창조하시겠습니까?"
+50,"TEXT_JOBREL103_02214_A1_000_000","조금 더 고민해본다"
+51,"TEXT_JOBREL103_02214_A2_000_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰을 창조한다"
+52,"TEXT_JOBREL103_02214_SYSTEM_100_001","퀘스트 '빛나는 아니마 웨폰'을 수락하면
+퀘스트를 완료하거나 포기할 때까지
+다른 직업으로 '빛나는 아니마 웨폰'을 수락할 수 없습니다."
+53,"TEXT_JOBREL103_02214_SYSTEM_100_002","아니마 웨폰을 창조하고 싶은 직업으로 변경한 후
+다시 아르다시르에게 말을 거십시오."
+54,"TEXT_JOBREL103_02214_SYSTEM_100_003","<Sheet(Item,IntegerParameter(1),0)/> 및
+<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
+퀘스트 '빛나는 아니마 웨폰'을 수락할 수 없습니다."
+55,"TEXT_JOBREL103_02214_SYSTEM_100_004","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
+소지하거나 장비하지 않으면
+퀘스트 '빛나는 아니마 웨폰'을 수락할 수 없습니다."
+56,"TEXT_JOBREL103_02214_SYSTEM_100_005","이미 <Sheet(Item,IntegerParameter(1),0)/> 및
+<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
+다른 직업으로 변경한 후 다시 아르다시르에게 말을 거십시오."
+57,"TEXT_JOBREL103_02214_SYSTEM_100_006","이미 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
+다른 직업으로 변경한 후 다시 아르다시르에게 말을 거십시오."
+58,"TEXT_JOBREL103_02214_ARDASHIR_000_000","'인조 정령'은 <Highlight>ObjectParameter(1)</Highlight> 님과 함께 여행하며
+극적으로 성장했습니다.
+말을 한 것도 그 성과라고 할 수 있죠."
+59,"TEXT_JOBREL103_02214_ARDASHIR_000_001","하지만 성장이 너무 빠르면 부작용이 생길 수 있습니다…….
+'인조 정령'의 핵인 영혼석에도
+용량의 한계가 있을 테니까요……."
+60,"TEXT_JOBREL103_02214_GEROLT_000_002","그 말은, '인조 정령'이 이대로 계속 성장하면
+혼이 너무 커져서 영혼석이 깨질 거란 얘기냐?
+야, 꼬맹이. 당연히 해결책은 있겠지……?"
+61,"TEXT_JOBREL103_02214_ARDASHIR_000_003","……저를 뭘로 보시는 겁니까?
+이런 사례는 처음이지만, 영혼석을 보강해서
+전체 용량을 늘리면 될 겁니다……."
+62,"TEXT_JOBREL103_02214_ARDASHIR_000_004","물론 보강할 방법도 생각해두었죠.
+필요한 재료는 로웨나 님께 부탁해서 구할 거고요."
+63,"TEXT_JOBREL103_02214_GEROLT_000_005","호오…… 건방진 꼬맹이 주제에 일은 제법 하는군.
+……어험, 그럼 난……."
+64,"TEXT_JOBREL103_02214_ARDASHIR_000_006","주점에 가실 시간은 없습니다.
+게롤트 님은 무기를 새로 만드셔야 하니까요."
+65,"TEXT_JOBREL103_02214_GEROLT_000_007","아니, 내가 왜……!?
+'아니마 웨폰'을 '각성'급으로 강화한 지 얼마나 됐다고!"
+66,"TEXT_JOBREL103_02214_ARDASHIR_000_008","혼의 크기에 맞는 새로운 그릇이 필요합니다.
+사람도 성장할수록 몸이 커지잖아요?
+체격이 좋은 당신이 작은 옷을 입었다고 생각해보세요."
+67,"TEXT_JOBREL103_02214_GEROLT_000_009","쳇, 한도 끝도 없이 귀찮게 하는군.
+뭐, 이걸로 빚이 또 줄어든다고 생각하면야…….
+……그래서, 새로운 무기를 만들면 되는 거지?"
+68,"TEXT_JOBREL103_02214_GEROLT_000_010","<Highlight>ObjectParameter(1)</Highlight>, 너도 힘 좀 보태라.
+영혼석과 무기의 접합부에는
+에테르 전도율이 높은 재료를 써야 하는데, 마침 재고가 없어."
+69,"TEXT_JOBREL103_02214_GEROLT_000_011","<Sheet(Item,13577,0)/><13>FF0F02280BFF054974656DF235090103FF04EC9980FF04EAB3BC</13> <Sheet(Item,13578,0)/>……
+그리고 <Sheet(Item,13580,0)/><13>FF0F02280BFF054974656DF2350C0103FF04EC9980FF04EAB3BC</13> <Sheet(Item,13579,0)/>. 이렇게 4가지가 필요하다."
+70,"TEXT_JOBREL103_02214_GEROLT_000_012","로웨나의 부하 '크리스티아나'에게 가서 구해 와.
+늘 로웨나 기념회관 구석탱이에 있는 귀찮은 녀석이다.
+협상은 네가 알아서 하고."
+71,"TEXT_JOBREL103_02214_ARDASHIR_000_020","'인조 정령'은 <Highlight>ObjectParameter(1)</Highlight> 님과 함께 여행하며
+극적으로 성장했습니다.
+그에 따라 이번에도 영혼석을 보강해야 합니다."
+72,"TEXT_JOBREL103_02214_GEROLT_000_021","그럼 또 새 무기가 필요하겠군.
+<Highlight>ObjectParameter(1)</Highlight>…… 뭘 해야 하는지 알지?"
+73,"TEXT_JOBREL103_02214_GEROLT_000_022","<Sheet(Item,13577,0)/><13>FF0F02280BFF054974656DF235090103FF04EC9980FF04EAB3BC</13> <Sheet(Item,13578,0)/>……
+그리고 <Sheet(Item,13580,0)/><13>FF0F02280BFF054974656DF2350C0103FF04EC9980FF04EAB3BC</13> <Sheet(Item,13579,0)/>. 이렇게 4가지가 필요하다.
+후딱 가서 구해 와."
+74,"TEXT_JOBREL103_02214_GEROLT_000_023","항상 그렇듯이, 로웨나의 부하 '크리스티아나'가
+로웨나 기념회관 구석탱이에 있을 거다.
+협상은 네가 알아서 하고."
+75,"TEXT_JOBREL103_02214_CRISTIANA_100_030","구석은 어쩌면 이렇게 멋질까…… 구석…… 아아……
+헉, 모험가가 여긴 왜 왔죠!
+무슨 일이에요!? 감히 내 성역을 침범하다니……!"
+76,"TEXT_JOBREL103_02214_CRISTIANA_100_031","흐, 흐음…… 에테르 전도율이 높은 소재요?
+원하시는 물건을 제가 취급하긴 해요.
+물론 공짜로 드릴 수는 없죠!"
+77,"TEXT_JOBREL103_02214_CRISTIANA_100_032","이 창고에 있는 물건은 다 악성 재고지만
+저는 무조건 큰돈을 벌어야 해요……!
+자유와 성역을 얻기 위해서!"
+78,"TEXT_JOBREL103_02214_CRISTIANA_100_033","제, 제가 원하는 상품을 가져오세요!
+후딱 팔려서 목돈을 만질 수 있는 짭짤한 걸로요!
+그러면 당신이 원하는 걸 드리죠!"
+79,"TEXT_JOBREL103_02214_CRISTIANA_100_034","구석…… 구석이 최고…… 히히……
+헉, 또 왔어요!?
+무슨 일이에요!? 감히 내 성역을 침범하다니……!"
+80,"TEXT_JOBREL103_02214_CRISTIANA_100_035","……뭐, 뭐야. 저번이랑 같은 물건을 구한다고요?
+그럼 저도 같은 조건을 걸겠어요!
+제, 제가 원하는 상품을 가져오세요!"
+81,"TEXT_JOBREL103_02214_SYSTEM_100_034","크리스티아나가 원하는 아이템을 획득하려면
+인스턴스 던전, 야만족 퀘스트, 제작 등
+다양한 수단을 이용해야 합니다."
+82,"TEXT_JOBREL103_02214_SYSTEM_100_035","플레이어끼리 정보를 교환하면서
+아이템을 손에 넣을 방법을 찾아보세요."
+83,"TEXT_JOBREL103_02214_GEROLT_000_030","오, 내가 말한 물건은 가져왔냐?
+가져왔으면 빨리 내놔.
+'아니마 웨폰: 각성'이랑 같이!"
+84,"TEXT_JOBREL103_02214_GEROLT_000_031","망할 꼬맹이 녀석은 벌써 영혼석 보강을 마쳤다고.
+아까부터 빨리 하라고 재촉하는데, 시끄러워 죽겠어…….
+누군 빨리 안 끝내고 싶어서 이러나!"
+85,"TEXT_JOBREL103_02214_GEROLT_000_032","……야, 재료가 모자라잖아!"
+86,"TEXT_JOBREL103_02214_GEROLT_100_032","<Sheet(Item,13577,0)/><13>FF0F02280BFF054974656DF235090103FF04EC9980FF04EAB3BC</13> <Sheet(Item,13578,0)/>,
+그리고 <Sheet(Item,13580,0)/><13>FF0F02280BFF054974656DF2350C0103FF04EC9980FF04EAB3BC</13> <Sheet(Item,13579,0)/>까지 4가지가 필요하다.
+로웨나의 부하 '크리스티아나'에게 가서 구해 와!"
+87,"TEXT_JOBREL103_02214_GEROLT_000_033","……좋아, 필요한 건 다 있군!
+그럼 바로 시작한다!"
+88,"TEXT_JOBREL103_02214_GEROLT_000_040","헉, 헉, 헉…… 다 됐다…….
+'인조 정령'의 성장에 맞게 새로 태어난
+2세대 '아니마 웨폰'……!"
+89,"TEXT_JOBREL103_02214_GEROLT_000_041","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13223,0)/>……
+그리고 <Sheet(Item,13236,0)/><13>FF0F02280BFF054974656DF233B40103FF04EB8BA4FF07EC9DB4EB8BA4</13>!"
+90,"TEXT_JOBREL103_02214_GEROLT_000_042","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13224,0)/>!"
+91,"TEXT_JOBREL103_02214_GEROLT_100_043","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13225,0)/>!"
+92,"TEXT_JOBREL103_02214_GEROLT_100_044","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13226,0)/>!"
+93,"TEXT_JOBREL103_02214_GEROLT_100_045","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13227,0)/>!"
+94,"TEXT_JOBREL103_02214_GEROLT_100_046","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13231,0)/>!"
+95,"TEXT_JOBREL103_02214_GEROLT_100_047","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13232,0)/>!"
+96,"TEXT_JOBREL103_02214_GEROLT_100_048","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13233,0)/>!"
+97,"TEXT_JOBREL103_02214_GEROLT_100_049","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13234,0)/>!"
+98,"TEXT_JOBREL103_02214_GEROLT_100_050","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13228,0)/>!"
+99,"TEXT_JOBREL103_02214_GEROLT_100_051","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13229,0)/>!"
+100,"TEXT_JOBREL103_02214_GEROLT_100_052","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13230,0)/>!"
+101,"TEXT_JOBREL103_02214_GEROLT_100_053","네놈이 쓸 새로운 무기는 이거다!
+이름하여 <Sheet(Item,13235,0)/>!"
+102,"TEXT_JOBREL103_02214_BUKINOSEIREI_000_035","(-???-)……어…… 해냈어?"
+103,"TEXT_JOBREL103_02214_GEROLT_000_050","크큭…… 내가 봐도 정말 황홀한 걸작이군.
+내 실력도 아직 죽지 않았어!"
+104,"TEXT_JOBREL103_02214_ARDASHIR_000_051","처음엔 이런 주정뱅이가 뭘 하겠냐고 걱정했지만
+역시 명장의 솜씨는 어디 안 가는군요!"
+105,"TEXT_JOBREL103_02214_ARDASHIR_000_052","그리고 <Highlight>ObjectParameter(1)</Highlight> 님…….
+'인조 정령'이 이만큼 성장한 건 당신 덕분입니다.
+당신과 함께 일한 건 제 크나큰 행운이었어요!"
+106,"TEXT_JOBREL103_02214_GEROLT_000_053","……참나, 귀염성 없는 놈 같으니."
+107,"TEXT_JOBREL103_02214_ARDASHIR_100_054","저, 정말요……!?
+<Highlight>ObjectParameter(1)</Highlight> 님의 무기에서
+'인조 정령'이 나왔다고요!?"
+108,"TEXT_JOBREL103_02214_ARDASHIR_100_055","……심지어 우리 눈앞을 보란 듯이 떠다녔다고요!?
+우린 '인조 정령'의 모습은 코빼기도 안 보였는데……."
+109,"TEXT_JOBREL103_02214_ARDASHIR_100_057","이럴 수가…….
+<Highlight>ObjectParameter(1)</Highlight> 님은 보이고
+우리는 안 보이는 이유가 뭐지……?"
+110,"TEXT_JOBREL103_02214_GEROLT_100_059","허, 참…….
+귀염성 없는 망할 꼬맹이가 또 있었군."
+111,"TEXT_JOBREL103_02214_ARDASHIR_100_058","성장한 '인조 정령'을 볼 수 없어 아쉽지만
+연구를 계속하면 언젠가 제 눈에도 보이겠죠.
+앞으로도 열심히 하겠습니다!"
+112,"TEXT_JOBREL103_02214_ARDASHIR_000_054","……일찍이 옛 영웅들은
+'조디악 웨폰'이라 불리는
+전설의 무기를 소유했다고 합니다."
+113,"TEXT_JOBREL103_02214_ARDASHIR_000_055","이 '아니마 웨폰'은 당대의 영웅인 당신이 후세에 남길
+'새로운 전설'이 될지도 모르겠군요!"
+114,"TEXT_JOBREL103_02214_GEROLT_000_056","흥, 아주 신이 나셨구만…….
+그 무기…… '새로운 아니마 웨폰'은
+아직 더 강화할 여지가 한참 남았다."
+115,"TEXT_JOBREL103_02214_GEROLT_100_056","게다가…… '인조 정령'도 여기서 성장을 멈추진 않을 거 아냐?"
+116,"TEXT_JOBREL103_02214_ARDASHIR_000_057","다, 당연하죠……!
+저를 뭘로 보고 말씀하시는 겁니까!"
+117,"TEXT_JOBREL103_02214_ARDASHIR_000_058","앞으로 더 열심히 연구해서
+'인조 정령'을 성장시킬 방법을 반드시 알아낼 겁니다!"
+118,"TEXT_JOBREL103_02214_ARDASHIR_000_059","아, 참…… 제가 '인조 정령'의 창조자로서
+그간 진행했던 연구 성과를 일지에 정리해 두었습니다.
+<Highlight>ObjectParameter(1)</Highlight> 님도 궁금하시면 한번 읽어보세요."
+119,"TEXT_JOBREL103_02214_GEROL_000_060","……크크큭, 꼬맹이 녀석이 잘하는군.
+이대로 연구가 완성되면
+나도 빚을 다 털어버리고…… 자유의 몸이 될 수 있다!"
+120,"TEXT_JOBREL103_02214_ARDASHIR_000_070","<Highlight>ObjectParameter(1)</Highlight> 님!
+이번에도 무사히 '새로운 아니마 웨폰'을 완성했습니다!"
+121,"TEXT_JOBREL103_02214_ARDASHIR_100_071","오오!
+또 '인조 정령'의 모습을 보셨다고요!?"
+122,"TEXT_JOBREL103_02214_ARDASHIR_100_072","저는 이번에도 안 보였지만……
+그래도 언젠가는 볼 수 있을 거라 믿어요!"
+123,"TEXT_JOBREL103_02214_ARDASHIR_000_071","앞으로 더 열심히 연구해서
+'인조 정령'을 성장시킬 방법을 반드시 알아낼 겁니다!"
+124,"TEXT_JOBREL103_02214_SYSTEM_000_072","'아니마 웨폰: 각성'이 강화되어
+'새로운 아니마 웨폰'이 되었습니다!"
+125,"TEXT_JOBREL103_02214_ARDASHIR_100_056","（★未使用／削除予定★）"

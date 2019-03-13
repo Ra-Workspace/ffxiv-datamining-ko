@@ -1,0 +1,47 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGSEAPVPGARO_00384_Q1_000_000","무엇을 하시겠습니까?"
+1,"TEXT_REGSEAPVPGARO_00384_A1_000_001","명예 점수 거래(1)"
+2,"TEXT_REGSEAPVPGARO_00384_A1_000_002","명예 점수 거래(2)"
+3,"TEXT_REGSEAPVPGARO_00384_A1_000_003","칭호를 획득한다"
+4,"TEXT_REGSEAPVPGARO_00384_A1_000_004","칭호 획득 조건에 대해서"
+5,"TEXT_REGSEAPVPGARO_00384_A1_000_005","대화한다"
+6,"TEXT_REGSEAPVPGARO_00384_A1_000_006","취소"
+7,"TEXT_REGSEAPVPGARO_00384_HOUSHI_003_001","호오, 칭호를 원하느냐…….
+그렇다면 내가 널 평가해주지.
+네 무기와 방어구, 그리고 실력까지……."
+8,"TEXT_REGSEAPVPGARO_00384_SYSTEM_003_002","현재 착용한 무기와 방어구가
+특정 조건을 충족하는 경우
+새로운 칭호를 획득할 수 있습니다."
+9,"TEXT_REGSEAPVPGARO_00384_HOUSHI_003_003","너야말로 진정 '수호자'라 부를만한 존재로다!
+앞으로도 그 힘으로 수많은 사람의 생명을 지키거라!
+가라! 질풍처럼!"
+10,"TEXT_REGSEAPVPGARO_00384_HOUSHI_003_004","너는 이미 '<If(Equal(IntegerParameter(1),19))>황금늑대<Else/><If(Equal(IntegerParameter(1),20))>마계권투사<Else/><If(Equal(IntegerParameter(1),21))>칠흑<Else/><If(Equal(IntegerParameter(1),22))>백야<Else/><If(Equal(IntegerParameter(1),23))>마계궁사<Else/><If(Equal(IntegerParameter(1),24))>빛의 마계도사<Else/><If(Equal(IntegerParameter(1),25))>어둠의 마계법사<Else/><If(Equal(IntegerParameter(1),27))>호령의 마계법사<Else/><If(Equal(IntegerParameter(1),28))>술법의 마계도사<Else/><If(Equal(IntegerParameter(1),30))>은늑대<Else/><If(Equal(IntegerParameter(1),31))>마계사수<Else/><If(Equal(IntegerParameter(1),32))>암흑<Else/><If(Equal(IntegerParameter(1),33))>별의 마계도사<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>'의 칭호를 받았다.
+그 이름에 부끄럽지 않은 싸움을 내게 보여다오."
+11,"TEXT_REGSEAPVPGARO_00384_HOUSHI_003_005","그 무기와 복장, 그리고 힘……
+좋다, 너야말로 '<If(Equal(IntegerParameter(1),19))>황금늑대<Else/><If(Equal(IntegerParameter(1),20))>마계권투사<Else/><If(Equal(IntegerParameter(1),21))>칠흑<Else/><If(Equal(IntegerParameter(1),22))>백야<Else/><If(Equal(IntegerParameter(1),23))>마계궁사<Else/><If(Equal(IntegerParameter(1),24))>빛의 마계도사<Else/><If(Equal(IntegerParameter(1),25))>어둠의 마계법사<Else/><If(Equal(IntegerParameter(1),27))>호령의 마계법사<Else/><If(Equal(IntegerParameter(1),28))>술법의 마계도사<Else/><If(Equal(IntegerParameter(1),30))>은늑대<Else/><If(Equal(IntegerParameter(1),31))>마계사수<Else/><If(Equal(IntegerParameter(1),32))>암흑<Else/><If(Equal(IntegerParameter(1),33))>별의 마계도사<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>'의 칭호를 가질 자격이 있다!
+그 이름을 가슴에 새기고 나아가라! 질풍처럼!"
+12,"TEXT_REGSEAPVPGARO_00384_SYSTEM_003_006","획득한 칭호를 사용 중인 상태로 PvP 임무에 참가하여
+승리를 거듭하면 새로운 업적을 달성할 수 있습니다.
+꼭 한번 도전해보세요."
+13,"TEXT_REGSEAPVPGARO_00384_HOUSHI_003_007","그 무기와 복장, 그리고 힘……
+좋다, 너야말로 '<If(Equal(IntegerParameter(1),19))>황금늑대<Else/><If(Equal(IntegerParameter(1),20))>마계권투사<Else/><If(Equal(IntegerParameter(1),21))>칠흑<Else/><If(Equal(IntegerParameter(1),22))>백야<Else/><If(Equal(IntegerParameter(1),23))>마계궁사<Else/><If(Equal(IntegerParameter(1),24))>빛의 마계도사<Else/><If(Equal(IntegerParameter(1),25))>어둠의 마계법사<Else/><If(Equal(IntegerParameter(1),27))>호령의 마계법사<Else/><If(Equal(IntegerParameter(1),28))>술법의 마계도사<Else/><If(Equal(IntegerParameter(1),30))>은늑대<Else/><If(Equal(IntegerParameter(1),31))>마계사수<Else/><If(Equal(IntegerParameter(1),32))>암흑<Else/><If(Equal(IntegerParameter(1),33))>별의 마계도사<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>'의 칭호를 가질 자격이 있다!"
+14,"TEXT_REGSEAPVPGARO_00384_HOUSHI_003_008","바야흐로 너는 진정한 '수호자'가 되었다!
+앞으로도 그 힘으로 수많은 사람의 생명을 지키거라!
+가라! 질풍처럼!"
+15,"TEXT_REGSEAPVPGARO_00384_HOUSHI_003_009","……네게 지금 걸맞은 칭호는 없다.
+무기와 방어구를 다시 한번 잘 살펴보아라."
+16,"TEXT_REGSEAPVPGARO_00384_HOUSHI_004_001","내가 취급하는 무기와 방어구를 모두 갖추어
+장비하여 네 실력을 증명해라.
+그리하면 네게 맞는 칭호를 내려주마."
+17,"TEXT_REGSEAPVPGARO_00384_SYSTEM_004_002","검은 옷의 법사를 통해서 얻을 수 있는
+직업별 무기와 방어구를 모두 장비하고
+'칭호를 획득한다'를 선택하면 특별한 칭호를 얻을 수 있습니다."
+18,"TEXT_REGSEAPVPGARO_00384_HOUSHI_001_001","나는 '수호자'라 부를만한 강자를 찾아
+머나먼 땅에서 왔다."
+19,"TEXT_REGSEAPVPGARO_00384_HOUSHI_001_002","마를 처단하고 어둠을 베는 무기와 방어구를 가지고 말이지.
+네가 실력을 증명해 보이면 그에 걸맞은 물건을 주마."
+20,"TEXT_REGSEAPVPGARO_00384_SYSTEM_001_002","검은 옷의 법사에게 명예 점수를 지불하면
+강력한 장비를 손에 넣을 수 있습니다.
+꼭 한번 이용해보세요."

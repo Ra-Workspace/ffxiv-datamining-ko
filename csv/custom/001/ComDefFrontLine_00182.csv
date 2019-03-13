@@ -1,0 +1,128 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_000","<If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 님께 경례!"
+1,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_000","세 도시의 총사령부가 모두 나서서
+알라그 유적을 두고 쟁탈전을 벌이는 최전방 전투……
+'무법자의 전장'에 대해 궁금한 점이 있으십니까?"
+2,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_001","（★未使用／削除予定★）"
+3,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_002","（★未使用／削除予定★）"
+4,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_100_003","（★未使用／削除予定★）"
+5,"TEXT_COMDEFFRONTLINE_00182_Q1_000_000","무엇을 물어보시겠습니까?"
+6,"TEXT_COMDEFFRONTLINE_00182_A1_000_000","'무법자의 전장'이란?"
+7,"TEXT_COMDEFFRONTLINE_00182_A1_000_001","규칙에 대해서"
+8,"TEXT_COMDEFFRONTLINE_00182_A1_000_002","보상에 대해서"
+9,"TEXT_COMDEFFRONTLINE_00182_A1_000_003","취소"
+10,"TEXT_COMDEFFRONTLINE_00182_Q2_000_000","무엇을 물어보시겠습니까?"
+11,"TEXT_COMDEFFRONTLINE_00182_A2_000_000","편성에 대해서"
+12,"TEXT_COMDEFFRONTLINE_00182_A2_000_001","외곽 유적지대(제압전)"
+13,"TEXT_COMDEFFRONTLINE_00182_A2_100_002","봉인된 바위섬(쟁탈전)"
+14,"TEXT_COMDEFFRONTLINE_00182_A2_110_002","영광의 평원(쇄빙전)"
+15,"TEXT_COMDEFFRONTLINE_00182_A2_000_003","취소"
+16,"TEXT_COMDEFFRONTLINE_00182_A2_000_002","（★未使用／削除予定★）"
+17,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_010","'무법자의 전장'이란 3개 도시의 총사령부가
+알라그 유적을 놓고 대립 중인 분쟁 지대입니다.
+일단 이 구역에 들어가면 전투를 피할 수 없을 겁니다."
+18,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_011","'무법자의 전장'에서는 다수의 모험가들이
+총사령부별로 파티를 맺고 PvP 전투를 즐길 수 있습니다."
+19,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_012","'무법자의 전장'에 참가하려면
+임무 찾기의 'PvP' 범주에서 참가 신청을 해야 합니다."
+20,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_013",""
+21,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_050","여기서 승리하면 두둑한 보상이 주어질 것입니다!"
+22,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_051","'무법자의 전장'에서 전투에 참가하면
+보상으로 'PvP 경험치'와 '명예 점수'를 획득할 수 있습니다.
+승리 시에는 더 많은 보상을 얻습니다."
+23,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_100_051","또한 전투 종료 후 '경험치'와 '알라그 석판'을
+참가 보상으로 획득할 수 있습니다."
+24,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_020","'무법자의 전장'에서는
+같은 총사령부에 소속된 모험가들을 모아
+부대가 편성됩니다."
+25,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_021","각 총사령부마다 최대 3개 파티로 구성된 연합 파티가 형성되며
+세 총사령부 간에 전투가 벌어집니다."
+26,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_022","임무 찾기를 통해 참가를 신청할 수 있으며, 참가자는
+자신이 소속된 총사령부의 부대에 편성됩니다."
+27,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_030","최종 목표는 '고대 알라그 문명의 유적'을 장악하는 것으로,
+이를 위해 작전지역 중 하나인 '카르테노 평원'의
+'외곽 유적지대'를 우선 확보해야 합니다."
+28,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_031","'카르테노 평원'에서는 거점을 점령하거나
+적 부대원을 처치할 때마다
+'전술 점수'를 획득할 수 있습니다."
+29,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_032","획득한 '전술 점수'는 각자 소속된 부대에 가산되며,
+이것이 누적되어 일정 수치에 먼저 도달하면
+전투에 승리하게 됩니다."
+30,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_033","제한시간 내에 결판이 나지 않았을 경우에는
+획득한 '전술 점수'가 많은 순서대로
+1위에서 3위까지 순위가 매겨집니다."
+31,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_034","정세가 불안정한 '카르테노 평원'을 장악하려면
+곳곳에 흩어져있는 거점을 확보하는 게 가장 중요합니다."
+32,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_035","'외곽 유적지대(제압전)'에서는 여러 개의 '거점'이 존재하며,
+거점 내에 있는 '깃발' 주위에 일정 시간 머무르면
+거점을 '점령'할 수 있습니다."
+33,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_036","점령하는 데 걸리는 시간은 깃발 주위에 있는
+아군과 적군의 인원수 차이에 따라 변하며,
+거점을 점령한 부대는 지속적으로 전술 점수를 얻습니다."
+34,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_037","거점을 많이 점령할수록
+보다 많은 '전술 점수'를 획득할 수 있습니다."
+35,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_038","거점은 이미 점령된 후에도 다른 세력의 부대가
+다시 '중립화'하거나 탈취할 수 있습니다.
+적 부대에 거점을 점령당하더라도 포기하지 말고 싸웁시다!"
+36,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_040","（★未使用／削除予定★）"
+37,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_041","（★未使用／削除予定★）"
+38,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_041","（★未使用／削除予定★）"
+39,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_042","（★未使用／削除予定★）"
+40,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_043","（★未使用／削除予定★）"
+41,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_044","（★未使用／削除予定★）"
+42,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_045","（★未使用／削除予定★）"
+43,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_300_001","바일브랜드 섬 인근에 있는 멜토르 해협에서
+'카르테노 평원'처럼 '고대 알라그 문명의 유적'이 잠든
+새로운 무인도가 발견되었습니다."
+44,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_300_002","그곳은 '봉인된 바위섬'이라고 불리며,
+림사 로민사에서는 '움직이는 섬'으로도 알려져 있습니다.
+조사 결과, 이 섬은 '고대 알라그의 인공섬'으로 밝혀졌습니다."
+45,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_300_003","알라그 문명이 멸망한 후 5천 년 동안 흙이 퇴적된 결과
+평범한 섬처럼 보이게 된 것이지요."
+46,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_300_004","아마도 제7재해 당시 일부 지층이 박리되어
+인공섬의 일부가 노출된 것으로 여겨집니다."
+47,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_300_005","우리는 이 노출된 부분을 '알라그 석탑'이라 명명하고
+카르테노 평원에 있는 '외곽 유적지대'와 마찬가지로
+우리 총사령부가 장악할 목표물로 지정하였습니다."
+48,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_300_006","단, 이 목표물은 너무나 거대해서 쉽게 운반할 수 없습니다.
+따라서 이 섬에서는 '알라그 석탑'에 있는
+고대 알라그의 '정보'를 회수하는 것이 작전 목표입니다."
+49,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_300_010","'봉인된 바위섬'에서는, 섬 곳곳에 존재하는
+'알라그 석탑'을 점령하여 '정보'를 얻음으로써
+'정보 점수'를 획득할 수 있습니다."
+50,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_300_011","'알라그 석탑'에서 얻을 수 있는 '정보'는 한정되어 있으며,
+'정보'를 모두 회수한 경우
+해당하는 '알라그 석탑'은 기능이 정지됩니다."
+51,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_300_012","또 '알라그 석탑'에는 등급이 매겨져 있습니다.
+등급이 높을수록 획득 가능한 '정보'의 총량과
+시간당 획득하는 '정보'의 양이 많아집니다."
+52,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_300_013","획득한 '정보 점수'는 각자 소속된 부대에 가산되며,
+이것이 누적되어 일정 수치에 먼저 도달하면
+전투에 승리하게 됩니다."
+53,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_300_014","제한시간 내에 결판이 나지 않았을 경우에는
+획득한 '정보 점수'가 많은 순서대로
+1위에서 3위까지 순위가 매겨집니다."
+54,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_330_001","커르다스 동부저지 '영광의 평원'에서
+새로운 '고대 알라그 문명의 유적'이 발견되었습니다.
+얼어붙은 유물을 어떻게 다룰지에 따라 승패가 갈릴 것입니다."
+55,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_010","'영광의 평원'은 '봉인된 바위섬'과 마찬가지로
+획득한 '정보 점수'가 일정 수치에 먼저 도달한 세력이
+전투에 승리하게 됩니다."
+56,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_011","'영광의 평원'에서는
+지역 내에 흩어져있는 '알라그 석탑'을 점령하거나
+'얼음탑'을 파괴하여 '정보 점수'를 획득할 수 있습니다."
+57,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_012","'알라그 석탑' 주변에 일정 시간 머물면
+해당 석탑을 점령할 수 있으며,
+그 상태로 시간이 경과하면 '정보 점수'를 얻습니다."
+58,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_013","점령하는 데 걸리는 시간은 '알라그 석탑' 주위에 있는
+아군과 적군의 인원수 차이에 따라 변동합니다."
+59,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_014","한편, '얼음탑'은 작동 시에 열기가 발생하여 녹기 시작하므로
+작동된 후에 공격하면 파괴할 수 있습니다.
+파괴 시 각 세력이 준 피해량에 따라 '정보 점수'가 분배됩니다."
+60,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_015","'얼음탑'은 소형 및 대형 두 종류가 있으며
+내구력과 획득 가능한 최대 정보 점수량에 차이가 있습니다."
+61,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_330_016","제한시간 내에 승부가 나지 않았을 경우에는
+획득한 정보 점수 순으로
+1위에서 3위까지 순위가 매겨집니다."

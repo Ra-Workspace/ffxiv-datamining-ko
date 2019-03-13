@@ -1,0 +1,9 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_000","여러분의 모험에 도움을 드리고자
+각지의 날씨 변화를 조사하고 있습니다.
+그럼 현재 날씨와 예상 날씨를 알려드리겠습니다."
+1,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_050","<Sheet(WeatherPlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>의 현재 날씨는 '<Sheet(Weather,IntegerParameter(2),1)/>'입니다.
+이 시간 이후로 <If(Equal(IntegerParameter(3),IntegerParameter(4)))>한동안 <Sheet(Weather,IntegerParameter(3),3)/><Else/><Sheet(Weather,IntegerParameter(3),4)/> <Sheet(Weather,IntegerParameter(4),5)/></If>
+내일 이 시간에는 <Sheet(Weather,IntegerParameter(5),2)/>."

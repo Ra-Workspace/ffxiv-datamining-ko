@@ -1,0 +1,286 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANNAM005_03101_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+도로 일로에 있는 교신은 새로운 제전을 열고 싶은 모양이다."
+1,"TEXT_BANNAM005_03101_SEQ_01","교신과 대화했다. 또다시 광풍원 세이게츠의 제안으로 다음에는 별난 제전을 열기로 했다. 별난 제전에 대한 지식을 얻기 위해 저지 드라바니아에 있는 마토야의 동굴 <Sheet(EObj,2009488,0)/>에서 '<Sheet(EventItem,2002474,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E2A0103FF04EBA5BCFF04EC9D84</13> 사용해 교신을 밖으로 꺼내자."
+2,"TEXT_BANNAM005_03101_SEQ_02","<Sheet(EObj,2009488,0)/>에서 '<Sheet(EventItem,2002474,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E2A0103FF04EBA5BCFF04EC9D84</13> 사용해 교신을 밖으로 꺼냈다. 마토야에게 별난 제전에 대한 지식이 정리되어 있는 책을 받았다. 도로 일로의 <Sheet(EObj,2009488,0)/>에서 '<Sheet(EventItem,2002474,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E2A0103FF04EBA5BCFF04EC9D84</13> 사용해 교신을 밖으로 꺼내자."
+3,"TEXT_BANNAM005_03101_SEQ_03"," <Sheet(EObj,2009488,0)/>에서 '<Sheet(EventItem,2002474,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E2A0103FF04EBA5BCFF04EC9D84</13> 사용해 교신을 밖으로 꺼냈다. 책을 두고 광풍원 세이게츠와 옥신각신하던 차에 불구덩이 속으로 책이 빠질 뻔했으나 교신이 몸을 던져 책을 지켜냈다. 그 기세를 몰아 교신은 '위커맨'이라는 별난 제전을 치르겠다고 단언한다. 도로 일로에 있는 '교신'과 대화하자. "
+4,"TEXT_BANNAM005_03101_SEQ_04","교신과 대화했다. 별난 제전 '위커맨'을 개최하기 위해 교신에게 부탁받은 것을 준비해 도로 일로에 있는 '교레이'에게 납품하자."
+5,"TEXT_BANNAM005_03101_SEQ_05","교신에게 부탁받은 것을 준비하여 도로 일로에 있는 '교레이'에게 건넸다. 이로써 도로 일로에서 거대 나마즈오 인형이 완성되어 별난 제전이 시작되었다."
+6,"TEXT_BANNAM005_03101_SEQ_06",""
+7,"TEXT_BANNAM005_03101_SEQ_07",""
+8,"TEXT_BANNAM005_03101_SEQ_08",""
+9,"TEXT_BANNAM005_03101_SEQ_09",""
+10,"TEXT_BANNAM005_03101_SEQ_10",""
+11,"TEXT_BANNAM005_03101_SEQ_11",""
+12,"TEXT_BANNAM005_03101_SEQ_12",""
+13,"TEXT_BANNAM005_03101_SEQ_13",""
+14,"TEXT_BANNAM005_03101_SEQ_14",""
+15,"TEXT_BANNAM005_03101_SEQ_15",""
+16,"TEXT_BANNAM005_03101_SEQ_16",""
+17,"TEXT_BANNAM005_03101_SEQ_17",""
+18,"TEXT_BANNAM005_03101_SEQ_18",""
+19,"TEXT_BANNAM005_03101_SEQ_19",""
+20,"TEXT_BANNAM005_03101_SEQ_20",""
+21,"TEXT_BANNAM005_03101_SEQ_21",""
+22,"TEXT_BANNAM005_03101_SEQ_22",""
+23,"TEXT_BANNAM005_03101_SEQ_23",""
+24,"TEXT_BANNAM005_03101_TODO_00","저지 드라바니아에 있는 마토야 동굴의 <Sheet(EObj,2009488,0)/>에서
+ <Sheet(EventItem,2002474,0)/> 사용"
+25,"TEXT_BANNAM005_03101_TODO_01","도로 일로에 있는 <Sheet(EObj,2009488,0)/>에서 <Sheet(EventItem,2002474,0)/> 사용"
+26,"TEXT_BANNAM005_03101_TODO_02","교신과 대화"
+27,"TEXT_BANNAM005_03101_TODO_03","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>몰 일로 동쪽의 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>몰 일로 동쪽의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>넴 칼에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+28,"TEXT_BANNAM005_03101_TODO_04",""
+29,"TEXT_BANNAM005_03101_TODO_05",""
+30,"TEXT_BANNAM005_03101_TODO_06",""
+31,"TEXT_BANNAM005_03101_TODO_07",""
+32,"TEXT_BANNAM005_03101_TODO_08",""
+33,"TEXT_BANNAM005_03101_TODO_09",""
+34,"TEXT_BANNAM005_03101_TODO_10",""
+35,"TEXT_BANNAM005_03101_TODO_11",""
+36,"TEXT_BANNAM005_03101_TODO_12",""
+37,"TEXT_BANNAM005_03101_TODO_13",""
+38,"TEXT_BANNAM005_03101_TODO_14",""
+39,"TEXT_BANNAM005_03101_TODO_15",""
+40,"TEXT_BANNAM005_03101_TODO_16",""
+41,"TEXT_BANNAM005_03101_TODO_17",""
+42,"TEXT_BANNAM005_03101_TODO_18",""
+43,"TEXT_BANNAM005_03101_TODO_19",""
+44,"TEXT_BANNAM005_03101_TODO_20",""
+45,"TEXT_BANNAM005_03101_TODO_21",""
+46,"TEXT_BANNAM005_03101_TODO_22",""
+47,"TEXT_BANNAM005_03101_TODO_23",""
+48,"TEXT_BANNAM005_03101_GYOSHIN_000_001","유목민풍 제전은 아주 반응이 좋담메!
+하지만 슬슬 다음 제전을 열까 한담메.
+모두 불러올 테니 기다리람메!"
+49,"TEXT_BANNAM005_03101_GYOSHIN_000_002","오늘 모이라고 한 건 다름 아니람메.
+모두에게 의논하고 싶은 일이…………"
+50,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_003","어차피 또 꿈에서 계시가 있었네 마네 하는 얘기겠지?
+교신 군…… 귀군, 설마 이상한 버섯이라도
+먹은 건 아니겠지?"
+51,"TEXT_BANNAM005_03101_GYOSHIN_000_004","……그, 그런 의심을 하다니 너무하담메!
+하지만 조상님 꿈을 계속 꾸는 건 사실이람메……."
+52,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_005","뭐, 아무래도 좋다.
+내 목적은 큰메기 대제전으로 모든 나마즈오를 문명화하는 것뿐이니.
+아무튼, 다음 제전에 대해서는 이미 검토해 두었다."
+53,"TEXT_BANNAM005_03101_GYOSHIN_000_006","역시, 광풍원 세이게……
+가만, 이 상황은 어쩐지 안 좋은 예감이 든담메."
+54,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_007","잘 들어. 문화란 하루하루 변해가는 것이다.
+독자적인 문화가 급격히 진화하면 여느 사람은 짐작도 못하는
+기묘한 형태로 변모하는 경우도 있다……."
+55,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_008","그것이 제전에서 일어나면 어떻게 되느냐…….
+'별난 제전'이라 부를 만한 것이 나온다!"
+56,"TEXT_BANNAM005_03101_GYOSHIN_000_009","벼, 별난 제전…… 말은 거창한 것 같은데
+도대체 어떻게 하면 되는 건감메!?"
+57,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_010","전혀 알려진 게 없다……!
+신성한 의식일수록 비밀에 부치는 경우가 많은 법이다."
+58,"TEXT_BANNAM005_03101_GYOSHIN_000_011","……교훙은 도움이 안 된다는 사실을 깜박 잊고 있었담메.
+자, 오늘은 해산하잠메~.
+<If(PlayerParameter(4))>누님<Else/>형님</If>도 수고했담메."
+59,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_012","자, 잠깐 기다려!
+나에게도 내 나름의 생각이란 게 있단 말이다!
+알려진 게 없다면 조사하면 되지 않나!"
+60,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_013","에오르제아 문물에 대해 기록된 '서학기'에 의하면
+샬레이안이라는 곳에 지혜를 추구하는 자들이 있다고 한다.
+그들의 도움을 받아, 알려지지 않은 별난 제전에 대한 지식을 얻는 거다!"
+61,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_014","귀군은 샬레이안 사람 중 아는 사람이 있는가?
+가능하다면 의식이나 마법에 정통한 고령의 현자라면 좋겠는데……."
+62,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_015","저지 드라바니아에 은둔하는 마토야 어르신이라고……?
+훌륭해, 꼭 그분께 배웠으면 좋겠군!"
+63,"TEXT_BANNAM005_03101_GYOSHIN_000_016","교훙보다 훨씬 믿음직스러운 분이구남메.
+좋담메, 난 마음먹었담메!
+에오르제아로 가서 별난 제전을 배우고 오겠담메!"
+64,"TEXT_BANNAM005_03101_GYOSHIN_000_017","……미안하지만 <If(PlayerParameter(4))>누님<Else/>형님</If>,
+이번에도 짐보따리에 넣어줄 수 없을깜메?
+'마토야'님이 계신 곳까지 데려다주면 좋겠담메!"
+65,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_020","（★未使用／削除予定★）"
+66,"TEXT_BANNAM005_03101_GYOREI_000_025","교신을 잘 부탁햄메."
+67,"TEXT_BANNAM005_03101_MATOYA_000_030","뭐냐, 그 무거워 보이는 짐보따리는……."
+68,"TEXT_BANNAM005_03101_GYOSHIN_000_040","메메메…… 드디어 도착했남메?"
+69,"TEXT_BANNAM005_03101_GYOSHIN_000_041","이런 이런, 안녕하심메 마토야 님…….
+반들반들하고 눅눅해 보이는 살갗을 보니
+엄청 친근감을 느낀담메!"
+70,"TEXT_BANNAM005_03101_MATOYA_000_042","흥…… 쭈글쭈글하고 건조한 피부라 미안하구나."
+71,"TEXT_BANNAM005_03101_GYOSHIN_000_043","서, 서, 서, 설마……
+이쪽 분이 마토야 님이심메……?"
+72,"TEXT_BANNAM005_03101_GYOSHIN_000_044","미안하담메~!
+내가 그만 착각하고 말았담메~!"
+73,"TEXT_BANNAM005_03101_MATOYA_000_045","정말 소란스러운 메기를 데려왔구나.
+이건 대체 뭐 하자는 짓이냐?"
+74,"TEXT_BANNAM005_03101_MATOYA_000_046","별난 제전……이라고?
+그래, 세상에는 별난 제전이 있다마다."
+75,"TEXT_BANNAM005_03101_MATOYA_000_047","가파른 비탈에서 치즈를 굴리며 서로 쟁탈한다든가
+새색시를 쿡쿡 찌르며 애를 점지해달라 비는 등,
+그저 기이할 뿐인 제전이라면 얼마든지 찾을 수 있다."
+76,"TEXT_BANNAM005_03101_MATOYA_000_048","하지만, 멸망할 운명을 막아낼 만한
+주술적인 힘을 원하는 거라면, 어설픈 의식으로는 한참 모자라."
+77,"TEXT_BANNAM005_03101_MATOYA_000_049","너무나 사악한 나머지 금지되어
+역사의 어둠 속에 매장된 암흑의 의식……
+금단의 제전을 부활시킬 수밖에 없을 게다."
+78,"TEXT_BANNAM005_03101_GYOSHIN_000_050","사악…… 어둠…… 암흑…… 금단……
+도대체 얼마나 내 마음을 자극해야 직성이 풀리시남메!"
+79,"TEXT_BANNAM005_03101_MATOYA_000_051","여기까지 듣고도 물러서지 않는 걸 보니
+이미 단단히 각오가 된 모양이구나."
+80,"TEXT_BANNAM005_03101_GYOSHIN_000_052","물론이담메!
+일족을 멸망에서 구해내고야 말 테담메!"
+81,"TEXT_BANNAM005_03101_MATOYA_000_053","메기치고는 기개가 있구나."
+82,"TEXT_BANNAM005_03101_MATOYA_000_054","그럼, 금단의 제전에 대해
+메기라도 쉽게 이해할 수 있도록 정리해줄 테니…….
+차라도 한잔하면서 잠시 기다리려무나."
+83,"TEXT_BANNAM005_03101_MATOYA_000_055","자…… 다 됐다.
+이걸 갖고 가거라."
+84,"TEXT_BANNAM005_03101_GYOSHIN_000_056","딸꾹…… 으히~
+고오맙담메에에에에~♪"
+85,"TEXT_BANNAM005_03101_MATOYA_000_057","뭐냐, 차를 마시고 취해 버린 거냐?
+이런 한심한 메기 같으니라고."
+86,"TEXT_BANNAM005_03101_MATOYA_000_058","너, 그 고주망태 메기를
+짐보따리에라도 넣어서 데리고 가거라."
+87,"TEXT_BANNAM005_03101_MATOYA_000_060","메기와 함께 제전을 열겠다고 법석을 떨다니…….
+아니, 그 정도가 딱 좋을 수도 있겠구나.
+야만신이다 용이다, 목숨을 건 싸움을 강요받는 것보다는 건전하니."
+88,"TEXT_BANNAM005_03101_GYOREI_000_070","어서 오람메!
+그런데 교신이 안 보이는데
+어디 있엄메?"
+89,"TEXT_BANNAM005_03101_GYOSHIN_000_071","으메메메메메…….
+차를 마시고 취한 데다, 좁은 보따리 속에서 흔들리는 바람에
+이것저것 나오면 안 되는 것들이 나오고 말았담메."
+90,"TEXT_BANNAM005_03101_GYOSHIN_000_072","그, 그건 그렇고……
+마토야 님이 금단의 별난 제전에 대해
+정리해 주셨담메!"
+91,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_073","호오, 지식의 도시 샬레이안의 은자가 직접 기록한 책이라니!
+당장 읽게 해다오!"
+92,"TEXT_BANNAM005_03101_GYOSHIN_000_074","정말 굉장한 지식이담메.
+별난 제전이 잔뜩 기록되어 있어서
+어떤 걸로 할지 고민된담메!"
+93,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_075","에잇, 나도…… 나도 빨리 읽고 싶다!"
+94,"TEXT_BANNAM005_03101_GYOSHIN_000_076","잠깐만 기다리람메.
+이 제전도…… 아니, 이것도 괜찮곰메…….
+하지만 이것도 매력적이담메…………"
+95,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_077","이리 내놔……!
+그 책을 나한테 넘겨람메에에에에에!"
+96,"TEXT_BANNAM005_03101_GYOSHIN_000_078","으메메!?
+지, 진정하람메……!"
+97,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_079","휴우……."
+98,"TEXT_BANNAM005_03101_GYOSHIN_000_080","교교교교교교교교교교교교!!!"
+99,"TEXT_BANNAM005_03101_GYOREI_000_081","괘, 괜찮암메?"
+100,"TEXT_BANNAM005_03101_GYOSHIN_000_082","메메…… 메메…… 메……."
+101,"TEXT_BANNAM005_03101_GYOSHIN_000_083","감이 왔담메!
+이거, 이거, 이걸로 정했담메!"
+102,"TEXT_BANNAM005_03101_GYOSHIN_000_084","별난 제전 '위커맨'……
+거대한 인형을 감옥 삼아 가축이나 인간을 가두고
+살아 있는 채로 태워 죽이는 제물 의식이담메!"
+103,"TEXT_BANNAM005_03101_GYOSHIN_000_085","나마즈오가 직면한 멸망의 운명을 피하려면
+이거밖에…… 이거밖에 없담메!"
+104,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_086","교신의 마음에 뭔가 심상치 않은 불이 붙어버린 것 같다.
+지, 지금은 하자는 대로 하는 게 좋겠군……."
+105,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_090","（★未使用／削除予定★）"
+106,"TEXT_BANNAM005_03101_GYOREI_000_095","（★未使用／削除予定★）"
+107,"TEXT_BANNAM005_03101_GYOSHIN_000_100","제물을 넣을 거대한 나마즈오 인형이 필요하담메…….
+제작을 도와주면 좋겠담메…….
+거절은 거절한담메!"
+108,"TEXT_BANNAM005_03101_GYOSHIN_000_101","<If(PlayerParameter(4))>누님<Else/>형님</If>은 천막 옆에 있는 상자에서 재료를 꺼내
+'<Sheet(ItemHQ,22724,0)/>'<13>FF1102280DFF074974656D4851F258C40103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 금속 자물쇠를 만들어줘람메!
+만약 재료가 부족해지거든 상자를 살펴보람메!"
+109,"TEXT_BANNAM005_03101_GYOSHIN_000_102","<If(PlayerParameter(4))>누님<Else/>형님</If>은 천막 옆에 있는 상자에서 재료를 꺼내
+'<Sheet(ItemHQ,22724,0)/>'<13>FF1102280DFF074974656D4851F258C40103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 종이 부품을 만들어줘람메!
+만약 재료가 부족해지거든 상자를 살펴보람메!"
+110,"TEXT_BANNAM005_03101_GYOSHIN_000_103","<If(PlayerParameter(4))>누님<Else/>형님</If>은 천막 옆에 있는 상자에서 재료를 꺼내
+'<Sheet(ItemHQ,22724,0)/>'<13>FF1102280DFF074974656D4851F258C40103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 고품질 연료를 만들어줘람메!
+만약 재료가 부족해지거든 상자를 살펴보람메!"
+111,"TEXT_BANNAM005_03101_GYOSHIN_000_104","<If(PlayerParameter(4))>누님<Else/>형님</If>은
+인형 받침대에 사용할 '<Sheet(ItemHQ,22620,0)/>'<13>FF1102280DFF074974656D4851F2585C0103FF04EBA5BCFF04EC9D84</13> 모아달람메.
+몰 일로 동쪽 일대에서 구할 수 있을 거담메!"
+112,"TEXT_BANNAM005_03101_GYOSHIN_000_105","<If(PlayerParameter(4))>누님<Else/>형님</If>은
+인형 만드는 데 쓸 '<Sheet(ItemHQ,22646,0)/>'<13>FF1102280DFF074974656D4851F258760103FF04EBA5BCFF04EC9D84</13> 모아달람메.
+몰 일로 동쪽 일대에서 구할 수 있을 거담메!"
+113,"TEXT_BANNAM005_03101_GYOSHIN_000_106","<If(PlayerParameter(4))>누님<Else/>형님</If>은
+공물로 불태울 '<Sheet(Item,22672,0)/>'<13>FF0F02280BFF054974656DF258900103FF04EBA5BCFF04EC9D84</13> 모아달람메.
+'<Sheet(Item,20613,0)/>'<13>FF0F02280BFF054974656DF250850103FF04EBA5BCFF04EC9D84</13> 사용하면 '넴 칼'에서 잡을 수 있담메!"
+114,"TEXT_BANNAM005_03101_GYOSHIN_000_107","부탁한 물건은 교레이에게 갖다줘람메.
+준비가 끝나면 단숨에 조립하겠담메!"
+115,"TEXT_BANNAM005_03101_GYOSHIN_000_108","<If(PlayerParameter(4))>누님<Else/>형님</If>, 재료가 부족해졌남메?
+그렇다면 천막 옆에 있는 상자에서 필요한 만큼 꺼내람메!"
+116,"TEXT_BANNAM005_03101_GYOSHIN_100_108","<If(PlayerParameter(4))>누님<Else/>형님</If>, 재료가 부족해졌남메?
+그렇다면 천막 옆에 있는 상자에서 필요한 만큼 꺼내람메!"
+117,"TEXT_BANNAM005_03101_GYOSHIN_110_108","<If(PlayerParameter(4))>누님<Else/>형님</If>, 재료가 부족해졌남메?
+그렇다면 천막 옆에 있는 상자에서 필요한 만큼 꺼내람메!"
+118,"TEXT_BANNAM005_03101_GYOSHIN_200_108","부탁한 물건은 교레이에게 갖다줘람메.
+준비가 끝나면 단숨에 조립하겠담메!"
+119,"TEXT_BANNAM005_03101_GYOSHIN_210_108","부탁한 물건은 교레이에게 갖다줘람메.
+준비가 끝나면 단숨에 조립하겠담메!"
+120,"TEXT_BANNAM005_03101_GYOSHIN_220_108","부탁한 물건은 교레이에게 갖다줘람메.
+준비가 끝나면 단숨에 조립하겠담메!"
+121,"TEXT_BANNAM005_03101_SYSTEM_000_109","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+122,"TEXT_BANNAM005_03101_SYSTEM_100_109","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+123,"TEXT_BANNAM005_03101_SYSTEM_110_109","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+124,"TEXT_BANNAM005_03101_SYSTEM_120_109","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+125,"TEXT_BANNAM005_03101_SYSTEM_000_110","상자에서 필요한 재료를 꺼냈다!"
+126,"TEXT_BANNAM005_03101_SYSTEM_100_110","상자에서 필요한 재료를 꺼냈다!"
+127,"TEXT_BANNAM005_03101_SYSTEM_110_110","상자에서 필요한 재료를 꺼냈다!"
+128,"TEXT_BANNAM005_03101_GYOSHIN_000_111","부탁한 물건은 교레이에게 갖다줘람메.
+준비가 끝나면 단숨에 조립하겠담메!"
+129,"TEXT_BANNAM005_03101_GYOREI_000_112","여기에 '위커맨'을 건설할 예정임메.
+그나저나 제물 의식은…… 진짜로 하는 거얌메? "
+130,"TEXT_BANNAM005_03101_GYOREI_000_120","여기에 '위커맨'을 건설할 예정임메.
+교신이 부탁한 물건은 준비됐엄메?"
+131,"TEXT_BANNAM005_03101_GYOREI_000_121","고마웜메!
+그럼, 다른 부품을 준비 중인 교신네랑
+최종 조립 작업에 들어갈겜메!"
+132,"TEXT_BANNAM005_03101_GYOSHIN_000_122","와, 완성이담메!
+너무나 근사한 나마즈오 인형이담메……
+내가 만들었지만 너무 황홀하담메!"
+133,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_123","그런데 교신 군!
+가장 중요한 걸 잊은 것 같은데?"
+134,"TEXT_BANNAM005_03101_GYOSHIN_000_124","…………?"
+135,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_125","제물 말이다, 제물…….
+마토야 어르신의 책에 따르면, 별난 제전 '위커맨'에서는
+가축이나 사람을 산 채로 넣어 태워 죽인다고 적혀 있었을 텐데?"
+136,"TEXT_BANNAM005_03101_GYOSHIN_000_126","그럼 광풍원 세이게츠, 부탁한담메!"
+137,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_127","부탁은 무슨 부탁!
+이럴 땐 제작자가 솔선해서 지느러미를 들어야지!"
+138,"TEXT_BANNAM005_03101_GYOSHIN_000_128","제작자라면, 중요한 부재를 뚝딱 만들어준
+<If(PlayerParameter(4))>누님<Else/>형님</If>도 손을 드는 게 마땅하담메!"
+139,"TEXT_BANNAM005_03101_GYOREI_000_129","아무도 들어갈 필요 없엄메.
+재봉에 자신 있는 내가 지느러미 솜씨를 최대한 발휘해
+제물 대신 쓸 인형을 만들어 두었거듬메."
+140,"TEXT_BANNAM005_03101_GYOREI_000_130","마토야 님의 책에는 암흑의 의식에
+인형을 대신 사용하는 방법도 적혀 있었엄메.
+그걸 참고해서 만들었으니 괜찮암메!"
+141,"TEXT_BANNAM005_03101_GYOSHIN_000_131","여, 역시, 교레이담메!"
+142,"TEXT_BANNAM005_03101_GYOSHIN_000_132","그럼, 인형을 대신 넣어서 불을 붙이잠메~♪"
+143,"TEXT_BANNAM005_03101_SYSTEM_000_133","7년 후, 빚더미에 앉은 나마즈오들은
+악덕 간장 장수, 카게야마의 노예가 되어
+쉴 틈 없이 혹사당하다 사멸할 운명이었다."
+144,"TEXT_BANNAM005_03101_SYSTEM_000_134","하지만 7년에 걸쳐 거대 나마즈오 인형에 불을 지핀 결과,
+보기 드문 별난 제전으로 유명해져 막대한 관광 수입을 획득하고
+일족 모두 노예가 될 위기를 피하게 된다."
+145,"TEXT_BANNAM005_03101_SYSTEM_000_135","멸종될 운명이 바뀌기 시작했다.
+7년 후 일어날 비극은, 이리하여 아무도 모르게 비껴간 것이다!
+앞으로도 제전이 계속되는 한 나마즈오족의 미래는 밝다!"
+146,"TEXT_BANNAM005_03101_KOFUINSEIGETSU_000_136","훗…… 도대체 이 별난 제전에 무슨 의미가 있는지 모르겠군…….
+하지만 그게 문명이라는 거다……. 그렇지?"
+147,"TEXT_BANNAM005_03101_SYSTEM_000_137","'큰메기 대제전 실행위원회'와의 우호 관계가
+'서약'으로 바뀌었습니다.
+금단의 별난 제전에 힘을 보태어 신뢰를 얻은 것 같습니다."
+148,"TEXT_BANNAM005_03101_SYSTEM_100_137","앞으로 도로 일로에 있는 '광풍원 세이게츠'에게
+새로운 '야만족 일일 퀘스트'를 받을 수 있습니다."
+149,"TEXT_BANNAM005_03101_SYSTEM_110_137","또, 우호 단계가 상승한 당일에 한해
+'광풍원 세이게츠'에게 일일 퀘스트를 3회 더 받을 수 있습니다."
+150,"TEXT_BANNAM005_03101_SYSTEM_000_138","우호 단계가 상승하기 전에 발행된 일일 퀘스트를
+모두 수주하면 추가분이 발행됩니다.
+수주권이 남아있으면 이를 수주할 수 있습니다."
+151,"TEXT_BANNAM005_03101_SYSTEM_000_139","또 '교쇼'에게서 구입할 수 있는
+아이템이 늘어났습니다.
+앞으로 모험에 활용해보세요!"
+152,"TEXT_BANNAM005_03101_SYSTEM_000_140","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
+소지품 공간이 부족하다면 버리셔도 됩니다."
+153,"TEXT_BANNAM005_03101_SYSTEM_000_141","퀘스트 수행 중에 일반 품질 아이템이 채집되었습니다.
+HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
+소지품 공간이 부족하다면 버리셔도 됩니다."

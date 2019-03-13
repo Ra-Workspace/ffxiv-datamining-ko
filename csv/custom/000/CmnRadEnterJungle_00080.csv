@@ -1,0 +1,27 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNRADENTERJUNGLE_00080_ELILFALK_1","이곳 '브레이플록스의 야영지'는
+노란셔츠 제3상륙부대가 관할하는 구역이다.
+모험가여, 무슨 일로 왔는지 간결하게 말해라."
+1,"TEXT_CMNRADENTERJUNGLE_00080_Q1_1","무슨 일로 왔습니까?"
+2,"TEXT_CMNRADENTERJUNGLE_00080_A1_1","'브레이플록스의 야영지' 시작 조건 묻기"
+3,"TEXT_CMNRADENTERJUNGLE_00080_A1_2","'브레이플록스의 야영지' 시작하기"
+4,"TEXT_CMNRADENTERJUNGLE_00080_A1_3","취소"
+5,"TEXT_CMNRADENTERJUNGLE_00080_ELILFALK_5","'브레이플록스의 야영지'는 특별 위험구역으로 지정되어 있다.
+인원수와 참가 자격에 제한이 있으니 주의하도록."
+6,"TEXT_CMNRADENTERJUNGLE_00080_SYSTEM_6","'브레이플록스의 야영지'를 시작하려면
+투사 또는 마법사 레벨 32 이상인 플레이어 4명이
+파티를 맺어야 합니다."
+7,"TEXT_CMNRADENTERJUNGLE_00080_SYSTEM_7","(현실 시간) 90분이 경과하면
+'브레이플록스의 야영지'가 강제로 종료됩니다."
+8,"TEXT_CMNRADENTERJUNGLE_00080_SYSTEM_8","또한, 레벨이 35 이상이면 공략 중에는 레벨 34로 조율됩니다."
+9,"TEXT_CMNRADENTERJUNGLE_00080_SYSTEM_9","전리품이 남은 상태에서 다른 파티원이 모두 퇴장하면
+전리품 목록에 있는 모든 아이템을 자동으로 획득합니다.
+획득하지 못한 아이템은 파기되므로 주의하십시오."
+10,"TEXT_CMNRADENTERJUNGLE_00080_Q2_1","'브레이플록스의 야영지'를 시작하시겠습니까?"
+11,"TEXT_CMNRADENTERJUNGLE_00080_A2_1","예"
+12,"TEXT_CMNRADENTERJUNGLE_00080_A2_2","아니요"
+13,"TEXT_CMNRADENTERJUNGLE_00080_SYSTEM_10","<Sheet(InstanceContentTextData,IntegerParameter(1),0)/><Sheet(InstanceContent,IntegerParameter(2),3)/><13>FF3902281DFF18496E7374616E6365436F6E74656E745465787444617461E8020103022815FF10496E7374616E6365436F6E74656E74E8030403FF04EBA5BCFF04EC9D84</13> 시작하지 못했습니다.
+시작 조건을 확인하십시오."
+14,"TEXT_CMNRADENTERJUNGLE_00080_SYSTEM_20","'브레이플록스의 야영지'가 임무 찾기에 등록되었습니다."

@@ -1,0 +1,26 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR_02","<Highlight>StringParameter(1)</Highlight>의 이름을 변경하려고?
+좋아, 어떤 이름으로 할래?"
+1,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_02","경주 초코보의 이름을 변경하려면
+수수료 2,000길을 지불해야 합니다."
+2,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_Q1","<Highlight>StringParameter(1)</Highlight><14>FF07022903EA0203FF04EBA19CFF07EC9CBCEBA19C</14> 변경하시겠습니까?
+변경 수수료: <Format(IntegerParameter(2),FF022C)/>길"
+3,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A1","예"
+4,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A2","아니요"
+5,"TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_DONE","그래, 그 아이에게 딱 어울리는 멋진 이름인데!
+앞으로도 <Highlight>StringParameter(1)</Highlight><13>FF07022903EA0203FF04EBA5BCFF04EC9D84</13> 많이 예뻐해줘!"
+6,"TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR","경주 초코보의 이름을 변경하려고?
+좋아, 어떤 이름으로 할래?"
+7,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_01","……어?
+등록된 경주 초코보가 없는 것 같은데?"
+8,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_02","현재 등록되어 있는 경주 초코보만
+이름을 변경할 수 있습니다."
+9,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_01","……미안. 소지금이 부족한 것 같아……."
+10,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_01","……미안하지만 그 이름으로는 등록할 수 없어."
+11,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_02","사용된 단어에 따라서는
+경주 초코보 이름을 등록할 수 없는 경우가 있습니다.
+다른 이름으로 다시 시도하십시오."
+12,"TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_004_01","……흠, 전과 똑같은 이름이네.
+그럼 이번 변경은 없던 일로 할게!"

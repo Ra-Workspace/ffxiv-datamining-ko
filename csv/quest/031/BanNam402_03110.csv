@@ -1,0 +1,143 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANNAM402_03110_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+도로 일로에 있는 광풍원 세이게츠는 재료 조달 문제로 애를 먹고 있는 것 같다."
+1,"TEXT_BANNAM402_03110_SEQ_01","재회시장에 있는 교링과 대화하자."
+2,"TEXT_BANNAM402_03110_SEQ_02","재회시장에 있는 교링에게 의뢰받은 물품을 납품하자."
+3,"TEXT_BANNAM402_03110_SEQ_03","재회시장에서 <Sheet(EObj,2009494,0)/><13>FF1002280CFF05454F626AF61EA9960103FF04EBA5BCFF04EC9D84</13> 입수하자."
+4,"TEXT_BANNAM402_03110_SEQ_04","광풍원 세이게츠에게 <Sheet(EventItem,2002475,0)/><13>FF15022811FF0A4576656E744974656DF61E8E2B0103FF04EBA5BCFF04EC9D84</13> 전달하자."
+5,"TEXT_BANNAM402_03110_SEQ_05",""
+6,"TEXT_BANNAM402_03110_SEQ_06",""
+7,"TEXT_BANNAM402_03110_SEQ_07",""
+8,"TEXT_BANNAM402_03110_SEQ_08",""
+9,"TEXT_BANNAM402_03110_SEQ_09",""
+10,"TEXT_BANNAM402_03110_SEQ_10",""
+11,"TEXT_BANNAM402_03110_SEQ_11",""
+12,"TEXT_BANNAM402_03110_SEQ_12",""
+13,"TEXT_BANNAM402_03110_SEQ_13",""
+14,"TEXT_BANNAM402_03110_SEQ_14",""
+15,"TEXT_BANNAM402_03110_SEQ_15",""
+16,"TEXT_BANNAM402_03110_SEQ_16",""
+17,"TEXT_BANNAM402_03110_SEQ_17",""
+18,"TEXT_BANNAM402_03110_SEQ_18",""
+19,"TEXT_BANNAM402_03110_SEQ_19",""
+20,"TEXT_BANNAM402_03110_SEQ_20",""
+21,"TEXT_BANNAM402_03110_SEQ_21",""
+22,"TEXT_BANNAM402_03110_SEQ_22",""
+23,"TEXT_BANNAM402_03110_SEQ_23",""
+24,"TEXT_BANNAM402_03110_TODO_00","재회시장에 있는 교링과 대화"
+25,"TEXT_BANNAM402_03110_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장에 있는 교링에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장에 있는 교링에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장에 있는 교링에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장에 있는 교링에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장에 있는 교링에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장에 있는 교링에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장에 있는 교링에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장에 있는 교링에게<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>재회시장 남쪽의 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>재회시장에 있는 교링에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>재회시장 남쪽의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>재회시장에 있는 교링에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>넴 칼에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>재회시장에 있는 교링에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+26,"TEXT_BANNAM402_03110_TODO_02","재회시장에서 <Sheet(EObj,2009494,0)/> 입수"
+27,"TEXT_BANNAM402_03110_TODO_03","광풍원 세이게츠에게 <Sheet(EventItem,2002475,0)/> 전달"
+28,"TEXT_BANNAM402_03110_TODO_04",""
+29,"TEXT_BANNAM402_03110_TODO_05",""
+30,"TEXT_BANNAM402_03110_TODO_06",""
+31,"TEXT_BANNAM402_03110_TODO_07",""
+32,"TEXT_BANNAM402_03110_TODO_08",""
+33,"TEXT_BANNAM402_03110_TODO_09",""
+34,"TEXT_BANNAM402_03110_TODO_10",""
+35,"TEXT_BANNAM402_03110_TODO_11",""
+36,"TEXT_BANNAM402_03110_TODO_12",""
+37,"TEXT_BANNAM402_03110_TODO_13",""
+38,"TEXT_BANNAM402_03110_TODO_14",""
+39,"TEXT_BANNAM402_03110_TODO_15",""
+40,"TEXT_BANNAM402_03110_TODO_16",""
+41,"TEXT_BANNAM402_03110_TODO_17",""
+42,"TEXT_BANNAM402_03110_TODO_18",""
+43,"TEXT_BANNAM402_03110_TODO_19",""
+44,"TEXT_BANNAM402_03110_TODO_20",""
+45,"TEXT_BANNAM402_03110_TODO_21",""
+46,"TEXT_BANNAM402_03110_TODO_22",""
+47,"TEXT_BANNAM402_03110_TODO_23",""
+48,"TEXT_BANNAM402_03110_KOFUINSEIGETSU_000_000","거 참…… 제전을 준비하기 위해서는
+목재가 대량으로 필요한데, 이곳 아짐 대초원은
+자생하는 나무가 적어서 재료를 조달하는 것도 여간 힘든 게 아니군."
+49,"TEXT_BANNAM402_03110_KOFUINSEIGETSU_000_001","어떻게 대처할지 고민하던 참에
+마침 재회시장에 얀샤로부터 목재를 팔러 온
+나마즈오 상인이 있다는 정보를 입수했다."
+50,"TEXT_BANNAM402_03110_KOFUINSEIGETSU_000_002","이미 상대방과는 거래 약속을 잡아 놓았다.
+'재회시장'으로 가서 상인 '교링'과 교섭하여
+요구 사항을 들어주고 목재를 가지고 오게."
+51,"TEXT_BANNAM402_03110_GYORIN_000_010","어, <Highlight>ObjectParameter(1)</Highlight> 아냥?
+이렇게 멀리까지 날 만나러 온 거양?"
+52,"TEXT_BANNAM402_03110_GYORIN_000_011","그렇구낭……. 그 잘난 체하던 나마즈오님이 말하던
+교섭 담당자란 게 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF0AEC9880EAB5ACEB82ADFF0DEC9DB4EC9788EAB5ACEB82AD</13>?
+그렇다면 얘기가 빠르겠당♪"
+53,"TEXT_BANNAM402_03110_GYORIN_000_012","어, <Highlight>ObjectParameter(1)</Highlight>!
+이렇게 멀리까지 또 날 만나러 온 거양?"
+54,"TEXT_BANNAM402_03110_GYORIN_000_013","그렇구낭……. 그 잘난 체하던 나마즈오님이 말하던
+교섭 담당자란 게 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF0AEC9880EAB5ACEB82ADFF0DEC9DB4EC9788EAB5ACEB82AD</13>?
+몇 번이고 일을 하게 만들다니 사람을 막 부려 먹는구낭."
+55,"TEXT_BANNAM402_03110_GYORIN_000_014","내가 직접 조달하기 어려운 게 몇 가지 있엉♪
+그러니까 그걸 준비해주기만 하면
+기꺼이 목재를 줄겡♪"
+56,"TEXT_BANNAM402_03110_GYORIN_000_015","'<Sheet(Item,22731,0)/>'<13>FF0F02280BFF054974656DF258CB0103FF04EBA19CFF07EC9CBCEBA19C</13> 목걸이를 만들어주면 좋겠엉!
+만드는 데 필요한 재료는 상자에 넣어두었으니까
+주저하지 말고 마구마구 써도 괜찮앙♪"
+57,"TEXT_BANNAM402_03110_GYORIN_000_016","'<Sheet(Item,22731,0)/>'<13>FF0F02280BFF054974656DF258CB0103FF04EBA19CFF07EC9CBCEBA19C</13> 두건을 만들어주면 좋겠엉!
+만드는 데 필요한 재료는 상자에 넣어두었으니까
+주저하지 말고 마구마구 써도 괜찮앙♪"
+58,"TEXT_BANNAM402_03110_GYORIN_000_017","'<Sheet(Item,22731,0)/>'<13>FF0F02280BFF054974656DF258CB0103FF04EBA19CFF07EC9CBCEBA19C</13> 마유주를 만들어주면 좋겠엉!
+만드는 데 필요한 재료는 상자에 넣어두었으니까
+주저하지 말고 마구마구 써도 괜찮앙♪"
+59,"TEXT_BANNAM402_03110_GYORIN_000_018","아짐 대초원에서만 입수할 수 있는 '<Sheet(Item,22627,0)/>'<13>FF0F02280BFF054974656DF258630103FF04EBA5BCFF04EC9D84</13>
+3개만 구해다 주면 좋겠엉!
+소문에 의하면 여기서 남쪽으로 가면 구할 수 있는 모양이양♪"
+60,"TEXT_BANNAM402_03110_GYORIN_000_019","아짐 대초원에서만 입수할 수 있는 '<Sheet(Item,22653,0)/>'<13>FF0F02280BFF054974656DF2587D0103FF04EBA5BCFF04EC9D84</13>
+3개만 구해다 주면 좋겠엉!
+소문에 의하면 여기서 남쪽으로 가면 구할 수 있는 모양이양♪"
+61,"TEXT_BANNAM402_03110_GYORIN_000_020","아짐 대초원에서만 입수할 수 있는
+'<Sheet(Item,22679,0)/>'<13>FF0F02280BFF054974656DF258970103FF04EBA5BCFF04EC9D84</13> 잡아다 주면 좋겠엉!
+'넴 칼'에서 <Sheet(Item,20613,0)/><13>FF0F02280BFF054974656DF250850103FF04EBA5BCFF04EC9D84</13> 사용하면 잡을 수 있는 모양이양♪"
+62,"TEXT_BANNAM402_03110_GYORIN_000_021","부탁한 물건이 준비되면
+나한테 전달해줘용!
+기다릴게용♪"
+63,"TEXT_BANNAM402_03110_GYORIN_000_022","뭔가 부족한 게 생겼엉?
+만드는 데 필요한 재료는 상자에 넣어두었으니까
+주저하지 말고 마구마구 써도 괜찮앙♪"
+64,"TEXT_BANNAM402_03110_GYORIN_000_023","뭔가 부족한 게 생겼엉?
+만드는 데 필요한 재료는 상자에 넣어두었으니까
+주저하지 말고 마구마구 써도 괜찮앙♪"
+65,"TEXT_BANNAM402_03110_GYORIN_000_024","뭔가 부족한 게 생겼엉?
+만드는 데 필요한 재료는 상자에 넣어두었으니까
+주저하지 말고 마구마구 써도 괜찮앙♪"
+66,"TEXT_BANNAM402_03110_SYSTEM_000_025","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+67,"TEXT_BANNAM402_03110_SYSTEM_000_026","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+68,"TEXT_BANNAM402_03110_SYSTEM_000_027","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+69,"TEXT_BANNAM402_03110_SYSTEM_000_028","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+70,"TEXT_BANNAM402_03110_SYSTEM_000_029","상자에서 필요한 재료를 꺼냈다!"
+71,"TEXT_BANNAM402_03110_SYSTEM_000_030","상자에서 필요한 재료를 꺼냈다!"
+72,"TEXT_BANNAM402_03110_SYSTEM_000_031","상자에서 필요한 재료를 꺼냈다!"
+73,"TEXT_BANNAM402_03110_GYORIN_000_032","부탁한 물건은 얘기한 장소에서 얻을 수 있을 테니
+잘 부탁행♪"
+74,"TEXT_BANNAM402_03110_GYORIN_000_033","부탁한 물건은 얘기한 장소에서 얻을 수 있을 테니
+잘 부탁행♪"
+75,"TEXT_BANNAM402_03110_GYORIN_000_034","부탁한 물건은 얘기한 장소에서 얻을 수 있을 테니
+잘 부탁행♪"
+76,"TEXT_BANNAM402_03110_GYORIN_000_040","부탁한 물건은 준비했엉?"
+77,"TEXT_BANNAM402_03110_GYORIN_000_041","이거 이거, 바로 이거양!
+역시 <Highlight>ObjectParameter(1)</Highlight>, 내 친구는 다르다니깡♪"
+78,"TEXT_BANNAM402_03110_GYORIN_000_042","요즘 우리 '벼락부자'도 장사 규모를 넓혀서
+이렇게 아짐 대초원까지 오고 있엉!"
+79,"TEXT_BANNAM402_03110_GYORIN_000_043","<Highlight>ObjectParameter(1)</Highlight>한테 사들인 상품을
+다른 곳에서 다시 팔아서, 더욱더 벼락부자가 될 거양♪"
+80,"TEXT_BANNAM402_03110_GYORIN_000_044","그럼 약속한 대로 목재를 드리겠어용!
+여기 놓여있는 목재를 갖고 가도 괜찮앙♪"
+81,"TEXT_BANNAM402_03110_GYORIN_000_045","그 잘난 체하던 나마즈오님은 '광풍원 세이게츠' 님이라고 했던강?
+그분에게 우리 가게 '벼락부자'를 또 이용해주길 바란다고
+<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 전해주면 좋겠엉♪"
+82,"TEXT_BANNAM402_03110_GYORIN_000_046","그 잘난 체하던 나마즈오님은 '광풍원 세이게츠' 님이라고 했던강?
+그분에게 우리 가게 '벼락부자'를 또 이용해주길 바란다고
+<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 전해주면 좋겠엉♪"
+83,"TEXT_BANNAM402_03110_KOFUINSEIGETSU_000_050","교링과의 거래는 잘 되었는가?"
+84,"TEXT_BANNAM402_03110_KOFUINSEIGETSU_000_051","흐음, 무사히 목재를 조달한 것 같아 다행이다.
+귀군에게 부탁하길 잘한 것 같다."
+85,"TEXT_BANNAM402_03110_KOFUINSEIGETSU_000_052","그나저나 혼자서 교역을 하다니
+교링이란 녀석도 꽤 문명적이어서 감탄을 금하지 않을 수 없군.
+물론 이 광풍원 세이게츠의 수준에는 절대 미치지 않지만 말이야."

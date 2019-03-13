@@ -1,0 +1,160 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANNAM306_03108_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+도로 일로에 있는 광풍원 세이게츠는 어딘가 안 좋은 예감이 드는 모양이다."
+1,"TEXT_BANNAM306_03108_SEQ_01","쿌 엔에 있는 사근사근한 나마즈오와 대화하자."
+2,"TEXT_BANNAM306_03108_SEQ_02","쿌 엔에 있는 사근사근한 나마즈오에게 의뢰받은 물건을 납품하자."
+3,"TEXT_BANNAM306_03108_SEQ_03","백일의 계시에 있는 바브가이에게 <Sheet(EventItem,2002481,0)/><13>FF15022811FF0A4576656E744974656DF61E8E310103FF04EBA5BCFF04EC9D84</13> 전달하자."
+4,"TEXT_BANNAM306_03108_SEQ_04","광풍원 세이게츠에게 보고하자."
+5,"TEXT_BANNAM306_03108_SEQ_05",""
+6,"TEXT_BANNAM306_03108_SEQ_06",""
+7,"TEXT_BANNAM306_03108_SEQ_07",""
+8,"TEXT_BANNAM306_03108_SEQ_08",""
+9,"TEXT_BANNAM306_03108_SEQ_09",""
+10,"TEXT_BANNAM306_03108_SEQ_10",""
+11,"TEXT_BANNAM306_03108_SEQ_11",""
+12,"TEXT_BANNAM306_03108_SEQ_12",""
+13,"TEXT_BANNAM306_03108_SEQ_13",""
+14,"TEXT_BANNAM306_03108_SEQ_14",""
+15,"TEXT_BANNAM306_03108_SEQ_15",""
+16,"TEXT_BANNAM306_03108_SEQ_16",""
+17,"TEXT_BANNAM306_03108_SEQ_17",""
+18,"TEXT_BANNAM306_03108_SEQ_18",""
+19,"TEXT_BANNAM306_03108_SEQ_19",""
+20,"TEXT_BANNAM306_03108_SEQ_20",""
+21,"TEXT_BANNAM306_03108_SEQ_21",""
+22,"TEXT_BANNAM306_03108_SEQ_22",""
+23,"TEXT_BANNAM306_03108_SEQ_23",""
+24,"TEXT_BANNAM306_03108_TODO_00","쿌 엔에 있는 사근사근한 나마즈오와 대화"
+25,"TEXT_BANNAM306_03108_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>쿌 엔 서쪽 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>쿌 엔 서쪽 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>타오 칼에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>쿌 엔에 있는 사근사근한 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+26,"TEXT_BANNAM306_03108_TODO_02","백일의 계시에 있는 바브가이에게
+ <Sheet(EventItem,2002481,0)/> 전달"
+27,"TEXT_BANNAM306_03108_TODO_03","광풍원 세이게츠에게 보고"
+28,"TEXT_BANNAM306_03108_TODO_04",""
+29,"TEXT_BANNAM306_03108_TODO_05",""
+30,"TEXT_BANNAM306_03108_TODO_06",""
+31,"TEXT_BANNAM306_03108_TODO_07",""
+32,"TEXT_BANNAM306_03108_TODO_08",""
+33,"TEXT_BANNAM306_03108_TODO_09",""
+34,"TEXT_BANNAM306_03108_TODO_10",""
+35,"TEXT_BANNAM306_03108_TODO_11",""
+36,"TEXT_BANNAM306_03108_TODO_12",""
+37,"TEXT_BANNAM306_03108_TODO_13",""
+38,"TEXT_BANNAM306_03108_TODO_14",""
+39,"TEXT_BANNAM306_03108_TODO_15",""
+40,"TEXT_BANNAM306_03108_TODO_16",""
+41,"TEXT_BANNAM306_03108_TODO_17",""
+42,"TEXT_BANNAM306_03108_TODO_18",""
+43,"TEXT_BANNAM306_03108_TODO_19",""
+44,"TEXT_BANNAM306_03108_TODO_20",""
+45,"TEXT_BANNAM306_03108_TODO_21",""
+46,"TEXT_BANNAM306_03108_TODO_22",""
+47,"TEXT_BANNAM306_03108_TODO_23",""
+48,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_000","<Highlight>ObjectParameter(1)</Highlight> 군, 문명이란 무엇인지 알고 있는가?
+문명이란 문화인 동시에 수준 높은 사회를 나타내는 것이다."
+49,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_001","사회…… 그건 사람과 사람 사이의 교류!
+명작 '세상살이 원수천지'에도 나와 있듯이
+이웃과의 교류를 게을리하면 파멸적인 사태로 발전할 것이다."
+50,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_002","그래서 근처 동굴에 사는 우야기르족에게
+공물을 바치는 게 좋겠다는 생각을 했다.
+<Highlight>ObjectParameter(1)</Highlight> 군이 그 일을 도와줬으면 한다."
+51,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_003","'사근사근한 나마즈오'가 '쿌 엔'에서
+미리 준비를 하겠다고 했으니 상황을 확인하고 와다오.
+아무래도 안 좋은 예감이 들어서 말이야…… 부탁한다."
+52,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_010","광풍원 세이게츠가 보내서 왔는감메?
+다행이다, 사실 지금 곤란한 상황이담메……!"
+53,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_011","공물을 갖고 갔지만
+그런 호화로운 물건은 받을 수 없다면서
+받아주질 않는담메!"
+54,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_012","그래서 다른 걸 마련할까 하는데
+그 준비를 도와주길 바란담메."
+55,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_013","'<Sheet(Item,22729,0)/>'<13>FF0F02280BFF054974656DF258C90103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 소박한 용기를 만들어줬음 한담메.
+재료라면 이 상자 안에 듬뿍 준비해 두었으니
+주저말고 사용해도 된담메!"
+56,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_014","'<Sheet(Item,22729,0)/>'<13>FF0F02280BFF054974656DF258C90103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 소박한 천을 만들어줬음 한담메.
+재료라면 이 상자 안에 듬뿍 준비해 두었으니
+주저말고 사용해도 된담메!"
+57,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_015","'<Sheet(Item,22729,0)/>'<13>FF0F02280BFF054974656DF258C90103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 소박한 염료를 만들어줬음 한담메.
+재료라면 이 상자 안에 듬뿍 준비해 두었으니
+주저말고 사용해도 된담메!"
+58,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_016","선물로 줄 금속 용기를 만들기 위한 '<Sheet(Item,22625,0)/>'<13>FF0F02280BFF054974656DF258610103FF04EAB080FF04EC9DB4</13> 필요하담메.
+쿌 엔 서쪽에서 캘 수 있으니 3개만 구해주기 바란담메!"
+59,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_017","선물로 줄 나무로 엮은 바구니를 만들기 위한 '<Sheet(Item,22651,0)/>'<13>FF0F02280BFF054974656DF2587B0103FF04EAB080FF04EC9DB4</13> 필요하담메.
+쿌 엔 서쪽에서 채집할 수 있으니 3개만 구해주기 바란담메!"
+60,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_018","선물로 줄 건어물을 만들기 위한 '<Sheet(Item,22677,0)/>'<13>FF0F02280BFF054974656DF258950103FF04EAB080FF04EC9DB4</13> 필요하담메.
+'타오 칼'에서 <Sheet(Item,20613,0)/> 같은 민물낚시용 미끼를 사용하면
+낚을 수 있담메!"
+61,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_019","부탁한 물건이 준비되면 나에게 갖다주람메.
+의지할 사람은 <Highlight>ObjectParameter(1)</Highlight> 님밖에 없담메…… 기다리겠담메!"
+62,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_020","재료가 더 필요한감메?
+이 상자 안에 듬뿍 준비해 두었으니
+주저 말고 사용해도 된담메!"
+63,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_021","재료가 더 필요한감메?
+이 상자 안에 듬뿍 준비해 두었으니
+주저 말고 사용해도 된담메!"
+64,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_022","재료가 더 필요한감메?
+이 상자 안에 듬뿍 준비해 두었으니
+주저 말고 사용해도 된담메!"
+65,"TEXT_BANNAM306_03108_SYSTEM_000_023","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+66,"TEXT_BANNAM306_03108_SYSTEM_000_024","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+67,"TEXT_BANNAM306_03108_SYSTEM_000_025","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+68,"TEXT_BANNAM306_03108_SYSTEM_000_026","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+69,"TEXT_BANNAM306_03108_SYSTEM_000_027","상자에서 필요한 재료를 꺼냈다!"
+70,"TEXT_BANNAM306_03108_SYSTEM_000_028","상자에서 필요한 재료를 꺼냈다!"
+71,"TEXT_BANNAM306_03108_SYSTEM_000_029","상자에서 필요한 재료를 꺼냈다!"
+72,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_030","부탁한 건 알려준 장소에서 모을 수 있을 거담메.
+기다리겠담메!"
+73,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_031","부탁한 건 알려준 장소에서 모을 수 있을 거담메.
+기다리겠담메!"
+74,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_032","부탁한 건 알려준 장소에서 모을 수 있을 거담메.
+기다리겠담메!"
+75,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_040","<Highlight>ObjectParameter(1)</Highlight> 님, 부탁한 물건은 준비되셨남메!?"
+76,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_041","오오, 완벽하담메!
+내가 준비한 것과 딱 합치면…………"
+77,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_042","완성이담메♪
+이 정도로 소박한 물건이라면 분명 받아줄 거담메!"
+78,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_043","자, 완성된 '<Sheet(EventItem,2002481,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E310103FF04EBA5BCFF04EC9D84</13> 맡길 테니
+백일의 계시에 있는 '바브가이' 님에게 전해달람메!
+잘 부탁한담메!"
+79,"TEXT_BANNAM306_03108_DAILYNAMAZUO03108_000_044","백일의 계시에 있는 '바브가이' 님에게
+'<Sheet(EventItem,2002481,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E310103FF04EBA5BCFF04EC9D84</13> 전해주길 바란담메!
+잘 부탁한담메!"
+80,"TEXT_BANNAM306_03108_BAAVGAI_000_050","이곳에는 무슨 일이지?"
+81,"TEXT_BANNAM306_03108_BAAVGAI_000_051","아아, 그 나마즈오가 보낸 거로군.
+어디 보자……."
+82,"TEXT_BANNAM306_03108_BAAVGAI_000_052","흐음, 이런 물건이라면 받아도
+욕심 많은 선조와 같은 길을 걷진 않겠지.
+고맙게 받겠다."
+83,"TEXT_BANNAM306_03108_BAAVGAI_000_053","고생하게 만들어서 미안하다.
+예전에 우리 부족은 모든 걸 손에 넣기 위해
+탐욕스럽게 지낸 결과, 멸망의 길로 들어서게 되었지."
+84,"TEXT_BANNAM306_03108_BAAVGAI_000_054","하지만 이렇게 다른 이에게 아낌없이 선물을 전하며
+선조들에게 제를 올리려는 자들이라면
+번영의 길로 나아갈 게 틀림없을 것이다."
+85,"TEXT_BANNAM306_03108_BAAVGAI_000_055","지나친 욕심이라 제전에 참가할 수는 없지만
+이 어두운 동굴 속에서 제전의 성공을 기원하고 있겠다.
+'광풍원 세이게츠' 님에게도 감사의 뜻을 전해주길 바란다."
+86,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_100_060","사근사근한 나마즈오 상태는 어땠는가?"
+87,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_060","그렇군, 사정은 이해했다.
+우야기르족은 꽤 고집이 센 이웃인 것 같구나.
+명저 '초해기행'에 적힌 내용 이상으로 검소한 걸 선호하나 보군……."
+88,"TEXT_BANNAM306_03108_KOFUINSEIGETSU_000_061","어찌 됐든 <Highlight>ObjectParameter(1)</Highlight> 군의 활약으로
+선물을 무사히 받아준 것 같아 다행이다.
+문명적인 이웃 교류를 성립시켜 주어서 고맙다!"

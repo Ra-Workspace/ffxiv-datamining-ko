@@ -1,0 +1,151 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANNAM001_03097_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+도로 일로에 있는 광풍원 세이게츠는 제전 개최를 위해 본격적인 행동에 나서려는 듯하다."
+1,"TEXT_BANNAM001_03097_SEQ_01","광풍원 세이게츠와 대화했다. 동쪽 나라에서 하듯이, 교레이와 함께 축제 의상을 준비하기로 했다. 축제 의상 제작에 필요한 물품을 준비해, 도로 일로에 있는 '교레이'에게 납품하자."
+2,"TEXT_BANNAM001_03097_SEQ_02","축제 의상 제작에 필요한 물품을 교레이에게 건넸다. 교레이를 비롯한 나마즈오들과 협력한 덕에, 축제 의상 준비와 천막 수리를 마치고 제전 장소가 갖추어지기 시작했다. 협력을 계속하여 제전이 열릴 수 있도록 하자."
+3,"TEXT_BANNAM001_03097_SEQ_03",""
+4,"TEXT_BANNAM001_03097_SEQ_04",""
+5,"TEXT_BANNAM001_03097_SEQ_05",""
+6,"TEXT_BANNAM001_03097_SEQ_06",""
+7,"TEXT_BANNAM001_03097_SEQ_07",""
+8,"TEXT_BANNAM001_03097_SEQ_08",""
+9,"TEXT_BANNAM001_03097_SEQ_09",""
+10,"TEXT_BANNAM001_03097_SEQ_10",""
+11,"TEXT_BANNAM001_03097_SEQ_11",""
+12,"TEXT_BANNAM001_03097_SEQ_12",""
+13,"TEXT_BANNAM001_03097_SEQ_13",""
+14,"TEXT_BANNAM001_03097_SEQ_14",""
+15,"TEXT_BANNAM001_03097_SEQ_15",""
+16,"TEXT_BANNAM001_03097_SEQ_16",""
+17,"TEXT_BANNAM001_03097_SEQ_17",""
+18,"TEXT_BANNAM001_03097_SEQ_18",""
+19,"TEXT_BANNAM001_03097_SEQ_19",""
+20,"TEXT_BANNAM001_03097_SEQ_20",""
+21,"TEXT_BANNAM001_03097_SEQ_21",""
+22,"TEXT_BANNAM001_03097_SEQ_22",""
+23,"TEXT_BANNAM001_03097_SEQ_23",""
+24,"TEXT_BANNAM001_03097_TODO_00","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>쿌 엔 서쪽의 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>쿌 엔 서쪽의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>야트 칼 상류에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+25,"TEXT_BANNAM001_03097_TODO_01",""
+26,"TEXT_BANNAM001_03097_TODO_02",""
+27,"TEXT_BANNAM001_03097_TODO_03",""
+28,"TEXT_BANNAM001_03097_TODO_04",""
+29,"TEXT_BANNAM001_03097_TODO_05",""
+30,"TEXT_BANNAM001_03097_TODO_06",""
+31,"TEXT_BANNAM001_03097_TODO_07",""
+32,"TEXT_BANNAM001_03097_TODO_08",""
+33,"TEXT_BANNAM001_03097_TODO_09",""
+34,"TEXT_BANNAM001_03097_TODO_10",""
+35,"TEXT_BANNAM001_03097_TODO_11",""
+36,"TEXT_BANNAM001_03097_TODO_12",""
+37,"TEXT_BANNAM001_03097_TODO_13",""
+38,"TEXT_BANNAM001_03097_TODO_14",""
+39,"TEXT_BANNAM001_03097_TODO_15",""
+40,"TEXT_BANNAM001_03097_TODO_16",""
+41,"TEXT_BANNAM001_03097_TODO_17",""
+42,"TEXT_BANNAM001_03097_TODO_18",""
+43,"TEXT_BANNAM001_03097_TODO_19",""
+44,"TEXT_BANNAM001_03097_TODO_20",""
+45,"TEXT_BANNAM001_03097_TODO_21",""
+46,"TEXT_BANNAM001_03097_TODO_22",""
+47,"TEXT_BANNAM001_03097_TODO_23",""
+48,"TEXT_BANNAM001_03097_GYOREI_000_001","절벽 아래로 강도 흐르고 있어서
+바싹 말라버릴 걱정은 없겠담메."
+49,"TEXT_BANNAM001_03097_GYOSHIN_000_005","내 실력을 제대로 보여주겠담메!"
+50,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_010","제전 장소는 교신이 있으니 어떻게든 정비할 수 있겠지.
+문제는 제전에서 입을 의상인데……."
+51,"TEXT_BANNAM001_03097_GYOSHIN_000_011","메메메?
+옷이 따로 있어야 되냠메?"
+52,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_012","거 참, 아주 거리낌 없이 무지를 드러내시는군.
+잘 들어, 제전이란 곧 신께 지내는 제사이고, 일상적인 일이 아니다.
+평소랑 같은 앞치마를 두르고 거행하다니 당치도 않아!"
+53,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_013","그 유명한 히바리사이가 쓴 '운작우필'에 의하면
+동쪽 나라에서는 제전 때 전용 의상을 입는다고 한다.
+선명한 색깔의 겉옷이라는군."
+54,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_014","내 지식을 토대로 도면을 그릴 수는 있지만……
+지느러미재주가 없어서 처음부터 만들려면……."
+55,"TEXT_BANNAM001_03097_GYOREI_000_015","내가 재봉을 잘하니까 만들어 볼깜메?"
+56,"TEXT_BANNAM001_03097_GYOREI_000_016","그런데 세세한 부분까지 처리하려면
+나 혼자서는 지느러미가 부족할 것 같암메.
+<Highlight>ObjectParameter(1)</Highlight> 님도 도와줄램메?"
+57,"TEXT_BANNAM001_03097_GYOREI_000_017","고마웜메!
+그러면 할 일을 나눠주는 역할은 교후……
+광풍원 세이게츠한테 맡길겜메!"
+58,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_020","귀군은 '<Sheet(Item,22720,0)/>'<13>FF0F02280BFF054974656DF258C00103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 금속 장식을 부탁한다.
+천막 옆에 놓인 상자에서 필요한 만큼 재료를 꺼내서 제작해.
+만약 재료가 부족하면 몇 번이든 가서 꺼내도 된다."
+59,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_021","귀군은 '<Sheet(Item,22720,0)/>'<13>FF0F02280BFF054974656DF258C00103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 튼튼한 안감을 부탁한다.
+천막 옆에 놓인 상자에서 필요한 만큼 재료를 꺼내서 제작해.
+만약 재료가 부족하면 몇 번이든 가서 꺼내도 된다."
+60,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_022","귀군은 '<Sheet(Item,22720,0)/>'<13>FF0F02280BFF054974656DF258C00103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 마감용 염료를 부탁한다.
+천막 옆에 놓인 상자에서 필요한 만큼 재료를 꺼내서 제작해.
+만약 재료가 부족하면 몇 번이든 가서 꺼내도 된다."
+61,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_023","안료로 사용할 '<Sheet(Item,22616,0)/>' 3개를 모아다오.
+쿌 엔 서쪽에서 캘 수 있을 거다."
+62,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_024","안료로 사용할 '<Sheet(Item,22642,0)/>' 3개를 모아다오.
+쿌 엔 서쪽에서 채집할 수 있을 거다."
+63,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_025","안료에 사용할 '<Sheet(Item,22668,0)/>'<13>FF0F02280BFF054974656DF2588C0103FF04EBA5BCFF04EC9D84</13> 모아다오.
+민물낚시용 미끼 '<Sheet(Item,20613,0)/>'<13>FF0F02280BFF054974656DF250850103FF04EBA5BCFF04EC9D84</13> 쓰면
+'야트 칼 상류'에서 낚을 수 있을 거다."
+64,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_026","나머지는 우리에게 맡겨라.
+귀군이 맡은 조달 업무에 전념하고, 부탁한 물품이 준비되면
+'교레이'에게 갖다 줘."
+65,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_027","귀군, 혹시 재료가 부족한가?
+그렇다면 천막 옆에 놓인 상자에서 필요한 만큼 꺼내면 된다.
+그럼 제작을 부탁한다."
+66,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_100_027","귀군, 혹시 재료가 부족한가?
+그렇다면 천막 옆에 놓인 상자에서 필요한 만큼 꺼내면 된다.
+그럼 제작을 부탁한다."
+67,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_110_027","귀군, 혹시 재료가 부족한가?
+그렇다면 천막 옆에 놓인 상자에서 필요한 만큼 꺼내면 된다.
+그럼 제작을 부탁한다."
+68,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_200_027","나머지는 우리에게 맡겨라.
+귀군이 맡은 조달 업무에 전념하고, 부탁한 물품이 준비되면
+'교레이'에게 갖다 줘."
+69,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_210_027","나머지는 우리에게 맡겨라.
+귀군이 맡은 조달 업무에 전념하고, 부탁한 물품이 준비되면
+'교레이'에게 갖다 줘."
+70,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_220_027","나머지는 우리에게 맡겨라.
+귀군이 맡은 조달 업무에 전념하고, 부탁한 물품이 준비되면
+'교레이'에게 갖다 줘."
+71,"TEXT_BANNAM001_03097_SYSTEM_000_028","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+72,"TEXT_BANNAM001_03097_SYSTEM_100_028","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+73,"TEXT_BANNAM001_03097_SYSTEM_110_028","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+74,"TEXT_BANNAM001_03097_SYSTEM_120_028","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+75,"TEXT_BANNAM001_03097_SYSTEM_000_029","상자에서 필요한 재료를 꺼냈다!"
+76,"TEXT_BANNAM001_03097_SYSTEM_100_029","상자에서 필요한 재료를 꺼냈다!"
+77,"TEXT_BANNAM001_03097_SYSTEM_110_029","상자에서 필요한 재료를 꺼냈다!"
+78,"TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_030","보아하니 의뢰한 물건이 준비된 모양이군.
+'교레이'한테 건네줘."
+79,"TEXT_BANNAM001_03097_GYOREI_000_040","（★未使用／削除予定★）"
+80,"TEXT_BANNAM001_03097_GYOSHIN_000_045","제전 장소 준비는 나한테 맡기람메!"
+81,"TEXT_BANNAM001_03097_GYOREI_000_050","<Highlight>ObjectParameter(1)</Highlight> 님!
+부탁한 물건은 준비됐엄메?"
+82,"TEXT_BANNAM001_03097_GYOREI_000_051","고마웜메!
+나머지 작업은 나한테 맡겸메!"
+83,"TEXT_BANNAM001_03097_GYOREI_000_052","제전 장소의 수리를 맡은 교신도
+준비가 끝난 것 같으니까, 이제 조금만 있음 완성이담메.
+<Highlight>ObjectParameter(1)</Highlight> 님은 쉬고 있으람메!"
+84,"TEXT_BANNAM001_03097_SYSTEM_000_053","교레이와 협력하여 제전에서 입을 축제 의상을 완성했습니다!"
+85,"TEXT_BANNAM001_03097_SYSTEM_000_054","또한, 교신이 천막을 수리했습니다!"
+86,"TEXT_BANNAM001_03097_GYOSHIN_000_055","일단 잠을 잘 수 있는 정도로는 수리했담메!
+<If(PlayerParameter(4))>누님<Else/>형님</If> 덕분에 축제 의상도 완성되었고
+동료들을 불러 '큰메기 대제전 실행위원회'를 설립하겠담메!"
+87,"TEXT_BANNAM001_03097_GYOSHIN_000_056","앞으로도 협조 잘 부탁한담메!"
+88,"TEXT_BANNAM001_03097_SYSTEM_000_057","나마즈오 멸망까지 앞으로 7년……!"
+89,"TEXT_BANNAM001_03097_SYSTEM_000_058","지금, 멸망의 운명을 피하기 위한 도전이 요란하게 시작되었다!
+나마즈오족의 미래는 과연 어떻게 될 것인가……!"
+90,"TEXT_BANNAM001_03097_SYSTEM_000_059","'큰메기 대제전 실행위원회'와의 우호 관계가
+모험가의 활약에 힘입어 3단계인 '우호'로 상승하고
+나마즈오족의 '야만족 퀘스트'가 개방되었습니다."
+91,"TEXT_BANNAM001_03097_SYSTEM_000_060","앞으로 도로 일로에 있는 '광풍원 세이게츠'에게
+반복 가능한 '야만족 일일 퀘스트'를 받을 수 있습니다."
+92,"TEXT_BANNAM001_03097_SYSTEM_000_061","또 '교쇼'를 통해
+야만족이 취급하는 상품을 구매할 수 있습니다.
+앞으로 모험에 활용해보세요!"

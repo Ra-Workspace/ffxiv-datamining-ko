@@ -1,0 +1,23 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_OPENINGULDAH_WYMOND_000_10","이봐, 어딜 가는 거야.
+이쪽으로 오라니까."
+1,"TEXT_OPENINGULDAH_TUTUMOKO_000_10","뭐야, 이제 와서 겁먹고 돌아가려는 거야?
+모래늪은 그쪽이 아니라 눈앞에 있는 계단 위야."
+2,"TEXT_OPENINGULDAH_BUBUKKULI_000_05","어? 뭐야, 어디 가?
+모래늪은 이쪽이 아니라고.
+자, 어서 돌아가."
+3,"TEXT_OPENINGULDAH_YUYUTAZI_000_10","잠깐, 이 앞으로 가고 싶다면
+먼저 모래늪에 있는 모모디 님에게 가서
+인사를 하고 와."
+4,"TEXT_OPENINGULDAH_WIL_SYSTEM_000_20","지금부터 게임에 대한 기본적인 설명을 시작합니다."
+5,"TEXT_OPENINGULDAH_WIL_SYSTEM_000_21","우선 '조작 설명'을 참고하며 카메라를 움직이거나
+캐릭터를 이동시켜 보십시오."
+6,"TEXT_OPENINGULDAH_WIL_SYSTEM_000_22","조작에 익숙해지면 당신을 부르는
+'와이먼드' 앞으로 이동합시다."
+7,"TEXT_OPENINGULDAH_FST_SYSTEM_000_23","게임의 조작 방식을 선택하십시오."
+8,"TEXT_OPENINGULDAH_FST_SYSTEM_Q_01","원하는 조작 방식을
+선택하십시오."
+9,"TEXT_OPENINGULDAH_FST_SYSTEM_A_01","키보드/마우스 조작"
+10,"TEXT_OPENINGULDAH_FST_SYSTEM_A_02","<If(GreaterThan(PlayerParameter(75),1))>컨트롤러<Else/>게임패드</If> 조작"

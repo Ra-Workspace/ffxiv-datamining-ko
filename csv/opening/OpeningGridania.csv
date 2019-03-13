@@ -1,0 +1,28 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_OPENINGGRIDANIA_BERTENNANT_000_01","이봐, 너! 이쪽으로 와라!"
+1,"TEXT_OPENINGGRIDANIA_BERTENNANT_000_02","잠깐! 어딜 가는 거냐!?
+이리 오라고 하잖아, 내 말이 안 들리나?"
+2,"TEXT_OPENINGGRIDANIA_ULTA_000_03","이봐, 어딜 가는 거야?
+칼라인 카페로 가서 뮨 님에게 이야기를 듣도록 해."
+3,"TEXT_OPENINGGRIDANIA_CAPUCINE_000_05","어머나, 잠깐만.
+칼라인 카페에서 뮨 님께 이야기는 들었니?
+그리다니아에 온 이상 여기 규칙은 지켜주면 좋겠어."
+4,"TEXT_OPENINGGRIDANIA_ADALHARD_000_10","거기 당신, 뮨 님에게 인사는 했나?
+그리다니아에 왔으면 가장 먼저 뮨 님을 찾아가야지."
+5,"TEXT_OPENINGGRIDANIA_BERTENNANT_000_15","……흠, 처음 보는 얼굴이군.
+보아하니 이제 막 도착한 모험가 같은데."
+6,"TEXT_OPENINGGRIDANIA_BERTENNANT_000_16","그리다니아를 수호하는 귀곡부대 위병인
+이 '베르테낭' 님이 도시 안내를 해주지.
+자, 이쪽으로 와라."
+7,"TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_20","지금부터 게임에 대한 기본적인 설명을 시작합니다."
+8,"TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_21","우선 '조작 설명'을 참고하며 카메라를 움직이거나
+캐릭터를 이동시켜 보십시오."
+9,"TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_22","조작에 익숙해지면 당신을 부르는
+'베르테낭' 앞으로 이동합시다."
+10,"TEXT_OPENINGGRIDANIA_FST_SYSTEM_000_23","게임의 조작 방식을 선택하십시오."
+11,"TEXT_OPENINGGRIDANIA_FST_SYSTEM_Q_01","원하는 조작 방식을
+선택하십시오."
+12,"TEXT_OPENINGGRIDANIA_FST_SYSTEM_A_01","키보드/마우스 조작"
+13,"TEXT_OPENINGGRIDANIA_FST_SYSTEM_A_02","<If(GreaterThan(PlayerParameter(75),1))>컨트롤러<Else/>게임패드</If> 조작"

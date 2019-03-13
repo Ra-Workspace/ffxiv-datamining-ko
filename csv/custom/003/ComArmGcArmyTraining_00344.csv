@@ -1,0 +1,90 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_COMARMGCARMYTRAINING_00344_MENU_YES","예"
+1,"TEXT_COMARMGCARMYTRAINING_00344_MENU_NO","아니요"
+2,"TEXT_COMARMGCARMYTRAINING_00344_MENU_CANCEL","취소"
+3,"TEXT_COMARMGCARMYTRAINING_00344_MENU_TITLE_WAITING","실행 중인 훈련: 없음"
+4,"TEXT_COMARMGCARMYTRAINING_00344_MENU_TITLE_TRAINING","실행 중인 훈련: <Sheet(GcArmyTraining,IntegerParameter(1),4)/>
+완료 예정: <If(GreaterThan(IntegerParameter(2),0))>완료<Else/><If(GreaterThan(IntegerParameter(4),0))><Value>IntegerParameter(4)</Value>시간 <If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>분 후<Else/></If><Else/><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>분 후<Else/>1분 이내</If></If></If> [<Time(IntegerParameter(5))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]"
+5,"TEXT_COMARMGCARMYTRAINING_00344_MENU_TITLE_EXPEDITION","（★未使用／削除予定★）"
+6,"TEXT_COMARMGCARMYTRAINING_00344_MENU_SELECT_001","훈련 메뉴 열기"
+7,"TEXT_COMARMGCARMYTRAINING_00344_MENU_SELECT_002","실행 중인 훈련 중지"
+8,"TEXT_COMARMGCARMYTRAINING_00344_MENU_SELECT_003","소대 정보 보기"
+9,"TEXT_COMARMGCARMYTRAINING_00344_TRAINING_ABORT_000","현재 훈련 중이 아닙니다."
+10,"TEXT_COMARMGCARMYTRAINING_00344_TRAINING_ABORT_010","훈련을 이미 완료했습니다."
+11,"TEXT_COMARMGCARMYTRAINING_00344_SELECT_ABORT","<Sheet(GcArmyTraining,IntegerParameter(1),4)/>
+완료 예정: <If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>시간 <If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>분 후<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>분 후<Else/>1분 이내</If></If> [<Time(IntegerParameter(4))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]
+훈련을 중지하시겠습니까?"
+12,"TEXT_COMARMGCARMYTRAINING_00344_SELECT_ABORT_EXPEDITION","（★未使用／削除予定★）"
+13,"TEXT_COMARMGCARMYTRAINING_00344_OFFICER_MESSAGE_000","（★未使用／削除予定★）"
+14,"TEXT_COMARMGCARMYTRAINING_00344_OFFICER_MESSAGE_010","（★未使用／削除予定★）"
+15,"TEXT_COMARMGCARMYTRAINING_00344_OFFICER_MESSAGE_020","（★未使用／削除予定★）"
+16,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_000_000","바로 훈련을 시작하시는군요!
+그럼, 어느 메뉴를 실행할지
+단련하고 싶은 부분을 고려하여 선택하십시오!"
+17,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_001","'훈련'에서는 소대의 종합능력,
+즉 '종합 신체능력', '종합 정신력', '종합 전술 숙련도'를
+단련할 수 있습니다."
+18,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_002","선택한 훈련 종류에 따라 상승하는 능력이 다르므로,
+원하는 육성 방향에 따라 선택해보세요."
+19,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_003","훈련은 현실 시간으로 약 1시간 소요됩니다.
+완료 시각은 주 메뉴 '임무 정보'에서
+'임무 정보 목록'을 선택하면 확인할 수 있습니다."
+20,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_004","현재 훈련 상황은
+<Sheet(EObj,2007150,0)/>에서 확인할 수 있습니다."
+21,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_000_010","제가 지켜본 바로는, 우리 소대는 순조롭게 경험을 쌓아
+상당한 실력을 갖추게 된 것 같습니다…….
+앞으로 더욱 강한 소대가 되도록 훈련과 임무에 힘쓰겠습니다!"
+22,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_011","소대 종합능력 합계가 최대치에 도달했습니다.
+이제부터 특정 능력을 올리면 다른 능력이 낮아집니다."
+23,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_012","소대 종합능력 최대치는
+소대 랭크가 올라갈수록 증가합니다.
+특수 임무에 성공하여 랭크를 올리세요."
+24,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_013","단, 랭크 상승의 조건이 되는 임무는
+다른 임무에 비해 성공하기 어려운 편입니다.
+먼저 훈련이나 소대 임무를 통해 소대원의 레벨을 올리세요."
+25,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_000_020","제가 지켜본 바로는, 우리 소대는 순조롭게 경험을 쌓아
+상당한 실력을 갖추게 된 것 같습니다…….
+앞으로 더욱 강한 소대가 되도록 훈련과 임무에 힘쓰겠습니다!"
+26,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_021","소대 종합능력 합계가 최대치에 도달했습니다.
+이제부터 특정 능력을 올리면 다른 능력이 낮아집니다."
+27,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_022","소대 종합능력 최대치는
+소대 랭크가 올라갈수록 증가합니다.
+특수 임무에 성공하여 랭크를 올리세요."
+28,"TEXT_COMARMGCARMYTRAINING_00344_SYSTEM_000_023","단, 랭크 상승의 조건이 되는 임무는
+다른 임무에 비해 성공하기 어려운 편입니다.
+먼저 훈련이나 소대 임무를 통해 소대원의 레벨을 올리세요."
+29,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_000_030","제가 지켜본 바로는, 우리 소대는 순조롭게 경험을 쌓아
+상당한 실력을 갖추게 된 것 같습니다…….
+앞으로 더욱 강한 소대가 되도록 훈련과 임무에 힘쓰겠습니다!"
+30,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_000_031","소대 종합능력 합계가 최대치에 도달했습니다.
+이제부터 특정 능력을 올리면 다른 능력이 낮아집니다."
+31,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_100_000","바로 훈련을 시작하시는군요!
+그럼, 어느 메뉴를 실행할지
+단련하고 싶은 부분을 고려하여 선택하십시오!"
+32,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_100_010","제가 지켜본 바로는, 우리 소대는 순조롭게 경험을 쌓아
+상당한 실력을 갖추게 된 것 같습니다…….
+앞으로 더욱 강한 소대가 되도록 훈련과 임무에 힘쓰겠습니다!"
+33,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_100_020","제가 지켜본 바로는, 우리 소대는 순조롭게 경험을 쌓아
+상당한 실력을 갖추게 된 것 같습니다…….
+앞으로 더욱 강한 소대가 되도록 훈련과 임무에 힘쓰겠습니다!"
+34,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_100_030","제가 지켜본 바로는, 우리 소대는 순조롭게 경험을 쌓아
+상당한 실력을 갖추게 된 것 같습니다…….
+앞으로 더욱 강한 소대가 되도록 훈련과 임무에 힘쓰겠습니다!"
+35,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_100_031","소대 종합능력 합계가 최대치에 도달했습니다.
+이제부터 특정 능력을 올리면 다른 능력이 낮아집니다."
+36,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_200_000","바로 훈련을 시작하시는군요!
+그럼, 어느 메뉴를 실행할지
+단련하고 싶은 부분을 고려하여 선택하십시오!"
+37,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_200_010","제가 지켜본 바로는, 우리 소대는 순조롭게 경험을 쌓아
+상당한 실력을 갖추게 된 것 같습니다…….
+앞으로 더욱 강한 소대가 되도록 훈련과 임무에 힘쓰겠습니다!"
+38,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_200_020","제가 지켜본 바로는, 우리 소대는 순조롭게 경험을 쌓아
+상당한 실력을 갖추게 된 것 같습니다…….
+앞으로 더욱 강한 소대가 되도록 훈련과 임무에 힘쓰겠습니다!"
+39,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_200_030","제가 지켜본 바로는, 우리 소대는 순조롭게 경험을 쌓아
+상당한 실력을 갖추게 된 것 같습니다…….
+앞으로 더욱 강한 소대가 되도록 훈련과 임무에 힘쓰겠습니다!"
+40,"TEXT_COMARMGCARMYTRAINING_00344_PLATOONINSTRUCTOR_200_031","소대 종합능력 합계가 최대치에 도달했습니다.
+이제부터 특정 능력을 올리면 다른 능력이 낮아집니다."

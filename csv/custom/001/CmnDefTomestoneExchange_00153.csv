@@ -1,0 +1,16 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_HELP","<Sheet(Item,IntegerParameter(1),0)/>?
+그 돌은 이제 안 팔린다고 로웨나가 거래를 끊었어.
+수집가들은 유행이 지나면 금방 다른 '사냥감'을 찾아가거든."
+1,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_NOT_HAVE","필요하다면 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EB9E91FF07EC9DB4EB9E91</13> 교환해줄 순 있는데……
+당신은 어차피 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 안 가지고 있으니까
+말해도 소용없겠네."
+2,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_Q","필요하다면 당신이 가진 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
+<Sheet(Item,IntegerParameter(3),0)/><14>FF0E02280AFF054974656DE8040103FF04EBA19CFF07EC9CBCEBA19C</14> 교환해줄 수도 있어.
+팔아봤자 푼돈이지만 그냥 용돈이나 하지 뭐."
+3,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_Q","<Sheet(Item,IntegerParameter(1),0)/>×<Value>IntegerParameter(2)</Value>개를
+<Sheet(Item,IntegerParameter(3),0)/>×<Value>IntegerParameter(4)</Value>개로 교환하시겠습니까?"
+4,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_YES","교환한다"
+5,"TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_NO","취소"

@@ -1,0 +1,27 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNRADENTERTOTORAK_00004_BLOISIRANT_1","이곳 '토토라크 감옥'은
+그리다니아 귀곡부대 제5창병조가 관할하는 구역이다.
+모험가여, 무슨 일로 왔는지 간결하게 말해라."
+1,"TEXT_CMNRADENTERTOTORAK_00004_Q1_1","무슨 일로 왔습니까?"
+2,"TEXT_CMNRADENTERTOTORAK_00004_A1_1","'토토라크 감옥' 시작 조건 묻기"
+3,"TEXT_CMNRADENTERTOTORAK_00004_A1_2","'토토라크 감옥' 시작"
+4,"TEXT_CMNRADENTERTOTORAK_00004_A1_3","취소"
+5,"TEXT_CMNRADENTERTOTORAK_00004_BLOISIRANT_5","'토토라크 감옥'은 특별 위험구역으로 지정되어 있다.
+인원수와 참가 자격에 제한이 있으니 주의하도록."
+6,"TEXT_CMNRADENTERTOTORAK_00004_SYSTEM_6","'토토라크 감옥'을 시작하려면
+투사 또는 마법사 레벨 23 이상인 플레이어 4명이
+파티를 맺어야 합니다."
+7,"TEXT_CMNRADENTERTOTORAK_00004_SYSTEM_8","또한, 레벨이 26 이상이면 공략 중에는 레벨 25로 조율됩니다."
+8,"TEXT_CMNRADENTERTOTORAK_00004_SYSTEM_7","(현실 시간) 90분이 경과하면
+'토토라크 감옥'이 강제로 종료됩니다."
+9,"TEXT_CMNRADENTERTOTORAK_00004_SYSTEM_9","전리품이 남은 상태에서 다른 파티원이 모두 퇴장하면
+전리품 목록에 있는 모든 아이템을 자동으로 획득합니다.
+획득하지 못한 아이템은 파기되므로 주의하십시오."
+10,"TEXT_CMNRADENTERTOTORAK_00004_Q2_1","'토토라크 감옥'을 시작하시겠습니까?"
+11,"TEXT_CMNRADENTERTOTORAK_00004_A2_1","예"
+12,"TEXT_CMNRADENTERTOTORAK_00004_A2_2","아니요"
+13,"TEXT_CMNRADENTERTOTORAK_00004_SYSTEM_10","<Sheet(InstanceContentTextData,IntegerParameter(1),0)/><Sheet(InstanceContent,IntegerParameter(2),3)/><13>FF3902281DFF18496E7374616E6365436F6E74656E745465787444617461E8020103022815FF10496E7374616E6365436F6E74656E74E8030403FF04EBA5BCFF04EC9D84</13> 시작하지 못했습니다.
+시작 조건을 확인하십시오."
+14,"TEXT_CMNRADENTERTOTORAK_00004_SYSTEM_20","'토토라크 감옥'이 임무 찾기에 등록되었습니다."

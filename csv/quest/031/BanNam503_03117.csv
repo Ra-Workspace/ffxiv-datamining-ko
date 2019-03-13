@@ -1,0 +1,132 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANNAM503_03117_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+도로 일로에 있는 광풍원 세이게츠는 생각이 있는 듯하다."
+1,"TEXT_BANNAM503_03117_SEQ_01","온살 하카이르에 있는 장인 나마즈오와 대화하자."
+2,"TEXT_BANNAM503_03117_SEQ_02","온살 하카이르에 있는 장인 나마즈오와 대화했다.
+광풍원 세이게츠에 의뢰받은 물건을 납품하자."
+3,"TEXT_BANNAM503_03117_SEQ_03",""
+4,"TEXT_BANNAM503_03117_SEQ_04",""
+5,"TEXT_BANNAM503_03117_SEQ_05",""
+6,"TEXT_BANNAM503_03117_SEQ_06",""
+7,"TEXT_BANNAM503_03117_SEQ_07",""
+8,"TEXT_BANNAM503_03117_SEQ_08",""
+9,"TEXT_BANNAM503_03117_SEQ_09",""
+10,"TEXT_BANNAM503_03117_SEQ_10",""
+11,"TEXT_BANNAM503_03117_SEQ_11",""
+12,"TEXT_BANNAM503_03117_SEQ_12",""
+13,"TEXT_BANNAM503_03117_SEQ_13",""
+14,"TEXT_BANNAM503_03117_SEQ_14",""
+15,"TEXT_BANNAM503_03117_SEQ_15",""
+16,"TEXT_BANNAM503_03117_SEQ_16",""
+17,"TEXT_BANNAM503_03117_SEQ_17",""
+18,"TEXT_BANNAM503_03117_SEQ_18",""
+19,"TEXT_BANNAM503_03117_SEQ_19",""
+20,"TEXT_BANNAM503_03117_SEQ_20",""
+21,"TEXT_BANNAM503_03117_SEQ_21",""
+22,"TEXT_BANNAM503_03117_SEQ_22",""
+23,"TEXT_BANNAM503_03117_SEQ_23",""
+24,"TEXT_BANNAM503_03117_TODO_00","온살 하카이르에 있는 장인 나마즈오와 대화"
+25,"TEXT_BANNAM503_03117_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>차카 조 남쪽 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>차카 조 남쪽 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>야트 칼 상류에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+26,"TEXT_BANNAM503_03117_TODO_02",""
+27,"TEXT_BANNAM503_03117_TODO_03",""
+28,"TEXT_BANNAM503_03117_TODO_04",""
+29,"TEXT_BANNAM503_03117_TODO_05",""
+30,"TEXT_BANNAM503_03117_TODO_06",""
+31,"TEXT_BANNAM503_03117_TODO_07",""
+32,"TEXT_BANNAM503_03117_TODO_08",""
+33,"TEXT_BANNAM503_03117_TODO_09",""
+34,"TEXT_BANNAM503_03117_TODO_10",""
+35,"TEXT_BANNAM503_03117_TODO_11",""
+36,"TEXT_BANNAM503_03117_TODO_12",""
+37,"TEXT_BANNAM503_03117_TODO_13",""
+38,"TEXT_BANNAM503_03117_TODO_14",""
+39,"TEXT_BANNAM503_03117_TODO_15",""
+40,"TEXT_BANNAM503_03117_TODO_16",""
+41,"TEXT_BANNAM503_03117_TODO_17",""
+42,"TEXT_BANNAM503_03117_TODO_18",""
+43,"TEXT_BANNAM503_03117_TODO_19",""
+44,"TEXT_BANNAM503_03117_TODO_20",""
+45,"TEXT_BANNAM503_03117_TODO_21",""
+46,"TEXT_BANNAM503_03117_TODO_22",""
+47,"TEXT_BANNAM503_03117_TODO_23",""
+48,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_000","잘 들어, '제방 풍속 문답집'에 의하면
+예로부터 제전과 음악은 떼려야 뗄 수 없는 관계라 한다.
+그리고 음악을 연주하려면 당연히 악기가 필요하겠지."
+49,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_001","하지만 총명한 나는 이렇게 생각한다.
+악기를 구입하는 건 쉽지만 이곳에서 나는 소재로 악기를 만들어야
+초원의 강에서 생활하던 조상님들의 혼에도 울리는 게 아닐까."
+50,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_002","악기 제작은 교신에게 맡길 생각이다.
+그러니 귀군은 '차카 조'로 가서 소재를 모으라고 시킨
+'장인 나마즈오'와 함께 부품을 만들어줬으면 한다."
+51,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_010","마침 잘 와줬음메!
+악기 부품을 만들라고 해서 작업하고 있었는데,
+좀 부족한 물건이 있다는 걸 깨달았던 참이얌메♪"
+52,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_011","'<Sheet(Item,22737,0)/>'<13>FF0F02280BFF054974656DF258D10103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 가죽 고정용 못이 필요하담메♪
+내 옆에 있는 상자에 소재는 모아 두었으니까
+부족해지면 편하게 갖다가 쓰면 된담메!"
+53,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_012","'<Sheet(Item,22737,0)/>'<13>FF0F02280BFF054974656DF258D10103FF04EBA19CFF07EC9CBCEBA19C</13> 쓸 질 좋은 가죽이 필요하담메♪
+내 옆에 있는 상자에 소재는 모아 두었으니까
+부족해지면 편하게 갖다가 쓰면 된담메!"
+54,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_013","'<Sheet(Item,22737,0)/>' 중 하나인, 본체 마무리에 쓸 옻이 필요하담메♪
+내 옆에 있는 상자에 소재는 모아 두었으니까
+부족해지면 편하게 갖다가 쓰면 된담메!"
+55,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_014","가죽을 무두질할 때 쓸 '<Sheet(Item,22633,0)/>'<13>FF0F02280BFF054974656DF258690103FF04EAB080FF04EC9DB4</13> 필요하담메♪
+아마도 차카 조 남쪽 일대에서 구할 수 있을 테니까
+2개 정도만 갖다주면 좋겠담메!"
+56,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_015","가죽을 무두질할 때 쓸 '<Sheet(Item,22659,0)/>'<13>FF0F02280BFF054974656DF258830103FF04EAB080FF04EC9DB4</13> 필요하담메♪
+아마도 차카 조 남쪽 일대에서 구할 수 있을 테니까
+2개 정도만 갖다주면 좋겠담메!"
+57,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_016","북 가죽으로 쓸 '<Sheet(Item,22685,0)/>'<13>FF0F02280BFF054974656DF2589D0103FF04EAB080FF04EC9DB4</13> 필요하담메♪
+아마도 '야트 칼 상류'에서 <Sheet(Item,20613,0)/> 같은 걸 사용하면
+잡을 수 있을 테니 좀 잡아서 갖고 오길 바람메!"
+58,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_017","부탁한 물건이 준비되면
+'광풍원 세이게츠'에게 전달해주면 된담메.
+난 여기서 계속 작업을 할 테니, 잘 부탁한담메!"
+59,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_018","혹시 재료가 부족하냠메?
+소재는 내 옆에 있는 상자에 모아 두었으니
+부족해지면 편하게 갖다가 써도 된담메!"
+60,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_019","혹시 재료가 부족하냠메?
+소재는 내 옆에 있는 상자에 모아 두었으니
+부족해지면 편하게 갖다가 써도 된담메!"
+61,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_020","혹시 재료가 부족하냠메?
+소재는 내 옆에 있는 상자에 모아 두었으니
+부족해지면 편하게 갖다가 써도 된담메!"
+62,"TEXT_BANNAM503_03117_SYSTEM_000_021","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+63,"TEXT_BANNAM503_03117_SYSTEM_000_022","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+64,"TEXT_BANNAM503_03117_SYSTEM_000_023","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+65,"TEXT_BANNAM503_03117_SYSTEM_000_024","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+66,"TEXT_BANNAM503_03117_SYSTEM_000_025","상자에서 필요한 재료를 꺼냈다!"
+67,"TEXT_BANNAM503_03117_SYSTEM_000_026","상자에서 필요한 재료를 꺼냈다!"
+68,"TEXT_BANNAM503_03117_SYSTEM_000_027","상자에서 필요한 재료를 꺼냈다!"
+69,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_028","부탁한 물건은 모을 수 있을 것 같냠메?
+내가 말한 곳에서 구할 수 있을 테니 잘 부탁한담메!"
+70,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_029","부탁한 물건은 모을 수 있을 것 같냠메?
+내가 말한 곳에서 구할 수 있을 테니 잘 부탁한담메!"
+71,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_030","부탁한 물건은 모을 수 있을 것 같냠메?
+내가 말한 곳에서 구할 수 있을 테니 잘 부탁한담메!"
+72,"TEXT_BANNAM503_03117_DAILYNAMAZUO03117_000_031","남은 재료는 나중에 배달하겠담메.
+부탁한 것을 '광풍원 세이게츠'에게 전달해주기 바란담메!"
+73,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_040","장인 나마즈오는 잘하고 있던가?
+마음 편히 콧노래나 부르면서 게으름 피우고 있진 않던가?"
+74,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_100_041","호오, 이런 <Sheet(Item,22737,0)/><13>FF0F02280BFF054974656DF258D10103FF04EBA5BCFF04EC9D84</13> 준비했을 줄이야.
+귀군에게 그를 도와주라고 부탁한 나의 판단은 옳았던 것 같군."
+75,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_110_041","호오, 가죽을 무두질할 때 쓸 <Sheet(Item,22633,0)/><13>FF0F02280BFF054974656DF258690103FF04EBA5BCFF04EC9D84</13> 준비했을 줄이야.
+귀군에게 그를 도와주라고 부탁한 나의 판단은 옳았던 것 같군."
+76,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_120_041","호오, 가죽을 무두질할 때 쓸 <Sheet(Item,22659,0)/><13>FF0F02280BFF054974656DF258830103FF04EBA5BCFF04EC9D84</13> 준비했을 줄이야.
+귀군에게 그를 도와주라고 부탁한 나의 판단은 옳았던 것 같군."
+77,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_130_041","호오, 북의 가죽으로 이용할 <Sheet(Item,22685,0)/><13>FF0F02280BFF054974656DF2589D0103FF04EBA5BCFF04EC9D84</13> 준비했을 줄이야.
+귀군에게 그를 도와주라고 부탁한 나의 판단은 옳았던 것 같군."
+78,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_041","<Highlight>ObjectParameter(1)</Highlight>군의 협력 덕에
+큰메기 대제전은 점점 더 활기찰 것이다."
+79,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_042","문제는 최근 들어
+활기찬 걸 넘어서 너무 시끄러워지는 바람에
+책을 읽을 때 방해가 된다는 것이지만……."
+80,"TEXT_BANNAM503_03117_KOFUINSEIGETSU_000_043","거 참, 문명의 발달에는
+늘 빛과 그림자, 두 가지 측면이 공존한다는 사실을 증명하는 셈이군."

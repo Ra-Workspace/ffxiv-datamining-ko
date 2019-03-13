@@ -1,0 +1,716 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_COMARMGCARMYOFFICER_00342_MENU_YES","예"
+1,"TEXT_COMARMGCARMYOFFICER_00342_MENU_NO","아니요"
+2,"TEXT_COMARMGCARMYOFFICER_00342_MENU_CANCEL","취소"
+3,"TEXT_COMARMGCARMYOFFICER_00342_MENU_CANCEL2","<If(GreaterThan(IntegerParameter(1),0))><Gui(69)/><Else/></If>취소"
+4,"TEXT_COMARMGCARMYOFFICER_00342_RANK_UP","소대 랭크 <Value>IntegerParameter(1)</Value>"
+5,"TEXT_COMARMGCARMYOFFICER_00342_MENU_TITLE_WAITING","수행 중인 소대 임무: 없음"
+6,"TEXT_COMARMGCARMYOFFICER_00342_MENU_TITLE_EXPEDITION","수행 중인 소대 임무: <Sheet(GcArmyExpeditionType,<Sheet(GcArmyExpedition,IntegerParameter(1),7)/>,0)/>  <Sheet(GcArmyExpedition,IntegerParameter(1),8)/>
+완료 예정: <If(GreaterThan(IntegerParameter(2),0))>완료<Else/><If(GreaterThan(IntegerParameter(4),0))><Value>IntegerParameter(4)</Value>시간 <If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>분 후<Else/></If><Else/><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>분 후<Else/>1분 이내</If></If></If> [<Time(IntegerParameter(5))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]"
+7,"TEXT_COMARMGCARMYOFFICER_00342_MENU_TITLE_TRAINING","（★未使用／削除予定★）"
+8,"TEXT_COMARMGCARMYOFFICER_00342_MENU_001","<If(GreaterThan(IntegerParameter(1),0))><Gui(69)/><Else/></If>소대 임무 확인하기"
+9,"TEXT_COMARMGCARMYOFFICER_00342_MENU_002","<If(GreaterThan(IntegerParameter(1),0))><Gui(69)/><Else/></If>수행 중인 소대 임무 중지"
+10,"TEXT_COMARMGCARMYOFFICER_00342_MENU_003","<If(GreaterThan(IntegerParameter(1),0))><Gui(69)/><Else/></If>지침서 읽기"
+11,"TEXT_COMARMGCARMYOFFICER_00342_MENU_004","<If(GreaterThan(IntegerParameter(1),0))><Gui(101)/><Else/></If><UIForeground>F20224</UIForeground>새로운 임무(공략 임무)<UIForeground>01</UIForeground>"
+12,"TEXT_COMARMGCARMYOFFICER_00342_MENU_005","공략 임무 확인하기"
+13,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_000","현재 수행 중인 임무가 없습니다."
+14,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_010","명령한 임무를 이미 완료했습니다."
+15,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_020","소지품 또는 크리스탈이 가득 차서
+임무 결과 보고를 받지 못했습니다.
+소지품을 정리한 후 다시 말을 걸어주십시오."
+16,"TEXT_COMARMGCARMYOFFICER_00342_OBTAIN_TITLE","다음 항목이 최대 보유 수를 초과하므로 일부 보상을 받을 수 없습니다.
+계속하시겠습니까?
+<If(GreaterThan(IntegerParameter(1),0))>
+  · 군표<Else/></If><If(GreaterThan(IntegerParameter(2),0))>
+  · MGP<Else/></If><If(GreaterThan(IntegerParameter(3),0))>
+  · <Sheet(Item,IntegerParameter(5),0)/><Else/></If><If(GreaterThan(IntegerParameter(4),0))>
+  · <Sheet(Item,IntegerParameter(6),0)/><Else/></If>"
+17,"TEXT_COMARMGCARMYOFFICER_00342_ABORT_YESNO","<Sheet(GcArmyExpeditionType,<Sheet(GcArmyExpedition,IntegerParameter(1),7)/>,0)/>  <Sheet(GcArmyExpedition,IntegerParameter(1),8)/>
+완료 예정: <If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>시간 <If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>분 후<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>분 후<Else/>1분 이내</If></If> [<Time(IntegerParameter(4))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>]
+소대 임무를 중지하시겠습니까?"
+18,"TEXT_COMARMGCARMYOFFICER_00342_ABORT_YESNO_TRAINING","（★未使用／削除予定★）"
+19,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_TITLE","어느 항목을 읽으시겠습니까?"
+20,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_001","소대 임무에 대해서"
+21,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_002","훈련에 대해서"
+22,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_003","지원병을 모으는 방법에 대해서"
+23,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_004","지원병을 입대시키는 방법에 대해서"
+24,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_005","소대 종합능력의 최대치에 대해서"
+25,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_006","소대원의 클래스 변경에 대해서"
+26,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_007","행운의 법칙에 대해서"
+27,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_008","임무 적성에 대해서"
+28,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_009","공략 임무에 대해서"
+29,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_010","공략 임무의 작전에 대해서"
+30,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_011","소대원의 장비 투영에 대해서"
+31,"TEXT_COMARMGCARMYOFFICER_00342_GUIDE_CANCEL","취소"
+32,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_270","（★未使用／削除予定★）"
+33,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_270","（★未使用／削除予定★）"
+34,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_270","（★未使用／削除予定★）"
+35,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_280","（★未使用／削除予定★）"
+36,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_280","（★未使用／削除予定★）"
+37,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_280","（★未使用／削除予定★）"
+38,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_281","'공략수첩' 항목을 달성하다 보면
+간혹 '지원병'이 나타나는 경우가 있습니다."
+39,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_282","지원병이 나타나면 화면 중앙에 메시지가 표시되며,
+막사에 <Sheet(EObj,2007153,0)/><13>FF1002280CFF05454F626AF61EA0710103FF04EAB080FF04EC9DB4</13> 비치됩니다."
+40,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_283","지원병 유무는 주 메뉴 '임무 정보'에서
+'임무 정보 목록'을 선택하면 확인할 수 있습니다."
+41,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_284","지원병이 나타나면 막사에 가서 <Sheet(EObj,2007153,0)/><13>FF1002280CFF05454F626AF61EA0710103FF04EBA5BCFF04EC9D84</13> 확인하고
+'모험가 소대'에 받아들일지 결정하세요."
+42,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_290","（★未使用／削除予定★）"
+43,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_291","（★未使用／削除予定★）"
+44,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_292","'지원병' 채용 여부는
+<Sheet(EObj,2007153,0)/><13>FF1002280CFF05454F626AF61EA0710103FF04EBA5BCFF04EC9D84</13> 선택하면 결정할 수 있습니다."
+45,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_100_292","또, 소대 정원 8명을 다 채운 상태에서
+새로운 소대원을 맞이하려면,
+이미 소속된 소대원 중 누군가를 제외해야 합니다."
+46,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_290","（★未使用／削除予定★）"
+47,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_291","（★未使用／削除予定★）"
+48,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_290","（★未使用／削除予定★）"
+49,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_291","（★未使用／削除予定★）"
+50,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_200_292","（★未使用／削除予定★）"
+51,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_300","（★未使用／削除予定★）"
+52,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_301","（★未使用／削除予定★）"
+53,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_300","'소대 임무'란 <If(GreaterThan(PlayerParameter(52),0))>흑와단이<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당이<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대가<Else/></If> 소대에 요청한 임무입니다.
+파견할 소대원을 4명 선택하여 임무를 맡기세요."
+54,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_301","'소대 임무'에 파견할 소대원에게는 군표를 지급해야 합니다.
+소대 임무에 소요되는 시간은 현실 시간으로 약 18시간입니다."
+55,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_302","완료 시각은 주 메뉴 '임무 정보'에서
+'임무 정보 목록'을 선택하면 확인할 수 있습니다."
+56,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_303","'소대 임무'를 수행하거나 결과를 확인하려면
+소대 담당 중사에게 말을 거십시오."
+57,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_304","소대 임무 완료 현황 및 '요구 능력치'는 현실 시간으로
+매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시시에 초기화됩니다.
+또한, 각 임무는 일주일에 1번씩만 달성할 수 있습니다."
+58,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_302","（★未使用／削除予定★）"
+59,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_305","（★未使用／削除予定★）"
+60,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_300","（★未使用／削除予定★）"
+61,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_301","（★未使用／削除予定★）"
+62,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_302","（★未使用／削除予定★）"
+63,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_300","（★未使用／削除予定★）"
+64,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_301","（★未使用／削除予定★）"
+65,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_302","（★未使用／削除予定★）"
+66,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_310","（★未使用／削除予定★）"
+67,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_311","（★未使用／削除予定★）"
+68,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_312","'훈련'에서는 소대의 종합능력,
+즉 '종합 신체능력', '종합 정신력', '종합 전술 숙련도'를
+단련할 수 있습니다."
+69,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_313","선택한 훈련 종류에 따라 상승하는 능력이 다릅니다.
+각 소대 임무에 필요한 능력치를 염두에 두고 훈련하세요!"
+70,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_314","훈련은 현실 시간으로 약 1시간 소요됩니다.
+완료 시각은 주 메뉴 '임무 정보'에서
+'임무 정보 목록'을 선택하면 확인할 수 있습니다."
+71,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_315","현재 훈련 상황은
+<Sheet(EObj,2007150,0)/>에서 확인할 수 있습니다."
+72,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_316","또한, 훈련은 하루에 3회까지 실행할 수 있습니다.
+훈련 횟수는 현실 시간으로 매일 <ResetTime>06</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시시에 초기화됩니다."
+73,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_310","（★未使用／削除予定★） "
+74,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_311","（★未使用／削除予定★）"
+75,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_310","（★未使用／削除予定★）"
+76,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_311","（★未使用／削除予定★）"
+77,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_310","소대 종합능력 합계에는 최대치가 정해져 있습니다.
+최대치를 채운 후에 특정한 종합능력을 올리게 되면
+다른 종합능력이 낮아집니다."
+78,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_311","소대 종합능력 최대치는
+소대 랭크가 올라갈수록 증가합니다.
+특수 임무에 성공하여 랭크를 올리세요."
+79,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_320","소대원의 클래스를 변경하려면
+클래스를 변경하기 위한 아이템을 가지고 있어야 합니다."
+80,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_321","<Sheet(EObj,2007150,0)/><13>FF1002280CFF05454F626AF61EA06E0103FF04EBA5BCFF04EC9D84</13> 선택하고, '소대 정보 보기'에서
+소대원을 선택한 후, 세부 메뉴에서 '클래스 변경'을 누르면
+대상의 클래스를 변경할 수 있습니다."
+81,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_330","（★未使用／削除予定★）"
+82,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_331","（★未使用／削除予定★）"
+83,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_330","소대 임무에서 복귀한 소대원은
+간혹 '행운의 법칙'을 발생시키기도 합니다."
+84,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_331","소대원이 행운의 법칙을 보유한 상태로 임무에 참가하면
+파티원의 종족 구성 등 특정 조건에 따라
+능력 상승이나 보상 증가와 같은 효과를 얻을 수 있습니다."
+85,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_332","<Sheet(EObj,2007150,0)/><13>FF1002280CFF05454F626AF61EA06E0103FF04EBA5BCFF04EC9D84</13> 선택하고, '소대 정보 보기'에서
+소대원을 선택한 후, 세부 메뉴에서 '행운의 법칙 관리'를 누르면
+행운의 법칙을 설정하거나 변경할 수 있습니다."
+86,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_333","설정되지 않은 행운의 법칙은 효과가 발휘되지 않으며,
+그 상태로 다음 소대 임무에 파견하면 소멸합니다.
+발생 후에는 반드시 '행운의 법칙 관리'에서 설정하세요."
+87,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_340","소대 임무 목록에 있는 '무작위 보너스'에는
+각 소대 임무에 대해 효과적인 종족과 클래스가 적혀있으며,
+해당하는 소대원을 파견하면 행운의 법칙이 강화됩니다."
+88,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_341","난이도가 높은 소대 임무에서는 '임무 적성'도
+성공 여부를 크게 좌우합니다.
+내용을 참고하여 소대원을 편성하세요."
+89,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_010_342","'임무 적성'은 일반 임무와 특수 임무에서 발생하며,
+현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시시에 초기화됩니다."
+90,"TEXT_COMARMGCARMYOFFICER_00342_021_000_GRD","（★未使用／削除予定★）"
+91,"TEXT_COMARMGCARMYOFFICER_00342_021_001_GRD","（★未使用／削除予定★）"
+92,"TEXT_COMARMGCARMYOFFICER_00342_021_002_GRD","（★未使用／削除予定★）"
+93,"TEXT_COMARMGCARMYOFFICER_00342_021_003_GRD","（★未使用／削除予定★）"
+94,"TEXT_COMARMGCARMYOFFICER_00342_021_000_LIM","（★未使用／削除予定★）"
+95,"TEXT_COMARMGCARMYOFFICER_00342_021_001_LIM","（★未使用／削除予定★）"
+96,"TEXT_COMARMGCARMYOFFICER_00342_021_002_LIM","（★未使用／削除予定★）"
+97,"TEXT_COMARMGCARMYOFFICER_00342_021_003_LIM","（★未使用／削除予定★）"
+98,"TEXT_COMARMGCARMYOFFICER_00342_021_000_ULD","（★未使用／削除予定★）"
+99,"TEXT_COMARMGCARMYOFFICER_00342_021_001_ULD","（★未使用／削除予定★）"
+100,"TEXT_COMARMGCARMYOFFICER_00342_021_002_ULD","（★未使用／削除予定★）"
+101,"TEXT_COMARMGCARMYOFFICER_00342_021_003_ULD","（★未使用／削除予定★）"
+102,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_340","'공략 임무'란 임의로 선택한 소대원 3명을 데리고
+특정한 일반 던전을 공략하는 임무입니다."
+103,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_341","이때, 모험가와 동행하는 소대원을 모두 포함해
+'방어: 1명/회복: 1명/공격: 2명'이하가 되도록
+역할을 조정해야 합니다."
+104,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_342","공략 임무 중 소대원들은
+스스로의 판단하에 자율적으로 행동하지만
+'명령'을 내려 어느 정도 행동을 지시할 수 있습니다."
+105,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_343","명령에는 '명령: 전투 개시', '명령: 일시 후퇴',
+'명령: 리미트 브레이크'의 3종류가 있고
+전용 단축바로 실행할 수 있습니다."
+106,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_344","'명령: 전투 개시'를 실행하면 소대원들은
+대상으로 삼은 적을 향해 전투를 개시합니다."
+107,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_345","'명령: 일시 후퇴'를 실행하면 소대원들은
+전투를 중단하고 플레이어 근처로 모입니다."
+108,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_346","'명령: 일시 후퇴'를 실행하면
+그 명령은 '명령: 후퇴 취소'로 바뀝니다."
+109,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_347","일시 후퇴를 해제하고 싶은 경우에는
+'명령: 후퇴 취소'나 '명령: 전투 개시'를 실행합니다. "
+110,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_348","'명령: 리미트 브레이크'를 실행하면
+소대원들이 협력하여 리미트 브레이크가 발동됩니다."
+111,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_349","이 리미트 브레이크는 레벨 1 전용 기술로
+'리미트 게이지'가 2단계까지 차 있어도
+1단계 만큼만 소비됩니다."
+112,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_350","명령을 일반 단축바에 등록하고 싶은 경우는
+주 메뉴 '내 캐릭터' → '기술 목록' → 
+'명령'→ '모험가 소대'에서 선택하십시오."
+113,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_351","공략 임무의 실행 및 결과는
+소대 담당 중사를 통해 확인할 수 있습니다."
+114,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_360","'작전'은 공략 임무 중인 소대원들의
+행동 방침과 능력에 관한 요소입니다."
+115,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_361","처음에는 '자유'만 습득한 상태이지만
+공략 임무에서 귀환하면, 드물게 새로운 작전을 습득합니다."
+116,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_362","작전에는 공격을 중시하는 '공격'
+공격과 방어를 모두 중시하는 '균형', 방어를 중시하는 '방어'등이 존재하며
+행동 방침이 바뀌고, 전용 강화 효과가 부여됩니다."
+117,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_363","또한, 공략 임무를 거듭하다 보면
+드물게 '작전 숙련도'가 향상되어 효과가 높아집니다."
+118,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_364","각 소대원에게 말을 걸어 '작전 지시'를 선택하면
+작전을 변경할 수 있으므로 취향에 맞게 설정해 주십시오."
+119,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_370","소대원의 레벨이 51 이상일 경우,
+말을 걸어 '장비 투영'을 선택하면
+대상자의 장비의 겉모습을 변경할 수 있습니다."
+120,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_371","투영할 장비는 소지품에서 선택할 수 있습니다.
+이때 촉매는 소비되지만 장비는 사라지지 않습니다."
+121,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_100","기다리고 있었습니다, <Highlight>ObjectParameter(1)</Highlight> 소대장님!
+오늘부터 부대를 지휘하게 되셨는데,
+뭘 하면 좋을지 몰라 당황스러우시죠?"
+122,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_136","우선 소대원을 보충해주십시오.
+우리 부대에는 현재 3명의 소대원이 있는데,
+새로 1명을 추가해 총 4명으로 증원해야 합니다."
+123,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_137","<Highlight>ObjectParameter(1)</Highlight> 소대장님이 모험가로서 활약하시면,
+그 모습을 본 사람들이 '지원병'으로 나타날 겁니다.
+그들 중에서 새로운 소대원을 고르시면 됩니다!"
+124,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_138","'공략수첩' 항목을 달성하다 보면
+간혹 '지원병'이 나타나는 경우가 있습니다."
+125,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_139","지원병이 나타나면 화면 중앙에 메시지가 표시되며,
+막사에 <Sheet(EObj,2007153,0)/><13>FF1002280CFF05454F626AF61EA0710103FF04EAB080FF04EC9DB4</13> 비치됩니다."
+126,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_140","지원병 유무는 주 메뉴 '임무 정보'에서
+'임무 정보 목록'을 선택하면 확인할 수 있습니다."
+127,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_141","지원병이 나타나면 막사에 가서 <Sheet(EObj,2007153,0)/><13>FF1002280CFF05454F626AF61EA0710103FF04EBA5BCFF04EC9D84</13> 확인하고
+'모험가 소대'에 받아들일지 결정하세요."
+128,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_110","（★未使用／削除予定★）"
+129,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_111","（★未使用／削除予定★）"
+130,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_101","（★未使用／削除予定★）"
+131,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_102","（★未使用／削除予定★）"
+132,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_110","드디어 첫 '소대 임무'군요!
+보통은 몇 가지 임무 중에서 어디에 파견할지
+소대장님이 직접 고르시지만……."
+133,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_111","이번에는 첫 도전이니,
+외람되지만 제가 임무를 골라드리겠습니다."
+134,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_112","이제 파견할 소대원을 선택하여
+출격 명령을 내리시기 바랍니다!"
+135,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_113","'소대 임무'는 4인 1조로 수행합니다.
+먼저 소대원을 4명 고른 다음
+'임무 시작'을 선택하면 임무에 파견할 수 있습니다."
+136,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_120","이제 출격 준비가 끝났군요.
+참, 이번에는 특별히 제가 지급했습니다만
+'소대 임무'에 파견할 소대원에게는 군표를 지급해야 합니다."
+137,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_121","<If(GreaterThan(PlayerParameter(52),0))>흑와단은<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당은<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대는<Else/></If> 병사를 공짜로 부려먹는
+터무니없는 조직이 아니니까요!
+다음부터는 <Highlight>ObjectParameter(1)</Highlight> 님이 '군표'를 지급하시기 바랍니다."
+138,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_122","……아, 소대 임무가 완료되려면 시간이 좀 걸립니다.
+끝날 때쯤 저를 찾아오셔서 결과를 확인하시기 바랍니다!"
+139,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_124","（★未使用／削除予定★）"
+140,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_125","（★未使用／削除予定★）"
+141,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_126","소대 담당 중사에게 말을 걸면
+소대 임무 결과를 보고받을 수 있습니다."
+142,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_123","완료 시각은 주 메뉴 '임무 정보'에서
+'임무 정보 목록'을 선택하면 확인할 수 있습니다."
+143,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_130","첫 임무에 성공한 모양이군요.
+하긴, 심부름 수준밖에 안 되는 임무에 실패하면
+앞길이 막막하지요……."
+144,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_131","어쨌든, 이렇게 '소대 임무'로 경험을 쌓으면
+소대원들의 '개인 능력'이 향상됩니다.
+또, 대원들의 능력이 높아질수록 임무 성공률도 오르겠지요."
+145,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_132","（★未使用／削除予定★）"
+146,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_133","（★未使用／削除予定★）"
+147,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_134","앞으로 소대 임무 수행 상황은
+소대 담당 중사를 통해 확인할 수 있습니다."
+148,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_135","소대 임무 완료 현황은 현실 시간으로
+매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시시에 초기화됩니다.
+또한, 각 임무는 일주일에 1번씩만 달성할 수 있습니다."
+149,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_136","다음으로 '훈련'에 대해 설명하겠습니다.
+훈련을 통해서 우리 소대의 종합능력을 단련할 수 있습니다.
+대원 개개인도 성장하지만, 기본적으로 소대 자체에 영향을 주지요."
+150,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_137","소대를 훈련시키고 싶을 때는
+여기 있는 <Sheet(EObj,2007150,0)/>에서 지시를 내리십시오."
+151,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_138","어려운 소대 임무에 성공하려면 훈련은 필수입니다.
+훈련 없이는 승리도 없다!
+……제 예전 상관이 가르쳐준 말입니다."
+152,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_010_139","자, 지금 바로 훈련에 들어가
+우리 소대를 <If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If> 최고의 정예로 만드십시오!"
+153,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_150","최근 소대원이 눈에 띄게 성장한 덕분에
+더욱 어려운 소대 임무에 도전할 수 있게 되었습니다.
+어려운 임무에 성공하면 소대의 실력도 더욱 향상될 겁니다."
+154,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_151","레벨 20에 도달한 소대원이 있으므로
+랭크 상승 조건에 해당하는 임무를 수행할 수 있습니다.
+이 임무에 성공하면 소대 랭크가 상승합니다."
+155,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_152","단, 이 임무는 쉽게 성공할 수 없습니다.
+소대원의 개인 능력을 성장시켜 성공률을 높인 후 도전하세요."
+156,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_160","세상에, 그 어려운 임무에 성공하다니!
+이제 우리 소대의 명성은 더욱더 높아질 겁니다!"
+157,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_161","소대 랭크가 2로 상승했습니다!
+앞으로 '연습 임무'보다 어려운
+'일반 임무'에 도전할 수 있게 되었습니다."
+158,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_162","또한, 임무 성공 보상으로 소대원의 클래스를 변경할 수 있는
+<Sheet(Item,15772,0)/><13>FF0F02280BFF054974656DF23D9C0103FF04EBA5BCFF04EC9D84</13> 손에 넣었습니다."
+159,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_163","<Sheet(EObj,2007150,0)/><13>FF1002280CFF05454F626AF61EA06E0103FF04EBA5BCFF04EC9D84</13> 선택하고, '소대 정보 보기'에서
+소대원을 선택한 후, 세부 메뉴에서 '클래스 변경'을 누르면
+대상의 클래스를 변경할 수 있습니다."
+160,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_170","그런데 소대장님은 '행운의 법칙'에 대해 아십니까?
+어떤 사람과 같이 외출하면 꼭 날씨가 맑아진다거나 하는
+미신 비슷한 것 말입니다."
+161,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_171","일선 병사들은 이런 믿음에 집착하기 마련이라,
+우리 대원들도 '행운의 법칙'이 신경 쓰이기 시작한 모양입니다.
+임무에 파견할 때 참고하는 것도 좋을 듯합니다."
+162,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_172","소대 임무에서 복귀한 소대원은
+간혹 '행운의 법칙'을 발생시키기도 합니다."
+163,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_173","소대원이 행운의 법칙을 보유한 상태로 임무에 참가하면
+파티원의 종족 구성 등 특정 조건에 따라
+능력 상승이나 보상 증가와 같은 효과를 얻을 수 있습니다."
+164,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_174","<Sheet(EObj,2007150,0)/><13>FF1002280CFF05454F626AF61EA06E0103FF04EBA5BCFF04EC9D84</13> 선택하고, '소대 정보 보기'에서
+소대원을 선택한 후, 세부 메뉴에서 '행운의 법칙 관리'를 누르면
+대상의 행운의 법칙을 설정하거나 변경할 수 있습니다."
+165,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_175","설정되지 않은 행운의 법칙은 효과가 발휘되지 않으며,
+그 상태로 다음 소대 임무에 파견하면 소멸합니다.
+발생 후에는 반드시 '행운의 법칙 관리'에서 설정하세요."
+166,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_180","우리 소대의 역량이 갈수록 향상되는군요.
+<If(GreaterThan(PlayerParameter(52),0))>군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>작전본부<Else/></If>에서도 많이 기대하고 있으니,
+조만간 특수 임무를 맡게 될지도 모르겠습니다."
+167,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_181","레벨 40에 도달한 소대원이 있으므로
+랭크 상승 조건에 해당하는 임무를 수행할 수 있습니다.
+이 임무에 성공하면 소대 랭크가 상승합니다."
+168,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_182","이 임무에 성공하려면 상당한 실력이 요구됩니다.
+소대원의 개인 능력을 성장시켜 성공률을 높인 후 도전하세요."
+169,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_190","우리 소대가 또 해냈군요!
+무척이나 어렵고 중요한 임무에 성공했다며
+다른 부대에서 축하가 쏟아지고 있습니다!"
+170,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_191","소대 랭크가 3으로 상승했습니다!
+이제 한층 더 어려운 '특수 임무'에 도전할 수 있습니다."
+171,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_192","'특수 임무'에 성공하면 특별한 보상을 획득할 수 있습니다.
+적극적으로 도전해보세요."
+172,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_193","단, 특수 임무를 한 번 성공하면 다음 초기화 시점까지
+다른 특수 임무를 수행할 수 없습니다."
+173,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_194","특수 임무 완료 현황은 현실 시간으로
+매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시시에 초기화됩니다."
+174,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_195","……실은 <Highlight>ObjectParameter(1)</Highlight> 소대장님께 알려드려야 할
+중요한 이야기가 하나 있습니다."
+175,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_196","소대를 여기까지 키워주신 <Highlight>ObjectParameter(1)</Highlight> 소대장님께
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서 공문을 하달했습니다.
+바로 읽어드리지요."
+176,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_197","오늘부로 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13>
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 중위<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 중위<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 중위<Else/></If>로 임명한다.
+앞으로 더욱 분발할 것을 기대한다, 이상."
+177,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_198","네, 바로 승급 사령입니다! 진심으로 축하드립니다!
+부하인 저도 자랑스럽습니다!"
+178,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_330","<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서 공문을 하달했습니다.
+바로 읽어드리지요."
+179,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_331","<If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),8)/><Else/></If><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),8)/><Else/></If><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),8)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 이끄는 모험가 소대에게
+새로 '공략 임무'를 명한다.
+최선을 다하기 바란다. 이상."
+180,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_332","세상에, 새로운 임무라니!
+우리 부대가 실력을 인정받았다는 뜻이군요!"
+181,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_333","하지만 이건 <If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>의 기대가
+더 높아졌다는 뜻이기도 합니다.
+각오를 단단히 하고 공략 임무를 수행합시다!"
+182,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_334","'공략 임무'가 개방되었습니다.
+공략 임무란 임의로 선택한 소대원 3명을 데리고
+특정한 일반 던전을 공략하는 임무를 말합니다."
+183,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_335","임무를 성공시키면 특별 보상을 획득할 가능성이 있습니다.
+'소대 담당 중사'에게 말을 걸면 실행할 수 있으니
+적극적으로 도전해 보십시오."
+184,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_336","또한, 공략 임무에 대한 자세한 내용은
+'지침서 읽기'에서 확인할 수 있습니다.
+임무에 도전하기 전에 한번 확인해 보십시오."
+185,"TEXT_COMARMGCARMYOFFICER_00342_CAPTURE_UNLOCK","（★未使用／削除予定★）
+●攻略任務解放しますー"
+186,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_210","소대 임무가 완료된 것 같습니다!
+바로 결과를 확인하시기 바랍니다!"
+187,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_220","……실은 <Highlight>ObjectParameter(1)</Highlight> 소대장님께 알려드려야 할
+중요한 이야기가 하나 있습니다."
+188,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_221","소대를 여기까지 키워주신 <Highlight>ObjectParameter(1)</Highlight> 소대장님께
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서 공문을 하달했습니다.
+바로 읽어드리지요."
+189,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_222","오늘부로 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13>
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 중위<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 중위<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 중위<Else/></If>로 임명한다.
+앞으로 더욱 분발할 것을 기대한다, 이상."
+190,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_223","네, 바로 승급 사령입니다! 진심으로 축하드립니다!
+부하인 저도 자랑스럽습니다!"
+191,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_230","어서 오십시오. 소대원들이 기다리고 있었답니다!
+자, 무엇을 하면 되는지 명령만 내리십시오!!"
+192,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_240","어서 오십시오. 소대원들이 기다리고 있었습니다!
+더욱 강한 소대가 되기 위해 훈련과 임무에 힘쓰겠습니다!"
+193,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_250","우리 부대에는 현재 3명의 소대원이 있는데,
+새로 1명을 추가해 총 4명으로 증원해야 합니다."
+194,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_251","<Highlight>ObjectParameter(1)</Highlight> 소대장님이 모험가로서 활약하시면,
+그 모습을 본 사람들이 '지원병'으로 나타날 겁니다.
+그들 중에서 새로운 소대원을 고르시면 됩니다!"
+195,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_252","'공략수첩' 항목을 달성하다 보면
+간혹 '지원병'이 나타나는 경우가 있습니다."
+196,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_260","훈련을 통해서 우리 소대의 종합능력을 단련할 수 있습니다.
+대원 개개인도 성장하지만, 기본적으로 소대 자체에 영향을 주지요."
+197,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_261","소대를 훈련시키고 싶을 때는
+여기 있는 <Sheet(EObj,2007150,0)/>에서 지시를 내리십시오."
+198,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_262","어려운 소대 임무에 성공하려면 훈련은 필수입니다.
+훈련 없이는 승리도 없다!
+……제 예전 상관이 가르쳐준 말입니다."
+199,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_263","자, 지금 바로 훈련에 들어가
+우리 소대를 <If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If> 최고의 정예로 만드십시오!"
+200,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_320","<Highlight>ObjectParameter(1)</Highlight> 님 휘하 소대의 활약은
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서도 소문이 자자하더군요."
+201,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_321","<If(GreaterThan(PlayerParameter(52),0))>군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>작전본부<Else/></If>에서도 많이 기대하고 있으니,
+중요 임무에 한번 도전해보시는 게 어떻습니까?"
+202,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_322","일반 임무 중 중요 임무에 도전할 수 있습니다.
+이 임무에 성공하면 자신의 총사령부 계급을 높일 수 있습니다."
+203,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_100","기다리고 있었습니다, <Highlight>ObjectParameter(1)</Highlight> 소대장님!
+오늘부터 부대를 지휘하게 되셨는데,
+뭘 하면 좋을지 몰라 당황스러우시죠?"
+204,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_136","우선 소대원을 보충해주십시오.
+우리 부대에는 현재 3명의 소대원이 있는데,
+새로 1명을 추가해 총 4명으로 증원해야 합니다."
+205,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_137","<Highlight>ObjectParameter(1)</Highlight> 소대장님이 모험가로서 활약하시면,
+그 모습을 본 사람들이 '지원병'으로 나타날 겁니다.
+그들 중에서 새로운 소대원을 고르시면 됩니다!"
+206,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_110","（★未使用／削除予定★）"
+207,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_111","（★未使用／削除予定★）"
+208,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_101","（★未使用／削除予定★）"
+209,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_110","드디어 첫 '소대 임무'군요!
+보통은 몇 가지 임무 중에서 어디에 파견할지
+소대장님이 직접 고르시지만……."
+210,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_111","이번에는 첫 도전이니,
+외람되지만 제가 임무를 골라드리겠습니다."
+211,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_112","이제 파견할 소대원을 선택하여
+출격 명령을 내리시기 바랍니다!"
+212,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_120","이제 출격 준비가 끝났군요.
+참, 이번에는 특별히 제가 지급했습니다만
+'소대 임무'에 파견할 소대원에게는 군표를 지급해야 합니다."
+213,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_121","<If(GreaterThan(PlayerParameter(52),0))>흑와단은<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당은<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대는<Else/></If> 병사를 공짜로 부려먹는
+터무니없는 조직이 아니니까요!
+다음부터는 <Highlight>ObjectParameter(1)</Highlight> 님이 '군표'를 지급하시기 바랍니다."
+214,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_122","……아, 소대 임무가 완료되려면 시간이 좀 걸립니다.
+끝날 때쯤 저를 찾아오셔서 결과를 확인하시기 바랍니다!"
+215,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_124","（★未使用／削除予定★）"
+216,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_125","（★未使用／削除予定★）"
+217,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_130","첫 임무에 성공한 모양이군요.
+하긴, 심부름 수준밖에 안 되는 임무에 실패하면
+앞길이 막막하지요……."
+218,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_131","어쨌든, 이렇게 '소대 임무'로 경험을 쌓으면
+소대원들의 '개인 능력'이 향상됩니다.
+또, 대원들의 능력이 높아질수록 임무 성공률도 오르겠지요."
+219,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_132","（★未使用／削除予定★）"
+220,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_133","（★未使用／削除予定★）"
+221,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_136","다음으로 '훈련'에 대해 설명하겠습니다.
+훈련을 통해서 우리 소대의 종합능력을 단련할 수 있습니다.
+대원 개개인도 성장하지만, 기본적으로 소대 자체에 영향을 주지요."
+222,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_137","소대를 훈련시키고 싶을 때는
+여기 있는 <Sheet(EObj,2007150,0)/>에서 지시를 내리십시오."
+223,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_138","어려운 소대 임무에 성공하려면 훈련은 필수입니다.
+훈련 없이는 승리도 없다!
+……제 예전 상관이 가르쳐준 말입니다."
+224,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_110_139","자, 지금 바로 훈련에 들어가
+우리 소대를 <If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If> 최고의 정예로 만드십시오!"
+225,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_150","최근 소대원이 눈에 띄게 성장한 덕분에
+더욱 어려운 소대 임무에 도전할 수 있게 되었습니다.
+어려운 임무에 성공하면 소대의 실력도 더욱 향상될 겁니다."
+226,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_160","세상에, 그 어려운 임무에 성공하다니!
+이제 우리 소대의 명성은 더욱더 높아질 겁니다!"
+227,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_170","그런데 소대장님은 '행운의 법칙'에 대해 아십니까?
+어떤 사람과 같이 외출하면 꼭 날씨가 맑아진다거나 하는
+미신 비슷한 것 말입니다."
+228,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_171","일선 병사들은 이런 믿음에 집착하기 마련이라,
+우리 대원들도 '행운의 법칙'이 신경 쓰이기 시작한 모양입니다.
+임무에 파견할 때 참고하는 것도 좋을 듯합니다."
+229,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_180","우리 소대의 역량이 갈수록 향상되는군요.
+<If(GreaterThan(PlayerParameter(52),0))>군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>작전본부<Else/></If>에서도 많이 기대하고 있으니,
+조만간 특수 임무를 맡게 될지도 모르겠습니다."
+230,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_190","우리 소대가 또 해냈군요!
+무척이나 어렵고 중요한 임무에 성공했다며
+다른 부대에서 축하가 쏟아지고 있습니다!"
+231,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_195","……실은 <Highlight>ObjectParameter(1)</Highlight> 소대장님께 알려드려야 할
+중요한 이야기가 하나 있습니다."
+232,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_196","소대를 여기까지 키워주신 <Highlight>ObjectParameter(1)</Highlight> 소대장님께
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서 공문을 하달했습니다.
+바로 읽어드리지요."
+233,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_197","오늘부로 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13>
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 중위<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 중위<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 중위<Else/></If>로 임명한다.
+앞으로 더욱 분발할 것을 기대한다, 이상."
+234,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_198","네, 바로 승급 사령입니다! 진심으로 축하드립니다!
+부하인 저도 자랑스럽습니다!"
+235,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_330","<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서 공문을 하달했습니다.
+바로 읽어드리지요."
+236,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_331","<If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),8)/><Else/></If><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),8)/><Else/></If><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),8)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 이끄는 모험가 소대에게
+새로 '공략 임무'를 명한다.
+최선을 다하기 바란다. 이상."
+237,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_332","세상에, 새로운 임무라니!
+우리 부대가 실력을 인정받았다는 뜻이군요!"
+238,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_333","하지만 이건 <If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>의 기대가
+더 높아졌다는 뜻이기도 합니다.
+각오를 단단히 하고 공략 임무를 수행합시다!"
+239,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_210","소대 임무가 완료된 것 같습니다!
+바로 결과를 확인하시기 바랍니다!"
+240,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_220","……실은 <Highlight>ObjectParameter(1)</Highlight> 소대장님께 알려드려야 할
+중요한 이야기가 하나 있습니다."
+241,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_221","소대를 여기까지 키워주신 <Highlight>ObjectParameter(1)</Highlight> 소대장님께
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서 공문을 하달했습니다.
+바로 읽어드리지요."
+242,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_222","오늘부로 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13>
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 중위<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 중위<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 중위<Else/></If>로 임명한다.
+앞으로 더욱 분발할 것을 기대한다, 이상."
+243,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_223","네, 바로 승급 사령입니다! 진심으로 축하드립니다!
+부하인 저도 자랑스럽습니다!"
+244,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_230","어서 오십시오. 소대원들이 기다리고 있었답니다!
+자, 무엇을 하면 되는지 명령만 내리십시오!!"
+245,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_240","어서 오십시오. 소대원들이 기다리고 있었습니다!
+더욱 강한 소대가 되기 위해 훈련과 임무에 힘쓰겠습니다!"
+246,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_250","우리 부대에는 현재 3명의 소대원이 있는데,
+새로 1명을 추가해 총 4명으로 증원해야 합니다."
+247,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_251","<Highlight>ObjectParameter(1)</Highlight> 소대장님이 모험가로서 활약하시면,
+그 모습을 본 사람들이 '지원병'으로 나타날 겁니다.
+그들 중에서 새로운 소대원을 고르시면 됩니다!"
+248,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_260","훈련을 통해서 우리 소대의 종합능력을 단련할 수 있습니다.
+대원 개개인도 성장하지만, 기본적으로 소대 자체에 영향을 주지요."
+249,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_261","소대를 훈련시키고 싶을 때는
+여기 있는 <Sheet(EObj,2007150,0)/>에서 지시를 내리십시오."
+250,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_262","어려운 소대 임무에 성공하려면 훈련은 필수입니다.
+훈련 없이는 승리도 없다!
+……제 예전 상관이 가르쳐준 말입니다."
+251,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_263","자, 지금 바로 훈련에 들어가
+우리 소대를 <If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If> 최고의 정예로 만드십시오!"
+252,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_320","<Highlight>ObjectParameter(1)</Highlight> 님 휘하 소대의 활약은
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서도 소문이 자자하더군요."
+253,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_321","<If(GreaterThan(PlayerParameter(52),0))>군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>작전본부<Else/></If>에서도 많이 기대하고 있으니,
+중요 임무에 한번 도전해보시는 게 어떻습니까?"
+254,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_100","기다리고 있었습니다, <Highlight>ObjectParameter(1)</Highlight> 소대장님!
+오늘부터 부대를 지휘하게 되셨는데,
+뭘 하면 좋을지 몰라 당황스러우시죠?"
+255,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_136","우선 소대원을 보충해주십시오.
+우리 부대에는 현재 3명의 소대원이 있는데,
+새로 1명을 추가해 총 4명으로 증원해야 합니다."
+256,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_137","<Highlight>ObjectParameter(1)</Highlight> 소대장님이 모험가로서 활약하시면,
+그 모습을 본 사람들이 '지원병'으로 나타날 겁니다.
+그들 중에서 새로운 소대원을 고르시면 됩니다!"
+257,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_110","（★未使用／削除予定★）"
+258,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_111","（★未使用／削除予定★）"
+259,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_101","（★未使用／削除予定★）"
+260,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_110","드디어 첫 '소대 임무'군요!
+보통은 몇 가지 임무 중에서 어디에 파견할지
+소대장님이 직접 고르시지만……."
+261,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_111","이번에는 첫 도전이니,
+외람되지만 제가 임무를 골라드리겠습니다."
+262,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_112","이제 파견할 소대원을 선택하여
+출격 명령을 내리시기 바랍니다!"
+263,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_120","이제 출격 준비가 끝났군요.
+참, 이번에는 특별히 제가 지급했습니다만
+'소대 임무'에 파견할 소대원에게는 군표를 지급해야 합니다."
+264,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_121","<If(GreaterThan(PlayerParameter(52),0))>흑와단은<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당은<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대는<Else/></If> 병사를 공짜로 부려먹는
+터무니없는 조직이 아니니까요!
+다음부터는 <Highlight>ObjectParameter(1)</Highlight> 님이 '군표'를 지급하시기 바랍니다."
+265,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_122","……아, 소대 임무가 완료되려면 시간이 좀 걸립니다.
+끝날 때쯤 저를 찾아오셔서 결과를 확인하시기 바랍니다!"
+266,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_124","（★未使用／削除予定★）"
+267,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_125","（★未使用／削除予定★）"
+268,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_130","첫 임무에 성공한 모양이군요.
+하긴, 심부름 수준밖에 안 되는 임무에 실패하면
+앞길이 막막하지요……."
+269,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_131","어쨌든, 이렇게 '소대 임무'로 경험을 쌓으면
+소대원들의 '개인 능력'이 향상됩니다.
+또, 대원들의 능력이 높아질수록 임무 성공률도 오르겠지요."
+270,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_132","（★未使用／削除予定★）"
+271,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_133","（★未使用／削除予定★）"
+272,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_136","다음으로 '훈련'에 대해 설명하겠습니다.
+훈련을 통해서 우리 소대의 종합능력을 단련할 수 있습니다.
+대원 개개인도 성장하지만, 기본적으로 소대 자체에 영향을 주지요."
+273,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_137","소대를 훈련시키고 싶을 때는
+여기 있는 <Sheet(EObj,2007150,0)/>에서 지시를 내리십시오."
+274,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_138","어려운 소대 임무에 성공하려면 훈련은 필수입니다.
+훈련 없이는 승리도 없다!
+……제 예전 상관이 가르쳐준 말입니다."
+275,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_210_139","자, 지금 바로 훈련에 들어가
+우리 소대를 <If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If> 최고의 정예로 만드십시오!"
+276,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_150","최근 소대원이 눈에 띄게 성장한 덕분에
+더욱 어려운 소대 임무에 도전할 수 있게 되었습니다.
+어려운 임무에 성공하면 소대의 실력도 더욱 향상될 겁니다."
+277,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_160","세상에, 그 어려운 임무에 성공하다니!
+이제 우리 소대의 명성은 더욱더 높아질 겁니다!"
+278,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_170","그런데 소대장님은 '행운의 법칙'에 대해 아십니까?
+어떤 사람과 같이 외출하면 꼭 날씨가 맑아진다거나 하는
+미신 비슷한 것 말입니다."
+279,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_171","일선 병사들은 이런 믿음에 집착하기 마련이라,
+우리 대원들도 '행운의 법칙'이 신경 쓰이기 시작한 모양입니다.
+임무에 파견할 때 참고하는 것도 좋을 듯합니다."
+280,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_180","우리 소대의 역량이 갈수록 향상되는군요.
+<If(GreaterThan(PlayerParameter(52),0))>군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>작전본부<Else/></If>에서도 많이 기대하고 있으니,
+조만간 특수 임무를 맡게 될지도 모르겠습니다."
+281,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_190","우리 소대가 또 해냈군요!
+무척이나 어렵고 중요한 임무에 성공했다며
+다른 부대에서 축하가 쏟아지고 있습니다!"
+282,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_195","……실은 <Highlight>ObjectParameter(1)</Highlight> 소대장님께 알려드려야 할
+중요한 이야기가 하나 있습니다."
+283,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_196","소대를 여기까지 키워주신 <Highlight>ObjectParameter(1)</Highlight> 소대장님께
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서 공문을 하달했습니다.
+바로 읽어드리지요."
+284,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_197","오늘부로 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13>
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 중위<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 중위<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 중위<Else/></If>로 임명한다.
+앞으로 더욱 분발할 것을 기대한다, 이상."
+285,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_198","네, 바로 승급 사령입니다! 진심으로 축하드립니다!
+부하인 저도 자랑스럽습니다!"
+286,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_330","<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서 공문을 하달했습니다.
+바로 읽어드리지요."
+287,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_331","<If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),8)/><Else/></If><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),8)/><Else/></If><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),8)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 이끄는 모험가 소대에게
+새로 '공략 임무'를 명한다.
+최선을 다하기 바란다. 이상."
+288,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_332","세상에, 새로운 임무라니!
+우리 부대가 실력을 인정받았다는 뜻이군요!"
+289,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_333","하지만 이건 <If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>의 기대가
+더 높아졌다는 뜻이기도 합니다.
+각오를 단단히 하고 공략 임무를 수행합시다!"
+290,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_210","소대 임무가 완료된 것 같습니다!
+바로 결과를 확인하시기 바랍니다!"
+291,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_220","……실은 <Highlight>ObjectParameter(1)</Highlight> 소대장님께 알려드려야 할
+중요한 이야기가 하나 있습니다."
+292,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_221","소대를 여기까지 키워주신 <Highlight>ObjectParameter(1)</Highlight> 소대장님께
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서 공문을 하달했습니다.
+바로 읽어드리지요."
+293,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_222","오늘부로 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13>
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 중위<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 중위<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 중위<Else/></If>로 임명한다.
+앞으로 더욱 분발할 것을 기대한다, 이상."
+294,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_223","네, 바로 승급 사령입니다! 진심으로 축하드립니다!
+부하인 저도 자랑스럽습니다!"
+295,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_230","어서 오십시오. 소대원들이 기다리고 있었답니다!
+자, 무엇을 하면 되는지 명령만 내리십시오!!"
+296,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_240","어서 오십시오. 소대원들이 기다리고 있었습니다!
+더욱 강한 소대가 되기 위해 훈련과 임무에 힘쓰겠습니다!"
+297,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_250","우리 부대에는 현재 3명의 소대원이 있는데,
+새로 1명을 추가해 총 4명으로 증원해야 합니다."
+298,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_251","<Highlight>ObjectParameter(1)</Highlight> 소대장님이 모험가로서 활약하시면,
+그 모습을 본 사람들이 '지원병'으로 나타날 겁니다.
+그들 중에서 새로운 소대원을 고르시면 됩니다!"
+299,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_260","훈련을 통해서 우리 소대의 종합능력을 단련할 수 있습니다.
+대원 개개인도 성장하지만, 기본적으로 소대 자체에 영향을 주지요."
+300,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_261","소대를 '훈련'시키고 싶을 때는
+여기 있는 <Sheet(EObj,2007152,0)/>에서 지시를 내리십시오."
+301,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_262","어려운 소대 임무에 성공하려면 훈련은 필수입니다.
+훈련 없이는 승리도 없다!
+……제 예전 상관이 가르쳐준 말입니다."
+302,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_263","자, 지금 바로 훈련에 들어가
+우리 소대를 <If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If> 최고의 정예로 만드십시오!"
+303,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_320","<Highlight>ObjectParameter(1)</Highlight> 님 휘하 소대의 활약은
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부<Else/></If>에서도 소문이 자자하더군요."
+304,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_321","<If(GreaterThan(PlayerParameter(52),0))>군령부<Else/></If><If(GreaterThan(PlayerParameter(53),0))>통합사령부<Else/></If><If(GreaterThan(PlayerParameter(54),0))>작전본부<Else/></If>에서도 많이 기대하고 있으니,
+중요 임무에 한번 도전해보시는 게 어떻습니까?"
+305,"TEXT_COMARMGCARMYOFFICER_00342_006_001_LIM","（★未使用／削除予定★）"
+306,"TEXT_COMARMGCARMYOFFICER_00342_006_001_GRD","（★未使用／削除予定★）"
+307,"TEXT_COMARMGCARMYOFFICER_00342_006_001_ULD","（★未使用／削除予定★）"
+308,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_400","통합사령부로부터 새롭게 중요 임무 요청이 들어왔습니다!
+이 임무를 성공시킨다면 우리 소대에 대한 평가도
+한층 높아질 것입니다!"
+309,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_401","공략 임무를 5곳 이상에서 성공시켜
+새로운 중요 임무에 도전할 수 있게 되었습니다."
+310,"TEXT_COMARMGCARMYOFFICER_00342_SYSTEM_000_402","이 중요 임무의 난이도는 매우 높아
+성공시키려면 상당한 실력이 필요합니다.
+소대원의 개인 능력을 성장시켜 성공률을 높인 다음 도전하세요."
+311,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_410","중요 임무의 성공, 축하드립니다!
+우리 소대의 실력은 믿고 있었지만 임무에 성공했다는
+소식을 들었을 때에는 저도 모르게 가슴이 뜨거워지더군요!"
+312,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_411","어이쿠, 손님이 오신 모양입니다…….
+들어오십시오!"
+313,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_412","(-???-)이곳이 <Highlight>ObjectParameter(1)</Highlight> 중위가 지휘하는 소대의 막사지?
+실례한다."
+314,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_413","아니, 스웨스릭 대장님 아니십니까!
+이곳에는 무슨 일이십니까!?"
+315,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_414","우리 쌍사당의 자랑인 영웅에게 직접 하고 싶은 말이 있어,
+마침 임무에서 귀환했다는 소식을 듣고 들렀다."
+316,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_415","요즘 정세가 상당히 냉엄하다는 사실은 모두가 잘 알고 있다.
+이런 상황이기에 그대들 소대의 활약은
+많은 장병들에게 희망이 되고 있지."
+317,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_416","그래서 통합사령부에서 한 가지 결정을 내렸네.
+마지막으로 그 내용을 직접 전달하겠다."
+318,"TEXT_COMARMGCARMYOFFICER_00342_SWETHRYKBROOKSTONE_000_417","오늘부로 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13>
+'대위'로 임명한다!
+앞으로도 정령의 인도와 함께 활약하도록, 이상!"
+319,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_418","이, 이보다 기쁜 소식은 없을 겁니다!
+소대장님께서 대위로 승진하신 것은 물론,
+대장님의 말씀은 소대원 모두의 자랑일 것입니다!"
+320,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_000_419","정말로 감사합니다!
+앞으로도 전력을 다해 함께 싸웁시다!"
+321,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_400","군령부로부터 새롭게 중요 임무 요청이 들어왔습니다!
+이 임무를 성공시킨다면 우리 소대에 대한 평가도
+한층 높아질 것입니다!"
+322,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_410","중요 임무의 성공, 축하드립니다!
+우리 소대의 실력은 믿고 있었지만 임무에 성공했다는
+소식을 들었을 때에는 저도 모르게 가슴이 뜨거워지더군요!"
+323,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_411","어이쿠, 손님이 오신 모양입니다…….
+들어오십시오!"
+324,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_412","(-????-)실례하겠다.
+이곳이 <Highlight>ObjectParameter(1)</Highlight>의 소대 막사인가?"
+325,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_413","아니, 에인차 슬라퓌어쥔 대장님 아니십니까!
+이곳에는 무슨 일이십니까!?"
+326,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_414","<Highlight>ObjectParameter(1)</Highlight>에게 직접 하고 싶은 말이 있어,
+마침 임무에서 귀환했다는 소식을 듣고 들렀다."
+327,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_415","요즘 정세가 상당히 냉엄하다는 사실은 모두가 잘 알고 있겠지?
+이런 상황이기에 너희 소대의 활약은
+많은 장병들에게 희망이 되고 있지."
+328,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_416","그래서 군령부는 한 가지 결정을 내렸다.
+기왕이면 그것을 내가 직접 전달하고 싶어서 이렇게 온 것이다."
+329,"TEXT_COMARMGCARMYOFFICER_00342_EYNZAHRSLAFYRSYN_100_417","오늘부로 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13>
+'대위'로 임명한다!
+앞으로도 흑와단을 이끌 조타수로 활약하도록, 이상!"
+330,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_418","이, 이보다 기쁜 소식은 없을 겁니다!
+소대장님께서 대위로 승진하신 것은 물론,
+대장님의 말씀은 소대원 모두의 자랑일 것입니다!"
+331,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_100_419","진심으로 축하드립니다!
+앞으로도 전력을 다해 함께 싸웁시다!"
+332,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_400","작전본부로부터 새롭게 중요 임무 요청이 들어왔습니다!
+이 임무를 성공시킨다면 우리 소대에 대한 평가도
+한층 높아질 것입니다!"
+333,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_410","중요 임무의 성공, 축하드립니다!
+우리 소대의 실력은 믿고 있었지만 임무에 성공했다는
+소식을 들었을 때에는 저도 모르게 가슴이 뜨거워지더군요!"
+334,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_411","어이쿠, 손님이 오신 모양입니다…….
+들어오십시오!"
+335,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_412","(-???-)이곳이 <Highlight>ObjectParameter(1)</Highlight> 중위가 지휘하는 소대의 막사지?
+실례한다."
+336,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_413","아니, 잔잔한 강물 대장님 아니십니까!
+이곳에는 무슨 일이십니까!?"
+337,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_414","우리 불멸대의 자랑인 영웅에게 직접 하고 싶은 말이 있어,
+마침 임무에서 귀환했다는 소식을 듣고 들렀다."
+338,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_415","요즘 정세가 상당히 냉엄하다는 사실은 모두가 잘 알고 있다.
+이런 상황이기에 그대들 소대의 활약은
+많은 장병들에게 희망이 되고 있지."
+339,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_416","그래서 작전본부에서는 한 가지 결정을 내렸다.
+그 내용을 마지막으로 직접 전달하고자 내가 온 것이다."
+340,"TEXT_COMARMGCARMYOFFICER_00342_STILLRIVER_200_417","오늘부로 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13>
+'대위'로 임명한다!
+앞으로도 불멸대의 빛나는 별이 되어 활약하도록, 이상!"
+341,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_418","이, 이보다 기쁜 소식은 없을 겁니다!
+소대장님께서 대위로 승진하신 것은 물론,
+대장님의 말씀은 소대원 모두의 자랑일 것입니다!"
+342,"TEXT_COMARMGCARMYOFFICER_00342_PLATOONINSTRUCTOR_200_419","진심으로 축하드립니다!
+앞으로도 전력을 다해 함께 싸웁시다!"

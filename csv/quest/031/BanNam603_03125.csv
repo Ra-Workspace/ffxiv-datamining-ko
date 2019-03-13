@@ -1,0 +1,156 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANNAM603_03125_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+도로 일로에 있는 광풍원 세이게츠는 별난 제전을 새로 찾아낸 듯하다."
+1,"TEXT_BANNAM603_03125_SEQ_01","여명의 옥좌에 있는 소심한 나마즈오와 대화하자."
+2,"TEXT_BANNAM603_03125_SEQ_02","여명의 옥좌에 있는 소심한 나마즈오에게 의뢰받은 물건을 납품하자."
+3,"TEXT_BANNAM603_03125_SEQ_03","여명의 옥좌 주변에서 소심한 나마즈오를 찾자."
+4,"TEXT_BANNAM603_03125_SEQ_04","광풍원 세이게츠에게 보고하자."
+5,"TEXT_BANNAM603_03125_SEQ_05",""
+6,"TEXT_BANNAM603_03125_SEQ_06",""
+7,"TEXT_BANNAM603_03125_SEQ_07",""
+8,"TEXT_BANNAM603_03125_SEQ_08",""
+9,"TEXT_BANNAM603_03125_SEQ_09",""
+10,"TEXT_BANNAM603_03125_SEQ_10",""
+11,"TEXT_BANNAM603_03125_SEQ_11",""
+12,"TEXT_BANNAM603_03125_SEQ_12",""
+13,"TEXT_BANNAM603_03125_SEQ_13",""
+14,"TEXT_BANNAM603_03125_SEQ_14",""
+15,"TEXT_BANNAM603_03125_SEQ_15",""
+16,"TEXT_BANNAM603_03125_SEQ_16",""
+17,"TEXT_BANNAM603_03125_SEQ_17",""
+18,"TEXT_BANNAM603_03125_SEQ_18",""
+19,"TEXT_BANNAM603_03125_SEQ_19",""
+20,"TEXT_BANNAM603_03125_SEQ_20",""
+21,"TEXT_BANNAM603_03125_SEQ_21",""
+22,"TEXT_BANNAM603_03125_SEQ_22",""
+23,"TEXT_BANNAM603_03125_SEQ_23",""
+24,"TEXT_BANNAM603_03125_TODO_00","여명의 옥좌에 있는 소심한 나마즈오와 대화"
+25,"TEXT_BANNAM603_03125_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>여명의 옥좌 북동쪽 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>여명의 옥좌 북동쪽 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>야트 칼 하류에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>여명의 옥좌에 있는 소심한 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+26,"TEXT_BANNAM603_03125_TODO_02","여명의 옥좌 주변에서 소심한 나마즈오 찾기"
+27,"TEXT_BANNAM603_03125_TODO_03","광풍원 세이게츠에게 보고"
+28,"TEXT_BANNAM603_03125_TODO_04",""
+29,"TEXT_BANNAM603_03125_TODO_05",""
+30,"TEXT_BANNAM603_03125_TODO_06",""
+31,"TEXT_BANNAM603_03125_TODO_07",""
+32,"TEXT_BANNAM603_03125_TODO_08",""
+33,"TEXT_BANNAM603_03125_TODO_09",""
+34,"TEXT_BANNAM603_03125_TODO_10",""
+35,"TEXT_BANNAM603_03125_TODO_11",""
+36,"TEXT_BANNAM603_03125_TODO_12",""
+37,"TEXT_BANNAM603_03125_TODO_13",""
+38,"TEXT_BANNAM603_03125_TODO_14",""
+39,"TEXT_BANNAM603_03125_TODO_15",""
+40,"TEXT_BANNAM603_03125_TODO_16",""
+41,"TEXT_BANNAM603_03125_TODO_17",""
+42,"TEXT_BANNAM603_03125_TODO_18",""
+43,"TEXT_BANNAM603_03125_TODO_19",""
+44,"TEXT_BANNAM603_03125_TODO_20",""
+45,"TEXT_BANNAM603_03125_TODO_21",""
+46,"TEXT_BANNAM603_03125_TODO_22",""
+47,"TEXT_BANNAM603_03125_TODO_23",""
+48,"TEXT_BANNAM603_03125_KOFUINSEIGETSU_000_000","'신대륙 견문록'에 따르면, 멀리 서쪽 신대륙에 사는 부족 중에는
+자신의 몸에 끈을 묶고 높은 곳에서 뛰어내려 담력 시험을 하는
+무모하고도 별난 '나골'이라는 제전이 있다고 한다."
+49,"TEXT_BANNAM603_03125_KOFUINSEIGETSU_000_001","이 이야기를 했더니 늘 겁쟁이라 조롱을 받고 있는
+'소심한 나마즈오'가 '여명의 옥좌'에서 담력 시험을 해서
+모두에게 본때를 보여주겠다며 뛰쳐나갔다."
+50,"TEXT_BANNAM603_03125_KOFUINSEIGETSU_000_002","이 이야기가 널리 알려지고 나서
+'소심한 나마즈오'가 재도전의 기회를 엿보고 있다가
+다시 한번 '여명의 옥좌'에서 실행하겠다며 큰소리를 치고 있다."
+51,"TEXT_BANNAM603_03125_KOFUINSEIGETSU_000_003","귀찮겠지만, 이것도 일종의 통과의례다…….
+녀석이 공포를 극복하고 문명적으로 성장하기 위해서라도
+나골 준비를 도와주기 바란다."
+52,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_010","그 녀석들, 나만 보면 언제나 겁쟁이라고
+무시하고 놀린단 말이얌메. 두고보람메!
+광풍원 세이게츠가 알려준 의식을 치르고 본때를 보여줄거얌메!"
+53,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_011","그 녀석들, 여전히 나만 보면 겁쟁이라고
+무시하고 놀린단 말이얌메, 두고보람메!
+광풍원 세이게츠가 알려준 의식을 치르고 본때를 보여줄거얌메!"
+54,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_012","……그런데, 좀 부족한 것이 있담메.
+괜찮으면 좀 도와줘람메!"
+55,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_013","'<Sheet(Item,22742,0)/>'인 생명줄을 고정하는 부품이 필요하담메!
+내가 가지고 온 상자 안에 재료는 다 있으니
+뚝딱 만들어주기 바란담메!"
+56,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_014","'<Sheet(Item,22742,0)/>'인 생명줄로 쓸 만한 튼튼한 끈이 필요하담메!
+뚝딱 만들어주기 바란담메!"
+57,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_015","'<Sheet(Item,22742,0)/>'인 생명줄을 보강할 수지가 필요하담메!
+뚝딱 만들어주기 바란담메!"
+58,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_016","생명줄을 묶어놓을 말뚝을 고정하기 위해
+'<Sheet(Item,22638,0)/>'<13>FF0F02280BFF054974656DF2586E0103FF04EBA5BCFF04EC9D84</13> 캐서 갖고오기 바란담메!
+여명의 옥좌의 북동쪽 일대에서 찾을 수 있을 테니, 부탁한담메!"
+59,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_017","생명줄을 보강하기 위한
+'<Sheet(Item,22664,0)/>'<13>FF0F02280BFF054974656DF258880103FF04EBA5BCFF04EC9D84</13> 채집해서 갖고오기 바란담메!
+여명의 옥좌의 북동쪽 일대에서 찾을 수 있을 테니 부탁한담메!"
+60,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_018","생명줄을 고정할 멜빵갑옷을 보강하기 위해
+'<Sheet(Item,22690,0)/>'<13>FF0F02280BFF054974656DF258A20103FF04EBA5BCFF04EC9D84</13> 잡아와주기 바란담메!
+'야트 칼 하류'에서 <Sheet(Item,20613,0)/> 같은 걸 사용하면 잡을 수 있담메!"
+61,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_019","부탁한 물건이 준비되면 나한테 전달해줘람메.
+협력 부탁한담메!"
+62,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_020","재료를 다 썼냠메?
+내가 갖고 온 상자 안에 재료가 다 들어 있으니
+다 쓰면 편하게 가져가람메!"
+63,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_021","재료를 다 썼냠메?
+내가 갖고 온 상자 안에 재료가 다 들어 있으니
+다 쓰면 편하게 가져가람메!"
+64,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_022","재료를 다 썼냠메?
+내가 갖고 온 상자 안에 재료가 다 들어 있으니
+다 쓰면 편하게 가져가람메!"
+65,"TEXT_BANNAM603_03125_SYSTEM_000_023","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+66,"TEXT_BANNAM603_03125_SYSTEM_000_024","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+67,"TEXT_BANNAM603_03125_SYSTEM_000_025","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+68,"TEXT_BANNAM603_03125_SYSTEM_000_026","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+69,"TEXT_BANNAM603_03125_SYSTEM_000_027","상자에서 필요한 재료를 꺼냈다!"
+70,"TEXT_BANNAM603_03125_SYSTEM_000_028","상자에서 필요한 재료를 꺼냈다!"
+71,"TEXT_BANNAM603_03125_SYSTEM_000_029","상자에서 필요한 재료를 꺼냈다!"
+72,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_030","부탁한 물건은 내가 말한 곳에서 찾을 수 있을 거담메.
+협력 잘 부탁함메!"
+73,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_031","부탁한 물건은 내가 말한 곳에서 찾을 수 있을 거담메.
+협력 잘 부탁함메! "
+74,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_032","부탁한 물건은 내가 말한 곳에서 찾을 수 있을 거담메.
+협력 잘 부탁함메!"
+75,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_040","부탁한 물건 준비는 다 되었냠메?"
+76,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_041","그럼 갖다 준 물건을 바로 조합해서……
+준비가 뚝딱 끝났담메!"
+77,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_042","밑을 보니까 상당히 높아서 무섭지만……
+그래도 날 무시하는 녀석들한테 본때를 보여줄 거얌메!"
+78,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_043","밑을 보니 상당히 높아서 무섭담메…….
+예전에도 했지만 여전히 무섭담메…….
+그래도 날 무시하는 녀석들한테 본때를 보여줄 거얌메!"
+79,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_044","간담메~!!"
+80,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_045","교교교교~!!"
+81,"TEXT_BANNAM603_03125_SYSTEM_000_046","……목소리가 끊기고 뭔가가 세차게 물에 빠지는 소리가 들렸다."
+82,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_050","…………으메메!
+너무 충격이 커서 기절한 것 같암메……."
+83,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_051","새, 생명줄을 말뚝에 묶는 걸 잊어버렸던 것 같담메…….
+꿈인지 현실인지 건너선 안 될 강을 헤엄치고 있었담메…….
+그 강을 건넜더라면……으메메메메."
+84,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_052","이, 이번에도 생명줄을 말뚝에 묶는 걸 잊어버린 것 같담메…….
+이번에도 건너선 안 될 강을 건너기 직전이었는데……
+으메메메, 기적적인 체험이었담메."
+85,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_053","하지만 이걸로 내 용기를 보여줬담메.
+이래도 또다시 날 겁쟁이라 부른다면
+얼마든지 계속 할 거얌메……!"
+86,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_054","'광풍원 세이게츠'한테 나의 이 용감한 모습을
+정확하게 제대로 전달해주기 바란담메……!"
+87,"TEXT_BANNAM603_03125_DAILYNAMAZUO03125_000_055","나는 좀 더 마음을 가라앉힌 다음에 돌아갈겜메.
+'광풍원 세이게츠'한테 나의 이 용감한 모습을
+정확하게 제대로 전달해주길 바란담메……!"
+88,"TEXT_BANNAM603_03125_SYSTEM_000_056","지금은 상자 조사보다 먼저 해야 할 것이 있다……!"
+89,"TEXT_BANNAM603_03125_KOFUINSEIGETSU_100_060","녀석의 상태는 어땠나?"
+90,"TEXT_BANNAM603_03125_KOFUINSEIGETSU_000_060","떨어졌다고……?
+그렇다면 그 의식은 성공이라 해야 하나, 실패라 해야 하나?"
+91,"TEXT_BANNAM603_03125_KOFUINSEIGETSU_000_061","또다시 떨어졌다니…….
+그렇다면 그 의식은 성공이라 해야 하나, 실패라 해야 하나?"
+92,"TEXT_BANNAM603_03125_KOFUINSEIGETSU_000_062","공포심을 극복하고 뛰어내리는 데 의의를 둔다면 성공이겠지만,
+생명줄로 추락을 막지는 못 했으니 실패라고도 할 수 있다.
+무엇을 기준으로 생각하느냐에 따라 결과가 다르다 할 수 있겠다."
+93,"TEXT_BANNAM603_03125_KOFUINSEIGETSU_000_063","실로 흥미로운 주제다 보니 연구할 가치가 있을 듯하다.
+녀석이 또 이 의식을 치르겠다고 하면
+또 협력을 부탁할지도 모르니, 꼭 도와주길 바란다."

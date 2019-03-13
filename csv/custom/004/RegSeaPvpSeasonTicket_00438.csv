@@ -1,0 +1,27 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_000_000","이빨과 발톱을 충분히 갈고닦은 용사여!
+이곳에서는 승자의 증표인 '늑대 목걸이'를
+원하는 보상으로 교환할 수 있다!"
+1,"TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_000","무엇을 도와드릴까요?"
+2,"TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_001","무기와 교환(늑대 목걸이:10개)"
+3,"TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_002","명예 점수와 교환(늑대 목걸이:1개)"
+4,"TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_003","늑대 목걸이란 무엇인가"
+5,"TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_004","취소"
+6,"TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_001_000","아무래도 자네는 '늑대 목걸이'를 소지하고 있지 않은 것 같군."
+7,"TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_001_001","아무래도 자네는 더이상 '명예 점수'를 얻을 수 없는 것 같군.
+만사에는 한도가 있기 마련이지. "
+8,"TEXT_REGSEAPVPSEASONTICKET_00438_ASK_000_000","'<Sheet(Item,IntegerParameter(1),0)/>' 1개를 '<Sheet(Item,IntegerParameter(2),0)/>' <Value>IntegerParameter(3)</Value>닢으로 교환하시겠습니까?"
+9,"TEXT_REGSEAPVPSEASONTICKET_00438_ASK_000_001","'명예 점수'가 보유 상한을 초과합니다. 정말로 교환하시겠습니까?"
+10,"TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_002_000","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> '<Sheet(Item,IntegerParameter(2),0)/>'<14>FF0E02280AFF054974656DE8030103FF04EBA19CFF07EC9CBCEBA19C</14> 교환했다."
+11,"TEXT_REGSEAPVPSEASONTICKET_00438_SYSTEM_002_000","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> '<Sheet(Item,IntegerParameter(2),0)/>'<14>FF0E02280AFF054974656DE8030103FF04EBA19CFF07EC9CBCEBA19C</14> 교환하지 않았습니다."
+12,"TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_003_000","'늑대 목걸이'는
+더 피스트 등급전 성적에 따라
+각 시즌 종료 후에 주어지는 승자의 증표다."
+13,"TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_003_001","획득할 수 있는 개수는 시즌 종료 시점의 계급에 따라 결정된다.
+높은 계급일수록 많은 목걸이를 받을 수 있으니
+더 높은 경지를 향해 노력하길 바란다. "
+14,"TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_003_002","참고로 '늑대 목걸이'는 명예 점수나 무기 등으로 교환할 수 있다.
+원하는 보상을 교환하는데 개수가 부족하다면
+다음 시즌까지 모아놓은 다음에 교환해도 좋다."

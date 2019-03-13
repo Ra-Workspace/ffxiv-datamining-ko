@@ -1,0 +1,57 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_000","나한테 말을 건 걸 보니
+고문서…… '황도십이문서'가 필요한가 보네.
+……자, 원하는 게 어떤 거야?"
+1,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_TITLE","어느 것과 교환하시겠습니까?"
+2,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_CANCEL","취소"
+3,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_MAIN","불의 서(<Sheet(BaseParam,IntegerParameter(1),1)/> 상승) [<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>] 완료"
+4,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_SUB","물의 서(<Sheet(BaseParam,IntegerParameter(1),1)/> 상승) [<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>] 완료"
+5,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_SELECTION_A","바람의 서(<Sheet(BaseParam,IntegerParameter(1),1)/> 상승) [<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>] 완료"
+6,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_SELECTION_B","땅의 서(<Sheet(BaseParam,IntegerParameter(1),1)/> 상승) [<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>] 완료"
+7,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_PLD_WEAPON","검의 황도십이문서 선택"
+8,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_PLD_SUB_WEAPON","방패의 황도십이문서 선택"
+9,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_MAIN_PLD","화염의 서(<Sheet(BaseParam,IntegerParameter(1),1)/> 상승) [<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>] 완료"
+10,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_SUB_PLD","격류의 서(<Sheet(BaseParam,IntegerParameter(1),1)/> 상승) [<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>] 완료"
+11,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_SELECTION_A_PLD","질풍의 서(<Sheet(BaseParam,IntegerParameter(1),1)/> 상승) [<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>] 완료"
+12,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_SELECTION_B_PLD","대지의 서(<Sheet(BaseParam,IntegerParameter(1),1)/> 상승) [<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>] 완료"
+13,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_MAIN_PLD_SUB","염옥의 서(<Sheet(BaseParam,IntegerParameter(1),1)/> 상승) [<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>] 완료"
+14,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_SUB_PLD_SUB","폭우의 서(<Sheet(BaseParam,IntegerParameter(1),1)/> 상승) [<Value>IntegerParameter(2)</Value>/<Value>IntegerParameter(3)</Value>] 완료"
+15,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_030","'황도십이문서'는 영웅들마다 종류가 잔뜩 있어.
+당신에게 읽을 만한 고문서를 골라줄 테니까
+알맞은 무기를 장비하고 나한테 보여줄래?"
+16,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_0000_SYSTEM_000_035","'황도십이문서'를 교환하고 싶을 때는
+강화하려는 '고대의 무기 아트마'를 장비하고
+'그주사나'에게 말을 걸어보세요."
+17,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_040","……어라?
+그 무기에 대한 '황도십이문서'는 더 없는 것 같아.
+이걸 다 읽다니 당신도 참 별난 사람이네."
+18,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_SYSTEM_000_045","이 무기의 '황도십이문서'는 모두 완료되었습니다.
+숲언덕 공방에 있는 '잘잔'에게
+'고대의 무기 아트마'를 건네보세요."
+19,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_050","……앗, 그 종류의 고문서는 다 읽은 것 같은데?
+아직 다른 '황도십이문서'가 있는 것 같으니까
+다른 종류를 골라줄래?"
+20,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_060","……읽다 만 '황도십이문서'를 마저 읽는 게 어때?
+'황도십이문서'는 9권이 한 묶음이니까 순서대로 교환해줄게.
+만약 파기하고 싶으면 그렇다고 얘기해줘."
+21,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_SYSTEM_000_065","가지고 있는 '황도십이문서'를 모두 완료하거나
+파기하지 않으면 다른 '황도십이문서'와
+교환할 수 없습니다."
+22,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_070","'<Sheet(Item,　28,0)/>'<13>FF1302280FFF054974656DFF06E3808032380103FF04EB8A94FF04EC9D80</13> 잘 받았어.
+어디 보자…… 자, 이게 '황도십이문서'야.
+어디에 쓸 건지는 모르겠지만…… 어쨌든 잘해봐."
+23,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_SYSTEM_000_075","'황도십이문서'를 손에 넣었습니다.
+'소지품'의 '임무용 아이템'에서
+'황도십이문서'를 사용하면 내용을 확인할 수 있습니다."
+24,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_Q","<Sheet(Item,IntegerParameter(2),0)/> <Value>IntegerParameter(3)</Value>개를 <Sheet(EventItem,IntegerParameter(1),0)/><13>FF1302280FFF0A4576656E744974656DE8020103FF04EC9980FF04EAB3BC</13> 교환하시겠습니까?"
+25,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_Q2","가지고 있는 무기와 '황도십이문서'의 진행도가 다릅니다.
+가지고 있는 <Sheet(EventItem,IntegerParameter(1),0)/><13>FF1302280FFF0A4576656E744974656DE8020103FF04EBA5BCFF04EC9D84</13> 파기하고
+<Sheet(Item,IntegerParameter(3),0)/> <Value>IntegerParameter(4)</Value>개를 지불하여
+<Sheet(EventItem,IntegerParameter(2),0)/><13>FF1302280FFF0A4576656E744974656DE8030103FF04EBA5BCFF04EC9D84</13> 새로 받으시겠습니까?"
+26,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_YES","예"
+27,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_NO","아니요"
+28,"TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_080","음…… 알라그 석판이 모자란 것 같은데?
+고문서 1권당 <Sheet(Item,　28,0)/> 100개가 필요해.
+……비쌀지도 모르지만 더는 못 깎아줘."

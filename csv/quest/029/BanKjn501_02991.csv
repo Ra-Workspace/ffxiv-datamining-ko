@@ -1,0 +1,97 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANKJN501_02991_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※이 퀘스트는 수락 시점의 직업으로만 진행할 수 있습니다.
+
+푸른 물구슬에 있는 즈킨은 사랑이 이루어지도록 도와주기를 바라는 듯하다. "
+1,"TEXT_BANKJN501_02991_SEQ_01",""
+2,"TEXT_BANKJN501_02991_SEQ_02",""
+3,"TEXT_BANKJN501_02991_SEQ_03",""
+4,"TEXT_BANKJN501_02991_SEQ_04",""
+5,"TEXT_BANKJN501_02991_SEQ_05",""
+6,"TEXT_BANKJN501_02991_SEQ_06",""
+7,"TEXT_BANKJN501_02991_SEQ_07",""
+8,"TEXT_BANKJN501_02991_SEQ_08",""
+9,"TEXT_BANKJN501_02991_SEQ_09",""
+10,"TEXT_BANKJN501_02991_SEQ_10",""
+11,"TEXT_BANKJN501_02991_SEQ_11",""
+12,"TEXT_BANKJN501_02991_SEQ_12",""
+13,"TEXT_BANKJN501_02991_SEQ_13",""
+14,"TEXT_BANKJN501_02991_SEQ_14",""
+15,"TEXT_BANKJN501_02991_SEQ_15",""
+16,"TEXT_BANKJN501_02991_SEQ_16",""
+17,"TEXT_BANKJN501_02991_SEQ_17",""
+18,"TEXT_BANKJN501_02991_SEQ_18",""
+19,"TEXT_BANKJN501_02991_SEQ_19",""
+20,"TEXT_BANKJN501_02991_SEQ_20",""
+21,"TEXT_BANKJN501_02991_SEQ_21",""
+22,"TEXT_BANKJN501_02991_SEQ_22",""
+23,"TEXT_BANKJN501_02991_SEQ_23",""
+24,"TEXT_BANKJN501_02991_TODO_00","바닷속에 있는 젊은 줄가오리에게 가서
+매력적인 줄가오리에게 사랑의 물거품 맞히기 "
+25,"TEXT_BANKJN501_02991_TODO_01","즈킨에게 보고 "
+26,"TEXT_BANKJN501_02991_TODO_02",""
+27,"TEXT_BANKJN501_02991_TODO_03",""
+28,"TEXT_BANKJN501_02991_TODO_04",""
+29,"TEXT_BANKJN501_02991_TODO_05",""
+30,"TEXT_BANKJN501_02991_TODO_06",""
+31,"TEXT_BANKJN501_02991_TODO_07",""
+32,"TEXT_BANKJN501_02991_TODO_08",""
+33,"TEXT_BANKJN501_02991_TODO_09",""
+34,"TEXT_BANKJN501_02991_TODO_10",""
+35,"TEXT_BANKJN501_02991_TODO_11",""
+36,"TEXT_BANKJN501_02991_TODO_12",""
+37,"TEXT_BANKJN501_02991_TODO_13",""
+38,"TEXT_BANKJN501_02991_TODO_14",""
+39,"TEXT_BANKJN501_02991_TODO_15",""
+40,"TEXT_BANKJN501_02991_TODO_16",""
+41,"TEXT_BANKJN501_02991_TODO_17",""
+42,"TEXT_BANKJN501_02991_TODO_18",""
+43,"TEXT_BANKJN501_02991_TODO_19",""
+44,"TEXT_BANKJN501_02991_TODO_20",""
+45,"TEXT_BANKJN501_02991_TODO_21",""
+46,"TEXT_BANKJN501_02991_TODO_22",""
+47,"TEXT_BANKJN501_02991_TODO_23",""
+48,"TEXT_BANKJN501_02991_ZUKIN_000_000","<Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>누님<Else/>형님</If>, 드디어 왔다아!
+줄가오리들이 사랑을 나누는 사랑의 계절 말이다아!
+그래서 이번엔 줄가오리의 사랑을 좀 도와주었으면 한다아!"
+49,"TEXT_BANKJN501_02991_ZUKIN_000_001","수컷 줄가오리는 마음에 드는 암컷을 향해
+달콤한 향기가 나는 '사랑의 물거품'을 쏘면서 구애를 한다아.
+그치만 젊은 수컷은 용기가 없는지 제대로 못 한단 말이지이."
+50,"TEXT_BANKJN501_02991_ZUKIN_000_002","그래서 <If(PlayerParameter(4))>누님<Else/>형님</If>이 '젊은 줄가오리'를 부추겨서
+물거품을 잘 쏠 수 있게 도와줬으면 좋겠다아.
+지금 녀석이 있는 곳을 지도에 표시해 놨으니 잘 부탁한다아."
+51,"TEXT_BANKJN501_02991_ZUKIN_000_003","（★未使用／削除予定★）"
+52,"TEXT_BANKJN501_02991_SYSTEM_000_011","젊은 줄가오리를 도와줍시다.
+'매력적인 줄가오리'를 발견하면 줌을 한 뒤
+<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>왼쪽 클릭<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>버튼/<CommandIcon(8)/>버튼</If>으로 사랑의 물거품을 맞히세요!"
+53,"TEXT_BANKJN501_02991_ATTENDANT02991_000_012","이런이런, 사랑의 물거품은 제대로 맞혔는데
+상대를 잘못 고른 것 같네에.
+저 아이는 다른 수컷의 구애도 몇 번이나 거절했거드은. "
+54,"TEXT_BANKJN501_02991_ATTENDANT02991_000_013","으음, 저 아이는 쉽게 안 넘어올 거야아.
+젊은 줄가오리가 혼신의 힘을 다해 사랑의 물거품을
+쏘아도 아주 조금밖에 반응하지 않더라고오."
+55,"TEXT_BANKJN501_02991_ATTENDANT02991_000_014","당신, 일을 제대로 한 것 같아아!
+저 줄가오리가 아주 들뜬 기색이었거든!
+사랑의 물거품이 효과가 있었던 게 틀림없어어!"
+56,"TEXT_BANKJN501_02991_ATTENDANT02991_000_015","하지만 그 아이는 이제 가 버렸으니
+지금은 사랑의 물거품을 맞힐 순 없겠어어."
+57,"TEXT_BANKJN501_02991_ATTENDANT02991_100_015","다음엔 더 잘할 수 있을 거야아!
+난 계속 응원할 테니 당신도 다음에 또 부탁해애!"
+58,"TEXT_BANKJN501_02991_ATTENDANT02991_000_016","난 줄가오리의 사랑을 응원하고 있어어!
+하지만 아직 격려가 부족한 것 같으니, 당신도
+'젊은 줄가오리'가 사랑의 물거품을 쏠 수 있게 도와줘어!"
+59,"TEXT_BANKJN501_02991_ZUKIN_000_022","도와줘서 고맙다아.
+<If(PlayerParameter(4))>누님<Else/>형님</If>이 쏠 수 있게 도와준 사랑의 물거품은
+틀림없이 미래를 위한 위대한 한 방이 되었을 거다아.  "
+60,"TEXT_BANKJN501_02991_ZUKIN_000_023","줄가오리의 사랑은 그리 쉽게 맺어지지 않지만,
+열 번 찍어 안 넘어가는 나무는 없다고 하지 않나아.
+여러 번 반복해서 자신감을 심어주는 수밖에 없다아."
+61,"TEXT_BANKJN501_02991_ZUKIN_000_024","줄가오리는 보물찾기를 도와주는 중요한 파트너니까
+사랑이 결실을 맺도록 도와서 번식 시켜야 한다아.
+<If(PlayerParameter(4))>누님<Else/>형님</If>, 또 다음번에도 도와주길 바란다아."
+62,"TEXT_BANKJN501_02991_SYSTEM_000_025","젊은 줄가오리는 매력적인 줄가오리가
+떠난 방향을 조용히 바라보고 있다……."
+63,"TEXT_BANKJN501_02991_ATTENDANT02991_000_026","다음엔 더 잘할 수 있을 거야아.
+난 계속 응원할 테니 당신도 다음에 또 부탁해애!"

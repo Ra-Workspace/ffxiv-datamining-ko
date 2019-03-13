@@ -1,0 +1,51 @@
+﻿key,0,1,2,3,4
+#,,,Priority,Name,Icon
+int32,bit&01,bit&02,byte,str,Image
+0,False,False,0,"",0
+1,False,False,0,"프로듀서",61531
+2,False,False,0,"게임 마스터",61524
+3,False,False,0,"게임 마스터",61532
+4,False,False,0,"게임 마스터",61533
+5,False,False,0,"통신 두절",61503
+6,True,False,1,"친구 신청 중",61501
+7,True,False,2,"링크셸 가입 신청 중",61501
+8,True,False,3,"자유부대 가입 신청 중",61501
+9,True,False,4,"존재하지 않음",61502
+10,True,False,5,"접속 종료",61504
+11,True,False,6,"멘토",61540
+12,True,False,7,"다른 용무 중",61509
+13,True,False,8,"PvP",61510
+14,True,False,9,"카드 대결 중",61539
+15,True,False,10,"이벤트 중",61508
+16,True,False,12,"초코보 수송 탑승 중",61534
+17,True,False,13,"자리 비움",61511
+18,True,False,14,"촬영 중",61546
+19,True,False,15,"수리 요청",61512
+20,True,False,16,"수리 대행",61513
+21,True,True,17,"마테리아 장착 대행 중",61514
+22,True,False,18,"역할극 중",61545
+23,True,False,19,"파티 가입 희망",61515
+24,True,False,20,"용병 지원",61516
+25,True,False,21,"임무 참가 신청 중",61517
+26,True,False,22,"파티 모집 중",61536
+27,True,False,31,"멘토",61540
+28,True,False,32,"PvE 멘토",61542
+29,True,False,33,"제작채집 멘토",61543
+30,True,False,34,"PvP 멘토",61544
+31,True,False,35,"복귀자",61547
+32,True,False,36,"초보자",61523
+33,True,False,23,"전체 연합 파티장",61518
+34,True,False,24,"연합 파티장",61519
+35,True,False,25,"연합 파티원",61520
+36,True,False,26,"파티장",61521
+37,True,False,27,"파티원",61522
+38,True,True,28,"파티장(다른 서버)",61961
+39,True,True,29,"파티원(다른 서버)",61962
+40,True,False,30,"임무 중(다른 서버)",61535
+41,False,False,0,"같은 임무 중",61506
+42,False,False,0,"같은 임무 중(다른 파티)",61507
+43,True,False,11,"임무 중",61510
+44,True,False,38,"체험판 플레이어",61525
+45,False,False,0,"자유부대",0
+46,False,False,0,"총사령부",0
+47,True,False,37,"접속 중",61505

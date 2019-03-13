@@ -1,0 +1,99 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_GAIUSC904_01039_SEQ_00","푸른안개 야영지의 불멸대 상사 갈라진 주먹은 모험가가 병사들을 격려해주었으면 하는 듯하다."
+1,"TEXT_GAIUSC904_01039_SEQ_01","병사들을 격려하기 위해 음식을 준비하기로 했다. <Sheet(BNpcName,304,0)/><13>FF1302280FFF09424E70634E616D65F201300103FF04EBA5BCFF04EC9D84</13> 처치하여 <Sheet(EventItem,2000785,0)/><13>FF15022811FF0A4576656E744974656DF61E87910103FF04EBA5BCFF04EC9D84</13> 3개 손에 넣자."
+2,"TEXT_GAIUSC904_01039_SEQ_02","요리 재료를 구했다. <Sheet(EObj,2002256,0)/>에 <Sheet(EventItem,2000785,0)/><13>FF15022811FF0A4576656E744974656DF61E87910103FF04EBA5BCFF04EC9D84</13> 넣고 요리하자."
+3,"TEXT_GAIUSC904_01039_SEQ_03","음식이 다 되려면 시간이 좀 걸린다. <Sheet(EObj,2002256,0)/>에서 잠시 기다리자."
+4,"TEXT_GAIUSC904_01039_SEQ_04","음식이 완성된 것 같다. <Sheet(EObj,2002256,0)/>에서 <Sheet(EventItem,2000786,0)/><13>FF15022811FF0A4576656E744974656DF61E87920103FF04EBA5BCFF04EC9D84</13> 그릇에 담자."
+5,"TEXT_GAIUSC904_01039_SEQ_05","완성된 음식을 손에 넣었다. 푸른안개 야영지를 돌면서 병사들에게 <Sheet(EventItem,2000786,0)/><13>FF15022811FF0A4576656E744974656DF61E87920103FF04EBA5BCFF04EC9D84</13> 나눠주자."
+6,"TEXT_GAIUSC904_01039_SEQ_06","음식을 다 나눠주었다. 푸른안개 야영지에 있는 '불멸대 상사 갈라진 주먹'에게 보고하자."
+7,"TEXT_GAIUSC904_01039_SEQ_07","불멸대 상사 갈라진 주먹에게 보고했다. 모험가 덕분에 병사들은 용기를 되찾은 듯하다."
+8,"TEXT_GAIUSC904_01039_SEQ_08",""
+9,"TEXT_GAIUSC904_01039_SEQ_09",""
+10,"TEXT_GAIUSC904_01039_SEQ_10",""
+11,"TEXT_GAIUSC904_01039_SEQ_11",""
+12,"TEXT_GAIUSC904_01039_SEQ_12",""
+13,"TEXT_GAIUSC904_01039_SEQ_13",""
+14,"TEXT_GAIUSC904_01039_SEQ_14",""
+15,"TEXT_GAIUSC904_01039_SEQ_15",""
+16,"TEXT_GAIUSC904_01039_SEQ_16",""
+17,"TEXT_GAIUSC904_01039_SEQ_17",""
+18,"TEXT_GAIUSC904_01039_SEQ_18",""
+19,"TEXT_GAIUSC904_01039_SEQ_19",""
+20,"TEXT_GAIUSC904_01039_SEQ_20",""
+21,"TEXT_GAIUSC904_01039_SEQ_21",""
+22,"TEXT_GAIUSC904_01039_SEQ_22",""
+23,"TEXT_GAIUSC904_01039_SEQ_23",""
+24,"TEXT_GAIUSC904_01039_TODO_00","<Sheet(BNpcName,304,0)/> 처치 후 <Sheet(EventItem,2000785,0)/> 입수"
+25,"TEXT_GAIUSC904_01039_TODO_01","<Sheet(EObj,2002256,0)/>에 <Sheet(EventItem,2000785,0)/> 넣기"
+26,"TEXT_GAIUSC904_01039_TODO_02","<Sheet(EventItem,2000785,0)/> 조리기"
+27,"TEXT_GAIUSC904_01039_TODO_03","<Sheet(EObj,2002256,0)/>에서 <Sheet(EventItem,2000786,0)/> 입수"
+28,"TEXT_GAIUSC904_01039_TODO_04","병사에게 <Sheet(EventItem,2000786,0)/> 전달"
+29,"TEXT_GAIUSC904_01039_TODO_05","불멸대 상사 갈라진 주먹에게 보고"
+30,"TEXT_GAIUSC904_01039_TODO_06",""
+31,"TEXT_GAIUSC904_01039_TODO_07",""
+32,"TEXT_GAIUSC904_01039_TODO_08",""
+33,"TEXT_GAIUSC904_01039_TODO_09",""
+34,"TEXT_GAIUSC904_01039_TODO_10",""
+35,"TEXT_GAIUSC904_01039_TODO_11",""
+36,"TEXT_GAIUSC904_01039_TODO_12",""
+37,"TEXT_GAIUSC904_01039_TODO_13",""
+38,"TEXT_GAIUSC904_01039_TODO_14",""
+39,"TEXT_GAIUSC904_01039_TODO_15",""
+40,"TEXT_GAIUSC904_01039_TODO_16",""
+41,"TEXT_GAIUSC904_01039_TODO_17",""
+42,"TEXT_GAIUSC904_01039_TODO_18",""
+43,"TEXT_GAIUSC904_01039_TODO_19",""
+44,"TEXT_GAIUSC904_01039_TODO_20",""
+45,"TEXT_GAIUSC904_01039_TODO_21",""
+46,"TEXT_GAIUSC904_01039_TODO_22",""
+47,"TEXT_GAIUSC904_01039_TODO_23",""
+48,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_000","<Highlight>ObjectParameter(1)</Highlight> 대장님.
+지금 바로 병사들을 격려해주셨으면 하는데……
+그전에 잠깐 이야기를 드려도 되겠습니까?"
+49,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_001","사실 이렇게 규모가 큰 작전은 저도 겪어본 적이 없습니다.
+병사들도 모두 긴장과 불안 때문에 기절하기 직전이죠."
+50,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_002","1세기 전에 활약했던 그리다니아의 명장 '뱅슐롱'은
+처음 전장에 나서는 병사들에게 손수 밥을 지어 먹였고,
+덕분에 병사들은 두려움을 잊고 싸움에 임했다고 합니다."
+51,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_003","옛 지혜를 배우는 건 그리다니아의 좋은 풍습이죠.
+영웅께서 손수 만든 요리를 먹으면
+겁먹은 병사들도 용기가 솟을 겁니다!"
+52,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_004","다른 재료는 이미 저쪽 냄비에 준비해뒀습니다.
+이제 <Sheet(BNpcName,304,0)/> 고기를 넣고 잠시 조리면
+<Sheet(EventItem,2000786,0)/><13>FF15022811FF0A4576656E744974656DF61E87920103FF04EAB080FF04EC9DB4</13> 완성될 겁니다."
+53,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_005","<Sheet(EventItem,2000786,0)/><13>FF15022811FF0A4576656E744974656DF61E87920103FF04EAB080FF04EC9DB4</13> 다 끓으면
+병사들을 찾아가 손수 가져다주십시오."
+54,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_006","위대한 영웅께 드릴 만한 부탁이 아니라는 건 잘 압니다만
+상황이 상황인 만큼 아무쪼록 너그러이 이해해주십시오."
+55,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_007","아무래도 영웅인 대장님께서 병사들에게 직접
+음식을 나눠준다는 것이 가장 큰 격려가 될 것 같습니다.
+부디 병사들에게 힘을 주십시오!"
+56,"TEXT_GAIUSC904_01039_TODO_000_000","<Sheet(BNpcName,304,0)/> 처치 후 <Sheet(EventItem,2000785,0)/> 3개 입수"
+57,"TEXT_GAIUSC904_01039_TODO_000_010","냄비에 <Sheet(EventItem,2000785,0)/> 넣기"
+58,"TEXT_GAIUSC904_01039_TODO_000_020","냄비 젓기"
+59,"TEXT_GAIUSC904_01039_TODO_000_030","완성된 <Sheet(EventItem,2000786,0)/> 입수"
+60,"TEXT_GAIUSC904_01039_ZEZERAGI_000_010","으으…… 싸우기 싫다아, 집에 가고 싶어어…….
+이렇게 춥고 무서운 곳에서
+아무도 모르게 죽기 싫어어……."
+61,"TEXT_GAIUSC904_01039_ZEZERAGI_000_020","으으, 국물이…… 정말 따뜻하네요.
+마치 당신의 따뜻한 마음이 전해지는 것 같아요.
+당신을 위해서라면 이 한 몸 기꺼이 바쳐 싸울게요!"
+62,"TEXT_GAIUSC904_01039_ADELENA_000_030","제국군을 어떻게 이겨…….
+저 새까만 금속 병기를 봐…….
+이런 무기로 어떻게 상대하란 말이야!"
+63,"TEXT_GAIUSC904_01039_ADELENA_000_040","……당신의 강인함과 다정한 마음이 마음속 깊이 스며드네요.
+고마워요, 영웅님.
+저도 힘닿는 데까지 해볼게요!"
+64,"TEXT_GAIUSC904_01039_BETYN_000_050","덜덜덜……
+다친 척하면 안 싸워도 되는 거지?
+다른 사람도 있으니까, 나 하나쯤 없어도 이기겠지?"
+65,"TEXT_GAIUSC904_01039_BETYN_000_060","영웅이 손수 음식을……?
+제길, 겁먹고 쫄아있던 내가 한심하군!
+나도 싸울 거야! 당신처럼 끝까지 싸우고 말겠어!!"
+66,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_070","정말 고맙습니다!
+당신의 진정 어린 마음이 병사들의 마음을 울린 것 같군요!"
+67,"TEXT_GAIUSC904_01039_CRACKEDFIST_000_071","병사들은 틀림없이 용기를 되찾고
+자기 의지로 이 땅을 지키기 위해 싸울 겁니다.
+이 모두 분명 당신의 힘이 되리라고 저는 믿습니다."

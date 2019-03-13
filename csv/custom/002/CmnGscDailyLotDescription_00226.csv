@@ -1,0 +1,11 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_01","'일일 복권'은 날마다 도전할 수 있는 즉석 복권입니다.
+하루에 한 번! 오늘의 운세를 점쳐볼 겸
+'일일 복권'에 도전해보는 건 어떠세요?"
+1,"TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_02","'일일 복권'은 하루 3번까지 도전할 수 있습니다."
+2,"TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_03","도전 횟수는 현실 시간으로
+매일 <ResetTime>01</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다.
+최대 횟수까지 도전한 후에는 초기화될 때까지 기다려주십시오."
+3,"TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_ACTOR","（★未使用／削除予定★）"

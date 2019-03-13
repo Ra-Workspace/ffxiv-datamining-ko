@@ -1,0 +1,148 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_JOBMCH451_01702_SEQ_00","하늘강철 기공방의 스테파니비앙은 모험가에게 부탁하고 싶은 일이 있는 듯하다."
+1,"TEXT_JOBMCH451_01702_SEQ_01","빨리 훈련을 시작하고 싶은 스테파니비앙이, 아직 집안일 중인 조이를 재촉해달라고 부탁했다. 이슈가르드 '보석홀장 거리'에 있는 '조이'와 대화하자."
+2,"TEXT_JOBMCH451_01702_SEQ_02","조이는 일이 끝나려면 시간이 좀 걸릴 것 같다. 몰래 조이를 돕기 위해, 보석홀장 거리에 있는 <Sheet(EObj,2006262,0)/><13>FF1002280CFF05454F626AF61E9CF60103FF04EBA5BCFF04EC9D84</13> 들자."
+3,"TEXT_JOBMCH451_01702_SEQ_03","<Sheet(EObj,2006262,0)/><13>FF1002280CFF05454F626AF61E9CF60103FF04EBA5BCFF04EC9D84</13> 들었다. 이슈가르드 '아유나르트 저택' 앞에 있는 '조이'에게 <Sheet(EventItem,2001815,0)/><13>FF15022811FF0A4576656E744974656DF61E8B970103FF04EBA5BCFF04EC9D84</13> 건네자."
+4,"TEXT_JOBMCH451_01702_SEQ_04","조이의 짐을 몰래 옮겨서 그녀가 할 일을 끝내주었다. 동부 라노시아 '핏빛해안'에 있는 '스테파니비앙'과 대화하자."
+5,"TEXT_JOBMCH451_01702_SEQ_05","스테파니비앙과 대화하고 훈련을 마쳤다. 하늘강철 기공방에 있는 '스테파니비앙'과 대화하자."
+6,"TEXT_JOBMCH451_01702_SEQ_06","스테파니비앙과 대화했다. 사기가 떨어진 조이의 빈틈을 메우기 위해서라도 열심히 수련하자.
+
+※ 기공사 레벨이 50 이상 되면 하늘강철 기공방에 있는 스테파니비앙에게 다음 기공사 퀘스트를 받을 수 있습니다."
+7,"TEXT_JOBMCH451_01702_SEQ_07",""
+8,"TEXT_JOBMCH451_01702_SEQ_08",""
+9,"TEXT_JOBMCH451_01702_SEQ_09",""
+10,"TEXT_JOBMCH451_01702_SEQ_10",""
+11,"TEXT_JOBMCH451_01702_SEQ_11",""
+12,"TEXT_JOBMCH451_01702_SEQ_12",""
+13,"TEXT_JOBMCH451_01702_SEQ_13",""
+14,"TEXT_JOBMCH451_01702_SEQ_14",""
+15,"TEXT_JOBMCH451_01702_SEQ_15",""
+16,"TEXT_JOBMCH451_01702_SEQ_16",""
+17,"TEXT_JOBMCH451_01702_SEQ_17",""
+18,"TEXT_JOBMCH451_01702_SEQ_18",""
+19,"TEXT_JOBMCH451_01702_SEQ_19",""
+20,"TEXT_JOBMCH451_01702_SEQ_20",""
+21,"TEXT_JOBMCH451_01702_SEQ_21",""
+22,"TEXT_JOBMCH451_01702_SEQ_22",""
+23,"TEXT_JOBMCH451_01702_SEQ_23",""
+24,"TEXT_JOBMCH451_01702_TODO_00","상층에서 조이와 대화"
+25,"TEXT_JOBMCH451_01702_TODO_01","<Sheet(EObj,2006262,0)/> 들기"
+26,"TEXT_JOBMCH451_01702_TODO_02","조이에게 <Sheet(EventItem,2001815,0)/> 전달"
+27,"TEXT_JOBMCH451_01702_TODO_03","핏빛해안에서 스테파니비앙과 대화"
+28,"TEXT_JOBMCH451_01702_TODO_04","하늘강철 기공방에서 스테파니비앙과 대화"
+29,"TEXT_JOBMCH451_01702_TODO_05",""
+30,"TEXT_JOBMCH451_01702_TODO_06",""
+31,"TEXT_JOBMCH451_01702_TODO_07",""
+32,"TEXT_JOBMCH451_01702_TODO_08",""
+33,"TEXT_JOBMCH451_01702_TODO_09",""
+34,"TEXT_JOBMCH451_01702_TODO_10",""
+35,"TEXT_JOBMCH451_01702_TODO_11",""
+36,"TEXT_JOBMCH451_01702_TODO_12",""
+37,"TEXT_JOBMCH451_01702_TODO_13",""
+38,"TEXT_JOBMCH451_01702_TODO_14",""
+39,"TEXT_JOBMCH451_01702_TODO_15",""
+40,"TEXT_JOBMCH451_01702_TODO_16",""
+41,"TEXT_JOBMCH451_01702_TODO_17",""
+42,"TEXT_JOBMCH451_01702_TODO_18",""
+43,"TEXT_JOBMCH451_01702_TODO_19",""
+44,"TEXT_JOBMCH451_01702_TODO_20",""
+45,"TEXT_JOBMCH451_01702_TODO_21",""
+46,"TEXT_JOBMCH451_01702_TODO_22",""
+47,"TEXT_JOBMCH451_01702_TODO_23",""
+48,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_000","그럼 이제 조이가 집안일을 마치고 오면 출발할 수 있겠다.
+미안한데 가서 조이를 찾아봐 줄래? 아마 상층에 있을 거야."
+49,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_009","실전에서 마음껏 날뛸 수 있게 열심히 훈련해.
+모의 전투에서 승리할지는 네게 달려 있어."
+50,"TEXT_JOBMCH451_01702_JOYE_000_010","어머, <Highlight>ObjectParameter(1)</Highlight> 님.
+벌써 출발 준비가 끝나신 건가요?
+조이도 이 짐들만 저택으로 옮기면 됩니다."
+51,"TEXT_JOBMCH451_01702_JOYE_000_011","조이가 기공사 훈련을 계속하려면
+먼저 저택 일을 완벽하게 해내야 한답니다.
+주인님과 그렇게 약속했거든요……."
+52,"TEXT_JOBMCH451_01702_JOYE_000_012","짐이 많아서 한꺼번에는 다 못 옮기겠지만
+몇 번만 뛰어다니면 되니 잠시만 기다려주세요……."
+53,"TEXT_JOBMCH451_01702_Q1_000_000","어떻게 하시겠습니까?"
+54,"TEXT_JOBMCH451_01702_A1_000_001","도와주겠다고 한다"
+55,"TEXT_JOBMCH451_01702_A1_000_002","몰래 돕는다"
+56,"TEXT_JOBMCH451_01702_JOYE_000_013","<Highlight>ObjectParameter(1)</Highlight> 님은 정말 친절하시네요.
+그럼 죄송하지만 잠깐만 짐을 봐주시겠어요?
+조이는 급한 짐부터 저택으로 옮기겠습니다!"
+57,"TEXT_JOBMCH451_01702_JOYE_000_014","<Highlight>ObjectParameter(1)</Highlight> 님,
+죄송하지만 잠깐만 짐을 봐주시겠어요?
+조이는 급한 짐부터 저택으로 옮기겠습니다!"
+58,"TEXT_JOBMCH451_01702_BAURENDOUIN_000_019","……아, 조이가 못 들고 온 짐을 가지고 왔나 보군."
+59,"TEXT_JOBMCH451_01702_JOYE_000_019","<Highlight>ObjectParameter(1)</Highlight> 님……!
+남은 짐을 보고 있어달라고 부탁드렸잖아요!?
+누, 누, 누가 훔쳐가진 않았겠죠? 빨리 가봐야겠습니다!"
+60,"TEXT_JOBMCH451_01702_BAURENDOUIN_000_020","……아, 조이가 못 들고 온 짐을 가지고 왔나 보군.
+자네 덕분에 조이가 할 일이 다 끝났다.
+어서 그 아이를 데리고 공방으로 가보도록."
+61,"TEXT_JOBMCH451_01702_JOYE_000_030","<Highlight>ObjectParameter(1)</Highlight> 님께는 항상 신세를 지는군요.
+물론 짐 옮기는 걸 도와주신 것도 기쁘지만,
+항상 도련님을 위해 힘써주시는 것도 정말 감사합니다."
+62,"TEXT_JOBMCH451_01702_JOYE_000_031","……주인님은 조이가 기공사가 되는 것을 반대하셨어요.
+하지만 조이를 저택에서 쫓아내지는 않으셨죠.
+조이가 아버지를 부양해야 한다는 걸 알고 계셨거든요."
+63,"TEXT_JOBMCH451_01702_JOYE_000_032","주인님께는 아무리 감사해도 모자랄 정도랍니다.
+그래서 조이는 주인님의 뜻을 거스르고
+기공사 훈련을 계속해도 될지 고민이에요……."
+64,"TEXT_JOBMCH451_01702_JOYE_000_033","<Highlight>ObjectParameter(1)</Highlight> 님이
+'기공사'로서 도련님의 버팀목이 되어주신다면
+이제 조이가 총을 들 필요는 없을지도 몰라요……."
+65,"TEXT_JOBMCH451_01702_Q2_000_000","뭐라고 하시겠습니까?"
+66,"TEXT_JOBMCH451_01702_A2_000_001","모의 전투에서 승리하는 것이 은혜를 갚는 길이다"
+67,"TEXT_JOBMCH451_01702_A2_000_002","…………."
+68,"TEXT_JOBMCH451_01702_JOYE_000_034","……그렇군요.
+그럼 어서 동부 라노시아의 핏빛해안으로 가요.
+최선을 다해 결과를 내야죠!"
+69,"TEXT_JOBMCH451_01702_JOYE_000_035","조이가 기공사를 그만두면 저택 일에 전념하여
+주인님께서 베풀어주신 은혜를 갚을 수 있겠죠."
+70,"TEXT_JOBMCH451_01702_JOYE_000_036","……어머, 너무 오래 이야기했네요.
+어서 동부 라노시아의 핏빛해안으로 가죠."
+71,"TEXT_JOBMCH451_01702_BAURENDOUIN_000_021","（★未使用／削除予定★）"
+72,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_040","왔구나, <Highlight>ObjectParameter(1)</Highlight>.
+그럼 훈련 내용을 설명할게.
+이번 훈련의 목적은 기사와의 전투에 익숙해지는 거야."
+73,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_041","기사가 '기공사'를 공격하려면 반드시 접근해야만 하지.
+그래서 우리는 기사가 다가오지 못하게 하는 훈련을 할 거야."
+74,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_043","훈련에서는 이 <Sheet(EObj,2006265,0)/><14>FF1002280CFF05454F626AF61E9CF90103FF04EBA19CFF07EC9CBCEBA19C</14> 마물을 유인할 거야.
+이걸 노리고 달려드는 마물을 기사라고 생각하면서
+요격전 훈련을 하는 거지."
+75,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_044","아군 진영에 놓은 먹이 상자가 파괴되면 우리의 패배다.
+<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 어떻게 싸워야 효과적인지 생각하면서
+조이에게 본보기를 보여줘!"
+76,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_045","（★未使用／削除予定★）"
+77,"TEXT_JOBMCH451_01702_QIB_001_TODO_1","냄새 나는 먹이 상자를 지켜내라!"
+78,"TEXT_JOBMCH451_01702_QIB_001_TODO_2","심해 모르가우르를 쓰러뜨려라!"
+79,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_01","자, 적들이 상자에 도달하기 전에 싹 쓸어버려!"
+80,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_02","또 온다! 정신 바짝 차리고 요격해!"
+81,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_03","'자동포탑 룩'으로 적의 수를 줄여라!"
+82,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_04","주변의 마물이 죄다 몰려들기 시작했다!"
+83,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_05","좋아, 아주 잘했어!
+오늘 훈련은 여기까지 하자."
+84,"TEXT_JOBMCH451_01702_QIB_001_STEPHANIVIEN_BATTLETALK_01","잠깐만, 사범…… 저건 뭐지!?"
+85,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_06","호오, 마물의 피 냄새를 맡고 거물이 걸려들었군!
+좋아. 저 녀석을 잡아서 깔끔하게 마무리하자고!"
+86,"TEXT_JOBMCH451_01702_QIB_001_JOYE_BATTLETALK_01","빠……앙, 더 쏘고 싶었는데……."
+87,"TEXT_JOBMCH451_01702_QIB_001_ROSTNSTHAL_BATTLETALK_07","이런 실력으로 모의 전투에서 이길 수 있겠느냐."
+88,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_050","마물이 난입했을 땐 깜짝 놀랐지만, 둘 다 정말 대단했어.
+덕분에 내 계측기가 새로운 작전을 마구 산출하고 있다니까."
+89,"TEXT_JOBMCH451_01702_JOYE_000_051","도, 도련님, 송구합니다만
+<Highlight>ObjectParameter(1)</Highlight> 님 같은 실력자가 계시니
+조이가 모의 전투에 나갈 필요는 없지 않습니까?"
+90,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_052","……아직도 신분 때문에 걱정이야?
+내게는 너희 둘 다 필요한 사람이야."
+91,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_053","전투 경험이 없는 평민 상대로 기사들이 접근조차 못 하고
+쩔쩔매는 걸 보면, 교황청의 높으신 분들도 생각을 바꾸겠지.
+그게 바로 낡아빠진 전통을 뒤집을 돌파구가 될 거야."
+92,"TEXT_JOBMCH451_01702_JOYE_000_054","……도련님 생각은 잘 알겠습니다.
+모의 전투에서 승리하는 것이 아유나르트 가의 숙원이라면……
+조이도 온 힘을 다해야겠지요……."
+93,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_055","……그래, 잘 부탁한다.
+자, 이제 공방으로 가자."
+94,"TEXT_JOBMCH451_01702_STEPHANIVIEN_000_060","<Highlight>ObjectParameter(1)</Highlight>, 이번엔 수고 많았어.
+그나저나 조이의 사기가 떨어진 게 걱정되네.
+총을 들면 좀 괜찮아지려나……."
+95,"TEXT_JOBMCH451_01702_SYSTEM_000_061","（★未使用／削除予定★）"

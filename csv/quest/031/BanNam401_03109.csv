@@ -1,0 +1,142 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANNAM401_03109_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+도로 일로에 있는 광풍원 세이게츠는 거대 메기가 신경 쓰이는 모양이다."
+1,"TEXT_BANNAM401_03109_SEQ_01","아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오와 대화하자."
+2,"TEXT_BANNAM401_03109_SEQ_02","낚시를 즐기는 나마즈오에게 의뢰받은 물건을 납품하자."
+3,"TEXT_BANNAM401_03109_SEQ_03","광풍원 세이게츠에게 보고하자."
+4,"TEXT_BANNAM401_03109_SEQ_04",""
+5,"TEXT_BANNAM401_03109_SEQ_05",""
+6,"TEXT_BANNAM401_03109_SEQ_06",""
+7,"TEXT_BANNAM401_03109_SEQ_07",""
+8,"TEXT_BANNAM401_03109_SEQ_08",""
+9,"TEXT_BANNAM401_03109_SEQ_09",""
+10,"TEXT_BANNAM401_03109_SEQ_10",""
+11,"TEXT_BANNAM401_03109_SEQ_11",""
+12,"TEXT_BANNAM401_03109_SEQ_12",""
+13,"TEXT_BANNAM401_03109_SEQ_13",""
+14,"TEXT_BANNAM401_03109_SEQ_14",""
+15,"TEXT_BANNAM401_03109_SEQ_15",""
+16,"TEXT_BANNAM401_03109_SEQ_16",""
+17,"TEXT_BANNAM401_03109_SEQ_17",""
+18,"TEXT_BANNAM401_03109_SEQ_18",""
+19,"TEXT_BANNAM401_03109_SEQ_19",""
+20,"TEXT_BANNAM401_03109_SEQ_20",""
+21,"TEXT_BANNAM401_03109_SEQ_21",""
+22,"TEXT_BANNAM401_03109_SEQ_22",""
+23,"TEXT_BANNAM401_03109_SEQ_23",""
+24,"TEXT_BANNAM401_03109_TODO_00","아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오와 대화"
+25,"TEXT_BANNAM401_03109_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>여명의 옥좌 북동쪽 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>여명의 옥좌 북동쪽 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>아짐 카트에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>아짐 카트 남동쪽에 있는 낚시를 즐기는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+26,"TEXT_BANNAM401_03109_TODO_02","광풍원 세이게츠에게 보고"
+27,"TEXT_BANNAM401_03109_TODO_03",""
+28,"TEXT_BANNAM401_03109_TODO_04",""
+29,"TEXT_BANNAM401_03109_TODO_05",""
+30,"TEXT_BANNAM401_03109_TODO_06",""
+31,"TEXT_BANNAM401_03109_TODO_07",""
+32,"TEXT_BANNAM401_03109_TODO_08",""
+33,"TEXT_BANNAM401_03109_TODO_09",""
+34,"TEXT_BANNAM401_03109_TODO_10",""
+35,"TEXT_BANNAM401_03109_TODO_11",""
+36,"TEXT_BANNAM401_03109_TODO_12",""
+37,"TEXT_BANNAM401_03109_TODO_13",""
+38,"TEXT_BANNAM401_03109_TODO_14",""
+39,"TEXT_BANNAM401_03109_TODO_15",""
+40,"TEXT_BANNAM401_03109_TODO_16",""
+41,"TEXT_BANNAM401_03109_TODO_17",""
+42,"TEXT_BANNAM401_03109_TODO_18",""
+43,"TEXT_BANNAM401_03109_TODO_19",""
+44,"TEXT_BANNAM401_03109_TODO_20",""
+45,"TEXT_BANNAM401_03109_TODO_21",""
+46,"TEXT_BANNAM401_03109_TODO_22",""
+47,"TEXT_BANNAM401_03109_TODO_23",""
+48,"TEXT_BANNAM401_03109_KOFUINSEIGETSU_000_000","잘 들어, 영양이 풍부한 물이 가득한 아짐 카트에는
+거대한 메기가 서식한다는 전설이 있다.
+귀군도 공물로 바치기 위해 무슨 수를 써서라도 낚고 싶겠지?"
+49,"TEXT_BANNAM401_03109_KOFUINSEIGETSU_000_001","그렇고말고, 누구나 낚고 싶은 마음이 드는 게 당연하다!
+거대한 공물은 그것을 얻을만한 힘이 있다는 걸 나타내고
+보다 문명적이라는 증거가 되기 때문이지."
+50,"TEXT_BANNAM401_03109_KOFUINSEIGETSU_000_002","거대 메기에 도전하려고 아짐 카트 남동쪽 부근으로 간
+'낚시를 즐기는 나마즈오'가 있는데 아직 돌아오지 않고 있다.
+아마 낚지 못해서 난처해 하고 있겠지."
+51,"TEXT_BANNAM401_03109_KOFUINSEIGETSU_000_003","귀군이 녀석을 도와주었으면 한다.
+잘 부탁한다."
+52,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_010","광풍원 세이게츠가 보내서 온 건감메?
+거대 메기가 있다길래 낚으러 왔는데
+미끼만 빼앗기고 한 마리도 낚지 못했담메."
+53,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_100_010","광풍원 세이게츠가 보내서 온 건감메?
+거대 메기를 낚으러 왔는데 잡히질 않는담메.
+정말 낚이는지 모험가님도 시도해 보았음 좋겠담메!"
+54,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_011","장인님, 거기 있는 상자 속의 재료를 사용해서
+'<Sheet(Item,22730,0)/>'인 모조 미끼 2개를 만들어주지 않겠냠메?
+난 지느러미가 야무지지 않은지라 잘 못 만들어서 애먹고 있담메."
+55,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_012","장인님, 거기 있는 상자 속의 재료를 사용해서
+'<Sheet(Item,22730,0)/>'인 모조 미끼 2개를 만들어주지 않겠냠메?
+난 지느러미가 야무지지 않은지라 잘 못 만들어서 애먹고 있담메."
+56,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_013","장인님, 거기 있는 상자 속의 재료를 사용해서
+'<Sheet(Item,22730,0)/>'인 모조 미끼 2개를 만들어주지 않겠냠메?
+난 지느러미가 야무지지 않은지라 잘 못 만들어서 애먹고 있담메."
+57,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_014","메기 낚시의 모조 미끼로 사용할 수 있는
+'<Sheet(Item,22626,0)/>'<13>FF0F02280BFF054974656DF258620103FF04EAB080FF04EC9DB4</13> 부족하담메.
+여명의 옥좌 북동쪽 일대에서 3개만 구해다 달람메. "
+58,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_015","메기 낚시의 모조 미끼로 사용할 수 있는
+'<Sheet(Item,22652,0)/>'<13>FF0F02280BFF054974656DF2587C0103FF04EAB080FF04EC9DB4</13> 부족하담메.
+여명의 옥좌 북동쪽 일대에서 3개만 구해다 달람메."
+59,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_016","보아하니 제법 실력 있는 어부인 모양이담메?
+이곳 '아짐 카트'에서 '<Sheet(Item,20613,0)/>'<13>FF0F02280BFF054974656DF250850103FF04EBA5BCFF04EC9D84</13> 사용해
+'<Sheet(Item,22678,0)/>'<13>FF0F02280BFF054974656DF258960103FF04EBA5BCFF04EC9D84</13> 멋지게 낚아주길 바란담메!"
+60,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_017","준비되면 나한테 갖다 주람메.
+기다리겠담메!"
+61,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_100_017","멋지게 낚거든 나한테도 보여주람메.
+나도 여기서 어떻게든 낚을 수 있게 열심히 해볼 거담메!"
+62,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_018","재료는 옆에 있는 상자에 들어있는 걸 자유롭게 써도 된담메!
+잘 부탁한담메!"
+63,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_019","재료는 옆에 있는 상자에 들어있는 걸 자유롭게 써도 된담메!
+잘 부탁한담메!"
+64,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_020","재료는 옆에 있는 상자에 들어있는 걸 자유롭게 써도 된담메!
+잘 부탁한담메!"
+65,"TEXT_BANNAM401_03109_SYSTEM_000_021","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+66,"TEXT_BANNAM401_03109_SYSTEM_000_022","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+67,"TEXT_BANNAM401_03109_SYSTEM_000_023","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+68,"TEXT_BANNAM401_03109_SYSTEM_000_024","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+69,"TEXT_BANNAM401_03109_SYSTEM_000_025","상자에서 필요한 재료를 꺼냈다!"
+70,"TEXT_BANNAM401_03109_SYSTEM_000_026","상자에서 필요한 재료를 꺼냈다!"
+71,"TEXT_BANNAM401_03109_SYSTEM_000_027","상자에서 필요한 재료를 꺼냈다!"
+72,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_028","부탁한 건 캐왔남메?
+캐왔으면 나에게 전달해주람메."
+73,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_029","부탁한 건 채집했는감메?
+채집했다면 나에게 전달해주람메."
+74,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_030","낚았다면 나에게 보여주길 바란담메.
+나도 어떻게든 낚을 수 있게 포기하지 않고 노력하겠담메!"
+75,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_031","（★未使用／削除予定★）"
+76,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_032","부탁한 건 준비되었남메?"
+77,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_033","전설의 거대 메기는 잡았남메?"
+78,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_034","좋은 미끼담메, 고맙담메!
+난 이 미끼로 거대 메기를 잡아보겠담메!
+장인님은 먼저 '광풍원 세이게츠'에게 가서 보고해달람메."
+79,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_035","이거 엄청 큰 메기담메!
+나 혼자 낚아 올릴 수 있을지 모를 정도로 크담메…….
+역시 인간 어부님은 다르담메."
+80,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_036","아니담메, 나도 낚시를 즐기는 사람인데 질 수 없담메……!
+더 큰 메기를 잡아서 명예를 회복하겠담메!
+난 이곳에 남아 계속해서 메기를 낚겠담메!"
+81,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_037","이 메기는 크기를 비교하기 위해서 빌려주면 좋겠담메.
+장인님은 먼저 '광풍원 세이게츠'한테 돌아가도 된담메."
+82,"TEXT_BANNAM401_03109_DAILYNAMAZUO03109_000_038","나는 반드시 거대 메기를 낚고 말 것이담메!
+장인님은 먼저 돌아가서 '광풍원 세이게츠'한테 보고하람메."
+83,"TEXT_BANNAM401_03109_KOFUINSEIGETSU_000_040","낚시를 즐기는 나마즈오는
+어떻게 하고 있던가?"
+84,"TEXT_BANNAM401_03109_KOFUINSEIGETSU_000_041","거 참, 과연 녀석이
+거대 메기를 낚을 수 있을지 두고 볼 일이군.
+지나친 기대는 하지 말아야겠어."
+85,"TEXT_BANNAM401_03109_KOFUINSEIGETSU_000_042","녀석이 그렇게 분해할 정도로
+거대한 메기를 낚아 올리다니…….
+역시 숙련된 어부는 대단하구나."
+86,"TEXT_BANNAM401_03109_KOFUINSEIGETSU_000_043","그나저나, 그런 큰 녀석에게 나마즈오가 도전하다가는
+낚아 올리기는 커녕 반대로 물속으로 끌려들어갈지도 모르는데…….
+뭐, 문명화를 위해서는 희생도 따르기 마련이니, 개의치 않겠다!"

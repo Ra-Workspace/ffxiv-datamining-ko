@@ -1,0 +1,58 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BAHAMUTGUIDEENTRANCE_JBROHKA_000_000","지하에 펼쳐진 '메테오의 상흔'은 미지의 영역이네.
+제국의 요새보다도 위험할 것으로 예상되니
+동료들과 함께 단단히 준비하도록!"
+1,"TEXT_BAHAMUTGUIDEENTRANCE_Q1_000_010","무엇을 하시겠습니까?"
+2,"TEXT_BAHAMUTGUIDEENTRANCE_A1_000_011","'대미궁 바하무트: 해후편' 시작 조건 묻기"
+3,"TEXT_BAHAMUTGUIDEENTRANCE_A1_000_012","<Sheet(InstanceContent,IntegerParameter(1),3)/> 시작하기"
+4,"TEXT_BAHAMUTGUIDEENTRANCE_A1_000_013","취소"
+5,"TEXT_BAHAMUTGUIDEENTRANCE_00105_Q3_000_015","궁금한 것이 있습니까?"
+6,"TEXT_BAHAMUTGUIDEENTRANCE_00105_A3_000_016","'대미궁 바하무트: 해후편' 시작 조건 묻기"
+7,"TEXT_BAHAMUTGUIDEENTRANCE_00105_A3_000_017","취소"
+8,"TEXT_BAHAMUTGUIDEENTRANCE_JBROHKA_000_020","알리제 아가씨 말씀에 따르면
+지하에 넓은 공간이 펼쳐져 있어서 마치 미궁 같다는군…….
+그래서 '대미궁 바하무트'라고 부르는 모양이야."
+9,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_050","'대미궁 바하무트: 해후편'은
+여러 개의 던전으로 이루어져 있으며
+그중에는 '데존'을 쓸 수 없는 곳도 있습니다."
+10,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_051","'대미궁 바하무트: 해후편'의 공략 진행도는
+특정 시점에 각 플레이어의 기록이 생성되며
+재입장 시 기록된 위치부터 이어서 공략할 수 있습니다."
+11,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_052","공략 진행도는 현실 시간으로
+매주 <Time(1285056000)/><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다."
+12,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_053","'대미궁 바하무트: 해후편'을 시작하려면
+투사 또는 마법사 레벨 50 이상인 플레이어 8명이
+파티를 맺어야 합니다."
+13,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_054","또한, 도전 자격을 얻으려면 모든 플레이어가
+퀘스트 '새로운 야만신'을 완료해야 합니다."
+14,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_055","'대미궁 바하무트: 해후편'의 공략 시작 지점은
+파티장의 공략 진행도를 따라갑니다."
+15,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_056","'대미궁 바하무트'의 시작 조건을 만족했다면,
+파티장보다 공략 진행도가 느린 파티원도
+파티장에 맞춰 진행할 수 있습니다."
+16,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_0561","이때 해당 파티원의 공략 진행도는
+파티장과 동일한 진행도로 갱신됩니다."
+17,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_057","파티장보다 진행도가 빠른 파티원과 함께 입장할 수는 없습니다.
+가장 진행도가 빠른 파티원에게 파티장을 위임하십시오."
+18,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_058","'대미궁 바하무트: 해후편'에는 제한시간이 존재합니다.
+(현실 시간) 90분이 경과하면
+'대미궁 바하무트: 해후편'이 강제로 종료됩니다."
+19,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_059","전리품이 남은 상태에서 다른 파티원이 모두 퇴장하면
+전리품 목록에 있는 모든 아이템을 자동으로 획득합니다."
+20,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_060","이때 소지품이 꽉 차서 획득하지 못한 아이템은 파기되므로
+주의하십시오."
+21,"TEXT_BAHAMUTGUIDEENTRANCE_Q2_000_100","<Sheet(InstanceContent,IntegerParameter(1),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8020403FF04EBA5BCFF04EC9D84</13> 시작하시겠습니까?"
+22,"TEXT_BAHAMUTGUIDEENTRANCE_A2_000_101","예"
+23,"TEXT_BAHAMUTGUIDEENTRANCE_A2_000_102","아니요"
+24,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_110","<Sheet(InstanceContent,IntegerParameter(2),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8030403FF04EBA5BCFF04EC9D84</13> 시작하지 못했습니다.
+시작 조건을 확인하십시오."
+25,"TEXT_BAHAMUTGUIDEENTRANCE_JBROHKA_000_200","제국군 중요 거점이 코앞에 있어서 그런지 긴장되네…….
+으으…… 입단하자마자 이런 데 배치되다니
+운이 좋은 건지 나쁜 건지……."
+26,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_210","'대미궁 바하무트: 해후편'을 완료하셨으므로
+초기화된 이후에 다시 도전하실 수 있습니다."
+27,"TEXT_BAHAMUTGUIDEENTRANCE_SYSTEM_000_211","공략 진행도는 현실 시간으로
+매주 <Time(1285056000)/><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다.
+초기화된 이후에 다시 공략하십시오."

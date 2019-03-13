@@ -1,0 +1,96 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_000","'조디악 웨폰'의 '자아'가 완전히 눈을 떴으니
+이제는 각성의 길로 인도할 때가 왔군!"
+1,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_001","새로운 '조디악 웨폰'은 이러한 힘을 가지게 될 걸세!
+결심이 섰다면 바로 무기를 각성시키겠네!"
+2,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_MENU_TITLE","각성시킬 '조디악 웨폰'을 선택하십시오."
+3,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_MENU_CHOICES","<If(Equal(IntegerParameter(1),9491))><Sheet(Item,9491,0)/> 및 <Sheet(Item,9500,0)/> 각성<Else/><Sheet(Item,IntegerParameter(1),0)/> 각성</If>"
+4,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_MENU_CANCEL","취소"
+5,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_YESNO_MESSAGE","（★未使用／削除予定★）"
+6,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_YESNO_YES","（★未使用／削除予定★）"
+7,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_YESNO_NO","（★未使用／削除予定★）"
+8,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_030","흠, <If(Equal(IntegerParameter(1),9491))><Sheet(Item,9491,0)/><13>FF0F02280BFF054974656DF225130103FF04EC9980FF04EAB3BC</13>
+<Sheet(Item,9500,0)/><13>FF0F02280BFF054974656DF2251C0103FF04EAB080FF04EC9DB4</13><Else/><Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13></If> 없는 것 같네만.
+무기가 없으면 각성시킬 수 없다네."
+9,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_SYSTEM_000_031","'조디악 웨폰'을 각성시키려면
+장비를 해제하여 '장비함' 또는 '소지품'에 수납한 상태로
+잘잔에게 말을 걸어야 합니다."
+10,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_040","（★未使用／削除予定★）"
+11,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_050","흠, 자네가 가진 '조디악 웨폰'은
+아직 '자아'가 눈뜨지 않은 것 같군.
+'마하트마'와의 공명이 부족하다는 뜻일세."
+12,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_SYSTEM_000_051","모든 '마하트마'와 완전히 공명해야
+'조디악 웨폰'을 각성시킬 수 있습니다."
+13,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_060","흠, 이건 '조디악 웨폰'일세. 아주 특별한 무기지.
+……똑같은 걸 두 개씩이나 가질 순 없다네."
+14,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_SYSTEM_000_061","이미 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 가지고 있습니다."
+15,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_100_070","（★未使用／削除予定★）"
+16,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_300","기다리고 있었다네, <Highlight>ObjectParameter(1)</Highlight> 동지!
+오…… 내게도 느껴지는군. 예전과는 다른 혼의 고동일세."
+17,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_301","오, <Highlight>ObjectParameter(1)</Highlight> 왔냐.
+준비가 다 됐나 보지?
+……그럼 영감, 마무리 작업을 시작하자고."
+18,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_302","그러고 보니 마무리 작업 때 영약이 필요하다지 않았나?
+대체 영약으로 뭘 하려는 겐가?"
+19,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_303","……'황도십이문서: 영옥'이라는 책이 있어.
+존재조차 거의 알려지지 않은 이 미완성 문서에
+'조디악 웨폰'의 비밀이 기록돼 있었지."
+20,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_304","……무슨 뜻인가?"
+21,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_305","먼 옛날, 황도의 이름이 붙은 마인이 나타났을 때
+영웅들이 빛나는 무기로 적을 무찔렀다…….
+……영감, 이 얘기는 들어본 적 있지?"
+22,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_306","물론일세. 조디악 브레이브의 영웅담 아닌가?
+애당초 내가 이 연구를 시작한 것도
+거기에 실린 무기 관련 기록에 신빙성이 있었기 때문일세."
+23,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_307","흥…… 그럼 이건 알고 있었으려나?
+조디악 브레이브는 빛나는 무기로
+마인을 쓰러뜨린 게 아니라는 걸……."
+24,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_308","영웅들이 마인을 처치하고 그 피를 뒤집어쓴 순간,
+'조디악 웨폰'이 밝게 빛나며 각성했다더군.
+이 얘기가 후세에 전해지는 과정에서 변질된 거야."
+25,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_309","그러니까 자네 말은, 인조 영혼인 내 '영약'이
+진한 에테르가 담긴 마인의 피와 같은 역할을 할 거란 뜻이로군."
+26,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_310","흥, 말귀 하나는 밝은 영감이라니까.
+……그럼 꾸물댈 것 없이 후딱 시작해볼까!?"
+27,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_311","……좋아, 특제 영약을 충분히 발랐네.
+나머지는 게롤트, 자네에게 맡기지."
+28,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_312","헤헤, 이 시대에는 황도의 마인이 없으니
+아궁이의 열기와 내 솜씨로 전설의 싸움을 재현하는 수밖에.
+고대의 무기 강화가 시작된 이 아궁이에서…… 끝마무리를 해주마!"
+29,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_313","헤헤헷, 손맛이 좋구만…….
+혼의 떨림이 고스란히 느껴져……
+자, 후딱 각성하란 말이다!!"
+30,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_GEROLT_000_314","헉, 헉, 헉…… 드, 드디어 완성했다…….
+이게 바로 각성한 '자아'를 가진
+'조디악 웨폰'의 최종 형태다……!"
+31,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_315","오오…… 이, 이것이!!!
+자, <Highlight>ObjectParameter(1)</Highlight> 동지. 어서 받으시게……!"
+32,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_350","좋아, 영약을 꼼꼼히 바르고
+조디악 웨폰의 '자아'를 각성시켜보세!"
+33,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_400","자네의 손발과도 같은 '조디악 웨폰'의 '최종' 형태……!
+일류 모험가와 일류 무기장인, 그리고 일류 연금술사가
+합심하여 복원해낸…… 유일무이한 무기일세!"
+34,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_401","아니, 현세에 '새로 태어난'…… 오직 자네만을 위한 무기!
+이름하여 <Sheet(Item,10054,0)/>!"
+35,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_100_401","……그리고 당연히 이것도 가져가야겠지!
+<Sheet(Item,10063,0)/>일세!"
+36,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_402","아니, 현세에 '새로 태어난'…… 오직 자네만을 위한 무기!
+이름하여 <Sheet(Item,10055,0)/>!"
+37,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_403","아니, 현세에 '새로 태어난'…… 오직 자네만을 위한 무기!
+이름하여 <Sheet(Item,10056,0)/>!"
+38,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_404","아니, 현세에 '새로 태어난'…… 오직 자네만을 위한 무기!
+이름하여 <Sheet(Item,10057,0)/>!"
+39,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_405","아니, 현세에 '새로 태어난'…… 오직 자네만을 위한 무기!
+이름하여 <Sheet(Item,10058,0)/>!"
+40,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_406","아니, 현세에 '새로 태어난'…… 오직 자네만을 위한 무기!
+이름하여 <Sheet(Item,10059,0)/>!"
+41,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_407","아니, 현세에 '새로 태어난'…… 오직 자네만을 위한 무기!
+이름하여 <Sheet(Item,10060,0)/>!"
+42,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_408","아니, 현세에 '새로 태어난'…… 오직 자네만을 위한 무기!
+이름하여 <Sheet(Item,10061,0)/>!"
+43,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_409","아니, 현세에 '새로 태어난'…… 오직 자네만을 위한 무기!
+이름하여 <Sheet(Item,10062,0)/>!"
+44,"TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_410","아니, 현세에 '새로 태어난'…… 오직 자네만을 위한 무기!
+이름하여 <Sheet(Item,10064,0)/>!"

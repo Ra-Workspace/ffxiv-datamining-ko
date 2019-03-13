@@ -1,0 +1,80 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_GAIUSC002_00939_SEQ_00","알피노는 이단심문관 기옘을 몰아세우기 위해 모험가의 도움을 바라는 것 같다."
+1,"TEXT_GAIUSC002_00939_SEQ_01","기옘은 어딘가 수상한 구석이 있다고 한다. 부임한 날 그가 찾아온 길이라고 하는, 하얀테 전초지 '동쪽 문 너머'를 살펴보자."
+2,"TEXT_GAIUSC002_00939_SEQ_02","<Sheet(EObj,2002170,0)/>에서 의문의 '시체'를 찾았다. 단서가 나올지도 모른다. 잘 살펴보자."
+3,"TEXT_GAIUSC002_00939_SEQ_03","시체에서 <Sheet(EventItem,2000733,0)/><13>FF15022811FF0A4576656E744974656DF61E875D0103FF04EBA5BCFF04EC9D84</13> 찾았다. 이게 결정적인 증거가 되면 좋을 텐데……. 하얀테 전초지에 있는 '알피노'에게 가져다주자."
+4,"TEXT_GAIUSC002_00939_SEQ_04","이단심문관 기옘은 가짜였다. 진짜 기옘은 하얀테 전초지에 오기 전 살해당한 것 같다……."
+5,"TEXT_GAIUSC002_00939_SEQ_05",""
+6,"TEXT_GAIUSC002_00939_SEQ_06",""
+7,"TEXT_GAIUSC002_00939_SEQ_07",""
+8,"TEXT_GAIUSC002_00939_SEQ_08",""
+9,"TEXT_GAIUSC002_00939_SEQ_09",""
+10,"TEXT_GAIUSC002_00939_SEQ_10",""
+11,"TEXT_GAIUSC002_00939_SEQ_11",""
+12,"TEXT_GAIUSC002_00939_SEQ_12",""
+13,"TEXT_GAIUSC002_00939_SEQ_13",""
+14,"TEXT_GAIUSC002_00939_SEQ_14",""
+15,"TEXT_GAIUSC002_00939_SEQ_15",""
+16,"TEXT_GAIUSC002_00939_SEQ_16",""
+17,"TEXT_GAIUSC002_00939_SEQ_17",""
+18,"TEXT_GAIUSC002_00939_SEQ_18",""
+19,"TEXT_GAIUSC002_00939_SEQ_19",""
+20,"TEXT_GAIUSC002_00939_SEQ_20",""
+21,"TEXT_GAIUSC002_00939_SEQ_21",""
+22,"TEXT_GAIUSC002_00939_SEQ_22",""
+23,"TEXT_GAIUSC002_00939_SEQ_23",""
+24,"TEXT_GAIUSC002_00939_TODO_00","하얀테 전초지에서 단서 찾기"
+25,"TEXT_GAIUSC002_00939_TODO_01","시체 조사"
+26,"TEXT_GAIUSC002_00939_TODO_02","알피노에게 <Sheet(EventItem,2000733,0)/> 전달"
+27,"TEXT_GAIUSC002_00939_TODO_03",""
+28,"TEXT_GAIUSC002_00939_TODO_04",""
+29,"TEXT_GAIUSC002_00939_TODO_05",""
+30,"TEXT_GAIUSC002_00939_TODO_06",""
+31,"TEXT_GAIUSC002_00939_TODO_07",""
+32,"TEXT_GAIUSC002_00939_TODO_08",""
+33,"TEXT_GAIUSC002_00939_TODO_09",""
+34,"TEXT_GAIUSC002_00939_TODO_10",""
+35,"TEXT_GAIUSC002_00939_TODO_11",""
+36,"TEXT_GAIUSC002_00939_TODO_12",""
+37,"TEXT_GAIUSC002_00939_TODO_13",""
+38,"TEXT_GAIUSC002_00939_TODO_14",""
+39,"TEXT_GAIUSC002_00939_TODO_15",""
+40,"TEXT_GAIUSC002_00939_TODO_16",""
+41,"TEXT_GAIUSC002_00939_TODO_17",""
+42,"TEXT_GAIUSC002_00939_TODO_18",""
+43,"TEXT_GAIUSC002_00939_TODO_19",""
+44,"TEXT_GAIUSC002_00939_TODO_20",""
+45,"TEXT_GAIUSC002_00939_TODO_21",""
+46,"TEXT_GAIUSC002_00939_TODO_22",""
+47,"TEXT_GAIUSC002_00939_TODO_23",""
+48,"TEXT_GAIUSC002_00939_ALPHINAUD_000_000","그 다친 위병이 증언하길, 이단심문관은 동쪽 문으로 와서
+쓰러진 그를 구해줬다고 했지…… 이상하지 않나?
+"
+49,"TEXT_GAIUSC002_00939_ALPHINAUD_000_001","그자는 왜 멀쩡한 남서쪽 길을 두고
+굳이 사람이 다니지 않는 동쪽 길을 통해 왔지?
+게다가 심한 눈보라가 치는 날 밤에……."
+50,"TEXT_GAIUSC002_00939_ALPHINAUD_000_002","제정신이 박힌 자라면 그런 짓은 안 할 걸세. 분명 뭔가가 있어.
+……우선 그 동쪽 문 너머를 한 번 조사해보세.
+사람이 다니지 않는 그곳에, 혹 숨겨둔 비밀이 있을지도 모르네. "
+51,"TEXT_GAIUSC002_00939_DUMMY_000_010","（ワイバーンの死体付近に近寄るとウィスプ×３がポップ
+数箇所あるEobjもりあがった雪にアクセス、
+うち１つはアクセス後Epbj死体となる）"
+52,"TEXT_GAIUSC002_00939_DUMMY_000_020","（Eobj死体にアクセスし、任命書を入手）"
+53,"TEXT_GAIUSC002_00939_ALPHINAUD_000_030","단서는 찾았나?
+또다시 출발점으로 돌아갈 수는 없어……. 부탁하겠네."
+54,"TEXT_GAIUSC002_00939_ALPHINAUD_000_031","……그래, 이걸로 확실해졌군.
+눈에 파묻힌 이단심문관의 시체. 그리고
+<Sheet(EventItem,2000733,0)/>……. 여기 뭐라고 쓰여있을 것 같나?"
+55,"TEXT_GAIUSC002_00939_ALPHINAUD_000_032","""이단심문관 기옘을 하얀테 전초지로 발령한다""
+……그렇게 쓰여있군.
+진짜 기옘은 단 하루도 여기서 일한 적이 없지만 말이야."
+56,"TEXT_GAIUSC002_00939_ALPHINAUD_000_033","그 녀석은 가짜다.
+놈은 진짜 기옘을 인적이 없는 동쪽 문 너머에서 처리한 뒤
+뻔뻔히 나타나서 지금껏 '이단심문관 기옘' 행세를 해온 거야."
+57,"TEXT_GAIUSC002_00939_ALPHINAUD_000_034","후후…… 지금까지 감쪽같이 속이며 버텼지만
+자네가 드디어 그 진실을 밝혀냈군.
+자, 그 녀석을 끝장내러 가세, <Highlight>ObjectParameter(1)</Highlight>!"
+58,"TEXT_GAIUSC002_00939_POP_MESSAGE_000","적이 나타났습니다!!"
+59,"TEXT_GAIUSC002_00939_ACCESS_MESSAGE","먼저 적을 쓰러뜨려야 합니다!"

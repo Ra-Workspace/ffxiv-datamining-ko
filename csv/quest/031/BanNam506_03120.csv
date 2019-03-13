@@ -1,0 +1,127 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANNAM506_03120_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+도로 일로에 있는 광풍원 세이게츠는 공물 관리 문제로 고민이 있는 듯하다."
+1,"TEXT_BANNAM506_03120_SEQ_01","겁쟁이의 줄다리에 있는 공물 조달 담당 나마즈오와 대화하자."
+2,"TEXT_BANNAM506_03120_SEQ_02","공물 조달 담당 나마즈오와 대화했다.
+광풍원 세이게츠에게 의뢰받은 물건을 납품하자."
+3,"TEXT_BANNAM506_03120_SEQ_03",""
+4,"TEXT_BANNAM506_03120_SEQ_04",""
+5,"TEXT_BANNAM506_03120_SEQ_05",""
+6,"TEXT_BANNAM506_03120_SEQ_06",""
+7,"TEXT_BANNAM506_03120_SEQ_07",""
+8,"TEXT_BANNAM506_03120_SEQ_08",""
+9,"TEXT_BANNAM506_03120_SEQ_09",""
+10,"TEXT_BANNAM506_03120_SEQ_10",""
+11,"TEXT_BANNAM506_03120_SEQ_11",""
+12,"TEXT_BANNAM506_03120_SEQ_12",""
+13,"TEXT_BANNAM506_03120_SEQ_13",""
+14,"TEXT_BANNAM506_03120_SEQ_14",""
+15,"TEXT_BANNAM506_03120_SEQ_15",""
+16,"TEXT_BANNAM506_03120_SEQ_16",""
+17,"TEXT_BANNAM506_03120_SEQ_17",""
+18,"TEXT_BANNAM506_03120_SEQ_18",""
+19,"TEXT_BANNAM506_03120_SEQ_19",""
+20,"TEXT_BANNAM506_03120_SEQ_20",""
+21,"TEXT_BANNAM506_03120_SEQ_21",""
+22,"TEXT_BANNAM506_03120_SEQ_22",""
+23,"TEXT_BANNAM506_03120_SEQ_23",""
+24,"TEXT_BANNAM506_03120_TODO_00","겁쟁이의 줄다리에 있는 공물 조달 담당 나마즈오와 대화"
+25,"TEXT_BANNAM506_03120_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>몰 일로 동쪽 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>몰 일로 동쪽 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>아짐 카트에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>광풍원 세이게츠에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
+26,"TEXT_BANNAM506_03120_TODO_02",""
+27,"TEXT_BANNAM506_03120_TODO_03",""
+28,"TEXT_BANNAM506_03120_TODO_04",""
+29,"TEXT_BANNAM506_03120_TODO_05",""
+30,"TEXT_BANNAM506_03120_TODO_06",""
+31,"TEXT_BANNAM506_03120_TODO_07",""
+32,"TEXT_BANNAM506_03120_TODO_08",""
+33,"TEXT_BANNAM506_03120_TODO_09",""
+34,"TEXT_BANNAM506_03120_TODO_10",""
+35,"TEXT_BANNAM506_03120_TODO_11",""
+36,"TEXT_BANNAM506_03120_TODO_12",""
+37,"TEXT_BANNAM506_03120_TODO_13",""
+38,"TEXT_BANNAM506_03120_TODO_14",""
+39,"TEXT_BANNAM506_03120_TODO_15",""
+40,"TEXT_BANNAM506_03120_TODO_16",""
+41,"TEXT_BANNAM506_03120_TODO_17",""
+42,"TEXT_BANNAM506_03120_TODO_18",""
+43,"TEXT_BANNAM506_03120_TODO_19",""
+44,"TEXT_BANNAM506_03120_TODO_20",""
+45,"TEXT_BANNAM506_03120_TODO_21",""
+46,"TEXT_BANNAM506_03120_TODO_22",""
+47,"TEXT_BANNAM506_03120_TODO_23",""
+48,"TEXT_BANNAM506_03120_KOFUINSEIGETSU_000_000","<Highlight>ObjectParameter(1)</Highlight> 군, 부탁이 좀 있다.
+바쳐야 할 공물이 부족해서 조달하는 걸 도와주었으면 한다.
+그런데 이게 그냥 공물이 아니다……."
+49,"TEXT_BANNAM506_03120_KOFUINSEIGETSU_000_001","상세한 내용에 대해서는 '공물 조달 담당 나마즈오'에게 물어라.
+'겁쟁이의 줄다리' 근방에서 작업에 착수하고 있을 것이다.
+부디 은밀하게…… 부탁한다."
+50,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_010","공물 조달을 도와줄 거얌메? 고맙담메!
+여기서만 구할 수 있는 귀중한 재료로 공물을 준비하라는데,
+넘 막막해서 어찌할 바를 모르고 있었담메."
+51,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_011","그럼 장인님한테는 '<Sheet(ItemHQ,22739,0)/>'인
+고품질 금속제 물고기 제작을 맡기겠담메!
+재료는 옆에 있는 상자에서 꺼내서 써도 된담메."
+52,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_012","그럼 장인님한테는 '<Sheet(ItemHQ,22739,0)/>'인
+품질 좋고 정교한 조화 제작을 맡기겠담메!
+재료는 옆에 있는 상자에서 꺼내서 써도 된담메."
+53,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_013","그럼 장인님한테는 '<Sheet(ItemHQ,22739,0)/>'인
+엄청 매운 고품질 경단 요리를 맡기겠담메!
+재료는 옆에 있는 상자에서 꺼내서 써도 된담메."
+54,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_014","광부님한테는
+쑥떡처럼 보이는 '<Sheet(Item,22635,0)/>'<13>FF0F02280BFF054974656DF2586B0103FF04EBA5BCFF04EC9D84</13> 3개 부탁할겜메!
+몰 일로 동쪽 부근에서 구할 수 있을 거얌메."
+55,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_015","원예가님한테는
+무지하게 매운 '<Sheet(Item,22661,0)/>'<13>FF0F02280BFF054974656DF258850103FF04EBA5BCFF04EC9D84</13> 3개 부탁할겜메!
+몰 일로 동쪽 부근에서 구할 수 있을 거얌메."
+56,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_016","어부님한테는
+잔뼈가 많은 '<Sheet(Item,22687,0)/>'<13>FF0F02280BFF054974656DF2589F0103FF04EBA5BCFF04EC9D84</13> 1마리 부탁할겜메!
+<Sheet(Item,20613,0)/> 같은 걸 사용하면 '아짐 카트'에서 잡을 수 있을 거얌메."
+57,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_017","공물 준비가 다 되면
+먼저 '광풍원 세이게츠'에게 전달해주길 바람메.
+나는 좀 더 모으지 않으면 돌아갈 수 없담메."
+58,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_018","재료가 부족해져도 걱정 안 해도 된담메.
+옆에 있는 상자 속에 잔뜩 들어 있으니까
+필요한 만큼 갖다 쓰면 된담메."
+59,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_019","재료가 부족해져도 걱정 안 해도 된담메.
+옆에 있는 상자 속에 잔뜩 들어 있으니까
+필요한 만큼 갖다 쓰면 된담메."
+60,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_020","재료가 부족해져도 걱정 안 해도 된담메.
+옆에 있는 상자 속에 잔뜩 들어 있으니까
+필요한 만큼 갖다 쓰면 된담메."
+61,"TEXT_BANNAM506_03120_SYSTEM_000_021","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+62,"TEXT_BANNAM506_03120_SYSTEM_000_022","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+63,"TEXT_BANNAM506_03120_SYSTEM_000_023","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+64,"TEXT_BANNAM506_03120_SYSTEM_000_024","재료가 들어있는 상자가 있다.
+지금은 필요 없을 것 같다……."
+65,"TEXT_BANNAM506_03120_SYSTEM_000_025","상자에서 필요한 재료를 꺼냈다!"
+66,"TEXT_BANNAM506_03120_SYSTEM_000_026","상자에서 필요한 재료를 꺼냈다!"
+67,"TEXT_BANNAM506_03120_SYSTEM_000_027","상자에서 필요한 재료를 꺼냈다!"
+68,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_028","공물로 바칠 물건을 구했으면
+직접 '광풍원 세이게츠'에게 전달해주면 고맙겠담메."
+69,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_029","공물로 바칠 물건을 구했으면
+직접 '광풍원 세이게츠'에게 전달해주면 고맙겠담메."
+70,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_030","공물로 바칠 물건을 구했으면
+직접 '광풍원 세이게츠'에게 전달해주면 고맙겠담메."
+71,"TEXT_BANNAM506_03120_DAILYNAMAZUO03120_000_031","부탁한 걸 벌써 다 모은 모양이구남메.
+그럼 '광풍원 세이게츠'에게 전달해주길 바람메."
+72,"TEXT_BANNAM506_03120_KOFUINSEIGETSU_000_040","공물 준비는 순조롭게 잘됐나?"
+73,"TEXT_BANNAM506_03120_KOFUINSEIGETSU_000_041","여기까지 전달해주러 오다니 고생했다.
+공물이 빨리 줄어드는 덴 사실 이유가 있다.
+들어주겠는가."
+74,"TEXT_BANNAM506_03120_KOFUINSEIGETSU_000_042","사실은 공물에 눈이 멀어
+일부 몰지각한 나마즈오들이 몰래 훔쳐먹고 있기 때문이다."
+75,"TEXT_BANNAM506_03120_KOFUINSEIGETSU_000_043","그래서 귀군들에게, 입에 넣는 순간
+비참한 결말을 맞이할 특별한 공물을 만들어달라 한 것이다.
+몰래 훔쳐먹는 자들에 대한 실로 문명적인 대처법 아닌가?"
+76,"TEXT_BANNAM506_03120_KOFUINSEIGETSU_000_044","하지만 나마즈오의 식탐을 만만하게 보아서는 안 된다.
+한 녀석에게 본때를 보여줘도, 또 새로운 놈이 어디선가 나타나지.
+이 끝없는 전쟁에서 승리하기 위해 앞으로도 협력을 부탁한다!"
+77,"TEXT_BANNAM506_03120_SYSTEM_000_050","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
+소지품 공간이 부족하다면 버리셔도 됩니다."

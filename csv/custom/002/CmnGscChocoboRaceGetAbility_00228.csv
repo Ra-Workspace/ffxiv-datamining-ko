@@ -1,0 +1,31 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR_02","<Highlight>StringParameter(1)</Highlight>에게
+'특수 능력'을 가르치려고?
+그럼 사용할 '초코보 교본'을 골라줄래?"
+1,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_001_DONE","……좋아, <Sheet(ChocoboRaceAbility,IntegerParameter(1),0)/><13>FF1C022818FF1343686F636F626F526163654162696C697479E8020103FF04EBA5BCFF04EC9D84</13> 배웠어!
+분명 경주에서 도움이 될 거야!"
+2,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR","경주 초코보에게 '특수 능력'을 가르치려고?
+그럼 사용할 '초코보 교본'을 골라줄래?"
+3,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_001_01","……어?
+등록된 경주 초코보가 없는데?"
+4,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_001_02","'특수 능력'은
+등록된 경주 초코보에게만 가르칠 수 있습니다."
+5,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_002_01","……어, '초코보 교본'이 없는 것 같은데?"
+6,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_002_02","특수 능력을 가르치려면 '초코보 교본'이 필요합니다.
+'초코보 교본'은 '초코보용 도구 상인'이 판매하고 있습니다."
+7,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_003_01","……미안하지만, 안 되겠어.
+이 이상 '특수 능력'을 가르쳤다간
+초코보 머리가 터져버릴 거야."
+8,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_003_02","현재의 경주 초코보에게 '특수 능력'을 더 가르칠 수 없습니다.
+먼저 불필요한 '특수 능력'을 잊게 하십시오."
+9,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_01","……흐음, 같은 종류의 '특수 능력'을
+이미 습득한 모양인데?"
+10,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_02","같은 종류의 '특수 능력'은 2개 이상 습득할 수 없습니다."
+11,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_03","다른 종류의 특수 능력을 선택하거나,
+현재 습득한 같은 종류의 특수 능력을
+잊게 한 다음 다시 시도하십시오."
+12,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_001_Q1","（★未使用／削除予定★）"
+13,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_001_A1","（★未使用／削除予定★）"
+14,"TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_001_A2","（★未使用／削除予定★）"

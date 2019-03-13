@@ -1,0 +1,417 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_JOBREL300_02328_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙:  직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+아르다시르는 인조 정령을 성장시킬 새로운 방법을 고민하고 있는 듯하다."
+1,"TEXT_JOBREL300_02328_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+   퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
+※ 또, 이 퀘스트는 도중에 포기할 수 없습니다.
+   퀘스트를 포기하려면 아르다시르에게 말을 걸어 포기하십시오.
+
+아르다시르에게 이야기를 들었다. 인조 정령을 육성할 다음 방법을 듣기 위해, 이딜샤이어에 있는 '울란'을 찾아가자."
+2,"TEXT_JOBREL300_02328_SEQ_02","울란에게 육성 방법을 들었다. <Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EC9980FF04EAB3BC</13> <Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EBA5BCFF04EC9D84</13> 모아 울란과 함께 인조 정령을 성장시키자."
+3,"TEXT_JOBREL300_02328_SEQ_03","인조 정령의 상태가 이상한 것 같다. 아지스 라 '나선 발착장'에 있는 '아르다시르'에게 <Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EBA5BCFF04EC9D84</13> 건네며 보고하자."
+4,"TEXT_JOBREL300_02328_SEQ_04","아르다시르와 게롤트에게도 인조 정령이 보이게 되었다. 다음 연구에 대비해 '새로운 아니마 웨폰'과 함께 성장하자.
+
+※ 아니마 웨폰의 능력치를 재조정하려면 이딜샤이어에 있는 울란에게 말을 걸어야 합니다."
+5,"TEXT_JOBREL300_02328_SEQ_05",""
+6,"TEXT_JOBREL300_02328_SEQ_06",""
+7,"TEXT_JOBREL300_02328_SEQ_07",""
+8,"TEXT_JOBREL300_02328_SEQ_08",""
+9,"TEXT_JOBREL300_02328_SEQ_09",""
+10,"TEXT_JOBREL300_02328_SEQ_10",""
+11,"TEXT_JOBREL300_02328_SEQ_11",""
+12,"TEXT_JOBREL300_02328_SEQ_12",""
+13,"TEXT_JOBREL300_02328_SEQ_13",""
+14,"TEXT_JOBREL300_02328_SEQ_14",""
+15,"TEXT_JOBREL300_02328_SEQ_15",""
+16,"TEXT_JOBREL300_02328_SEQ_16",""
+17,"TEXT_JOBREL300_02328_SEQ_17",""
+18,"TEXT_JOBREL300_02328_SEQ_18",""
+19,"TEXT_JOBREL300_02328_SEQ_19",""
+20,"TEXT_JOBREL300_02328_SEQ_20",""
+21,"TEXT_JOBREL300_02328_SEQ_21",""
+22,"TEXT_JOBREL300_02328_SEQ_22",""
+23,"TEXT_JOBREL300_02328_SEQ_23",""
+24,"TEXT_JOBREL300_02328_TODO_00","<If(Equal(IntegerParameter(4),19))><Sheet(Item,14870,0)/><13>FF0F02280BFF054974656DF23A160103FF04EC9980FF04EAB3BC</13> <Sheet(Item,14883,0)/><13>FF0F02280BFF054974656DF23A230103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,14871,0)/><13>FF0F02280BFF054974656DF23A170103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,14872,0)/><13>FF0F02280BFF054974656DF23A180103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,14873,0)/><13>FF0F02280BFF054974656DF23A190103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,14874,0)/><13>FF0F02280BFF054974656DF23A1A0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,14878,0)/><13>FF0F02280BFF054974656DF23A1E0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,14879,0)/><13>FF0F02280BFF054974656DF23A1F0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,14880,0)/><13>FF0F02280BFF054974656DF23A200103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,14881,0)/><13>FF0F02280BFF054974656DF23A210103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,14875,0)/><13>FF0F02280BFF054974656DF23A1B0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,14877,0)/><13>FF0F02280BFF054974656DF23A1D0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,14876,0)/><13>FF0F02280BFF054974656DF23A1C0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,14882,0)/><13>FF0F02280BFF054974656DF23A220103FF04EBA5BCFF04EC9D84</13> <Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>소지하고
+이딜샤이어에서 울란과 대화"
+25,"TEXT_JOBREL300_02328_TODO_01","<If(Equal(IntegerParameter(4),19))><Sheet(Item,14870,0)/><13>FF0F02280BFF054974656DF23A160103FF04EC9980FF04EAB3BC</13> <Sheet(Item,14883,0)/><13>FF0F02280BFF054974656DF23A230103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,14871,0)/><13>FF0F02280BFF054974656DF23A170103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,14872,0)/><13>FF0F02280BFF054974656DF23A180103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,14873,0)/><13>FF0F02280BFF054974656DF23A190103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,14874,0)/><13>FF0F02280BFF054974656DF23A1A0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,14878,0)/><13>FF0F02280BFF054974656DF23A1E0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,14879,0)/><13>FF0F02280BFF054974656DF23A1F0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,14880,0)/><13>FF0F02280BFF054974656DF23A200103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,14881,0)/><13>FF0F02280BFF054974656DF23A210103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,14875,0)/><13>FF0F02280BFF054974656DF23A1B0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,14877,0)/><13>FF0F02280BFF054974656DF23A1D0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,14876,0)/><13>FF0F02280BFF054974656DF23A1C0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,14882,0)/><13>FF0F02280BFF054974656DF23A220103FF04EBA5BCFF04EC9D84</13> <Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>장비하고
+울란과 대화하여 인조 정령 성장시키기"
+26,"TEXT_JOBREL300_02328_TODO_02","<If(Equal(IntegerParameter(4),19))><Sheet(Item,14870,0)/><13>FF0F02280BFF054974656DF23A160103FF04EC9980FF04EAB3BC</13> <Sheet(Item,14883,0)/><13>FF0F02280BFF054974656DF23A230103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,14871,0)/><13>FF0F02280BFF054974656DF23A170103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,14872,0)/><13>FF0F02280BFF054974656DF23A180103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,14873,0)/><13>FF0F02280BFF054974656DF23A190103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,14874,0)/><13>FF0F02280BFF054974656DF23A1A0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,14878,0)/><13>FF0F02280BFF054974656DF23A1E0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,14879,0)/><13>FF0F02280BFF054974656DF23A1F0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,14880,0)/><13>FF0F02280BFF054974656DF23A200103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,14881,0)/><13>FF0F02280BFF054974656DF23A210103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,14875,0)/><13>FF0F02280BFF054974656DF23A1B0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,14877,0)/><13>FF0F02280BFF054974656DF23A1D0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,14876,0)/><13>FF0F02280BFF054974656DF23A1C0103FF04EBA5BCFF04EC9D84</13> <Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,14882,0)/><13>FF0F02280BFF054974656DF23A220103FF04EBA5BCFF04EC9D84</13> <Else/></If></If></If></If></If></If></If></If></If></If></If></If></If>소지하고
+나선 발착장에서 아르다시르와 대화"
+27,"TEXT_JOBREL300_02328_TODO_03",""
+28,"TEXT_JOBREL300_02328_TODO_04",""
+29,"TEXT_JOBREL300_02328_TODO_05",""
+30,"TEXT_JOBREL300_02328_TODO_06",""
+31,"TEXT_JOBREL300_02328_TODO_07",""
+32,"TEXT_JOBREL300_02328_TODO_08",""
+33,"TEXT_JOBREL300_02328_TODO_09",""
+34,"TEXT_JOBREL300_02328_TODO_10",""
+35,"TEXT_JOBREL300_02328_TODO_11",""
+36,"TEXT_JOBREL300_02328_TODO_12",""
+37,"TEXT_JOBREL300_02328_TODO_13",""
+38,"TEXT_JOBREL300_02328_TODO_14",""
+39,"TEXT_JOBREL300_02328_TODO_15",""
+40,"TEXT_JOBREL300_02328_TODO_16",""
+41,"TEXT_JOBREL300_02328_TODO_17",""
+42,"TEXT_JOBREL300_02328_TODO_18",""
+43,"TEXT_JOBREL300_02328_TODO_19",""
+44,"TEXT_JOBREL300_02328_TODO_20",""
+45,"TEXT_JOBREL300_02328_TODO_21",""
+46,"TEXT_JOBREL300_02328_TODO_22",""
+47,"TEXT_JOBREL300_02328_TODO_23",""
+48,"TEXT_JOBREL300_02328_SYSTEM_000_000","퀘스트 '피어나는 인조 정령'에서 획득할 수 있는 무기는
+현재 직업인 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 아니마 웨폰입니다.
+'피어나는 인조 정령'을 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If><14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
+49,"TEXT_JOBREL300_02328_Q1_000_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰을 창조하시겠습니까?"
+50,"TEXT_JOBREL300_02328_A1_000_000","조금 더 고민해본다"
+51,"TEXT_JOBREL300_02328_A2_000_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰을 창조한다"
+52,"TEXT_JOBREL300_02328_SYSTEM_000_001","퀘스트 '피어나는 인조 정령'을 수락하면
+퀘스트를 완료하거나 포기할 때까지
+다른 직업으로 '피어나는 인조 정령'을 수락할 수 없습니다."
+53,"TEXT_JOBREL300_02328_SYSTEM_000_002","아니마 웨폰을 창조하고 싶은 직업으로 변경한 후
+다시 아르다시르에게 말을 거십시오."
+54,"TEXT_JOBREL300_02328_SYSTEM_000_003","<Sheet(Item,IntegerParameter(1),0)/> 및
+<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
+퀘스트 '피어나는 인조 정령'을 수락할 수 없습니다."
+55,"TEXT_JOBREL300_02328_SYSTEM_000_004","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
+소지하거나 장비하지 않으면
+퀘스트 '피어나는 인조 정령'을 수락할 수 없습니다."
+56,"TEXT_JOBREL300_02328_SYSTEM_000_005","이미 <Sheet(Item,IntegerParameter(1),0)/> 및
+<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
+다른 직업으로 변경한 후 다시 아르다시르에게 말을 거십시오."
+57,"TEXT_JOBREL300_02328_SYSTEM_000_006","이미 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
+다른 직업으로 변경한 후 다시 아르다시르에게 말을 거십시오."
+58,"TEXT_JOBREL300_02328_ARDASHIR_000_000","으음……."
+59,"TEXT_JOBREL300_02328_GEROLT_000_001","저번에 이 몸이 실력을 한껏 발휘해서
+네놈의 에테르가 흘러들도록 무기를 개조했잖냐?"
+60,"TEXT_JOBREL300_02328_GEROLT_000_002","이제는 네놈이 아니마 웨폰을 계속 쓰기만 하면
+인조 정령이 알아서 에테르를 흡수하고 성장할 텐데…….
+아직도 이 꼬맹이가 뭘 고민하는 것 같단 말이야…… 사춘긴가?"
+61,"TEXT_JOBREL300_02328_ARDASHIR_000_003","……아악, 몇 번을 말씀드려야 합니까!
+저는 꼬맹이가 아니라고요. 사춘기도 아닙니다!
+남이 고민하는데 놀리기나 하는 당신이야말로 유치한 어린애죠!"
+62,"TEXT_JOBREL300_02328_ARDASHIR_000_004","……게롤트 님이 아주 틀린 말씀을 하신 건 아니에요.
+아니마 웨폰을 꾸준히 쓰면 언젠가는 인조 정령이 성장합니다.
+하지만 그걸 앉아서 기다리는 걸 연구라고 부를 수 있나요!?"
+63,"TEXT_JOBREL300_02328_GEROLT_000_005","흐음, 너 정말 진지한 고민을 하고 있었구나…….
+알겠다. 어차피 벌써 해결책은 마련해둔 거지?"
+64,"TEXT_JOBREL300_02328_ARDASHIR_000_006","예, 실마리는 있습니다.
+제가 처음 이딜샤이어를 방문했을 때 만난
+어떤 사람의 연구 주제를 응용할 수 있을 것 같아요."
+65,"TEXT_JOBREL300_02328_ARDASHIR_000_007","그 사람의 이름은 '울란'…… 카벙클을 너무 사랑한 나머지
+크리스탈을 먹이는 육성법을 독자적으로 연구하고 있었죠.
+인조 정령도 같은 마법생물이니, 응용할 수 있을 겁니다!"
+66,"TEXT_JOBREL300_02328_ARDASHIR_000_008","<Highlight>ObjectParameter(1)</Highlight> 님!
+울란 님을 찾아가 도움을 요청하고 싶습니다."
+67,"TEXT_JOBREL300_02328_ARDASHIR_000_009","울란 님은 '마법생물 분야의 권위자'의 제자로 인정받기 위해
+아직 '이딜샤이어'에 머물고 있을 겁니다.
+현지에서 합류합시다!"
+68,"TEXT_JOBREL300_02328_ARDASHIR_000_010","이번에도 울란 님께 도움을 구하죠!!
+괜찮아요, 미리 이야기는 해두었습니다…….
+지난번처럼만 해주시면 됩니다. 부탁드려요!"
+69,"TEXT_JOBREL300_02328_ARDASHIR_100_010","저는 지식의 대가로 드릴 물건을 모아
+곧 합류하겠습니다……!"
+70,"TEXT_JOBREL300_02328_SYSTEM_000_007","퀘스트 '피어나는 인조 정령'은
+퀘스트 메뉴에서 포기할 수 없습니다.
+이 퀘스트를 포기하려면 아르다시르에게 말을 걸어보세요."
+71,"TEXT_JOBREL300_02328_ARNOTT_000_011","……음? 울란 님께 볼일이 있나?"
+72,"TEXT_JOBREL300_02328_ARNOTT_000_012","오셨습니까.
+<Highlight>ObjectParameter(1)</Highlight> 님, 기다리고 있었습니다."
+73,"TEXT_JOBREL300_02328_ULAN_000_020","나한테 볼일이라도 있어?
+아니면 내 사랑스러운 카벙클,
+'다이아'의 미모에 이끌려 온 거니?"
+74,"TEXT_JOBREL300_02328_ULAN_000_021","아르다시르의 소개로 찾아왔다고?
+흐음…… 여기서는 그렇고, 좀 넓은 곳에서 얘기할까?"
+75,"TEXT_JOBREL300_02328_ULAN_100_021","난 '울란'이라고 해.
+카벙클을 사랑해 마지않는 연구자야.
+너는 아르다시르와 어떻게 아는 사이지?"
+76,"TEXT_JOBREL300_02328_ARDASHIR_000_022","오랜만에 뵙습니다, 울란 님.
+오늘은 당신의 힘을 빌리고 싶어서 왔어요."
+77,"TEXT_JOBREL300_02328_ARDASHIR_100_023","이쪽은 저와 함께 연구하는 <Highlight>ObjectParameter(1)</Highlight> 님입니다."
+78,"TEXT_JOBREL300_02328_ULAN_000_023","아하, 아르다시르의 동료 연구자였구나.
+……좋아, 우선 자세한 이야기를 들어볼까?"
+79,"TEXT_JOBREL300_02328_ULAN_000_024","그래…… 무슨 말인지 알겠다.
+너희가 연구하는 '인조 정령'을 성장시키는 데
+내 '크리스탈 섭취 육성법'을 응용하고 싶다는 거지?"
+80,"TEXT_JOBREL300_02328_ULAN_000_025","잠깐 생각해봤는데…… 그래, 이론적으로는 가능하지.
+다만 이 방법을 사용하려면 한 가지 큰 걸림돌이 있어.
+……차근차근 설명할게."
+81,"TEXT_JOBREL300_02328_ULAN_000_026","마법생물이 에테르로 이루어져 있다는 건 알지?
+그렇기 때문에 에테르의 결정인 크리스탈을 먹이면
+그 생물이 성장할 거라는 게 내 연구의 기본 이론이야."
+82,"TEXT_JOBREL300_02328_ULAN_000_027","하지만 크리스탈은 각각 속성이 치우쳐 있지.
+마법생물에게 무분별하게 크리스탈을 먹이면
+몸속에서 속성의 균형이 무너져서 순식간에 소멸해버려."
+83,"TEXT_JOBREL300_02328_ULAN_000_028","그래서 난 각 마법생물의 '최적화된 속성 균형'을 파악하여
+먹이로 줄 크리스탈 배합을 연구해왔지.
+아쉽지만 이 성과는 하루아침에 전수할 수 있는 게 아냐."
+84,"TEXT_JOBREL300_02328_ULAN_000_029","하지만 나도 너희처럼 미지의 영역에 도전하는 탐구자거든.
+게다가 인조 정령에 관한 연구도 대단히 흥미로워…….
+어때, 나랑 거래를 하지 않을래?"
+85,"TEXT_JOBREL300_02328_ULAN_000_030","내 연구에는 필요한 물건이 정말 많아!
+시료, 문헌, 실험 도구…… 설비에 조수, 기타 등등……
+또 이걸 마련하기 위한 협상 재료로 다양한 물건이 필요해."
+86,"TEXT_JOBREL300_02328_ULAN_100_030","만약 너희가 내게 필요한 물건을 모아다 준다면
+보답으로 내가 몸소 너희를 위해 실력을 발휘하겠어.
+내 지식과 기술을 최대한 활용해서…… 어때?"
+87,"TEXT_JOBREL300_02328_ARDASHIR_000_031","꼬…… 꼭 좀 부탁드립니다!!"
+88,"TEXT_JOBREL300_02328_ULAN_000_032","좋아. 아르다시르는 지식의 대가가 될 물건을,
+모험가는 기술의 대가가 될 물건을 모아줘.
+각자 구해야 하는 물건을 쪽지에 적어줄 테니……."
+89,"TEXT_JOBREL300_02328_ARDASHIR_000_033","좋습니다…… 당장 가서 구해 오겠습니다.
+그럼 <Highlight>ObjectParameter(1)</Highlight> 님,
+나중에 다시 만납시다!"
+90,"TEXT_JOBREL300_02328_ULAN_000_034","성질 급하긴……."
+91,"TEXT_JOBREL300_02328_ULAN_000_035","자, 너는 쪽지에 적힌 물건 중에서
+뭐든 네 마음에 드는 걸 한 세트 모아서 내게 가져와."
+92,"TEXT_JOBREL300_02328_ULAN_000_036","그 보상으로 마법생물에게 주기 위해 개발한
+분말 형태의 결정, <Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EBA5BCFF04EC9D84</13> 주지.
+단…… 이걸 그대로 인조 정령에게 줄 생각은 말아."
+93,"TEXT_JOBREL300_02328_ULAN_000_037","마법생물은 원래 '식사'를 하지 않거든.
+먹이를 주면 받아먹는 단순한 존재가 아니야.
+……어디, 인조 정령아. 이리 나와보겠니?"
+94,"TEXT_JOBREL300_02328_ULAN_000_038","후후후…… 참 아름다운 마법생물이구나!"
+95,"TEXT_JOBREL300_02328_ULAN_100_038","아, 내 눈에 보이는 게 신기해?
+마법생물을 연구해 온 세월이 얼만데,
+이 정도는 당연히 보이고말고."
+96,"TEXT_JOBREL300_02328_ULAN_100_039","자, 인조 정령아. 이 <Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EBA5BCFF04EC9D84</13> 봐.
+어때, 먹을 수 있겠어?"
+97,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_039","주인이여, 저것은 위험합니다…….
+……저자는 저를 파멸시키려 하고 있습니다…….
+어서 도망쳐야 합니다……."
+98,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_040","주인이여, 저자는 위험합니다…….
+저를 파멸시키려 하고 있어요…….
+어서 도망쳐요……."
+99,"TEXT_JOBREL300_02328_ULAN_000_041","역시 네 인조 정령은 아름답고, 현명하기까지 하구나.
+맞아, 이 <Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EB8A94FF04EC9D80</13> 속성의 힘이 지나치게 강해.
+네 인조 정령에 맞게 '조정'하지 않았으니까."
+100,"TEXT_JOBREL300_02328_ULAN_000_042","그래서 필요한 것이 그림자 극성을 띤 <Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EC95BCFF07EC9DB4EC95BC</13>.
+<Sheet(Item,15841,0)/> 한 봉지당 <Sheet(Item,15840,0)/> 한 개가 있으면
+속성의 힘을 비활성화해서 안전하게 섭취할 수 있지."
+101,"TEXT_JOBREL300_02328_ULAN_000_043","<Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EB8A94FF04EC9D80</13> 로웨나 상점의 '히스메나'가 취급하니
+<Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EC9980FF04EAB3BC</13> 같은 분량을 준비해줘.
+둘 다 준비되면 내가 조정해서 인조 정령에게 먹일게."
+102,"TEXT_JOBREL300_02328_ULAN_000_044","참, 조정 작업을 할 때와 인조 정령에게 먹이를 줄 때는
+인조 정령이 깃든 아니마 웨폰을 네 곁에 놓아두어야 하니
+잊지 말고 가지고 오렴."
+103,"TEXT_JOBREL300_02328_ULAN_000_045","그리고 또…… 그래, 마법생물의 에테르 균형을
+추측할 수 있는 확대경을 네게 줘야겠다.
+따로 이름은 없지만, 적당히 <Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EB9DBCFF07EC9DB4EB9DBC</13>고 부르든가 해."
+104,"TEXT_JOBREL300_02328_ULAN_000_046","자, 설명은 여기까지.
+이해가 안 가는 점이 있으면 언제든 편하게 물어봐.
+물건이 다 갖춰지면 바로 인조 정령을 성장시키자고!!"
+105,"TEXT_JOBREL300_02328_ULAN_000_047","새로운 인조 정령을 육성한다는 이야기는
+이미 아르다시르에게 들었어."
+106,"TEXT_JOBREL300_02328_ULAN_000_048","네가 할 일은 지난번과 같아.
+<Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EC9980FF04EAB3BC</13> <Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EBA5BCFF04EC9D84</13>
+같은 분량 모아서 내게 가져오면 돼."
+107,"TEXT_JOBREL300_02328_ULAN_000_049","참, 인조 정령이 깃든 아니마 웨폰을
+잊지 말고 챙겨오도록 하고."
+108,"TEXT_JOBREL300_02328_ULAN_100_049","<Sheet(EventItem,2001994,0)/>도 새로 줄게.
+혹시 잃어버리거든 '아노트'에게 말해.
+그럼 바로 시작할까?"
+109,"TEXT_JOBREL300_02328_SYSTEM_000_010","인조 정령을 성장시키려면
+<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 초전도 아니마 웨폰을 장비하고
+울란과 대화하여 '인조 정령 성장시키기'를 선택하세요."
+110,"TEXT_JOBREL300_02328_SYSTEM_000_011","인조 정령을 성장시키려면 우선
+<Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EC9980FF04EAB3BC</13> <Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EBA5BCFF04EC9D84</13> 사용하여
+'조정된 크리스탈 모래'를 여러 개 획득합니다."
+111,"TEXT_JOBREL300_02328_SYSTEM_000_012","'조정된 크리스탈 모래'는 
+인조 정령이 가진 능력치 5종류 중 하나를 강화할 수 있습니다.
+신중하게 생각해서 능력치를 강화하세요."
+112,"TEXT_JOBREL300_02328_SYSTEM_000_013","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 경우, 강화 가능한 능력치는
+'극대화', '직격', '의지력',
+'불굴', '기술 시전 속도'의 5가지입니다."
+113,"TEXT_JOBREL300_02328_SYSTEM_000_014","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 경우, 강화 가능한 능력치는
+'극대화', '직격', '의지력',
+'신앙심', '마법 시전 속도'의 5가지입니다."
+114,"TEXT_JOBREL300_02328_SYSTEM_100_014","퀘스트 아이템 <Sheet(EventItem,2001993,0)/>에는
+<Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EBA5BCFF04EC9D84</13> 받기 위해
+필요한 아이템이 적혀 있습니다."
+115,"TEXT_JOBREL300_02328_SYSTEM_000_015","또, 울란이 육성하는 인조 정령의 상태는
+퀘스트 아이템 <Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EBA5BCFF04EC9D84</13> 사용하면
+언제든지 확인할 수 있습니다."
+116,"TEXT_JOBREL300_02328_SYSTEM_000_020","'인조 정령 재조정'을 진행하려면
+<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 '초전도 아니마 웨폰'을
+집사에게 맡기는 등, 장비 및 소지품에서 제외해야 합니다."
+117,"TEXT_JOBREL300_02328_ULAN_000_050","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 장비해.
+그 다음에 인조 정령을 성장시키자!"
+118,"TEXT_JOBREL300_02328_ULAN_100_050","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
+<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 장비해.
+그 다음에 인조 정령을 성장시키자!"
+119,"TEXT_JOBREL300_02328_Q1_000_010","무엇을 하시겠습니까?"
+120,"TEXT_JOBREL300_02328_A1_000_010","인조 정령 성장시키기"
+121,"TEXT_JOBREL300_02328_A2_000_011","<Sheet(Item,15841,0)/> 교환"
+122,"TEXT_JOBREL300_02328_A3_000_012","설명 듣기"
+123,"TEXT_JOBREL300_02328_A4_000_013","취소"
+124,"TEXT_JOBREL300_02328_Q1_000_020","무엇을 물어보시겠습니까?"
+125,"TEXT_JOBREL300_02328_A1_000_020","인조 정령을 성장시키는 방법에 대해서"
+126,"TEXT_JOBREL300_02328_A2_000_021","필요한 아이템을 얻는 방법에 대해서"
+127,"TEXT_JOBREL300_02328_A3_000_022","취소"
+128,"TEXT_JOBREL300_02328_ULAN_000_051","인조 정령을 성장시키려면
+<Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EC9980FF04EAB3BC</13> <Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EAB080FF04EC9DB4</13> 같은 수량 필요해."
+129,"TEXT_JOBREL300_02328_ULAN_000_052","이 두 가지를 구한 다음
+인조 정령이 깃든 아니마 웨폰을 가지고
+내게 와서 말을 걸어주렴."
+130,"TEXT_JOBREL300_02328_SYSTEM_000_022","인조 정령을 성장시키려면
+<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 초전도 아니마 웨폰을 장비하고
+울란과 대화하여 '인조 정령 성장시키기'를 선택하세요."
+131,"TEXT_JOBREL300_02328_SYSTEM_000_023","인조 정령을 성장시키려면 우선
+<Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EC9980FF04EAB3BC</13> <Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EBA5BCFF04EC9D84</13> 사용하여
+'조정된 크리스탈 모래'를 여러 개 획득합니다."
+132,"TEXT_JOBREL300_02328_SYSTEM_000_024","'조정된 크리스탈 모래'는
+인조 정령이 가진 능력치 5종류 중 하나를 강화할 수 있습니다."
+133,"TEXT_JOBREL300_02328_SYSTEM_000_025","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 경우, 강화 가능한 능력치는
+'극대화', '직격', '의지력',
+'불굴', '기술 시전 속도'의 5가지입니다."
+134,"TEXT_JOBREL300_02328_SYSTEM_000_026","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 경우, 강화 가능한 능력치는
+'극대화', '직격', '의지력',
+'신앙심', '마법 시전 속도'의 5가지입니다."
+135,"TEXT_JOBREL300_02328_SYSTEM_000_027","퀘스트 아이템 <Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EBA5BCFF04EC9D84</13> 사용하면
+인조 정령의 현재 능력치를 확인할 수 있습니다.
+신중하게 생각해서 능력치를 강화하세요."
+136,"TEXT_JOBREL300_02328_ULAN_000_053","인조 정령을 성장시킬 때 필요한 것은
+<Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EC9980FF04EAB3BC</13> <Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EC95BCFF07EC9DB4EC95BC</13>."
+137,"TEXT_JOBREL300_02328_ULAN_000_054","<Sheet(Item,15841,0)/><13>FF0F02280BFF054974656DF23DE10103FF04EAB080FF04EC9DB4</13> 필요하면
+쪽지에 적어준 물건 중 뭐든 네 마음에 드는 걸 한 세트 모아서
+내게 가져오면 돼."
+138,"TEXT_JOBREL300_02328_ULAN_000_055","혹시 쪽지를 잃어버렸다면
+책상 위에 둘 테니까 언제든지 가져가고."
+139,"TEXT_JOBREL300_02328_ULAN_000_056","<Sheet(Item,15840,0)/><13>FF0F02280BFF054974656DF23DE00103FF04EB8A94FF04EC9D80</13> 로웨나 상점의 '히스메나'가 취급하니
+그녀에게 가서 구해봐."
+140,"TEXT_JOBREL300_02328_ULAN_000_057","아, 그리고…… <Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EBA5BCFF04EC9D84</13> 잃어버렸으면
+'아노트'를 찾아가서 말해봐.
+녀석이 새것을 마련해줄 거야."
+141,"TEXT_JOBREL300_02328_ULAN_000_060","자, 그럼 우리 모험가 친구의 인조 정령은
+얼마나 많이 성장했을까?"
+142,"TEXT_JOBREL300_02328_ARNOTT_000_061","음, 다이아를 육성하면서 얻은 연구 자료와 비교해도
+성장률이 상당하군요…….
+일단은 육성에 성공했다고 봐도 되겠어요."
+143,"TEXT_JOBREL300_02328_ARNOTT_000_062","음, 지난번에 이어 육성을 진행했는데……
+제가 보기엔, 이 상태로도 만족스러운 결과라고 생각해요.
+일단은 육성에 성공했다고 봐도 되겠어요."
+144,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_063","주인님…… 전 아직 괜찮습니다……."
+145,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_064","당신과 같은 세계를…… 보고 싶습니다.
+그러니 지금보다 더…… 더 강해지길 원합니다."
+146,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_065","주인님…… 저는 아직 괜찮아요……."
+147,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_066","당신과 같은 세계를…… 보고 싶어요.
+그러니 더…… 더 강해지고 싶어요."
+148,"TEXT_JOBREL300_02328_ULAN_000_067","흠…… 다이아로 시험한 영역을 넘는 건 위험하지만
+마법생물이 스스로 더 성장하기를 원하다니…….
+인조 정령이 널 정말 소중하게 생각하고 있나 보구나."
+149,"TEXT_JOBREL300_02328_ULAN_000_068","이번에도 마법생물이 스스로 더 성장하기를 원하다니…….
+인조 정령이 널 정말 소중하게 생각하고 있나 보구나."
+150,"TEXT_JOBREL300_02328_ARDASHIR_000_069","쪽지에 적힌 물건을 구해왔습니다!
+이제 저도 인조 정령 육성에 참가할 수 있겠군요!"
+151,"TEXT_JOBREL300_02328_ULAN_000_070","마침 잘 왔어, 아르다시르.
+사실, 지금까지도 상당히 많이 자랐는데
+인조 정령 자신이 더 성장하길 바라고 있거든."
+152,"TEXT_JOBREL300_02328_ULAN_000_071","우리도 연구하지 못한 영역이니
+솔직히 안전을 장담할 수 없는데…….
+계속 진행해도 괜찮겠지?"
+153,"TEXT_JOBREL300_02328_ARDASHIR_000_072","물론입니다!
+인조 정령이 원한다면, 저는 막지 않겠어요!
+다만, 인조 정령의 몸체인 무기의 한계가 걱정입니다……."
+154,"TEXT_JOBREL300_02328_ARDASHIR_000_073","……그러면, 저는 다시 연구 거점에 가서
+게롤트 님과 함께 새로운 그릇을 준비하겠습니다.
+더욱 성장한 인조 정령에게 어울리는 무기를 만들겠어요!"
+155,"TEXT_JOBREL300_02328_ULAN_000_074","이거 점점 재미있어지는데!
+자, 이렇게 된 이상 끝까지 성장시켜주지!"
+156,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_080","주인님…… 죄송합니다만…….
+몸이…… 괴롭습니다……."
+157,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_081","주인님…… 죄송해요.
+몸이…… 괴로워요……."
+158,"TEXT_JOBREL300_02328_ULAN_000_082","……이런. 아르다시르의 걱정이 현실이 되었군.
+인조 정령이 성장하면서 몸체인 '무기'에 한계가 왔어."
+159,"TEXT_JOBREL300_02328_ULAN_000_083","<Highlight>ObjectParameter(1)</Highlight>……
+당장 인조 정령을 데리고 아르다시르에게 가.
+내가 아르다시르에게 연락해서 사정을 설명할 테니."
+160,"TEXT_JOBREL300_02328_ARNOTT_000_084","아르다시르에게 <Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EBA5BCFF04EC9D84</13> 전해주세요.
+인조 정령의 상태를 확인할 때 필요할 테니……."
+161,"TEXT_JOBREL300_02328_ULAN_100_091","<Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EBA5BCFF04EC9D84</13> 가지고
+아르다시르에게 가.
+인조 정령이 무사하기를 기도할게."
+162,"TEXT_JOBREL300_02328_SYSTEM_000_040","<Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EBA5BCFF04EC9D84</13>
+소지품에 보유하고 있어야만 퀘스트를 진행할 수 있습니다."
+163,"TEXT_JOBREL300_02328_SYSTEM_000_041","<Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EBA5BCFF04EC9D84</13> 분실한 경우
+이딜샤이어에 있는 아노트에게 다시 받을 수 있습니다."
+164,"TEXT_JOBREL300_02328_SYSTEM_000_042","（★未使用／削除予定★）"
+165,"TEXT_JOBREL300_02328_SYSTEM_000_043","（★未使用／削除予定★）"
+166,"TEXT_JOBREL300_02328_ARDASHIR_000_090","오, 오셨군요!
+울란 님께 소식 들었습니다.
+어서 인조 정령의 상태를 확인합시다!!"
+167,"TEXT_JOBREL300_02328_ARDASHIR_000_091","<Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EC9980FF04EAB3BC</13> <Sheet(Item,IntegerParameter(1),0)/>,
+<Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13>
+제게 주시겠습니까?"
+168,"TEXT_JOBREL300_02328_ARDASHIR_000_092","<Sheet(EventItem,2001994,0)/><13>FF15022811FF0A4576656E744974656DF61E8C4A0103FF04EC9980FF04EAB3BC</13> <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
+제게 주시겠습니까?"
+169,"TEXT_JOBREL300_02328_ARDASHIR_000_093","크윽, 역시 한계에 가까워졌군요…….
+게롤트 님, 당장 영혼석을 분리해주세요!"
+170,"TEXT_JOBREL300_02328_ARDASHIR_000_094","이제 괜찮습니다."
+171,"TEXT_JOBREL300_02328_ARDASHIR_100_094","게롤트 님, 우리가 만든 새 무기를 준비해주세요!
+영혼석을 그쪽으로 옮깁시다!"
+172,"TEXT_JOBREL300_02328_GEROLT_000_095","좋아, 나만 믿어라!
+인조 정령이 한계까지 참고 고생했는데
+아주 푸짐한 상을 주지 않으면 섭섭하겠지!"
+173,"TEXT_JOBREL300_02328_GEROLT_100_095","허억허억…….
+자, 받아라, <Highlight>ObjectParameter(1)</Highlight>……!!"
+174,"TEXT_JOBREL300_02328_GEROLT_000_096","……알라그 땅에서 익힌 기술을 쏟아부은 걸작이다!
+이름하여 <Sheet(Item,IntegerParameter(1),0)/>!"
+175,"TEXT_JOBREL300_02328_GEROLT_000_097","……알라그 땅에서 익힌 기술을 쏟아부은 걸작이다!
+이름하여 <Sheet(Item,IntegerParameter(1),0)/>……
+그리고 <Sheet(Item,IntegerParameter(2),0)/>……!"
+176,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_098","……몸이…… 아주 가볍습니다.
+주인님…… 제게 무슨 마법을 걸었습니까……?"
+177,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_099","……몸이…… 아주 가벼워요.
+주인님…… 제게 마법을 거신 건가요……?"
+178,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_100","아르다시르…… 게롤트.
+……내게 새로운 몸을 준 사람……."
+179,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_101","감사합니다……."
+180,"TEXT_JOBREL300_02328_ARDASHIR_000_102","꾸, 꿈만 같아요…….
+내가 지금 인조 정령과 대화를 하고 있다니…….
+진짜…… 인조 정령과……."
+181,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_103","주인님…… 아르다시르가 비틀거립니다.
+……그에게도 새로운 몸을 줘야 합니다……!"
+182,"TEXT_JOBREL300_02328_BUKINOSEIREI_100_103","제가 얻은 <Sheet(Item,IntegerParameter(1),0)/>처럼
+아주 훌륭한 몸을…… 게롤트에게 만들어달라고 하지요."
+183,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_104","제가 얻은 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
+<Sheet(Item,IntegerParameter(2),0)/>처럼
+아주 훌륭한 몸을…… 게롤트에게 만들어달라고 하지요."
+184,"TEXT_JOBREL300_02328_BUKINOSEIREI_100_104","주인님…… 아르다시르가 비틀거려요.
+……그에게도 새로운 몸을 줘야 해요……!"
+185,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_105","제가 얻은 <Sheet(Item,IntegerParameter(1),0)/>처럼
+아주 훌륭한 몸을…… 게롤트에게 만들어달라고 해요."
+186,"TEXT_JOBREL300_02328_BUKINOSEIREI_100_105","제가 얻은 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
+<Sheet(Item,IntegerParameter(2),0)/>처럼
+아주 훌륭한 몸을…… 게롤트에게 만들어달라고 해요."
+187,"TEXT_JOBREL300_02328_ARDASHIR_000_108","쿡…… 아하하하하, 정말 재미있는 말을 하네요.
+인간의 혼은 새로운 몸에 쉽게 옮길 수 있는 게 아닙니다.
+무엇보다, 전 이 아저씨가 만든 몸은 싫다고요!"
+188,"TEXT_JOBREL300_02328_ARDASHIR_000_109","그나저나 저는 정말 행복한 사람이군요.
+당신과 이렇게 대화하는 게 꿈이었거든요…….
+게다가 제 걱정까지 해주다니."
+189,"TEXT_JOBREL300_02328_ARDASHIR_000_110","천만의 말입니다!!
+전 당신을 만나서 너무나 행복합니다."
+190,"TEXT_JOBREL300_02328_BUKINOSEIREI_000_111","행복……."
+191,"TEXT_JOBREL300_02328_ARDASHIR_000_112","오늘은 많이 피곤할 겁니다.
+새로운 그릇 안에서 푹 쉬세요."
+192,"TEXT_JOBREL300_02328_ARDASHIR_000_113","인조 정령은 아주 크게 성장했습니다.
+아직 지식은 부족한 것 같지만, 엄청난 성과입니다!"
+193,"TEXT_JOBREL300_02328_ARDASHIR_000_114","<Highlight>ObjectParameter(1)</Highlight> 님과 모험을 계속하면
+더 많은 것을 배우고, 인격도 차차 성장하겠죠.
+그러기 위해서도, 인조 정령을 잘 이끌어주세요."
+194,"TEXT_JOBREL300_02328_GEROLT_000_115","……그래. 이 꼬맹이처럼
+건방이 하늘을 찌르는 인격이 되지 않게 자알 가르치라고."
+195,"TEXT_JOBREL300_02328_ARDASHIR_000_116","……제가 하고 싶은 말입니다."
+196,"TEXT_JOBREL300_02328_ARDASHIR_000_117","아무튼, 이번엔 정말 수고가 많으셨습니다.
+<Highlight>ObjectParameter(1)</Highlight> 님도 다음 단계에 대비해서
+잠시 쉬시는 게 좋겠어요."
+197,"TEXT_JOBREL300_02328_GEROLT_000_118","아르다시르 자식…… 기고만장해져서는…….
+이럴 때일수록 실수가 생기는 법이라고."
+198,"TEXT_JOBREL300_02328_GEROLT_000_119","뭐, 네 녀석이 붙어 있으니 걱정은 없다만
+인조 정령의 상태는 꼼꼼하게 살펴라."
+199,"TEXT_JOBREL300_02328_ARDASHIR_000_120","이번에도 인조 정령이 크게 성장했습니다!
+더 큰 성장을 위해, 지금은 푹 쉬세요."
+200,"TEXT_JOBREL300_02328_SYSTEM_000_050","'초전도 아니마 웨폰'이 강화되어
+'강화된 아니마 웨폰'이 되었습니다!"

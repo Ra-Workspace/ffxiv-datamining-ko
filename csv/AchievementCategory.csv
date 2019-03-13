@@ -1,0 +1,70 @@
+﻿key,0,1,2,3,4
+#,Name,AchievementKind,,,
+int32,str,AchievementKind,bit&01,bit&02,byte
+0,"",0,True,False,0
+1,"일반",1,True,False,1
+2,"던전",1,True,False,2
+3,"토벌전",1,True,False,3
+4,"레이드",1,True,False,4
+5,"마물 사냥",1,True,False,5
+6,"보물찾기",1,True,False,6
+7,"일반",2,True,False,1
+8,"순위",2,True,True,2
+9,"투기장",2,True,False,3
+10,"전장",2,True,False,4
+11,"경쟁의 날개",2,True,False,5
+12,"일반",3,True,False,1
+13,"투사",3,True,False,2
+14,"마법사",3,True,False,3
+15,"제작자",3,True,False,4
+16,"채집가",3,True,False,5
+17,"플레이어 추천",3,True,False,6
+18,"골드 소서",3,True,False,7
+19,"일반",4,True,False,1
+20,"화폐",4,True,False,2
+21,"분해",4,True,False,3
+22,"소장품",4,True,False,4
+23,"마테리아",4,True,False,5
+24,"목수",5,True,False,1
+25,"대장장이",5,True,False,2
+26,"갑주제작사",5,True,False,3
+27,"보석공예가",5,True,False,4
+28,"가죽공예가",5,True,False,5
+29,"재봉사",5,True,False,6
+30,"연금술사",5,True,False,7
+31,"요리사",5,True,False,8
+32,"광부",6,True,False,1
+33,"원예가",6,True,False,2
+34,"어부",6,True,False,3
+35,"일반",8,True,False,1
+36,"의뢰",8,True,False,2
+37,"야만족 퀘스트",8,True,False,3
+38,"기간 한정 이벤트",8,True,True,4
+39,"탐험수첩",11,True,False,1
+40,"라노시아",11,True,False,2
+41,"검은장막 숲",11,True,False,3
+42,"다날란",11,True,False,4
+43,"커르다스",11,True,False,5
+44,"모르도나",11,True,False,6
+45,"아발라시아",11,True,False,7
+46,"드라바니아",11,True,False,8
+47,"기라바니아",11,True,False,9
+48,"오사드",11,True,False,10
+49,"임무",11,True,False,11
+50,"일반",12,True,False,1
+51,"흑와단",12,True,False,2
+52,"쌍사당",12,True,False,3
+53,"불멸대",12,True,False,4
+54,"전투",13,True,False,1
+55,"화폐",13,True,False,2
+56,"채집",13,True,False,3
+57,"퀘스트",13,True,False,4
+58,"기간 한정 이벤트",13,True,False,5
+59,"던전",13,True,False,6
+60,"탐험",13,True,False,7
+61,"총사령부",13,True,False,8
+62,"",0,False,False,0
+63,"",0,False,False,0
+64,"",0,False,False,0
+65,"",0,False,False,0
+66,"",0,False,False,0

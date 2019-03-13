@@ -1,0 +1,72 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_RAIDGUIDETRAVEL30_Q1_000_010","'기공성 알렉산더(영웅)'에 가시겠습니까?"
+1,"TEXT_RAIDGUIDETRAVEL30_A1_000_011","'기공성 알렉산더: 기동편(영웅)' 시작 조건 묻기"
+2,"TEXT_RAIDGUIDETRAVEL30_A1_000_012","'일반 전리품 규칙'으로 <Sheet(InstanceContent,IntegerParameter(1),3)/> 시작"
+3,"TEXT_RAIDGUIDETRAVEL30_A1_100_012","'선입찰 금지'로 <Sheet(InstanceContent,IntegerParameter(1),3)/> 시작"
+4,"TEXT_RAIDGUIDETRAVEL30_A1_101_012","'파티장 분배'로 <Sheet(InstanceContent,IntegerParameter(1),3)/> 시작"
+5,"TEXT_RAIDGUIDETRAVEL30_A1_000_013","취소"
+6,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_050","'기공성 알렉산더: 기동편(영웅)'은
+여러 개의 던전으로 이루어져 있으며
+그중에는 '데존'을 쓸 수 없는 곳도 있습니다."
+7,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_051","'기공성 알렉산더: 기동편(영웅)'의 공략 진행도는
+특정 시점에 각 플레이어의 기록이 생성되며
+재입장 시 기록된 위치부터 이어서 공략할 수 있습니다."
+8,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_052","공략 진행도는 현실 시간으로
+매주 <Time(1285056000)/><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다."
+9,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_053","'기공성 알렉산더: 기동편(영웅)'을 시작하려면
+투사 또는 마법사 레벨 60 이상인 플레이어 8명이
+파티를 맺어야 합니다."
+10,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_054","또한, 도전 자격을 얻으려면 모든 플레이어가
+퀘스트 '기공성의 영웅 서사시'를 완료해야 합니다."
+11,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_055","'기공성 알렉산더: 기동편(영웅)'의 공략 시작 지점은
+파티장의 공략 진행도를 따라갑니다."
+12,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_056","또한 시작 조건을 만족했다면
+파티장과 공략 진행도가 다른 파티원도
+파티장에 맞춰 진행할 수 있습니다."
+13,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_0561","파티장보다 공략 진행도가 느린 파티원은
+파티장과 동일한 진행도로 갱신됩니다."
+14,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_057","파티장보다 공략 진행도가 빠른 파티원은
+파티장이 그 진행도를 넘어서기 전에는
+진행도가 변경되지 않습니다."
+15,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_100_057","자신의 진행도보다 느린 시점에서는 보상을 얻을 수 없습니다.
+또한, 이번주 공략을 이미 완료한 파티원 수에 따라
+보물상자의 수가 감소합니다."
+16,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_058","'기공성 알렉산더: 기동편(영웅)'에는 제한시간이 존재합니다.
+(현실 시간) 90분이 경과하면
+'기공성 알렉산더: 기동편(영웅)'이 강제로 종료됩니다."
+17,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_059","전리품이 남은 상태에서 다른 파티원이 모두 퇴장하면
+전리품 목록에 있는 모든 아이템을 자동으로 획득합니다."
+18,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_060","이때 소지품이 꽉 차서 획득하지 못한 아이템은 파기되므로
+주의하십시오."
+19,"TEXT_RAIDGUIDETRAVEL30_Q2_000_100","<Sheet(InstanceContent,IntegerParameter(1),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8020403FF04EBA5BCFF04EC9D84</13>
+'일반 전리품 규칙'으로 시작하시겠습니까?"
+20,"TEXT_RAIDGUIDETRAVEL30_Q2_100_100","<Sheet(InstanceContent,IntegerParameter(1),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8020403FF04EBA5BCFF04EC9D84</13>
+'선입찰 금지'로 시작하시겠습니까?"
+21,"TEXT_RAIDGUIDETRAVEL30_Q2_101_100","<Sheet(InstanceContent,IntegerParameter(1),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8020403FF04EBA5BCFF04EC9D84</13>
+'파티장 분배'로 시작하시겠습니까?"
+22,"TEXT_RAIDGUIDETRAVEL30_A2_000_101","예"
+23,"TEXT_RAIDGUIDETRAVEL30_A2_000_102","아니요"
+24,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_110","<Sheet(InstanceContent,IntegerParameter(2),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8030403FF04EBA5BCFF04EC9D84</13> 시작하지 못했습니다.
+시작 조건을 확인하십시오."
+25,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_210","'기공성 알렉산더: 기동편(영웅)'을 완료하셨으므로
+초기화된 이후에 다시 도전하실 수 있습니다."
+26,"TEXT_RAIDGUIDETRAVEL30_SYSTEM_000_211","공략 진행도는 현실 시간으로
+매주 <Time(1285056000)/><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다.
+초기화된 이후에 다시 공략하십시오."
+27,"TEXT_RAIDGUIDETRAVEL30_Q3_000_300","파티원에게 입장 여부를 확인하고 있습니다.
+확인을 중단하려면 '중단'을 누르십시오."
+28,"TEXT_RAIDGUIDETRAVEL30_A3_000_301","중단"
+29,"TEXT_RAIDGUIDETRAVEL30_A3_000_340","이 임무를 이미 완료한 파티원이 <Value>IntegerParameter(2)</Value>명 있으므로 완료 시 보물상자의 수는 <Value>IntegerParameter(3)</Value>개입니다.
+<Sheet(InstanceContent,IntegerParameter(1),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8020403FF04EBA5BCFF04EC9D84</13> 시작하시겠습니까?"
+30,"TEXT_RAIDGUIDETRAVEL30_A3_000_350","이 임무를 이미 완료한 파티원이 <Value>IntegerParameter(2)</Value>명 있으므로 완료 시 보물상자의 수는 <Value>IntegerParameter(3)</Value>개입니다.
+<Sheet(InstanceContent,IntegerParameter(1),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8020403FF04EBA5BCFF04EC9D84</13>
+'일반 전리품 규칙'으로 시작하시겠습니까?"
+31,"TEXT_RAIDGUIDETRAVEL30_A3_100_350","이 임무를 이미 완료한 파티원이 <Value>IntegerParameter(2)</Value>명 있으므로 완료 시 보물상자의 수는 <Value>IntegerParameter(3)</Value>개입니다.
+<Sheet(InstanceContent,IntegerParameter(1),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8020403FF04EBA5BCFF04EC9D84</13>
+'선입찰 금지'로 시작하시겠습니까?"
+32,"TEXT_RAIDGUIDETRAVEL30_A3_101_350","이 임무를 이미 완료한 파티원이 <Value>IntegerParameter(2)</Value>명 있으므로 완료 시 보물상자의 수는 <Value>IntegerParameter(3)</Value>개입니다.
+<Sheet(InstanceContent,IntegerParameter(1),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8020403FF04EBA5BCFF04EC9D84</13>
+'파티장 분배'로 시작하시겠습니까?"
+33,"TEXT_RAIDGUIDETRAVEL30","（★未使用／削除予定★）"
