@@ -1281,7 +1281,7 @@ MP 회복 속도가 상승한다.",10468,0,1,16,16,False,False,False,False,False
 1214,"바이오가","HP가 서서히 줄어드는 상태.",12682,0,2,17,0,False,False,False,False,False,False,True,False,False,10,False,0,False,0,False,False,0,0,False
 1215,"미아즈가","HP가 서서히 줄어드는 상태.",12683,0,2,17,0,False,False,False,False,False,False,True,False,False,10,False,0,False,0,False,False,0,0,False
 1216,"","",0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
-1217,"실바람","MP 소모량이 감소한 상태.",12631,0,1,16,0,False,False,False,False,False,False,False,False,False,0,False,6,False,0,False,False,0,19,False
+1217,"실바람","MP 소비량이 감소한 상태.",12631,0,1,16,0,False,False,False,False,False,False,False,False,False,0,False,6,False,0,False,False,0,19,False
 1218,"신성한 축복","받는 피해량의 일부가 감소하는 상태.",12632,0,1,16,0,False,False,False,False,False,False,False,False,False,60,False,0,False,0,False,False,0,12,False
 1219,"성찰","백마도사의 '대사면'으로 HP를 회복할 수 있는 상태. ",18901,3,1,26,0,False,False,False,False,False,False,False,False,False,60,False,0,False,0,False,False,0,28,False
 1220,"심모원려책","HP가 일정 이하가 되거나 지속시간이 끝나면 회복이 발동하는 상태.",12808,0,1,16,0,False,False,False,False,False,False,False,False,False,60,False,0,False,0,False,False,0,25,False
@@ -1372,7 +1372,7 @@ MP 회복 속도가 상승한다.",10468,0,1,16,16,False,False,False,False,False
 일부 공격을 제외하고 피격 시 HP가 1 미만으로 떨어지지 않는 상태.
 효과 중에는 공격을 받아도 이동 불가가 해제되지 않음.",10255,0,2,17,0,False,True,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,31,False
 1305,"일대일 결투 대상","이동이 불가능한 상태. 피해를 받아도 효과가 해제되지 않는다.",14824,0,2,17,0,False,True,False,False,False,False,True,False,False,0,False,0,False,0,False,False,0,0,False
-1306,"최후의 생존자","받는 피해량이 증가하는 상태. 아드레날린 폭주에는 적용되지 않는다.",13105,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
+1306,"최후의 생존자","받는 피해량이 증가하는 상태.",13105,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1307,"","",0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1308,"흑야","일정량의 피해를 무효화하는 상태.",13118,0,1,16,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,12,False
 1309,"파쇄권","지속 피해를 받으며, 시전자에게 받는 피해량이 증가하는 상태.",10218,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
@@ -1395,7 +1395,7 @@ MP 회복 속도가 상승한다.",10468,0,1,16,16,False,False,False,False,False
 1326,"바이오가","지속 피해를 받는 상태.",12682,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1327,"미아즈가","지속 피해를 받으며, 회복 마법으로 받는 HP 회복 효과가 저하되는 상태.",12683,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1328,"감전","번개속성 피해로 HP가 서서히 줄어드는 상태.",19041,16,2,17,0,False,False,False,False,False,False,False,False,False,10,False,0,False,0,False,False,0,0,False
-1329,"쇠퇴","받는 피해량이 증가하는 상태. 아드레날린 폭주에는 적용되지 않는다.",14812,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
+1329,"쇠퇴","받는 피해량이 증가하는 상태.",14812,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1330,"리제네","지속적으로 HP가 회복되는 상태.",12626,0,1,16,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1331,"격려","일정량의 피해를 무효화하는 상태.",12801,0,1,16,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,12,False
 1332,"찬찰라","미의 신 락슈미가 변덕을 부리는 상태.",15805,0,1,16,0,False,False,False,False,False,False,False,True,True,200,False,0,False,0,False,False,0,0,False
@@ -1438,7 +1438,7 @@ MP 회복 속도가 상승한다.",10468,0,1,16,16,False,False,False,False,False
 1368,"안식 기도","적에게 주는 마법 피해량과 회복 마법의 회복량이 증가한 상태.",12514,0,1,16,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1369,"안식 기도","적에게 주는 마법 피해량과 회복 마법의 회복량이 증가하며, MP 소모 없이 마법을 사용할 수 있는 상태.",12514,0,1,16,0,False,False,False,False,False,False,False,False,False,0,False,6,False,0,False,False,0,19,False
 1370,"할로네의 분노","주는 피해량과 회복 마법의 회복량이 감소한 상태.",14836,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
-1371,"휘도는 도끼","받는 피해량이 증가하는 상태. 아드레날린 폭주에는 적용되지 않는다.",14837,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
+1371,"휘도는 도끼","받는 피해량이 증가하는 상태.",14837,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1372,"대참격","회복마법으로 받는 HP 회복 효과가 떨어진 상태.",14838,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1373,"불완전 형태","불완전하게 실체화된 상태.",15798,0,2,17,0,False,False,False,False,False,False,False,True,True,100,False,0,False,0,False,True,0,0,False
 1374,"오른쪽 표적","오른쪽 공격의 표적이 된 상태.",15800,0,2,17,0,False,False,False,False,False,False,False,False,False,200,False,0,False,0,False,False,0,0,False
@@ -1473,9 +1473,9 @@ MP 회복 속도가 상승한다.",10468,0,1,16,16,False,False,False,False,False
 1403,"광속 시전","시전 시간 없이 마법을 사용할 수 있으며 소비 MP가 50% 감소하는 상태.",13220,0,1,16,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1404,"신성한 축복","일정량의 피해를 무효화하는 상태.",12632,0,1,16,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,12,False
 1405,"행동 방해","적에게 주는 피해량이 감소하는 상태.",13222,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
-1406,"연환계","받는 피해량이 증가하는 상태. 아드레날린 폭주에는 적용되지 않는다.",12809,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
+1406,"연환계","받는 피해량이 증가하는 상태.",12809,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1407,"마구 쏘기","다음에 사용하는 무기 기술의 공격 횟수가 증가하는 상태.",10356,0,1,16,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
-1408,"코메테오","받는 피해량이 증가하는 상태. 아드레날린 폭주에는 적용되지 않는다.",14843,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
+1408,"코메테오","받는 피해량이 증가하는 상태.",14843,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1409,"궁극 사격","회복마법으로 받는 HP 회복 효과가 떨어진 상태.",14844,0,2,17,0,False,False,False,False,False,False,False,False,False,0,False,0,False,0,False,False,0,0,False
 1410,"찬찰라","미의 신 락슈미가 변덕을 부리는 상태.",15805,0,1,16,0,False,False,False,False,False,False,False,True,True,200,False,0,False,0,False,False,0,0,False
 1411,"60레벨 경험치 증가","60레벨 미만일 때 얻는 경험치가 크게 증가하는 상태.",16227,0,1,16,0,False,False,False,False,False,False,False,True,True,0,True,0,True,0,False,False,0,0,False

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,Singular,,Plural,,,,,,Title,Map,
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Title,Map,
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,Map,bit&01
 1000000,"",0,"",0,0,1,0,0,"",3,False
 1000001,"",0,"",0,0,0,0,0,"",0,False
@@ -1658,7 +1658,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,Map,bit&01
 1001654,"",0,"",0,0,1,0,0,"",5,False
 1001655,"",0,"",0,0,1,0,0,"",5,False
 1001656,"",0,"",0,0,1,0,0,"",5,False
-1001657,"랜드버트",0,"",0,0,1,0,0,"",3,False
+1001657,"란데베르트",0,"",0,0,1,0,0,"",3,False
 1001658,"",0,"",0,0,1,0,0,"",5,False
 1001659,"",0,"",0,0,1,0,0,"",5,False
 1001660,"",0,"",0,0,1,0,0,"",5,False

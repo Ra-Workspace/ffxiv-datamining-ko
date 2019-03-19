@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8
-#,,TimeLimit,MapIcon,Name,TextData{Start},TextData{End},,ContentFinderCondition,Eureka
-int32,byte,uint16,Image,str,PublicContentTextData,PublicContentTextData,uint32,ContentFinderCondition,Eureka
+#,Type,TimeLimit,MapIcon,Name,TextData{Start},TextData{End},,ContentFinderCondition,AdditionalData
+int32,byte,uint16,Image,str,PublicContentTextData,PublicContentTextData,uint32,ContentFinderCondition,Row
 0,0,0,0,"",0,0,0,0,0
 1,1,0,0,"영원한 언약식",1000,1143,0,0,0
 2,2,0,60848,"트리플 트라이어드: 카드 대결장",0,0,0,195,0

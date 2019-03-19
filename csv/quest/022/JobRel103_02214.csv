@@ -57,21 +57,21 @@ int32,str,str
 47,"TEXT_JOBREL103_02214_TODO_23",""
 48,"TEXT_JOBREL103_02214_SYSTEM_100_000","퀘스트 '빛나는 아니마 웨폰'에서 획득할 수 있는 무기는
 현재 직업인 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 아니마 웨폰입니다.
-'빛나는 아니마 웨폰'을 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If><14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
+'찬란한 아니마 웨폰'을 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If><14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
 49,"TEXT_JOBREL103_02214_Q1_000_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰을 창조하시겠습니까?"
 50,"TEXT_JOBREL103_02214_A1_000_000","조금 더 고민해본다"
 51,"TEXT_JOBREL103_02214_A2_000_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 아니마 웨폰을 창조한다"
-52,"TEXT_JOBREL103_02214_SYSTEM_100_001","퀘스트 '빛나는 아니마 웨폰'을 수락하면
+52,"TEXT_JOBREL103_02214_SYSTEM_100_001","퀘스트 '찬란한 아니마 웨폰'을 수락하면
 퀘스트를 완료하거나 포기할 때까지
 다른 직업으로 '빛나는 아니마 웨폰'을 수락할 수 없습니다."
 53,"TEXT_JOBREL103_02214_SYSTEM_100_002","아니마 웨폰을 창조하고 싶은 직업으로 변경한 후
 다시 아르다시르에게 말을 거십시오."
 54,"TEXT_JOBREL103_02214_SYSTEM_100_003","<Sheet(Item,IntegerParameter(1),0)/> 및
 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
-퀘스트 '빛나는 아니마 웨폰'을 수락할 수 없습니다."
+퀘스트 '찬란한 아니마 웨폰'을 수락할 수 없습니다."
 55,"TEXT_JOBREL103_02214_SYSTEM_100_004","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
 소지하거나 장비하지 않으면
-퀘스트 '빛나는 아니마 웨폰'을 수락할 수 없습니다."
+퀘스트 '찬란한 아니마 웨폰'을 수락할 수 없습니다."
 56,"TEXT_JOBREL103_02214_SYSTEM_100_005","이미 <Sheet(Item,IntegerParameter(1),0)/> 및
 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
 다른 직업으로 변경한 후 다시 아르다시르에게 말을 거십시오."

@@ -4342,7 +4342,7 @@ int32,LogKind,uint16,byte,bit&01,str
 4243,60,9,0,False,"클래스로는 변경할 수 없습니다."
 4244,57,65,0,False,"경주 체급에 맞춰 초코보의 능력이 조정되었습니다."
 4245,57,65,0,False,"같은 임무에 참가한 플레이어끼리 파티 대화를 할 수 있습니다."
-4246,57,33,0,False,"보상 획득권을 보유한 파티원이 <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>명이므로 보물상자가 <Value>IntegerParameter(3)</Value>/<Value>IntegerParameter(4)</Value>개 나타납니다."
+4246,57,33,0,False,"보상 획득권을 보유한 파티원이 <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>명이므로 보물상자는 <Value>IntegerParameter(3)</Value>/<Value>IntegerParameter(4)</Value>개입니다."
 4247,0,0,0,False,""
 4248,0,0,0,False,""
 4249,0,0,0,False,""
@@ -4458,7 +4458,7 @@ int32,LogKind,uint16,byte,bit&01,str
 하객들께서는 다시 초대를 받으십시오."
 4358,57,33,0,False,"언약식용 의상으로 갈아입은 다음 식장이 준비될 때까지 기다려주십시오."
 4359,57,33,0,False,"식장 준비가 완료되어 식장으로 이동합니다."
-4360,57,33,0,False,"하객들께서는 퇴장 후에 '언약식 초대장'을 제시하시면 선물을 받을 수 있습니다."
+4360,57,33,0,False,"하객들께서는 퇴장 후에 '언약식 청첩장'을 제시하시면 선물을 받을 수 있습니다."
 4361,57,33,0,False,"'말하기' 또는 '외치기'로 하객들에게 인사합시다."
 4362,57,33,0,False,"당분간 자유롭게 조작할 수 있습니다."
 4363,57,33,0,False,"하객들과 환담하는 등 자유롭게 보낼 수 있는 시간입니다.

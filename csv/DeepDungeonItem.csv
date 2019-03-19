@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,Icon,Singular,,Plural,,StartsWithVowel,Rarity,,,Name,Tooltip,Action
+#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Tooltip,Action
 int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,Action
 0,0,"",0,"",0,0,1,0,0,"","",0
 1,28101,"",0,"",0,0,1,0,0,"마토기: 함정 해제","현재 층의 함정을 모두 제거합니다.",6259
