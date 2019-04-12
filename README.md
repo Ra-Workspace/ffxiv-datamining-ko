@@ -1,4 +1,4 @@
-# Datamining of Final Fantasy XIV Korea
+# [![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/Ra-Workspace/ffxiv-datamining-ko.svg?color=%23B61D4B&label=Patch&style=flat-square)](https://github.com/Ra-Workspace/ffxiv-datamining-ko/releases) Datamining of Final Fantasy XIV Korea
 
 * This repository is to serve as a place to share data mining information related to Final Fantasy XIV in Korean.
 
