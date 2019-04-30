@@ -15211,56 +15211,124 @@ PvP 지역에서는 은신술의 이동 속도 저하 효과에 영향받지 않
 12955,""
 12956,""
 12957,""
-12958,""
-12959,""
-12960,""
-12961,""
-12962,""
-12963,""
-12964,""
-12965,""
-12966,""
-12967,""
-12968,""
-12969,""
-12970,""
-12971,""
-12972,""
-12973,""
-12974,""
-12975,""
-12976,""
-12977,""
-12978,""
-12979,""
-12980,""
-12981,""
-12982,""
-12983,""
-12984,""
-12985,""
-12986,""
-12987,""
-12988,""
-12989,""
-12990,""
-12991,""
-12992,""
-12993,""
-12994,""
-12995,""
-12996,""
-12997,""
-12998,""
-12999,""
-13000,""
-13001,""
-13002,""
-13003,""
-13004,""
-13005,""
-13006,""
-13007,""
+12958,"자신이 주는 마법 피해량이 60% 증가합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12959,"자신이 주는 물리 피해량이 40% 증가합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12960,"자신의 방어력이 3000 증가하고, 최대 HP가 50% 증가합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12961,"자신의 방어력이 1800 증가하고, 최대 HP가 10% 증가합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12962,"자신의 최대 MP가 50% 증가하고, 회복마법 회복량이 25% 증가합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12963,"자신이 주는 피해량이 12% 증가합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12964,"자신의 회피율이 25% 증가하고, 주는 피해량이 5% 감소합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12965,"자신의 회복마법 회복량이 50% 증가하고 최대 HP가 30% 증가하지만, 주는 피해량이 5% 감소합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12966,"자신이 주는 피해량이 21% 증가하고, 마법 방어력이 60% 감소합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12967,"자신의 회피율이 10% 증가하고 이동 속도와 독 저항력이 향상됩니다.
+이동 속도 향상 효과는 탈것에도 적용됩니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12968,"자신의 최대 HP가 10% 증가하고 명중률이 30% 증가합니다.
+효과가 지속되는 동안에 전투불능이 되면 70%의 확률로 자동으로 부활합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+12969,"30분 동안 대상의 물리 방어력이 1000 증가합니다."
+12970,"30분 동안 대상의 마법 방어력이 1000 증가합니다."
+12971,"대상을 전투불능으로 만듭니다.
+대상의 HP가 적을수록 성공률이 증가합니다."
+12972,"자신에게 30초 동안 지속되는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>힘 모으기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다. 최대 16단계까지 중첩되며 무기 기술 사용 시 소비됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>힘 모으기 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1단계당 무기 기술 위력 30%씩 증가
+무기 기술과 재사용 대기 시간을 공유합니다."
+12973,"60초 동안 대상을 마비시킵니다."
+12974,"60초 동안 대상과 그 주위의 적을 마비시킵니다."
+12975,"10초 동안 자신의 이동 속도가 크게 향상됩니다."
+12976,"45초 동안 자신의 회피율이 15% 증가합니다."
+12977,"대상에게 원거리 물리 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상에게 60초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>받는 피해 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 8% 부여"
+12978,"주위 적에게 범위 마법 공격을 가하고 자신도 큰 피해를 받습니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 4000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>받는 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 999999"
+12979,"대상에 걸린 강화 효과를 1개 해제합니다."
+12980,"대상에게 물리 공격을 가하고, 60초 동안 회피율을 감소시킵니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100"
+12981,"모습을 감추어 대부분의 적에게 발각되지 않는 상태가 됩니다.
+은신 중에는 이동 속도가 50% 저하됩니다.
+일부 마물에게는 감지당할 수 있습니다.
+재사용하거나 전력 질주 이외의 다른 기술을 사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 전투 중이 아님"
+12982,"대상으로 지정한 파티원의 위치로 즉시 이동합니다.
+속박 상태에서는 사용할 수 없습니다."
+12983,"10미터 후방으로 도약합니다.
+속박 상태에서는 사용할 수 없습니다."
+12984,"8초 동안 대상을 기절시킵니다."
+12985,"45초 동안 자신이 준 피해량의 일부를 HP로 흡수합니다."
+12986,"자신의 TP를 500 회복하고, 최대 MP의 50%만큼 MP를 회복합니다."
+12987,"대상에게 물리 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상에게 30초 동안 20% 둔화 부여
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 회피 직후"
+12988,"15초 안에 실행하는 다음 능력의 재사용 대기 시간이 50% 단축됩니다."
+12989,"대상의 HP를 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 9000"
+12990,"대상의 HP를 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 12000"
+12991,"30초 동안 대상의 최대 HP 대비 10%의 피해를 막아주는 보호막을 칩니다."
+12992,"대상과 그 주위에 있는 파티원의 HP를 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 9000"
+12993,"21초 동안 대상의 HP를 지속적으로 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2500"
+12994,"대상에게 부여된 일부 약화 효과를 1개 해제합니다."
+12995,"대상을 도발하여 자신에 대한 적개심을 1순위로 만들고, 15초 동안 자신에 대한 적개심을 증가시킵니다."
+12996,"대상을 쇠약 상태로 부활시킵니다."
+12997,"100초 동안 대상이 주는 피해량을 10% 증가시킵니다."
+12998,"8초 동안 자신이 받는 물리 피해량이 99% 감소합니다."
+12999,"8초 동안 자신이 받는 마법 피해량이 99% 감소합니다."
+13000,"자신 또는 파티원 1명을 대상으로, 10초 동안 받는 마법 피해를 반사하는 보호막을 칩니다."
+13001,"대상에게 물리 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
+이 공격으로 준 피해량에 비례하여 자신의 HP를 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신의 HP 50% 이하"
+13002,"30초 동안 자신과 주위 파티원의 마정석 에테르 회복량이 증가합니다."
+13003,"대상에게 무속성 마법 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상이 언데드일 경우 60초 동안 받는 피해 12% 증가"
+13004,"대상과 그 주위에 있는 적에게 무속성 마법 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 150
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상이 언데드일 경우 60초 동안 받는 피해 12% 증가"
+13005,"20초 동안 마법 시전 시 MP 소비량과 마법으로 주는 피해량이 100% 증가합니다."
+13006,"48초 동안 자신의 HP가 지속적으로 감소하지만, 자신이 주는 물리 피해량이 증가합니다.
+3초마다 중첩되며 1단계당 주는 물리 피해량이 15%, HP 감소 효과가 1200씩 상승합니다."
+13007,"대상에게 원거리 물리 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 80
+대상의 남은 HP가 적을수록 위력이 증가하며, 최대 10배까지 증가합니다.
+이 기술은 적개심이 크게 상승합니다."
 13008,""
 13009,""
 13010,""

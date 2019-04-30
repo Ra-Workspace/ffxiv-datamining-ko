@@ -1,30 +1,60 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
-1,"",""
-2,"",""
-3,"",""
-4,"",""
-5,"",""
-6,"",""
-7,"",""
-8,"",""
-9,"",""
-10,"",""
-11,"",""
-12,"",""
-13,"",""
-14,"",""
-15,"",""
-16,"",""
-17,"",""
-18,"",""
-19,"",""
-20,"",""
-21,"",""
-22,"",""
-23,"",""
-24,"",""
-25,"",""
-26,"",""
+0,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_000","무슨 일이시죠?
+탐색의 의문점을 확인……하러 오신 건 아니겠죠?
+어쨌든 지금은 손을 놓을 수 없으니 나중에 다시 와 주세요."
+1,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_Q1_000_000","무엇을 하시겠습니까?"
+2,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_A1_000_001","마정반 개량"
+3,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_A1_000_002","마정반 개량에 대해 묻기"
+4,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_A1_000_003","취소"
+5,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_010","마정반을 개량하시려고요?
+재료가 필요합니다만……."
+6,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_020","이런, 재료를 안 갖고 계시는군요.
+죄송합니다만, 개량하려면 반드시 필요하니
+먼저 재료를 구해 오지 않으시겠어요?"
+7,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_SYSTEM_000_021","마정반을 개량하려면 '<Sheet(Item,24285,0)/>',
+'<Sheet(Item,24286,0)/>', '<Sheet(Item,24287,0)/>'<13>FF0F02280BFF054974656DF25EDF0103FF04EAB080FF04EC9DB4</13>
+각각 1개씩 필요합니다."
+8,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_030","보아하니 모두 구하신 모양이군요.
+그럼, 재료를 건네주시겠습니까?"
+9,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_031","……재료 잘 받았습니다.
+마정반을 건네주시면 개량해드리겠습니다.
+완성될 때까지 조금만 기다려주세요."
+10,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_032","무사히 개량을 마쳤습니다!
+6번째 마정석을 드릴 테니
+'마정석 배열기'에 끼워 넣어 보세요."
+11,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_033","단, 속성의 힘을 강화하기 위해서 끼워 넣을 수 있는 마정석은
+한 속성당 최대 5개까지입니다.
+그러므로 6번째 마정석으로는 다른 속성의 힘을 강화하세요."
+12,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_034","애초에 마정석 5개로 운용하려고 만든 물건이기에
+그 이상으로 강화하면 마정반이 출력을 당해내지 못한답니다.
+사용할 때에는 부디 주의해주세요."
+13,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_Q2_000_000","무엇을 물어보시겠습니까?"
+14,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_A2_000_001","마정반 개량에 대해서 묻기"
+15,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_A2_000_002","필요한 재료에 대해서 묻기"
+16,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_A2_000_003","6번째 마정석에 대해서 묻기"
+17,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_A2_000_004","뒤로"
+18,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_040","마정반을 개량하면
+6번째 마정석을 끼워 넣을 수 있게 됩니다.
+개량하시면 6번째 마정석을 드릴 테니, 모험에 활용하세요!"
+19,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_SYSTEM_000_041","마정반을 개량하면
+1개의 마정석을 더 끼워 넣을 수 있게 됩니다."
+20,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_050","마정반을 개량하려면
+특수한 재료가 필요합니다.
+조건에 맞는 재료를 찾아보시겠습니까?"
+21,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_SYSTEM_000_051","마정반을 개량하려면 '<Sheet(Item,24285,0)/>',
+'<Sheet(Item,24286,0)/>', '<Sheet(Item,24287,0)/>'<13>FF0F02280BFF054974656DF25EDF0103FF04EAB080FF04EC9DB4</13>
+각각 1개씩 필요합니다."
+22,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_060","제가 드릴 6번째 마정석은 마정석 파편을
+마정반에 사용할 수 있도록 조정한 특수한 물건입니다.
+성능은 일반 마정석과 동일하니, 안심하세요."
+23,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_SYSTEM_000_061","마정반을 개량할 때 추가되는 마정석은
+다른 마정석과 구별되지 않으며
+속성치 강화에 따른 효과도 동일합니다."
+24,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_SYSTEM_000_062","단, 속성치를 강화하기 위해서 한 속성에 최대 5개까지
+마정석을 끼워 넣을 수 있습니다."
+25,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_ENG00465_000_070","마정반에 6번째 마정석을 끼워 넣을 수 있도록 개량했습니다만
+설계도를 찬찬히 훑어보면 손볼 여지가 더 있을 것 같습니다.
+게롤트 씨에게 상담해 볼까요……."
+26,"TEXT_CTSERKEUREKA3SUBSPHEREGUIDE_00533_TALK_ACTOR","（★未使用／削除予定★）"

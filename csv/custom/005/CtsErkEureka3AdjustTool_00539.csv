@@ -1,31 +1,54 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
-1,"",""
-2,"",""
-3,"",""
-4,"",""
-5,"",""
-6,"",""
-7,"",""
-8,"",""
-9,"",""
-10,"",""
-11,"",""
-12,"",""
-13,"",""
-14,"",""
-15,"",""
-16,"",""
-17,"",""
-18,"",""
-19,"",""
-20,"",""
-21,"",""
-22,"",""
-23,"",""
-24,"",""
-25,"",""
-26,"",""
-27,"",""
+0,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_Q1_000_000","무엇을 하시겠습니까?"
+1,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A1_000_001","부가 능력치 부여"
+2,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A1_000_002","설명서 읽기"
+3,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A1_000_003","취소"
+4,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_000","부가 능력치를 부여할 수 있는 무기가 없습니다."
+5,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_Q1_001_000","어느 무기에 부가 능력치를 부여하시겠습니까?"
+6,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A1_001_001","<Sheet(Item,IntegerParameter(1),0)/>에 부여"
+7,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A1_001_002","취소"
+8,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_010","'<Sheet(Item,24122,0)/>'<13>FF0F02280BFF054974656DF25E3A0103FF04EAB080FF04EC9DB4</13> 부족하여
+'<Sheet(Item,IntegerParameter(1),0)/>'에
+부가 능력치를 부여할 수 없습니다."
+9,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_011","'<Sheet(Item,IntegerParameter(1),0)/>'에
+기억을 주입하여 부가 능력치를 부여하려면
+'<Sheet(Item,24122,0)/>'<13>FF0F02280BFF054974656DF25E3A0103FF04EAB080FF04EC9DB4</13> '<Value>IntegerParameter(2)</Value>'개 더 필요합니다."
+10,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_YESNO_000","'<Sheet(Item,24122,0)/>'<13>FF0F02280BFF054974656DF25E3A0103FF04EBA5BCFF04EC9D84</13> '<Value>IntegerParameter(2)</Value>'개 소비하여
+'<Sheet(Item,IntegerParameter(1),0)/>'에 부가 능력치를
+부여하기 위한 기억을 추출하시겠습니까?"
+11,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_YESNO_001","'<Sheet(Item,24122,0)/>'<13>FF0F02280BFF054974656DF25E3A0103FF04EBA5BCFF04EC9D84</13> '<Value>IntegerParameter(2)</Value>'개 소비하여
+'<Sheet(Item,IntegerParameter(1),0)/>'에 부가 능력치를
+다시 부여하기 위한 기억을 추출하시겠습니까?"
+12,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_Q2_000_000","어느 항목을 읽으시겠습니까?"
+13,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A2_000_001","부가 능력치 부여에 대해"
+14,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A2_000_002","필요한 재료에 대해"
+15,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_A2_000_003","뒤로"
+16,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_MANUAL00539_000_020","(-환상 주입기 설명서-)이 '<Sheet(EObj,2009647,0)/>'<13>FF1002280CFF05454F626AF61EAA2F0103FF04EB8A94FF04EC9D80</13> 밑바탕용 무기에
+기억을 주입하여 능력을 높이기 위한 장치다.
+사용법은 간단하니, 이 설명서를 정독해라."
+17,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_021","'부가 능력치 부여'를 사용하여
+'에우레카 웨폰: 피로스'에
+부가 능력치를 부여할 수 있습니다."
+18,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_022","부여할 부가 능력치의 종류와 수치는
+무작위로 결정되지만, 촉매만 있다면
+몇 번이고 반복해서 실행할 수 있습니다."
+19,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_MANUAL00539_000_030","(-환상 주입기 설명서-)무기에 기억을 주입하여 능력을 높이기 위해서는
+'<Sheet(Item,24122,0)/>'<13>FF0F02280BFF054974656DF25E3A0103FF04EAB080FF04EC9DB4</13> 필요하다.
+자세한 설명은 됐고, 촉매로 필요하다는 것만 알아 둬라."
+20,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_031","'부가 능력치 부여'를 하려면
+일정 개수의 '<Sheet(Item,24122,0)/>'<13>FF0F02280BFF054974656DF25E3A0103FF04EAB080FF04EC9DB4</13> 필요합니다."
+21,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_032","무기에 따라 필요한 개수가 다르며,
+한손검은 '<Value>IntegerParameter(1)</Value>'개, 방패는 '<Value>IntegerParameter(2)</Value>'개,
+그 외의 무기는 '<Value>IntegerParameter(3)</Value>'개가 필요합니다."
+22,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_033","'<Sheet(Item,24122,0)/>'<13>FF0F02280BFF054974656DF25E3A0103FF04EB8A94FF04EC9D80</13>
+'<Sheet(EObj,2009646,0)/>'<13>FF1002280CFF05454F626AF61EAA2E0103FF04EBA5BCFF04EC9D84</13> 작동시켜 에우레카 주전자에 축적된
+일정량의 혼합 에테르를 사용하여 얻을 수 있습니다."
+23,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_034","또한, '<Sheet(ContentFinderCondition,IntegerParameter(1),32)/>'의 '<Sheet(EObj,2009646,0)/>'에서만
+'<Sheet(Item,24122,0)/>'<13>FF0F02280BFF054974656DF25E3A0103FF04EBA5BCFF04EC9D84</13> 입수할 수 있으며,
+그 외의 '시험형 마정로'에서는 입수할 수 없으니, 주의하시기 바랍니다."
+24,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_TALK_ACTOR","（★未使用／削除予定★）"
+25,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_SYSTEM_000_023","（★未使用／削除予定★）"
+26,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_YESNO_002","（★未使用／削除予定★）"
+27,"TEXT_CTSERKEUREKA3ADJUSTTOOL_00539_YESNO_003","（★未使用／削除予定★）"
