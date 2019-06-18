@@ -51,7 +51,8 @@ int32,str,str
 30,"TEXT_FESYKWMEDALEXCHANGE_00348_Q3_000_001","어느 무기로 교환하시겠습니까?"
 31,"TEXT_FESYKWMEDALEXCHANGE_00348_A3_000_001","<Sheet(Item,IntegerParameter(3),0)/>: <Format(<Value>IntegerParameter(4)</Value>,FF022C)/>/<Value>IntegerParameter(5)</Value>(<If(Equal(IntegerParameter(1),15208))>한손검<Else/><If(Equal(IntegerParameter(1),15209))>격투무기<Else/><If(Equal(IntegerParameter(1),15210))>양손도끼<Else/><If(Equal(IntegerParameter(1),15211))>양손창<Else/><If(Equal(IntegerParameter(1),15212))>활<Else/><If(Equal(IntegerParameter(1),15213))>쌍검<Else/><If(Equal(IntegerParameter(1),15214))>양손검<Else/><If(Equal(IntegerParameter(1),15215))>총<Else/><If(Equal(IntegerParameter(1),15216))>양손 환술도구<Else/><If(Equal(IntegerParameter(1),15217))>양손 주술도구<Else/><If(Equal(IntegerParameter(1),15218))>마도서: 소환사<Else/><If(Equal(IntegerParameter(1),15219))>마도서: 학자<Else/><If(Equal(IntegerParameter(1),15220))>천구의<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If><If(Equal(IntegerParameter(2),0))><Else/> 및 방패</If>)"
 32,"TEXT_FESYKWMEDALEXCHANGE_00348_A3_000_002","취소"
-33,"TEXT_FESYKWMEDALEXCHANGE_00348_Q5_000_001","<Sheet(Item,IntegerParameter(3),0)/> <Value>IntegerParameter(5)</Value>개로 다음 무기를 획득하시겠습니까?
+33,"TEXT_FESYKWMEDALEXCHANGE_00348_Q5_000_001","<Sheet(Item,IntegerParameter(3),0)/> <Value>IntegerParameter(5)</Value>개로
+다음 무기를 획득하시겠습니까?
 <Sheet(Item,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))><Else/> 및 <Sheet(Item,IntegerParameter(2),0)/></If>"
 34,"TEXT_FESYKWMEDALEXCHANGE_00348_A5_000_001","예"
 35,"TEXT_FESYKWMEDALEXCHANGE_00348_A5_000_002","아니요"

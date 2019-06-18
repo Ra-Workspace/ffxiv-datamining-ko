@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_GREETING_000","안녕, 최근에 한 경험 중에 재밌는 거 없었어?
 내가 노래로 만들어 부를 만한 모험담이 있다면
 꼭 들려줬으면 좋겠는데 말이야."
-1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","<If(Equal(IntegerParameter(1),20047))>스사노오<Else/><If(Equal(IntegerParameter(1),20049))>락슈미<Else/><If(Equal(IntegerParameter(1),20050))>신룡<Else/><If(Equal(IntegerParameter(1),30057))>바하무트<Else/><If(Equal(IntegerParameter(1),20052))>백호<Else/><If(Equal(IntegerParameter(1),20056))>츠쿠요미<Else/><If(Equal(IntegerParameter(1),30067))>알테마 웨폰<Else/><If(Equal(IntegerParameter(1),20058))>주작<Else/></If></If></If></If></If></If></If></If>에 대해 이야기한다"
+1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","<If(Equal(IntegerParameter(1),20047))>스사노오<Else/><If(Equal(IntegerParameter(1),20049))>락슈미<Else/><If(Equal(IntegerParameter(1),20050))>신룡<Else/><If(Equal(IntegerParameter(1),30057))>바하무트<Else/><If(Equal(IntegerParameter(1),20052))>백호<Else/><If(Equal(IntegerParameter(1),20056))>츠쿠요미<Else/><If(Equal(IntegerParameter(1),30067))>알테마 웨폰<Else/><If(Equal(IntegerParameter(1),20058))>주작<Else/><If(Equal(IntegerParameter(1),20061))>청룡<Else/></If></If></If></If></If></If></If></If></If>에 대해 이야기한다"
 2,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CANCEL","취소"
 3,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_NOSELECT_000","……지금은 과거를 회상하는 것보다 더 소중한 일이 있나 보지?
 후후후, 미래의 모험을 향해 달려가는 너의 눈동자는 아주 멋져.
@@ -113,8 +113,8 @@ int32,str,str
 47,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_057","아, 단가란 동쪽 나라의 전통적인 노래 형식이야.
 무지코 극장 사람들에게 배웠는데
 아직 미숙하니 부디 웃지 않고 들어줘."
-48,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_058","""쫓기고 쫓겨, 산하 끝에 닿아서 벗을 얻으니
- 눈물에 녹는 눈꽃 호랑이"""
+48,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_058","""발길이 닿은 / 산하 끝에서 / 친구를 얻어
+ 눈물에 녹는 / 눈꽃 호랑이"""
 49,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_059","옛이야기에 등장하는 백호는
 무한한 신통력으로 수많은 악을 쫓는 전쟁신으로 숭배되고 있지."
 50,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_060","하지만 네 이야기를 듣고 나니
@@ -161,8 +161,9 @@ int32,str,str
 66,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_100_083","아, 단가란 동쪽 나라의 전통적인 노래 형식이야.
 무지코 극장 사람들에게 배웠는데
 아직 미숙하니 부디 웃지 말고 들어줘."
-67,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_084","""반월의 달빛 아래 핀 하얀 꽃
- 그림자에 삼키어져 황천에 졌노라"""
+67,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_084","""이지러진 달 / 그 달 아래 피어난 / 하이얀 꽃은
+ 그림자에 삼켜져 / 황천에 지는구나""
+"
 68,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_085","그녀가 꽂고 다니던 월하미인은
 딱 하루만 피었다 지는 슬픈 운명을 지닌 꽃이야…….
 그것은 자신에게 바친 피안화 대신이었을지도 모르지."
@@ -188,8 +189,9 @@ int32,str,str
 78,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_098","아, 단가란 동쪽 나라의 전통적인 노래 형식이야.
 무지코 극장 사람들에게 배웠는데
 아직 미숙하니 부디 웃지 말고 들어줘."
-79,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_099"," ""황혼이 드리울 때 내 붉은 불꽃에 드리워진 그림자
- 천년의 시간 더해지는 그리움"""
+79,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_099"," ""저녁놀 무렵 / 스스로 피운 불에 / 그림자 보네
+ 천년의 세월 동안 / 그리움 더하였네""
+"
 80,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_100","신화와 전설은 사람들 사이에 전해 내려오는 과정에서
 종종 형태가 바뀐다고 해."
 81,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_101","원래는 다른 존재이지만 형태나 성질이 닮아
@@ -200,4 +202,37 @@ int32,str,str
 슬픔으로 지새운 천년을 생각하면 마음이 아파."
 83,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_103","또 신기한 경험을 하면 이야기를 들려줘.
 앞으로도 난 네가 말하는 진실을 소재로 시를 짓고 싶어."
-84,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_CANCEL_000",""
+84,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_110","사성수라면 무지코 극장의 3대 희극이라 불리는 극 중 하나인
+'요괴 잡는 텐젠'에 나오는 네 마리 짐승 말이지?"
+85,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_111","후후…… 잘 알지?
+예술의 길을 걷는 자로서 하루라도 공부를 소홀히 할 순 없지."
+86,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_112","자, 사성수에 대해서는 어떤 이야기를 들려줄 거야?"
+87,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_113","인간의 언어를 다루는 짐승들이 지키는 레이센 신사라…….
+그곳에서 넌 사성수 가운데 하나인 현무와 만났구나?
+굉장해, 마치 동화 같은 이야기잖아!"
+88,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_114","섣불리 믿긴 힘든 내용이지만 네 모험담을 들어온 나로서는
+그 이야기가 거짓이 아니란 것쯤은 잘 알아."
+89,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_115","자, 이번에 네가 아라미타마를 진정시켰다는
+사성수에 대한 이야기를…… 들려주겠어?"
+90,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_116","아라미타마에 혼을 팔아넘기면서까지
+텐젠과의 맹세를 지키려고 한 서수, 청룡이라…….
+좋아, 멋진 단가를 지을 수 있겠어!"
+91,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_117","아, 단가란 동쪽 나라의 전통적인 노래 형식이야.
+무지코 극장 사람들에게 배웠는데
+아직 미숙하니 부디 웃지 말고 들어줘."
+92,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_118","""때묻은 마음 / 속절없이 흐르네 / 파란 물 위를
+ 이 한몸 버리어도 / 그 약속 지키리라""
+"
+93,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_119","청룡에 관한 일화는 몇 가지가 있는데,
+다른 사성수에 비해 그 실태는 베일에 싸여 있어."
+94,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_120","동방의 일부 점술 주문에 청룡 명칭이 들어가 있는 걸 봐서
+아주 오래 전부터 음양사들한텐 신앙의 대상이었던 듯해."
+95,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_121","넌 청룡이 행운을 관장하는 신으로 추앙받았다고 했지만……
+토지신이란 건, 사람들이 자기 멋대로 소원을 빌어놓고
+이루어지지 않으면 거짓 신이라며 낙인을 찍는 경우도 있어."
+96,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_122","어쩌면 청룡은 맹세를 지키지 않으면
+텐젠도 떠나가버리지 않을까 생각했을지도 몰라.
+물론 지금은 그럴 리 없다는 걸 알게 됐겠지."
+97,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_123","또 신기한 경험을 하면 이야기를 들려줘.
+앞으로도 난 네가 말하는 진실을 소재로 시를 짓고 싶어."
+98,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_CANCEL_000",""

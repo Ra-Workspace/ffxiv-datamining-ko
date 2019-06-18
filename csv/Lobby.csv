@@ -109,7 +109,10 @@ int32,uint32,uint32,uint32,str,str,str
 92,0,0,0,"","",""
 93,0,0,0,"","",""
 94,0,1200,0,"","",""
-95,0,0,0,"","",""
+95,0,0,0,"<Highlight>StringParameter(1)</Highlight><14>FF07022903EA0203FF04EBA19CFF07EC9CBCEBA19C</14> 접속합니다.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>이 캐릭터는 현재 고향 서버가 아닌 서버에 있습니다.
+림사 로민사/그리다니아/울다하의 에테라이트 광장에서 '다른 서버 방문'을 선택하면 고향 서버로 돌아갈 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 96,0,0,0,"","",""
 97,0,120,0,"","",""
 98,0,0,0,"","",""
@@ -122,7 +125,7 @@ int32,uint32,uint32,uint32,str,str,str
 105,0,0,0,"생일","誕生日",""
 106,0,12,0,"수호신","守護神",""
 107,0,10,0,"클래스","クラス",""
-108,0,0,0,"서버","ワールド",""
+108,0,0,0,"고향 서버","ワールド",""
 109,0,0,0,"이름","名前",""
 110,0,0,0,"휴런<Switch(IntegerParameter(1))><Case(1)> 남</Case><Case(2)> 여</Case><Case(3)></Case></Switch>","","보통 체구를 가졌으며 에오르제아를 대표하는 민족.
 먼 옛날에는 인구수가 그리 많지 않았으나, 민족 대이동을 세 번 거치면서
@@ -1071,7 +1074,7 @@ int32,uint32,uint32,uint32,str,str,str
 805,0,0,0,"(임시) <Switch(IntegerParameter(1))><Case(1)>한국 1=가칭</Case><Case(2)>한국 2=가칭</Case><Case(3)>한국 3=가칭</Case></Switch>","",""
 806,0,0,0,"파이널판타지14를 플레이하는 동안에는 여러 서버가 묶인 '데이터센터'와의 통신이 이루어집니다.
 거주 지역에서 가장 가까운 데이터센터를 선택하시길 권장합니다.
-현재 선택된 데이터 센터는 <Switch(IntegerParameter(1))><Case(1)>일본</Case><Case(2)>일본</Case><Case(3)>일본</Case><Case(4)>북미</Case><Case(5)>북미</Case><Case(6)>유럽</Case><Case(7)>유럽</Case></Switch>에 거주하는 분께 권장합니다.
+현재 선택된 데이터 센터는 <Switch(IntegerParameter(1))><Case(1)>일본</Case><Case(2)>북미</Case><Case(3)>유럽</Case></Switch>에 거주하는 분께 권장합니다.
 
 데이터센터에는 여러 서버가 속해 있습니다.
 이미 플레이할 서버를 고르셨다면 해당 서버가 속한 데이터센터를 선택하세요.","",""
@@ -1089,7 +1092,7 @@ int32,uint32,uint32,uint32,str,str,str
 818,0,0,0,"","",""
 819,0,0,0,"","",""
 820,0,0,0,"서버는 당신의 캐릭터가 활약할 세계 그 자체입니다.
-서버를 선택한 후에는 특별한 경우를 제외하고 변경하실 수 없습니다.
+캐릭터를 생성할 때 선택한 서버는 고향 서버로 설정되며, 특별한 경우를 제외하고 변경하실 수 없습니다.
 파이널판타지14를 친구와 함께 즐기고 싶으시다면
 같은 서버에 캐릭터를 생성하는 것이 좋습니다.
 
@@ -1138,7 +1141,8 @@ int32,uint32,uint32,uint32,str,str,str
 851,0,0,0,"UI나 소리 크기 같은 시스템 설정 내용과 캐릭터 공용 매크로 등, 클라이언트 전체에 적용되는 설정을 백업 서버에 저장합니다.
 ※ 플레이 환경에 따라 바뀔 수 있는 해상도를 포함한 그래픽 설정, 입력 장치 설정 등은 백업되지 않습니다.","",""
 852,0,0,0,"캐릭터 설정 내용, HUD 배열 정보, 단축키 및 장비세트 등 캐릭터마다 달라지는 설정을 백업 서버에 저장합니다.
-※ 아이템 정렬과 보유 상황 관련 데이터는 백업되지 않습니다.","",""
+※ 아이템 정렬과 보유 상황 관련 데이터는 백업되지 않습니다.<If(Equal(PlayerParameter(78),99))>
+※리모트 플레이 시의 설정은 HUD 위치 및 크기에 한해 저장됩니다.<Else/></If>","",""
 853,0,0,0,"","",""
 854,0,0,0,"","",""
 855,0,0,0,"무료 체험판에서는 이용할 수 없는 기능입니다.","",""
@@ -1170,7 +1174,7 @@ int32,uint32,uint32,uint32,str,str,str
 878,0,0,0,"초기 설정의 데이터입니다.","",""
 879,0,0,0,"현재 업로드할 수 없습니다.","",""
 880,0,0,0,"현재 백업 기능 정지 중입니다.","",""
-881,0,0,0,"<Highlight>StringParameter(1)</Highlight><Highlight>StringParameter(2)</Highlight>에 <Highlight>StringParameter(3)</Highlight><Highlight>StringParameter(4)</Highlight>의 캐릭터 설정 데이터를 적용하시겠습니까?","",""
+881,0,0,0,"<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>에 <Highlight>StringParameter(3)</Highlight><Gui(88)/><Highlight>StringParameter(4)</Highlight>의 캐릭터 설정 데이터를 적용하시겠습니까?","",""
 882,0,0,0,"다른 캐릭터의 캐릭터 설정 백업 데이터가 없습니다.","",""
 883,0,0,0,"참조","",""
 884,0,0,0,"데이터 준비 완료","",""
@@ -1179,9 +1183,9 @@ int32,uint32,uint32,uint32,str,str,str
 887,0,0,0,"백업 데이터를 업로드하고 있습니다.","",""
 888,0,0,0,"백업 데이터를 <UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>클라이언트 설정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 적용했습니다.","",""
 889,0,0,0,"클라이언트 설정 데이터를 서버에 저장했습니다.","",""
-890,0,0,0,"백업 데이터를 <Highlight>StringParameter(1)</Highlight><Highlight>StringParameter(2)</Highlight>에 적용했습니다.","",""
-891,0,0,0,"<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>의 캐릭터 설정 데이터를
-서버에 저장했습니다.
+890,0,0,0,"백업 데이터를 <Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>에 적용했습니다.
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ 소리 설정 등 시스템 설정도 적용하길 원하시는 경우, 클라이언트 설정 데이터 백업 기능을 이용하시기 바랍니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+891,0,0,0,"<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>의 캐릭터 설정 데이터를 서버에 저장했습니다.
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ 소리 설정 등 시스템 설정 백업을 원하시는 경우, 클라이언트 설정 데이터 백업 기능을 이용하시기 바랍니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 892,0,0,0,"설정 데이터가 부족하여 백업 처리를 실행할 수 없습니다.
 캐릭터가 정상적으로 접속 가능한지 확인한 다음 다시 시도하십시오.","",""
@@ -1244,13 +1248,13 @@ int32,uint32,uint32,uint32,str,str,str
 938,0,0,0,"","",""
 939,0,0,0,"","",""
 940,0,0,0,"복원","",""
-941,0,0,0,"매크로 복원","",""
+941,0,0,0,"<If(Equal(PlayerParameter(78),99))>설정<Else/>매크로</If> 복원","",""
 942,0,0,0,"설정 복원","",""
-943,0,0,0,"공용 매크로 복원","",""
+943,0,0,0,"<If(Equal(PlayerParameter(78),99))>클라이언트 설정<Else/>공용 매크로</If> 복원","",""
 944,0,0,0,"","",""
-945,0,0,0,"복원 대상: 클라이언트 설정 데이터 중 공용 매크로 100개","",""
+945,0,0,0,"복원 대상: 클라이언트 설정 데이터<If(Equal(PlayerParameter(78),99))><Else/> 중 공용 매크로 100개</If>","",""
 946,0,0,0,"클라이언트 설정 데이터 다운로드 중에 문제가 발생한 경우,
-공용 매크로를 다운로드 전의 데이터로 복원할 수 있습니다.
+<If(Equal(PlayerParameter(78),99))><Else/>공용 매크로 설정 데이터를 </If>다운로드 전의 데이터로 복원할 수 있습니다.
 복원할 데이터를 선택하십시오.","",""
 947,0,0,0,"서버에 백업된 데이터를 다운로드할 경우, 자동으로 복원용 데이터가 최대 10개까지 생성됩니다.
 현재 복원용 데이터가 없습니다.","",""
@@ -1263,17 +1267,17 @@ int32,uint32,uint32,uint32,str,str,str
 복원할 데이터를 선택하십시오.","",""
 953,0,0,0,"서버에 백업된 데이터를 다운로드할 경우, 자동으로 복원용 데이터가 최대 10개까지 생성됩니다.
 현재 복원용 데이터가 없습니다.","",""
-954,0,0,0,"공용 매크로를 <Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>의 데이터로 복원하시겠습니까?","",""
+954,0,0,0,"<If(Equal(PlayerParameter(78),99))>클라이언트 설정을<Else/>공용 매크로를</If> <Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>의 데이터로 복원하시겠습니까?","",""
 955,0,0,0,"캐릭터 설정을 <Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>의 데이터로 복원하시겠습니까?","",""
-956,0,0,0,"공용 매크로를 복원했습니다.","",""
-957,0,0,0,"공용 매크로를 복원하지 못했습니다.","",""
+956,0,0,0,"<If(Equal(PlayerParameter(78),99))>클라이언트 설정을<Else/>공용 매크로를</If> 복원했습니다.","",""
+957,0,0,0,"<If(Equal(PlayerParameter(78),99))>클라이언트 설정을<Else/>공용 매크로를</If> 복원하지 못했습니다.","",""
 958,0,0,0,"캐릭터 설정을 복원했습니다.","",""
 959,0,0,0,"캐릭터 설정을 복원하지 못했습니다.","",""
 960,0,0,0,"백업된 데이터에 문제가 있어 다운로드할 수 없습니다.","",""
 961,0,0,0,"손상됨","",""
 962,0,0,0,"캐릭터 설정 및 클라이언트 설정 정보를 서버에 백업하는 기능이 추가되었습니다.
-다양한 환경에서 시스템이 정상적으로 작동하는지 확인하기 위해, 현재 베타 버전으로 운용되고 있으며 Windows®에서만 이용하실 수 있습니다.
-백업 기능을 이용하기 전에 설정 파일을 따로 저장해두실 것을 권장드립니다. 게임이 설치된 폴더에서 직접 복사하거나, 런처의 '설정' 메뉴에서 '백업'을 선택하십시오.","",""
+다양한 환경에서 시스템이 정상적으로 작동하는지 확인하기 위해, 현재 베타 버전으로 운용되고 있습니다.
+백업 기능을 이용하기 전에 <If(Equal(PlayerParameter(78),99))>저장 데이터를<Else/>설정 파일을</If> 따로 보존하실 것을 권장드립니다.<If(Equal(PlayerParameter(78),99))><Else/>게임이 설치된 폴더에서 직접 복사하거나, 런처의 '설정' 메뉴에서 '백업'을 선택하십시오.</If>","",""
 963,0,0,0,"베타 버전을 이용합니다.","",""
 964,0,0,0,"계속하기","",""
 965,0,0,0,"돌아가기","",""
@@ -1283,8 +1287,8 @@ int32,uint32,uint32,uint32,str,str,str
 969,0,0,0,"선택한 데이터로 복원하지 못했습니다.","",""
 970,0,0,0,"선택한 데이터의 복원 준비에 실패했습니다.","",""
 971,0,0,0,"선택한 데이터의 복원 작업에 실패했습니다.","",""
-972,0,0,0,"","",""
-973,0,0,0,"","",""
+972,0,0,0,"현재 Windows®/Mac과 PlayStation®4의 백업 데이터는 호환되지 않습니다.","",""
+973,0,0,0,"복원 데이터를 검색하고 있습니다.","",""
 974,0,0,0,"","",""
 975,0,0,0,"","",""
 976,0,0,0,"","",""
@@ -2347,7 +2351,7 @@ int32,uint32,uint32,uint32,str,str,str
 2018,0,0,0,"수호신","",""
 2019,0,0,0,"직업","",""
 2020,0,0,0,"현재 위치","",""
-2021,0,0,0,"서버","",""
+2021,0,0,0,"서버 텔레포","",""
 2022,0,0,0,"","",""
 2023,0,0,0,"","",""
 2024,0,0,0,"","",""

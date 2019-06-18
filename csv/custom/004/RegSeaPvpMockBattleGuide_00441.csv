@@ -70,10 +70,9 @@ int32,str,str
 37,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_120","단, '억압자'는 '팀 전체'에서 동시에 '2대'까지만
 탑승할 수 있습니다."
 38,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_121","또한 '포악한 심판자'는
-아군의 '탑'이 파괴된 후에만 탑승할 수 있습니다.
-따라서, 한 번의 시합에서 최대 2대까지 탑승할 수 있습니다. "
-39,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_122","'포악한 심판자'의 탑승권은 파티 단위가 아니라
-팀 전체가 공유합니다."
+아군의 '탑'이 파괴된 후에만 탑승할 수 있습니다."
+39,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_122","'포악한 심판자'에 '팀 전체'가 동시에 탑승할 수 있는 대수는
+파괴된 '탑'의 수와 같습니다."
 40,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_130","'기공병기'는 강력하지만 연료 없으면 안 움직인다~
 움직이게 하려면 '청린수' 모아서 사용해야 탑승 가능~!"
 41,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_135","'기공병기'에 탑승하려면 '청린수'가 필요합니다.
@@ -100,14 +99,13 @@ int32,str,str
 적극적으로 거침없이 적을 공격해라~!"
 51,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_165","'기세'란, 적 팀 플레이어를 쓰러뜨리면
 파티에 부여되는 강화 효과입니다."
-52,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_166","기세는 최대 10까지 중첩되며,
-중첩 수에 비례하여 주는 피해량과 회복마법 회복량이 증가합니다."
-53,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_167","'기세'는 파티 단위로 증가 또는 감소합니다.
-파티원이 적 플레이어를 처치하면 증가하고,
-파티원이 적 플레이어에게 쓰러지면 감소합니다."
-54,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_168","또한 기세가 중첩된 상태에서 전투 불능이 되면
-중첩 수의 반을 잃고, 잃은 만큼의 중첩 수가
-처치한 파티에게 부여됩니다."
+52,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_166","기세는 최대 20까지 중첩되며,
+중첩 수에 비례하여 주는 피해량과 회복량이 증가합니다."
+53,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_167","또한 최대 중첩 수 '20'에 달하게 되면
+'기세 최고조'라는 상태로 바뀌면서
+보다 강력한 효과가 부여됩니다."
+54,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_168","'기세'는 파티원이 적 플레이어를 처치하거나
+'탑'을 파괴하면 파티 단위로 증가합니다."
 55,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SYSTEM_000_169","（★未使用／削除予定★）"
 56,"TEXT_REGSEAPVPMOCKBATTLEGUIDE_00441_SOFTKNOX_000_200","슈우우…… 슈우우……
 시합에서 이기면 보상이 두둑하다~!
