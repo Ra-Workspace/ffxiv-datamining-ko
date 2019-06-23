@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
-#,,,,,,,,,,,,,,,,,
-int32,uint32,str,str,str,str,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint16,uint16,bool,bool
+#,ENpc[Name],Objective,Description{1},Description{2},Description{3},CompletionBonusExp,RewardExp,CompletionBonusGil,RewardGil,,,,,,,,
+int32,ENpcResident,str,str,str,str,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint32,uint16,uint16,bool,bool
 0,0,"","","","",0,0,0,0,0,0,0,0,0,0,False,False
 1,1004746,"적의 시야에 주의하며 마물을 섬멸하라!","같은 집단에 속한 마물은 링크하여 공격해온다.
 동시에 공격당하지 않도록 적의 시야에 주의하라!
