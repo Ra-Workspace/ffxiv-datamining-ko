@@ -304,7 +304,7 @@ int32,str
 99,"20초 동안 자신의 민첩성이 15% 증가하고 모든 공격이 반드시 명중합니다."
 100,"대상에게 물리 공격을 가하고 18초 동안 독 지속 피해를 줍니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>:40"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 40"
 101,"20초 동안 자신이 주는 피해량이 10% 증가합니다."
 102,"지정한 범위 안의 적에게 30초 동안 불속성 지속 피해를 줍니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 40"
@@ -340,7 +340,7 @@ int32,str
 115,"자신 주변의 적이 받는 피해량을 3% 증가시킵니다.
 효과가 지속되는 동안 MP를 지속적으로 소비합니다.
 재사용 시 또는 MP 부족 시 해제됩니다."
-116,"대상에게 무속성 마법 피해를 주고,30초 동안 주위 20m 이내에 있는 파티원의 극대화 발동률을 2% 증가시킵니다.
+116,"대상에게 무속성 마법 피해를 주고, 30초 동안 주위 20m 이내에 있는 파티원의 극대화 발동률을 2% 증가시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 부여한 <If(GreaterThanOrEqualTo(PlayerParameter(72),64))><If(Equal(PlayerParameter(68),23))>맹독 화살 또는 폭풍 화살<Else/>독화살 또는 바람 화살</If><Else/>독화살 또는 바람 화살</If>의 지속 피해가 극대화되면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>시상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 4중첩)이 발생하며, 시상 하나당 자신의 자동 공격 주기와 무기 기술 및 마법 시전 시간과 재사용 대기 시간이 4%씩 단축됩니다.
 고유 재사용 대기 시간이 적용됩니다."
@@ -8596,7 +8596,7 @@ HQ 획득률을 올려주는 다른 기술과 함께 사용할 수 없습니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 55"
 7408,"자신 또는 파티원 1명을 대상으로, 15초 동안 받는 회복마법의 효과를 20% 증가시킵니다."
 7409,"대상에게 물리 공격을 가합니다.
- <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>직선 사격 효과 향상<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 발동 중"
 7410,"대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>열기 49 이하 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 150
@@ -12168,7 +12168,7 @@ PvP 지역에서는 은신술의 이동 속도 저하 효과에 영향받지 않
 공격 범위는 30m이며, 착탄 지점에서 멀어질수록 위력이 감소합니다.
 또한 공격 대상에 따라 위력이 변화합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>플레이어/기공병기/자동인형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 5000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>시설<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2500000"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>시설<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 250000"
 9976,""
 9977,"자기 주위의 적에게 범위 공격을 가하고 15m 밀쳐냅니다.
 공격 대상에 따라 위력이 변화합니다.
@@ -16878,12 +16878,29 @@ PvP 지역에서는 은신술의 이동 속도 저하 효과에 영향받지 않
 14473,""
 14474,""
 14475,""
-14476,""
-14477,""
-14478,""
-14479,""
-14480,""
-14481,""
+14476,"자신의 반경 15m 안에 숨겨진 함정을 발견합니다.
+반경 15m 안에 함정이 없으면 반경 36m 안에 함정이 설치되어 있는지를 알려줍니다.
+이 로고스 기술은 던전 안에서만 효과가 발휘됩니다."
+14477,"자신이 주는 마법 피해량이 35% 증가하며, 마법 방어력이 1000 증가하고, 마법 시전 시 MP 소비량이 감소합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+14478,"자신이 주는 물리 피해량이 40% 증가하며, 최대 HP가 15% 증가하고, 무기 기술 사용 시 TP 소비량이 감소합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+14479,"자신이 주는 물리 피해량이 25% 증가하고, 회피율이 25% 증가합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+14480,"자신의 방어력이 2000 증가합니다.
+효과 적용 중에 자신의 최대 HP의 50% 이상 피해를 주는 단일 공격을 받으면 '최대 HP 증가' 효과가 1단계 중첩됩니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기억 계열 기술은 한 번에 하나만 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무용 기술을 재설정하거나 재사용하면 해제됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
+14481,"대상의 HP를 모두 회복하고, 전투불능일 경우 부활시킵니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 10초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>죽음의 선고<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>죽음의 선고<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태가 아닐 때"
 14482,""
 14483,""
 14484,""

@@ -62,7 +62,7 @@ int32,str,str
 퀘스트 포기는 신중하게 결정하십시오."
 25,"TEXT_REGFSTIXALSUPPLY_00205_SYSTEM_100_092","날짜가 바뀌면 '납품 의뢰 목록' 내용도 갱신됩니다.
 퀘스트를 받은 채 다음 날로 넘어간 경우에는 주의하십시오.
-목록은 현실 시간으로 매일 <Time(1285081200)/><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신됩니다."
+목록은 현실 시간으로 매일 <ResetTime>01</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신됩니다."
 26,"TEXT_REGFSTIXALSUPPLY_00205_PROCUREMENTIXAL_100_110","아 그렇지, 기억해둬라 키잇!
 정말 필요한 물건을 구해오거나 아주 열심히 일한 녀석한테는
 그만한 보수가 주어질 거다 키잇!"

@@ -3591,24 +3591,21 @@ int32,str
 진행도: <Value>IntegerParameter(2)</Value>%"
 3923,"침공 목표 지점"
 3940,"사용자 정의"
-3941,"최고품질"
-3942,"고품질(데스크톱 PC)"
+3941,"<If(Equal(PlayerParameter(78),3))>최고 품질(Mac)<Else/>최고 품질</If>"
+3942,"<If(Equal(PlayerParameter(78),3))>특 고품질(Mac)<Else/>고품질(데스크톱 PC)</If>"
 3943,"<If(Equal(PlayerParameter(78),3))>고품질(Mac)<Else/>고품질(노트북 PC)</If>"
 3944,"<If(Equal(PlayerParameter(78),3))>중상 품질(Mac)<Else/>표준 품질(데스크톱 PC)</If>"
 3945,"<If(Equal(PlayerParameter(78),3))>표준 품질(Mac)<Else/>표준 품질(노트북 PC)</If>"
 3950,"사용자가 정의한 설정입니다."
-3951,"최고 한도의 품질로 영상을 표현합니다.
-※ 높은 시스템 사양이 필요합니다."
-3952,"권장 사양에서 고품질로 영상을 표현합니다.
-※ 데스크톱 PC를 위한 설정입니다"
-3953,"<If(Equal(PlayerParameter(78),3))>높은 사양에서 고품질로 영상을 표현합니다.
-※ 2014년 하반기 이후 출시된 고사양 제품용 설정입니다.<Else/>권장 사양에서 고품질로 영상을 표현합니다.
+3951,"<If(Equal(PlayerParameter(78),3))>최고 한도의 품질로 영상을 표현합니다.<Else/>최고 한도의 품질로 영상을 표현합니다.
+※ 높은 시스템 사양이 필요합니다.</If>"
+3952,"<If(Equal(PlayerParameter(78),3))>높은 사양에서 더욱 고품질로 영상을 표현합니다.<Else/>권장 사양에서 고품질로 영상을 표현합니다.
+※ 데스크톱 PC를 위한 설정입니다.</If>"
+3953,"<If(Equal(PlayerParameter(78),3))>높은 사양에서 고품질로 영상을 표현합니다.<Else/>권장 사양에서 고품질로 영상을 표현합니다.
 ※ 노트북 PC용 설정입니다.</If>"
-3954,"<If(Equal(PlayerParameter(78),3))>최소 사양에서 비교적 고품질 영상으로 플레이합니다.
-※ 2013년 하반기 이후 출시된 제품을 위한 설정입니다.<Else/>최소 사양에서 플레이하기에 최적화된 그래픽 품질입니다.
+3954,"<If(Equal(PlayerParameter(78),3))>최소 사양에서 비교적 고품질 영상으로 플레이합니다.<Else/>최소 사양에서 플레이하기에 최적화된 그래픽 품질입니다.
 ※ 데스크톱 PC용 설정입니다.</If>"
-3955,"<If(Equal(PlayerParameter(78),3))>최소 사양에서 플레이하기에 최적화된 그래픽 품질입니다.
-※ 2013년 하반기 이후 출시된 제품을 위한 설정입니다.<Else/>최소 사양에서 플레이하기에 최적화된 그래픽 품질입니다.
+3955,"<If(Equal(PlayerParameter(78),3))>최소 사양에서 플레이하기에 최적화된 그래픽 품질입니다.<Else/>최소 사양에서 플레이하기에 최적화된 그래픽 품질입니다.
 ※ 노트북 PC용 설정입니다.</If>"
 3960,"고품질"
 3961,"표준품질"
@@ -6103,7 +6100,7 @@ PvP 시스템이나 대결 규칙에 대해서는
 6596,"재출항"
 6597,"완료"
 6598,"■ <If(Equal(IntegerParameter(1),0))><Else/><ZeroPaddedValue(2)>IntegerParameter(1)</ZeroPaddedValue>시간 </If><ZeroPaddedValue(2)>IntegerParameter(2)</ZeroPaddedValue>분 경과  --------------------------------------------------------------------------------------------------"
-6600,"비공정 탐사"
+6600,"탐사 상세 정보"
 6601,""
 6602,"탐사"
 6603,"총 탐사"
@@ -6828,7 +6825,7 @@ PvP 시스템이나 대결 규칙에 대해서는
 7683,"임무 정보 표시"
 7684,"임무 정보 표시 중에는 할 일 목록 숨기기"
 7685,"약화 및 강화 효과 표시 방식"
-7686,"비행 및 잠수 시 캐릭터 고정 방식으로 이동"
+7686,"자동 비행 및 자동 잠수 시 캐릭터 고정 방식으로 이동"
 7687,"이동 후 지도 활성화 설정"
 7688,"연합 파티 목록 1 표시"
 7689,"연합 파티 목록 2 표시"
@@ -9617,6 +9614,7 @@ MGP는 반환되지 않습니다."
 관전 파티: 0~8인"
 10828,"출전 가능한 초코보 등록"
 10829,"※ 리미티드 잡은 미리 구성된 파티 또는 인원수 제한이 해제된 파티로 허가된 임무에 참가할 수 있습니다."
+10830,"고향 서버에서 참가 신청"
 10831,"초단 이상"
 10832,"일시적으로 봉쇄된 임무입니다."
 10850,"결투 신청"
@@ -9998,6 +9996,10 @@ MGP는 반환되지 않습니다."
 11313,"결정"
 11314,"취소"
 11315,"삭제된 악기 연주 기술"
+11316,"지원물자: 고블린식 왕창세트"
+11317,"지원물자: 고블린탱크 인증 열쇠"
+11318,"지원물자: 대용량 청린수 탱크"
+11319,"지원물자: 고블린식 흥분제"
 11320,"A"
 11321,"B"
 11322,"C"
@@ -10038,14 +10040,19 @@ MGP는 반환되지 않습니다."
 11356,"<Highlight>StringParameter(1)</Highlight> 승리!"
 11357,"연합 파티"
 11358,"청린수 획득량"
+11359,"<If(Equal(IntegerParameter(1),0))> 전장 북부<Else/>전장 남부</If>로 출격 준비 중입니다!"
 11360,"K: 적을 쓰러뜨린 횟수"
 11361,"D: 전투불능이 된 횟수"
 11362,"A: 적 처치에 관여한 횟수"
+11363,"<If(Equal(IntegerParameter(1),0))> 전장 북부<Else/>전장 남부</If>에서 대기 중입니다!"
 11364,"탑 1"
 11365,"탑 2"
 11366,"중추"
+11367,"청린기관차 주행 중"
 11368,"승급전 발생 중!"
 11369,"<If(Equal(IntegerParameter(1),0))>승급까지<Else/>승급전 발생까지</If>"
+11370,"중추 부근에서 '고블린탱크'가 출격합니다.
+팀 전체의 '아드레날린', '청린수', '기세'가 증가합니다."
 11371,"팀"
 11372,"<Switch(IntegerParameter(1))><Case(1)>보라매탑</Case><Case(2)>까마귀탑</Case></Switch><Value>IntegerParameter(3)</Value>
 남은 내구력: <Value>IntegerParameter(2)</Value>%"
@@ -10053,12 +10060,23 @@ MGP는 반환되지 않습니다."
 남은 내구력: <Value>IntegerParameter(2)</Value>%"
 11374,"자원 공급기
 <Switch(IntegerParameter(1))><Case(1)>보라매 점령 중</Case><Case(2)>까마귀 점령 중</Case><Case(3)>중립</Case></Switch>"
+11375,"고블린 용병<Switch(IntegerParameter(1))><Case(1)>
+대기 중</Case><Case(2)>
+전투 중</Case><Case(3)>
+출격 준비 중 <Value>IntegerParameter(2)</Value>:<TwoDigitValue>IntegerParameter(3)</TwoDigitValue></Case></Switch>"
+11376,"간이역
+<Switch(IntegerParameter(1))><Case(1)>보라매 팀 점령 중</Case><Case(2)>까마귀 팀 점령 중</Case><Case(3)>미점령 상태</Case><Case(4)>청린기관차 출현 <Value>IntegerParameter(2)</Value>분 <TwoDigitValue>IntegerParameter(3)</TwoDigitValue>초 전</Case></Switch>"
+11377,"까마귀 팀과 용병 계약 중"
 11378,"탑승할 기공병기를 선택하십시오.
 ※ 파티당 1명만 탑승할 수 있습니다."
 11379,"청린수"
 11380,"탑승 가능 수: <Value>IntegerParameter(1)</Value>"
 11381,"※ 연합 파티는 탑승 가능 수를 공유합니다."
 11382,"기공병기 탑승"
+11383,"중추 부근에서 '고블린탱크'가 출격합니다.
+팀 전체의 '기세'가 증가합니다."
+11384,"팀 전체의 '청린수', '기세'가 증가합니다."
+11385,"팀 전체의 '아드레날린', '기세'가 증가합니다."
 11386,"아래 이유로 탑승할 수 없습니다."
 11387,"다른 파티원이 이미 탑승"
 11388,"청린수 부족"
@@ -10072,6 +10090,8 @@ MGP는 반환되지 않습니다."
 11395,"총 승리 횟수:"
 11396,"주간 시합 횟수:"
 11397,"주간 승리 횟수:"
+11398,"보라매 팀과 용병 계약 중"
+11399,"<If(Equal(IntegerParameter(1),0))>북쪽 지역<Else/>남쪽 지역</If>에서 교전 중!"
 11400,"과욕의 함정"
 11401,""
 11402,"획득한 보물"
@@ -10347,6 +10367,7 @@ MGP는 반환되지 않습니다."
   ·<Sheet(Action,IntegerParameter(2),0)/><Else/></If>"
 11684,"던전 공략 중"
 11685,"우선 표시"
+11686,"+<Value>IntegerParameter(1)</Value>"
 11687,"마정반을 공격 속성으로 설정"
 11688,"마정반을 방어 속성으로 설정"
 11689,"체인"
@@ -10487,7 +10508,7 @@ PvP팀에 가입하시겠습니까?"
 11802,"앞으로"
 11803,"평점"
 11804,"순위 보기"
-11805,"http://www.ff14.co.kr/ranking/thefeast"
+11805,"http://www.ff14.co.kr/ranking/thefeast/championship/"
 11806,"공식 홈페이지에서 순위 공개 중!
 <Highlight>StringParameter(1)</Highlight>"
 11807,"스마트폰으로 코드를 읽으면 공식 홈페이지 내 더 피스트 순위 페이지에 접속할 수 있습니다."
@@ -10547,9 +10568,9 @@ PvP팀 등록에 동의하십니까?"
 11856,"'<Highlight>StringParameter(1)</Highlight>' 팀에 패배했습니다."
 11857,"'<Highlight>StringParameter(1)</Highlight>' 팀과 승부가 나지 않았습니다."
 11858,"새로운 시즌이 시작되었습니다."
-11859,"'(해체된 팀)'에 승리했습니다."
-11860,"'(해체된 팀)'에 패배했습니다."
-11861,"'(해체된 팀)'과 승부가 나지 않았습니다."
+11859,"'(미확인)' 팀에 승리했습니다."
+11860,"'(미확인)' 팀에 패배했습니다."
+11861,"'(미확인)' 팀과 승부가 나지 않았습니다."
 11870,"PvP 일정"
 11871,""
 11872,"'더 피스트 (등급전)'에 참가 신청 가능한 시간을 확인할 수 있습니다."
@@ -10571,6 +10592,7 @@ PvP팀 등록에 동의하십니까?"
 11888,"참가 신청 가능 시간"
 11889,"참가 신청 가능 시간"
 11890,"<Highlight>StringParameter(1)</Highlight> , <If(GreaterThanOrEqualTo(IntegerParameter(2),25))>～<Value>IntegerParameter(3)</Value>:<ZeroPaddedValue(2)>IntegerParameter(5)</ZeroPaddedValue><Else/><If(GreaterThanOrEqualTo(IntegerParameter(3),25))><Value>IntegerParameter(2)</Value>:<ZeroPaddedValue(2)>IntegerParameter(4)</ZeroPaddedValue>～<Else/><Value>IntegerParameter(2)</Value>:<ZeroPaddedValue(2)>IntegerParameter(4)</ZeroPaddedValue>～<Value>IntegerParameter(3)</Value>:<ZeroPaddedValue(2)>IntegerParameter(5)</ZeroPaddedValue></If></If>"
+11892,"고블린 용병 출격 준비 중……"
 11900,"현재 장비에 투영하기"
 11901,"오른쪽 손가락 장비에 투영하기"
 11902,"왼쪽 손가락 장비에 투영하기"
@@ -11141,6 +11163,84 @@ PvP팀 등록에 동의하십니까?"
 12507,"베기"
 12508,"찌르기"
 12509,"타격"
+12510,"서버 텔레포"
+12511,""
+12512,"나의 고향 서버"
+12513,"방문 가능한 서버"
+12514,"　　　　　　　　　　<UIForeground>F20202</UIForeground>《서버 텔레포에 대해서》<UIForeground>01</UIForeground>
+현재 거주 중인 고향 서버가 아닌 다른 서버를 방문할 수 있습니다.
+방문한 서버에서는 친구와 파티를 맺거나 물건을 사는 등 평소처럼 게임을 즐길 수 있습니다.
+
+　　　　　　　　　　<UIForeground>F20202</UIForeground>《신청 시 주의 사항》<UIForeground>01</UIForeground>
+선택한 서버의 혼잡 상황에 따라 이동에 시간이 걸릴 수 있습니다.
+서버 텔레포 준비가 끝나면 자동으로 이동되며, 하던 행동은 모두 취소됩니다.
+
+　　　　　　　　　　　<UIForeground>F20202</UIForeground>《이용 기능 제한》<UIForeground>01</UIForeground>
+다른 서버 방문 중에는 아래와 같은 기능이 제한되니 주의하십시오.
+
+<UIForeground>F20202</UIForeground>집사<UIForeground>01</UIForeground>
+　・집사를 불러내거나 고용 또는 해고할 수 없습니다.
+　・장터에 출품할 수 없습니다.(장터에서 구입할 수는 있습니다.)
+
+<UIForeground>F20202</UIForeground>자유부대<UIForeground>01</UIForeground>
+　・자유부대를 결성하거나 자유부대에 가입할 수 없습니다.
+　・소속된 자유부대의 정보를 확인할 수 없습니다.
+　・다른 서버에서 활동하면 부대 명성이 증가하지 않습니다.
+
+<UIForeground>F20202</UIForeground>링크셸<UIForeground>01</UIForeground>
+　・링크셸을 이용할 수 없습니다.
+　・링크셸 정보를 확인할 수 없습니다.
+　・링크셸을 결성하거나 링크셸에 가입할 수 없습니다.
+
+<UIForeground>F20202</UIForeground>하우징<UIForeground>01</UIForeground>
+　・토지 및 아파트를 구입할 수 없습니다.
+　・주택을 공유할 수 없습니다.
+
+<UIForeground>F20202</UIForeground>영원한 언약식<UIForeground>01</UIForeground>
+　・영원한 언약식은 고향 서버에서만 올릴 수 있습니다.
+　・영원한 언약식 퀘스트는 고향 서버에서만 수락할 수 있습니다.
+　・다른 서버의 플레이어에게 언약식 청첩장을 줄 수 없습니다.
+
+<UIForeground>F20202</UIForeground>임무 및 기타<UIForeground>01</UIForeground>
+　・'꼬마 친구 공방전' 대회에 참가할 수 없습니다.
+　・'트리플 트라이어드' 대회에 참가할 수 없습니다.
+　・'주간 복권'을 구입하거나 교환할 수 없습니다.
+　・'모그레터'를 이용할 수 없습니다.
+　・'딥 던전' 점수가 랭킹 대상에서 제외됩니다.
+　・'언약의 반지 텔레포' 및 에테라이트 진자 사용 후 '가까운 거점으로 텔레포'는
+    서로 같은 서버에 있을 때에만 실행할 수 있습니다.
+　・광부 및 원예가로 미지 혹은 전설의 채집터를 발견할 수 없습니다.
+"
+12515,"고향 서버"
+12516,"현재 서버"
+12517,"선택할 수 없는 서버입니다."
+12518,"서버 정보를 불러오는 중입니다."
+12519,"<Highlight>StringParameter(1)</Highlight> 서버에 방문하시겠습니까?"
+12520,"서버 텔레포 예약 신청 중"
+12521,"목적지: <Highlight>StringParameter(1)</Highlight>"
+12522,"전송 예약 순번:"
+12523,"경과 시간: <Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>/평균 대기 시간: "
+12524,"서버 텔레포"
+12525,""
+12526,"<Highlight>StringParameter(1)</Highlight>"
+12527,"<Highlight>StringParameter(1)</Highlight>"
+12528,"전송 예약 순번"
+12529,"경과 시간"
+12530,"평균 대기 시간"
+12531,"취소"
+12532,"<Value>IntegerParameter(1)</Value>번째"
+12533,"<Value>IntegerParameter(1)</Value>번째 이후"
+12534,"<Value>IntegerParameter(1)</Value>분"
+12535,"<Value>IntegerParameter(1)</Value>분 이상"
+12536,"<Value>IntegerParameter(1)</Value>분 미만"
+12537,"서버 텔레포"
+12538,"전송 준비가 완료되었습니다!"
+12539,"<Highlight>StringParameter(1)</Highlight>"
+12540,"<Highlight>StringParameter(1)</Highlight>"
+12541,"나그네"
+12542,"현재 서버"
+12543,"서버 정보"
+12544,"서버 목록"
 101000,"<CommandIcon(10)/>세부 메뉴"
 101001,"<CommandIcon(11)/>"
 101002,"<CommandIcon(19)/>선택"
@@ -11521,6 +11621,7 @@ PvP팀 등록에 동의하십니까?"
 '무료 즐겨찾기' 등록을 해제하고 일반 즐겨찾기에 등록하시겠습니까?"
 102337,"'무료 즐겨찾기'에 등록한 곳으로는 무료로 텔레포할 수 있습니다.
 이 에테라이트는 즐겨찾기로 설정되어 있으나, 기존 등록을 해제하고 '무료 즐겨찾기'로 변경하시겠습니까?"
+102338,"<Gui(69)/> 다른 서버 방문"
 102339,"지역을 이동하면 참가 신청이 취소됩니다.
 계속하시겠습니까?"
 102341,"달성 수"

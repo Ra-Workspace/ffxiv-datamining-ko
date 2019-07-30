@@ -29,7 +29,7 @@ int32,str,str
 다른 분야의 전문 장인이 되고 싶다면
 3개 증표 중 하나를 반납해야 한다."
 14,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_041","전문 장인의 변경은 일주일에 3번까지 가능합니다.
-이 권리는 현실 시간으로 <Time(460802)/> 매주 <Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일,
+이 권리는 현실 시간으로 <ResetTime>1203</ResetTime> 매주 <Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일,
 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다."
 15,"TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_TITLE","어느 클래스의 전문 장인의 증표를 반납하시겠습니까?"
 16,"TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_CLASS","<Sheet(ClassJob,IntegerParameter(1),0)/>"
@@ -50,7 +50,7 @@ int32,str,str
 한 번 길을 정했으면 쉽사리 포기하지는 않았으면 하네만.
 조금 더 지금 그 길을 걸어보는 건 어떤가?"
 24,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_091","전문 장인의 변경은 일주일에 3번까지 가능합니다.
-이 권리는 현실 시간으로 <Time(460802)/> 매주 <Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일,
+이 권리는 현실 시간으로 <ResetTime>1203</ResetTime> 매주 <Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일,
 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다."
 25,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_Q1_01","무엇을 물어보시겠습니까?"
 26,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_A1_01","'제작 전문화'란?"

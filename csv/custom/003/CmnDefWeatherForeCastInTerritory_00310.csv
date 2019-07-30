@@ -11,7 +11,8 @@ int32,str,str
 3,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_EUWATCHER_000_030","'에우레카'에서는 특정 날씨에만
 활동하는 것으로 확인된 마물도 있습니다.
 모험을 떠날 때에는 제 일기예보를 활용해 주세요!"
-4,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_EUWATCHER_100_030",""
+4,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_EUWATCHER_100_030","또한 '난령류'라 불리는 기후는
+언제 발생할지 예측할 수 없으므로 주의해 주세요."
 5,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_EUWATCHER_000_040","지금 날씨는 '<Sheet(Weather,IntegerParameter(2),1)/>'입니다…….
 <If(Equal(IntegerParameter(2),IntegerParameter(3)))><If(Equal(IntegerParameter(3),IntegerParameter(4)))>한동안 계속 같은 날씨일 겁니다.<Else/>당분간 같은 날씨가 계속되다 <Sheet(Weather,IntegerParameter(4),6)/>.</If><Else/><If(Equal(IntegerParameter(3),IntegerParameter(4)))>곧 날씨가 바뀌어 한동안 <Sheet(Weather,IntegerParameter(3),2)/>.<Else/>곧 날씨가 바뀌어 <Sheet(Weather,IntegerParameter(3),4)/> <Sheet(Weather,IntegerParameter(4),6)/>.</If></If>"
 6,"TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_000_000","（★未使用／削除予定★）"

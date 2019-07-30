@@ -8978,8 +8978,10 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,single,str
 7005,0,2,False,False,False,5,1,False,5,"단서는…… 없는 것 같고.
 적이 더 없는지 보고 올게."
 7006,0,2,False,False,False,3,5,False,1,"난 대체 뭘 하고 있는 거지…"
-7007,0,0,False,False,False,0,0,False,0,""
-7008,0,0,False,False,False,0,0,False,0,""
+7007,0,2,False,False,False,2,3,False,1,"슈우우, 슈우우……
+하, 항복이다 후퇴한다고브~!"
+7008,0,2,False,False,False,2,3,False,1,"슈우우, 슈우우……
+계약 만료 후퇴한다고브~!"
 7009,0,2,False,False,False,2,2,False,1,"길을 비켜라!"
 7010,0,2,False,False,False,2,2,False,1,"자, 간다!"
 7011,0,2,False,False,False,2,2,False,1,"에잇!"
@@ -9008,8 +9010,10 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,single,str
 7031,0,0,False,False,False,0,0,False,0,""
 7032,0,2,False,False,False,5,1,False,4,"<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 먼저 가라!
 저주검의 명예를 걸고, 이곳을 막아내겠다!"
-7033,0,0,False,False,False,0,0,False,0,""
-7034,0,0,False,False,False,0,0,False,0,""
+7033,0,2,False,False,False,2,3,False,1,"슈우우, 슈우우……
+보라매와 계약고브!"
+7034,0,2,False,False,False,2,3,False,1,"슈우우, 슈우우……
+까마귀와 계약고브!"
 7035,0,2,False,False,False,3,3,False,1,"잘했어!"
 7036,0,2,False,False,False,3,3,False,1,"오, 제법인데!"
 7037,0,2,False,False,False,3,3,False,1,"어때!?"
@@ -9088,23 +9092,32 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,single,str
 7096,0,2,False,False,False,5,1,False,4,"도마의 닌자를 얕보지 마라!"
 7097,0,2,False,False,False,5,1,False,4,"당신은 먼저 가서 지휘관을 쳐!
 여긴 우리가 맡을게!"
-7098,0,0,False,False,False,0,0,False,0,""
-7099,0,0,False,False,False,0,0,False,0,""
+7098,0,2,False,False,False,2,3,False,1,"슈우우, 슈우우……
+용병 등장…… 고용주 모집고브!"
+7099,0,2,False,False,False,2,5,False,1,"슈우우, 슈우우……
+출격 돌진 대활약고브~!"
 7100,0,2,False,False,False,5,1,False,4,"자폭 따위 내가 막아주지!"
 7101,0,2,False,False,False,5,1,False,4,"이 낌새는…
 자폭할 셈인가!?"
 7102,0,2,False,False,False,5,1,False,4,"폭발하기 전에!"
 7103,0,0,False,False,False,0,0,False,0,""
 7104,0,0,False,False,False,0,0,False,0,""
-7105,0,0,False,False,False,0,0,False,0,""
-7106,0,0,False,False,False,0,0,False,0,""
-7107,0,0,False,False,False,0,0,False,0,""
-7108,0,0,False,False,False,0,0,False,0,""
-7109,0,0,False,False,False,0,0,False,0,""
-7110,0,0,False,False,False,0,0,False,0,""
-7111,0,0,False,False,False,0,0,False,0,""
-7112,0,0,False,False,False,0,0,False,0,""
-7113,0,0,False,False,False,0,0,False,0,""
+7105,0,2,False,False,False,5,1,False,3,"킁킁…… 아아, 향기로운 피 냄새…….
+더 더, 신선한 피를 더 주려무나!"
+7106,0,2,False,False,False,5,1,False,3,"도망가지 말고, 내 사랑을 받아들이렴!
+기분 좋게 해줄게……."
+7107,0,2,False,False,False,5,1,False,3,"나는 신선한 피를 좋아하지만……
+내 피를 보는 건 참을 수 없어어어어어어어!"
+7108,0,2,False,False,False,5,1,False,3,"사장님! 이쪽 물건은 어떠셔?
+가까이서 한번 보셔. 파괴력이 끝내주셔!"
+7109,0,2,False,False,False,5,1,False,3,"사장님! 이 물건은 말이셔,
+조금 멀리 있어야 더 매력적이셔!"
+7110,0,2,False,False,False,5,1,False,3,"사장님! 일시불로 내셔!
+못 내겠으면 목숨으로 내셔!"
+7111,0,2,False,False,False,5,1,False,3,"사장님! 땡처리 시작이셔!
+대출혈 서비스니까…… 피를 흘려주셔!"
+7112,0,2,False,False,False,5,1,False,3,"쉬이이이이이이이익……"
+7113,0,2,False,False,False,5,1,False,3,"그르르르르르르르르……"
 7114,0,2,False,False,False,3,8,True,1,"불길한 에테르가 마구 느껴져쿠뽀!"
 7115,0,2,False,False,False,3,8,True,1,"돌격하긴 너무 위험해쿠뽀!
 지원군을 부르자쿠뽀!!"
@@ -9181,14 +9194,16 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,single,str
 7175,0,2,False,False,False,2,2,False,1,"기사의 의지를 보아라!"
 7176,0,2,False,False,False,2,2,False,1,"길을 비켜라!"
 7177,0,2,False,False,False,2,2,False,1,"집중 공격이다!"
-7178,0,0,False,False,False,0,0,False,0,""
-7179,0,0,False,False,False,0,0,False,0,""
-7180,0,0,False,False,False,0,0,False,0,""
-7181,0,0,False,False,False,0,0,False,0,""
-7182,0,0,False,False,False,0,0,False,0,""
-7183,0,0,False,False,False,0,0,False,0,""
-7184,0,0,False,False,False,0,0,False,0,""
-7185,0,0,False,False,False,0,0,False,0,""
+7178,0,2,False,False,False,2,4,False,1,"구해줘…"
+7179,0,2,False,False,False,2,4,False,1,"도망가, 도망가…"
+7180,0,2,False,False,False,2,4,False,1,"죽고 싶지 않아…
+죽고 싶지 않다고…"
+7181,0,2,False,False,False,2,4,False,1,"아아아아아…"
+7182,0,2,False,False,False,2,4,False,1,"으아아아아…"
+7183,0,2,False,False,False,2,4,False,1,"뜨거워뜨거워뜨거워…"
+7184,0,2,False,False,False,5,1,False,3,"내 석화의 비술을 알려주마……!"
+7185,0,2,False,False,False,5,1,False,3,"자, 나의 권속들이여,
+석화의 비술로 어리석은 자들을 없애버려라!"
 7186,0,2,False,False,False,2,4,False,1,"물요정, 친구, 친구!"
 7187,0,2,False,False,False,2,4,False,1,"지금 짜증나는 문어라고 생각했지?
 미안, 미안해!"
@@ -9213,9 +9228,12 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,single,str
 7203,0,2,False,False,False,2,2,False,1,"여긴 제가 맡겠습니다!"
 7204,0,2,False,False,False,3,8,True,1,"마법진에서 성석이 내뿜는
 에테르가 느껴져쿠뽀!"
-7205,0,0,False,False,False,0,0,False,0,""
-7206,0,0,False,False,False,0,0,False,0,""
-7207,0,0,False,False,False,0,0,False,0,""
+7205,0,2,False,False,False,2,3,False,1,"루… 루루…
+물이여… 돌고 돌아라…"
+7206,0,2,False,False,False,2,3,False,1,"루루… 루… 루루…
+깨끗한 물…"
+7207,0,2,False,False,False,2,3,False,1,"루루루… 루루…
+신비로운 파랑…"
 7208,0,0,False,False,False,0,0,False,0,""
 7209,0,0,False,False,False,0,0,False,0,""
 7210,0,0,False,False,False,0,0,False,0,""
