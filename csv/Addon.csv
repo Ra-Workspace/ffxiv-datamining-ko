@@ -8848,10 +8848,8 @@ MGP는 반환되지 않습니다."
 10088,"※ 주간 보상이 지급되지 않은 경우에만 선택 가능"
 10089,"※ 연습할 페이즈 선택은 페이즈를 건너뛰는 기능이 아닙니다."
 10090,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 매칭 조건 중 '공략 완료'는 해당 임무를 완료한 적이 있어야만 선택할 수 있습니다.
-※ '완료 목적'은 주 제한 보상이 지급되지 않은 경우에만 선택할 수 있습니다.
 ※ 연습할 페이즈 선택은 페이즈를 건너뛰는 기능이 아닙니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ 참가 신청 중에 초기화 시각이 지나면 신청이 취소됩니다.
-※ 이번 주 공략을 이미 완료한 파티원이 1~4명인 경우 보물상자가 1개, 5명 이상인 경우 0개로 감소합니다."
+"
 10091,"선택 해제"
 10092,"참가"
 10093,"<If(Equal(IntegerParameter(1),IntegerParameter(2)))><Value>IntegerParameter(1)</Value>인용<Else/><Value>IntegerParameter(1)</Value>~<Value>IntegerParameter(2)</Value>인용</If><If(GreaterThan(IntegerParameter(2),1))>(방어: <Value>IntegerParameter(3)</Value> / 회복: <Value>IntegerParameter(4)</Value> / 근거리 공격: <Value>IntegerParameter(5)</Value> / 원거리 물리 공격: <Value>IntegerParameter(6)</Value> / 원거리 마법 공격: <Value>IntegerParameter(7)</Value> / 기타 공격: <Value>IntegerParameter(8)</Value>)<Else/></If>"
@@ -8921,7 +8919,12 @@ MGP는 반환되지 않습니다."
 10157,"레벨: <Value>IntegerParameter(1)</Value>"
 10158,"레이드 찾기 도움말"
 10159,""
-10160,"<UIForeground>F20202</UIForeground>진행도 기록<UIForeground>01</UIForeground>
+10160,"<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ 현재의 패치 버전에서는 '영웅' 레이드 임무에 아래의 변경 사항이 적용됩니다.
+・공략 완료 후 층별 공략 진행도가 기록되지 않습니다.
+・따라서 층 순서에 상관 없이 공략할 수 있습니다.
+・완료 인원에 상관없이 보물상자가 2개 출현하며, 아이템 획득 주 제한이 사라집니다. <UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>F20202</UIForeground>진행도 기록<UIForeground>01</UIForeground>
 최신 '영웅' 레이드 임무의 공략 진행도는
 특정 시점에 각 플레이어의 기록이 생성되며
 재입장 시 기록된 위치부터 이어서 공략할 수 있습니다.
@@ -8976,7 +8979,7 @@ MGP는 반환되지 않습니다."
 레이드 찾기와 임무 찾기를 이용할 수 없습니다.
 
 ※ 무작위 임무의 경우, 미리 구성된 파티로 참가했더라도
-  일정 시간 내에 퇴장하면 페널티가 부여됩니다."
+   일정 시간 내에 퇴장하면 페널티가 부여됩니다."
 10161,"닫기"
 10162,"총사령부에 소속될 것"
 10163,"파티원을 보충할 수 있는 임무에서, 인원 보충 중인 파티에 참가할지를 설정합니다. 이 설정은 임무 찾기를 통하지 않고 참가하는 매칭 임무에도 적용됩니다.
@@ -11639,14 +11642,18 @@ PvP팀 등록에 동의하십니까?"
 102402,"<Highlight>StringParameter(1)</Highlight>"
 102421,"'<Highlight>StringParameter(1)</Highlight>' 퀘스트의 전투를 시작하시겠습니까?
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 캐릭터 레벨이 <Sheet(QuestBattle,IntegerParameter(2),3)/><13>FF15022811FF0C5175657374426174746C65E8030403FF04EBA5BCFF04EC9D84</13> 넘으면
-<Sheet(QuestBattle,IntegerParameter(2),3)/> 레벨로 자동 조정됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 레벨 조율 대상 임무입니다.
+   지정 레벨을 초과하면 아래와 같이 자동 조율됩니다.
+    레벨 <Sheet(QuestBattle,IntegerParameter(2),3)/><If(GreaterThan(IntegerParameter(3),0))>
+   아이템 레벨 <Value>IntegerParameter(3)</Value><Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 102422,"예"
 102423,"아니요"
 102424,"'<Highlight>StringParameter(1)</Highlight>' 퀘스트의 전투를 시작하시겠습니까?
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 캐릭터 레벨이 <Value>IntegerParameter(2)</Value><13>FF07022003E80303FF04EBA5BCFF04EC9D84</13> 넘으면
-   <Value>IntegerParameter(2)</Value> 레벨로 자동 조정됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 레벨 조율 대상 임무입니다.
+   지정 레벨을 초과하면 아래와 같이 자동 조율됩니다.
+    레벨 <Value>IntegerParameter(2)</Value><If(GreaterThan(IntegerParameter(3),0))>
+   아이템 레벨 <Value>IntegerParameter(3)</Value><Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 102425,"예"
 102426,"아니요"
 102429,"현재 레벨이 '<Highlight>StringParameter(1)</Highlight>' 퀘스트의 권장 레벨보다 낮습니다.

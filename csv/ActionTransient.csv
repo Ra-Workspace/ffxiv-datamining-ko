@@ -17260,9 +17260,13 @@ PvP 지역에서는 은신술의 이동 속도 저하 효과에 영향받지 않
 14837,""
 14838,""
 14839,""
-14840,""
-14841,""
-14842,""
+14840,"대상에게 물리 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 180"
+14841,"대상에게 물리 공격을 가하고 30초 동안 지속 피해를 줍니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30"
+14842,"대상에게 신속하게 접근하여 물리 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100"
 14843,""
 14844,""
 14845,""
@@ -17795,7 +17799,8 @@ PvP 지역에서는 은신술의 이동 속도 저하 효과에 영향받지 않
 15372,""
 15373,""
 15374,""
-15375,""
+15375,"자신의 HP를 물리 공격력에 비례하여 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 500"
 15376,""
 15377,""
 15378,""
