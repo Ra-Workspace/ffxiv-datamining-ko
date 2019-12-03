@@ -1,0 +1,109 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_LUCKZA201_03375_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+모르드 수크의 게엔 겐은 모험가에게 아들 일을 부탁하고 싶은 모양이다."
+1,"TEXT_LUCKZA201_03375_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+　적용됩니다.
+
+게엔 겐과 대화했다. 그의 아들인 구운 군에게 휴식을 취하란 말을 전해달라고 부탁받았다. 아므 아랭의 상단 야영지 부근에 있는 '구운 군'과 대화하자."
+2,"TEXT_LUCKZA201_03375_SEQ_02","구운 군과 대화했다. 그가 빨리 휴식을 취할 수 있도록 그의 일을 돕기로 했다. 상단 야영지 부근의 '<Sheet(EObj,2010010,0)/>' 3곳을 조사하자."
+3,"TEXT_LUCKZA201_03375_SEQ_03","<Sheet(EObj,2010010,0)/><13>FF1002280CFF05454F626AF61EAB9A0103FF04EBA5BCFF04EC9D84</13> 조사하고 유물을 발견했다. 상단 야영지 부근의 '구운 군'에게 <Sheet(EventItem,2002584,0)/><13>FF15022811FF0A4576656E744974656DF61E8E980103FF04EBA5BCFF04EC9D84</13> 건네자."
+4,"TEXT_LUCKZA201_03375_SEQ_04","구운 군에게 <Sheet(EventItem,2002584,0)/><13>FF15022811FF0A4576656E744974656DF61E8E980103FF04EBA5BCFF04EC9D84</13> 건넸다. 그는 반지의 감정이 불가능하다며 사과한 후에 이번 노동의 대가로 약간의 보수를 주었다. 계속해서 그를 도와줘도 될 것 같다."
+5,"TEXT_LUCKZA201_03375_SEQ_05",""
+6,"TEXT_LUCKZA201_03375_SEQ_06",""
+7,"TEXT_LUCKZA201_03375_SEQ_07",""
+8,"TEXT_LUCKZA201_03375_SEQ_08",""
+9,"TEXT_LUCKZA201_03375_SEQ_09",""
+10,"TEXT_LUCKZA201_03375_SEQ_10",""
+11,"TEXT_LUCKZA201_03375_SEQ_11",""
+12,"TEXT_LUCKZA201_03375_SEQ_12",""
+13,"TEXT_LUCKZA201_03375_SEQ_13",""
+14,"TEXT_LUCKZA201_03375_SEQ_14",""
+15,"TEXT_LUCKZA201_03375_SEQ_15",""
+16,"TEXT_LUCKZA201_03375_SEQ_16",""
+17,"TEXT_LUCKZA201_03375_SEQ_17",""
+18,"TEXT_LUCKZA201_03375_SEQ_18",""
+19,"TEXT_LUCKZA201_03375_SEQ_19",""
+20,"TEXT_LUCKZA201_03375_SEQ_20",""
+21,"TEXT_LUCKZA201_03375_SEQ_21",""
+22,"TEXT_LUCKZA201_03375_SEQ_22",""
+23,"TEXT_LUCKZA201_03375_SEQ_23",""
+24,"TEXT_LUCKZA201_03375_TODO_00","구운 군과 대화"
+25,"TEXT_LUCKZA201_03375_TODO_01","<Sheet(EObj,2010010,0)/> 조사"
+26,"TEXT_LUCKZA201_03375_TODO_02","구운 군에게 <Sheet(EventItem,2002584,0)/> 전달"
+27,"TEXT_LUCKZA201_03375_TODO_03",""
+28,"TEXT_LUCKZA201_03375_TODO_04",""
+29,"TEXT_LUCKZA201_03375_TODO_05",""
+30,"TEXT_LUCKZA201_03375_TODO_06",""
+31,"TEXT_LUCKZA201_03375_TODO_07",""
+32,"TEXT_LUCKZA201_03375_TODO_08",""
+33,"TEXT_LUCKZA201_03375_TODO_09",""
+34,"TEXT_LUCKZA201_03375_TODO_10",""
+35,"TEXT_LUCKZA201_03375_TODO_11",""
+36,"TEXT_LUCKZA201_03375_TODO_12",""
+37,"TEXT_LUCKZA201_03375_TODO_13",""
+38,"TEXT_LUCKZA201_03375_TODO_14",""
+39,"TEXT_LUCKZA201_03375_TODO_15",""
+40,"TEXT_LUCKZA201_03375_TODO_16",""
+41,"TEXT_LUCKZA201_03375_TODO_17",""
+42,"TEXT_LUCKZA201_03375_TODO_18",""
+43,"TEXT_LUCKZA201_03375_TODO_19",""
+44,"TEXT_LUCKZA201_03375_TODO_20",""
+45,"TEXT_LUCKZA201_03375_TODO_21",""
+46,"TEXT_LUCKZA201_03375_TODO_22",""
+47,"TEXT_LUCKZA201_03375_TODO_23",""
+48,"TEXT_LUCKZA201_03375_GHENGEN_000_000","여행자, <Highlight>ObjectParameter(1)</Highlight>에게
+한 가지 부탁 이따!"
+49,"TEXT_LUCKZA201_03375_GHENGEN_000_001","내 아들, 구운 군,
+자랑 아니지망 진짜 일밖에 모릉다!"
+50,"TEXT_LUCKZA201_03375_GHENGEN_000_002","얼마나 일밖에 모르냐명……
+안 쉬고, 안 자고, 안 먹고 일해서 가끔씩 기절할 정도다!
+그래서 가족들 모두 걱정하고 이따!"
+51,"TEXT_LUCKZA201_03375_GHENGEN_000_003","지금도 상단 야영지 부근에서
+오로지 일에망 열중하고 이따!"
+52,"TEXT_LUCKZA201_03375_GHENGEN_000_004","<Highlight>ObjectParameter(1)</Highlight>, 근처에 가게 되명
+'구운 군'에게 좀 쉬라고 말해주명 조케따!
+잘 부탁한다!"
+53,"TEXT_LUCKZA201_03375_GHENGEN_000_010","혹시 상단 야영지 부근에 가게 되명
+'구운 군'에게 좀 쉬라고 말해주명 조케따!
+잘 부탁한다!"
+54,"TEXT_LUCKZA201_03375_GHUNGUN_000_020","일이다, 일이다, 즐겁따~♪
+계~속, 계~속 일만 하고 싶따~♪
+노동 망세 망망세~♪"
+55,"TEXT_LUCKZA201_03375_GHUNGUN_000_021","……어라, 너능 여행자?
+여기능 뭐하러 왔냐?"
+56,"TEXT_LUCKZA201_03375_GHUNGUN_000_022","어라라, 아버지가 보내따고?
+일부러 이런 곳까지 와 주다니
+고맙다."
+57,"TEXT_LUCKZA201_03375_GHUNGUN_000_023","그런데 미앙하지만
+쉬고 싶어도 쉴 수 업따!
+성과가 있을 때까지 노동응 멈출 수 업따!"
+58,"TEXT_LUCKZA201_03375_GHUNGUN_000_024","……하지만 너도 아버지 부탁으로 노동을 하고 이쓰니,
+내가 쉬지 않으명 네 성과를 빼앗게 된다…….
+그럼 내가 제안 하나 하게따!"
+59,"TEXT_LUCKZA201_03375_GHUNGUN_000_025","내 일을 조금망 도와줘라.
+그러명 빨리 성과 나서 나도 빨리 쉴 수 이따!"
+60,"TEXT_LUCKZA201_03375_GHUNGUN_000_026","부탁응 간단하다!
+저기 고물 더미 조사해서 가치 있능 물건 있으면 주워라!"
+61,"TEXT_LUCKZA201_03375_GHUNGUN_000_027","물롱 보수능 줄 거다!
+노동에능 대가가 있어야 하니까…… 그거 당연하다!
+그럼 잘 부탁한다!"
+62,"TEXT_LUCKZA201_03375_GHENGEN_000_030","구운 군을 돕기로 해따고?
+영문을 모르겠지망 아들 잘 부탁한다!"
+63,"TEXT_LUCKZA201_03375_GHUNGUN_000_031","부탁응 간단하다!
+이 근처 조사해서 가치 있능 물건 있으명 주워라!"
+64,"TEXT_LUCKZA201_03375_SYSTEM_000_040","특별히 아무것도 찾지 못했다……."
+65,"TEXT_LUCKZA201_03375_SYSTEM_000_050","<Sheet(EventItem,2002584,0)/><13>FF15022811FF0A4576656E744974656DF61E8E980103FF04EBA5BCFF04EC9D84</13> 발견했다!"
+66,"TEXT_LUCKZA201_03375_GHUNGUN_000_060","어라, 혹시 뭔가 찾아떠?
+그럼 나한태 보여줘라!"
+67,"TEXT_LUCKZA201_03375_GHUNGUN_000_061","오오, 아주 가치 있어 보이능 반지다!
+문양도 복잡하고 공들여 만들어따, 바로 알 수 이따!"
+68,"TEXT_LUCKZA201_03375_GHUNGUN_000_062","그런데…… 처음 보능 문양이라
+자세한 가치까지능 감정하지 못하게따……."
+69,"TEXT_LUCKZA201_03375_GHUNGUN_000_063","미안하다!
+이걸로능 네 노동에 알맞은 대가 줄 수 업따!
+노동을 중시하는 나로서능 너무나 안타깝따!"
+70,"TEXT_LUCKZA201_03375_GHUNGUN_000_064","그렇다고 아무것도 안 줄 수는 업따.
+일단 일시금 어느 정도 주게따.
+지금응 이거 받고 이해해줘라!"

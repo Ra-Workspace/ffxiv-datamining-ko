@@ -223,13 +223,13 @@ int32,str,str
 해당 총사령부의 관리 담당관에게 신청해주세요."
 100,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_96","마지막으로 이적한 지 얼마 안 지났군요.
 시간이 더 지난 후에 다시 방문해주세요."
-101,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_97","마지막 이적 후 7일(현실 시간)이 지나지 않으면
+101,"TEXT_COMDEFFREECOMPANY_00076_SYSTEM_000_97","마지막 이적 후 24시간(현실 시간)이 지나지 않으면
 다시 이적할 수 없습니다."
 102,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_98","부대를 이적하면 이전 총사령부와
 우호도는 떨어지지만 그 외의 능력치나
 자산, 권리, 상태 등은 유지됩니다."
 103,"TEXT_COMDEFFREECOMPANY_00076_FCOFFICER_000_99","한 번 이적한 다음에는
-7일(현실 시간)이 지나야 다시 이적할 수 있습니다."
+24시간(현실 시간)이 지나야 다시 이적할 수 있습니다."
 104,"TEXT_COMDEFFREECOMPANY_00076_Q5_01","이적비 15,000길을 지불하고
 <Switch(IntegerParameter(1))><Case(1)>흑와단으로</Case><Case(2)>쌍사당으로</Case><Case(3)>불멸대로</Case></Switch> 이적하시겠습니까?"
 105,"TEXT_COMDEFFREECOMPANY_00076_A5_01","예"

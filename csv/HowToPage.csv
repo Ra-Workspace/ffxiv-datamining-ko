@@ -331,14 +331,14 @@ int32,byte,byte,Image,byte,str,str,str
 149,0,0,0,0,"","",""
 150,1,0,150931,0,"적을 공격하고 싶을 때는 공격할 대상을 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>오른쪽 클릭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자동 공격<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 시작됩니다.
 
-자동 공격이 성공하려면 대상으로부터 일정 거리 안에 있어야 하며, 대상을 바라보아야 합니다.
+자동 공격이 성공하려면 대상으로부터 일정 거리 안에 있어야 합니다.
 
 자동 공격 중에는 대상의 머리 위에 자동 공격 중임을 나타내는 표시가 생깁니다.","",""
 151,1,0,150082,0,"화면에 표시된 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>단축바<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에는 전투 시에 사용할 수 있는 기술을 올려놓을 수 있습니다.
 
 단축바에 올려놓은 기술은 해당 아이콘을 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>클릭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하거나, 해당 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>단축키<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를누르면 실행할 수 있습니다.","",""
-152,1,0,150083,0,"기술을 실행하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>MP<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>TP<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 등을 소모합니다.
-또한 기술을 다시 한 번 사용하려면 일정 시간(<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>재사용 대기 시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)이 지나야 합니다.
+152,1,0,150083,0,"기술을 실행하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>MP<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 등의 자원을 소비합니다.
+또한 기술을 다시 한번 사용하려면 일정 시간(<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>재사용 대기 시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)이 지나야 합니다.
 
 각 기술의 효과는 기술 아이콘 위에 커서를 올리면 확인할 수 있습니다.","",""
 153,1,0,150084,0,"환술사나 궁술사처럼 원거리 공격을 주로 쓰는 클래스라면 적과 충분히 거리를 벌린 상태에서 기술을 활용하여 싸우는 것이 좋습니다.","",""
@@ -408,7 +408,7 @@ int32,byte,byte,Image,byte,str,str,str
 189,0,0,0,0,"","",""
 190,1,0,150931,0,"적을 공격하고 싶을 때는 공격할 대상을 선택한 후 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>결정 버튼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 누르면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자동 공격<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 시작됩니다.
 
-자동 공격이 성공하려면 대상으로부터 일정 거리 안에 있어야 하며, 대상을 바라보아야 합니다.
+자동 공격이 성공하려면 대상으로부터 일정 거리 안에 있어야 합니다.
 
 자동 공격 중에는 대상의 머리 위에 자동 공격 중임을 나타내는 표시가 생깁니다.","",""
 191,1,0,150932,0,"기술을 사용하면 전투를 더욱 효율적으로 진행할 수 있습니다.
@@ -417,10 +417,8 @@ int32,byte,byte,Image,byte,str,str,str
 192,1,0,150933,0,"십자 단축바를 이용할 때는 <Gui(14)/> 또는 <Gui(15)/> 버튼을 누른 상태로 방향키나 <Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/> 버튼 중 하나를 누르면 해당 버튼에 등록된 기술을 실행할 수 있습니다.
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 새로 익힌 기술은 자동으로 단축바에 추가됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-193,1,0,150934,0,"기술을 실행하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>MP<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>TP<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 등을 소모합니다.
-또한 기술을 다시 한 번 사용하려면 일정 시간(<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>재사용 대기 시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)이 지나야 합니다.
-
-중요한 순간에 MP나 TP가 부족하지 않도록 주의합시다.","",""
+193,1,0,150934,0,"기술을 실행하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>MP<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 등의 자원을 소비합니다.
+또한 기술을 다시 한번 사용하려면 일정 시간(<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>재사용 대기 시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)이 지나야 합니다.","",""
 194,0,0,0,0,"","",""
 195,0,0,0,0,"","",""
 196,0,0,0,0,"","",""
@@ -1297,11 +1295,8 @@ HQ 확률은 제작 중에 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UI
 737,0,0,0,0,"","",""
 738,0,0,0,0,"","",""
 739,0,0,0,0,"","",""
-740,1,0,150591,0,"제작법 중에는 불, 물, 번개, 바람, 땅, 얼음 속성의 힘을 띤 제작법이 있습니다.
-
-이러한 제작법은 속성의 힘으로 보호받고 있어 작업 진행이 느립니다.","",""
-741,1,0,150592,0,"'바람의 인장'이나 '땅의 인장' 등, 속성 제작법에 유효한 기술을 사용하면 작업 진행 속도를 개선할 수 있습니다.
-","",""
+740,0,0,0,0,"","",""
+741,0,0,0,0,"","",""
 742,0,0,0,0,"","",""
 743,0,0,0,0,"","",""
 744,0,0,0,0,"","",""
@@ -2009,15 +2004,15 @@ HQ 아이템은 품질이 좋은 아이템을 뜻하며, 보통 아이템보다 
 1207,0,0,0,0,"","",""
 1208,0,0,0,0,"","",""
 1209,0,0,0,0,"","",""
-1210,1,0,151401,0,"근거리에서 물리공격을 하는 클래스에는 특정 기술을 순서대로 사용하면 공격력이 올라가거나 추가 효과가 발생하는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>콤보<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 시스템이 존재합니다.
+1210,1,0,151401,0,"일부 클래스 및 잡에는 특정 기술을 순서대로 사용하면 공격력이 올라가거나 추가 효과가 발생하는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>콤보<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 시스템이 존재합니다.
 
 ※ 격투사는 콤보와는 다른 고유 시스템을 사용합니다.","",""
 1211,1,0,151402,0,"콤보가 발동되는 기술에는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>콤보 조건: 기술명<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라고 적혀 있습니다.
 
 조건에 해당하는 기술을 먼저 사용한 뒤 이어서 기술을 사용하면 설명문에 기재된 대로 콤보 보너스가 발동합니다.","",""
-1212,1,0,151403,0,"공격하는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>방향<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 따라 콤보 효과를 얻는 기술도 있으니 주의하세요.
+1212,1,0,151403,0,"공격하는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>방향<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 따라 효력이 변하는 기술도 있으니 주의하세요.
 
-이 경우에는 지정된 방향에서 공격을 명중시켜야 콤보가 성립합니다.","",""
+이 경우에는 지정된 방향에서 공격을 명중시켜야 위력이 증가합니다.","",""
 1213,1,0,151404,0,"콤보 조건을 만족시키면 단축바에 올려둔 기술 아이콘이 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>빛나는 테두리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 강조 표시됩니다.
 
 일단은 테두리가 빛나는 기술을 우선적으로 사용하는 것이 좋습니다.
@@ -2032,10 +2027,10 @@ HQ 아이템은 품질이 좋은 아이템을 뜻하며, 보통 아이템보다 
 1220,1,0,151411,0,"주술사는 MP 소비량 및 공격력이 상반되는 두 가지 태세인 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>천상의 화염<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>저승의 냉기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 번갈아 구사하며 적을 공격하는 마법 특화 전투 클래스입니다.","",""
 1221,1,0,151412,0,"불속성 마법을 사용하면 천상의 화염 상태가 되며, 이때는 불속성 마법의 위력과 소비 MP가 크게 증가합니다.
 또한 MP가 자연 회복되지 않으며, MP 지속 회복 효과도 받을 수 없습니다.
-반대로 얼음 속성 마법의 위력과 소비 MP는 낮아집니다.","",""
-1222,1,0,151413,0,"얼음 속성 마법을 사용하면 저승의 냉기 상태가 되며 MP 자동회복 속도가 크게 증가합니다.
+반대로 얼음속성 마법의 위력과 소비 MP는 낮아집니다.","",""
+1222,1,0,151413,0,"얼음속성 마법을 사용하면 저승의 냉기 상태가 되며, 얼음속성 마법의 소비 MP가 감소하고 MP 자연 회복 속도가 크게 향상됩니다.
 
-반대로 불 속성 마법의 위력과 소비 MP는 감소합니다.","",""
+또한 불속성 마법의 위력과 소비 MP가 낮아집니다.","",""
 1223,1,0,151414,0,"캐릭터 레벨이 올라 특성을 습득하면 두 속성 태세의 효과가 중첩되어 더 큰 효과를 발휘할 수 있습니다.
 
 상황에 따라 속성 태세를 전환하며 전투를 유리하게 풀어나가세요!","",""
@@ -2070,12 +2065,8 @@ HQ 아이템은 품질이 좋은 아이템을 뜻하며, 보통 아이템보다 
 1242,1,0,151433,0,"소환수에게 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>공격<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 명령을 내린 상태에서는 전투가 벌어지면 소환수도 함께 공격합니다.
 반면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>대기<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태에서는 플레이어가 명령을 내리기 전에는 움직이지 않습니다.
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>귀환<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 명령을 사용하면 소환수를 돌려보낼 수 있습니다.","",""
-1243,1,0,151434,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자유 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 명령을 내리면 소환수가 스스로 판단하여 행동합니다.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 명령을 내리면 일부 기술을 제외하고는 플레이어의 명령에 따라 기술을 사용합니다.","",""
-1244,1,0,151435,0,"보조 단축바는 편집할 수 없으나, 기술 목록의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>소환수<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 항목에서 소환수 기술을 일반 단축바로 끌어올 수 있습니다.
-
-소환수의 기술과 특성을 이해하여 자유자재로 다루어보세요!","",""
+1243,0,0,0,0,"","",""
+1244,1,0,151435,0,"보조 단축바는 편집할 수 없으나, 기술 목록의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>명령<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 있는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>소환수<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 항목에서 일반 단축바로 끌어올 수 있습니다.","",""
 1245,1,0,151436,0,"소환수를 소환한 상태에서 <CommandIcon(13)/> 버튼을 누르면 소환수 전용 기술이 등록된 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>보조 십자 단축바<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 표시됩니다.
 
 보조 단축바에 설정된 기술을 사용하면 소환수에게 명령을 내릴 수 있습니다.","",""
@@ -2458,7 +2449,7 @@ PvP 프로필은 주 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F20
 여관 객실 안에서 '미용사 호출 초인종'을 울리면 장들렌이 달려와 당신의 머리색과 모양, 화장 등을 원하는 대로 변경해줍니다.","",""
 1491,1,0,151692,0,"기분 전환을 하고 싶거나 친구와 만나기 전 멋을 부리고 싶다면, 장들렌을 불러 새로운 내 모습과 만나보세요.
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 장들렌에게 미용을 받은 후에는 이용료 2000길을 지불해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 장들렌에게 미용을 받은 후에는 이용료 2,000길을 지불해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1492,0,0,0,0,"","",""
 1493,0,0,0,0,"","",""
 1494,0,0,0,0,"","",""
@@ -3112,33 +3103,14 @@ MGP는 입구 광장에 있는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB
 상승: 비행 중에는 <CommandIcon(11)/> 버튼으로 상승합니다.
 급강하: 비행 중에는 <CommandIcon(12)/>+<CommandIcon(13)/> 버튼으로 그 자리에서 급강하할 수 있습니다.","",""
 1983,0,0,0,0,"","",""
-1990,1,0,152181,0,"점성술사는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카드<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 다루어 아군을 지원하는 직업입니다.
-카드는 6종류가 있으며, 이름은 다음과 같습니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>아제마의 균형, 세계수의 줄기, 오쉬온의 화살,
-할로네의 창, 살리아크의 물병, 비레고의 탑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-카드 기술은 4종류가 있으며, 이름은 다음과 같습니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>점지, 보류, 위상 변화, 왕도<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-1991,1,0,152182,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>점지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 카드를 뽑은 다음, 다시 점지를 실행하면 카드의 효과가 발동됩니다.
-또는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>보류<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하여 카드를 임시로 1장만 보유해둘 수도 있습니다.
-이 상태에서 다시 보류를 실행하면 임시로 보유했던 카드의 효과가 발동됩니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>위상 변화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하면 뽑았던 카드를 버리고 새 카드를 뽑을 수 있습니다.","",""
-1992,1,0,152183,0,"카드를 점지한 상태에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>왕도<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하면 다음에 발동할 카드에 추가 효과가 부여됩니다.
-카드의 종류에 따라 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>효과량 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지속시간 연장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>범위 기술로 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 중 하나의 효과가 추가됩니다.","",""
-1993,1,0,152184,0,"카드의 효과는 기술 목록에 있는 각 카드의 기술 도움말을 참조하시기 바랍니다.
-
-카드의 특성을 파악해 점성술사의 능력을 최대한 발휘하세요.","",""
-2000,1,0,152191,0,"기공사는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>포탑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라는 병기를 사용하는 직업입니다.
-포탑은 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자동포탑 룩<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자동포탑 비숍<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 2종류가 있습니다.
-
-각 포탑을 설치하는 기술을 실행하면 원하는 위치에 설치할 수 있습니다.","",""
-2001,1,0,152192,0,"포탑을 설치한 상태에서 적을 대상으로 무기 기술을 실행하면, 포탑이 주인과 같은 대상을 공격합니다.
-
-한번 설치한 포탑은 다른 곳으로 이동시킬 수 없습니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>포탑 회수<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 기술을 실행하면 포탑을 거둬들일 수 있습니다.","",""
+1990,0,0,0,0,"","",""
+1991,0,0,0,0,"","",""
+1992,0,0,0,0,"","",""
+1993,0,0,0,0,"","",""
+2000,0,0,0,0,"","",""
+2001,0,0,0,0,"","",""
 2002,0,0,0,0,"","",""
-2003,1,0,152194,0,"포탑의 공격 방식은 포탑 설치용 기술의 도움말에 기재되어 있습니다.
-
-포탑을 활용하여 기공사의 능력을 최대한 끌어내세요.","",""
+2003,0,0,0,0,"","",""
 2010,1,0,152391,0,"실적이 인정되어 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>멘토<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 자격을 획득했습니다!
 
 멘토는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>초보자<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 비롯한 다른 모험가들의 모범이 되는 플레이어입니다.
@@ -3309,12 +3281,12 @@ RP는 다른 모험가와 대결했을 때의 승패에 따라 변화합니다.
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ '비전석'은 한 번 파괴되면 복구되지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2200,1,0,152371,0,"일부 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground>　<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
-해당 퀘스트에서는 수락 시점의 캐릭터 레벨에 맞게 전투 난이도가 조정됩니다.
+해당 퀘스트에서는 캐릭터 레벨에 맞춰 전투 난이도가 조정됩니다.
 
-또한, 퀘스트 완료 시에도 캐릭터 레벨에 따른 적정 경험치를 획득하게 됩니다.","",""
-2201,1,0,152372,0,"단, 레벨 보정 퀘스트는 수락한 직업으로만 진행 및 완료할 수 있습니다.
+또한, 퀘스트 완료 시에도 캐릭터 레벨에 따른 적정 경험치를 획득합니다.","",""
+2201,1,0,152372,0,"단, '직업 변경 제한'이라고 표기된 퀘스트는 수락 시점의 직업으로만 진행 및 완료할 수 있습니다.
 
-퀘스트 공략 중에 직업을 변경하면 진행할 수 없게 되므로 주의하시기 바랍니다.","",""
+이러한 퀘스트는 도중에 직업을 변경하면 진행할 수 없게 되므로 주의하시기 바랍니다.","",""
 2210,1,0,152381,0,"일부 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
 해당 퀘스트는 수락한 직업으로만 진행 및 완료할 수 있습니다.
 
@@ -3509,17 +3481,9 @@ RP는 다른 모험가와 대결했을 때의 승패에 따라 변화합니다.
 2371,1,0,152552,0,"주 메뉴의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>내 캐릭터<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>기술 목록<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택해 보세요.
 
 기술 목록의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>역할<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 항목에서 습득한 역할 기술을 확인할 수 있습니다.","",""
-2372,1,0,152553,0,"사용할 수 있는 역할 기술 개수는 레벨에 따라 다릅니다.
-처음에는 하나만 사용할 수 있지만, 8 레벨 이후로 특정 레벨이 될 때마다 하나씩 늘어나며 클래스의 경우 최대 10개(잡은 5개)까지 사용할 수 있습니다.
-그림과 같이 원하는 기술에 체크하면 역할 기술로 등록됩니다.","",""
-2373,1,0,152554,0,"등록된 역할 기술은 기술 목록 하단에 표시됩니다.
-여기서 기술 아이콘을 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>단축바<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 올리세요.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 역할 기술을 사용한 후 재사용 대기 시간이 남아 있을 때는 해당 기술을 해제할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
-2374,1,0,152555,0,"역할 기술을 선택한 후 세부 메뉴를 열면 단축바에 등록할 수 있습니다.
-일반 기술과 마찬가지로 단축바에 올려 사용하세요.
-
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 역할 기술을 사용한 후 재사용 대기 시간이 남아 있을 때는 해당 기술을 해제할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+2372,0,0,0,0,"","",""
+2373,0,0,0,0,"","",""
+2374,0,0,0,0,"","",""
 2380,1,0,152571,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>악기 연주<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 개방되었습니다.
 
 기술 목록의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>연주<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 있는 악기 기술을 실행한 후, 화면에 표시되는 건반을 누르면 연주할 수 있습니다.
@@ -3741,3 +3705,20 @@ RP는 다른 모험가와 대결했을 때의 승패에 따라 변화합니다.
 청마법을 사용하려면, 청마도서를 통해 단축바를 설정하세요.
 
 청마도서는 주 메뉴의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>내 캐릭터<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>청마도서<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 선택하면 열 수 있습니다.","",""
+2510,1,0,152781,0,"특정 지역의 돌발 임무를 완료하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>두 빛깔 보석<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 얻을 수 있습니다.
+
+이 보석은 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>광역 무역상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라고 불리는 사람들 사이에서 화폐로 이용됩니다.","",""
+2511,1,0,152782,0,"각 지역에 있는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>광역 무역상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은 두 빛깔 보석과 여러 가지 아이템을 교환해줍니다.
+
+또한, 광역 무역상이 있는 지역의 돌발 임무를 최고 평가로 달성하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>돌발 임무 달성도<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 상승하며 상품 목록이 늘어납니다.","",""
+2512,1,0,152783,0,"돌발 임무 달성도는 주 메뉴의 '돌발 임무 달성도'에서 확인할 수 있습니다.
+
+광역 무역상에게서만 입수할 수 있는 희귀한 아이템도 있으므로, 돌발 임무를 발견하면 적극적으로 참가해 보세요.","",""
+2513,1,0,152784,0,"현재의 돌발 임무 달성도는
+주 메뉴의 '돌발 임무 달성도'에서
+확인할 수 있습니다.
+
+광역 무역상에게서만 입수할 수 있는
+희귀한 아이템도 있기 때문에
+돌발 임무를 발견하면
+적극적으로 참가합시다!","",""

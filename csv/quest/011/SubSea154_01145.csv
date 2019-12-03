@@ -58,7 +58,7 @@ int32,str,str
 50,"TEXT_SUBSEA154_01145_AHLDFOET_000_010","어떻게 됐어?
 아저씨가 부탁한 거 구했어?"
 51,"TEXT_SUBSEA154_01145_AHLDFOET_000_011","……오, 그래. 바로 이거야!
-고마워, <Switch(PlayerParameter(71))><Case(1)><If(PlayerParameter(4))>아가씨<Else/>형씨</If></Case><Case(2)><If(PlayerParameter(4))>누나<Else/>형씨</If></Case><Case(3)>작은 친구</Case><Case(4)><If(PlayerParameter(4))>고양이 아가씨<Else/>미코 형씨</If></Case><Case(5)><If(PlayerParameter(4))>멋진 누님<Else/>멋진 형씨</If></Case><Case(6)><If(PlayerParameter(4))>아가씨<Else/>형씨</If></Case></Switch>."
+고마워, <Switch(PlayerParameter(71))><Case(1)><If(PlayerParameter(4))>아가씨<Else/>형씨</If></Case><Case(2)><If(PlayerParameter(4))>누나<Else/>형씨</If></Case><Case(3)>작은 친구</Case><Case(4)><If(PlayerParameter(4))>고양이 아가씨<Else/>미코 형씨</If></Case><Case(5)><If(PlayerParameter(4))>멋진 누님<Else/>멋진 형씨</If></Case><Case(6)><If(PlayerParameter(4))>아가씨<Else/>형씨</If></Case><Case(7)>형씨</Case><Case(8)>누나</Case></Switch>."
 52,"TEXT_SUBSEA154_01145_AHLDFOET_000_012","박쥐는 들짐승도 아니고 날짐승도 아닌 동물이지.
 그래서 흔히 사람들이 어정쩡한 존재라고
 생각하는 것 같은데, 사실은 그렇지 않아."

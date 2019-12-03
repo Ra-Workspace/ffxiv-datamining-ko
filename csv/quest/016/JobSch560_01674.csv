@@ -93,7 +93,7 @@ int32,str,str
 네놈 같은 '헤벌쭉 안경'이 해병이라고?
 하하하하…… 웃기고 자빠졌네!!"
 62,"TEXT_JOBSCH560_01674_HALGATOLGA_000_021","게다가 넌 군학을 계승한 '새 시대의 학자'라 했겠다?
-<Switch(PlayerParameter(71))><Case(1)>흐리멍덩하게 생겨먹은 게</Case><Case(2)>멀대같이 큰 말라깽이 주제에</Case><Case(3)>땅딸보가 건방지게</Case><Case(4)>냄새나는 시궁창 고양이가</Case><Case(5)>덩치만 산만 한 둔탱이가</Case><Case(6)>비늘만 덕지덕지 붙은 게</Case></Switch> 어디서 까불고 있어!
+<Switch(PlayerParameter(71))><Case(1)>흐리멍덩하게 생겨먹은 게</Case><Case(2)>멀대같이 큰 말라깽이 주제에</Case><Case(3)>땅딸보가 건방지게</Case><Case(4)>냄새나는 시궁창 고양이가</Case><Case(5)>덩치만 산만 한 둔탱이가</Case><Case(6)>비늘만 덕지덕지 붙은 게</Case><Case(7)>털만 북실북실한 게</Case><Case(8)>귀만 대문짝만한 게</Case></Switch> 어디서 까불고 있어!
 두 놈 다 나를 웃겨 죽일 작정이냐!!"
 63,"TEXT_JOBSCH560_01674_HALGATOLGA_000_022","하지만 내 훈련을 견뎌낸다면
 네놈들 같은 '개병단'도 그럭저럭 쓸만해질 것이다!
@@ -118,7 +118,7 @@ int32,str,str
 71,"TEXT_JOBSCH560_01674_ALKAZOLKA_000_027","우리는 해병이다아아아아아앗!!"
 72,"TEXT_JOBSCH560_01674_HALGATOLGA_000_028","그래, 바로 그거야! '해병 정신'을 잊지 말아라!
 이번에는 너희 둘에게 각자 다른 과제를 내리겠다!!"
-73,"TEXT_JOBSCH560_01674_HALGATOLGA_000_029","야, <Switch(PlayerParameter(71))><Case(1)>흐리멍덩하게 생긴 너</Case><Case(2)>멀대같이 큰 말라깽이</Case><Case(3)>손톱만하게 생긴 땅딸보</Case><Case(4)>냄새나는 시궁창 고양이</Case><Case(5)>덩치만 산만 한 둔탱이</Case><Case(6)>비늘만 덕지덕지 붙은 너</Case></Switch>!
+73,"TEXT_JOBSCH560_01674_HALGATOLGA_000_029","야, <Switch(PlayerParameter(71))><Case(1)>흐리멍덩하게 생긴 너</Case><Case(2)>멀대같이 큰 말라깽이</Case><Case(3)>손톱만하게 생긴 땅딸보</Case><Case(4)>냄새나는 시궁창 고양이</Case><Case(5)>덩치만 산만 한 둔탱이</Case><Case(6)>비늘만 덕지덕지 붙은 너</Case><Case(7)>털만 북실북실한 너</Case><Case(8)>귀만 대문짝만한 너</Case></Switch>!
 이 근처에서 건방지게 돌아다니는 '마무쟈족 용병대장'을 찾아서
 바로 눈 앞에서 '폭소'해서 실컷 비웃어줘라!"
 74,"TEXT_JOBSCH560_01674_HALGATOLGA_000_030","놈들은 방랑자의 궁전을 노리는 쓰레기 같은 놈들이다!
@@ -134,7 +134,7 @@ int32,str,str
 우리, 가, '빛나는 비늘 전투단'인 줄은 알고,
 까부, 는 것, 이냐?"
 78,"TEXT_JOBSCH560_01674_HALGATOLGA_000_040","둘 다 과제를 달성한 모양이군!!
-<Switch(PlayerParameter(71))><Case(1)>흐리멍덩하게 생긴</Case><Case(2)>멀대같이 크기만 한</Case><Case(3)>손톱만하게 생긴</Case><Case(4)>시궁창에서 구르다 온</Case><Case(5)>덩치만 산만 한</Case><Case(6)>비늘만 덕지덕지 붙은</Case></Switch> 것치고는
+<Switch(PlayerParameter(71))><Case(1)>흐리멍덩하게 생긴</Case><Case(2)>멀대같이 크기만 한</Case><Case(3)>손톱만하게 생긴</Case><Case(4)>시궁창에서 구르다 온</Case><Case(5)>덩치만 산만 한</Case><Case(6)>비늘만 덕지덕지 붙은</Case><Case(7)>털만 북실북실한</Case><Case(8)>귀만 대문짝만한</Case></Switch> 것치고는
 그런대로 잘했다……"
 79,"TEXT_JOBSCH560_01674_HALGATOLGA_000_041","……라고 할 줄 알았냐!
 이렇게 쉬운 과제에 이렇게 시간이 걸리면 어쩌라고!?
@@ -148,7 +148,7 @@ int32,str,str
 동료의 생명을 위협하는 놈은 최강군단에 필요 없어!!
 최소한의 '개인 전투력'이 필요하단 말이다!!"
 83,"TEXT_JOBSCH560_01674_HALGATOLGA_000_045","'헤벌쭉 안경'! 넌 그자의 단련된 육체를 보고 아무것도 못 느꼈나?
-<Switch(PlayerParameter(71))><Case(1)>흐리멍덩하게 생긴 너</Case><Case(2)>멀대같이 큰 말라깽이</Case><Case(3)>손톱만하게 생긴 땅딸보</Case><Case(4)>냄새나는 시궁창 고양이</Case><Case(5)>덩치만 산만 한 둔탱이</Case><Case(6)>비늘만 덕지덕지 붙은 너</Case></Switch>는
+<Switch(PlayerParameter(71))><Case(1)>흐리멍덩하게 생긴 너</Case><Case(2)>멀대같이 큰 말라깽이</Case><Case(3)>손톱만하게 생긴 땅딸보</Case><Case(4)>냄새나는 시궁창 고양이</Case><Case(5)>덩치만 산만 한 둔탱이</Case><Case(6)>비늘만 덕지덕지 붙은 너</Case><Case(7)>털만 북실북실한 너</Case><Case(8)>귀만 대문짝만한 너</Case></Switch>는
 떼거리랑 치고받고 싸우면서 얻은 게 하나도 없었단 말이냐……!?"
 84,"TEXT_JOBSCH560_01674_HALGATOLGA_000_046","두 놈 다 오늘의 훈련을 되새기며 다시 수행하고 와라!
 네놈들이 강해지지 않으면 누가 '사라진 요마'를 쳐 죽이고

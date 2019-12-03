@@ -6,59 +6,85 @@ int32,str,str
 2,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_001","수습 배달부님한테 새로 온 편지는 없다쿠뽀."
 3,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_001","<Highlight>ObjectParameter(1)</Highlight> 님한테 새로 온 편지는 없다쿠뽀.
 가끔은 그런 날도 있는 법이다쿠뽀!"
-4,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_2","<Highlight>ObjectParameter(1)</Highlight> 님,
+4,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_001","<Highlight>ObjectParameter(1)</Highlight> 님한테
+새로 온 편지는 없다쿠뽀.
+페오 울의 편지가 도착하면 가르쳐 줄게쿠뽀!"
+5,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_2","<Highlight>ObjectParameter(1)</Highlight> 님,
 새 편지가 <Value>IntegerParameter(1)</Value>통 왔다쿠뽀~♪"
-5,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_002","안녕, 후배님!
+6,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_002","안녕, 후배님!
 새 편지가 <Value>IntegerParameter(1)</Value>통 왔다쿠뽀~♪"
-6,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_002","수습 배달부님한테
+7,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_002","수습 배달부님한테
 새 편지가 <Value>IntegerParameter(1)</Value>통 왔다쿠뽀~♪"
-7,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_002","<Highlight>ObjectParameter(1)</Highlight> 님한테
+8,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_002","<Highlight>ObjectParameter(1)</Highlight> 님한테
 새 편지가 <Value>IntegerParameter(1)</Value>통 왔다쿠뽀~♪
 얼른 확인해봐쿠뽀!"
-8,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_3","……아, 그리고 슬슬 편지를 정리하지 않으면
+9,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_002","<Highlight>ObjectParameter(1)</Highlight> 님,
+페오 울이 보낸 편지가 도착했다쿠뽀~♪
+전부 합쳐서 <Value>IntegerParameter(1)</Value>통 있다쿠뽀♪"
+10,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_3","……아, 그리고 슬슬 편지를 정리하지 않으면
 새 편지를 받을 공간이 없다쿠뽀."
-9,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_003","……아, 그리고 슬슬 편지를 정리하지 않으면
+11,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_003","……아, 그리고 슬슬 편지를 정리하지 않으면
 새 편지를 받을 공간이 없다쿠뽀.
 편지 정리는 배달부의 기본이다쿠뽀."
-10,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_003","……아, 그리고 슬슬 편지를 정리하지 않으면
+12,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_003","……아, 그리고 슬슬 편지를 정리하지 않으면
 새 편지를 받을 공간이 없다쿠뽀.
 이런 부분까지 신경 써야 훌륭한 배달부가 될 수 있다쿠뽀."
-11,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_003","……아, 그리고 슬슬 편지를 정리하지 않으면
+13,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_003","……아, 그리고 슬슬 편지를 정리하지 않으면
 새 편지를 받을 공간이 없다쿠뽀.
 보내는 사람을 위해서라도 얼른 정리해라쿠뽀."
-12,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_4","……아, 그리고 우편함이 가득 차서
+14,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_003","……아, 그리고 슬슬 편지를 정리하지 않으면
+새 편지를 받을 공간이 없다쿠뽀."
+15,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_4","……아, 그리고 우편함이 가득 차서
 못 받은 편지가 있다쿠뽀.
-필요없는 편지는 지우고 자주 정리해줘야 한다쿠뽀!"
-13,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_004","……아, 그리고 우편함이 가득 차서
+필요 없는 편지는 지우고 자주 정리해줘야 한다쿠뽀!"
+16,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_004","……아, 그리고 우편함이 가득 차서
 못 받은 편지가 있다쿠뽀.
-필요없는 편지를 지우는 건 배달부의 기본이다쿠뽀!"
-14,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_004","……아, 그리고 우편함이 가득 차서
+필요 없는 편지를 지우는 건 배달부의 기본이다쿠뽀!"
+17,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_004","……아, 그리고 우편함이 가득 차서
 편지 <Value>IntegerParameter(1)</Value>통을 못 받았다쿠뽀.
 배달부가 자기 우편함이 어떤 상태인지는 알고 있어야지쿠뽀."
-15,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_004","……아, 그리고 우편함이 가득 차서
+18,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_004","……아, 그리고 우편함이 가득 차서
 편지 <Value>IntegerParameter(1)</Value>통을 못 받았다쿠뽀.
 보낸 사람이 속상하지 않게 항상 편지함을 잘 정리해둬쿠뽀."
-16,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_10","모험가님, 만나서 반갑다쿠뽀.
+19,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_004","……아, 그리고 우편함이 가득 차서
+못 받은 편지가 있다쿠뽀!
+필요 없는 편지는 지우고 자주 정리해줘야 한다쿠뽀!"
+20,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_10","모험가님, 만나서 반갑다쿠뽀.
 언제나 어디서나 누구에게나 재깍재깍 편지를 배달해주는
 배달부 모그리가 바로 모그다쿠뽀!"
-17,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_11","5년 전 일이 생각난다쿠뽀……
+21,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_11","5년 전 일이 생각난다쿠뽀……
 하늘에서 별님이 떨어져서
 정말 난리도 아니었다쿠뽀."
-18,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_12","에테라이트도 링크셸도 다 먹통이 되어서
+22,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_12","에테라이트도 링크셸도 다 먹통이 되어서
 다들 정신이 하나도 없었다쿠뽀."
-19,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_13","그때 숲속 친구들의 연락을 도와주려고
+23,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_13","그때 숲속 친구들의 연락을 도와주려고
 모그가 편지를 배달하기 시작했다쿠뽀."
-20,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_14","숲을 나와서 낯선 땅을 날아다니는 건 무서웠지만,
+24,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_14","숲을 나와서 낯선 땅을 날아다니는 건 무서웠지만,
 어느새 여행의 매력에 홀딱 빠지고 말았다쿠뽀!
 그래서 모그는 '배달부'가 된 거야쿠뽀!"
-21,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_15","모험가님도 앞으로 모그만 믿고 편지를 보내줘쿠뽀!
+25,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_15","모험가님도 앞으로 모그만 믿고 편지를 보내줘쿠뽀!
 그럼 바로 일을 시작하겠다쿠뽀!"
-22,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_020","후배님의 배달부 레벨은 <Value>IntegerParameter(1)</Value><13>FF07022003E80203FF04EB8BA4FF07EC9DB4EB8BA4</13>쿠뽀!
+26,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_010","여행자님, 만나서 반갑다쿠뽀.
+어느 날, 꿈에서 본 '편지를 전하는 모그리'의 모습이
+왠지 모르게 내 영혼을 흔들었다쿠뽀……!"
+27,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_011","그래서 모그는 '배달부'로 잡 체인지를 했다쿠뽀♪
+페오 울이 '그쪽'에서 보낸 편지를 받으면
+여행자님한테 반드시 제대로 전해 주겠다쿠뽀♪"
+28,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_000_020","후배님의 배달부 레벨은 <Value>IntegerParameter(1)</Value><13>FF07022003E80203FF04EB8BA4FF07EC9DB4EB8BA4</13>쿠뽀!
 림사 로민사 '방파벽 회관' 근처에 모그가 있으면
 그냥 지나치지 말고 꼭 말을 걸어줘쿠뽀!"
-23,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_020","수습 배달부님의 배달부 레벨은 <Value>IntegerParameter(1)</Value><13>FF07022003E80203FF04EB8BA4FF07EC9DB4EB8BA4</13>쿠뽀!
+29,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_020","너의 배달부 레벨은 <Value>IntegerParameter(1)</Value><13>FF07022003E80203FF04EB8BA4FF07EC9DB4EB8BA4</13>쿠뽀!
+무슨 뜻인지 모르겠지만 페오 울이 그렇게 말했다쿠뽀!
+'그쪽'의 항구 도시에서 배달부 모그리에게 말을 걸면 된대쿠뽀!"
+30,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_100_020","수습 배달부님의 배달부 레벨은 <Value>IntegerParameter(1)</Value><13>FF07022003E80203FF04EB8BA4FF07EC9DB4EB8BA4</13>쿠뽀!
 앞으로도 이렇게 열심히 해주면 돼쿠뽀!
 림사 로민사에서 모그를 보면 꼭 말을 걸어줘쿠뽀!"
-24,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_020","후배들 모두 <Highlight>ObjectParameter(1)</Highlight> 님처럼 되고 싶다면서
+31,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_101_020","후배들 모두 <Highlight>ObjectParameter(1)</Highlight> 님처럼 되고 싶다면서
 열심히 배달 일을 하느라 여념이 없다쿠뽀!
 그러니까 <Highlight>ObjectParameter(1)</Highlight> 님은 걱정 말고 모험을 다녀쿠뽀!"
+32,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_021","페오 울이 '그쪽'의 배달부 모그리들도
+<Highlight>ObjectParameter(1)</Highlight> 님을
+든든하게 생각한다고 했다쿠뽀~♪"
+33,"TEXT_CMNDEFMOGLETTER_00002_LETTERMOOGLE_102_030","어느 날, 꿈에서 본 '편지를 전하는 모그리'의 모습이
+왠지 모르게 내 영혼을 흔들었다쿠뽀……!
+그래서 지금 흉내 내면서 수련 중이다쿠뽀!"

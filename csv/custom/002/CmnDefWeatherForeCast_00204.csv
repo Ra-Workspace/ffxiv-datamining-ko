@@ -7,3 +7,5 @@ int32,str,str
 1,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_050","<Sheet(WeatherPlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>의 현재 날씨는 '<Sheet(Weather,IntegerParameter(2),1)/>'입니다.
 이 시간 이후로 <If(Equal(IntegerParameter(3),IntegerParameter(4)))>한동안 <Sheet(Weather,IntegerParameter(3),3)/><Else/><Sheet(Weather,IntegerParameter(3),4)/> <Sheet(Weather,IntegerParameter(4),5)/></If>
 내일 이 시간에는 <Sheet(Weather,IntegerParameter(5),2)/>."
+2,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_100","현재 <Sheet(WeatherPlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>에는 건기가 이어지고 있습니다.
+한동안 비 소식은 없으며, 끝없는 빛이 하늘을 뒤덮겠습니다."

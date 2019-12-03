@@ -8,7 +8,12 @@ int32,str,str
 4,"TEXT_JOBBLM700_02592_SEQ_04","<Sheet(BNpcName,5649,0)/><13>FF1302280FFF09424E70634E616D65F216110103FF04EBA5BCFF04EC9D84</13> 토벌하고 '별내림의 시간'을 이겨낼 수 있었다. 고지 드라바니아로 돌아가자."
 5,"TEXT_JOBBLM700_02592_SEQ_05","샤토토는 흑마도사의 미래를 모험가들에게 맡기고 영봉 상공으로 사라졌다. 부정한 삼탑 입구에서 '카자그 챠'와 대화하자."
 6,"TEXT_JOBBLM700_02592_SEQ_06","골렘과의 전투에서 공을 세운 이들에게는 자이아 넬하가 감사 인사를 전해준다고 한다.밀바네스 예배당에 있는 '라라이'와 대화하자."
-7,"TEXT_JOBBLM700_02592_SEQ_07","라라이는 샤토토와의 만남을 통해 흑마법을 후세에 남겨야 하는 이유를 강하게 깨달은 듯하다. 모험가가 싸워 온 과정을 기록할 것을 결심한 그녀는 새로운 사명에 의욕을 불태운다."
+7,"TEXT_JOBBLM700_02592_SEQ_07","라라이는 샤토토와의 만남을 통해 흑마법을 후세에 남겨야 하는 이유를 강하게 깨달은 듯하다. 모험가가 싸워 온 과정을 기록할 것을 결심한 그녀는 새로운 사명에 의욕을 불태운다.
+
+※ 아래의 조건을 만족하면 밀바네스 예배당에 있는 라라이에게 새로운 잡 퀘스트를 받을 수 있습니다.
+1. '주요 퀘스트: 칠흑의 반역자' 중
+ '칠흑의 반역자'를 완료할 것.
+2. 마법 공격 역할의 '역할 퀘스트'를 완료할 것."
 8,"TEXT_JOBBLM700_02592_SEQ_08",""
 9,"TEXT_JOBBLM700_02592_SEQ_09",""
 10,"TEXT_JOBBLM700_02592_SEQ_10",""
@@ -205,35 +210,44 @@ int32,str,str
 111,"TEXT_JOBBLM700_02592_LALAI_000_346","……그리고 위대한 흑마법의 창시자와
 그 뜻을 이어받은 위대한 모험가에 대해서도 당연히 써야겠죠!
 후후후, 보람 있는 사명이 될 것 같군요!"
-112,"TEXT_JOBBLM700_02592_QIB_001_TODO_1","보석 골렘을 처치하라!"
-113,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_001_001","자, 조각 하나 남기지 말고 파괴해 버립시다!
+112,"TEXT_JOBBLM700_02592_SYSTEM_000_500","'흑마도사'의 이야기가 일단락되었습니다!
+다음 '흑마도사'의 잡 퀘스트를 시작하기 위해서는
+다음 조건을 충족시켜야 합니다."
+113,"TEXT_JOBBLM700_02592_SYSTEM_000_501","1. '주요 퀘스트: 칠흑의 반역자' 중
+　'칠흑의 반역자'를 완료할 것."
+114,"TEXT_JOBBLM700_02592_SYSTEM_000_502","2. 마법 공격 역할의
+　'역할 퀘스트'를 완료할 것."
+115,"TEXT_JOBBLM700_02592_SYSTEM_000_503","조건을 충족시킨 후 밀바네스 예배당의
+'라라이'에게 말을 걸어 새로운 잡 퀘스트를 시작해보세요!"
+116,"TEXT_JOBBLM700_02592_QIB_001_TODO_1","보석 골렘을 처치하라!"
+117,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_001_001","자, 조각 하나 남기지 말고 파괴해 버립시다!
 <Sheet(BNpcName,5649,0)/><13>FF1302280FFF09424E70634E616D65F216110103FF04EB8A94FF04EC9D80</13> 제가 유인하지요!"
-114,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_001_002","너희들의 상처는 내가 치유하마……!
+118,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_001_002","너희들의 상처는 내가 치유하마……!
 <Highlight>ObjectParameter(1)</Highlight>, 공격은 네게 맡기겠다!"
-115,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_002_002","위에서 뭔가가…… 조심해라!
+119,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_002_002","위에서 뭔가가…… 조심해라!
 커다란 물체가 몇 개 이쪽으로 향해 온다!!"
-116,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_002_003","큭, 대체 무슨 일이 일어난 거지…….
+120,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_002_003","큭, 대체 무슨 일이 일어난 거지…….
 저건 바위…… 아니, 마력을 품은 <Sheet(BNpcName,6656)/>인가!?"
-117,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_002_004","이 녀석, 나를 무시하고 어디로……!?
+121,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_002_004","이 녀석, 나를 무시하고 어디로……!?
 ……설마 <Sheet(BNpcName,6656)/>의 마력을 흡수하려는 건가!?"
-118,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_003_002","하늘에서 또 수상한 게 떨어진다!"
-119,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_003_003","어쨌든 파괴해야 합니다……. 모두 한꺼번에!!"
-120,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_004_001","제길 또냐! 평생 구경할 바위를 다 본 것 같군!"
-121,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_004_002","그럼 이제 끝내기로 하죠!
+122,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_003_002","하늘에서 또 수상한 게 떨어진다!"
+123,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_003_003","어쨌든 파괴해야 합니다……. 모두 한꺼번에!!"
+124,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_004_001","제길 또냐! 평생 구경할 바위를 다 본 것 같군!"
+125,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_004_002","그럼 이제 끝내기로 하죠!
 파괴하고 파괴하고…… 또 파괴하는 겁니다!"
-122,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_001","저 <Sheet(BNpcName,6656)/><13>FF1202280EFF09424E70634E616D65F11A0103FF04EBA5BCFF04EC9D84</13> 어떻게 하지 않으면……!"
-123,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_002","<Sheet(BNpcName,5649,0)/>의 마력이 증폭했다고!?"
-124,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_003","큭, <Sheet(BNpcName,6656)/>의 마력을 흡수당했네요…….
+126,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_001","저 <Sheet(BNpcName,6656)/><13>FF1202280EFF09424E70634E616D65F11A0103FF04EBA5BCFF04EC9D84</13> 어떻게 하지 않으면……!"
+127,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_002","<Sheet(BNpcName,5649,0)/>의 마력이 증폭했다고!?"
+128,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_003","큭, <Sheet(BNpcName,6656)/>의 마력을 흡수당했네요…….
 이대로는 힘든 상황에 몰릴지도 모릅니다!"
-125,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_004","더 이상 놈에게 먹이를 주면 위험해……!"
-126,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_005","<Sheet(BNpcName,6656)/><13>FF1202280EFF09424E70634E616D65F11A0103FF04EB8A94FF04EC9D80</13> 더 이상 보기 싫습니다…….
+129,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_004","더 이상 놈에게 먹이를 주면 위험해……!"
+130,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_005_005","<Sheet(BNpcName,6656)/><13>FF1202280EFF09424E70634E616D65F11A0103FF04EB8A94FF04EC9D80</13> 더 이상 보기 싫습니다…….
 어서 파괴해야……!"
-127,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_006","<Sheet(BNpcName,6656)/>의 마력을 흡수하고 있어!
+131,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_005_006","<Sheet(BNpcName,6656)/>의 마력을 흡수하고 있어!
 마력을 있는 족족 흡수당하다니……!"
-128,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_DEAD","더 이상의 싸움은 힘들 것 같습니다…….
+132,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_DEAD","더 이상의 싸움은 힘들 것 같습니다…….
 부디 모든 걸…… 파괴해주세요……!"
-129,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_DEAD","<Highlight>ObjectParameter(1)</Highlight>, 샤토토……!
+133,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_DEAD","<Highlight>ObjectParameter(1)</Highlight>, 샤토토……!
 미안하다……. 뒷일은 부탁하마."
-130,"TEXT_JOBBLM700_02592_ZHAIANELHAH_000_053","（★未使用／削除予定★）"
-131,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_002_001","（★未使用／削除予定★）"
-132,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_003_001","（★未使用／削除予定★）"
+134,"TEXT_JOBBLM700_02592_ZHAIANELHAH_000_053","（★未使用／削除予定★）"
+135,"TEXT_JOBBLM700_02592_SHATOTTO_BATTLETALK_002_001","（★未使用／削除予定★）"
+136,"TEXT_JOBBLM700_02592_ZHAIANELHAH_BATTLETALK_003_001","（★未使用／削除予定★）"

@@ -6,7 +6,12 @@ int32,str,str
 2,"TEXT_JOBMCH700_02909_SEQ_02","스테파니비앙과 대화했다. 보검 흐룬팅의 칼자루에는 소형 폭탄이 설치되어 있었고, 그것을 임관식 도중에 터뜨려 총사대를 궁지에 몰아, 평민을 견제하는 것이 적의 목적이라고 일동은 생각했다. 이에 뮈스카댕이 적의 노림수를 거꾸로 이용해 일망타진하는 작전을 제안한다. 구름안개 거리에 있는 '힐다'와 대화하자."
 3,"TEXT_JOBMCH700_02909_SEQ_03","힐다와 대화했다. 뮈스카댕의 작전대로, 사건의 흑막인 전직 이단심문관 멜리지 남작부인과 그 일당을 체포했다. 이슈가르드 하층으로 가자."
 4,"TEXT_JOBMCH700_02909_SEQ_04","이번 사건을 계기로 옥신각신하던 힐다와 뮈스카댕 사이가 누그러졌다. 또한 그들이 남매였다는 사실도 알게 되었다. 구름안개 거리에 있는 '힐다'와 대화하자."
-5,"TEXT_JOBMCH700_02909_SEQ_05","힐다와 대화했다. 로스튼스탈은 사건을 해결한 총사대의 실력을 인정한 후, 지도는 끝났다며 떠났다. 총사대는 이슈가르드를 지키는 또 하나의 힘이 되어, 앞으로도 계속 활약해 나갈 것이다."
+5,"TEXT_JOBMCH700_02909_SEQ_05","힐다와 대화했다. 로스튼스탈은 사건을 해결한 총사대의 실력을 인정한 후, 지도는 끝났다며 떠났다. 총사대는 이슈가르드를 지키는 또 하나의 힘이 되어, 앞으로도 계속 활약해 나갈 것이다.
+
+※ 아래의 조건을 만족하면 하늘강철 기공방의 스테파니비앙에게 새로운 잡 퀘스트를 받을 수 있습니다.
+1. '주요 퀘스트: 칠흑의 반역자' 중
+ '칠흑의 반역자'를 완료할 것.
+2. 물리 공격 역할의 '역할 퀘스트'를 완료할 것."
 6,"TEXT_JOBMCH700_02909_SEQ_06",""
 7,"TEXT_JOBMCH700_02909_SEQ_07",""
 8,"TEXT_JOBMCH700_02909_SEQ_08",""
@@ -293,31 +298,41 @@ int32,str,str
 148,"TEXT_JOBMCH700_02909_HILDA_000_226","<Highlight>ObjectParameter(1)</Highlight>도 고마웠어.
 널 실망시키지 않게 열심히 할 테니까
 마음 내킬 때 한번 들러줘!"
-149,"TEXT_JOBMCH700_02909_QIB_001_TODO_1","신전기사와 이단심문관 처치"
-150,"TEXT_JOBMCH700_02909_QIB_001_TODO_2","멜리지 남작부인 처치"
-151,"TEXT_JOBMCH700_02909_HILDA_BATTLETALK_FST_001_001","저항할 수 있으면 해 봐, 범죄자 놈들."
-152,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_FST_001_002","평민 따위가 어디서 감히!
+149,"TEXT_JOBMCH700_02909_SYSTEM_100_260","'기공사'의 이야기가 일단락되었습니다!
+다음 '기공사'의 잡 퀘스트를 시작하기 위해서는
+다음 조건을 충족시켜야 합니다."
+150,"TEXT_JOBMCH700_02909_SYSTEM_100_261","1. '주요 퀘스트: 칠흑의 반역자' 중
+ '칠흑의 반역자'를 완료할 것."
+151,"TEXT_JOBMCH700_02909_SYSTEM_100_262","2. 물리 공격 역할의
+ '역할 퀘스트'를 완료할 것."
+152,"TEXT_JOBMCH700_02909_SYSTEM_100_263","조건을 충족시킨 후 하늘강철 기공방의
+'스테파니비앙'에게 말을 걸어
+새로운 잡 퀘스트를 시작해보세요!"
+153,"TEXT_JOBMCH700_02909_QIB_001_TODO_1","신전기사와 이단심문관 처치"
+154,"TEXT_JOBMCH700_02909_QIB_001_TODO_2","멜리지 남작부인 처치"
+155,"TEXT_JOBMCH700_02909_HILDA_BATTLETALK_FST_001_001","저항할 수 있으면 해 봐, 범죄자 놈들."
+156,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_FST_001_002","평민 따위가 어디서 감히!
 여러분, 저 자들을 죽여요!"
-153,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_001_001","죽여주마! 죽여 버리겠어, 평미이이이인!!"
-154,"TEXT_JOBMCH700_02909_MUSCADAIN_BATTLETALK_SEC_001_001","말귀가 안 통하겠군.
+157,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_001_001","죽여주마! 죽여 버리겠어, 평미이이이인!!"
+158,"TEXT_JOBMCH700_02909_MUSCADAIN_BATTLETALK_SEC_001_001","말귀가 안 통하겠군.
 해치우자, 총사대!"
-155,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_002_001","죽어! 죽어! 죽어!
+159,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_002_001","죽어! 죽어! 죽어!
 이단의 힘을 써서라도 네놈들을 죽이겠다!!"
-156,"TEXT_JOBMCH700_02909_STEPHANIVIEN_BATTLETALK_SEC_002_002","저 여자, 용의 피를 마셨어!?
+160,"TEXT_JOBMCH700_02909_STEPHANIVIEN_BATTLETALK_SEC_002_002","저 여자, 용의 피를 마셨어!?
 얘기는 들었었지만 정말로 드래곤족이 되다니……"
-157,"TEXT_JOBMCH700_02909_HILDA_BATTLETALK_SEC_002_003","쯧…… 전직 이단심문관이란 양반이 저 꼬라지라니!"
-158,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_002_004","아하하하하하핫!
+161,"TEXT_JOBMCH700_02909_HILDA_BATTLETALK_SEC_002_003","쯧…… 전직 이단심문관이란 양반이 저 꼬라지라니!"
+162,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_002_004","아하하하하하핫!
 평민은 죽어라! 반항해도 죽인다! 전부, 전부, 죽여 주마!!"
-159,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_003_001","아하하하하하핫!
+163,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_003_001","아하하하하하핫!
 불타라! 불타거라! 화염에 휩싸여 죽어 버려라!!"
-160,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_004_001","아아아아아아앗!
+164,"TEXT_JOBMCH700_02909_MELISIE_BATTLETALK_SEC_004_001","아아아아아아앗!
 나에게 반항하는 평민은 잿더미로 만들어 버리겠다!!"
-161,"TEXT_JOBMCH700_02909_ROSTNSTHAL_BATTLETALK_SEC_004_002","저 불덩이, 그냥 놔두면 위험하겠는걸…….
+165,"TEXT_JOBMCH700_02909_ROSTNSTHAL_BATTLETALK_SEC_004_002","저 불덩이, 그냥 놔두면 위험하겠는걸…….
 <Highlight>ObjectParameter(1)</Highlight>, 네게 맡기마!"
-162,"TEXT_JOBMCH700_02909_HILDA_BATTLETALK_SEC_004_003","지원할게, <Highlight>ObjectParameter(1)</Highlight>!
+166,"TEXT_JOBMCH700_02909_HILDA_BATTLETALK_SEC_004_003","지원할게, <Highlight>ObjectParameter(1)</Highlight>!
 이쪽으로 와!"
-163,"TEXT_JOBMCH700_02909_HILDA_BATTLETALK_DEAD","칫…… 여기서…… 끝인가……."
-164,"TEXT_JOBMCH700_02909_ROSTNSTHAL_BATTLETALK_DEAD","윽, 미안하다…… 난 이제 틀렸어……."
-165,"TEXT_JOBMCH700_02909_STEPHANIVIEN_BATTLETALK_DEAD","이럴 수가…… 뒤는 부탁해……."
-166,"TEXT_JOBMCH700_02909_MUSCADAIN_BATTLETALK_DEAD","지켜주지 못했다…… 미안하오……."
-167,"TEXT_JOBMCH700_02909_STEPHANIVIEN_BATTLETALK_SEC_003_002","（★未使用／削除予定★）"
+167,"TEXT_JOBMCH700_02909_HILDA_BATTLETALK_DEAD","칫…… 여기서…… 끝인가……."
+168,"TEXT_JOBMCH700_02909_ROSTNSTHAL_BATTLETALK_DEAD","윽, 미안하다…… 난 이제 틀렸어……."
+169,"TEXT_JOBMCH700_02909_STEPHANIVIEN_BATTLETALK_DEAD","이럴 수가…… 뒤는 부탁해……."
+170,"TEXT_JOBMCH700_02909_MUSCADAIN_BATTLETALK_DEAD","지켜주지 못했다…… 미안하오……."
+171,"TEXT_JOBMCH700_02909_STEPHANIVIEN_BATTLETALK_SEC_003_002","（★未使用／削除予定★）"

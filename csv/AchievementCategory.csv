@@ -50,7 +50,7 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 46,"드라바니아",11,True,False,8
 47,"기라바니아",11,True,False,9
 48,"오사드",11,True,False,10
-49,"임무",11,True,False,11
+49,"임무",11,True,False,100
 50,"일반",12,True,False,1
 51,"흑와단",12,True,False,2
 52,"쌍사당",12,True,False,3
@@ -63,8 +63,9 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 59,"던전",13,True,False,6
 60,"탐험",13,True,False,7
 61,"총사령부",13,True,False,8
-62,"",0,False,False,0
-63,"",0,False,False,0
-64,"",0,False,False,0
-65,"",0,False,False,0
-66,"",0,False,False,0
+62,"고대 무기",4,True,False,6
+63,"조디악 웨폰",4,True,False,7
+64,"아니마 웨폰",4,True,False,8
+65,"딥 던전 마기",4,True,False,9
+66,"에우레카 웨폰",4,True,False,10
+67,"노르브란트",11,True,False,11

@@ -1,0 +1,87 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_LUCKZA026_03368_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+여행길 여관의 '지쳐 보이는 파수병'은 호위를 부탁하고 싶은 듯하다."
+1,"TEXT_LUCKZA026_03368_SEQ_01",""
+2,"TEXT_LUCKZA026_03368_SEQ_02",""
+3,"TEXT_LUCKZA026_03368_SEQ_03",""
+4,"TEXT_LUCKZA026_03368_SEQ_04",""
+5,"TEXT_LUCKZA026_03368_SEQ_05",""
+6,"TEXT_LUCKZA026_03368_SEQ_06",""
+7,"TEXT_LUCKZA026_03368_SEQ_07",""
+8,"TEXT_LUCKZA026_03368_SEQ_08",""
+9,"TEXT_LUCKZA026_03368_SEQ_09",""
+10,"TEXT_LUCKZA026_03368_SEQ_10",""
+11,"TEXT_LUCKZA026_03368_SEQ_11",""
+12,"TEXT_LUCKZA026_03368_SEQ_12",""
+13,"TEXT_LUCKZA026_03368_SEQ_13",""
+14,"TEXT_LUCKZA026_03368_SEQ_14",""
+15,"TEXT_LUCKZA026_03368_SEQ_15",""
+16,"TEXT_LUCKZA026_03368_SEQ_16",""
+17,"TEXT_LUCKZA026_03368_SEQ_17",""
+18,"TEXT_LUCKZA026_03368_SEQ_18",""
+19,"TEXT_LUCKZA026_03368_SEQ_19",""
+20,"TEXT_LUCKZA026_03368_SEQ_20",""
+21,"TEXT_LUCKZA026_03368_SEQ_21",""
+22,"TEXT_LUCKZA026_03368_SEQ_22",""
+23,"TEXT_LUCKZA026_03368_SEQ_23",""
+24,"TEXT_LUCKZA026_03368_TODO_00","지쳐 보이는 파수병과 대화"
+25,"TEXT_LUCKZA026_03368_TODO_01","<Sheet(EObj,2010705,0)/>에 가서 저주 해제 마법도구로 굴람 처치"
+26,"TEXT_LUCKZA026_03368_TODO_02","지쳐 보이는 파수병과 대화"
+27,"TEXT_LUCKZA026_03368_TODO_03",""
+28,"TEXT_LUCKZA026_03368_TODO_04",""
+29,"TEXT_LUCKZA026_03368_TODO_05",""
+30,"TEXT_LUCKZA026_03368_TODO_06",""
+31,"TEXT_LUCKZA026_03368_TODO_07",""
+32,"TEXT_LUCKZA026_03368_TODO_08",""
+33,"TEXT_LUCKZA026_03368_TODO_09",""
+34,"TEXT_LUCKZA026_03368_TODO_10",""
+35,"TEXT_LUCKZA026_03368_TODO_11",""
+36,"TEXT_LUCKZA026_03368_TODO_12",""
+37,"TEXT_LUCKZA026_03368_TODO_13",""
+38,"TEXT_LUCKZA026_03368_TODO_14",""
+39,"TEXT_LUCKZA026_03368_TODO_15",""
+40,"TEXT_LUCKZA026_03368_TODO_16",""
+41,"TEXT_LUCKZA026_03368_TODO_17",""
+42,"TEXT_LUCKZA026_03368_TODO_18",""
+43,"TEXT_LUCKZA026_03368_TODO_19",""
+44,"TEXT_LUCKZA026_03368_TODO_20",""
+45,"TEXT_LUCKZA026_03368_TODO_21",""
+46,"TEXT_LUCKZA026_03368_TODO_22",""
+47,"TEXT_LUCKZA026_03368_TODO_23",""
+48,"TEXT_LUCKZA026_03368_GUARD03368_000_000","아, 여행자.
+알리제에게 듣기론 실력이 뛰어나다더군.
+괜찮다면 좀 도와줄 수 있겠나?"
+49,"TEXT_LUCKZA026_03368_GUARD03368_000_001","'먼 곳으로 여행을 떠나신' 어머니의 유품을
+경계 임무 중에 떨어뜨려 버린 것 같아.
+다행히 떨어뜨린 장소는 알고 있어서 찾으러 갈까 한다."
+50,"TEXT_LUCKZA026_03368_GUARD03368_000_002","그런데 그 장소는
+굴람이라는 방황하는 사령들이 출현하는 곳이야.
+찾고 있을 때 사령들이 가까이 다가오면 위험해."
+51,"TEXT_LUCKZA026_03368_GUARD03368_000_003","그렇지만 바람총을 사용해 '저주 해제 마법도구'를 쏘면
+간단하고 안전하게 처치할 수 있지."
+52,"TEXT_LUCKZA026_03368_GUARD03368_000_004","미안하지만 내가 유품을 찾는 동안
+이 '저주 해제 마법도구'를 사용해 나를 호위해 줄 수 있을까?
+더 이상 경비 임무를 소홀히 할 순 없으니…… 부탁한다!"
+53,"TEXT_LUCKZA026_03368_GUARD03368_000_005","고맙다, 여행자!
+그럼 나를 따라와라."
+54,"TEXT_LUCKZA026_03368_GUARD03368_100_010","유품을 떨어뜨린 건 이 벼랑 아래의 유적 부근이다.
+너는 여기서 가까이 다가오는 굴람을 해치워 다오.
+끝나면 여행길 여관에서 다시 만나자…… 잘 부탁한다!"
+55,"TEXT_LUCKZA026_03368_SYSTEM_200_010","굴람 토벌을 시작합니다.
+파수병에게 다가가는 굴람을 발견하면
+<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>왼쪽 클릭<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>버튼/<CommandIcon(8)/>버튼</If>으로 저주 해제 마법도구를 쏘십시오!"
+56,"TEXT_LUCKZA026_03368_GUARD03368_000_020","고맙다.
+덕분에 유품은 찾았어."
+57,"TEXT_LUCKZA026_03368_GUARD03368_000_021","그나저나 저주 해제 마법도구 말인데, 효과 좋지 않았어?
+그 마법도구는 나바스아렝 폐허 유적에서
+자주 출토되곤 해."
+58,"TEXT_LUCKZA026_03368_GUARD03368_000_022","다시 말해 나바스아렝 시대부터
+굴람은 나타났었고, 그 대처를 위해서
+저주 해제 마법도구가 만들어졌던 거겠지."
+59,"TEXT_LUCKZA026_03368_GUARD03368_000_024","그럼 내 의뢰는 여기까지다.
+얼마 안 되지만 보수를 받아줘.
+그리고 고맙다. 덕분에 찾을 수 있었어."
+60,"TEXT_LUCKZA026_03368_GUARD03368_000_010","（★未使用／削除予定★）"
+61,"TEXT_LUCKZA026_03368_GUARD03368_000_023","（★未使用／削除予定★）"

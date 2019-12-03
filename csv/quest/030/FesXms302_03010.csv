@@ -11,7 +11,7 @@ int32,str,str
 
 별빛축제 장식을 훔쳐간 범인은 나무정령이었다. 떠돌이 성인에 의하면, 범인으로 보이는 나무정령들은 남쪽으로 간 듯하다. 중앙삼림에 있는 갈반스 감시초소에서 정보를 수집하기 위해 먼저 가 있는 '벤펠트'와 합류하자."
 2,"TEXT_FESXMS302_03010_SEQ_02","벤펠트와 합류했다. 장식을 훔친 도둑 나무정령은 거울못 나루 근처에 모여 있는 모양이다. 중앙삼림의 거울못 나루에 있는 '곰을 좋아하는 별빛축제 실행위원'과 대화하자."
-3,"TEXT_FESXMS302_03010_SEQ_03","곰을 좋아하는 별빛축제 실행위원과 대화하고, <Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>에 탑승했다. 곰들이 '선물용 폭죽'을 터뜨리면 도둑 나무정령을 쓰러뜨릴 수 있을 것이다. 거울못 나루 근처에서 발생하는 돌발 임무 ""별빛축제 '숲의 도둑'""에 참가하여, 도둑 나무정령을 처치하는 데 기여하자."
+3,"TEXT_FESXMS302_03010_SEQ_03","곰을 좋아하는 별빛축제 실행위원과 대화하고, <Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>에 탑승했다. 곰들이 '선물용 폭죽'을 터뜨리면 도둑 나무정령을 쓰러뜨릴 수 있을 것이다. 거울못 나루 근처에서 발생하는 돌발 임무 ""별빛축제 '숲의 도둑'""에 참가하여, 도둑 나무정령을 처치하는 데 기여하자."
 4,"TEXT_FESXMS302_03010_SEQ_04","도둑 나무정령을 처치하는 데 기여했다. 굽은가지 목장에 있는 '타프'와 대화하자."
 5,"TEXT_FESXMS302_03010_SEQ_05","타프와 대화했다. 나중에 온 벤펠트에 따르면, 도둑 나무정령은 대부분 잡았고 도둑맞은 장식을 되찾을 수 있었다고 한다. 이것으로 별빛축제 도난 사건은 해결되었으나, 아직 도주 중인 도둑 나무정령도 있는 모양이니 계속 처치에 참가하는 것도 좋을 듯하다."
 6,"TEXT_FESXMS302_03010_SEQ_06",""
@@ -58,7 +58,7 @@ int32,str,str
 47,"TEXT_FESXMS302_03010_TODO_23",""
 48,"TEXT_FESXMS302_03010_TAFF_000_000","<If(PlayerParameter(4))>누나<Else/>형</If>, 별빛축제 장식을 되찾아 줄 거예요!?
 우와, 고마워요!"
-49,"TEXT_FESXMS302_03010_BAENFAELD_000_001","돌아온 <Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>가 '따라오라'고 조르길래
+49,"TEXT_FESXMS302_03010_BAENFAELD_000_001","돌아온 <Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>가 '따라오라'고 조르길래
 조사를 중단하고 와봤는데…….
 무슨 일 있었나?"
 50,"TEXT_FESXMS302_03010_BAENFAELD_000_002","뭐라고!?
@@ -124,19 +124,19 @@ int32,str,str
 '거울못 나루' 근처에 모여 있는 모양이야."
 79,"TEXT_FESXMS302_03010_BAENFAELD_000_061","곰들은 이미 그쪽으로 향하고 있어. 도둑 나무정령이 나타나면
 '곰을 좋아하는 별빛축제 실행위원'에게 말을 걸어서
-<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>를 타고 '선물용 폭죽'을 터뜨려!"
+<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>를 타고 '선물용 폭죽'을 터뜨려!"
 80,"TEXT_FESXMS302_03010_BAENFAELD_000_062","쓰러진 도둑 나무정령은 우리 실행위원들이 잡을게.
 그리고 다른 모험가들에게도 지원을 요청해 두마.
 반드시 장식과 아이들의 미소를 되찾자!"
 81,"TEXT_FESXMS302_03010_TAFF_000_063","제가 있으면 방해가 될 테니까 돌아올 때까지 기다릴게요!
 <If(PlayerParameter(4))>누나<Else/>형</If>, 힘내세요!"
 82,"TEXT_FESXMS302_03010_COMMITTEE00439_100_065","벤펠트 님께 말씀 들었습니다.
-<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>는 준비 다 됐어요.
+<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>는 준비 다 됐어요.
 탑승해서 도둑 나무정령을 쓰러뜨려주세요!"
 83,"TEXT_FESXMS302_03010_SYSTEM_110_065","돌발 임무 ""별빛축제 '숲의 도둑'""은
 '곰을 좋아하는 별빛축제 실행위원'에게 말을 걸어
-'<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>'에 탑승한 상태에서만 임무에 기여할 수 있습니다."
-84,"TEXT_FESXMS302_03010_COMMITTEE00439_110_065","<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>라면 돌아왔답니다!
+'<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>'에 탑승한 상태에서만 임무에 기여할 수 있습니다."
+84,"TEXT_FESXMS302_03010_COMMITTEE00439_110_065","<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>라면 돌아왔답니다!
 바로 불러올 테니
 도둑 나무정령을 쓰러뜨려주세요!"
 85,"TEXT_FESXMS302_03010_TAFF_000_070","<If(PlayerParameter(4))>누나<Else/>형</If>, 어서 오세요!

@@ -11,12 +11,12 @@ int32,str,str
 
 아므 가란지에게 별빛축제를 성공시키기 위해 도와달라는 부탁을 받았다. 자세한 이야기를 듣기 위해 중부삼림의 굽은가지 목장에 있는 '벤펠트'와 대화하자."
 2,"TEXT_FESXMS301_03009_SEQ_02","벤펠트에게 이야기를 들었다. 별빛축제 장식을 도둑맞은 사건 때문에 침울해진 아이들을 격려하기 위해, 곰에 탑승해서 재주를 부려달라는 의뢰를 받았다. 탑승할 곰을 선택하기 위해 체격에 맞는 곰에게 말을 걸자."
-3,"TEXT_FESXMS301_03009_SEQ_03","<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>에 탑승했다. 아이들에게 재주를 보여주기 위해 <Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>에 탑승하여 굽은가지 목장에 있는 '<Sheet(EObj,2008623,0)/>'에 '선물용 폭죽'을 사용하자.
+3,"TEXT_FESXMS301_03009_SEQ_03","<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>에 탑승했다. 아이들에게 재주를 보여주기 위해 <Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>에 탑승하여 굽은가지 목장에 있는 '<Sheet(EObj,2008623,0)/>'에 '선물용 폭죽'을 사용하자.
 
-※ 굽은가지 목장에 있는 '곰을 좋아하는 별빛축제 실행위원'에게 말을 걸면 '<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>'에 탑승할 수 있습니다."
-4,"TEXT_FESXMS301_03009_SEQ_04","아이들에게 재주를 보여주었다. 타프에게 재주를 보여주기 위해 <Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>에 탑승하여 굽은가지 목장에 있는 두 번째 '<Sheet(EObj,2008624,0)/>'에 '선물용 폭죽'을 사용하자. 
+※ 굽은가지 목장에 있는 '곰을 좋아하는 별빛축제 실행위원'에게 말을 걸면 '<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>'에 탑승할 수 있습니다."
+4,"TEXT_FESXMS301_03009_SEQ_04","아이들에게 재주를 보여주었다. 타프에게 재주를 보여주기 위해 <Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>에 탑승하여 굽은가지 목장에 있는 두 번째 '<Sheet(EObj,2008624,0)/>'에 '선물용 폭죽'을 사용하자. 
 
-※ 굽은가지 목장에 있는 '곰을 좋아하는 별빛축제 실행위원'에게 말을 걸면 '<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>'에 탑승할 수 있습니다."
+※ 굽은가지 목장에 있는 '곰을 좋아하는 별빛축제 실행위원'에게 말을 걸면 '<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>'에 탑승할 수 있습니다."
 5,"TEXT_FESXMS301_03009_SEQ_05","타프에게 재주를 보여주었다. 그는 모험가에게 하고 싶은 말이 있는 듯하다. 굽은가지 목장에 있는 '타프'와 대화하자."
 6,"TEXT_FESXMS301_03009_SEQ_06","타프는 별빛축제 장식을 훔친 범인을 목격했다고 한다. 그의 이야기를 듣고 범인을 잡아서 도둑맞은 장식을 되찾자."
 7,"TEXT_FESXMS301_03009_SEQ_07",""
@@ -38,9 +38,9 @@ int32,str,str
 23,"TEXT_FESXMS301_03009_SEQ_23",""
 24,"TEXT_FESXMS301_03009_TODO_00","굽은가지 목장에 있는 벤펠트와 대화"
 25,"TEXT_FESXMS301_03009_TODO_01","체격에 맞는 곰과 대화"
-26,"TEXT_FESXMS301_03009_TODO_02","<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>에 탑승하여
+26,"TEXT_FESXMS301_03009_TODO_02","<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>에 탑승하여
 <Sheet(EObj,2008623,0)/>에 선물용 폭죽 사용"
-27,"TEXT_FESXMS301_03009_TODO_03","<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>에 탑승하여
+27,"TEXT_FESXMS301_03009_TODO_03","<Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>에 탑승하여
 두 번째 <Sheet(EObj,2008624,0)/>에 선물용 폭죽 사용"
 28,"TEXT_FESXMS301_03009_TODO_04","타프와 대화"
 29,"TEXT_FESXMS301_03009_TODO_05",""
@@ -141,7 +141,7 @@ int32,str,str
 '선물용 폭죽'을 아이들 앞에서 터뜨려서
 즐겁게 해줘!"
 83,"TEXT_FESXMS301_03009_COMMITTEE03009_000_145","벤펠트 님께 말씀 들었습니다.
-헤어졌던 <Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case></Switch>라면 이미 돌아와 있으니
+헤어졌던 <Switch(PlayerParameter(71))><Case(1)>코카브</Case><Case(2)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(3)>페르카드</Case><Case(4)>코카브</Case><Case(5)>폴라리스</Case><Case(6)><If(PlayerParameter(4))>코카브<Else/>폴라리스</If></Case><Case(7)>폴라리스</Case><Case(8)>코카브</Case></Switch>라면 이미 돌아와 있으니
 지금 불러올게요."
 84,"TEXT_FESXMS301_03009_SYSTEM_000_146","이 지점을 향해서 '선물용 폭죽'을 던지면
 아이들이 확실하게 볼 수 있을 것 같다."
