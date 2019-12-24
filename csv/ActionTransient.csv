@@ -5751,7 +5751,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 4589,"HQ 획득률이 0%로 감소하지만, 채집 아이템과 크리스탈을 동시에 획득할 수 있습니다."
 4590,"HQ 획득률이 0%로 감소하지만, 채집 아이템과 크리스탈을 동시에 획득할 수 있습니다."
 4591,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>작살질<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-직전에 잡은 물고기가 현재 어장에서 잡히지 않게 됩니다.
+직전에 잡은 물고기가 다시 잡히게 만듭니다.
 한 어장에서 채집하는 동안에는 효과가 유지됩니다.
 단, 효과가 없는 물고기도 있습니다."
 4592,"변신 주술을 쓸어담아 사용할 수 없게 만듭니다.
@@ -5765,12 +5765,12 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 손상도 상승: 0
 채집 중에 1번만 사용할 수 있으며, 채집 횟수를 1회 소비합니다."
 4595,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다음 1회에 한해, 방금 잡은 물고기가 잡히지 않게 만듭니다.
+직전에 잡은 물고기가 잡히지 않게 만듭니다.
 대상 물고기를 잡은 후 15초 안에 실행해야 합니다.
 생미끼 낚시로 잡은 물고기를 비롯하여 일부 물고기에는 적용되지 않습니다.
 실행 시 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>생미끼 낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>한결같은 챔질<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과를 취소합니다."
 4596,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다음 1회에 한해, 방금 잡은 물고기가 다시 잡히게 만듭니다.
+직전에 잡은 물고기가 다시 잡히게 만듭니다.
 대상 물고기를 잡은 후 15초 안에 실행해야 하며, 연속으로 실행할 수 없습니다.
 생미끼 낚시로 잡은 물고기를 비롯하여 일부 물고기에는 적용되지 않습니다.
 실행 시 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>생미끼 낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>교환 방생<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과를 취소합니다."
@@ -10523,9 +10523,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 8787,"대상에게 신속하게 접근하여 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 15초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>질풍번개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>질풍번개 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 주는 피해량 5% 증가, 무기 기술의 재사용 대기 시간 5% 단축
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3
-속박 상태에서는 사용할 수 없습니다."
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>질풍번개 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 주는 피해량 5% 증가, 무기 기술의 재사용 대기 시간 5% 감소
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>질풍 태세<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+속박 상태에서는 사용할 수 없습니다.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8788,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>금강의 극의<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 발동합니다. 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>금강의 극의<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초 안에 최대 HP의 50%이상 피해를 받으면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>질풍번개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 지속시간을 초기화하고 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>금강의 결의<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 발동합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>금강의 결의<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초 동안 주는 피해량이 10% 증가하고 받는 피해량이 10% 감소합니다."
@@ -10793,7 +10795,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>시상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 4중첩) 하나당 자신의 무기 기술 재사용 대기 시간이 5%씩 단축됩니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 노래가 시작된 후 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마구 쏘기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 노래가 시작된 후 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마구 쏘기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8845,"대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 750
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>가우스 총열 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>열기 5 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -18800,12 +18802,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 16159,"자신을 중심으로 주위 적에게 물리 공격을 가하고, 대상에게 15초 동안 지속 피해를 줍니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 90"
-16160,"15초 동안 자신과 주위 파티원이 받는 피해량이 10% 감소합니다."
+16160,"15초 동안 자신과 주위 파티원이 받는 마법 피해량이 10% 감소합니다."
 16161,"자신 또는 파티원 1명을 대상으로, 7초 동안 받는 피해를 15% 감소시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>잔혹한 탄피<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 부여되어 있을 때 파티원에게 사용하면, 대상도 10초 동안 동일한 효과를 얻습니다."
 16162,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1단계 소비하여 대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 500
-"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 500"
 16163,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1단계 소비하여 자신을 중심으로 주위 적에게 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 320"
 16164,"적 하나를 대상으로, 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일 2단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다."
@@ -21002,12 +21003,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 고유 재사용 대기 시간이 적용됩니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17742,"대상을 향해 전방 부채꼴 범위 물리 공격을 가하고, 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 5중첩)을 부여합니다.
+17742,"대상을 향해 전방 부채꼴 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검기 10씩 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>천하오검<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 실행 직후
 고유 재사용 대기 시간이 적용됩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17743,"대상에게 물리 공격을 가합니다.
@@ -21064,8 +21064,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 무도 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>장미의 앙부아떼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17757,"대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 캐스케이드 또는 리버스 캐스케이드
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 보너스<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>환상부채<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>앞걸음<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>파운틴 폴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>

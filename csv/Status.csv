@@ -994,7 +994,7 @@ MP 회복 속도가 상승한다.",10468,0,1,1,16,16,False,False,False,False,Fal
 적 처치 시에 얻는 경험치와 길이 증가하고
 텔레포 비용이 할인된다.
 던전 공략 시 파티원 모두에게
-'PC방 초월하는 힘'이 부여된다.",16218,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,100,0,True,0,False,False,0,0,False
+'가맹 PC방 초월하는 힘'이 부여된다.",16218,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,100,0,True,0,False,False,0,0,False
 936,"가맹 PC방 초월하는 힘","가맹 PC방에서 접속한 파티원이 존재하는 상태.
 최대 HP, 주는 피해량, 회복마법 회복량이 증가한다.",16219,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,10,0,False,0,False,False,0,0,False
 937,"기생","기생당해 조종당하는 상태. 다른 플레이어를 지속적으로 공격한다.
@@ -1906,11 +1906,15 @@ HP가 완전히 회복되면 해제된다.",15895,0,1,2,17,0,False,False,False,F
 1805,"한결같은 작살질","직전에 잡은 개체가 잡기 쉬워진 상태.",11117,0,0,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,0,0,True,0,False,False,0,0,False
 1806,"재사용","일부 재료가 돌아오는 상태.",16123,0,33,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,0,0,True,0,False,False,0,0,False
 1807,"고해의 고치","상위 죄식자의 공격을 받아 죄식자로 변이되고 있는 상태.",15963,0,0,1,0,0,False,False,False,False,True,False,False,True,True,0,False,False,0,2,False,0,False,False,0,9,False
-1808,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-1809,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-1810,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-1811,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-1812,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+1808,"지연술","다음에 시전하는 마법의 발동을 지연시키는 상태.",15982,0,0,1,16,124,False,False,False,False,False,False,False,True,True,0,False,False,0,0,False,0,False,False,0,0,False
+1809,"지연술: 다크 홀리","발동이 지연된 다크 홀리의 표적이 된 상태.
+효과가 끝나면 다크 홀리가 발동한다.",15983,0,0,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
+1810,"지연술: 다크 파이가","발동이 지연된 다크 파이가의 표적이 된 상태.
+효과가 끝나면 다크 파이가가 발동한다.",15984,0,0,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
+1811,"지연술: 황천의 바람","발동이 지연된 황천의 바람의 표적이 된 상태.
+효과가 끝나면 황천의 바람이 발동한다.",15985,0,0,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
+1812,"지연술: 그림자 시선","발동이 지연된 그림자 시선의 표적이 된 상태.
+효과가 끝나면 그림자 시선이 발동한다.",15986,0,0,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
 1813,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 1814,"리버스 캐스케이드 시전 가능","리버스 캐스케이드를 실행할 수 있는 상태.",13701,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 1815,"파운틴 폴 시전 가능","파운틴 폴을 실행할 수 있는 상태.",13702,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
@@ -1948,10 +1952,14 @@ HP가 완전히 회복되면 해제된다.",15895,0,1,2,17,0,False,False,False,F
 1847,"에스프리","무기 기술 또는 마법 공격을 명중시키면, 이 효과를 부여한 무도가의 '에스프리'가 특정 확률로 증가하는 상태.",13710,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,True,0,False,False,0,5,False
 1848,"에스프리","무기 기술 또는 마법 공격을 명중시키면, 이 효과를 부여한 무도가의 '에스프리'가 특정 확률로 증가하는 상태.",13711,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,True,0,False,False,0,5,False
 1849,"구속","행동이 불가능한 상태.",15545,0,1,2,17,0,False,False,True,True,False,False,False,True,False,100,False,False,0,4,False,0,False,False,1,0,False
-1850,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-1851,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-1852,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-1853,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+1850,"강압의 징조","물속성 에테르에 잠식된 상태.
+효과가 끝날 때 강압의 대해일이 발생한다.",15964,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
+1851,"강풍의 징조","물속성 에테르에 잠식된 상태.
+효과가 끝날 때 강풍의 대해일이 발생한다.",15965,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
+1852,"소용돌이의 징조","물속성 에테르에 잠식된 상태.
+효과가 끝날 때 와동의 대해일이 발생한다.",15968,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
+1853,"익몰의 징조","물속성 에테르에 잠식된 상태.
+효과가 끝날 때 익몰의 대해일이 발생한다.",15969,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
 1854,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 1855,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 1856,"방벽","공격을 받을 때 반드시 방패 막기가 발생하는 상태.",12510,0,20,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,100,0,False,0,False,False,0,0,False
@@ -2050,7 +2058,9 @@ HP가 완전히 회복되면 해제된다.",15895,0,1,2,17,0,False,False,False,F
 1946,"소이탄","적에게 '소이탄'을 부착한 상태.",13019,0,1,1,16,0,False,False,False,False,False,False,False,False,False,50,False,False,0,0,False,0,False,False,0,0,False
 1947,"수면","잠에 빠져 행동이 불가능한 상태.",15013,0,1,2,2,3,True,False,False,False,False,False,False,True,False,100,False,False,0,0,False,0,False,False,0,3,False
 1948,"번개 취약","자신이 사용하는 번개속성 공격에 맞는 상태.",15993,0,1,2,0,0,False,False,False,False,False,False,False,True,False,0,False,False,0,0,False,0,False,False,0,0,False
-1949,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+1949,"강풍의 징조","물속성 에테르에 잠식된 상태.
+효과가 끝날 때 강풍의 대해일이 발생한다.
+특정 공격을 받으면 해제된다.",15965,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
 1950,"넉다운","넉다운된 상태. 이동하거나 기술을 실행할 수 없다.",15044,0,1,2,3,0,True,False,True,False,False,False,False,False,True,100,False,False,0,4,False,0,False,False,0,0,False
 1951,"책략가","받는 피해량이 감소하는 상태.",13021,0,96,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,-10,0,False,0,False,False,0,0,False
 1952,"은신술","몸을 숨기고 이동 속도가 느려진 상태.",10607,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,False,False,0,1,False,0,False,True,0,0,False
@@ -2150,7 +2160,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,1,2,17,0,False,False,False,F
 2046,"기피 대상","받는 피해량이 감소하는 상태.",10404,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,-20,0,True,0,False,False,0,0,False
 2047,"꿈가루 저항","연금약을 복용하여 꿈가루에 저항력이 생긴 상태.",14834,0,1,1,16,0,False,False,False,False,False,False,False,True,False,0,False,False,0,0,True,0,False,False,0,0,False
 2048,"앞걸음","'캐스케이드'가 '리버스 캐스케이드'로, '파운틴'이 '파운틴 폴'로 변화한 상태.",14860,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,True,0,False,False,0,0,False
-2049,"기교 무도","무도를 시작한 상태. 무도 전용 기술과 '기교 마무리', '앞걸음, 보조 기술 이외의 기술을 실행할 수 없다",13706,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,True,0,False,False,0,0,False
+2049,"기교 무도","무도를 시작한 상태. 무도 전용 기술과 '기교 마무리', '앞걸음', 보조 기술 이외의 기술을 실행할 수 없다.",13706,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,True,0,False,False,0,0,False
 2050,"기교 마무리","무기 기술 및 마법 시전 시간과 재사용 대기 시간이 줄어든 상태.",13709,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,-10,0,True,0,False,False,0,5,False
 2051,"에스프리","무기 기술 또는 마법 공격을 명중시키면, 이 효과를 부여한 무도가의 '에스프리'가 특정 확률로 증가하는 상태.",13711,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,True,0,False,False,0,5,False
 2052,"부채춤: 절정","받는 피해량이 감소하는 상태.",14861,0,150,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,-15,0,True,0,False,False,0,0,False
@@ -2158,10 +2168,10 @@ HP가 완전히 회복되면 해제된다.",15895,0,1,2,17,0,False,False,False,F
 2054,"점지: 왕의 검","왕의 검 카드를 뽑은 상태.",13256,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,0,0,True,0,False,False,0,0,False
 2055,"점지: 여왕의 날개","여왕의 날개 카드를 뽑은 상태.",13257,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,0,0,True,0,False,False,0,0,False
 2056,"","",0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,False,True,0,28,True,0,False,False,0,0,False
-2057,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-2058,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-2059,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-2060,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+2057,"","",0,0,1,2,0,118,False,False,False,False,False,False,False,False,False,0,False,True,0,0,False,0,False,False,0,0,False
+2058,"","",0,0,1,2,0,119,False,False,False,False,False,False,False,False,False,0,False,True,0,0,False,0,False,False,0,0,False
+2059,"","",0,0,1,2,0,120,False,False,False,False,False,False,False,False,False,0,False,True,0,0,False,0,False,False,0,0,False
+2060,"","",0,0,1,2,0,121,False,False,False,False,False,False,False,False,False,0,False,True,0,0,False,0,False,False,0,0,False
 2061,"원초의 분노","자신의 물리 공격이 명중하면 HP가 회복되는 상태.",12558,0,22,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,100,0,True,0,False,False,0,0,False
 2062,"원초의 분노 대상","이 효과를 부여한 전사가 '원초의 분노'로 HP를 회복하면 그 회복량의 100%만큼 자신도 회복되는 상태.",12559,0,22,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,100,0,True,0,False,False,0,0,False
 2063,"수혈[근거리]","적에게 주는 피해량이 증가하는 상태.",14869,0,149,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,10,0,True,0,False,False,0,0,False
@@ -2201,7 +2211,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,1,2,17,0,False,False,False,F
 2097,"땅속성 저항 감소[강]","땅속성 저항이 크게 떨어진 상태.",15722,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,-12,0,False,0,False,False,0,0,False
 2098,"불속성 저항 감소[강]","불속성 저항이 크게 떨어진 상태.",15595,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,-12,0,False,0,False,False,0,0,False
 2099,"과중력","이동 속도가 느려진 상태.",15002,0,1,2,4,6,False,False,False,False,False,False,True,False,False,100,False,False,0,1,False,0,False,False,0,0,False
-2100,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+2100,"중력 폭발","중력 마력의 영향을 받은 상태. 효과 종료 시에 중력 이상을 일으켜 주위에 무속성 피해를 준다.",15770,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
 2101,"앙갚음","적에게 주는 피해량이 감소하는 상태.",13901,0,121,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,-10,0,True,0,False,False,0,0,False
 2102,"칠흑검","받는 HP 회복 효과가 감소한 상태.",14876,0,98,2,17,0,False,False,False,False,False,False,False,False,False,0,False,False,-20,0,True,0,False,False,0,0,False
 2103,"타박상","타격속성 피해로 HP가 서서히 줄어드는 상태.",15523,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,False,False,10,0,False,0,False,False,0,0,False
