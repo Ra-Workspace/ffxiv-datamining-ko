@@ -4,7 +4,7 @@
 
 * If you want to know datamining, go [viion/ffxiv-datamining](https://github.com/viion/ffxiv-datamining) and [ufx/SaintCoinach](https://github.com/ufx/SaintCoinach).
 
-* You can access data for each patch version using [tags](https://github.com/Ra-Workspace/ffxiv-datamining-ko/releases). Also if you want to access data older than data uploaded to this repository, go [here](https://github.com/Ra-Workspace/ffxiv-ko-datamining).
+* You can access data for each patch version using [tags](https://github.com/Ra-Workspace/ffxiv-datamining-ko/releases).
 
 ---
 
