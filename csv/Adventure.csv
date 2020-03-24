@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13
-#,Level,,,Emote,MinTime,MaxTime,PlaceName,Icon{List},Icon{Discovered},Name,Impression,Description,Icon{Undiscovered},IsInitial
+#,Level,MinLevel,MaxLevel,Emote,MinTime,MaxTime,PlaceName,Icon{List},Icon{Discovered},Name,Impression,Description,Icon{Undiscovered},IsInitial
 int32,Level,int32,byte,Emote,uint16,uint16,PlaceName,Image,Image,str,str,str,Image,bit&01
 2162688,4876856,0,0,22,800,1159,27,81501,81001,"바라쿠다 부두","――어느 상인이 본 풍경.
 시선을 아래로 내리면 그곳에 붉은 돛을 단 군함이 세 척 있다. 해양도시 '림사 로민사'의 저력을 느낀다.","림사 로민사가 자랑하는 기함함대 '흑와함대' 군함이 닻을 내린 군용 부두. 일반 시민은 들어갈 수 없지만, 전망 좋은 장소에서 보면 총기함 '정복호'를 비롯해 군함의 모습이 한눈에 들어온다.",81451,True

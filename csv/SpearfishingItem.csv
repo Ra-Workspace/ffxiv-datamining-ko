@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5
-#,Description,Item,GatheringItemLevel,,TerritoryType,IsVisible
-int32,str,Item,GatheringItemLevelConvertTable,byte,TerritoryType,bit&01
+#,Description,Item,GatheringItemLevel,FishingRecordType,TerritoryType,IsVisible
+int32,str,Item,GatheringItemLevelConvertTable,FishingRecordType,TerritoryType,bit&01
 0,"",0,0,0,0,False
 20000,"나선 계단 같은 회오리 모양이 특징이다. 껍데기가 부서지기 쉽기에 완전한 형태를 갖춘 것은 호사가들에게 귀한 취급을 받는다.",20144,205,26,613,True
 20001,"암컷은 검은색이나 성장하면 수컷으로 변하며 선명한 색깔로 바뀐다. 몸을 지키기 위하여 점액질 독을 방출하는 성질도 있다.",20145,205,11,613,True

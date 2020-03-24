@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7
-#,,Icon,Stats,Description,,Location,StartQuest,NextQuest
+#,Number,Icon,Stats,Description,,Location,StartQuest,NextQuest
 int32,byte,Image,str,str,byte,ContentFinderCondition,Quest,Quest
 0,0,0,"","",0,0,0,0
 1,25,63801,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
