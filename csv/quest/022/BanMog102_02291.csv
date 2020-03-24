@@ -1,8 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG102_02291_SEQ_00","바르 레스 광장의 똘똘한 모그에크는 조금 불안한 듯하다."
-1,"TEXT_BANMOG102_02291_SEQ_01","모그에크가 재료를 찾으러 유적에 갔다가 돌아오지 않는 모그리를 구해달라고 부탁했다. 편지집에서 '재료를 찾는 모그리족'과 대화하자."
+0,"TEXT_BANMOG102_02291_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+바르 레스 광장의 똘똘한 모그에크는 조금 불안한 듯하다."
+1,"TEXT_BANMOG102_02291_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+모그에크가 재료를 찾으러 유적에 갔다가 돌아오지 않는 모그리를 구해달라고 부탁했다. 편지집에서 '재료를 찾는 모그리족'과 대화하자."
 2,"TEXT_BANMOG102_02291_SEQ_02","재료를 찾는 모그리족이 <Sheet(Item,15752,0)/><13>FF0F02280BFF054974656DF23D880103FF04EBA5BCFF04EC9D84</13> 건네며 <Sheet(Item,15726,0)/> 제작을 의뢰했다. <Sheet(Item,15752,0)/><14>FF0F02280BFF054974656DF23D880103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(Item,15726,0)/><13>FF0F02280BFF054974656DF23D6E0103FF04EBA5BCFF04EC9D84</13> 제작하여 바르 레스 광장에 있는 '똘똘한 모그에크'에게 납품하자.
 
 ※ <Sheet(Item,15752,0)/><13>FF0F02280BFF054974656DF23D880103FF04EBA5BCFF04EC9D84</13> 잃어버렸을 때는 재료를 찾는 모그리족에게 말을 걸어주세요. 재료를 다시 받아서 재도전할 수 있습니다."

@@ -1,10 +1,14 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANIXA305_01518_SEQ_00","※ 이 퀘스트의 권장 레벨은 ""제작자 클래스 6, 전투 클래스 45 이상""입니다.
+0,"TEXT_BANIXA305_01518_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트의 권장 레벨은 ""제작자 클래스 6, 전투 클래스 45 이상""입니다.
 
 에카틀 실험장의 재무담당 로졸 카틀란은 모험가에게 어려운 제작 의뢰를 하려는 듯하다."
-1,"TEXT_BANIXA305_01518_SEQ_01","재무담당 로졸 카틀란이 <Sheet(ItemHQ,　8104,0)/> 제작을 의뢰했다. 커르다스 중앙고지 '아도넬 점성대'에 있는 '템플턴'에게 제작시설 사용 허가를 받자."
+1,"TEXT_BANIXA305_01518_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+재무담당 로졸 카틀란이 <Sheet(ItemHQ,　8104,0)/> 제작을 의뢰했다. 커르다스 중앙고지 '아도넬 점성대'에 있는 '템플턴'에게 제작시설 사용 허가를 받자."
 2,"TEXT_BANIXA305_01518_SEQ_02","제작시설을 쓰게 해주는 대신, 템플턴이 모험가에게 심부름을 해달라고 한다. 아도넬 점성대 위층에 있는 '조시아'에게 <Sheet(EventItem,2001408)/><13>FF14022810FF0A4576656E744974656DF51E8A0103FF04EBA5BCFF04EC9D84</13> 가져다주자."
 3,"TEXT_BANIXA305_01518_SEQ_03","조시아에게 <Sheet(EventItem,2001408)/><13>FF14022810FF0A4576656E744974656DF51E8A0103FF04EBA5BCFF04EC9D84</13> 가져다주었다. 일을 마친 증거로 아도넬 점성대에 있는 '템플턴'에게 <Sheet(EventItem,2001407,0)/><13>FF15022811FF0A4576656E744974656DF61E89FF0103FF04EBA5BCFF04EC9D84</13> 가져다주자."
 4,"TEXT_BANIXA305_01518_SEQ_04","제작시설을 사용할 준비가 끝났다. <Sheet(Item,　8065,0)/><14>FF15022811FF054974656DFF08E38080383036350103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(ItemHQ,　8104,0)/><13>FF17022813FF074974656D4851FF08E38080383130340103FF04EBA5BCFF04EC9D84</13> 제작하여 에카틀 실험장에 있는 '재무담당 로졸 카틀란'에게 납품하자.

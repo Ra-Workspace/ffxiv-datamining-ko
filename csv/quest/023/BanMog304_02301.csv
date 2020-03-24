@@ -1,8 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG304_02301_SEQ_00","바르 레스 광장의 똘똘한 모그에크는 모험가와 상의하고 싶은 일이 있는 듯하다."
-1,"TEXT_BANMOG304_02301_SEQ_01","모그에크는 모험가에게 업무를 지원하러 온 공병장 힐데스의 상담을 받아달라고 부탁했다. 바르 레스 광장에 있는 '공병장 힐데스'와 대화하자."
+0,"TEXT_BANMOG304_02301_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+바르 레스 광장의 똘똘한 모그에크는 모험가와 상의하고 싶은 일이 있는 듯하다."
+1,"TEXT_BANMOG304_02301_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+모그에크는 모험가에게 업무를 지원하러 온 공병장 힐데스의 상담을 받아달라고 부탁했다. 바르 레스 광장에 있는 '공병장 힐데스'와 대화하자."
 2,"TEXT_BANMOG304_02301_SEQ_02","힐데스는 모그리들에게 장난을 치고 싶으니 도와달라고 부탁했다. <Sheet(Item,15760,0)/><14>FF0F02280BFF054974656DF23D900103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(ItemHQ,15734,0)/><13>FF1102280DFF074974656D4851F23D760103FF04EBA5BCFF04EC9D84</13> 제작하여 지상왕의 영지에 있는 '신전기사단 숙련 공병'에게 납품하자.
 
 ※ <Sheet(Item,15760,0)/><13>FF0F02280BFF054974656DF23D900103FF04EBA5BCFF04EC9D84</13> 잃어버렸을 때는 공병장 힐데스에게 말을 걸어주세요. 재료를 다시 받아서 재도전할 수 있습니다."

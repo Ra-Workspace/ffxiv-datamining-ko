@@ -1,8 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG402_02303_SEQ_00","바르 레스 광장의 똘똘한 모그에크는 모험가의 화술에 기대하는 듯하다."
-1,"TEXT_BANMOG402_02303_SEQ_01","모그에크는 드래곤족에게 힘쓰는 일을 부탁하려는데 협상할 때 모험가가 도와줬으면 한다고 말했다. 하얀 궁전에 있는 '모그리족 협상원'과 대화하자."
+0,"TEXT_BANMOG402_02303_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+바르 레스 광장의 똘똘한 모그에크는 모험가의 화술에 기대하는 듯하다."
+1,"TEXT_BANMOG402_02303_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+모그에크는 드래곤족에게 힘쓰는 일을 부탁하려는데 협상할 때 모험가가 도와줬으면 한다고 말했다. 하얀 궁전에 있는 '모그리족 협상원'과 대화하자."
 2,"TEXT_BANMOG402_02303_SEQ_02","모그리족 협상원이 말하길, 협상한 결과 드래곤족이 원하는 보상을 주면 도움을 주기로 했다고 한다. <Sheet(Item,15761,0)/><14>FF0F02280BFF054974656DF23D910103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(ItemHQ,15735,0)/><13>FF1102280DFF074974656D4851F23D770103FF04EBA5BCFF04EC9D84</13> 제작하여 하얀 궁전에 있는 '모그리족 초보 협상원'에게 납품하자.
 
 ※ <Sheet(Item,15761,0)/><13>FF0F02280BFF054974656DF23D910103FF04EBA5BCFF04EC9D84</13> 잃어버렸을 때는 모그리족 협상원에게 말을 걸어주세요. 재료를 다시 받아서 재도전할 수 있습니다."

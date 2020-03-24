@@ -1,8 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG604_02316_SEQ_00","바르 레스 광장의 똘똘한 모그에크는 모험가에게 전할 말이 있는 듯하다."
-1,"TEXT_BANMOG604_02316_SEQ_01","모그에크가 말하길, 힐데스가 모험가와 상의하고 싶은 일이 있다고 한다. 바르 레스 광장에 있는 '공병장 힐데스'와 대화하자."
+0,"TEXT_BANMOG604_02316_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+바르 레스 광장의 똘똘한 모그에크는 모험가에게 전할 말이 있는 듯하다."
+1,"TEXT_BANMOG604_02316_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+모그에크가 말하길, 힐데스가 모험가와 상의하고 싶은 일이 있다고 한다. 바르 레스 광장에 있는 '공병장 힐데스'와 대화하자."
 2,"TEXT_BANMOG604_02316_SEQ_02","힐데스와 대화했다. 아사 구름다리에 있는 '관리 담당 모그온'에게서 <Sheet(Item,15769,0)/><13>FF0F02280BFF054974656DF23D990103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
 3,"TEXT_BANMOG604_02316_SEQ_03","모그온에게 <Sheet(Item,15769,0)/><13>FF0F02280BFF054974656DF23D990103FF04EBA5BCFF04EC9D84</13> 받았다. <Sheet(Item,15769,0)/><14>FF0F02280BFF054974656DF23D990103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(Item,15743,0)/><13>FF0F02280BFF054974656DF23D7F0103FF04EBA5BCFF04EC9D84</13> 제작하여 바르 레스 광장에 있는 '공병장 힐데스'에게 납품하자.
 

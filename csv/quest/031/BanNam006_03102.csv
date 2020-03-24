@@ -1,10 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANNAM006_03102_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
+0,"TEXT_BANNAM006_03102_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 도로 일로에 있는 교신은 뭔가 생각이 있는 모양이다."
-1,"TEXT_BANNAM006_03102_SEQ_01","교신과 대화했다. 교신은 교링 일행에게 받은 선물을, 제전에 협력해준 사람들에게 나누어 주고 싶다고 한다. 먼저 출발한 교신을 따라가 아짐 대초원의 도탈 카에 있는 '사두'와 대화하자."
+1,"TEXT_BANNAM006_03102_SEQ_01","※ 이 퀘스트에는
+ '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+   퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
+
+교신과 대화했다. 교신은 교링 일행에게 받은 선물을, 제전에 협력해준 사람들에게 나누어 주고 싶다고 한다. 먼저 출발한 교신을 따라가 아짐 대초원의 도탈 카에 있는 '사두'와 대화하자."
 2,"TEXT_BANNAM006_03102_SEQ_02","사두와 대화했다. 다음은 아짐 대초원의 여명의 옥좌에 있는 '마그나이'와 대화하자."
 3,"TEXT_BANNAM006_03102_SEQ_03","마그나이와 대화했다. 다음은 아짐 대초원의 몰 일로에 있는 '시리나'와 대화하자."
 4,"TEXT_BANNAM006_03102_SEQ_04","시리나와 대화했다. 감사 인사를 끝내고 도로 일로에 돌아온 '교신'과 대화하자."

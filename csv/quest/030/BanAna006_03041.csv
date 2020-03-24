@@ -1,9 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANANA006_03041_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+0,"TEXT_BANANA006_03041_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 카스텔룸 벨로디나에 있는 아르파는 모험가를 기다리고 있는 모양이다."
-1,"TEXT_BANANA006_03041_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+1,"TEXT_BANANA006_03041_SEQ_01","※ 이 퀘스트에는
+ '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
   퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
 
 아르파와 대화했다. 지금까지 힘을 빌려준 사람들을 불러 사은회를 열려는 모양이다. 굽어보는 바위에 있는 '메제트 티아'와 카스트룸 오리엔스에 있는 '쌍사당 소위 탈라 몰코'에게 <Sheet(EventItem,2002430,0)/><13>FF15022811FF0A4576656E744974656DF61E8DFE0103FF04EBA5BCFF04EC9D84</13> 건네자."

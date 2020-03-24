@@ -1,9 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANGNA304_02264_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+0,"TEXT_BANGNA304_02264_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 바스의 토굴집에 있는 연구자는 모험가를 목이 빠지게 기다린 듯하다."
-1,"TEXT_BANGNA304_02264_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow> 레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+1,"TEXT_BANGNA304_02264_SEQ_01","※ 이 퀘스트에는
+ '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
    퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
 
 연구자가 꼬리깃 마을로 가는 길에 출몰하는 포악한 짐승을 처치해달라고 부탁했다. 초코보 숲에 있는 세 군데의 <Sheet(EObj,2006871,0)/>에서 주위를 둘러보고, 짐승이 나타나면 처치하자."

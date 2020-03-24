@@ -1,10 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANNAM003_03099_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
+0,"TEXT_BANNAM003_03099_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 도로 일로에 있는 교신은 모험가에게 상의하고 싶은 것이 있는 모양이다."
-1,"TEXT_BANNAM003_03099_SEQ_01","교신과 대화했다. 공물을 바치는 제전 외에 가마를 메고 대열을 지어 행진하는 제전을 열기로 했다. 쿠가네의 <Sheet(EObj,2009487,0)/>에서 '<Sheet(EventItem,2002473,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E290103FF04EBA5BCFF04EC9D84</13> 사용해 교신을 밖으로 꺼내자."
+1,"TEXT_BANNAM003_03099_SEQ_01","※ 이 퀘스트에는
+ '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+   퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
+
+교신과 대화했다. 공물을 바치는 제전 외에 가마를 메고 대열을 지어 행진하는 제전을 열기로 했다. 쿠가네의 <Sheet(EObj,2009487,0)/>에서 '<Sheet(EventItem,2002473,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E290103FF04EBA5BCFF04EC9D84</13> 사용해 교신을 밖으로 꺼내자."
 2,"TEXT_BANNAM003_03099_SEQ_02","쿠가네의 <Sheet(EObj,2009487,0)/>에서 '<Sheet(EventItem,2002473,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E290103FF04EBA5BCFF04EC9D84</13> 사용해 교신을 밖으로 꺼냈다. 교신을 교도로 착각한 조선목수에게 가마에 대해 배우게 되었다. 쿠가네의 소부두에서 '거친 조선목수'와 대화하자."
 3,"TEXT_BANNAM003_03099_SEQ_03","거친 조선목수와 대화했다. 도면을 입수한 교신은 도로 일로로 돌아가 제작에 착수하겠다고 한다. 아짐 대초원의 도로 일로에서 '교신'과 대화하자."
 4,"TEXT_BANNAM003_03099_SEQ_04","교신과 대화했다. 교신이 부탁한 가마 제작에 필요한 것을 준비하여 도로 일로에 있는 '교레이'에게 납품하자."

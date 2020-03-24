@@ -1,10 +1,14 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANIXA405_01502_SEQ_00","※ 이 퀘스트의 권장 레벨은 ""제작자 클래스 10, 전투 클래스 47 이상""입니다.
+0,"TEXT_BANIXA405_01502_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트의 권장 레벨은 ""제작자 클래스 10, 전투 클래스 47 이상""입니다.
 
 에카틀 실험장의 학구열 넘치는 타젤 메예안은 모험가에게 절박한 의뢰를 하려는 것 같다."
-1,"TEXT_BANIXA405_01502_SEQ_01","학구열 넘치는 타젤 메예안이 <Sheet(ItemHQ,　8109,0)/> 제작을 의뢰했다. 먼저 유지니아 감시초소로 가서 재료의 행방을 아는 '미아 몰코트'의 말을 들어보자."
+1,"TEXT_BANIXA405_01502_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+학구열 넘치는 타젤 메예안이 <Sheet(ItemHQ,　8109,0)/> 제작을 의뢰했다. 먼저 유지니아 감시초소로 가서 재료의 행방을 아는 '미아 몰코트'의 말을 들어보자."
 2,"TEXT_BANIXA405_01502_SEQ_02","유지니아 감시초소에 있는 미아 몰코트와 대화했다. <Sheet(EventItem,2001395,0)/><13>FF15022811FF0A4576656E744974656DF61E89F30103FF04EB8A94FF04EC9D80</13> '키키룬족 건달'이 가져간 것 같다. 영광의 개울로 가서 <Sheet(BNpcName,2989,0)/> 3마리로부터 재료를 되찾자."
 3,"TEXT_BANIXA405_01502_SEQ_03","키키룬족 건달로부터 <Sheet(EventItem,2001395,0)/><13>FF15022811FF0A4576656E744974656DF61E89F30103FF04EBA5BCFF04EC9D84</13> 되찾았다. 가을박 마을 '둥둥 뜬 코르크 여관'에 있는 '힐데야드'에게 <Sheet(EventItem,2001395,0)/><13>FF15022811FF0A4576656E744974656DF61E89F30103FF04EBA5BCFF04EC9D84</13> 건네고 제작시설 사용 허가를 받자."
 4,"TEXT_BANIXA405_01502_SEQ_04","제작시설을 사용할 준비가 끝났다. <Sheet(Item,　8070,0)/><14>FF15022811FF054974656DFF08E38080383037300103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(ItemHQ,　8109,0)/><13>FF17022813FF074974656D4851FF08E38080383130390103FF04EBA5BCFF04EC9D84</13> 2개 제작하여 에카틀 실험장에 있는 '학구열 넘치는 타젤 메예안'에게 납품하자.

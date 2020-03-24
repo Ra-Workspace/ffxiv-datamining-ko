@@ -72,415 +72,413 @@ int32,str,str
 34,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_000","제작 물품의 '소장 가치'는
 제작 시에 '품질'을 높이면 상승합니다.
 최대한 품질을 높여서 완성시키는 것이 중요합니다."
-35,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_001","품질을 올리는 방법은 크게 두 가지로 나뉩니다.
-하나는 고품질 재료를 사용하는 것이며,
-또 하나는 다양한 기술을 활용하는 것입니다."
-36,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_002","특히 '정신 집중'은
+35,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_002","'정신 집중'은
 제작 시 품질을 높이려면 꼭 필요한 기술입니다."
-37,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_003","먼저 '정신 집중'을 사용하여
+36,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_003","먼저 '정신 집중'을 사용하여
 완성에 필요한 내구도와 CP를 확보하세요."
-38,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_004","다음으로 가공 계열 기술을 사용하고
-마지막에 '비레고의 기교'나 '비레고의 축복' 등으로
+37,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_004","다음으로 가공 계열 기술을 사용하고
+마지막에 '비레고의 축복' 등으로
 단숨에 품질을 올려 완성해 보세요."
-39,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_005","그 외에도 품질을 높이는 기술이 여럿 존재합니다.
+38,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_005","그 외에도 품질을 높이는 기술이 여럿 존재합니다.
 익숙해지면 다양하게 시도하여 자기만의 제작법을 찾아봅시다."
-40,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_005_000","채집품은 '희귀도'가 '소장 가치'로 직결됩니다.
+39,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_005_000","채집품은 '희귀도'가 '소장 가치'로 직결됩니다.
 채집 전에 기술 '소장품 채집'을 사용한 뒤
 채집할 아이템을 선택하면 '희귀도'를 올릴 수 있습니다."
-41,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_005_001","희귀도를 높이려면 기술 '심미안'을 사용한 후
+40,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_005_001","희귀도를 높이려면 기술 '심미안'을 사용한 후
 '신중한 선별'을 사용하면 됩니다.
 '손상도'를 넘기지 않게 조심하면서 세 번 반복하여 채집해보세요."
-42,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_005_002","소장 가치를 더 높이고 싶으면 '고도의 주의력'이,
+41,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_005_002","소장 가치를 더 높이고 싶으면 '고도의 주의력'이,
 소장품 개수를 늘리고 싶으면 '직감적 선별'과
 '전력 집중'이 효과적입니다."
-43,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_005_003","'희귀도'가 생각만큼 올라가지 않는다면 '감별력',
+42,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_005_003","'희귀도'가 생각만큼 올라가지 않는다면 '감별력',
 'GP'가 부족하다면 '최대 GP'가
 올라가는 장비를 갖추어 봅시다."
-44,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_006_000","수산물은 낚은 '물고기의 크기'가
+43,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_006_000","수산물은 낚은 '물고기의 크기'가
 그대로 '소장 가치'가 됩니다."
-45,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_006_001","소장품 목록에 있는 물고기가 낚이는 낚시터로 가서
+44,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_006_001","소장품 목록에 있는 물고기가 낚이는 낚시터로 가서
 기술 '소장품 채집'을 사용하고 낚시를 시작하세요."
-46,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_006_002","기술 '인내 2'를 사용한 뒤
+45,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_006_002","기술 '인내 2'를 사용한 뒤
 적절한 낚아채기 기술을 사용하면
 큰 물고기를 낚을 수 있습니다."
-47,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_006_003","크기가 생각만큼 크지 않을 때에는 '감별력'이 올라가는
+46,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_006_003","크기가 생각만큼 크지 않을 때에는 '감별력'이 올라가는
 장비를 갖추어 봅시다."
-48,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
+47,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
 '제작자'와 '광부 및 원예가', '어부' 세 종류로 나뉘며,
 모두 '소장품'이어야 합니다."
-49,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_008","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
+48,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_008","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
 해당 클래스 레벨이 55 이상일 때 가능합니다.  "
-50,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_009","납품 시 클래스 레벨이 79 이하인 경우는
+49,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_009","납품 시 클래스 레벨이 79 이하인 경우는
 레벨 80이 되면 받을 수 있는 화폐 보상 대신
 경험치 보상을 얻을 수 있습니다."
-51,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_001","각 소장품의 입수 방법은
+50,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_001","각 소장품의 입수 방법은
 다음과 같이 확인하실 수 있습니다."
-52,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_002","제작 소장품은 의뢰 목록의 세부 메뉴에서
+51,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_002","제작 소장품은 의뢰 목록의 세부 메뉴에서
 '제작법 검색'을 선택하면
 제작수첩에서 제작법이 표시됩니다."
-53,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_003","의뢰물 제작에 필요한 재료는
+52,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_003","의뢰물 제작에 필요한 재료는
 이딜샤이어 '자유시장'에 있는
 '재료 상인'에게서 구입할 수 있습니다."
-54,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_004","광부 및 원예가의 채집 소장품은 의뢰 목록에서
+53,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_004","광부 및 원예가의 채집 소장품은 의뢰 목록에서
 세부 메뉴 '채집 방법 검색'을 선택하면
 채집수첩에서 채집 장소가 표시됩니다."
-55,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_005","어부의 채집 소장품은 의뢰 목록의
+54,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_005","어부의 채집 소장품은 의뢰 목록의
 아이템 툴팁에 낚시 장소에 대한 힌트가 나옵니다."
-56,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_006","'소장 가치'가 높을수록
+55,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_006","'소장 가치'가 높을수록
 납품 시에 더 많은 보상을 받을 수 있습니다."
-57,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_007","소장 가치를 올리는 방법이 궁금하면
+56,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_000_007","소장 가치를 올리는 방법이 궁금하면
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 걸어
 '단골 거래에 대해 물어보기'를 선택하세요."
-58,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_001_000","의뢰물을 납품함으로써
+57,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_001_000","의뢰물을 납품함으로써
 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EAB080FF04EC9DB4</13> 당신을 신뢰하게 되었습니다."
-59,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
+58,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
 '신뢰 단계'가 상승하며, <Sheet(ENpcResident,IntegerParameter(1),0)/>의
 새로운 이야기를 볼 수 있습니다."
-60,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
+59,"TEXT_CTSSFSCHARACTER1_00386_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
 적극적으로 소장품을 납품하여 신뢰도를 올리세요!"
-61,"TEXT_CTSSFSCHARACTER1_00386_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
+60,"TEXT_CTSSFSCHARACTER1_00386_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
 현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
 다시 납품할 수 있습니다."
-62,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_001_000","이슈가르드에서는 지금 다른 나라와의 교류가 늘면서
+61,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_001_000","이슈가르드에서는 지금 다른 나라와의 교류가 늘면서
 근동식 물건이 주목받고 있대요.
 이 소장품은 분명 잘 팔릴 거예요!"
-63,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_001_001","커르다스는 원래 지대가 높고 추운 기후여서
+62,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_001_001","커르다스는 원래 지대가 높고 추운 기후여서
 모든 특산품에서 시원한 느낌이 나죠.
 이 물건은 코스타 델 솔 분들이 좋아하실 거예요!"
-64,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_001_002","무기, 방어구, 연금약, 휴대식량……
+63,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_001_002","무기, 방어구, 연금약, 휴대식량……
 군대에는 다양한 물자가 필요하죠.
 이 군수품이라면 흑와단 분들도 만족하실 거예요!"
-65,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_001_003","아이들을 위해 만들어 주신 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA19CFF07EC9DB4EBA19C</13>군요!
+64,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_001_003","아이들을 위해 만들어 주신 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA19CFF07EC9DB4EBA19C</13>군요!
 상자 안에 과연 무엇이 들어있을까……
 다들 눈을 빛내고 있을 거예요!"
-66,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_001_004","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 많으면 많을수록 좋죠.
+65,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_001_004","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 많으면 많을수록 좋죠.
 일상생활에 필요한 물건들을 마련해주셔서
 아이들도 감사하고 있답니다!"
-67,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_002_000","근동의 도시 '라자한'에서 발행된 옛날 동전이네요.
+66,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_002_000","근동의 도시 '라자한'에서 발행된 옛날 동전이네요.
 예전에 서로 교역을 했었다는 흔적이지요.
 근동 지방에 관심 있는 분들에게 인기 있는 물건이에요!"
-68,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_002_001","똑똑 떨어지는 물방울이 긴 시간에 걸쳐 얼어붙은 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13>
+67,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_002_001","똑똑 떨어지는 물방울이 긴 시간에 걸쳐 얼어붙은 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13>
 순도가 아주 높아서 음료 맛을 해치지 않는대요!
 술을 좋아하는 부유한 분들이 비싼 값에 구입하실 것 같네요!"
-69,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_002_002","흑와단 군용 약품 '노을빛 한 모금'을 제작하려면
+68,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_002_002","흑와단 군용 약품 '노을빛 한 모금'을 제작하려면
 홍산호와 이 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 빼놓을 수 없죠.
 이 정도 물건이라면 흑와단 분들도 만족하실 거예요!"
-70,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_002_003","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 아이들이 아주 좋아해요!
+69,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_002_003","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 아이들이 아주 좋아해요!
 동그란 구슬을 튕겨서 상대편의 구슬을 맞히는
 구슬치기를 하며 놀 수 있거든요!"
-71,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_002_004","일곱 빛깔 안료 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 있으면
+70,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_002_004","일곱 빛깔 안료 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 있으면
 아이들이 실컷 그림을 그릴 수 있어요.
 어쩌면 <Highlight>ObjectParameter(1)</Highlight> 님 얼굴을 그려줄지도 몰라요!"
-72,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_003_000","근동 원산인 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB84A4FF07EC9DB4EB84A4</13>요!
+71,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_003_000","근동 원산인 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB84A4FF07EC9DB4EB84A4</13>요!
 예전에 샬레이안에서 연구용으로 사육하다가
 풀어준 거라고 하던데, 정말 예쁜 물고기죠!"
-73,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_003_001","와, 정말 예쁜 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB84A4FF07EC9DB4EB84A4</13>요!
+72,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_003_001","와, 정말 예쁜 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB84A4FF07EC9DB4EB84A4</13>요!
 속이 비치는 것이, 얼음처럼 투명해서 시원해 보여요!
 수집가들 사이에서는 투명할수록 가치가 높대요!"
-74,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_003_002","홍산호는 군용 약품 '노을빛 한 모금'의 주재료로 유명한데
+73,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_003_002","홍산호는 군용 약품 '노을빛 한 모금'의 주재료로 유명한데
 라노시아에서는 수확량이 줄고 있대요.
 그러니까 구름바다에서 난 걸 팔아서 돈을 벌어야죠!"
-75,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_003_003","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 색깔이 정말 예쁘죠!
+74,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_003_003","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 색깔이 정말 예쁘죠!
 이 연분홍색 조개를 겹치면 하트 모양이 된답니다.
 아이들이 그림 맞추기 놀이를 할 때 쓰곤 해요."
-76,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_003_004","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 싫어하는 아이는 없어요!
+75,"TEXT_CTSSFSCHARACTER1_00386_KNOWLEDGE_ZHLOEALIAPOH_003_004","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 싫어하는 아이는 없어요!
 튀기면 껍질은 바삭바삭, 살은 탱글탱글해서 특히 맛있죠!"
-77,"TEXT_CTSSFSCHARACTER1_00386_JUDGEMENT_ZHLOEALIAPOH_000_000","그럼 납품해주신 물건을 한번 볼게요!
+76,"TEXT_CTSSFSCHARACTER1_00386_JUDGEMENT_ZHLOEALIAPOH_000_000","그럼 납품해주신 물건을 한번 볼게요!
 흐음…… 수수하지만 진솔함이 느껴지네요!
 저는 이런 것도 좋아해요!"
-78,"TEXT_CTSSFSCHARACTER1_00386_JUDGEMENT_ZHLOEALIAPOH_000_001","그럼 납품해주신 물건을 한번 볼게요!
+77,"TEXT_CTSSFSCHARACTER1_00386_JUDGEMENT_ZHLOEALIAPOH_000_001","그럼 납품해주신 물건을 한번 볼게요!
 오오, 이건…… 품질이 훌륭하네요!
 역시 <Highlight>ObjectParameter(1)</Highlight> 님이에요!"
-79,"TEXT_CTSSFSCHARACTER1_00386_JUDGEMENT_ZHLOEALIAPOH_000_002","그럼 납품해주신 물건을 한번 볼게요!
+78,"TEXT_CTSSFSCHARACTER1_00386_JUDGEMENT_ZHLOEALIAPOH_000_002","그럼 납품해주신 물건을 한번 볼게요!
 ……우와아아아, 너무 대단해서 눈물이 나려고 해요……!
 이게 바로 일류 장인의 솜씨군요……!!"
-80,"TEXT_CTSSFSCHARACTER1_00386_JUDGEMENT_ZHLOEALIAPOH_000_003","그럼 납품해주신 물건을 한번 볼게요!
+79,"TEXT_CTSSFSCHARACTER1_00386_JUDGEMENT_ZHLOEALIAPOH_000_003","그럼 납품해주신 물건을 한번 볼게요!
 ……후후, 만든 사람의 다정함이 느껴져요.
 아이들에게 너무나 멋진 선물이 되겠네요."
-81,"TEXT_CTSSFSCHARACTER1_00386_JUDGEMENT_ZHLOEALIAPOH_000_004","그럼 납품해주신 물건을 한번 볼게요!
+80,"TEXT_CTSSFSCHARACTER1_00386_JUDGEMENT_ZHLOEALIAPOH_000_004","그럼 납품해주신 물건을 한번 볼게요!
 ……흐음…… 이건…… 쓰는 사람을 행복하게 해줄 걸작이네요!
 <Highlight>ObjectParameter(1)</Highlight> 님의 애정이 느껴져요!"
-82,"TEXT_CTSSFSCHARACTER1_00386_FULLBAG_000_000","소지품에 공간이 부족하여
+81,"TEXT_CTSSFSCHARACTER1_00386_FULLBAG_000_000","소지품에 공간이 부족하여
 신뢰도 상승 보상을 받을 수 없습니다."
-83,"TEXT_CTSSFSCHARACTER1_00386_FULLBAG_000_001","소지품을 정리한 뒤,
+82,"TEXT_CTSSFSCHARACTER1_00386_FULLBAG_000_001","소지품을 정리한 뒤,
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 다시 말을 거십시오."
-84,"TEXT_CTSSFSCHARACTER1_00386_BEFRANKUP_ZHLOEALIAPOH_000_000","<Highlight>ObjectParameter(1)</Highlight> 님이 도와주신 덕분에
+83,"TEXT_CTSSFSCHARACTER1_00386_BEFRANKUP_ZHLOEALIAPOH_000_000","<Highlight>ObjectParameter(1)</Highlight> 님이 도와주신 덕분에
 근동풍 소장품이 잔뜩 생겼어요!
 이 정도면 귀족분들도 기뻐하실 거예요!"
-85,"TEXT_CTSSFSCHARACTER1_00386_BEFRANKUP_ZHLOEALIAPOH_001_000","<Highlight>ObjectParameter(1)</Highlight> 님이 도와주신 덕분에
+84,"TEXT_CTSSFSCHARACTER1_00386_BEFRANKUP_ZHLOEALIAPOH_001_000","<Highlight>ObjectParameter(1)</Highlight> 님이 도와주신 덕분에
 한랭지 특산품이 잔뜩 생겼어요!
 바로 게게루주 상회에 팔러 가야겠어요!"
-86,"TEXT_CTSSFSCHARACTER1_00386_BEFRANKUP_ZHLOEALIAPOH_002_000","<Highlight>ObjectParameter(1)</Highlight> 님이 도와주신 덕분에
+85,"TEXT_CTSSFSCHARACTER1_00386_BEFRANKUP_ZHLOEALIAPOH_002_000","<Highlight>ObjectParameter(1)</Highlight> 님이 도와주신 덕분에
 흑와단 군수품이 잔뜩 생겼어요!
 이 정도면 오래오래 훈련을 할 수 있겠죠!"
-87,"TEXT_CTSSFSCHARACTER1_00386_BEFRANKUP_ZHLOEALIAPOH_003_000","<Highlight>ObjectParameter(1)</Highlight> 님이 도와주신 덕분에
+86,"TEXT_CTSSFSCHARACTER1_00386_BEFRANKUP_ZHLOEALIAPOH_003_000","<Highlight>ObjectParameter(1)</Highlight> 님이 도와주신 덕분에
 정성이 가득한 선물이 잔뜩 생겼어요!
 우리 아이들이 기뻐하면 좋겠네요……!"
-88,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_000","<Highlight>ObjectParameter(1)</Highlight> 님이 준비해주신
+87,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_000","<Highlight>ObjectParameter(1)</Highlight> 님이 준비해주신
 '근동풍 소장품'이 귀족분들의 마음에 들었나 봐요!
 다들 기뻐하면서 사가셨어요!"
-89,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_001","이 돈이 있으면
+88,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_001","이 돈이 있으면
 당분간 '메느피나의 집'은 걱정 없겠어요.
 <Highlight>ObjectParameter(1)</Highlight> 님, 감사합니다!"
-90,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_002","하지만 방심할 수는 없어요.
+89,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_002","하지만 방심할 수는 없어요.
 '메느피나의 집'을 운영하려면 앞으로도 돈이 들 테니까요.
 그래서 말인데…… 앞으로도 같이 일해주실 수 있나요……?"
-91,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_003","신난다! 정말 기뻐요!
+90,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_003","신난다! 정말 기뻐요!
 오늘은 기념으로 좋은 걸 먹어야지!
 아, 5일 전에 구운 납작빵이 좋겠다!"
-92,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_004","갓 구운 걸 먹어도 천벌 받지 않는다니까!
+91,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_004","갓 구운 걸 먹어도 천벌 받지 않는다니까!
 시로 언니는 항상 우릴 위해서 열심히 일하는걸!"
-93,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_005","그런데 이 <If(PlayerParameter(4))>언니<Else/>오빠</If>는 누구야?"
-94,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_006","이 분은 <Highlight>ObjectParameter(1)</Highlight> 님이야.
+92,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_005","그런데 이 <If(PlayerParameter(4))>언니<Else/>오빠</If>는 누구야?"
+93,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_006","이 분은 <Highlight>ObjectParameter(1)</Highlight> 님이야.
 엄청 대단한 모험가란다!
 언니 일을 많이 도와주시는 분이야!"
-95,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_007","우와~!
+94,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_007","우와~!
 <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>는 모험가예요?
 우리 엄마, 아빠랑 똑같다!"
-96,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_008","우리 아빠랑 엄마는 엄청 세거든요!
+95,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_008","우리 아빠랑 엄마는 엄청 세거든요!
 그래서 이딜샤이어 사람들 부탁도 많이 들어주고,
 지금은 '정예 마물'이라는 걸 물리치러 갔어요!"
-97,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_009","그런데 아무리 기다려도 돌아오지 않아서
+96,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_009","그런데 아무리 기다려도 돌아오지 않아서
 나 혼자서 심심하고 무서웠는데,
 시로 언니가 같이 놀아주고 밥도 해줬어요!"
-98,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_010","그래서 난 시로 언니가 정말 좋아요!
+97,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_010","그래서 난 시로 언니가 정말 좋아요!
 시로 언니를 도와주는
 <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>도 좋아요!"
-99,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_011","나 이제 가야겠다!
+98,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_001_011","나 이제 가야겠다!
 친구가 재밌는 얘길 만들어서, 들으러 가기로 했거든요!
 그럼 시로 언니랑 일 열심히 하세요!"
-100,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_012","저 아이의 부모님은 의뢰를 받고 정예 마물을 퇴치하러 갔어요.
+99,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_012","저 아이의 부모님은 의뢰를 받고 정예 마물을 퇴치하러 갔어요.
 한참 지나도 돌아오지 않아서, 친구분들이 찾으러 갔는데
 여전히 행방을 알 수 없어요……."
-101,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_013","혼자가 된 차케비는 비가 오나 바람이 부나,
+100,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_013","혼자가 된 차케비는 비가 오나 바람이 부나,
 밖에 나가 부모님이 돌아오기를 기다렸어요.
 누구보다도 먼저 맞이하려고요."
-102,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_014","살을 에는 추위 속에서도 부모님을 기다리는 그 아이를 보고
+101,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_014","살을 에는 추위 속에서도 부모님을 기다리는 그 아이를 보고
 저는 고아원…… '메느피나의 집'을 세우겠다고 결심했어요.
 혼자 우는 아이들을 내버려 둘 순 없으니까요."
-103,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_015","'메느피나의 집' 아이들이 불행해지지 않도록
+102,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_015","'메느피나의 집' 아이들이 불행해지지 않도록
 더욱 열심히 일할 거예요~!"
-104,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_000","만들어 주신 '한랭지 특산품'이 아주 잘 나가고 있어요!
+103,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_000","만들어 주신 '한랭지 특산품'이 아주 잘 나가고 있어요!
 뜨거운 햇살 아래서도 시원한 기분이 든다고, 대호평이에요!"
-105,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_001","덕분에 이번에도 큰돈을 벌었어요.
+104,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_001","덕분에 이번에도 큰돈을 벌었어요.
 '메느피나의 집' 운영이 안정되면
 아이들한테 학용품을 사주고 싶어요."
-106,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_002","나중에 독립하려면 공부는 꼭 해야 하니까요!
+105,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_002","나중에 독립하려면 공부는 꼭 해야 하니까요!
 저는 장사 말고 다른 데 재능이 없어서 상인이 되었지만
 우리 아이들에게는 더 많은 미래를 열어주고 싶어요."
-107,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_003","후후…… 얼마 전까지만 해도 문 닫기 직전이었는데……
+106,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_003","후후…… 얼마 전까지만 해도 문 닫기 직전이었는데……
 이게 다 <Highlight>ObjectParameter(1)</Highlight> 님 덕분이에요.
 정말 고맙습니다!"
-108,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_004","그나저나…… 오늘 같은 날은
+107,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_004","그나저나…… 오늘 같은 날은
 사흘 전에 구운 납작빵을 먹어도 되겠죠?
 저도 미력하나마 열심히 했으니까, 저 자신에게 주는 상으로요!"
-109,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_005","신난다!
+108,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_005","신난다!
 오랜만에 이 깨질 걱정 없이 밥을 먹겠네요!"
-110,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_006","아, 그래도 진짜로 깨진 적은 아직 한 번도 없어요!
+109,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_006","아, 그래도 진짜로 깨진 적은 아직 한 번도 없어요!
 치아 건강에는 제법 자신 있는 편이에요!"
-111,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_007","그리고 오래 돼서 돌처럼 딱딱해진 납작빵은
+110,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_007","그리고 오래 돼서 돌처럼 딱딱해진 납작빵은
 뜨거운 물에 불리면 부드러워지거든요!"
-112,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_008","맛은 없지만요…… 하긴, 이런 건 상식이죠!"
-113,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_000","<Highlight>ObjectParameter(1)</Highlight> 님!
+111,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_008","맛은 없지만요…… 하긴, 이런 건 상식이죠!"
+112,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_000","<Highlight>ObjectParameter(1)</Highlight> 님!
 아무래도 제 판단이 옳았던 것 같아요!"
-114,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_001","마침 흑와단 분들도 절실하게 필요하던 참이었나 봐요.
+113,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_001","마침 흑와단 분들도 절실하게 필요하던 참이었나 봐요.
 만들어 주신 '흑와단 군수품'이 몽땅 다 팔렸어요!"
-115,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_002","이만큼 돈이 있으면 아이들도
+114,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_002","이만큼 돈이 있으면 아이들도
 부족하지 않게 생활할 수 있을 거예요.
 정말 정말 감사합니다!"
-116,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_003","저도 이틀마다 하루 꼴로
+115,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_003","저도 이틀마다 하루 꼴로
 갓 구운 납작빵을 먹을 수 있겠어요."
-117,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_Q1_000_000","뭐라고 하시겠습니까?"
-118,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_A1_000_001","매일 먹지 그래?"
-119,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_A1_000_002","나머지 하루는 어쩌려고?"
-120,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_010","그, 그렇게 사치를 부리면
+116,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_Q1_000_000","뭐라고 하시겠습니까?"
+117,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_A1_000_001","매일 먹지 그래?"
+118,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_A1_000_002","나머지 하루는 어쩌려고?"
+119,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_010","그, 그렇게 사치를 부리면
 달의 신 메느피나 님께서 천벌을 내리실 거예요!"
-121,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_020","들꽃의 꿀을 빨아먹을 거예요."
-122,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_004_000","<Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>!
+120,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_020","들꽃의 꿀을 빨아먹을 거예요."
+121,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_004_000","<Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>!
 시로 언니!
 선물 정말 고마워요!"
-123,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_004_001","같은 방 친구도 되게 좋아했어요!
+122,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_004_001","같은 방 친구도 되게 좋아했어요!
 이렇게 신나는 날은 태어나서 처음이래요!"
-124,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_002","후후, 잘됐다.
+123,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_002","후후, 잘됐다.
 앞으로 매년 이렇게 축하하자?"
-125,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_KHLOEALIAPOH_004_003","언니, 일 많이 힘들지?
+124,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_KHLOEALIAPOH_004_003","언니, 일 많이 힘들지?
 멋진 생일잔치였어!"
-126,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_KHLOEALIAPOH_004_004","앗, <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>!
+125,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_KHLOEALIAPOH_004_004","앗, <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>!
 그렇구나, 우리 언니랑 같이 일한다는 사람이
 <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>였구나."
-127,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_KHLOEALIAPOH_004_005","이 <If(PlayerParameter(4))>언니<Else/>오빠</If>가 시로 언니랑 같이 일하는 사람이야?
+126,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_KHLOEALIAPOH_004_005","이 <If(PlayerParameter(4))>언니<Else/>오빠</If>가 시로 언니랑 같이 일하는 사람이야?
 우와, 되게 착해 보인다!"
-128,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_006","응, <Highlight>ObjectParameter(1)</Highlight> 님은
+127,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_006","응, <Highlight>ObjectParameter(1)</Highlight> 님은
 마음씨도 좋으시고 같이 일하기에도 든든하고……
 최고의 파트너야!"
-129,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_KHLOEALIAPOH_004_007","그렇구나!
+128,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_KHLOEALIAPOH_004_007","그렇구나!
 참, 케비야, 내가 새로운 이야기를 지었거든?
 얘기해줄 테니까 저기로 가자."
-130,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_004_008","와아!
+129,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_004_008","와아!
 이번엔 어떤 내용이야?
 기대된다!"
-131,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_004_009","<Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>,
+130,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_004_009","<Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>,
 시로 언니, 그럼 나중에 봐!"
-132,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_020","<Highlight>ObjectParameter(1)</Highlight> 님은
+131,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_020","<Highlight>ObjectParameter(1)</Highlight> 님은
 제 동생하고도 아는 사이셨군요."
-133,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_030","저 아이는 쿠로, 제 동생이에요."
-134,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_050","일 때문에 바빠서 잘 챙겨주지도 못하는 저를
+132,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_030","저 아이는 쿠로, 제 동생이에요."
+133,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_050","일 때문에 바빠서 잘 챙겨주지도 못하는 저를
 군말없이 도와주는 착한 동생이죠.
 속으로는 섭섭하기도 할 텐데 말예요."
-135,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_051","앞으로는 지금까지 못해준 만큼 많이 놀아줄 거예요.
+134,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_051","앞으로는 지금까지 못해준 만큼 많이 놀아줄 거예요.
 <Highlight>ObjectParameter(1)</Highlight> 님 덕분에
 '메느피나의 집' 운영 자금에도 여유가 생겼으니까요."
-136,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_052","하지만 우리 동업 관계가 끝나는 건 아니에요!
+135,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_052","하지만 우리 동업 관계가 끝나는 건 아니에요!
 앞으로도 저는 당신의 '단골'로 남고 싶어요."
-137,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_053","후후…… 고맙습니다.
+136,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_053","후후…… 고맙습니다.
 <Highlight>ObjectParameter(1)</Highlight> 님을 만나게 되어서,
 정말 다행이에요."
-138,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_100","지금 '메느피나의 집' 재정 상황은
+137,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_100","지금 '메느피나의 집' 재정 상황은
 썩 좋지 못해요……."
-139,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_101","운영 자금을 더 많이 모으고 싶지만
+138,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_101","운영 자금을 더 많이 모으고 싶지만
 개인 손님만으로는 아무래도 매상에 한계가 있죠.
 큰 조직과 거래하면 좋은데……."
-140,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_102","그, 래, 서!
+139,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_102","그, 래, 서!
 다음에는 울다하 출신 대부호, 게게루주 님이 운영하는
 '게게루주 상회'와 거래를 터보려고 해요!"
-141,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_103","그분이 개척한 휴양지 '코스타 델 솔'은
+140,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_103","그분이 개척한 휴양지 '코스타 델 솔'은
 1년 내내 태양이 눈부신 아름다운 곳이래요…….
 그래서 제가 생각한 게 있죠!"
-142,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_104","강렬한 햇살 아래서도 시원함을 느낄 수 있는
+141,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_104","강렬한 햇살 아래서도 시원함을 느낄 수 있는
 추운 지역의 특산물을 판매하면 분명 잘 팔릴 거예요!"
-143,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_105","그러니까…… <Highlight>ObjectParameter(1)</Highlight> 님은
+142,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_001_105","그러니까…… <Highlight>ObjectParameter(1)</Highlight> 님은
 '한랭지 특산품'을 준비해 주셨으면 해요!
 이건…… 바로 흑자로 돌아설 예감이 들어요!"
-144,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_100","지금 '메느피나의 집' 재정 상황은
+143,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_100","지금 '메느피나의 집' 재정 상황은
 위기를 탈출해서 겨우 한숨 돌린 참이에요!
 여기까지 온 것도 <Highlight>ObjectParameter(1)</Highlight> 님 덕분이죠……."
-145,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_101","이번에는 전보다 큰 거래처를 찾아서
+144,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_101","이번에는 전보다 큰 거래처를 찾아서
 '메느피나의 집' 재정을 안정 궤도에 올리고 싶어요!"
-146,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_102","그, 래, 서!
+145,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_102","그, 래, 서!
 제가 찾은 다음 거래처는……
 림사 로민사의 '흑와단'이에요!"
-147,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_103","벼랑 끝 주점의 단골 손님이 말하길,
+146,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_103","벼랑 끝 주점의 단골 손님이 말하길,
 요즘 흑와단이 대규모 군사 훈련을 준비하고 있대요.
 그러면 무기나 식량 같은 군수품이 많이 필요하겠죠?"
-148,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_104","저렴한 가격으로 품질 좋은 
+147,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_104","저렴한 가격으로 품질 좋은 
 군수품을 제공할 수 있다면……
 이 거래는 틀림없이 성공할 거예요!"
-149,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_105","그러니까 <Highlight>ObjectParameter(1)</Highlight> 님은
+148,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_002_105","그러니까 <Highlight>ObjectParameter(1)</Highlight> 님은
 '흑와단 군수품'을 준비해 주세요!
 이번엔 바로 흑자로 돌아설 예감이 들어요!"
-150,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_100","덕분에 '메느피나의 집'은
+149,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_100","덕분에 '메느피나의 집'은
 드디어 재정 적자에서 탈출했어요~!
 이젠 제 수입만으로 유지할 수 있을 거예요."
-151,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_101","<Highlight>ObjectParameter(1)</Highlight> 님 덕분에
+150,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_101","<Highlight>ObjectParameter(1)</Highlight> 님 덕분에
 아이들이 앞으로도 웃으면서 살 수 있게 됐어요…….
 정말로…… 감사합니다……."
-152,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_102","어머…… 차케비…… 왜 그러니?"
-153,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_003_103","음…… 있잖아, 같은 방에 있는 애가
+151,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_102","어머…… 차케비…… 왜 그러니?"
+152,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_003_103","음…… 있잖아, 같은 방에 있는 애가
 자기 생일을 모른대.
 그것 때문에 기운이 없어……."
-154,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_003_104","내가 '메느피나의 집'에 처음 왔을 때도
+153,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_003_104","내가 '메느피나의 집'에 처음 왔을 때도
 엄마랑 아빠가 없어서 힘들었는데……."
-155,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_003_105","그래도, 쿠로가 재밌는 이야기를 해주기도 하고,
+154,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_003_105","그래도, 쿠로가 재밌는 이야기를 해주기도 하고,
 나는 이제 혼자가 아니니까 괜찮아."
-156,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_003_106","그래서 나도 다른 친구한테 기운 나게 해주고 싶은데,
+155,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_003_106","그래서 나도 다른 친구한테 기운 나게 해주고 싶은데,
 시로 언니, 어떻게 해야 돼?"
-157,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_107","그래? 그럼 다 같이 생일잔치를 할까?
+156,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_107","그래? 그럼 다 같이 생일잔치를 할까?
 그날을 '메느피나의 집' 친구들 모두의 생일로 정하자.
 외톨이가 없는, 모두가 함께하는 생일잔치!"
-158,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_003_108","정말!? 우와아!
+157,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_TKEBBE_003_108","정말!? 우와아!
 빨리 그 애한테 말해줘야지!"
-159,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_109","고아가 되어 각지를 떠돌던 아이 중에는
+158,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_109","고아가 되어 각지를 떠돌던 아이 중에는
 남들이 축복해주는 기쁨도, 따스함도 모르는 아이가 있어요.
 그런 아이들을 위해 멋진 생일잔치를 준비해야겠어요!"
-160,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_110","그래, 울고 있을 틈이 없어!
+159,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_003_110","그래, 울고 있을 틈이 없어!
 아이들의 웃는 얼굴을 위해 힘내자~!!
 이거…… 멋진 날이 될 거라는 예감이 들어요!"
-161,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_100","그럼 다음 거래에 대해 설명할게요!"
-162,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_101","이번 고객은 '메느피나의 집' 시로 알리아포.
+160,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_100","그럼 다음 거래에 대해 설명할게요!"
+161,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_101","이번 고객은 '메느피나의 집' 시로 알리아포.
 부탁 드릴 소장품은………… '고아원 일용품'이에요!"
-163,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_102","아이들이 앞으로도 평온하게 살아가고
+162,"TEXT_CTSSFSCHARACTER1_00386_LCUT_RANKUP_ZHLOEALIAPOH_004_102","아이들이 앞으로도 평온하게 살아가고
 자라날 수 있도록 조금만 더 힘을 빌려주세요!
 이거…… 커다란 행복의 예감이 들어요!"
-164,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+163,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '마음씨 좋은 장인'으로 여기게 되었습니다!"
-165,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+164,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '믿을 수 있는 장인'으로 여기게 되었습니다!"
-166,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+165,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '고아원의 구원자'로 여기게 되었습니다!"
-167,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+166,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '고아원의 가족'으로 여기게 되었습니다!"
-168,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_001_001","'메느피나의 집'을 운영하는
+167,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_001_001","'메느피나의 집'을 운영하는
  <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
 당신에게 새로운 부탁이 있는 듯합니다……."
-169,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_001_002","'메느피나의 집' 재정 상황은 안정되었지만
+168,"TEXT_CTSSFSCHARACTER1_00386_RANKUPINFO_001_002","'메느피나의 집' 재정 상황은 안정되었지만
 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13> 새로운 부탁이 있는 듯합니다."
-170,"TEXT_CTSSFSCHARACTER1_00386_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
+169,"TEXT_CTSSFSCHARACTER1_00386_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
 '의뢰물 건네주기'를 선택해 확인하세요."
-171,"TEXT_CTSSFSCHARACTER1_00386_AFTRANKUP_001_001","앞으로 받을 의뢰는 일주일에 한 번
+170,"TEXT_CTSSFSCHARACTER1_00386_AFTRANKUP_001_001","앞으로 받을 의뢰는 일주일에 한 번
 지금까지 납품한 의뢰물 중에서 무작위로 선택됩니다."
-172,"TEXT_CTSSFSCHARACTER1_00386_AFTRANKUP_001_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
+171,"TEXT_CTSSFSCHARACTER1_00386_AFTRANKUP_001_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
 '의뢰물 건네주기'를 선택해 확인하세요."
-173,"TEXT_CTSSFSCHARACTER1_00386_AFTRANKUP_001_003","또한 '고아원 일용품', '무지개 안료',
+172,"TEXT_CTSSFSCHARACTER1_00386_AFTRANKUP_001_003","또한 '고아원 일용품', '무지개 안료',
 '민물새우'는 특히 많은 보상을 얻을 수 있습니다.
 목록에 포함되면 적극적으로 납품해 보세요."
-174,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_001_000","이렇게 많이 납품해주셔서 정말 감사합니다!"
-175,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_001_001","역시 숙련된 장인이시네요!
+173,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_001_000","이렇게 많이 납품해주셔서 정말 감사합니다!"
+174,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_001_001","역시 숙련된 장인이시네요!
 앞으로도 잘 부탁드려요~!"
-176,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_002_000","이번 주에도 많이 납품해주셔서 감사합니다!"
-177,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_002_001","하지만 너무 무리하시면 안 돼요.
+175,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_002_000","이번 주에도 많이 납품해주셔서 감사합니다!"
+176,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_002_001","하지만 너무 무리하시면 안 돼요.
 상인은 몸이 밑천이니까요!"
-178,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_003_000","우리 둘 다 열심히 일했네요~!"
-179,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_003_001","휴~ 빨리 '메느피나의 집'에 돌아가서
+177,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_003_000","우리 둘 다 열심히 일했네요~!"
+178,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_003_001","휴~ 빨리 '메느피나의 집'에 돌아가서
 아이들이랑 시원하게 씻고 싶어요……."
-180,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_003_002","<Highlight>ObjectParameter(1)</Highlight> 님도
+179,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_003_002","<Highlight>ObjectParameter(1)</Highlight> 님도
 푹 쉬셔서 피로를 푸셔야 해요~!
 앞으로도 잘 부탁드려요~!"
-181,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_004_000","물건 잘 받았습니다!"
-182,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_004_001","<Highlight>ObjectParameter(1)</Highlight> 님이 납품해주신 물건은
+180,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_004_000","물건 잘 받았습니다!"
+181,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_004_001","<Highlight>ObjectParameter(1)</Highlight> 님이 납품해주신 물건은
 정말 다 너무 멋져요…….
 제가 만난 장인 중에서 제일 뛰어나세요!"
-183,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_004_002","저는 많이 부족하지만, 오래오래 함께 하고 싶어요!
+182,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_004_002","저는 많이 부족하지만, 오래오래 함께 하고 싶어요!
 앞으로도 잘 부탁드릴게요!"
-184,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_000","이렇게 많이 납품해주셔서 감사합니다!"
-185,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_001","<Highlight>ObjectParameter(1)</Highlight> 님과 거래하게 된 후로
+183,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_000","이렇게 많이 납품해주셔서 감사합니다!"
+184,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_001","<Highlight>ObjectParameter(1)</Highlight> 님과 거래하게 된 후로
 저도 장사에 조금 자신이 생겼어요.
 ……아직 한참 멀었지만요."
-186,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_002","<Highlight>ObjectParameter(1)</Highlight> 님의 좋은 점을 본받아서
+185,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_002","<Highlight>ObjectParameter(1)</Highlight> 님의 좋은 점을 본받아서
 한 사람 몫을 거뜬히 하는 상인이 되겠어요!"
-187,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_003","그러니까 앞으로도 저와 함께 일해주셔야 해요!"
-188,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_Q1_000_000","뭐라고 하시겠습니까?"
-189,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_A1_000_001","함께 잘해보자"
-190,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_A1_000_002","싫어"
-191,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_010","네!
+186,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_003","그러니까 앞으로도 저와 함께 일해주셔야 해요!"
+187,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_Q1_000_000","뭐라고 하시겠습니까?"
+188,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_A1_000_001","함께 잘해보자"
+189,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_A1_000_002","싫어"
+190,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_010","네!
 <Highlight>ObjectParameter(1)</Highlight> 님을 더 확실하게 보고 배워서
 훌륭하게 성장할게요!"
-192,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_011","(또랑또랑)"
-193,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_020","으앙, <Highlight>ObjectParameter(1)</Highlight> 님, 농담이시죠!?
+191,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_011","(또랑또랑)"
+192,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_020","으앙, <Highlight>ObjectParameter(1)</Highlight> 님, 농담이시죠!?
 앞으로도 함께해 주세요!
 싫다고 하셔도 따라다닐 거예요!"
-194,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_021","아, 난 여기서 못 움직이지……."
-195,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_000","오늘도 납품 감사합니다~!"
-196,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_001","……같이 일한 지 꽤 시간이 지났는데,
+193,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_005_021","아, 난 여기서 못 움직이지……."
+194,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_000","오늘도 납품 감사합니다~!"
+195,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_001","……같이 일한 지 꽤 시간이 지났는데,
 제가 도움이 되고 있나요?"
-197,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_002","항상 도움받기만 해서
+196,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_002","항상 도움받기만 해서
 저도 조금이나마 힘이 되고 싶은데…….
 어때요……? 저는 잘하고 있나요?"
-198,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_003","저, 정말요!?
+197,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_003","저, 정말요!?
 <Highlight>ObjectParameter(1)</Highlight> 님이 인정해 주시니까
 너무 기뻐서 하늘이라도 날 것 같아요!"
-199,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_004","오늘은 갓 구운…… 아니, 기왕이면
+198,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_004","오늘은 갓 구운…… 아니, 기왕이면
 굽지도 않은 납작빵 반죽으로 기념할까 봐요!
 아니지, 그냥 확 재료인 밀가루로……!!"
-200,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_Q2_000_000","뭐라고 하시겠습니까?"
-201,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_A2_000_001","진정해"
-202,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_A2_000_002","배탈 난다"
-203,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_010","……헉!!
+199,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_Q2_000_000","뭐라고 하시겠습니까?"
+200,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_A2_000_001","진정해"
+201,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_A2_000_002","배탈 난다"
+202,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_010","……헉!!
 저도 참, 인정받은 게 너무 기뻐서 그만 흥분했어요……."
-204,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_011","……이렇게나 많이 부족하지만
+203,"TEXT_CTSSFSCHARACTER1_00386_RANKUP_ZHLOEALIAPOH_010_011","……이렇게나 많이 부족하지만
 앞으로도 동업자로서 잘 부탁드려요!"
-205,"TEXT_CTSSFSCHARACTER1_00386_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
+204,"TEXT_CTSSFSCHARACTER1_00386_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
 현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
 다시 납품할 수 있습니다."
-206,"TEXT_CTSSFSCHARACTER1_00386_DRESSUP_000_000","시로 알리아포의 신뢰 단계가 상승하여
+205,"TEXT_CTSSFSCHARACTER1_00386_DRESSUP_000_000","시로 알리아포의 신뢰 단계가 상승하여
 장비 투영을 할 수 있게 되었습니다."
+206,"TEXT_CTSSFSCHARACTER1_00386_GUIDE_004_001","（★未使用／削除予定★）"

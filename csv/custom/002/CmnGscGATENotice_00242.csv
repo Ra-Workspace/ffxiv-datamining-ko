@@ -2,17 +2,17 @@
 #,,
 int32,str,str
 0,"TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR","'<Switch(IntegerParameter(3))><Case(1)>신비의 광장 동쪽</Case><Case(2)>이벤트 광장</Case><Case(3)>원형 광장</Case><Case(4)>복권 추첨소</Case></Switch>'에서 골드 소서가 주최하는
-<Switch(IntegerParameter(2))><Case(1)>'구해라! 꼬마 친구 구조대'가</Case><Case(2)>'달려라! 랍토르 운수'가</Case><Case(3)>'찾아라! 변신 능력자'가</Case><Case(4)>'춤춰라! 댄스 마스터'가</Case><Case(5)>'버텨라! 콧바람 폭풍'이</Case><Case(6)>'뛰어라! 점핑 운동회'가</Case><Case(7)>'출격! 에어포스 조종사'가</Case></Switch> 개최될 예정입니다.
+<Switch(IntegerParameter(2))><Case(1)>'구해라! 꼬마 친구 구조대'가</Case><Case(2)>'달려라! 랍토르 운수'가</Case><Case(3)>'찾아라! 변신 능력자'가</Case><Case(4)>'춤춰라! 댄스 마스터'가</Case><Case(5)>'버텨라! 콧바람 폭풍'이</Case><Case(6)>'뛰어라! 점핑 운동회'가</Case><Case(7)>'출격! 에어포스 조종사'가</Case><Case(8)>'피해라! 참마 삼매경'이</Case></Switch> 개최될 예정입니다.
 많은 참가 부탁드립니다!"
 1,"TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM","다음 '돌발 게임'은 (현실 시간) <Time(IntegerParameter(1))/><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시 <TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>분에
 '<Switch(IntegerParameter(3))><Case(1)>신비의 광장 동쪽</Case><Case(2)>이벤트 광장</Case><Case(3)>원형 광장</Case><Case(4)>복권 추첨소</Case></Switch>'에서 개최됩니다.
 현장에 나타난 인물에게 말을 걸어 참가하세요!"
-2,"TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION","현재 <Switch(IntegerParameter(1))><Case(1)>'구해라! 꼬마 친구 구조대'가</Case><Case(2)>'달려라! 랍토르 운수'가</Case><Case(3)>'찾아라! 변신 능력자'가</Case><Case(4)>'춤춰라! 댄스 마스터'가</Case><Case(5)>'버텨라! 콧바람 폭풍'이</Case><Case(6)>'뛰어라! 점핑 운동회'가</Case><Case(7)>'출격! 에어포스 조종사'가</Case></Switch>
+2,"TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION","현재 <Switch(IntegerParameter(1))><Case(1)>'구해라! 꼬마 친구 구조대'가</Case><Case(2)>'달려라! 랍토르 운수'가</Case><Case(3)>'찾아라! 변신 능력자'가</Case><Case(4)>'춤춰라! 댄스 마스터'가</Case><Case(5)>'버텨라! 콧바람 폭풍'이</Case><Case(6)>'뛰어라! 점핑 운동회'가</Case><Case(7)>'출격! 에어포스 조종사'가</Case><Case(8)>'피해라! 참마 삼매경'이</Case></Switch>
 '<Switch(IntegerParameter(2))><Case(1)>신비의 광장 동쪽</Case><Case(2)>이벤트 광장</Case><Case(3)>원형 광장</Case><Case(4)>복권 추첨소</Case></Switch>'에서 참가 접수 중입니다.
 많은 참가 부탁드립니다!"
 3,"TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY","개최 장소로 안내해 드릴까요?"
 4,"TEXT_CMNGSCGATENOTICE_00242_WARP_GO","예"
 5,"TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL","아니요"
-6,"TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION","현재 <Switch(IntegerParameter(1))><Case(1)>'구해라! 꼬마 친구 구조대'가</Case><Case(2)>'달려라! 랍토르 운수'가</Case><Case(3)>'찾아라! 변신 능력자'가</Case><Case(4)>'춤춰라! 댄스 마스터'가</Case><Case(5)>'버텨라! 콧바람 폭풍'이</Case><Case(6)>'뛰어라! 점핑 운동회'가</Case><Case(7)>'출격! 에어포스 조종사'가</Case></Switch>
+6,"TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION","현재 <Switch(IntegerParameter(1))><Case(1)>'구해라! 꼬마 친구 구조대'가</Case><Case(2)>'달려라! 랍토르 운수'가</Case><Case(3)>'찾아라! 변신 능력자'가</Case><Case(4)>'춤춰라! 댄스 마스터'가</Case><Case(5)>'버텨라! 콧바람 폭풍'이</Case><Case(6)>'뛰어라! 점핑 운동회'가</Case><Case(7)>'출격! 에어포스 조종사'가</Case><Case(8)>'피해라! 참마 삼매경'이</Case></Switch>
 '<Switch(IntegerParameter(2))><Case(1)>신비의 광장 동쪽</Case><Case(2)>이벤트 광장</Case><Case(3)>원형 광장</Case><Case(4)>복권 추첨소</Case></Switch>'에서 진행되고 있습니다.
 많은 관람 부탁드립니다!"

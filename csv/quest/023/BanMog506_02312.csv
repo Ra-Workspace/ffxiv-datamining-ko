@@ -1,8 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG506_02312_SEQ_00","바르 레스 광장의 똘똘한 모그에크는 모험가에게 급한 부탁이 있는 듯하다."
-1,"TEXT_BANMOG506_02312_SEQ_01","모그에크가 작업 현장에서 낮잠 자는 성룡 일족의 코를 구름솜풀 솜털로 간지럽혀 깨워달라고 부탁했다. 바르 레스 광장에 있는 '몽글몽글 모그리'와 대화하자."
+0,"TEXT_BANMOG506_02312_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+바르 레스 광장의 똘똘한 모그에크는 모험가에게 급한 부탁이 있는 듯하다."
+1,"TEXT_BANMOG506_02312_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+모그에크가 작업 현장에서 낮잠 자는 성룡 일족의 코를 구름솜풀 솜털로 간지럽혀 깨워달라고 부탁했다. 바르 레스 광장에 있는 '몽글몽글 모그리'와 대화하자."
 2,"TEXT_BANMOG506_02312_SEQ_02","몽글몽글 모그리와 대화하고 구름솜풀에 탑승했다. 구름솜풀에 올라탄 상태로 하얀 궁전에 있는 <Sheet(EObj,2007279,0)/>에서 '솜털 뿌리기'를 사용하자.
 
 ※ 바르 레스 광장에 있는 '몽글몽글 모그리'에게 말을 걸면 '구름솜풀'에 탈 수 있습니다."

@@ -2,8 +2,7 @@
 #,,
 int32,str,str
 0,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_000","<If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 님께 경례!"
-1,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_000","세 도시의 총사령부가 모두 나서서
-알라그 유적을 두고 쟁탈전을 벌이는 최전방 전투……
+1,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_000","세 도시 총사령부 간의 분쟁지,
 '무법자의 전장'에 대해 궁금한 점이 있으십니까?"
 2,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_001","（★未使用／削除予定★）"
 3,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_002","（★未使用／削除予定★）"
@@ -21,7 +20,7 @@ int32,str,str
 15,"TEXT_COMDEFFRONTLINE_00182_A2_000_003","취소"
 16,"TEXT_COMDEFFRONTLINE_00182_A2_000_002","（★未使用／削除予定★）"
 17,"TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_010","'무법자의 전장'이란 3개 도시의 총사령부가
-알라그 유적을 놓고 대립 중인 분쟁 지대입니다.
+대립 중인 분쟁 지대입니다.
 일단 이 구역에 들어가면 전투를 피할 수 없을 겁니다."
 18,"TEXT_COMDEFFRONTLINE_00182_SYSTEM_000_011","'무법자의 전장'에서는 다수의 모험가들이
 총사령부별로 파티를 맺고 PvP 전투를 즐길 수 있습니다."

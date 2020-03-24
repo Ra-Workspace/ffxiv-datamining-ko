@@ -1,8 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG503_02309_SEQ_00","바르 레스 광장의 똘똘한 모그에크는 왠지 안절부절못하고 있다."
-1,"TEXT_BANMOG503_02309_SEQ_01","똘똘한 모그에크가 비룡 착륙지의 생산 시설을 재가동하기 위해, 웨이 아프를 도와 마력을 주입해달라고 부탁했다. 웨이 아프에 타기 위해, 바르 레스 광장에 있는 '날개가 푸른 아기용'과 대화하자."
+0,"TEXT_BANMOG503_02309_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+바르 레스 광장의 똘똘한 모그에크는 왠지 안절부절못하고 있다."
+1,"TEXT_BANMOG503_02309_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+똘똘한 모그에크가 비룡 착륙지의 생산 시설을 재가동하기 위해, 웨이 아프를 도와 마력을 주입해달라고 부탁했다. 웨이 아프에 타기 위해, 바르 레스 광장에 있는 '날개가 푸른 아기용'과 대화하자."
 2,"TEXT_BANMOG503_02309_SEQ_02","날개가 푸른 아기용과 대화하고, 웨이 아프에 탔다. 웨이 아프에 탑승한 상태로, 비룡 착륙지에 있는 <Sheet(EObj,2007275,0)/>에 '포효'를 사용하자.
 
 ※ 바르 레스 광장에 있는 '날개가 푸른 아기용'에게 말을 걸면 '웨이 아프'에 탈 수 있습니다."

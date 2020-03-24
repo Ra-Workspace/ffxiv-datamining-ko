@@ -1,9 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANKJN002_02974_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+0,"TEXT_BANKJN002_02974_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 푸른 물구슬에 있는 카부토는 보물을 찾으러 가고 싶은 듯하다."
-1,"TEXT_BANKJN002_02974_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow> 레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+1,"TEXT_BANKJN002_02974_SEQ_01","※ 이 퀘스트에는
+ '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
    퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
 
 카부토로부터 보물을 찾으러 얀샤로 같이 가자는 의뢰를 받았다. 얀샤의 나마이 마을에 있는 '카부토'와 대화하자."

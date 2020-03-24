@@ -4,19 +4,19 @@ int32,str,str
 0,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_GREETING_000","안녕, 최근에 한 경험 중에 재밌는 거 없었어?
 내가 노래로 만들어 부를 만한 모험담이 있다면
 꼭 들려줬으면 좋겠는데 말이야."
-1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","<If(Equal(IntegerParameter(1),20047))>스사노오<Else/><If(Equal(IntegerParameter(1),20049))>락슈미<Else/><If(Equal(IntegerParameter(1),20050))>신룡<Else/><If(Equal(IntegerParameter(1),30057))>바하무트<Else/><If(Equal(IntegerParameter(1),20052))>백호<Else/><If(Equal(IntegerParameter(1),20056))>츠쿠요미<Else/><If(Equal(IntegerParameter(1),30067))>알테마 웨폰<Else/><If(Equal(IntegerParameter(1),20058))>주작<Else/><If(Equal(IntegerParameter(1),20061))>청룡<Else/></If></If></If></If></If></If></If></If></If>에 대해 이야기한다"
+1,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT","<If(Equal(IntegerParameter(1),20047))>스사노오<Else/><If(Equal(IntegerParameter(1),20049))>락슈미<Else/><If(Equal(IntegerParameter(1),20050))>신룡<Else/><If(Equal(IntegerParameter(1),30057))>바하무트<Else/><If(Equal(IntegerParameter(1),20052))>백호<Else/><If(Equal(IntegerParameter(1),20056))>츠쿠요미<Else/><If(Equal(IntegerParameter(1),30067))>알테마 웨폰<Else/><If(Equal(IntegerParameter(1),20058))>주작<Else/><If(Equal(IntegerParameter(1),20061))>청룡<Else/><If(Equal(IntegerParameter(1),30086))>알렉산더<Else/></If></If></If></If></If></If></If></If></If></If>에 대해 이야기한다"
 2,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CANCEL","취소"
 3,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_NOSELECT_000","……지금은 과거를 회상하는 것보다 더 소중한 일이 있나 보지?
 후후후, 미래의 모험을 향해 달려가는 너의 눈동자는 아주 멋져.
 과거의 격전을 얘기하고 싶어지면 언제든지 또 찾아오도록 해."
 4,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_NOCONTENT_000","……아 그렇지, 지난번에 네가 얘기해 준 모험담 기억하지?
-거기서 얻은 영감으로 만든 희곡이 '무지코 극장'에서 아주 반응이 좋아!
+거기서 영감을 얻어 만든 희곡이 '무지코 극장'에서 호평 일색이야!
 관객들의 미소는 우리 창작자들에겐 활력의 원천이지."
 5,"TEXT_REGHIN3WANDERINGMINSTREL_00421_SYSTEM_OPENCONTENT_000","（★未使用／削除予定★）"
 6,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_000","자, 오늘은 어떤 이야기를 들려주려나?"
 7,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_001","……죽은 딸을 부활시키기 위해
 치유를 관장하는 야만신, 락슈미에 의지했던 어머니…….
-그리고 영혼 없는 인형이 된 딸이라……. 이리도 슬픈 이야기가 있나."
+그리고 영혼 없는 인형이 된 딸…… 이리도 슬픈 이야기가 있나."
 8,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_002","치유의 힘으로 부활하려 한들 영혼은 이미 육체 밖에 있고
 사라진 영혼을 기리고 슬픔에 고뇌하는 마음을 치유하기 위해
 계속 마음을 바친다……."
@@ -24,9 +24,9 @@ int32,str,str
 이 이야기를 희곡으로 만들어 사람들에게 들려줄 순 없겠어…….
 그저, 죽은 딸의 영혼에 바치기 위해서만 시를 지을게……."
 10,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_004","""어머니의 기도는 딸의 부활
- 미의 신이 치유하는 것은 딸의 육신, 흩어진 영혼은 돌아오지 않나니"""
+ 미의 신이 치유한 건 딸의 육신, 흩어진 혼은 돌아오지 않나니"""
 11,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_005","""어머니의 소망은 딸의 미소
- 미의 신이 보여준 것은 거짓된 꿈, 선잠 속에 진실은 없나니"""
+ 미의 신이 보여준 건 거짓된 꿈, 옅은 잠 속에 진실은 없나니"""
 12,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_006","……어때?
 괜히 슬픈 기억을 떠올리게 했는지도 모르겠네.
 들어줘서 고맙다……."
@@ -59,8 +59,8 @@ int32,str,str
 24,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_031","신룡…… 신이라 이름지어진 용이라…….
 알라미고를 걱정하며 죽어간 이들의 절망이 실체화된 야만신…….
 그들이 바라던 갈레말 제국을 멸망시키기 위한 힘……. "
-25,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_032","하지만 그 힘은 적장에게 넘어갔고, 최강의 적이 되어 앞을 막아섰지.
-목숨을 건 싸움 속에서밖에 남을 느끼지 못하는 슬픈 남자,
+25,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_032","하지만 그 힘은 적장에게 넘어가 최강의 적이 되어 앞을 막아섰지.
+목숨 건 싸움을 통하지 않고는 타인을 느낄 수 없는 슬픈 남자,
 제노스 예 갈부스와 함께……."
 26,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_033","""남자는 바라네 조국을 구할 힘과 원수에게 죽음을 안길 힘을
 육신을 버리고 주검과 맞바꿔 신의 용은 나타나리"""
@@ -235,4 +235,14 @@ int32,str,str
 물론 지금은 그럴 리 없다는 걸 알게 됐겠지."
 97,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_123","또 신기한 경험을 하면 이야기를 들려줘.
 앞으로도 난 네가 말하는 진실을 소재로 시를 짓고 싶어."
-98,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_CANCEL_000",""
+98,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_130",""
+99,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_131",""
+100,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_132",""
+101,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_133",""
+102,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_134",""
+103,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_135",""
+104,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_136",""
+105,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_137",""
+106,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_138",""
+107,"TEXT_REGHIN3WANDERINGMINSTREL_00421_WANDERINGMINSTREL_000_139",""
+108,"TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_CANCEL_000",""

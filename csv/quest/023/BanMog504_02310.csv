@@ -1,8 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG504_02310_SEQ_00","바르 레스 광장의 똘똘한 모그에크는 모험가의 도움이 필요한 듯하다."
-1,"TEXT_BANMOG504_02310_SEQ_01","모그에크가 조각가를 꿈꾸는 '조각을 좋아하는 모그리족'을 도와달라고 부탁했다. 성녀 시바 상에 있는 '조각을 좋아하는 모그리족'과 대화하자."
+0,"TEXT_BANMOG504_02310_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+바르 레스 광장의 똘똘한 모그에크는 모험가의 도움이 필요한 듯하다."
+1,"TEXT_BANMOG504_02310_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+모그에크가 조각가를 꿈꾸는 '조각을 좋아하는 모그리족'을 도와달라고 부탁했다. 성녀 시바 상에 있는 '조각을 좋아하는 모그리족'과 대화하자."
 2,"TEXT_BANMOG504_02310_SEQ_02","조각을 좋아하는 모그리족과 대화했다. 자신에게 무엇이 부족한지 파악하기 위해, 과제 작품을 만들어달라고 한다. 솜 알 멧부리에 있는 '수완 좋은 모그리족'과 대화하고, <Sheet(Item,15765,0)/><13>FF0F02280BFF054974656DF23D950103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
 3,"TEXT_BANMOG504_02310_SEQ_03","수완 좋은 모그리족과 대화하고 <Sheet(Item,15765,0)/><13>FF0F02280BFF054974656DF23D950103FF04EBA5BCFF04EC9D84</13> 손에 넣었다.<Sheet(Item,15765,0)/><14>FF0F02280BFF054974656DF23D950103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(ItemHQ,15739,0)/><13>FF1102280DFF074974656D4851F23D7B0103FF04EBA5BCFF04EC9D84</13> 제작하여 성녀 시바 상에 있는 '조각을 좋아하는 모그리족'에게 납품하자."
 4,"TEXT_BANMOG504_02310_SEQ_04","조각을 좋아하는 모그리족에게 <Sheet(ItemHQ,15739,0)/><13>FF1102280DFF074974656D4851F23D7B0103FF04EBA5BCFF04EC9D84</13> 납품했다. 바르 레스 광장에 있는 '똘똘한 모그에크'에게 보고하자."

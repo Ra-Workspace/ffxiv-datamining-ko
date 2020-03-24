@@ -1,10 +1,13 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANNAM002_03098_SEQ_00","※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
-
+0,"TEXT_BANNAM002_03098_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 도로 일로에 있는 교신은 모험가에게 할 말이 있는 것 같다."
-1,"TEXT_BANNAM002_03098_SEQ_01","교신과 대화했다. 참가자를 모아 달라는 부탁을 받았다. 얀샤의 유즈카 대관 저택에서 나마즈오들에게 '<Sheet(EventItem,2002472,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E280103FF04EBA5BCFF04EC9D84</13> 건네고 참가를 권유하자."
+1,"TEXT_BANNAM002_03098_SEQ_01","※ 이 퀘스트에는
+ '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+   퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
+
+교신과 대화했다. 참가자를 모아 달라는 부탁을 받았다. 얀샤의 유즈카 대관 저택에서 나마즈오들에게 '<Sheet(EventItem,2002472,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E280103FF04EBA5BCFF04EC9D84</13> 건네고 참가를 권유하자."
 2,"TEXT_BANNAM002_03098_SEQ_02","나마즈오들에게 <Sheet(EventItem,2002472,0)/><13>FF15022811FF0A4576656E744974656DF61E8E280103FF04EBA5BCFF04EC9D84</13> 건넸다. 아짐 대초원의 도로 일로에 있는 '교신'에게 알리자."
 3,"TEXT_BANNAM002_03098_SEQ_03","교신과 이야기했다. 교신은 제전을 열겠다고 선언했지만 가장 중요한 제전 내용을 정하지 않았다는 사실이 드러났다. 광풍원 세이게츠의 조언을 참고로 우선은 공물과 제단을 준비하기로 했다. 도로 일로에 있는 '교신'과 대화하자."
 4,"TEXT_BANNAM002_03098_SEQ_04","교신과 대화했다. 공물을 바치는 의식을 진행하기 위해 필요한 것을 준비하여 도로 일로에 있는 '교레이'에게 납품하자."

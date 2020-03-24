@@ -1,9 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANVAN101_02171_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+0,"TEXT_BANVAN101_02171_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 나키 섬의 무나바누는 고민이 있는 듯하다."
-1,"TEXT_BANVAN101_02171_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow> 레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+1,"TEXT_BANVAN101_02171_SEQ_01","※ 이 퀘스트에는
+ '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
    퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
 
 무나바누가 순찰 경비를 도와달라고 부탁했다. 오크 준두 북동쪽에 있는 네 군데의 <Sheet(EObj,2006639,0)/>에서 주위를 둘러보고, <Sheet(BNpcName,4586,0)/><13>FF1302280FFF09424E70634E616D65F211EA0103FF04EAB080FF04EC9DB4</13> 나타나면 처치하자."

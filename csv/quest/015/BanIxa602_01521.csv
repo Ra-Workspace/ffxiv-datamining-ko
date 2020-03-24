@@ -1,10 +1,14 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANIXA602_01521_SEQ_00","※ 이 퀘스트의 권장 레벨은 ""제작자 클래스 16, 전투 클래스 49 이상""입니다.
+0,"TEXT_BANIXA602_01521_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트의 권장 레벨은 ""제작자 클래스 16, 전투 클래스 49 이상""입니다.
 
 에카틀 실험장의 부단장 제즐 아후아탄은 모험가에게 어려운 의뢰를 하려는 것 같다."
-1,"TEXT_BANIXA602_01521_SEQ_01","부단장 제즐 아후아탄이 <Sheet(ItemHQ,　8121,0)/> 제작을 의뢰했다. 재료와 교환할 물건을 얻기 위해 원예가가 되어 커르다스 중앙고지 '용머리 전진기지' 주변에 있는 성목에서 <Sheet(EventItem,2001424,0)/> 15개, <Sheet(EventItem,2001425,0)/> 5개를 벌채하자."
+1,"TEXT_BANIXA602_01521_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+부단장 제즐 아후아탄이 <Sheet(ItemHQ,　8121,0)/> 제작을 의뢰했다. 재료와 교환할 물건을 얻기 위해 원예가가 되어 커르다스 중앙고지 '용머리 전진기지' 주변에 있는 성목에서 <Sheet(EventItem,2001424,0)/> 15개, <Sheet(EventItem,2001425,0)/> 5개를 벌채하자."
 2,"TEXT_BANIXA602_01521_SEQ_02","재료와 교환 가능한 목재를 벌채했다. 용머리 전진기지에 있는 '음침한 매점 관리인'에게 교환을 제의하자."
 3,"TEXT_BANIXA602_01521_SEQ_03","음침한 매점 관리인에게 <Sheet(EventItem,2001435,0)/><13>FF15022811FF0A4576656E744974656DF61E8A1B0103FF04EBA5BCFF04EC9D84</13> 수령하고 다음 지시를 받았다. 용머리 전진기지에 있는 '노르베토'에게 <Sheet(EventItem,2001435,0)/><13>FF15022811FF0A4576656E744974656DF61E8A1B0103FF04EBA5BCFF04EC9D84</13> 건네고 제작시설 사용 허가를 받자."
 4,"TEXT_BANIXA602_01521_SEQ_04","제작시설을 사용할 준비가 끝났다. <Sheet(Item,　8079,0)/><14>FF15022811FF054974656DFF08E38080383037390103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(ItemHQ,　8121,0)/><13>FF17022813FF074974656D4851FF08E38080383132310103FF04EBA5BCFF04EC9D84</13> 2개 제작하여 에카틀 실험장에 있는 '부단장 제즐 아후아탄'에게 납품하자.

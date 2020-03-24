@@ -1,9 +1,10 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANGNA604_02279_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+0,"TEXT_BANGNA604_02279_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 바스의 토굴집에 있는 연구자는 절실한 고민이 있는 듯하다."
-1,"TEXT_BANGNA604_02279_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow> 레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+1,"TEXT_BANGNA604_02279_SEQ_01","※ 이 퀘스트에는
+ '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
    퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
 
 연구자로부터 '이어진 자들'이 증설한 용 쫓는 향로를 정지시켜달라는 부탁을 받았다. 부정한 삼탑의 드래곤족이 '끊어진 자들'을 의심하여 불만을 호소하고 있는 모양이다. 연기 황야에 있는 <Sheet(EObj,2006945,0)/><13>FF1002280CFF05454F626AF61E9FA10103FF04EBA5BCFF04EC9D84</13> 4군데를 정지시키자."

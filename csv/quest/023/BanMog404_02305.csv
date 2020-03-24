@@ -1,8 +1,12 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_BANMOG404_02305_SEQ_00","바르 레스 광장의 똘똘한 모그에크는 모험가에게 할 말이 있는 모양이다."
-1,"TEXT_BANMOG404_02305_SEQ_01","모그에크가 샘 설계를 담당한 모그리의 고민을 들어달라고 부탁했다. 바르 레스 광장에 있는 '토대 담당 모그리족'과 대화하자."
+0,"TEXT_BANMOG404_02305_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+바르 레스 광장의 똘똘한 모그에크는 모험가에게 할 말이 있는 모양이다."
+1,"TEXT_BANMOG404_02305_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+ 적용됩니다.
+
+모그에크가 샘 설계를 담당한 모그리의 고민을 들어달라고 부탁했다. 바르 레스 광장에 있는 '토대 담당 모그리족'과 대화하자."
 2,"TEXT_BANMOG404_02305_SEQ_02","토대 담당 모그리족은 모그리족 설계사에게 제작법을 물어보고, 샘의 보수재를 만들어달라고 부탁했다. 드라바니아 구름바다 '지상왕 상'에 있는 '모그리족 설계사'와 대화하자."
 3,"TEXT_BANMOG404_02305_SEQ_03","모그리족 설계사와 대화하여 보수재 제작법을 물어보았다. 올 탄에 있는 <Sheet(EObj,2007244,0)/>에서 <Sheet(EventItem,2001989,0)/><13>FF15022811FF0A4576656E744974656DF61E8C450103FF04EBA5BCFF04EC9D84</13> 3개 손에 넣자."
 4,"TEXT_BANMOG404_02305_SEQ_04","<Sheet(EventItem,2001989,0)/> 3개를 손에 넣었다. 지상왕 상에 있는 '모그리족 설계사'에게 건네자."
