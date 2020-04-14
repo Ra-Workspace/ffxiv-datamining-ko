@@ -12529,8 +12529,8 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,single,str
 조금 더 날뛰어 볼까~!"
 9429,0,2,False,False,False,5,1,False,4,"읏차!
 이걸 꿰뚫어 볼 수 있을까?"
-9430,0,0,False,False,False,0,0,False,0,""
-9431,0,0,False,False,False,0,0,False,0,""
+9430,0,2,False,False,False,3,3,False,1,"야옹♪"
+9431,0,2,False,False,False,3,3,False,1,"고르릉~♪"
 9432,0,2,False,False,False,3,6,True,1,"콜록콜록…… 건강에 해로운 게 아니라면 좋을 텐데……."
 9433,0,2,False,False,False,3,5,False,1,"전에 방문했을 때와
 똑같은 전개가 될 것 같군…"
@@ -12583,31 +12583,49 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,single,str
 영원하라…!"
 9462,0,2,False,False,False,2,3,False,1,"모든 엘프를 위하여…!"
 9463,0,2,False,False,False,2,3,False,1,"이것으로 끝이다…!"
-9464,0,0,False,False,False,0,0,False,0,""
+9464,0,2,False,False,False,4,1,False,5,"좋아, 너희가 활약해준 덕에 거의 다 완성됐다!
+작업을 마친 사람부터 푹 쉬어!"
 9465,0,0,False,False,False,0,0,False,0,""
 9466,0,0,False,False,False,0,0,False,0,""
 9467,0,2,False,False,False,2,2,True,1,"으아아아아악!"
 9468,0,2,False,False,False,3,6,True,1,"0"
 9469,0,2,False,False,False,3,6,True,1,"반대편에서 공격해온다!"
-9470,0,0,False,False,False,0,0,False,0,""
-9471,0,0,False,False,False,0,0,False,0,""
-9472,0,0,False,False,False,0,0,False,0,""
-9473,0,0,False,False,False,0,0,False,0,""
-9474,0,0,False,False,False,0,0,False,0,""
-9475,0,0,False,False,False,0,0,False,0,""
-9476,0,0,False,False,False,0,0,False,0,""
-9477,0,0,False,False,False,0,0,False,0,""
-9478,0,0,False,False,False,0,0,False,0,""
-9479,0,0,False,False,False,0,0,False,0,""
-9480,0,0,False,False,False,0,0,False,0,""
-9481,0,0,False,False,False,0,0,False,0,""
-9482,0,0,False,False,False,0,0,False,0,""
-9483,0,0,False,False,False,0,0,False,0,""
-9484,0,0,False,False,False,0,0,False,0,""
-9485,0,0,False,False,False,0,0,False,0,""
-9486,0,0,False,False,False,0,0,False,0,""
-9487,0,0,False,False,False,0,0,False,0,""
-9488,0,0,False,False,False,0,0,False,0,""
+9470,0,2,False,False,False,4,1,False,5,"좋았어, 필요한 물자가 다 모였다!
+이제 부흥 공동 작업을 시작하자!"
+9471,0,2,False,False,False,4,1,False,5,"우선 광장 동쪽에 창구를 건설한다!
+필요한 물자를 '물자 적재소'에서 가져와 다오!"
+9472,0,2,False,False,False,4,1,False,5,"이것이 창천 거리 부흥의 첫걸음이다!
+너희 장인들의 솜씨를 보여줘!"
+9473,0,2,False,False,False,4,1,False,5,"부족했던 물자도 조달했으니…….
+슬슬 부흥 공동 작업을 재개하자!"
+9474,0,2,False,False,False,4,1,False,5,"이어서 광장 동쪽에서 작업을 시작한다!
+필요한 물자를 '물자 적재소'에서 가져와 다오!"
+9475,0,2,False,False,False,4,1,False,5,"오늘은 반드시 창구를 완성시키자!
+꼼꼼하게 마무리하자고!"
+9476,0,2,False,False,False,4,1,False,5,"이만큼 물자가 모였으니 충분하겠지…….
+좋았어, 부흥 공동 작업을 시작하자!"
+9477,0,2,False,False,False,4,1,False,5,"이번에는 광장 서쪽에 시설을 세울 계획이다!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+9478,0,2,False,False,False,4,1,False,5,"너희의 장인 정신을 보여주라고!"
+9479,0,2,False,False,False,4,1,False,5,"어디 보자, 소비한 만큼 물자가 보충된 것 같군……."
+9480,0,2,False,False,False,4,1,False,5,"이어서 광장 서쪽에서 작업을 시작한다!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+9481,0,2,False,False,False,4,1,False,5,"이제 곧 시설이 완성된다.
+모두 끝까지 정신 바짝 차리고 작업해줘!"
+9482,0,2,False,False,False,4,1,False,5,"좋아, 부흥 공동 작업을 시작하자!
+이 광장에 빛을 밝혀다오!"
+9483,0,2,False,False,False,4,1,False,5,"'물자 적재소'의 물자를 사용해서 연료를 만들고
+화톳불에 던져 넣으면 돼!"
+9484,0,2,False,False,False,4,1,False,5,"이름 없는 자들의 광장에
+장인 정신이 깃든 불꽃이 타오르게 해다오!"
+9485,0,2,False,False,False,4,1,False,5,"물자가 충분히 비축된 모양이군…….
+좋아, 마무리 작업을 시작하자!"
+9486,0,2,False,False,False,4,1,False,5,"이 물자들을 사용해서
+부흥 사업 게시판과 무료 급식소를 완성해줘!"
+9487,0,2,False,False,False,4,1,False,5,"이 광장의 부흥 공동 작업도 드디어 대단원이다!
+장인 여러분, 정신을 집중해서 작업해줘!"
+9488,0,2,False,False,False,4,1,False,5,"이봐, 진척률이 이래서야 부흥은 꿈도 못 꾸지 않겠어!?
+일단 작업을 중지하고 계획을 다시 세워야 하나……."
 9489,0,2,False,False,False,2,3,True,1,"강한 힘이 느껴져…!"
 9490,0,2,False,False,False,2,3,True,1,"나한테 맡겨!"
 9491,0,2,False,False,False,2,3,True,1,"알았어!"
