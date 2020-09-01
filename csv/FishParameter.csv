@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,Text,Item,GatheringItemLevel,IsHidden,,FishingRecordType,TerritoryType,GatheringSubCategory,IsInLog,TimeRestricted,WeatherRestricted
-int32,str,Row,GatheringItemLevelConvertTable,bit&01,bit&02,FishingRecordType,TerritoryType,GatheringSubCategory,bit&04,bit&08,bit&10
+#,Text,Item,GatheringItemLevel,,IsHidden,,FishingRecordType,TerritoryType,GatheringSubCategory,IsInLog,TimeRestricted
+int32,str,Row,GatheringItemLevelConvertTable,bit&01,bit&02,byte,FishingRecordType,TerritoryType,GatheringSubCategory,bit&08,bit&10
 0,"",0,0,False,False,0,0,0,True,False,False
 1,"쑥쑥 자라는 해조. 이름은 1말름(약 1600m)이나 되는 미역이 떠내려왔다는 전설에서 유래했다.",4776,4,False,False,0,128,0,True,False,False
 2,"낚싯바늘이 없어도 낚을 수 있다고 할 만큼 식욕이 왕성하다. 눈앞에서 움직이는 물체는 뭐든 집게발로 붙잡으려 한다.",4925,2,False,False,2,148,0,True,False,False

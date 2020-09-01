@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4
 #,LogKind,,,,Text
-int32,LogKind,uint16,byte,bit&01,str
+int32,uint16,uint16,byte,bit&01,str
 0,0,0,0,False,""
 1,57,1,0,False,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님을 파티에 초대했습니다."
 2,57,1,0,False,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 파티 초대를 취소했습니다."

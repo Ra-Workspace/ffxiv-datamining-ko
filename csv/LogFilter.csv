@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7
 #,LogKind,Caster,Target,Category,DisplayOrder,Preset,Name,Example
-int32,LogKind,uint16,uint16,byte,byte,byte,str,str
+int32,byte,uint16,uint16,byte,byte,byte,str,str
 0,0,65535,65535,0,0,0,"None",""
 1,10,65535,65535,1,1,1,"말하기","스콜: 안녕하세요!"
 2,11,65535,65535,1,3,1,"외치기","바츠: 안녕하세요!"

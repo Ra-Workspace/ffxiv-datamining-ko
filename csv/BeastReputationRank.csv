@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3
-#,RequiredReputation,Name,,
-int32,uint16,str,str,uint32
+#,RequiredReputation,Name,AlliedNames,Color
+int32,uint16,str,str,UIColor
 0,0,"없음","없음",0
 1,150,"중립","중립",56
 2,360,"인정","인정",57

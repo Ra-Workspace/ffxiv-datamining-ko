@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4
-#,,Format,Name,Example,LogKindCategoryText
-int32,byte,str,str,str,LogKindCategoryText
+#,,Format,,,
+int32,byte,str,str,str,byte
 0,0,"[LogKind 미설정]<Color(-3355444)><Highlight>StringParameter(2)</Highlight></Color>","None","",0
 1,0,"<Color(-3355444)><Highlight>StringParameter(2)</Highlight></Color>","Debug","",0
 2,0,"<Color(-32897)><Highlight>StringParameter(2)</Highlight></Color>","긴급 공지","",0
