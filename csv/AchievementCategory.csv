@@ -25,17 +25,17 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 21,"분해",4,True,False,3
 22,"소장품",4,True,False,4
 23,"마테리아",4,True,False,5
-24,"목수",5,True,False,1
-25,"대장장이",5,True,False,2
-26,"갑주제작사",5,True,False,3
-27,"보석공예가",5,True,False,4
-28,"가죽공예가",5,True,False,5
-29,"재봉사",5,True,False,6
-30,"연금술사",5,True,False,7
-31,"요리사",5,True,False,8
-32,"광부",6,True,False,1
-33,"원예가",6,True,False,2
-34,"어부",6,True,False,3
+24,"목수",5,True,False,2
+25,"대장장이",5,True,False,3
+26,"갑주제작사",5,True,False,4
+27,"보석공예가",5,True,False,5
+28,"가죽공예가",5,True,False,6
+29,"재봉사",5,True,False,7
+30,"연금술사",5,True,False,8
+31,"요리사",5,True,False,9
+32,"광부",5,True,False,10
+33,"원예가",5,True,False,11
+34,"어부",5,True,False,12
 35,"일반",8,True,False,1
 36,"의뢰",8,True,False,2
 37,"야만족 퀘스트",8,True,False,3
@@ -69,3 +69,5 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 65,"딥 던전 마기",4,True,False,9
 66,"에우레카 웨폰",4,True,False,10
 67,"노르브란트",11,True,False,11
+68,"",0,False,False,0
+69,"",0,False,False,0

@@ -1,0 +1,88 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANQIQ122_03827_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+호파루의 소반에 있는 코테루리 파소리는 시도해보고 싶은 것이 있는 듯하다."
+1,"TEXT_BANQIQ122_03827_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+2,"TEXT_BANQIQ122_03827_SEQ_02",""
+3,"TEXT_BANQIQ122_03827_SEQ_03",""
+4,"TEXT_BANQIQ122_03827_SEQ_04",""
+5,"TEXT_BANQIQ122_03827_SEQ_05",""
+6,"TEXT_BANQIQ122_03827_SEQ_06",""
+7,"TEXT_BANQIQ122_03827_SEQ_07",""
+8,"TEXT_BANQIQ122_03827_SEQ_08",""
+9,"TEXT_BANQIQ122_03827_SEQ_09",""
+10,"TEXT_BANQIQ122_03827_SEQ_10",""
+11,"TEXT_BANQIQ122_03827_SEQ_11",""
+12,"TEXT_BANQIQ122_03827_SEQ_12",""
+13,"TEXT_BANQIQ122_03827_SEQ_13",""
+14,"TEXT_BANQIQ122_03827_SEQ_14",""
+15,"TEXT_BANQIQ122_03827_SEQ_15",""
+16,"TEXT_BANQIQ122_03827_SEQ_16",""
+17,"TEXT_BANQIQ122_03827_SEQ_17",""
+18,"TEXT_BANQIQ122_03827_SEQ_18",""
+19,"TEXT_BANQIQ122_03827_SEQ_19",""
+20,"TEXT_BANQIQ122_03827_SEQ_20",""
+21,"TEXT_BANQIQ122_03827_SEQ_21",""
+22,"TEXT_BANQIQ122_03827_SEQ_22",""
+23,"TEXT_BANQIQ122_03827_SEQ_23",""
+24,"TEXT_BANQIQ122_03827_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>크물 별유적의 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>크물 별유적의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 눈물에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+25,"TEXT_BANQIQ122_03827_TODO_01",""
+26,"TEXT_BANQIQ122_03827_TODO_02",""
+27,"TEXT_BANQIQ122_03827_TODO_03",""
+28,"TEXT_BANQIQ122_03827_TODO_04",""
+29,"TEXT_BANQIQ122_03827_TODO_05",""
+30,"TEXT_BANQIQ122_03827_TODO_06",""
+31,"TEXT_BANQIQ122_03827_TODO_07",""
+32,"TEXT_BANQIQ122_03827_TODO_08",""
+33,"TEXT_BANQIQ122_03827_TODO_09",""
+34,"TEXT_BANQIQ122_03827_TODO_10",""
+35,"TEXT_BANQIQ122_03827_TODO_11",""
+36,"TEXT_BANQIQ122_03827_TODO_12",""
+37,"TEXT_BANQIQ122_03827_TODO_13",""
+38,"TEXT_BANQIQ122_03827_TODO_14",""
+39,"TEXT_BANQIQ122_03827_TODO_15",""
+40,"TEXT_BANQIQ122_03827_TODO_16",""
+41,"TEXT_BANQIQ122_03827_TODO_17",""
+42,"TEXT_BANQIQ122_03827_TODO_18",""
+43,"TEXT_BANQIQ122_03827_TODO_19",""
+44,"TEXT_BANQIQ122_03827_TODO_20",""
+45,"TEXT_BANQIQ122_03827_TODO_21",""
+46,"TEXT_BANQIQ122_03827_TODO_22",""
+47,"TEXT_BANQIQ122_03827_TODO_23",""
+48,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_000","<Highlight>ObjectParameter(1)</Highlight> 님께서는
+욱스 네르 피라미드에 가보신 적이 있나요~?"
+49,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_001","피라미드 내부에는 올빼미 조각상이 많이 있다는데,
+방어 기구 장치로도 이용되고 있다고 해요~!
+총명한 비스족한테서 들은 이야기랍니다~."
+50,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_002","하여 저희도 생각했사와요~!
+이 유적지를 마물한테서 보호할 장치를 만들어야겠다고요~!
+꼭 좀 협력 부탁드려요~."
+51,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_003","마력을 함유한 휘석을 이용해 장치를 만들 거예요~!
+크물 별유적에서 '<Sheet(ItemHQ,29533,0)/>'<13>FF1102280DFF074974656D4851F2735D0103FF04EBA5BCFF04EC9D84</13>
+캐서 가져와 주시어요~!"
+52,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_004","마력이 깃들어 있는 견과류를 이용해 장치를 만들 거예요~!
+크물 별유적에서 '<Sheet(ItemHQ,29559,0)/>'<13>FF1102280DFF074974656D4851F273770103FF04EBA5BCFF04EC9D84</13>
+채집해서 가져와 주시어요~."
+53,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_005","마력이 축적된 진주를 이용해 장치를 만들 거예요~!
+뮤릴의 눈물에서 <Sheet(Item,27582,0)/><13>FF0F02280BFF054974656DF26BBE0103FF04EBA5BCFF04EC9D84</13> 미끼로 써서
+'<Sheet(Item,29585,0)/>'<13>FF0F02280BFF054974656DF273910103FF04EBA5BCFF04EC9D84</13> 잡아서 가져와 주시어요~."
+54,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_006","마력을 함유한 휘석을 이용해 장치를 만들 거예요~!
+크물 별유적에서 '<Sheet(ItemHQ,29533,0)/>'<13>FF1102280DFF074974656D4851F2735D0103FF04EBA5BCFF04EC9D84</13>
+캐서 가져와 주시어요~!"
+55,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_007","마력이 깃들어 있는 견과류를 이용해 장치를 만들 거예요~!
+크물 별유적에서 '<Sheet(ItemHQ,29559,0)/>'<13>FF1102280DFF074974656D4851F273770103FF04EBA5BCFF04EC9D84</13>
+채집해서 가져와 주시어요~."
+56,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_008","마력이 축적된 진주를 이용해 장치를 만들 거예요~!
+뮤릴의 눈물에서 <Sheet(Item,27582,0)/><13>FF0F02280BFF054974656DF26BBE0103FF04EBA5BCFF04EC9D84</13> 미끼로 써서
+'<Sheet(Item,29585,0)/>'<13>FF0F02280BFF054974656DF273910103FF04EBA5BCFF04EC9D84</13> 잡아서 가져와 주시어요~."
+57,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_010","수고하셨습니다~.
+장치용 재료는 구해오셨어요~?"
+58,"TEXT_BANQIQ122_03827_QHOTERLPASOL_000_011","협력해 주셔서 감사드려요~!
+깃들어 있는 마력으로 마법 장치 허수아비를 만들 거랍니다~.
+무섭게 생겼다면서 우리집 애가 오줌을 싸지 않아야 할 텐데요~."
+59,"TEXT_BANQIQ122_03827_SYSTEM_000_020","퀘스트 수행 중에 일반 품질 아이템이 채집되었습니다.
+HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
+소지품 공간이 부족하다면 버리셔도 됩니다."

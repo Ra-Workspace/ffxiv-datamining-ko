@@ -1,0 +1,87 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANQIQ112_03817_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+호파루의 소반에 있는 코테루리 파소리는 때를 벗겨내고 싶은 듯하다."
+1,"TEXT_BANQIQ112_03817_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+2,"TEXT_BANQIQ112_03817_SEQ_02",""
+3,"TEXT_BANQIQ112_03817_SEQ_03",""
+4,"TEXT_BANQIQ112_03817_SEQ_04",""
+5,"TEXT_BANQIQ112_03817_SEQ_05",""
+6,"TEXT_BANQIQ112_03817_SEQ_06",""
+7,"TEXT_BANQIQ112_03817_SEQ_07",""
+8,"TEXT_BANQIQ112_03817_SEQ_08",""
+9,"TEXT_BANQIQ112_03817_SEQ_09",""
+10,"TEXT_BANQIQ112_03817_SEQ_10",""
+11,"TEXT_BANQIQ112_03817_SEQ_11",""
+12,"TEXT_BANQIQ112_03817_SEQ_12",""
+13,"TEXT_BANQIQ112_03817_SEQ_13",""
+14,"TEXT_BANQIQ112_03817_SEQ_14",""
+15,"TEXT_BANQIQ112_03817_SEQ_15",""
+16,"TEXT_BANQIQ112_03817_SEQ_16",""
+17,"TEXT_BANQIQ112_03817_SEQ_17",""
+18,"TEXT_BANQIQ112_03817_SEQ_18",""
+19,"TEXT_BANQIQ112_03817_SEQ_19",""
+20,"TEXT_BANQIQ112_03817_SEQ_20",""
+21,"TEXT_BANQIQ112_03817_SEQ_21",""
+22,"TEXT_BANQIQ112_03817_SEQ_22",""
+23,"TEXT_BANQIQ112_03817_SEQ_23",""
+24,"TEXT_BANQIQ112_03817_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속에서 <Sheet(Item,IntegerParameter(5),0)/> 작살질<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+25,"TEXT_BANQIQ112_03817_TODO_01",""
+26,"TEXT_BANQIQ112_03817_TODO_02",""
+27,"TEXT_BANQIQ112_03817_TODO_03",""
+28,"TEXT_BANQIQ112_03817_TODO_04",""
+29,"TEXT_BANQIQ112_03817_TODO_05",""
+30,"TEXT_BANQIQ112_03817_TODO_06",""
+31,"TEXT_BANQIQ112_03817_TODO_07",""
+32,"TEXT_BANQIQ112_03817_TODO_08",""
+33,"TEXT_BANQIQ112_03817_TODO_09",""
+34,"TEXT_BANQIQ112_03817_TODO_10",""
+35,"TEXT_BANQIQ112_03817_TODO_11",""
+36,"TEXT_BANQIQ112_03817_TODO_12",""
+37,"TEXT_BANQIQ112_03817_TODO_13",""
+38,"TEXT_BANQIQ112_03817_TODO_14",""
+39,"TEXT_BANQIQ112_03817_TODO_15",""
+40,"TEXT_BANQIQ112_03817_TODO_16",""
+41,"TEXT_BANQIQ112_03817_TODO_17",""
+42,"TEXT_BANQIQ112_03817_TODO_18",""
+43,"TEXT_BANQIQ112_03817_TODO_19",""
+44,"TEXT_BANQIQ112_03817_TODO_20",""
+45,"TEXT_BANQIQ112_03817_TODO_21",""
+46,"TEXT_BANQIQ112_03817_TODO_22",""
+47,"TEXT_BANQIQ112_03817_TODO_23",""
+48,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_000","정말 해도 해도 너무하지 뭐여요~.
+대원들이 탐색에 나갔다 돌아오면
+옷에 묻은 흙먼지와 냄새가 너무나 심하답니다~!"
+49,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_001","키타리족은 청결을 중시하고 있사와요~.
+그런 먼지투성이 모습은 가엽기 그지없답니다~."
+50,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_010","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
+'<Sheet(Item,29526,0)/>'<13>FF0F02280BFF054974656DF273560103FF04EBA5BCFF04EC9D84</13> 3개 정도
+구해서 가져다 주시어요~."
+51,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_020","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
+'<Sheet(Item,29552,0)/>'<13>FF0F02280BFF054974656DF273700103FF04EBA5BCFF04EC9D84</13> 3개 정도
+구해서 가져다 주시어요~."
+52,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_030","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
+'<Sheet(Item,29578,0)/>'<13>FF0F02280BFF054974656DF2738A0103FF04EBA5BCFF04EC9D84</13> 잡아서 가져다 주시어요~.
+아마 작살질로 잡을 수 있을 거예요~."
+53,"TEXT_BANQIQ112_03817_SYSTEM_100_040","이 퀘스트를 진행하기 위해서는
+퀘스트 '작살질을 해보자'를 완료하여
+'작살질'을 개방해야 합니다."
+54,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_040","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
+'<Sheet(Item,29526,0)/>'<13>FF0F02280BFF054974656DF273560103FF04EBA5BCFF04EC9D84</13> 3개 정도
+구해서 가져다 주시어요~."
+55,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_050","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
+'<Sheet(Item,29552,0)/>'<13>FF0F02280BFF054974656DF273700103FF04EBA5BCFF04EC9D84</13> 3개 정도
+구해서 가져다 주시어요~."
+56,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_060","다들 깨끗하게 씻을 수 있도록 투시 메키타 호수의 물속에서
+'<Sheet(Item,29578,0)/>'<13>FF0F02280BFF054974656DF2738A0103FF04EBA5BCFF04EC9D84</13> 잡아서 가져다 주시어요~.
+아마 작살질로 잡을 수 있을 거예요~."
+57,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_070","탐색 후의 지저분한 모습은 도저히 봐줄 수가 없사와요~!
+의뢰드린 물건은 모아 오셨나요~?"
+58,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_080","감사드려요~.
+이게 있으면 묵은 때도 말끔하게 씻어내고
+몸도 마음도 개운해질 거예요~!"
+59,"TEXT_BANQIQ112_03817_QHOTERLPASOL_000_081","자, 그럼 먼저 가장 지저분한 남편과 우리 아이를
+귀 끝부터 발톱 끝까지 뽀득뽀득 씻기겠사와요~!"

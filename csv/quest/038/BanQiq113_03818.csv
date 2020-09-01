@@ -1,0 +1,87 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANQIQ113_03818_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+호파루의 소반에 있는 코테루리 파소리는 유물을 복구하고 싶은 듯하다."
+1,"TEXT_BANQIQ113_03818_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+2,"TEXT_BANQIQ113_03818_SEQ_02",""
+3,"TEXT_BANQIQ113_03818_SEQ_03",""
+4,"TEXT_BANQIQ113_03818_SEQ_04",""
+5,"TEXT_BANQIQ113_03818_SEQ_05",""
+6,"TEXT_BANQIQ113_03818_SEQ_06",""
+7,"TEXT_BANQIQ113_03818_SEQ_07",""
+8,"TEXT_BANQIQ113_03818_SEQ_08",""
+9,"TEXT_BANQIQ113_03818_SEQ_09",""
+10,"TEXT_BANQIQ113_03818_SEQ_10",""
+11,"TEXT_BANQIQ113_03818_SEQ_11",""
+12,"TEXT_BANQIQ113_03818_SEQ_12",""
+13,"TEXT_BANQIQ113_03818_SEQ_13",""
+14,"TEXT_BANQIQ113_03818_SEQ_14",""
+15,"TEXT_BANQIQ113_03818_SEQ_15",""
+16,"TEXT_BANQIQ113_03818_SEQ_16",""
+17,"TEXT_BANQIQ113_03818_SEQ_17",""
+18,"TEXT_BANQIQ113_03818_SEQ_18",""
+19,"TEXT_BANQIQ113_03818_SEQ_19",""
+20,"TEXT_BANQIQ113_03818_SEQ_20",""
+21,"TEXT_BANQIQ113_03818_SEQ_21",""
+22,"TEXT_BANQIQ113_03818_SEQ_22",""
+23,"TEXT_BANQIQ113_03818_SEQ_23",""
+24,"TEXT_BANQIQ113_03818_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 광맥에서 <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속에서 <Sheet(Item,IntegerParameter(5),0)/> 작살질<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+25,"TEXT_BANQIQ113_03818_TODO_01",""
+26,"TEXT_BANQIQ113_03818_TODO_02",""
+27,"TEXT_BANQIQ113_03818_TODO_03",""
+28,"TEXT_BANQIQ113_03818_TODO_04",""
+29,"TEXT_BANQIQ113_03818_TODO_05",""
+30,"TEXT_BANQIQ113_03818_TODO_06",""
+31,"TEXT_BANQIQ113_03818_TODO_07",""
+32,"TEXT_BANQIQ113_03818_TODO_08",""
+33,"TEXT_BANQIQ113_03818_TODO_09",""
+34,"TEXT_BANQIQ113_03818_TODO_10",""
+35,"TEXT_BANQIQ113_03818_TODO_11",""
+36,"TEXT_BANQIQ113_03818_TODO_12",""
+37,"TEXT_BANQIQ113_03818_TODO_13",""
+38,"TEXT_BANQIQ113_03818_TODO_14",""
+39,"TEXT_BANQIQ113_03818_TODO_15",""
+40,"TEXT_BANQIQ113_03818_TODO_16",""
+41,"TEXT_BANQIQ113_03818_TODO_17",""
+42,"TEXT_BANQIQ113_03818_TODO_18",""
+43,"TEXT_BANQIQ113_03818_TODO_19",""
+44,"TEXT_BANQIQ113_03818_TODO_20",""
+45,"TEXT_BANQIQ113_03818_TODO_21",""
+46,"TEXT_BANQIQ113_03818_TODO_22",""
+47,"TEXT_BANQIQ113_03818_TODO_23",""
+48,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_000","지금까지 발굴 작업을 하면서 갖가지 유물이 발견되었지만,
+안타깝게도 파손된 것도 많답니다~."
+49,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_001","선조님께서 남겨준 소중한 보물이기에
+이것을 복구하고 싶은데 말이어요,
+부족한 것이 있사와요~."
+50,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_010","뮤릴의 향수에서 캘 수 있는 '<Sheet(Item,29527,0)/>'<13>FF0F02280BFF054974656DF273570103FF04EAB080FF04EC9DB4</13>
+3개 정도 있으면 충분할 듯한데,
+구해다 주시겠어요~?"
+51,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_020","뮤릴의 향수에서 채집할 수 있는 '<Sheet(Item,29553,0)/>'<13>FF0F02280BFF054974656DF273710103FF04EAB080FF04EC9DB4</13>
+3개 정도 있으면 충분할 듯한데,
+구해다 주시겠어요~?"
+52,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_030","투시 메키타 호수에 서식하는 '<Sheet(Item,29579,0)/>'<13>FF0F02280BFF054974656DF2738B0103FF04EBA5BCFF04EC9D84</13>
+구해다 주시겠어요~?
+아마 작살질로 잡을 수 있을 거예요~."
+53,"TEXT_BANQIQ113_03818_SYSTEM_100_040","이 퀘스트를 진행하기 위해서는
+퀘스트 '작살질을 해보자'를 완료하여
+'작살질'을 개방해야 합니다."
+54,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_040","뮤릴의 향수에서 캘 수 있는 '<Sheet(Item,29527,0)/>'<13>FF0F02280BFF054974656DF273570103FF04EBA5BCFF04EC9D84</13>
+3개 정도 구해다 주시겠어요~?
+유물을 복구할 때 사용할 것이랍니다~."
+55,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_050","뮤릴의 향수에서 채집할 수 있는 '<Sheet(Item,29553,0)/>'<13>FF0F02280BFF054974656DF273710103FF04EBA5BCFF04EC9D84</13>
+3개 정도 구해다 주시겠어요~?
+유물을 복구할 때 사용할 것이랍니다~."
+56,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_060","투시 메키타 호수에 서식하는 '<Sheet(Item,29579,0)/>'<13>FF0F02280BFF054974656DF2738B0103FF04EBA5BCFF04EC9D84</13>
+구해다 주시겠어요~?
+아마 작살질로 잡을 수 있을 거예요~."
+57,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_070","유물 복구에 필요한 것은
+무사히 모아 오셨나요~?"
+58,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_080","이게 있으면 문제없이 유물을 복구할 수 있겠어요~!
+일족의 신성한 보물은 물론 소중하지만,
+유물을 원래의 형태로 계승해 나가는 것도 중요하지요~."
+59,"TEXT_BANQIQ113_03818_QHOTERLPASOL_000_081","복구한 유물은 우리 아이에게
+그리고 또 그 아이들에게 반드시 이어 나갈 것이어요~!"

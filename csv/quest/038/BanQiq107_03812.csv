@@ -1,0 +1,92 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANQIQ107_03812_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+호파루의 소반에 있는 코테루리 파소리는 향수 재료를 모아주기를 원하는 듯하다."
+1,"TEXT_BANQIQ107_03812_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+2,"TEXT_BANQIQ107_03812_SEQ_02",""
+3,"TEXT_BANQIQ107_03812_SEQ_03",""
+4,"TEXT_BANQIQ107_03812_SEQ_04",""
+5,"TEXT_BANQIQ107_03812_SEQ_05",""
+6,"TEXT_BANQIQ107_03812_SEQ_06",""
+7,"TEXT_BANQIQ107_03812_SEQ_07",""
+8,"TEXT_BANQIQ107_03812_SEQ_08",""
+9,"TEXT_BANQIQ107_03812_SEQ_09",""
+10,"TEXT_BANQIQ107_03812_SEQ_10",""
+11,"TEXT_BANQIQ107_03812_SEQ_11",""
+12,"TEXT_BANQIQ107_03812_SEQ_12",""
+13,"TEXT_BANQIQ107_03812_SEQ_13",""
+14,"TEXT_BANQIQ107_03812_SEQ_14",""
+15,"TEXT_BANQIQ107_03812_SEQ_15",""
+16,"TEXT_BANQIQ107_03812_SEQ_16",""
+17,"TEXT_BANQIQ107_03812_SEQ_17",""
+18,"TEXT_BANQIQ107_03812_SEQ_18",""
+19,"TEXT_BANQIQ107_03812_SEQ_19",""
+20,"TEXT_BANQIQ107_03812_SEQ_20",""
+21,"TEXT_BANQIQ107_03812_SEQ_21",""
+22,"TEXT_BANQIQ107_03812_SEQ_22",""
+23,"TEXT_BANQIQ107_03812_SEQ_23",""
+24,"TEXT_BANQIQ107_03812_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 광맥에서 <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>투시 메키타 호수의 물속에서 <Sheet(Item,IntegerParameter(5),0)/> 작살질<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+25,"TEXT_BANQIQ107_03812_TODO_01",""
+26,"TEXT_BANQIQ107_03812_TODO_02",""
+27,"TEXT_BANQIQ107_03812_TODO_03",""
+28,"TEXT_BANQIQ107_03812_TODO_04",""
+29,"TEXT_BANQIQ107_03812_TODO_05",""
+30,"TEXT_BANQIQ107_03812_TODO_06",""
+31,"TEXT_BANQIQ107_03812_TODO_07",""
+32,"TEXT_BANQIQ107_03812_TODO_08",""
+33,"TEXT_BANQIQ107_03812_TODO_09",""
+34,"TEXT_BANQIQ107_03812_TODO_10",""
+35,"TEXT_BANQIQ107_03812_TODO_11",""
+36,"TEXT_BANQIQ107_03812_TODO_12",""
+37,"TEXT_BANQIQ107_03812_TODO_13",""
+38,"TEXT_BANQIQ107_03812_TODO_14",""
+39,"TEXT_BANQIQ107_03812_TODO_15",""
+40,"TEXT_BANQIQ107_03812_TODO_16",""
+41,"TEXT_BANQIQ107_03812_TODO_17",""
+42,"TEXT_BANQIQ107_03812_TODO_18",""
+43,"TEXT_BANQIQ107_03812_TODO_19",""
+44,"TEXT_BANQIQ107_03812_TODO_20",""
+45,"TEXT_BANQIQ107_03812_TODO_21",""
+46,"TEXT_BANQIQ107_03812_TODO_22",""
+47,"TEXT_BANQIQ107_03812_TODO_23",""
+48,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_000","저희 키타리족은 후각이 발달되어 있다는 걸 알고 계셨나요~?
+깜깜한 어둠 속에서도 냄새만으로 동료를 구분하고
+그 위치를 알 수 있을 정도랍니다~!"
+49,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_001","하지만 지하 동굴에서 탐색을 하다 보면
+가스 같은 성분 때문에 냄새를 분간 못할 가능성이 있어요~.
+그래서 표식이 되어줄 만한 향수를 조합하고 싶답니다~!"
+50,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_010","조합에 필요한 건 뮤릴의 향수에서 캘 수 있는
+'<Sheet(Item,29522,0)/>'<13>FF0F02280BFF054974656DF273520103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
+그게 3개 정도 있으면 일단 충분할 것 같사와요~."
+51,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_020","조합에 필요한 건 뮤릴의 향수에서 채집할 수 있는
+'<Sheet(Item,29548,0)/>'<13>FF0F02280BFF054974656DF2736C0103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
+그게 3개 정도 있으면 일단 충분할 것 같사와요~."
+52,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_030","조합에 필요한 건 투시 메키타 호수에 서식하는
+'<Sheet(Item,29574,0)/>'<13>FF0F02280BFF054974656DF273860103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
+작살질로 잡을 수 있다고 해요~."
+53,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_040","기껏해야 향수지만 그래도 저희에겐 아주 중요하답니다~.
+이건 탐색의 안전성을 높이기 위한 시책이오니,
+모쪼록 협력 부탁드려요~."
+54,"TEXT_BANQIQ107_03812_SYSTEM_100_040","이 퀘스트를 진행하기 위해서는
+퀘스트 '작살질을 해보자'를 완료하여
+'작살질'을 개방해야 합니다."
+55,"TEXT_BANQIQ107_03812_QHOTERLPASOL_100_010","향수 조합에 필요한 건 뮤릴의 향수에서 캘 수 있는
+'<Sheet(Item,29522,0)/>'<13>FF0F02280BFF054974656DF273520103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
+그것을 3개 정도 구해다 주시와요~."
+56,"TEXT_BANQIQ107_03812_QHOTERLPASOL_100_020","향수 조합에 필요한 건 뮤릴의 향수에서 채집할 수 있는
+'<Sheet(Item,29548,0)/>'<13>FF0F02280BFF054974656DF2736C0103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
+그것을 3개 정도 구해다 주시와요 ~."
+57,"TEXT_BANQIQ107_03812_QHOTERLPASOL_100_030","향수 조합에 필요한 건 투시 메키타 호수에 서식하는
+'<Sheet(Item,29574,0)/>'<13>FF0F02280BFF054974656DF273860103FF0AEB9E8DEB8B88EB8BA4FF0DEC9DB4EB9E8DEB8B88EB8BA4</13>~.
+작살질로 잡을 수 있다고 해요~."
+58,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_050","이 향기는…… 재료를 순조롭게 구했나 보군요~.
+자자, 재료를 주시어요~."
+59,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_060","오오, 야성적인 향기가 한층 더 강하군요~!
+이 정도 물건이면 탐색하러 가는 대원에게 뿌릴 향수를
+쉽게 조합할 수 있겠어요~."
+60,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_061","이걸 그냥 쓰면 헷갈릴 수 있으니 구분이 쉽도록 가공해야죠…….
+후훗, 조향사의 실력을 발휘할 때가 온 것 같네요~!"
+61,"TEXT_BANQIQ107_03812_QHOTERLPASOL_000_002","（★未使用／削除予定★）"

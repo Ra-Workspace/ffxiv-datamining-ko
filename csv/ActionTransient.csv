@@ -247,7 +247,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 사선 찌르기
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 530<If(GreaterThanOrEqualTo(PlayerParameter(72),56))><If(Equal(PlayerParameter(68),22))>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>푸른 용혈 중 콤보 보너스<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 발톱 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><Else/></If>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow><If(GreaterThanOrEqualTo(PlayerParameter(72),70))><If(Equal(PlayerParameter(68),22))>푸른 용혈/붉은 용혈 중 콤보 보너스<Else/>푸른 용혈 중 콤보 보너스</If><Else/>푸른 용혈 중 콤보 보너스</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 발톱 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><Else/></If>"
 85,"20초 동안 자신이 주는 피해량이 15% 증가합니다."
 86,"대상을 향해 전방 직선 범위 물리 공격을 가합니다. 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 170"
@@ -264,7 +264,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 및 후방공격 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 330
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 보너스<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상에게 24초 동안 지속 피해 부여
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 45<If(GreaterThanOrEqualTo(PlayerParameter(72),58))><If(Equal(PlayerParameter(68),22))>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>푸른 용혈 중 콤보 보너스<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 꼬리 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><Else/></If>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow><If(GreaterThanOrEqualTo(PlayerParameter(72),70))><If(Equal(PlayerParameter(68),22))>푸른 용혈/붉은 용혈 중 콤보 보너스<Else/>푸른 용혈 중 콤보 보너스</If><Else/>푸른 용혈 중 콤보 보너스</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 꼬리 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><Else/></If>"
 89,"자신을 중심으로 주위 적에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 겹찌르기  <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 150"
@@ -585,7 +585,7 @@ int32,str
 218,"획득률이 1% 이상인 아이템에 한해 획득률이 5% 증가합니다."
 219,"번개 샤드<If(GreaterThanOrEqualTo(PlayerParameter(68),16))><If(GreaterThanOrEqualTo(PlayerParameter(69),50))>, 크리스탈, 클러스터<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),41))>와 크리스탈<Else/></If></If><Else/></If>의 획득 수가 2개 증가합니다."
 220,"획득률이 1% 이상인 아이템에 한해 획득률이 15% 증가합니다."
-221,"미지의 성목이나 약초밭을 확인하여 미니맵에 표시합니다."
+221,"미지/전설/환상의 성목이나 약초밭을 확인하여 미니맵에 표시합니다."
 222,"1번의 채집으로 얻는 아이템 개수가 1개 증가합니다."
 223,""
 224,"1번의 채집으로 얻는 아이템 개수가 2개 증가합니다."
@@ -605,7 +605,7 @@ int32,str
 235,"획득률이 1% 이상인 아이템에 한해 획득률이 5% 증가합니다."
 236,"얼음 샤드<If(GreaterThanOrEqualTo(PlayerParameter(68),16))><If(GreaterThanOrEqualTo(PlayerParameter(69),50))>, 크리스탈, 클러스터<Else/><If(GreaterThanOrEqualTo(PlayerParameter(69),41))>와 크리스탈<Else/></If></If><Else/></If>의 획득 수가 2개 증가합니다."
 237,"획득률이 1% 이상인 아이템에 한해 획득률이 15% 증가합니다."
-238,"미지의 광맥이나 바위터를 확인하여 미니맵에 표시합니다."
+238,"미지/전설/환상의 광맥이나 바위터를 확인하여 미니맵에 표시합니다."
 239,"1번의 채집으로 얻는 아이템 개수가 1개 증가합니다."
 240,""
 241,"1번의 채집으로 얻는 아이템 개수가 2개 증가합니다."
@@ -620,30 +620,14 @@ int32,str
 249,"다음 5회 동안 시도하는 기술의 성공률이 20% 증가합니다."
 250,"다음 5회 동안 시도하는 기술의 성공률이 20% 증가합니다."
 251,"다음 5회 동안 시도하는 기술의 성공률이 20% 증가합니다."
-252,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>가공 숙련도 상한<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 11"
-253,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>가공 숙련도 상한<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 11"
-254,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>가공 숙련도 상한<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 11"
-255,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>가공 숙련도 상한<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 11"
-256,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>가공 숙련도 상한<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 11"
-257,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>가공 숙련도 상한<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 11"
-258,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>가공 숙련도 상한<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 11"
-259,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>가공 숙련도 상한<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 11"
+252,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다. (최대 11중첩)"
+253,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다. (최대 11중첩)"
+254,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다. (최대 11중첩)"
+255,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다. (최대 11중첩)"
+256,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다. (최대 11중첩)"
+257,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다. (최대 11중첩)"
+258,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다. (최대 11중첩)"
+259,"품질을 올리는 기술이 성공할 때마다 가공 숙련도가 향상됩니다. (최대 11중첩)"
 260,"다음 3회의 제작 공정 중 1회에 한해, 품질을 올리는 기술의 효율이 100% 향상됩니다."
 261,"다음 3회의 제작 공정 중 1회에 한해, 품질을 올리는 기술의 효율이 100% 향상됩니다."
 262,"다음 3회의 제작 공정 중 1회에 한해, 품질을 올리는 기술의 효율이 100% 향상됩니다."
@@ -4430,7 +4414,7 @@ HQ 획득률을 올려주는 다른 기술과 함께 사용할 수 없습니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 320
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>측면공격 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 지속시간 10초 연장(최대 30초)
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 발톱 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(GreaterThanOrEqualTo(PlayerParameter(72),70))><If(Equal(PlayerParameter(68),22))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>붉은 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If><Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 발톱 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 3555,"대상을 향해 전방 직선 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(72),70))><If(Equal(PlayerParameter(68),22))>
@@ -4439,7 +4423,7 @@ HQ 획득률을 올려주는 다른 기술과 함께 사용할 수 없습니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 320
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>후방공격 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 지속시간 10초 연장(최대 30초)
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 꼬리 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(GreaterThanOrEqualTo(PlayerParameter(72),70))><If(Equal(PlayerParameter(68),22))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>붉은 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If><Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 꼬리 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 3557,"20초 동안 자신과 주위 파티원의 극대화 발동률이 10% 증가합니다."
 3558,"대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 230"
@@ -5205,10 +5189,10 @@ HQ 획득률을 올려주는 다른 기술과 함께 사용할 수 없습니다.
 4102,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 물고기를 HQ로 낚을 확률이 50% 증가하지만, 낚아채기 성공률이 40% 감소합니다.
 생미끼 낚시가 활성화되었을 때 사용하면 생미끼 낚시를 포기합니다.
-지속시간: 145초"
+지속시간: 60초"
 4103,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 강력한 낚싯대 기술을 발휘하여 '낚아채기 성공률 감소' 효과를 무시하고 물고기를 낚아챕니다.
-단, 효과가 없는 물고기도 있습니다."
+단, 입질이 약한 물고기를 포함하여 일부 물고기에는 효과가 없습니다."
 4104,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 다음에 낚싯대를 드리울 때, 입질이 오기까지의 시간이 단축됩니다.
 생미끼 낚시가 활성화되었을 때 사용하면 생미끼 낚시를 포기합니다."
@@ -5293,7 +5277,7 @@ HQ 획득률을 올려주는 다른 기술과 함께 사용할 수 없습니다.
 4178,""
 4179,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 섬세한 낚싯대 기술을 발휘하여 '낚아채기 성공률 감소' 효과를 무시하고 물고기를 낚아챕니다.
-단, 효과가 없는 물고기도 있습니다."
+단, 입질이 강한 물고기를 포함하여 일부 물고기에는 효과가 없습니다."
 4180,""
 4181,""
 4182,""
@@ -5767,7 +5751,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>열두 신의 가호<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 함께 사용할 수 있습니다.
 실행하려면 채집 지점에 샤드, 크리스탈, 클러스터 중 하나가 존재해야 합니다."
 4591,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>작살질<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-직전에 잡은 물고기와 동일한 물고기를 잡게 됩니다.
+직전에 잡은 물고기가 다시 잡히게 만듭니다.
 한 어장에서 채집하는 동안에는 효과가 유지됩니다.
 단, 효과가 없는 물고기도 있습니다."
 4592,"변신 주술을 쓸어담아 사용할 수 없게 만듭니다.
@@ -5781,13 +5765,14 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 손상도 상승: 0
 채집 중에 1번만 사용할 수 있으며, 채집 횟수를 1회 소비합니다."
 4595,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다음 1회에 한해, 방금 잡은 물고기가 잡히지 않게 만듭니다.
+직전에 잡은 물고기가 잡히지 않게 만듭니다.
 대상 물고기를 잡은 후 15초 안에 실행해야 합니다.
 생미끼 낚시로 잡은 물고기를 비롯하여 일부 물고기에는 적용되지 않습니다.
 실행 시 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>생미끼 낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>한결같은 챔질<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과를 취소합니다."
 4596,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-다음 1회에 한해, 방금 잡은 물고기가 다시 잡히게 만듭니다.
+직전에 잡은 물고기가 다시 잡히게 만듭니다.
 대상 물고기를 잡은 후 15초 안에 실행해야 하며, 연속으로 실행할 수 없습니다.
+대상 물고기가 존재하지 않으면 효과가 사라집니다.
 생미끼 낚시로 잡은 물고기를 비롯하여 일부 물고기에는 적용되지 않습니다.
 실행 시 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>생미끼 낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>교환 방생<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과를 취소합니다."
 4597,"품질이 최대일 때 일정 확률로 실행할 수 있습니다.
@@ -8613,7 +8598,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 속박 상태에서는 사용할 수 없습니다."
 7387,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초 20<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여 대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 450"
-7388,"15초 동안 자신과 주위 파티원에게 대상의 최대 HP 대비 12%만큼 피해를 흡수하는 보호막을 칩니다.
+7388,"15초 동안 자신과 주위 파티원에게 대상의 최대 HP 대비 15%만큼 피해를 흡수하는 보호막을 칩니다.
 시전자에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>전투의 짜릿함<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>보복<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초의 직감<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 부여되어 있을 경우 각각의 강화 효과를 소비하는 대신 보호막 효과가 2%씩 증가합니다."
 7389,"10초 동안 원초를 소비하는 기술을 원초 소비 없이 사용할 수 있으며, 자신의 공격이 반드시 극대화 직격으로 적중합니다.
 또한 일부를 제외한 기절, 수면, 속박, 과중력, 밀쳐내기, 끌어당기기를 무효화합니다."
@@ -8733,17 +8718,17 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 7421,"15초 안에 시전하는 다음 3번의 마법이 시전 시간 없이 사용됩니다."
 7422,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>언어 통달 1단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여 대상과 그 주위 적에게 무속성 범위 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>650
-2번째 대상부터는 위력이 10%씩 감소하며, 최대 50%까지 감소합니다."
+2번째 대상부터는 위력이 25% 감소합니다."
 7423,"소환 중인 에기가 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에기의 가호<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행합니다.
 
 에기 주위에 있는 파티원에게 15초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에기의 가호<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>에기의 가호<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 주는 피해량 5% 증가
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 소환수 생존"
 7424,"대상에게 30초 동안 무속성 지속 피해를 줍니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 50"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 45"
 7425,"대상에게 무속성 마법 공격을 가하고, 30초 동안 무속성 지속 피해를 줍니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 50
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 50"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 45
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 45"
 7426,"대상에게 무속성 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>루인라 강화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -8981,14 +8966,14 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 130<If(GreaterThanOrEqualTo(PlayerParameter(72),2))><If(Equal(PlayerParameter(68),35))>
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>백마나<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>흑마나<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 각각 30 이상일 경우 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>인리포스트<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<Else/></If><Else/></If>"
 7505,"대상에게 번개속성 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),62))>350<Else/>310</If><Else/>310</If>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),62))>370<Else/>310</If><Else/>310</If>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>흑마나 11 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(72),26))><If(Equal(PlayerParameter(68),35))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과(발동률 50%)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>버파이어 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><Else/></If>"
 7506,"대상에게 신속하게 접근하여 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 130
 속박 상태에서는 사용할 수 없습니다."
 7507,"대상에게 바람속성 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),62))>350<Else/>310</If><Else/>310</If>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),35))><If(GreaterThanOrEqualTo(PlayerParameter(72),62))>370<Else/>310</If><Else/>310</If>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>백마나 11 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground><If(GreaterThanOrEqualTo(PlayerParameter(72),30))><If(Equal(PlayerParameter(68),35))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과(발동률 50%)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>버스톤 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><Else/></If>"
 7508,"대상과 그 주위 적을 20초 동안 속박합니다.
@@ -9024,11 +9009,10 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 230
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>백마나<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>흑마나<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 각각 25 이상일 경우 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>인르두블망<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 변화합니다."
 7517,"대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 420"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 440"
 7518,"20초 동안 버선더, 버에어로, 버플레어, 버홀리를 시전하면 3번에 한하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>버파이어 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>버스톤 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과가 100% 발동합니다."
 7519,"대상과 그 주위 적에게 범위 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 380
-2번째 대상부터는 위력이 50% 감소합니다."
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 400"
 7520,"자신이 주는 마법 피해량과 주위 파티원이 주는 물리 피해량이 10% 증가합니다.
 이 효과는 20초 동안 지속되며, 4초마다 2%씩 저하됩니다."
 7521,"백마나와 흑마나가 현재의 2배로 늘어나고,
@@ -10412,7 +10396,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2"
 8752,"대상에게 마법 공격을 가하고, 이 공격으로 준 피해량의 100%만큼 자신의 HP를 회복합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>충의 10 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8753,"대상의 HP를 회복합니다. 대상이 파티원인 경우, 회복된 HP의 50%만큼 자신도 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 4000"
@@ -10420,7 +10404,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 자신의 남은 MP가 적을수록 위력이 증가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000~2000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 6초 동안 시전 시간 없이 마법을 사용할 수 있으며, MP를 소비하지 않습니다."
-8755,"6초 동안 일부를 제외한 대부분의 피해를 무효화합니다."
+8755,"6초 동안 자신에게 일부를 제외한 대부분의 피해를 무효화하는 보호막을 칩니다."
 8756,"6초 동안 대상 파티원이 받는 공격을 대신 받습니다.
 감싸기 중에는 받는 피해량이 10% 증가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상이 10m 안에 존재"
@@ -10462,13 +10446,13 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초 10 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8765,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초 20<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여 대상에게 신속하게 접근하고 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 속박 상태에서는 사용할 수 없습니다."
 8766,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초 20<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여 대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 500
 자신의 남은 HP가 많을수록 위력이 증가하며, 자신이 부여한 최대 HP 증가 효과에도 영향받습니다.
 위력은 최대 4배까지 증가합니다."
-8767,"대상을 끌어당기고, 4초 동안 자신과 대상을 이동 불가 상태로 만듭니다.
+8767,"대상을 끌어당기고, 3초 동안 자신과 대상을 이동 불가 상태로 만듭니다.
 속박 무효 또는 밀쳐내기 무효에 영향받지 않습니다.
 지속시간 중에는 어떤 공격을 받아도 자신의 HP가 1 미만으로 떨어지지 않습니다."
 8768,"6초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하지 않으며 기절, 수면, 속박, 과중력, 침묵, 밀쳐내기, 끌어당기기를 무효화합니다."
@@ -10562,11 +10546,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>질풍번개 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 주는 피해량 5% 증가, 무기 기술의 재사용 대기 시간 5% 단축
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3
 속박 상태에서는 사용할 수 없습니다."
-8788,"6초 동안 자신이 받는 피해량이 10% 감소하고, 자신에게 6초 동안 회복력 3000만큼의 피해를 흡수하는 보호막을 칩니다."
+8788,"6초 동안 자신이 받는 피해량이 10% 감소하고, 자신에게 6초 동안 회복력 2000만큼의 피해를 흡수하는 보호막을 칩니다."
 8789,"최대 단계의 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>질풍번개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과를 모두 소비하여 대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1800"
 8790,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>투기 5<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여 대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1800"
 8791,"대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
 
@@ -10619,8 +10603,9 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>푸른 용혈/붉은 용혈 중 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 눈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1단계 진화
 공격 후에는 원위치로 돌아옵니다.
 속박 상태에서는 사용할 수 없습니다."
-8802,"높이 뛰어 대상에게 접근하면서 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
+8802,"높이 뛰어 대상에게 접근하면서 물리 공격을 가하고,
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>환영 강타<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 재사용 대기 시간을 15초 단축합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
 속박 상태에서는 사용할 수 없습니다."
 8803,"15m 후방으로 크게 도약합니다.
 자신에게 부여된 과중력, 속박, 일대일 결투를 해제합니다."
@@ -10628,13 +10613,13 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>게이르스코굴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>붉은 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>나스트론드<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8805,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 눈 2단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여, 대상을 향해 전방 직선 범위 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 15초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>붉은 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 눈 2단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>붉은 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>나스트론드<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8806,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 눈 2단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여, 대상을 향해 전방 직선 범위 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>붉은 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>붉은 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 눈 2단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
@@ -10666,7 +10651,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 8811,"대상에게 원거리 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>인법 10 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8812,"지정한 지점을 향해 신속하게 이동하고, 6초 동안 자신에게 회복력 1000만큼의 피해를 막아주는 보호막을 칩니다.
+8812,"지정한 지점을 향해 신속하게 이동하고, 6초 동안 자신에게 회복력 2000만큼의 피해를 막아주는 보호막을 칩니다.
 속박 상태에서는 사용할 수 없습니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2"
 8813,"대상에게 물리 공격을 가합니다.
@@ -10755,12 +10740,12 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 부여한 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피안화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 대상에게 남아 있을 경우 지속시간이 30초 연장됩니다.(최대 60초)
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8830,"대상을 향해 전방 부채꼴 범위 물리 공격을 가하고, 자신에게 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 5중첩)을 부여합니다.
+8830,"대상을 향해 전방 부채꼴 범위 물리 공격을 가하고, 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 3중첩)을 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검기 10씩 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 고유 재사용 대기 시간이 적용됩니다.
 재사용 대기 시간을 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>난설월화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 공유합니다."
-8831,"대상에게 물리 공격을 가하고, 자신에게 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 5중첩)을 부여합니다.
+8831,"대상에게 물리 공격을 가하고, 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 3중첩)을 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검기 20 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 고유 재사용 대기 시간이 적용됩니다.
@@ -10796,16 +10781,16 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2"
 8839,"대상에게 물리 공격을 가하고, 10m 후방으로 도약합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>여행신의 무곡/군신의 찬가 중 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 실행 시 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>시상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 발생하며, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>영혼의 소리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 10 증가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>여행신의 무곡/군신의 찬가 중 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 실행 시 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>시상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 발생하며, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>영혼의 소리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 20 증가합니다.
 속박 상태에서는 사용할 수 없습니다."
 8840,""
 8841,"대상에게 물리 공격을 가합니다.
 대상의 남은 HP가 적을수록 위력이 증가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800~2400"
 8842,"현재 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>시상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 모두 소비하여 대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>시상 1개 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>시상 2개 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>시상 3개 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>시상 1개 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>시상 2개 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>시상 3개 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>여행신의 무곡<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>시상<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1개 이상"
 8843,"대상에게 마법 공격을 가하고, 30초 동안 여행신의 무곡을 노래합니다.
 반경 30m 안에 있는 파티원이 주는 피해량이 5% 증가합니다.
@@ -10836,31 +10821,32 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>열기 50 이상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>일 경우 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>열정밀탄<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8848,"대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>열기 10 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8849,"대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 열분열탄
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>열기 10 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8850,"대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 열슬러그탄
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>열기 10 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8851,"대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>가우스탄<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>도탄 사격<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 재사용 대기 시간 7.5초 단축
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>과열<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8852,""
 8853,"대상에게 물리 공격을 가하고 15m 밀쳐냅니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
+대상에게 자신이 부여한 소이탄 효과가 남아 있으면 위력이 3배가 됩니다."
 8854,"대상에게 3초 동안 50% 과중력을 부여합니다."
 8855,"대상에게 시한폭탄을 부착합니다.
 6초 동안 자신이 대상에게 준 전체 피해량의 25%만큼, 지속시간이 끝날 때 추가 피해를 줍니다.
@@ -10877,7 +10863,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>천상의 화염 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 주는 피해량이 10% 증가합니다."
 8859,"대상에게 마법 공격을 가하고 15초 동안 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>저승의 냉기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신의 MP를 2000 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>저승의 냉기 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법 시전 시간 및 재사용 대기 시간이 10% 단축됩니다."
 8860,"대상에게 마법 공격을 가하고 15초 동안 지속 피해를 줍니다.
@@ -10905,7 +10891,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 8864,"대상에게 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신의 MP를 4000 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>저승의 냉기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
@@ -10913,11 +10899,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 8865,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>언어 통달 1단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여 대상과 그 주위 적에게 범위 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2400"
 8866,"대상과 그 주위 적에게 범위 마법 공격을 가하고, 자신에게 15초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>천상의 화염<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>천상의 화염 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 주는 피해량이 10% 증가합니다."
 8867,"대상과 그 주위 적에게 범위 마법 공격을 가합니다.
 자신에게 15초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>저승의 냉기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 자신의 MP를 2000씩 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>저승의 냉기 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법 시전 시간 및 재사용 대기 시간이 10% 단축됩니다."
 8868,"대상에게 3초 동안 수면 효과를 부여합니다.
@@ -11012,12 +10998,13 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-8890,"대상에게 신속하게 접근하여 물리 공격을 가합니다.
+8890,"대상에게 신속하게 접근하여 물리 공격을 가하고, 대상에게 5초 동안 50% 과중력을 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2
 속박 상태에서는 사용할 수 없습니다."
-8891,"대상에게 물리 공격을 가하며 15m 후방으로 도약합니다.
+8891,"대상에게 물리 공격을 가하고 15m 후방으로 도약합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상을 3초 동안 속박합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2
 속박 상태에서는 사용할 수 없습니다."
 8892,"백마나와 흑마나가 현재의 2배로 늘어나고,
@@ -11044,10 +11031,14 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에테르 순환<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여"
 8904,"대상의 HP를 회복합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 전투 중에 HP가 감소한 대상의 HP를 회복시키면
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 10 증가"
 8905,"대상의 HP를 회복하고 회복량의 100%만큼 피해를 흡수하는 보호막을 칩니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>보호막 지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>보호막 지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 전투 중에 HP가 감소한 대상의 HP를 회복시키면
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 10 증가"
 8906,""
 8907,"자신 또는 파티원 1명을 대상으로 5초 동안 지속되는 보호막을 칩니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>보호막 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 5초 동안 공격자가 주는 피해량이 10% 감소합니다."
@@ -11056,7 +11047,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
 8909,"대상의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3
+재사용 대기 시간을 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>불요불굴책<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 공유합니다."
 8910,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 10<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에오스<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소환합니다.
 소환 중에는 요정 에테르가 지속적으로 10씩 소비됩니다.
 에오스는 학자가 아군에게 회복 기술을 사용하면 같은 대상에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>빛의 치유<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 시전합니다."
@@ -11073,7 +11065,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 8915,""
 8916,"대상의 HP를 회복합니다.
 대상의 남은 HP가 적을수록 회복력이 증가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000~4000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2500~5000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2"
 8917,"10초 동안 시전 시간 없이 마법을 사용할 수 있으며 소비 MP가 50% 감소합니다."
 8918,"자신과 파티원 1명의 에테르를 연결합니다.
@@ -12311,7 +12303,9 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 도중에 움직이면 화염 방사가 중지됩니다.
 전투 중이 아닐 때에는 사용해도 열기가 증가하지 않습니다."
 10025,"대상의 HP를 회복합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 전투 중에 HP가 감소한 대상의 HP를 회복시키면
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>백마나<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>흑마나<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 5씩 증가합니다.
 연속 마법으로 시전하지 않은 경우 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>연속 마법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 발동합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>연속 마법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초 안에 시전하는 다음 1번의 마법은 시전 시간 없이 실행됩니다."
 10026,"동시에 2장의 카드를 뽑아 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>점지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소 아르카나<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 채우고 자신의 MP를 1000 회복합니다.
@@ -14990,7 +14984,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 12575,""
 12576,""
 12577,"대상을 향해 전방 직선 범위 공격을 가하고, 범위 안의 대상이 받는 피해를 증가시킵니다."
-12578,"주위 아군에게 HP 지속 회복 효과와 주는 피해량 증가 효과를 부여합니다."
+12578,"자신과 주위 아군의 HP를 회복하고, HP 지속 회복 효과와 주는 피해량 증가 효과를 부여합니다."
 12579,""
 12580,""
 12581,""
@@ -18059,7 +18053,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 15550,""
 15551,""
 15552,""
-15553,""
+15553,"장식용 달걀을 선물합니다."
 15554,""
 15555,""
 15556,""
@@ -19534,7 +19528,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여"
 16535,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피의 백합 3단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여 대상과 그 주위 적에게 무속성 범위 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 900
-2번째 대상부터는 위력이 10%씩 감소하며 최대 50%까지 감소합니다."
+2번째 대상부터는 위력이 25% 감소합니다."
 16536,"20초 동안 자신의 회복마법 회복량이 20% 증가하고, 자신과 반경 30m 이내에 있는 파티원이 받는 피해량이 10% 감소합니다."
 16537,"소환한 요정이 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>빛의 속삭임<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행합니다.
 <If(Equal(PlayerParameter(68),28))><If(GreaterThanOrEqualTo(PlayerParameter(72),80))>세라핌을 소환한 경우에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>광휘의 속삭임<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행합니다.
@@ -20872,13 +20866,13 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>질풍번개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>투기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 1단계씩 부여됩니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>질풍번개 지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초"
 17671,"대상에게 물리 공격을 가하고 15m 밀쳐냅니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200"
 17672,"10초 동안 자신이 받는 피해량이 20% 감소합니다."
 17673,""
 17674,"10m 후방으로 도약합니다.
 속박 상태에서는 사용할 수 없습니다."
 17675,"10초 동안 자신이 주는 피해량이 10% 증가하는 대신, 자신이 받는 피해량도 10% 증가합니다."
-17676,"6초 동안 자신의 공격으로 준 피해량의 50%만큼 HP를 회복합니다."
+17676,"6초 동안 자신이 물리 공격으로 준 피해량의 100%만큼 HP를 회복합니다."
 17677,"10초 동안 기절, 수면, 속박, 과중력, 침묵, 밀쳐내기, 끌어당기기 효과를 받지 않습니다."
 17678,"대상에게 5초 동안 50% 과중력을 부여합니다."
 17679,"대상을 3초 동안 속박합니다."
@@ -20887,7 +20881,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17682,"10초 동안 자신과 주위 파티원의 이동 속도를 향상시킵니다."
 17683,"대상에게 마법 공격을 가하고, 이 공격으로 준 피해량의 2배만큼 HP를 회복합니다.
 자신의 남은 HP가 적을수록 위력이 증가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 400~2000"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600~1800"
 17684,"대상에게 마법 공격을 가하고, 6초 동안 대상이 받는 피해량을 20% 증가시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000"
 17685,"5초 안에 시전하는 다음 1번의 마법은 시전 시간 없이 사용됩니다."
@@ -20897,7 +20891,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17688,"대상 파티원을 자신의 곁으로 즉시 끌어옵니다.
 대상에게 밀쳐내기 무효 등 특정 상태가 부여되어 있을 때는 효과가 없습니다."
 17689,"자신의 HP를 회복합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000~6000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000~6000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3초 동안 움직일 수 없는 대신, 받는 피해량이 99% 감소합니다.
 남은 HP가 적을수록 회복력이 증가합니다."
 17690,"대상에게 3초 동안 지속되는 수면 효과를 부여합니다."
@@ -20937,11 +20931,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17698,"자신에게 5초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초의 혼돈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2"
 17699,"10초 동안 자신과 주위 파티원에게 회복력 2000만큼 피해를 흡수하는 보호막을 칩니다.
-자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>철벽 방어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 적용되는 동안에 사용하면, 철벽 방어가 해제되고 보호막 효과가 3000으로 상승합니다."
+자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>철벽 방어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 적용되는 동안에 사용하면, 철벽 방어가 해제되고 보호막 효과가 4000으로 상승합니다."
 17700,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>흑혈 50<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여 자신을 중심으로 주위 적에게 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 MP 250씩 증가"
-17701,"대상에게 무속성 마법 공격을 가하고, 10초 동안 대상이 받는 회복 효과를 20% 감소시킵니다.
+17701,"대상에게 무속성 마법 공격을 가하고, 6초 동안 대상이 받는 회복 효과를 20% 감소시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
 자신에게 15초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>암흑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>암흑 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 주는 피해량 10% 증가
@@ -20963,7 +20957,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17706,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1단계 소비하여 대상에게 물리 공격을 가하고, 이 공격으로 준 피해량의 50%만큼 HP를 회복합니다.
+17706,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1단계 소비하여 대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>속사포<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여(최대 3단계)
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>속사포 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신의 무기 기술 재사용 대기 시간이 5% 단축됩니다.
@@ -20971,7 +20965,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 고유 재사용 대기 시간이 적용됩니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17707,"대상에게 물리 공격을 가하고, 이 공격으로 준 피해량의 50%만큼 HP를 회복합니다.
+17707,"대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 난폭한 송곳니
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>속사포<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여(최대 3단계)
@@ -20979,7 +20973,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 5초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>복부 가르기 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17708,"대상에게 물리 공격을 가하고, 이 공격으로 준 피해량의 50%만큼 HP를 회복합니다.
+17708,"대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 사나운 발톱
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>속사포<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여(최대 3단계)
@@ -20987,32 +20981,33 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 5초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>안구 찌르기 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17709,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1단계 소비하여 대상에게 물리 공격을 가하고, 이 공격으로 준 피해량의 50%만큼 HP를 회복합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
+17709,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1단계 소비하여 대상에게 물리 공격을 가하고, 이 공격으로 준 피해량의 100%만큼 HP를 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>속사포<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여(최대 3단계)
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>속사포 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신의 무기 기술 재사용 대기 시간이 5% 단축됩니다."
-17710,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1단계 소비하여 주위 적에게 범위 물리 공격을 가하고, 이 공격으로 준 피해량의 50%만큼 HP를 회복합니다.
+17710,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1단계 소비하여 주위 적에게 범위 물리 공격을 가하고, 이 공격으로 준 피해량의 100%만큼 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>속사포<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여(최대 3단계)
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>속사포 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신의 무기 기술 재사용 대기 시간이 5% 단축됩니다."
 17711,"특정 기술 사용 직후, 대상에게 추가 공격을 가할 수 있는 기술로 변화합니다.
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>난폭한 송곳니<UIGlow>01</UIGlow><UIForeground>01</UIForeground>→<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>급소 베기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>사나운 발톱<UIGlow>01</UIGlow><UIForeground>01</UIForeground>→<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>복부 가르기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>악랄한 갈퀴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>→<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>안구 찌르기<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 순서로 사용할 수 있습니다."
 17712,"대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>급소 베기 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17713,"대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>복부 가르기 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17714,"대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>안구 찌르기 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17715,"10초 동안 자신과 주위 파티원이 받는 피해량이 10% 감소하고, 회복력 1000만큼 피해를 흡수하는 보호막을 칩니다."
+17715,"10초 동안 자신과 주위 파티원이 받는 피해량이 10% 감소합니다.
+자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>잔혹한 탄피<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 부여되어 있으면, 자신을 제외한 주위 파티원에게 10초 동안 2배의 잔혹한 탄피 효과를 부여합니다."
 17716,"대상에게 신속하게 접근하여 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
@@ -21063,7 +21058,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>연속 마법<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>임팩트<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17728,"높이 뛰어 대상에게 접근하면서 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>환영 강타<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 재사용 대기 시간 15초 단축
 공격 후에는 원위치로 돌아옵니다.
 속박 상태에서는 사용할 수 없습니다."
@@ -21072,21 +21067,21 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>붉은 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 속박 상태에서는 사용할 수 없습니다."
 17730,"대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용의 눈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1단계 진화
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>붉은 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적 수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2"
 17731,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>인법 50<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여 대상과 그 주위 적에게 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200"
 17732,"대상과 그 주위 적에게 마법 공격을 가하고, 자신에게 35초 동안 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>풍둔술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>인법 10씩 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>풍둔술 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신의 무기 기술 재사용 대기 시간이 15% 단축됩니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>삼인술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17733,"대상에게 마법 공격을 가하고, 자신에게 35초 동안 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>풍둔술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>인법 20 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>풍둔술 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신의 무기 기술 재사용 대기 시간이 15% 단축됩니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>삼인술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -21096,9 +21091,9 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 본체가 무기 기술을 실행하면 분신이 뒤이어 똑같은 기술을 사용합니다.
 분신은 지속시간이 경과하거나 무기 기술을 3회 실행하면 사라집니다.
 분신의 공격 위력은 사용하는 무기 기술에 따라 달라집니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>근거리 공격 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>원거리 공격 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>범위 공격 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>근거리 공격 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>원거리 공격 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>범위 공격 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
 분신의 공격이 명중할 때마다 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>인법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 10씩 증가합니다."
 17735,"대상에게 물리 공격을 가하고, 6초 동안 대상이 받는 피해량을 15% 증가시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
@@ -21123,7 +21118,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 고유 재사용 대기 시간이 적용됩니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17742,"대상을 향해 전방 부채꼴 범위 물리 공격을 가하고, 자신에게 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 5중첩)을 부여합니다.
+17742,"대상을 향해 전방 부채꼴 범위 물리 공격을 가하고, 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 3중첩)을 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검기 10씩 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>천하오검<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 실행 직후
@@ -21131,7 +21126,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 고유 재사용 대기 시간이 적용됩니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17743,"대상에게 물리 공격을 가하고, 자신에게 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 5중첩)을 부여합니다.
+17743,"대상에게 물리 공격을 가하고, 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground>(최대 3중첩)을 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검기 20 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>난설월화<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 실행 직후
@@ -21142,7 +21137,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17744,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검기 50<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여 대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000"
 17745,"대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>여행신의 무곡/군신의 찬가 중 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 실행 시 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>시상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 발생하며, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>영혼의 소리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 10 증가합니다.
 "
 17746,"대상에게 물리 공격을 가합니다.
@@ -21154,7 +21149,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200~2400
 위력은 실행 시점의 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>영혼의 소리<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 수치에 따라 증가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>영혼의 소리 50 이상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17748,"자신을 중심으로 주위 적에게 범위 물리 공격을 가하고, 대상에게 5초 동안 50% 과중력을 부여합니다.
+17748,"자신을 중심으로 주위 적에게 범위 물리 공격을 가하고, 대상의 지속 회복 효과와 보호막 효과를 모두 해제합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000"
 17749,"대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
@@ -21169,10 +21164,10 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17752,"대상을 향해 전방 부채꼴 범위 물리 공격을 가하고, 10초 동안 범위 안의 대상이 받는 피해량을 10% 증가시킵니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1400
 고유 재사용 대기 시간이 적용됩니다."
 17753,"대상과 그 주위 적에게 범위 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3"
 17754,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>열기 50<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여 5초 동안 과열 상태가 됩니다.
 이미 과열 상태인 경우, 지속시간을 5초 연장합니다.(최대 10초)"
@@ -21213,7 +21208,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17760,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에스프리 50<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여, 대상과 그 주위 적에게 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30초 동안 자신과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마주서기 상대<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 주는 피해량이 10% 증가합니다."
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마주서기 상대<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 주는 피해량이 10% 증가합니다."
 17761,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>환상부채<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 1개 소비하여 대상에게 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>부채춤: 절정 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -21221,7 +21216,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 무도 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>신록의 쥬떼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17762,"대상과 그 주위 적에게 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30초 동안 자신과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마주서기 상대<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 받는 피해량이 10% 감소합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마주서기 상대<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 받는 피해량이 10% 감소합니다.
 
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>부채춤: 절정 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2"
@@ -21239,7 +21234,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
 17766,"10초 동안 정석 무도 상태가 됩니다.
 효과가 지속되는 동안에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>정석 마무리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.
-무도 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>무도 전용 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>정석 마무리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>앞걸음<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>머리 쏘기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>질주<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>군용 물약<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>역할 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 외에는 실행할 수 없습니다.
+무도 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>무도 전용 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>정석 마무리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>앞걸음<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>머리 쏘기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>질주<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>군용 물약<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>보조 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 외에는 실행할 수 없습니다.
 실행 시 무기 기술에 재사용 대기 시간이 발생합니다."
 17767,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>무도 전용 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 무도 순서에 맞춰 실행하는 데에 성공하면 마무리 효과가 향상됩니다.
@@ -21266,9 +21261,9 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에스프리 5 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 성공 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60초 동안 자신과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마주서기 상대<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 무기 기술 및 마법 시전 시간과 재사용 대기 시간 5% 단축
 무도 성공 횟수에 따라 위력이 달라집니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~1600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 200~600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1800
 실행 시 무기 기술에 재사용 대기 시간이 발생합니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -21277,9 +21272,9 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에스프리 5 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 성공 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60초 동안 자신과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마주서기 상대<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 무기 기술 및 마법 시전 시간과 재사용 대기 시간 5% 단축
 무도 성공 횟수에 따라 위력이 달라집니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~1600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 200~600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1800
 실행 시 무기 기술에 재사용 대기 시간이 발생합니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -21288,9 +21283,9 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에스프리 5 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 성공 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60초 동안 자신과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마주서기 상대<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 무기 기술 및 마법 시전 시간과 재사용 대기 시간 5% 단축
 무도 성공 횟수에 따라 위력이 달라집니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~1600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 200~600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1800
 실행 시 무기 기술에 재사용 대기 시간이 발생합니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -21299,7 +21294,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17775,"대상과 그 주위 적에게 3초 동안 수면 상태를 부여합니다."
 17776,""
 17777,"대상에게 마법 공격을 가하고, 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에테르 순환<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
 "
 17778,"대상에게 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
@@ -21311,7 +21306,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피닉스 빙의<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17780,"대상을 향해 전방 부채꼴 범위 마법 공격을 가하고, 대상의 지속 회복 효과와 보호막 효과를 모두 해제합니다.
+17780,"대상을 향해 전방 부채꼴 범위 마법 공격을 가하고,
+대상의 지속 회복 효과와 보호막 효과를 모두 해제합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000"
 17781,"에테르 순환을 2단계 소비하여 15초 동안 피닉스 빙의 상태가 됩니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>트라이디재스터<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 재사용 대기 시간이 초기화됩니다.
@@ -21353,7 +21349,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800"
 17791,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>치유의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1개 소비하여 대상의 HP를 회복하고, 15초 동안 대상의 HP를 지속적으로 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>치유의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 전투 상태에 돌입하면 10초마다 발생
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>치유의 백합 최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3"
@@ -21364,12 +21360,12 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17794,"15초 동안 자신이 주는 피해량과 회복량이 20% 증가하고, 반경 30m 안에 있는 파티원이 받는 피해량이 10% 감소합니다."
 17795,"대상에게 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 10 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 20 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17796,"대상에게 마법 공격을 가하고, 15초 동안 대상이 받는 회복 효과를 20% 감소시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 10 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-17797,"자신을 중심으로 주위 적에게 마법 공격을 가하고 10m 밀쳐냅니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 20 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+17797,"자신을 중심으로 주위 적에게 마법 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 10씩 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 17798,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 모두 소비하여 세라핌을 소환합니다.
 소환할 때 소비한 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 양에 따라 소환 시간이 변화합니다.
@@ -21399,7 +21395,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17806,"대상에게 마법 공격을 가하고, 15초 동안 무기 기술 및 마법 시전 시간과 재사용 대기 시간을 10% 지연시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800"
 17807,"대상과 그 주위 적에게 범위 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600~3000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800~3200
 대상의 남은 HP가 많을수록 위력이 증가합니다.
 고유 재사용 대기 시간이 적용됩니다."
 17808,""
@@ -21420,18 +21416,18 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17823,""
 17824,"10초 동안 기교 무도 상태가 됩니다.
 효과가 지속되는 동안에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기교 마무리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.
-무도 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>무도 전용 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기교 마무리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>앞걸음<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>머리 쏘기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>질주<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>군용 물약<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>역할 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 외에는 실행할 수 없습니다.
+무도 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>무도 전용 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기교 마무리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>앞걸음<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>머리 쏘기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>질주<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>군용 물약<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>보조 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 외에는 실행할 수 없습니다.
 실행 시 무기 기술에 재사용 대기 시간이 발생합니다."
 17825,"자신을 중심으로 주위 적에게 범위 물리 공격을 가합니다.
 대상과 거리가 가까울수록 위력이 증가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에스프리 5 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 성공 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신과 주위 파티원의 무기 기술 및 마법 시전 시간과 재사용 대기 시간 5% 단축
 무도 성공 횟수에 따라 위력이 달라집니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~1600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 3회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1000~2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 4회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1200~2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 200~600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 3회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 4회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1000~3000
 실행 시 무기 기술에 재사용 대기 시간이 발생합니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -21440,11 +21436,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에스프리 5 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 성공 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신과 주위 파티원의 무기 기술 및 마법 시전 시간과 재사용 대기 시간 5% 단축
 무도 성공 횟수에 따라 위력이 달라집니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~1600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 3회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1000~2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 4회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1200~2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 200~600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 3회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 4회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1000~3000
 실행 시 무기 기술에 재사용 대기 시간이 발생합니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -21453,11 +21449,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에스프리 5 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 성공 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신과 주위 파티원의 무기 기술 및 마법 시전 시간과 재사용 대기 시간 5% 단축
 무도 성공 횟수에 따라 위력이 달라집니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~1600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 3회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1000~2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 4회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1200~2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 200~600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 3회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 4회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1000~3000
 실행 시 무기 기술에 재사용 대기 시간이 발생합니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -21466,11 +21462,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에스프리 5 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 성공 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신과 주위 파티원의 무기 기술 및 마법 시전 시간과 재사용 대기 시간 5% 단축
 무도 성공 횟수에 따라 위력이 달라집니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~1600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 3회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1000~2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 4회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1200~2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 200~600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 3회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 4회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1000~3000
 실행 시 무기 기술에 재사용 대기 시간이 발생합니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -21479,11 +21475,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 명중한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에스프리 5 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 성공 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신과 주위 파티원의 무기 기술 및 마법 시전 시간과 재사용 대기 시간 5% 단축
 무도 성공 횟수에 따라 위력이 달라집니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~1600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 3회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1000~2000
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 4회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1200~2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 0회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 200~600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 1회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 400~1200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 2회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 600~1800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 3회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 800~2400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>무도 4회 성공<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 위력 1000~3000
 실행 시 무기 기술에 재사용 대기 시간이 발생합니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -21551,15 +21547,16 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17887,""
 17888,""
 17889,"파티원 1명을 대상으로 6초 동안 자신에게는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초의 분노<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를, 대상에게는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초의 분노 대상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>원초의 분노<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 적에게 준 피해량의 50%만큼 HP를 회복합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>원초의 분노 대상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 시전한 전사의 회복량 대비 100%만큼 HP를 회복합니다."
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>원초의 분노<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 적에게 준 피해량의 100%만큼 HP를 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>원초의 분노 대상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 시전한 전사가 원초의 분노로 회복한 만큼 HP를 회복하고, 받는 피해량이 10% 감소합니다."
 17890,"대상을 약화시키고 자신을 강화합니다.
 대상의 직업에 따라 효과가 변화합니다.
 대상이 방어 역할 및 근거리 공격 역할이면, 대상이 주는 피해량을 10% 감소시키고 자신이 주는 피해량을 10% 증가시킵니다.
 대상이 회복 역할 및 원거리 공격 역할이면, 대상이 받는 피해량을 10% 증가시키고 자신이 받는 피해량을 10% 감소시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>약화 효과 지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>강화 효과 지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60초"
-17891,"15초 동안 대상의 HP를 지속적으로 회복하고, 10초 동안 대상에게 회복력 2000만큼의 피해를 흡수하는 보호막을 칩니다.
+17891,"대상의 HP를 회복한 후 15초 동안 지속 회복 효과를 부여합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600"
 17892,""
 17893,""
@@ -21659,7 +21656,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17987,""
 17988,""
 17989,""
-17990,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 50<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여, 10초 동안 자신의 마법 시전 시간과 재사용 대기 시간을 15% 단축합니다."
+17990,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 50<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여, 6초 동안 자신이 주는 HP 회복 효과를 50% 증가시키고 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>생명활성술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>불요불굴책<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 재사용 대기 시간을 15초 단축합니다."
 17991,"자신을 중심으로 주위 적의 지속 회복 효과와 보호막 효과를 모두 해제하고, 자신과 주위 파티원에게 아래 추가 효과를 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 지속적으로 HP를 회복하고, 10초 동안 회복력 2000만큼 피해를 흡수하는 보호막을 칩니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800"
@@ -22056,7 +22053,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 200
 2번째 대상부터는 위력이 50% 감소합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 4
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3초 안에 실행하는 다음 관통산탄의 위력이 50% 증가합니다.(최대 3중첩)추가 효과는 관통산탄 이외의 기술을 실행하면 즉시 해제됩니다."
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3초 안에 실행하는 다음 관통산탄의 위력이 50% 증가합니다.(최대 3중첩)
+추가 효과는 관통산탄 이외의 기술을 실행하면 즉시 해제됩니다."
 18324,"자신을 중심으로 주위 적에게 무속성 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
 2번째 대상부터는 위력이 50% 감소합니다.
@@ -22743,7 +22741,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>흑혈 25 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-18908,"대상을 향해 전방 직선 범위 마법 공격을 가하고, 10초 동안 대상이 받는 회복 효과를 10% 감소시킵니다.
+18908,"대상을 향해 전방 직선 범위 마법 공격을 가하고, 6초 동안 대상이 받는 회복 효과를 10% 감소시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
 자신에게 15초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>암흑<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>암흑 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 주는 피해량 10% 증가
@@ -22795,7 +22793,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>콤보 시 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>푸른 용혈/붉은 용혈 중 콤보 보너스<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>푸른 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>붉은 용혈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 지속시간이 10초 연장됩니다.(최대 30초)
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-18920,"5초 안에 실행하는 다음 1번의 무기 기술 위력이 20% 증가합니다.
+18920,"5초 안에 실행하는 다음 1번의 무기 기술 위력이 50% 증가합니다.
 이때 적에게 준 피해량의 100%만큼 HP를 회복합니다."
 18921,"자신을 중심으로 주위 적에게 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
@@ -22826,11 +22824,9 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000"
 18929,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 모두 소비하여 대상에게 물리 공격을 가합니다.
 검압 중첩 수에 따라 위력이 변화합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>1중첩 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>2중첩 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>3중첩 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1800
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>4중첩 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2400
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>5중첩 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>1중첩 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>2중첩 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>3중첩 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>검압<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 1중첩 이상"
 18930,"대상을 향해 전방 부채꼴 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
@@ -22845,7 +22841,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>과열<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>자동 석궁<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 18933,"대상에게 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3"
 18934,"15초 동안 자신과 주위 파티원이 받는 피해량이 10% 감소합니다."
 18935,"대상과 그 주위 적에게 범위 마법 공격을 가하고 15초 동안 지속 피해를 줍니다.
@@ -22875,7 +22871,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 18941,"15초 동안 자신과 주위 파티원이 주는 피해량이 10% 증가하고, 받는 피해량이 10% 감소합니다."
 18942,"10초 동안 자신의 이동 속도가 향상됩니다."
 18943,"자신의 HP를 회복합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000~6000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000~6000
 남은 HP가 적을수록 회복력이 증가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3"
 18944,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>백마나 25<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>흑마나 25<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여 대상을 향해 전방 부채꼴 범위 물리 공격을 가합니다.
@@ -22884,16 +22880,19 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000"
 18946,"자신과 주위 파티원의 HP를 회복한 후, 15초 동안 지속 회복 효과를 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1500
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 400
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>치유의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>치유의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 전투 상태에 돌입하면 10초마다 발생
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>치유의 백합 최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3"
 18947,"자신과 주위 파티원의 HP를 회복하고, 10초 동안 회복량의 100%만큼 피해를 흡수하는 보호막을 칩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1000
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 전투 중에 HP가 감소한 대상의 HP를 회복하면,
+회복한 대상 1명당 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 5 증가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 18948,"자신과 주위 파티원이 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1500
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3
+재사용 대기 시간을 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>생명활성술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 공유합니다."
 18949,"자신 또는 파티원 1명을 대상으로 15초 동안 심모원려책 효과를 부여합니다.
 대상의 HP가 50% 미만이 되거나 지속시간이 끝나면 회복이 발동합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3000"
@@ -22915,10 +22914,10 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>바이오가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상에게 18초 동안 지속 피해를 줍니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에테르 순환<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여"
-18954,"6초 동안 자신이 대상에게 주는 피해량이 25% 증가합니다."
-18955,"5초 안에 실행하는 다음 1번의 무기 기술 위력이 20% 증가합니다."
-18956,"자신을 중심으로 주위 적에게 범위 마법 공격을 가하고, 10초 동안 대상의 무기 기술 및 마법 시전 시간과 재사용 대기 시간을 10% 지연시킵니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600"
+18954,"6초 동안 자신이 대상에게 주는 피해량이 20% 증가합니다."
+18955,"5초 안에 실행하는 다음 1번의 무기 기술 위력이 50% 증가합니다."
+18956,"자신을 중심으로 주위 적에게 범위 마법 공격을 가하고, 10초 동안 대상의 무기 기술 및 마법 시전 시간과 재사용 대기 시간을 20% 지연시킵니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1200"
 18957,"10초 동안 자신이 주는 HP 회복 효과가 25% 증가합니다."
 18958,"자신의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000~6000
@@ -23008,14 +23007,14 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 19001,""
 19002,"다음 8회 동안 내구도 감소량이 50% 줄어듭니다."
 19003,"다음 8회 동안 내구도 감소량이 50% 줄어듭니다."
-19004,"다음 4회 동안 품질을 올리는 기술과 작업을 진행하는 기술의 효율이 20% 향상됩니다."
-19005,"다음 4회 동안 품질을 올리는 기술과 작업을 진행하는 기술의 효율이 20% 향상됩니다."
-19006,"다음 4회 동안 품질을 올리는 기술과 작업을 진행하는 기술의 효율이 20% 향상됩니다."
-19007,"다음 4회 동안 품질을 올리는 기술과 작업을 진행하는 기술의 효율이 20% 향상됩니다."
-19008,"다음 4회 동안 품질을 올리는 기술과 작업을 진행하는 기술의 효율이 20% 향상됩니다."
-19009,"다음 4회 동안 품질을 올리는 기술과 작업을 진행하는 기술의 효율이 20% 향상됩니다."
-19010,"다음 4회 동안 품질을 올리는 기술과 작업을 진행하는 기술의 효율이 20% 향상됩니다."
-19011,"다음 4회 동안 품질을 올리는 기술과 작업을 진행하는 기술의 효율이 20% 향상됩니다."
+19004,"다음 4회 동안 품질을 올리는 기술의 효율이 50% 향상됩니다."
+19005,"다음 4회 동안 품질을 올리는 기술의 효율이 50% 향상됩니다."
+19006,"다음 4회 동안 품질을 올리는 기술의 효율이 50% 향상됩니다."
+19007,"다음 4회 동안 품질을 올리는 기술의 효율이 50% 향상됩니다."
+19008,"다음 4회 동안 품질을 올리는 기술의 효율이 50% 향상됩니다."
+19009,"다음 4회 동안 품질을 올리는 기술의 효율이 50% 향상됩니다."
+19010,"다음 4회 동안 품질을 올리는 기술의 효율이 50% 향상됩니다."
+19011,"다음 4회 동안 품질을 올리는 기술의 효율이 50% 향상됩니다."
 19012,"다음 5회 동안 1회에 한하여 작업을 진행하는 기술을 실행해도 아이템이 완성되지 않습니다.
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 사용해도 제작 공정이 진행되지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 19013,"다음 5회 동안 1회에 한하여 작업을 진행하는 기술을 실행해도 아이템이 완성되지 않습니다.
@@ -23083,7 +23082,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 19068,""
 19069,""
 19070,""
-19071,"자신 또는 파티원 1명을 대상으로, 10초 동안 받는 피해량을 10% 감소시키고 받는 회복 효과를 20% 증가시킵니다."
+19071,"자신 또는 파티원 1명을 대상으로, 15초 동안 받는 피해량을 10% 감소시키고 받는 회복 효과를 10% 증가시킵니다."
 19072,""
 19073,""
 19074,""
@@ -23099,7 +23098,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 19084,""
 19085,"6초 동안 파티원 1명이 받는 피해량을 20% 감소시킵니다.
 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>철벽 방어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 적용되는 동안에 사용하면 대상이 받는 피해량 감소 효과가 30%로 증가합니다."
-19086,"10초 동안 자신과 주위 파티원에게 회복력 2500만큼의 피해를 막아주는 보호막을 칩니다."
+19086,"10초 동안 자신과 주위 파티원에게 회복력 3000만큼의 피해를 막아주는 보호막을 칩니다."
 19087,""
 19088,""
 19089,""
@@ -23326,7 +23325,1711 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 19294,""
 19295,""
 19296,""
-19297,""
-19298,""
-19299,""
-19300,""
+19297,"다음 4회 동안 작업을 진행하는 기술의 효율이 50% 향상됩니다."
+19298,"다음 4회 동안 작업을 진행하는 기술의 효율이 50% 향상됩니다."
+19299,"다음 4회 동안 작업을 진행하는 기술의 효율이 50% 향상됩니다."
+19300,"다음 4회 동안 작업을 진행하는 기술의 효율이 50% 향상됩니다."
+19301,"다음 4회 동안 작업을 진행하는 기술의 효율이 50% 향상됩니다."
+19302,"다음 4회 동안 작업을 진행하는 기술의 효율이 50% 향상됩니다."
+19303,"다음 4회 동안 작업을 진행하는 기술의 효율이 50% 향상됩니다."
+19304,"다음 4회 동안 작업을 진행하는 기술의 효율이 50% 향상됩니다."
+19305,""
+19306,""
+19307,""
+19308,""
+19309,""
+19310,""
+19311,""
+19312,""
+19313,""
+19314,""
+19315,""
+19316,""
+19317,""
+19318,""
+19319,""
+19320,""
+19321,""
+19322,""
+19323,""
+19324,""
+19325,""
+19326,""
+19327,""
+19328,""
+19329,""
+19330,""
+19331,""
+19332,""
+19333,""
+19334,""
+19335,""
+19336,""
+19337,""
+19338,""
+19339,""
+19340,""
+19341,""
+19342,""
+19343,""
+19344,""
+19345,""
+19346,""
+19347,""
+19348,""
+19349,""
+19350,""
+19351,""
+19352,""
+19353,""
+19354,""
+19355,""
+19356,""
+19357,""
+19358,""
+19359,""
+19360,""
+19361,""
+19362,""
+19363,""
+19364,""
+19365,""
+19366,""
+19367,""
+19368,""
+19369,""
+19370,""
+19371,""
+19372,""
+19373,""
+19374,""
+19375,""
+19376,""
+19377,""
+19378,""
+19379,""
+19380,""
+19381,""
+19382,""
+19383,""
+19384,""
+19385,""
+19386,""
+19387,""
+19388,""
+19389,""
+19390,""
+19391,""
+19392,""
+19393,""
+19394,""
+19395,""
+19396,""
+19397,""
+19398,""
+19399,""
+19400,""
+19401,""
+19402,""
+19403,""
+19404,""
+19405,""
+19406,""
+19407,""
+19408,""
+19409,""
+19410,""
+19411,""
+19412,""
+19413,""
+19414,""
+19415,""
+19416,""
+19417,""
+19418,""
+19419,""
+19420,""
+19421,""
+19422,""
+19423,""
+19424,""
+19425,""
+19426,""
+19427,""
+19428,""
+19429,""
+19430,""
+19431,""
+19432,""
+19433,""
+19434,""
+19435,""
+19436,""
+19437,""
+19438,""
+19439,""
+19440,""
+19441,""
+19442,""
+19443,""
+19444,""
+19445,""
+19446,""
+19447,""
+19448,""
+19449,""
+19450,""
+19451,""
+19452,""
+19453,""
+19454,""
+19455,""
+19456,""
+19457,""
+19458,""
+19459,""
+19460,""
+19461,""
+19462,""
+19463,""
+19464,""
+19465,""
+19466,""
+19467,""
+19468,""
+19469,""
+19470,""
+19471,""
+19472,""
+19473,""
+19474,""
+19475,""
+19476,""
+19477,""
+19478,""
+19479,""
+19480,""
+19481,""
+19482,""
+19483,""
+19484,""
+19485,""
+19486,""
+19487,""
+19488,""
+19489,""
+19490,""
+19491,""
+19492,""
+19493,""
+19494,""
+19495,""
+19496,""
+19497,""
+19498,""
+19499,""
+19500,""
+19501,""
+19502,""
+19503,""
+19504,""
+19505,""
+19506,""
+19507,""
+19508,""
+19509,""
+19510,""
+19511,""
+19512,""
+19513,""
+19514,""
+19515,""
+19516,""
+19517,""
+19518,""
+19519,""
+19520,""
+19521,""
+19522,""
+19523,""
+19524,""
+19525,""
+19526,""
+19527,""
+19528,""
+19529,""
+19530,""
+19531,""
+19532,""
+19533,""
+19534,""
+19535,""
+19536,""
+19537,""
+19538,""
+19539,""
+19540,""
+19541,""
+19542,""
+19543,""
+19544,""
+19545,""
+19546,""
+19547,""
+19548,""
+19549,""
+19550,""
+19551,""
+19552,""
+19553,""
+19554,""
+19555,""
+19556,""
+19557,""
+19558,""
+19559,""
+19560,""
+19561,""
+19562,""
+19563,""
+19564,""
+19565,""
+19566,""
+19567,""
+19568,""
+19569,""
+19570,""
+19571,""
+19572,""
+19573,""
+19574,""
+19575,""
+19576,""
+19577,""
+19578,""
+19579,""
+19580,""
+19581,""
+19582,""
+19583,""
+19584,""
+19585,""
+19586,""
+19587,""
+19588,""
+19589,""
+19590,""
+19591,""
+19592,""
+19593,""
+19594,""
+19595,""
+19596,""
+19597,""
+19598,""
+19599,""
+19600,""
+19601,""
+19602,""
+19603,""
+19604,""
+19605,""
+19606,""
+19607,""
+19608,""
+19609,""
+19610,""
+19611,""
+19612,""
+19613,""
+19614,""
+19615,""
+19616,""
+19617,""
+19618,""
+19619,""
+19620,""
+19621,""
+19622,""
+19623,""
+19624,""
+19625,""
+19626,""
+19627,""
+19628,""
+19629,""
+19630,""
+19631,""
+19632,""
+19633,""
+19634,""
+19635,""
+19636,""
+19637,""
+19638,""
+19639,""
+19640,""
+19641,""
+19642,""
+19643,""
+19644,""
+19645,""
+19646,""
+19647,""
+19648,""
+19649,""
+19650,""
+19651,""
+19652,""
+19653,""
+19654,""
+19655,""
+19656,""
+19657,""
+19658,""
+19659,""
+19660,""
+19661,""
+19662,""
+19663,""
+19664,""
+19665,""
+19666,""
+19667,""
+19668,""
+19669,""
+19670,""
+19671,""
+19672,""
+19673,""
+19674,""
+19675,""
+19676,""
+19677,""
+19678,""
+19679,""
+19680,""
+19681,""
+19682,""
+19683,""
+19684,""
+19685,""
+19686,""
+19687,""
+19688,""
+19689,""
+19690,""
+19691,""
+19692,""
+19693,""
+19694,""
+19695,""
+19696,""
+19697,""
+19698,""
+19699,""
+19700,""
+19701,""
+19702,""
+19703,""
+19704,""
+19705,""
+19706,""
+19707,""
+19708,""
+19709,""
+19710,""
+19711,""
+19712,""
+19713,""
+19714,""
+19715,""
+19716,""
+19717,""
+19718,""
+19719,""
+19720,""
+19721,""
+19722,""
+19723,""
+19724,""
+19725,""
+19726,""
+19727,""
+19728,""
+19729,""
+19730,""
+19731,"입고 있는 특수 인형탈을 벗습니다."
+19732,""
+19733,""
+19734,""
+19735,""
+19736,""
+19737,""
+19738,""
+19739,""
+19740,""
+19741,""
+19742,""
+19743,""
+19744,""
+19745,""
+19746,""
+19747,""
+19748,""
+19749,""
+19750,""
+19751,""
+19752,""
+19753,""
+19754,""
+19755,""
+19756,""
+19757,""
+19758,""
+19759,""
+19760,""
+19761,""
+19762,""
+19763,""
+19764,""
+19765,""
+19766,""
+19767,""
+19768,""
+19769,""
+19770,""
+19771,""
+19772,""
+19773,""
+19774,""
+19775,""
+19776,""
+19777,""
+19778,""
+19779,""
+19780,""
+19781,""
+19782,""
+19783,""
+19784,""
+19785,""
+19786,""
+19787,""
+19788,""
+19789,""
+19790,""
+19791,""
+19792,""
+19793,""
+19794,""
+19795,""
+19796,""
+19797,""
+19798,""
+19799,""
+19800,""
+19801,""
+19802,""
+19803,""
+19804,""
+19805,""
+19806,""
+19807,""
+19808,""
+19809,""
+19810,""
+19811,""
+19812,""
+19813,""
+19814,""
+19815,""
+19816,""
+19817,""
+19818,""
+19819,""
+19820,""
+19821,""
+19822,""
+19823,""
+19824,""
+19825,""
+19826,""
+19827,""
+19828,""
+19829,""
+19830,""
+19831,""
+19832,""
+19833,""
+19834,""
+19835,""
+19836,""
+19837,""
+19838,""
+19839,""
+19840,""
+19841,""
+19842,""
+19843,""
+19844,""
+19845,""
+19846,""
+19847,""
+19848,""
+19849,""
+19850,""
+19851,""
+19852,""
+19853,""
+19854,""
+19855,""
+19856,""
+19857,""
+19858,""
+19859,""
+19860,""
+19861,""
+19862,""
+19863,""
+19864,""
+19865,""
+19866,""
+19867,""
+19868,""
+19869,""
+19870,""
+19871,""
+19872,""
+19873,""
+19874,""
+19875,""
+19876,""
+19877,""
+19878,""
+19879,""
+19880,""
+19881,""
+19882,""
+19883,""
+19884,""
+19885,""
+19886,""
+19887,""
+19888,""
+19889,""
+19890,""
+19891,""
+19892,""
+19893,""
+19894,""
+19895,""
+19896,""
+19897,""
+19898,""
+19899,""
+19900,""
+19901,""
+19902,""
+19903,""
+19904,""
+19905,""
+19906,""
+19907,""
+19908,""
+19909,""
+19910,""
+19911,""
+19912,""
+19913,""
+19914,""
+19915,""
+19916,""
+19917,""
+19918,""
+19919,""
+19920,""
+19921,""
+19922,""
+19923,""
+19924,""
+19925,""
+19926,""
+19927,""
+19928,""
+19929,""
+19930,""
+19931,""
+19932,""
+19933,""
+19934,""
+19935,""
+19936,""
+19937,""
+19938,""
+19939,""
+19940,""
+19941,""
+19942,""
+19943,""
+19944,""
+19945,""
+19946,""
+19947,""
+19948,""
+19949,""
+19950,""
+19951,""
+19952,""
+19953,""
+19954,""
+19955,""
+19956,""
+19957,""
+19958,""
+19959,""
+19960,""
+19961,""
+19962,""
+19963,""
+19964,""
+19965,""
+19966,""
+19967,""
+19968,""
+19969,""
+19970,""
+19971,""
+19972,""
+19973,""
+19974,""
+19975,""
+19976,""
+19977,""
+19978,""
+19979,""
+19980,""
+19981,""
+19982,""
+19983,""
+19984,""
+19985,""
+19986,""
+19987,""
+19988,""
+19989,""
+19990,""
+19991,""
+19992,""
+19993,""
+19994,"강렬한 충격에 대비해 버팁니다."
+19995,""
+19996,""
+19997,"그물을 던져 닭을 포획합니다."
+19998,"끈끈이를 던져서 닭의 움직임을 둔하게 만듭니다."
+19999,""
+20000,""
+20001,""
+20002,""
+20003,""
+20004,""
+20005,""
+20006,""
+20007,""
+20008,""
+20009,""
+20010,""
+20011,""
+20012,""
+20013,""
+20014,""
+20015,""
+20016,""
+20017,""
+20018,"현재 사용할 수 없는 임무용 기술입니다."
+20019,""
+20020,""
+20021,""
+20022,""
+20023,""
+20024,""
+20025,""
+20026,""
+20027,""
+20028,""
+20029,""
+20030,"마력이 담긴 신비한 빛을 발산합니다."
+20031,"마력이 담긴 신비한 빛을 발산합니다.
+※ 전투 효과는 없습니다."
+20032,""
+20033,""
+20034,""
+20035,""
+20036,""
+20037,""
+20038,""
+20039,""
+20040,""
+20041,""
+20042,""
+20043,""
+20044,""
+20045,""
+20046,""
+20047,""
+20048,""
+20049,""
+20050,""
+20051,""
+20052,""
+20053,""
+20054,""
+20055,""
+20056,""
+20057,""
+20058,""
+20059,""
+20060,""
+20061,""
+20062,""
+20063,""
+20064,"장식깃을 펼쳐서 아름다움을 뽐냅니다.
+※전투 효과는 없습니다."
+20065,""
+20066,""
+20067,""
+20068,""
+20069,""
+20070,""
+20071,""
+20072,""
+20073,""
+20074,""
+20075,""
+20076,""
+20077,""
+20078,""
+20079,""
+20080,""
+20081,""
+20082,""
+20083,""
+20084,""
+20085,""
+20086,""
+20087,""
+20088,""
+20089,""
+20090,""
+20091,""
+20092,""
+20093,""
+20094,""
+20095,""
+20096,""
+20097,""
+20098,""
+20099,""
+20100,""
+20101,""
+20102,""
+20103,""
+20104,""
+20105,""
+20106,"15초 동안 자신과 주위 파티원이 주는 피해량이 10% 증가합니다.
+이 효과는 3초마다 2%씩 저하됩니다."
+20107,""
+20108,""
+20109,""
+20110,""
+20111,""
+20112,""
+20113,""
+20114,""
+20115,""
+20116,""
+20117,""
+20118,""
+20119,""
+20120,""
+20121,""
+20122,""
+20123,""
+20124,""
+20125,""
+20126,""
+20127,""
+20128,""
+20129,""
+20130,""
+20131,""
+20132,""
+20133,""
+20134,""
+20135,""
+20136,""
+20137,""
+20138,""
+20139,""
+20140,""
+20141,""
+20142,""
+20143,""
+20144,""
+20145,""
+20146,""
+20147,""
+20148,""
+20149,""
+20150,""
+20151,""
+20152,""
+20153,""
+20154,""
+20155,""
+20156,""
+20157,""
+20158,""
+20159,""
+20160,""
+20161,""
+20162,""
+20163,""
+20164,""
+20165,""
+20166,""
+20167,""
+20168,""
+20169,""
+20170,""
+20171,""
+20172,""
+20173,""
+20174,""
+20175,""
+20176,""
+20177,""
+20178,""
+20179,""
+20180,""
+20181,""
+20182,""
+20183,""
+20184,""
+20185,""
+20186,""
+20187,""
+20188,""
+20189,""
+20190,""
+20191,""
+20192,""
+20193,""
+20194,""
+20195,""
+20196,""
+20197,""
+20198,""
+20199,""
+20200,""
+20201,""
+20202,""
+20203,""
+20204,""
+20205,""
+20206,""
+20207,""
+20208,""
+20209,""
+20210,""
+20211,""
+20212,""
+20213,""
+20214,""
+20215,""
+20216,""
+20217,""
+20218,""
+20219,""
+20220,""
+20221,""
+20222,""
+20223,""
+20224,""
+20225,""
+20226,""
+20227,""
+20228,""
+20229,""
+20230,""
+20231,""
+20232,""
+20233,""
+20234,""
+20235,""
+20236,""
+20237,""
+20238,""
+20239,""
+20240,""
+20241,""
+20242,""
+20243,""
+20244,""
+20245,""
+20246,""
+20247,""
+20248,""
+20249,""
+20250,""
+20251,""
+20252,""
+20253,""
+20254,""
+20255,""
+20256,""
+20257,""
+20258,""
+20259,""
+20260,""
+20261,""
+20262,""
+20263,""
+20264,""
+20265,""
+20266,""
+20267,""
+20268,""
+20269,""
+20270,""
+20271,""
+20272,""
+20273,""
+20274,""
+20275,""
+20276,""
+20277,""
+20278,""
+20279,""
+20280,""
+20281,""
+20282,""
+20283,""
+20284,""
+20285,""
+20286,""
+20287,""
+20288,""
+20289,""
+20290,""
+20291,""
+20292,""
+20293,""
+20294,""
+20295,""
+20296,""
+20297,""
+20298,""
+20299,""
+20300,""
+20301,""
+20302,""
+20303,""
+20304,"알파의 깃털로 만든 초코보 붓.
+검은색 물감을 묻힌 상태."
+20305,""
+20306,""
+20307,""
+20308,""
+20309,""
+20310,""
+20311,""
+20312,""
+20313,""
+20314,""
+20315,""
+20316,""
+20317,""
+20318,""
+20319,""
+20320,""
+20321,""
+20322,""
+20323,""
+20324,""
+20325,""
+20326,""
+20327,""
+20328,""
+20329,""
+20330,""
+20331,""
+20332,""
+20333,""
+20334,""
+20335,""
+20336,""
+20337,""
+20338,""
+20339,""
+20340,""
+20341,""
+20342,""
+20343,""
+20344,""
+20345,""
+20346,""
+20347,""
+20348,""
+20349,""
+20350,""
+20351,""
+20352,""
+20353,""
+20354,""
+20355,""
+20356,""
+20357,""
+20358,""
+20359,""
+20360,""
+20361,""
+20362,""
+20363,""
+20364,""
+20365,""
+20366,""
+20367,""
+20368,""
+20369,""
+20370,""
+20371,""
+20372,""
+20373,""
+20374,""
+20375,""
+20376,""
+20377,""
+20378,""
+20379,""
+20380,""
+20381,""
+20382,""
+20383,""
+20384,""
+20385,""
+20386,""
+20387,""
+20388,""
+20389,""
+20390,""
+20391,""
+20392,""
+20393,""
+20394,""
+20395,""
+20396,""
+20397,""
+20398,""
+20399,""
+20400,""
+20401,""
+20402,""
+20403,""
+20404,""
+20405,""
+20406,""
+20407,""
+20408,""
+20409,""
+20410,""
+20411,""
+20412,""
+20413,""
+20414,""
+20415,""
+20416,""
+20417,""
+20418,""
+20419,""
+20420,""
+20421,""
+20422,""
+20423,""
+20424,""
+20425,""
+20426,""
+20427,""
+20428,""
+20429,""
+20430,""
+20431,""
+20432,""
+20433,""
+20434,""
+20435,""
+20436,""
+20437,""
+20438,""
+20439,""
+20440,""
+20441,""
+20442,""
+20443,""
+20444,""
+20445,""
+20446,""
+20447,""
+20448,""
+20449,""
+20450,""
+20451,""
+20452,""
+20453,""
+20454,""
+20455,""
+20456,""
+20457,""
+20458,""
+20459,""
+20460,""
+20461,""
+20462,""
+20463,""
+20464,""
+20465,""
+20466,""
+20467,""
+20468,""
+20469,""
+20470,""
+20471,""
+20472,""
+20473,""
+20474,""
+20475,""
+20476,""
+20477,""
+20478,""
+20479,""
+20480,""
+20481,""
+20482,""
+20483,""
+20484,""
+20485,""
+20486,""
+20487,""
+20488,""
+20489,""
+20490,""
+20491,""
+20492,""
+20493,""
+20494,""
+20495,""
+20496,""
+20497,""
+20498,""
+20499,""
+20500,""
+20501,""
+20502,""
+20503,""
+20504,""
+20505,""
+20506,""
+20507,""
+20508,""
+20509,""
+20510,""
+20511,""
+20512,""
+20513,""
+20514,""
+20515,""
+20516,""
+20517,""
+20518,""
+20519,""
+20520,""
+20521,""
+20522,""
+20523,""
+20524,""
+20525,""
+20526,""
+20527,""
+20528,""
+20529,""
+20530,""
+20531,""
+20532,""
+20533,""
+20534,""
+20535,""
+20536,""
+20537,""
+20538,""
+20539,""
+20540,""
+20541,""
+20542,""
+20543,""
+20544,""
+20545,""
+20546,""
+20547,""
+20548,""
+20549,""
+20550,""
+20551,""
+20552,""
+20553,""
+20554,""
+20555,""
+20556,""
+20557,""
+20558,""
+20559,""
+20560,""
+20561,""
+20562,""
+20563,""
+20564,""
+20565,""
+20566,""
+20567,""
+20568,""
+20569,""
+20570,""
+20571,""
+20572,""
+20573,""
+20574,""
+20575,""
+20576,""
+20577,""
+20578,""
+20579,""
+20580,""
+20581,""
+20582,""
+20583,""
+20584,""
+20585,""
+20586,""
+20587,""
+20588,""
+20589,""
+20590,""
+20591,""
+20592,""
+20593,""
+20594,""
+20595,""
+20596,""
+20597,""
+20598,""
+20599,""
+20600,""
+20601,""
+20602,""
+20603,""
+20604,""
+20605,""
+20606,""
+20607,""
+20608,""
+20609,""
+20610,""
+20611,""
+20612,""
+20613,""
+20614,""
+20615,""
+20616,""
+20617,""
+20618,""
+20619,""
+20620,""
+20621,""
+20622,""
+20623,""
+20624,""
+20625,""
+20626,""
+20627,""
+20628,""
+20629,""
+20630,""
+20631,""
+20632,""
+20633,""
+20634,""
+20635,""
+20636,""
+20637,""
+20638,""
+20639,""
+20640,""
+20641,""
+20642,""
+20643,""
+20644,""
+20645,""
+20646,""
+20647,""
+20648,""
+20649,""
+20650,""
+20651,""
+20652,""
+20653,""
+20654,""
+20655,""
+20656,""
+20657,""
+20658,""
+20659,""
+20660,""
+20661,""
+20662,""
+20663,""
+20664,""
+20665,""
+20666,""
+20667,""
+20668,""
+20669,""
+20670,""
+20671,""
+20672,""
+20673,""
+20674,""
+20675,""
+20676,""
+20677,""
+20678,""
+20679,""
+20680,""
+20681,""
+20682,""
+20683,""
+20684,""
+20685,""
+20686,""
+20687,""
+20688,""
+20689,""
+20690,""
+20691,""
+20692,""
+20693,""
+20694,""
+20695,""
+20696,""
+20697,""
+20698,""
+20699,""
+20700,""
+20701,""
+20702,""
+20703,""
+20704,""
+20705,""
+20706,""
+20707,""
+20708,""
+20709,""
+20710,""
+20711,""
+20712,""
+20713,""
+20714,""
+20715,""
+20716,""
+20717,""
+20718,""
+20719,""
+20720,""
+20721,""
+20722,""
+20723,""
+20724,""
+20725,""
+20726,""
+20727,""
+20728,""
+20729,""
+20730,""
+20731,""
+20732,""
+20733,""
+20734,""
+20735,""
+20736,""
+20737,""
+20738,""
+20739,""
+20740,""
+20741,""
+20742,""
+20743,""
+20744,""
+20745,""
+20746,""
+20747,""
+20748,""
+20749,""
+20750,""
+20751,""
+20752,""
+20753,""
+20754,""
+20755,""
+20756,""
+20757,""
+20758,""
+20759,""
+20760,""
+20761,""
+20762,""
+20763,""
+20764,""
+20765,""
+20766,""
+20767,""
+20768,""
+20769,""
+20770,""
+20771,""
+20772,""
+20773,""
+20774,""
+20775,""
+20776,""
+20777,""
+20778,""
+20779,""
+20780,""
+20781,""
+20782,""
+20783,""
+20784,""
+20785,""
+20786,""
+20787,""
+20788,""
+20789,""
+20790,""
+20791,""
+20792,""
+20793,""
+20794,""
+20795,""
+20796,""
+20797,""
+20798,""
+20799,""
+20800,""
+20801,""
+20802,""
+20803,""
+20804,""
+20805,""
+20806,""
+20807,""
+20808,""
+20809,""
+20810,""
+20811,""
+20812,""
+20813,""
+20814,""
+20815,""
+20816,""
+20817,""
+20818,""
+20819,""
+20820,""
+20821,""
+20822,""
+20823,""
+20824,""
+20825,""
+20826,""
+20827,""
+20828,""
+20829,""
+20830,""
+20831,""
+20832,""
+20833,""
+20834,""
+20835,""
+20836,""
+20837,""
+20838,""
+20839,""
+20840,""
+20841,""
+20842,""
+20843,""
+20844,""
+20845,""
+20846,""
+20847,""
+20848,""
+20849,""
+20850,""
+20851,""
+20852,""
+20853,""
+20854,""
+20855,""
+20856,""
+20857,""
+20858,""
+20859,""
+20860,""
+20861,""
+20862,""
+20863,""
+20864,""
+20865,""
+20866,""
+20867,""
+20868,""
+20869,""
+20870,""
+20871,""
+20872,""
+20873,""
+20874,""
+20875,""
+20876,""
+20877,""
+20878,""
+20879,""
+20880,""
+20881,""
+20882,""
+20883,""
+20884,""
+20885,""
+20886,""
+20887,""
+20888,""
+20889,""
+20890,""
+20891,""
+20892,""
+20893,""
+20894,""
+20895,""
+20896,""
+20897,""
+20898,""
+20899,""
+20900,""
+20901,""
+20902,""
+20903,""
+20904,""
+20905,""
+20906,""
+20907,""
+20908,""
+20909,""
+20910,""
+20911,""
+20912,""
+20913,""
+20914,""
+20915,""
+20916,""
+20917,""
+20918,""
+20919,""
+20920,""
+20921,""
+20922,""
+20923,""
+20924,""
+20925,""
+20926,""
+20927,""
+20928,""
+20929,""
+20930,""
+20931,""
+20932,""
+20933,""
+20934,""
+20935,""
+20936,""
+20937,""
+20938,""
+20939,""
+20940,""
+20941,""
+20942,""
+20943,""
+20944,""
+20945,""
+20946,""
+20947,""
+20948,""
+20949,""
+20950,""
+20951,""
+20952,""
+20953,""
+20954,""
+20955,""
+20956,""
+20957,""
+20958,""
+20959,""
+20960,""
+20961,""
+20962,""
+20963,""
+20964,""
+20965,""
+20966,""
+20967,""
+20968,""
+20969,""
+20970,""
+20971,""
+20972,""
+20973,""
+20974,""
+20975,""
+20976,""
+20977,""
+20978,""
+20979,""
+20980,""
+20981,""
+20982,""
+20983,""
+20984,""
+20985,""
+20986,""
+20987,""
+20988,""
+20989,""
+20990,""
+20991,""
+20992,""
+20993,""
+20994,""
+20995,""
+20996,""
+20997,""
+20998,""
+20999,""
+21000,""

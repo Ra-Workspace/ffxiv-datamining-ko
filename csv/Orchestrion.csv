@@ -116,25 +116,25 @@ int32,str,str
 67,"Horizons Calling","'난파선의 섬' 또는 '난파선의 섬(어려움)'에서 획득"
 68,"Wreck to the Seaman","아이템 제작
 주 재료: '극 리바이어선 토벌전'에서 획득
-(최저 아이템 레벨로 조율하면 획득률 증가)"
+(최저 아이템 레벨 조율 시 획득률 증가)"
 69,"Through the Maelstrom","아이템 제작
 주 재료: '극 리바이어선 토벌전'에서 획득
-(최저 아이템 레벨로 조율하면 획득률 증가)"
+(최저 아이템 레벨 조율 시 획득률 증가)"
 70,"Good King Moggle Mog XII","아이템 제작
 주 재료: '극왕 모그루 모그 XII세 토벌전'에서 획득
-(최저 아이템 레벨로 조율하면 획득률 증가)"
+(최저 아이템 레벨 조율 시 획득률 증가)"
 71,"Revenge of the Horde","아이템 제작
 주 재료: '극 니드호그 토벌전'에서 획득
-(최저 아이템 레벨로 조율하면 획득률 증가)"
+(최저 아이템 레벨 조율 시 획득률 증가)"
 72,"Battle on the Big Bridge","아이템 제작
 주 재료: '길가메시 토벌전' 또는 '진 길가메시 토벌전'에서 획득"
 73,"Battle to the Death - Heavensward","골드 소서에서 교환"
 74,"Engage","아이템 제작
 주 재료: 비공정 탐사로 획득"
 75,"Defender of the Realm","업적 '선율에 심취한 자: 3단계' 보상"
-76,"On Windy Meadows","'보물고 아쿠아폴리스'에서 획득"
-77,"Whisper of the Land","'보물고 아쿠아폴리스'에서 획득"
-78,"Twilight over Thanalan","'보물고 아쿠아폴리스'에서 획득"
+76,"On Windy Meadows","'보물고 아쿠아폴리스' 또는 창천 거리의 '쿠뽀 복권'으로 획득"
+77,"Whisper of the Land","'보물고 아쿠아폴리스' 또는 창천 거리의 '쿠뽀 복권'으로 획득"
+78,"Twilight over Thanalan","'보물고 아쿠아폴리스' 또는 창천 거리의 '쿠뽀 복권'으로 획득"
 79,"Dragonsong","주요 퀘스트 보상"
 80,"All Saints' Wake","기간 한정 이벤트 보상"
 81,"Up at Dawn","기간 한정 이벤트 보상"
@@ -149,10 +149,10 @@ int32,str,str
 90,"Reflections","모르도나에서 교환"
 91,"Close to the Heavens","아이템 제작
 주 재료: 아발라시아 구름바다의 정예 마물로부터 획득"
-92,"Unspoken","'보물고 아쿠아폴리스'에서 획득"
+92,"Unspoken","'보물고 아쿠아폴리스' 또는 창천 거리의 '쿠뽀 복권'으로 획득"
 93,"Where the Heart Is","하우징 구역에서 판매"
 94,"Homestead","이딜샤이어에서 판매"
-95,"Calamity Unbound","'보물고 아쿠아폴리스'에서 획득"
+95,"Calamity Unbound","'보물고 아쿠아폴리스' 또는 창천 거리의 '쿠뽀 복권'으로 획득"
 96,"Battle Theme 1.x","골드 소서에서 교환"
 97,"Blackbosom","'망자의 궁전'에 파묻힌 보물에서 획득"
 98,"Fog of Phantom","채석공방에서 교환
@@ -166,16 +166,16 @@ int32,str,str
 103,"Grounded","퀘스트 보상"
 104,"Footsteps in the Snow","아이템 제작
 주 재료: '극 시바 토벌전'에서 획득
-(최저 아이템 레벨로 조율하면 획득률 증가)"
+(최저 아이템 레벨 조율 시 획득률 증가)"
 105,"Oblivion","아이템 제작
 주 재료: '극 시바 토벌전'에서 획득
-(최저 아이템 레벨로 조율하면 획득률 증가)"
+(최저 아이템 레벨 조율 시 획득률 증가)"
 106,"Thunder Rolls","아이템 제작
 주 재료: '극 라무 토벌전'에서 획득
-(최저 아이템 레벨로 조율하면 획득률 증가)"
+(최저 아이템 레벨 조율 시 획득률 증가)"
 107,"Equilibrium","아이템 제작
 주 재료: '극 여신 소피아 토벌전'에서 획득
-(최저 아이템 레벨로 조율하면 획득률 증가)"
+(최저 아이템 레벨 조율 시 획득률 증가)"
 108,"Sins of the Father, Sins of the Son","퀘스트 보상"
 109,"Locus","퀘스트 보상"
 110,"Metal","퀘스트 보상"
@@ -191,13 +191,13 @@ int32,str,str
 120,"Fleeting Rays","하늘다리에서 판매"
 121,"Saltswept","맥주 항구에서 판매"
 122,"Thicker than a Knife's Blade","잊힌 기사 주점에서 교환"
-123,"Jewel","'디아뎀 제도'의 잠긴 상자에서 획득"
+123,"Jewel","창천 거리에서 교환 또는 '디아뎀 제도'의 잠긴 상자에서 획득"
 124,"He Who Continues the Attack","퀘스트 보상"
 125,"Imperial Will","퀘스트 보상"
 126,"Steel Reason","퀘스트 보상"
 127,"Canticle","하우징 구역에서 판매"
 128,"Forever Lost","퀘스트 보상"
-129,"Breaking Boundaries","'보물고 아쿠아폴리스'에서 획득"
+129,"Breaking Boundaries","'보물고 아쿠아폴리스' 또는 창천 거리의 '쿠뽀 복권'으로 획득"
 130,"Hallowed Halls","'이슈가르드 교황청'에서 획득"
 131,"Quicksand","퀘스트 보상"
 132,"Another Brick","퀘스트 보상"
@@ -247,8 +247,8 @@ int32,str,str
 주 재료: 드라바니아 구름바다의 정예 마물로부터 획득"
 160,"The Silent Regard of Stars","아이템 제작
 주 재료: 저지 드라바니아의 정예 마물로부터 획득"
-161,"Beyond the Wall","돌발 임무 '나무인간 장로'에서 획득"
-162,"Liquid Flame","돌발 임무 '꿈꾸는 장군'에서 획득"
+161,"Beyond the Wall","기라바니아 변방지대의 돌발 임무 '나무인간 장로'에서 획득"
+162,"Liquid Flame","홍옥해의 돌발 임무 '꿈꾸는 장군'에서 획득"
 163,"Drowning in the Horizon","랄거의 손길 또는 쿠가네에서 교환"
 164,"The Edge","포도주 항구에서 판매"
 165,"Navigator's Glory - The Theme of Limsa Lominsa","'보물고 우즈네어 운하' 또는 '보물고 우즈네어 운하 심층'에서 획득"
@@ -298,8 +298,8 @@ int32,str,str
 205,"Mother's Pride","'보물고 우즈네어 운하 심층'에서 획득"
 206,"He Rises Above","랄거의 손길에서 교환"
 207,"Keepers of the Lock","카스텔룸 벨로디나에서 교환"
-208,"Wicked Winds Whisper","'아네모스 잠긴 상자'에서 획득"
-209,"No Quarter","'아네모스 잠긴 상자'에서 획득"
+208,"Wicked Winds Whisper","'금단의 땅 에우레카: 아네모스편'에서 얻을 수 있는 '아네모스 잠긴 상자'에서 획득"
+209,"No Quarter","'금단의 땅 에우레카: 아네모스편'에서 얻을 수 있는 '아네모스 잠긴 상자'에서 획득"
 210,"Down Where Daemons Dwell","'지옥뚜껑'에서 획득"
 211,"Unbreakable (Duality)","'무한연속 박물함(어려움)'에서 획득"
 212,"Their Deadly Mission","'성도산 사원'에서 획득"
@@ -392,9 +392,9 @@ int32,str,str
 285,"The Stone Remembers","랄거의 손길에서 교환"
 286,"Old Wounds","랄거의 손길에서 교환"
 287,"Harmony","랄거의 손길에서 교환"
-288,"Gates of Paradise - The Garden of Ru'Hmet","'히다토스 잠긴 상자'에서 획득"
-289,"Onslaught","'변이된 히다토스 잠긴 상자'에서 획득"
-290,"Turmoil","'발데시온 무기고'에서 획득"
+288,"Gates of Paradise - The Garden of Ru'Hmet","'금단의 땅 에우레카: 히다토스편'에서 얻을 수 있는 '히다토스 잠긴 상자'에서 획득"
+289,"Onslaught","'금단의 땅 에우레카: 히다토스편'에서 얻을 수 있는 '변이된 히다토스 잠긴 상자'에서 획득"
+290,"Turmoil","'금단의 땅 에우레카: 히다토스편'의 '발데시온 무기고'에서 획득"
 291,"Beyond Redemption","그리다니아 구시가지에서 교환"
 292,"Staff Credits","퀘스트 보상"
 293,"Alma's Theme","퀘스트 보상"
@@ -472,3 +472,26 @@ int32,str,str
 359,"The Worm's Tail (Orchestral Version)","쿠폰 입력으로 획득"
 360,"Nail of the Heavens","울다하에서 교환"
 361,"Imperium","울다하에서 교환"
+362,"Blue Fields","퀘스트 보상"
+363,"Twice Stricken","'희망의 낙원 에덴: 공명편 1'에서 획득"
+364,"Primal Angel","'희망의 낙원 에덴: 공명편 2'에서 획득"
+365,"Return to Oblivion","'희망의 낙원 에덴: 공명편 4'에서 획득"
+366,"Ultima (The Primals)","아이템 제작
+주 재료: '극 루비 웨폰 파괴작전'에서 획득
+(최저 아이템 레벨 조율 시 획득률 증가)"
+367,"",""
+368,"The Maiden's Lament","'하우케타 별궁'에서 획득"
+369,"The Darkhold","'제멜 요새'에서 획득"
+370,"Floundering in the Depths","'애니드라스 아남네시스'에서 획득"
+371,"Hopl's Dropple","호파루의 소반에서 교환"
+372,"Crumbling Lies - Front","퀘스트 보상"
+373,"Vamo' alla Flamenco","골드 소서에서 교환"
+374,"",""
+375,"",""
+376,"",""
+377,"",""
+378,"Bedlam's Brink","템페스트에서 교환"
+379,"A Reason to Live","일 메그에서 교환"
+380,"No Greater Sorrow","율모어에서 교환"
+381,"On Our Fates Alight","'보물고 리예 기아 지하미궁'에서 획득"
+382,"",""

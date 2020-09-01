@@ -19,70 +19,137 @@ int32,str,str
 6,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_050","그 부분은 실제로 창구에 가서 얘기하는 편이 빠를 테니
 '포트킨'이라는 녀석에게 설명을 듣도록 해.
 현장 사람과 얼굴도 익혀야 할 테니 겸사겸사 잘 부탁해."
-7,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_020_000","장인에게 부탁하고 싶은 일이 무엇인지는
+7,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_060","여어, <Highlight>ObjectParameter(1)</Highlight>.
+지난번에는 부흥 계획에 부족한 점이 많다 보니……
+여러 모로 힘들게 한 것 같아 미안했네."
+8,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_010_070","새로운 부흥 계획이 시작되었으니 또 협력해줬으면 해.
+필요한 물자는 지난번과 달라졌으니
+'포트킨'한테 가서 확인해 주지 않겠나?"
+9,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_020_000","장인에게 부탁하고 싶은 일이 무엇인지는
 '포트킨'이라는 녀석에게 자세한 설명을 들어줘.
 현장 사람과 얼굴도 익혀야 할 테니 겸사겸사 잘 부탁해."
-8,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_030_000","포트킨 녀석과 얘기하는 모습은 여기서 지켜보고 있었어.
+10,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_030_000","포트킨 녀석과 얘기하는 모습은 여기서 지켜보고 있었어.
 그 녀석, 동경하던 영웅과 얘기한다고 긴장한 것 같던데……
 일 내용은 제대로 들었나?"
-9,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_030_010","아 참, 그리고 '에니'한테도 설명을 들어두면 좋을 거야.
+11,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_030_010","아 참, 그리고 '에니'한테도 설명을 들어두면 좋을 거야.
 그 녀석은 장인용 상품을 취급하고 있거든."
-10,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_000","아, 돌아왔군.
+12,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_130_000","포트킨한테서 쿠뽀 복권 얘기는 들었나?
+'리즈베스'한테서 더 자세한 얘기를 들을 수 있을 거야."
+13,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_140_000","자원을 어디서 구할 수 있는지, 설명은 들었나?
+괜찮다면 '플로파상'한테 설명을 듣도록 해."
+14,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_150_000","디아뎀 제도에 관해서는
+그거야 뭐 '오르바엘' 도련님이 제일 잘 알고 있지.
+이야기는 벌써 들었나?"
+15,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_160_000","당신이 장인으로서 더 성장하고 싶다면……
+'루도브랭'이라는 귀족에게 말을 걸어봐.
+재미있는 이야기를 들을 수 있을걸?"
+16,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_000","아, 돌아왔군.
 부흥 사업의 흐름은 대체적으로 이해했나?"
-11,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_010","뭐, 다시 한번 확인하고 싶으면
+17,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_010","뭐, 다시 한번 확인하고 싶으면
 <Sheet(EObj,2010775,0)/>에도 쓰여 있으니까
 그걸 보도록 해."
-12,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_020","그래서 이 도시의 사업에 대해서 말인데
-'부흥 공동 작업'의 설명을 깜박했더라고."
-13,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_030","'부흥 공동 작업'이란 건
+18,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_020","그래서 이 도시의 사업에 대해서 말인데
+'부흥 공동 작업' 설명을 깜박했더라고."
+19,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_030","'부흥 공동 작업'이란 건
 장인들이 주축이 되어 실시하는 대규모 공사를 말해.
 물자가 모이는 대로 착공하기로 되어 있지."
-14,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_040","하지만 예고도 없이 시작하면 사람들이 안 모이지 않겠나.
+20,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_040","하지만 예고도 없이 시작하면 사람들이 안 모이지 않겠나.
 그래서 이 <Sheet(EObj,2010775,0)/>에
 사전에 예고를 붙여놓기로 했어."
-15,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_050","그러니 자주 <Sheet(EObj,2010775,0)/><13>FF1002280CFF05454F626AF61EAE970103FF04EBA5BCFF04EC9D84</13> 들여다보면
+21,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_050","그러니 자주 <Sheet(EObj,2010775,0)/><13>FF1002280CFF05454F626AF61EAE970103FF04EBA5BCFF04EC9D84</13> 들여다보면
 놓치지 않을 수 있을 거야.
 시간이 맞아서 협력해준다면 더 고맙고."
-16,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_060","자, 그럼 이제 당신의 활약을 기대하고 있을게!
+22,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_060","자, 그럼 이제 당신의 활약을 기대하고 있을게!
 영웅이면서 부흥에도 참여해주는,
 고마운 <Highlight>ObjectParameter(1)</Highlight> 씨!"
-17,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_070","'부흥 공동 작업'은
+23,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_070","'부흥 공동 작업'은
 제작자 및 채집가로 참여할 수 있는
 창천 거리의 임무입니다."
-18,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_080","부흥에 필요한 물자가 필요한 수량만큼 납품되면
+24,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_080","부흥에 필요한 물자가 필요한 수량만큼 납품되면
 <Sheet(EObj,2010775,0)/>에 실시 일시가 공지되므로
 부흥이 어느 정도 진척됐는지 확인하면서 참여해 보세요!"
-19,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_050_000","물론 언젠가는 이 안쪽도 다시 지을 생각이지만,
-그러려면 터무니없는 시간과 인력, 그리고 물자가 필요해.
+25,"TEXT_CTSHWDINFORMATION_00633_SYSTEM_040_090","'이슈가르드 하층'의 에테라이트 광장에서
+'창천 거리'로 이동할 수 있습니다.
+꼭 이용해 보세요!"
+26,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_100","새로운 사업에 대해서 대략 파악이 되었나?
+여러 조직이 모여서 부흥을 지원하고 있다 보니,
+조금 복잡할지도 모르겠군."
+27,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_110","모르는 것이 있으면
+대개는 <Sheet(EObj,2010775,0)/>에 쓰여 있으니 확인해 보도록 해.
+무리하지 말고 자신의 역량에 맞는 작업에 참여하도록."
+28,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_040_120","부흥의 진척에 대해서는
+게시판을 봐도 되고, 나에게 물어봐도 돼.
+최대한 상세히 대답할 테니 언제든 말을 걸어줘."
+29,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_050_000","물론 언젠가는 이 안쪽도 다시 지을 생각이지만,
+그러려면 엄청난 시간과 인력, 그리고 물자가 필요해.
 서두르지 않고 눈앞에 닥친 일부터 하나씩 진행할 생각이다."
-20,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_050_010","뭐, 아무튼 일단 이 광장을 어떻게든 해야겠지.
+30,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_050_010","뭐, 아무튼 일단 이 광장을 어떻게든 해야겠지.
 거점이 좀 그럴듯해야 납품을 할 마음도 생기지 않겠어?"
-21,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_060_000","여어, <Highlight>ObjectParameter(1)</Highlight>!
+31,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_060_000","여어, <Highlight>ObjectParameter(1)</Highlight>!
 지금은 '부흥 공동 작업' 기간이야!
 지금은 창구 주변 시설을 건설 중이니 당신도 협력 부탁해!"
-22,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_070_000","공지를 보고 와준 장인분들 덕분에
+32,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_070_000","공지를 보고 와준 장인분들 덕분에
 포트킨 일행이 일하는 창구 시설이 완성되었어!
 이제 조금은 일이 편해지겠지."
-23,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_070_010","앞으로 더 많은 사람이 늘어날 테고
+33,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_070_010","앞으로 더 많은 사람이 늘어날 테고
 서쪽에도 창구가 하나 더 있었으면 하는데,
 당신도 그렇게 생각하지 않나?"
-24,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_080_000","지금은 서쪽에 창구 시설을 건설하는
+34,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_080_000","지금은 서쪽에 창구 시설을 건설하는
 '부흥 공동 작업'이 한창이야!
 부흥 사업 인력을 늘려야 하니 잘 부탁한다!"
-25,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_090_000","프란셀 도련님 쪽에서
+35,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_090_000","프란셀 도련님 쪽에서
 새로운 사업 계획을 세우고 있다는군.
 서쪽 창구에도 빠른 시일 내에 사람이 투입될 거야."
-26,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_090_010","인력도 계속 모이고 있고, 이 광장도 점점 정비되고 있어.
+36,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_090_010","인력도 계속 모이고 있고, 이 광장도 점점 정비되고 있어.
 장인 및 토목 작업자들이 조금이라도 일하기 편한
 환경을 만들어 나가야 할 텐데 말이지."
-27,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_100_000","앗, 마침 잘 왔어!
+37,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_100_000","앗, 마침 잘 왔어!
 이 광장에 놓여 있던 도구를 정돈하는
 '부흥 공동 작업' 중이니 당신도 참여해줘!"
-28,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_110_000","여어, <Highlight>ObjectParameter(1)</Highlight>.
+38,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_110_000","여어, <Highlight>ObjectParameter(1)</Highlight>.
 장인분들 덕분에 이 광장 정비는 모두 끝났어."
-29,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_110_010","다음 사업 계획이 결정될 때까지 공동 작업은 이제 없지만,
+39,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_110_010","다음 사업 계획이 결정될 때까지 공동 작업은 이제 없지만,
 계속해서 물자 납품은 받고 있으니,
 앞으로도 협력 부탁해!"
-30,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_120_000","아 그래, '포트킨'의 설명은 집중해서 잘 듣도록.
+40,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_170_000","이번 정비 계획의 중심은 창천 거리 남동쪽에 있는
+'새보금자리 거주구'야."
+41,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_170_010","건물 잔해와 쓰러진 탑 등 전쟁 흔적이 남아 있는 곳이지만……
+최종적으로는 그곳에 주택을 건설하고 싶어.
+성도에는 전쟁 때문에 집을 잃은 사람도 많으니 말이지."
+42,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_170_020","일단은 중앙으로 통하는 '곡괭이 거리'부터 시작할 거야.
+여긴 앞으로 부흥 작업의 주요 거점이 될 곳이거든.
+납품과 공동 작업에 협력을 부탁한다."
+43,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_180_000","장인분들 덕분에
+'곡괭이 거리'가 완성되었어!"
+44,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_180_010","이 통로를 완성했으니,
+진척도로 치면 전체 계획 중에서 25%는 달성한 셈이지."
+45,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_180_020","다음엔 '성 로엘 광장'의 정비를 시작하자.
+광장이 완성되면 드디어 거주구 건설을 할 수 있게 돼.
+거길 정비해서 집을 건축하는 게 이번 정비 계획의 목적이니까!"
+46,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_190_000","'성 로엘 광장'을 완성했어!
+이게 다 장인분들 덕분이야, 고맙다."
+47,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_190_010","성 로엘 광장이 완성되었으니,
+진척도로 치면 이제 전체 계획의 50%를 달성한 셈이군."
+48,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_190_020","드디어 '새보금자리 거주구' 정비에 들어갈 수 있겠어.
+집을 건축할 수 있도록 잔해를 철거하고 계단, 통로 정비까지……
+그리고 필요한 물자의 납품을 잘 부탁해."
+49,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_200_000","'새보금자리 거주구' 정비가 끝났어!
+그 덕에 인력과 물자의 이동이 편해졌지."
+50,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_200_010","거주구를 정비 완료했으니,
+진척도로 치면 이제 전체 계획의 80%를 달성한 셈이군."
+51,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_200_020","드디어 집 건축이 시작돼.
+거주하게 될 사람들이 외풍 때문에 춥지 않도록
+꼼꼼하게 일을 해주도록."
+52,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_000","장인분들 덕분에 이번 부흥 계획을 모두 완수했어!
+새보금자리 거주구에는 지금 계속해서 이주자가 찾아오고 있어.
+멋진 집을 보고 다들 안심한 듯한 표정을 짓더군."
+53,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_010","이 도시도 점점 북적거리게 되었군.
+당신도 한번 돌아보고 오도록 해."
+54,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_210_020","계속해서 물자 납품도 받고 있으니
+그쪽도 잘 부탁해!"
+55,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_120_000","아 그래, '포트킨'의 설명은 집중해서 잘 듣도록.
 자재를 구하는 일이랑 납품을 협력해주겠다면
 하나도 놓쳐선 안 되니까 말이지."
+56,"TEXT_CTSHWDINFORMATION_00633_AUGEBERT_120_010","그래, 당신 혹시 채집을 잘한다면
+'오르바엘' 도련님에게 상세한 얘기를 듣도록 해.
+그 사람은 좀 덜렁거리니까 놓치는 얘기가 있으면 안 되거든."

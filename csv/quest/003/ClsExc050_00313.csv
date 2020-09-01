@@ -71,70 +71,71 @@ int32,str,str
 55,"TEXT_CLSEXC050_00313_RHOTGEIM_000_20","바위 깨기 수련을 하러 온 거지?
 여기 '단단해 보이는 바위'를 3개 준비했다.
 '육중한 일격'으로 이 바위들을 파괴해봐라."
-56,"TEXT_CLSEXC050_00313_RHOTGEIM_000_30","제법이군.
+56,"TEXT_CLSEXC050_00313_SYSTEM_000_21","'단단해 보이는 바위'를 '육중한 일격'으로 파괴하자."
+57,"TEXT_CLSEXC050_00313_RHOTGEIM_000_30","제법이군.
 이번에는 '육중한 일격'으로 파괴해봐라.
 끝나면 나한테 다시 말을 걸도록 하고."
-57,"TEXT_CLSEXC050_00313_RHOTGEIM_000_50","음, 수업 태도가 아주 훌륭하군.
+58,"TEXT_CLSEXC050_00313_RHOTGEIM_000_50","음, 수업 태도가 아주 훌륭하군.
 바위 깨지는 소리가 아직도 귓가에 맴돌고 있어.
 '뷔른쵠' 스승님께 가서 보고하도록."
-58,"TEXT_CLSEXC050_00313_WYRNZOEN_000_60","이제 기초는 잘 다져진 것 같군.
+59,"TEXT_CLSEXC050_00313_WYRNZOEN_000_60","이제 기초는 잘 다져진 것 같군.
 다음은 붉은수탉 농장에서 들어온 긴급 의뢰를 처리할 차례다.
 대왕게가 사람들을 해치고 있다고 한다. 퇴치하고 와라!"
-59,"TEXT_CLSEXC050_00313_WYRNZOEN_000_63","임무 수행은 처음이니 이번에는 보조자를 붙여주겠다.
+60,"TEXT_CLSEXC050_00313_WYRNZOEN_000_63","임무 수행은 처음이니 이번에는 보조자를 붙여주겠다.
 이름은 '졸크위브'…… 숙련된 환술사야.
 아래층에서 기다리고 있으니 가서 말을 걸어봐라."
-60,"TEXT_CLSEXC050_00313_SOLKWYB_000_70","네 얘긴 들었어. 내가 졸크위브야.
+61,"TEXT_CLSEXC050_00313_SOLKWYB_000_70","네 얘긴 들었어. 내가 졸크위브야.
 우리 오빠…… 뷔른쵠 밑에 있는 길드원들은
 처음엔 다 내가 챙겨줬어."
-61,"TEXT_CLSEXC050_00313_SOLKWYB_000_72","의뢰 내용은 저지 라노시아 '과부의 눈물' 근처에 있는
+62,"TEXT_CLSEXC050_00313_SOLKWYB_000_72","의뢰 내용은 저지 라노시아 '과부의 눈물' 근처에 있는
 '대왕게 둥지'를 조사하고 마물을 제거하는 거야.
 난 먼저 현지에 가 있을 테니까 너도 빨리 와!"
-62,"TEXT_CLSEXC050_00313_SOLKWYB_000_80","여길 좀 봐. 둥지가 텅 비었어.
+63,"TEXT_CLSEXC050_00313_SOLKWYB_000_80","여길 좀 봐. 둥지가 텅 비었어.
 대왕게는 마실 나가셨나 보군.
 요놈이 어디로 갔을까……?"
-63,"TEXT_CLSEXC050_00313_NEDDARD_000_81","도, 도와주시오!!"
-64,"TEXT_CLSEXC050_00313_NEDDARD_000_83","저, 저쪽에서 우리 손자가 대왕게에게 쫓기고 있소!
+64,"TEXT_CLSEXC050_00313_NEDDARD_000_81","도, 도와주시오!!"
+65,"TEXT_CLSEXC050_00313_NEDDARD_000_83","저, 저쪽에서 우리 손자가 대왕게에게 쫓기고 있소!
 둥지 가까이 가지 말라고 그렇게 말했건만……!"
-65,"TEXT_CLSEXC050_00313_SOLKWYB_000_85","<Highlight>ObjectParameter(1)</Highlight>!
+66,"TEXT_CLSEXC050_00313_SOLKWYB_000_85","<Highlight>ObjectParameter(1)</Highlight>!
 꾸물거릴 시간 없어!
 저 할아버지 손자를 구하러 가자. 서둘러!!"
-66,"TEXT_CLSEXC050_00313_SIGHARD_000_40","으, 으아악!
+67,"TEXT_CLSEXC050_00313_SIGHARD_000_40","으, 으아악!
 저리 가, 이 괴물아!!
 저리 가란 말이야!"
-67,"TEXT_CLSEXC050_00313_SIGHARD_000_43","어…… 아, 고, 고맙습니다!"
-68,"TEXT_CLSEXC050_00313_SCENE00027_INSTANCE_BATTLE_YESNO_TITLE","퀘스트 전투를 시작하시겠습니까?"
-69,"TEXT_CLSEXC050_00313_SCENE00027_INSTANCE_BATTLE_YESNO_YES","예"
-70,"TEXT_CLSEXC050_00313_SCENE00027_INSTANCE_BATTLE_YESNO_NO","아니요"
-71,"TEXT_CLSEXC050_00313_SIGHARD_000_90","<If(PlayerParameter(4))>누나<Else/>형</If>, 구해줘서 고마워요.
+68,"TEXT_CLSEXC050_00313_SIGHARD_000_43","어…… 아, 고, 고맙습니다!"
+69,"TEXT_CLSEXC050_00313_SCENE00027_INSTANCE_BATTLE_YESNO_TITLE","퀘스트 전투를 시작하시겠습니까?"
+70,"TEXT_CLSEXC050_00313_SCENE00027_INSTANCE_BATTLE_YESNO_YES","예"
+71,"TEXT_CLSEXC050_00313_SCENE00027_INSTANCE_BATTLE_YESNO_NO","아니요"
+72,"TEXT_CLSEXC050_00313_SIGHARD_000_90","<If(PlayerParameter(4))>누나<Else/>형</If>, 구해줘서 고마워요.
 전 시가드라고 해요."
-72,"TEXT_CLSEXC050_00313_SIGHARD_000_92","요새 마물이 많아져서…… 우리 엄마랑 아빠도
+73,"TEXT_CLSEXC050_00313_SIGHARD_000_92","요새 마물이 많아져서…… 우리 엄마랑 아빠도
 덩치가 산만한 마물한테 당해서 돌아가셨어요……."
-73,"TEXT_CLSEXC050_00313_SIGHARD_000_93","<If(PlayerParameter(4))>누나<Else/>형</If>, 제 소원 좀 들어주세요.
+74,"TEXT_CLSEXC050_00313_SIGHARD_000_93","<If(PlayerParameter(4))>누나<Else/>형</If>, 제 소원 좀 들어주세요.
 언젠가 우리 엄마, 아빠 원수도 갚아주세요!"
-74,"TEXT_CLSEXC050_00313_SOLKWYB_000_94","아가야, 네 맘 자알 안다.
+75,"TEXT_CLSEXC050_00313_SOLKWYB_000_94","아가야, 네 맘 자알 안다.
 이 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 있는 도끼술사 길드 사람들은
 너처럼 힘없는 사람들 편이란다."
-75,"TEXT_CLSEXC050_00313_SOLKWYB_000_95","그러니 걱정하지 말고 좋은 소식 기다리렴.
+76,"TEXT_CLSEXC050_00313_SOLKWYB_000_95","그러니 걱정하지 말고 좋은 소식 기다리렴.
 그 대신 할아버지한테 걱정 끼쳐드리지 말고.
 이번엔 네가 잘못한 거 알지? 자, 어서 집에 가."
-76,"TEXT_CLSEXC050_00313_SOLKWYB_000_96","갔군……. 자 그럼 <Highlight>ObjectParameter(1)</Highlight>,
+77,"TEXT_CLSEXC050_00313_SOLKWYB_000_96","갔군……. 자 그럼 <Highlight>ObjectParameter(1)</Highlight>,
 이제 도끼술사 길드로 돌아가서 우리 오빠……
 '뷔른쵠'한테 보고하도록 해."
-77,"TEXT_CLSEXC050_00313_WYRNZOEN_000_100","다행히 다친 데 없이 대왕게를 물리친 모양이군.
+78,"TEXT_CLSEXC050_00313_WYRNZOEN_000_100","다행히 다친 데 없이 대왕게를 물리친 모양이군.
 무엇보다 소년의 목숨을 구한 공이 크다."
-78,"TEXT_CLSEXC050_00313_WYRNZOEN_000_102","오늘 나타난 대왕게는……
+79,"TEXT_CLSEXC050_00313_WYRNZOEN_000_102","오늘 나타난 대왕게는……
 최근 들어 원래 살던 곳에서 쫓겨나
 농장 근처에 자리를 잡은 것 같더군."
-79,"TEXT_CLSEXC050_00313_WYRNZOEN_000_103","놈을 쫓아낸 마물은 라노시아에서도 악명 높은 거물이다.
+80,"TEXT_CLSEXC050_00313_WYRNZOEN_000_103","놈을 쫓아낸 마물은 라노시아에서도 악명 높은 거물이다.
 영역을 넓힌 건진 몰라도 요즘 여기저기서 날뛰고 다닌다는군."
-80,"TEXT_CLSEXC050_00313_WYRNZOEN_000_104","그러다가 그 소년 부모처럼 죽임을 당한 사람도 있고.
+81,"TEXT_CLSEXC050_00313_WYRNZOEN_000_104","그러다가 그 소년 부모처럼 죽임을 당한 사람도 있고.
 정말 딱한 일이야……."
-81,"TEXT_CLSEXC050_00313_WYRNZOEN_000_105","원수를 갚아주고 싶은 마음은 이해하지만, 조급해하진 마라.
+82,"TEXT_CLSEXC050_00313_WYRNZOEN_000_105","원수를 갚아주고 싶은 마음은 이해하지만, 조급해하진 마라.
 지금 네 실력으로는 계란으로 바위를 치는 격이다.
 소년의 원을 풀어주고 싶다면 더 강해져라, <Highlight>ObjectParameter(1)</Highlight>."
-82,"TEXT_CLSEXC050_00313_QIB_TODO001","대왕게 무리를 쓰러뜨려라!"
-83,"TEXT_CLSEXC050_00313_SOLKWYB_BATTLETALK_01","회복마법으로 도와줄게!"
-84,"TEXT_CLSEXC050_00313_SOLKWYB_BATTLETALK_02","<Highlight>ObjectParameter(1)</Highlight>, 내 옆에서 떨어지지 마!"
-85,"TEXT_CLSEXC050_00313_BROENBHAR_BATTLETALK_11","다친 덴 없나!? 나도 돕겠다!
+83,"TEXT_CLSEXC050_00313_QIB_TODO001","대왕게 무리를 쓰러뜨려라!"
+84,"TEXT_CLSEXC050_00313_SOLKWYB_BATTLETALK_01","회복마법으로 도와줄게!"
+85,"TEXT_CLSEXC050_00313_SOLKWYB_BATTLETALK_02","<Highlight>ObjectParameter(1)</Highlight>, 내 옆에서 떨어지지 마!"
+86,"TEXT_CLSEXC050_00313_BROENBHAR_BATTLETALK_11","다친 덴 없나!? 나도 돕겠다!
 어쩐지 걱정되더니 와보길 잘했군!"
-86,"TEXT_CLSEXC050_00313_BROENBHAR_BATTLETALK_21","흥, 끈질긴 녀석들 같으니!"
+87,"TEXT_CLSEXC050_00313_BROENBHAR_BATTLETALK_21","흥, 끈질긴 녀석들 같으니!"

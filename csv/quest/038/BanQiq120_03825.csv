@@ -1,0 +1,86 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANQIQ120_03825_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+호파루의 소반에 있는 코테루리 파소리는 석비를 관리하고 싶은 듯하다."
+1,"TEXT_BANQIQ120_03825_SEQ_01","코테루리 파소리에게 의뢰받은 물건을 납품"
+2,"TEXT_BANQIQ120_03825_SEQ_02",""
+3,"TEXT_BANQIQ120_03825_SEQ_03",""
+4,"TEXT_BANQIQ120_03825_SEQ_04",""
+5,"TEXT_BANQIQ120_03825_SEQ_05",""
+6,"TEXT_BANQIQ120_03825_SEQ_06",""
+7,"TEXT_BANQIQ120_03825_SEQ_07",""
+8,"TEXT_BANQIQ120_03825_SEQ_08",""
+9,"TEXT_BANQIQ120_03825_SEQ_09",""
+10,"TEXT_BANQIQ120_03825_SEQ_10",""
+11,"TEXT_BANQIQ120_03825_SEQ_11",""
+12,"TEXT_BANQIQ120_03825_SEQ_12",""
+13,"TEXT_BANQIQ120_03825_SEQ_13",""
+14,"TEXT_BANQIQ120_03825_SEQ_14",""
+15,"TEXT_BANQIQ120_03825_SEQ_15",""
+16,"TEXT_BANQIQ120_03825_SEQ_16",""
+17,"TEXT_BANQIQ120_03825_SEQ_17",""
+18,"TEXT_BANQIQ120_03825_SEQ_18",""
+19,"TEXT_BANQIQ120_03825_SEQ_19",""
+20,"TEXT_BANQIQ120_03825_SEQ_20",""
+21,"TEXT_BANQIQ120_03825_SEQ_21",""
+22,"TEXT_BANQIQ120_03825_SEQ_22",""
+23,"TEXT_BANQIQ120_03825_SEQ_23",""
+24,"TEXT_BANQIQ120_03825_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 광맥에서 <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>뮤릴의 향수의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>로차틀 강에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>코테루리 파소리에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+25,"TEXT_BANQIQ120_03825_TODO_01",""
+26,"TEXT_BANQIQ120_03825_TODO_02",""
+27,"TEXT_BANQIQ120_03825_TODO_03",""
+28,"TEXT_BANQIQ120_03825_TODO_04",""
+29,"TEXT_BANQIQ120_03825_TODO_05",""
+30,"TEXT_BANQIQ120_03825_TODO_06",""
+31,"TEXT_BANQIQ120_03825_TODO_07",""
+32,"TEXT_BANQIQ120_03825_TODO_08",""
+33,"TEXT_BANQIQ120_03825_TODO_09",""
+34,"TEXT_BANQIQ120_03825_TODO_10",""
+35,"TEXT_BANQIQ120_03825_TODO_11",""
+36,"TEXT_BANQIQ120_03825_TODO_12",""
+37,"TEXT_BANQIQ120_03825_TODO_13",""
+38,"TEXT_BANQIQ120_03825_TODO_14",""
+39,"TEXT_BANQIQ120_03825_TODO_15",""
+40,"TEXT_BANQIQ120_03825_TODO_16",""
+41,"TEXT_BANQIQ120_03825_TODO_17",""
+42,"TEXT_BANQIQ120_03825_TODO_18",""
+43,"TEXT_BANQIQ120_03825_TODO_19",""
+44,"TEXT_BANQIQ120_03825_TODO_20",""
+45,"TEXT_BANQIQ120_03825_TODO_21",""
+46,"TEXT_BANQIQ120_03825_TODO_22",""
+47,"TEXT_BANQIQ120_03825_TODO_23",""
+48,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_000","석비의 상태를 유지하려면 꼼꼼하게 관리해야 한답니다~!
+숲의 습도 및 기온 등에 아주 섬세한 변화가 생겨도
+그게 쌓이고 쌓여서 석비가 풍화되어 버리니까요~."
+49,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_001","하여, <Highlight>ObjectParameter(1)</Highlight> 님께서
+관리용 도구를 만들기 위한 재료를 모아주셨으면 해요~.
+후세에 기록을 남기기 위한 것이니 부디 잘 부탁드려요~!"
+50,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_002","석비를 반짝반짝 매끈매끈하게 닦기 위해
+'<Sheet(Item,29532,0)/>'<13>FF0F02280BFF054974656DF2735C0103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~!
+뮤릴의 향수 부근에서 캐실 수 있을 거예요~!"
+51,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_003","석비에 쌓인 먼지와 낙엽을 슥슥 털어내기 위해
+'<Sheet(Item,29558,0)/>'<13>FF0F02280BFF054974656DF273760103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~!
+뮤릴의 향수 부근에서 채집하실 수 있을 거예요~!"
+52,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_004","석비를 반짝반짝 매끈매끈하게 닦기 위해
+단단한 비늘을 가진 '<Sheet(Item,29584,0)/>'<13>FF0F02280BFF054974656DF273900103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~.
+로차틀 강에서 <Sheet(Item,27582,0)/> 같은 미끼로 잡으세요~!"
+53,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_005","석비를 반짝반짝 매끈매끈하게 닦기 위해
+'<Sheet(Item,29532,0)/>'<13>FF0F02280BFF054974656DF2735C0103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~!
+뮤릴의 향수 부근에서 캐실 수 있을 거예요~!"
+54,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_006","석비에 쌓인 먼지와 낙엽을 슥슥 털어내기 위해
+'<Sheet(Item,29558,0)/>'<13>FF0F02280BFF054974656DF273760103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~!
+뮤릴의 향수 부근에서 채집하실 수 있을 거예요~!"
+55,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_007","석비를 반짝반짝 매끈매끈하게 닦기 위해
+단단한 비늘을 가진 '<Sheet(Item,29584,0)/>'<13>FF0F02280BFF054974656DF273900103FF04EBA5BCFF04EC9D84</13> 모아서 가져와 주시어요~.
+로차틀 강에서 <Sheet(Item,27582,0)/> 같은 미끼로 잡으세요~!"
+56,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_010","수고하셨습니다~!
+관리용 도구의 재료는 구해오셨어요~?"
+57,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_011","진심으로 감사드려요~!
+빗자루를 이용해 매일 청소하면서 찌든 때는
+물고기의 비늘이나 작은 자갈로 긁어서 말끔히 지울 거예요~."
+58,"TEXT_BANQIQ120_03825_QHOTERLPASOL_000_012","인내심이 필요한 일이긴 하지만
+다 같이 노력하여 재건한 석비를 후세에 물려줄 수 있다면
+지루한 작업이라도 힘을 낼 수 있을 것 같아요~!"

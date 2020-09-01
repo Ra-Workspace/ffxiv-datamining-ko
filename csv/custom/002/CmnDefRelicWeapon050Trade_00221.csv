@@ -12,12 +12,12 @@ int32,str,str
 6,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_YES","예"
 7,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_YESNO_NO","아니요"
 8,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_030","흠, <If(Equal(IntegerParameter(1),8649))><Sheet(Item,8649,0)/><13>FF0F02280BFF054974656DF221C90103FF04EC9980FF04EAB3BC</13> <Sheet(Item,8658,0)/><13>FF0F02280BFF054974656DF221D20103FF04EAB080FF04EC9DB4</13><Else/><Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13></If> 없는 것 같네만.
-마테리아화할 무기가 없으면 재창조할 수 없다네."
+마테리아로 만들 무기가 없으면 재창조할 수 없다네."
 9,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_031","'조디악 웨폰'을 만들려면 고대의 무기를 장비 해제하여
 '장비함' 또는 '소지품'에 수납한 상태로
 잘잔에게 말을 걸어야 합니다."
 10,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_040","흠, '고대의 무기: 넥서스'가 하나도 없는 것 같은데?
-마테리아화할 무기가 없으면
+마테리아로 만들 무기가 없으면
 '조디악 웨폰'을 만들 수 없다네."
 11,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_JALZAHN_000_050","이런…… 준비가 덜 된 모양이군.
 모든 재료가 다 모이면 다시 오게."
@@ -47,10 +47,10 @@ int32,str,str
 22,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_106","마테리아 만들 땐 각오 단단히~!
 실패하면 무기도 날아간단다~!
 어떻게 돼도 나는 책임 못 진다~?"
-23,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_107","선택한 '고대의 무기: 넥서스'를 마테리아화합니다.
+23,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_SYSTEM_000_107","선택한 '고대의 무기: 넥서스'를 마테리아로 만듭니다.
 성공 확률은 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1.4%<UIGlow>01</UIGlow><UIForeground>01</UIForeground>입니다.
 실패할 경우 '고대의 무기: 넥서스'는 사라집니다."
-24,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q1_000_000","선택한 '고대의 무기: 넥서스'를 마테리아화하시겠습니까?"
+24,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q1_000_000","선택한 '고대의 무기: 넥서스'를 마테리아로 만드시겠습니까?"
 25,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_A1_000_001","예"
 26,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_A1_000_002","아니요"
 27,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_Q2_000_000","성공 확률은 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1.4%<UIGlow>01</UIGlow><UIForeground>01</UIForeground>입니다.
@@ -70,7 +70,7 @@ int32,str,str
 '고대의 무기'를 꼭 마테리아화해야 한다잖아!
 뮤타믹스 영감, 상관없으니까 그냥 끝장을 봐!"
 36,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_113","하라고 했으니까 진짜로 한다~!
-위험천만 부담만만 마테리아화~!
+위험천만 부담만만 어려운 작업~!
 성공할지 말지는 운에 달렸다~!"
 37,"TEXT_CMNDEFRELICWEAPON050TRADE_00221_MUTAMIX_000_114","어이쿠 놀라워라 대성공이다~!
 안 될 것도 하니까 되긴 되누나~!

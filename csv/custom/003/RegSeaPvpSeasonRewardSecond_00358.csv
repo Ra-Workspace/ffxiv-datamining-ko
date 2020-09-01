@@ -9,7 +9,7 @@ int32,str,str
 또 보상에 관한 문의 사항 등에도 답변해드립니다."
 2,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_Q1_000_1","무엇을 도와드릴까요?"
 3,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_A1_000_1","순위에 따른 보상 받기"
-4,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_A1_000_2","등급에 따른 보상 받기"
+4,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_A1_000_2","도달한 등급 보고하기"
 5,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_A1_000_3","등급에 따른 보상 받기(파티)"
 6,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_A1_000_4","보상에 대해서 물어본다"
 7,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_A1_000_5","취소"
@@ -30,23 +30,23 @@ int32,str,str
 16,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_013","축하드립니다!!
 큰 활약을 펼친 분에게 주어지는 보상을 받으십시오.
 다음 시즌에는 더 높은 순위를 목표로 최선을 다해주십시오!!"
-17,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_020","축하드립니다! 브론즈 등급 보상을 획득하셨습니다!
+17,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_020","축하드립니다! 브론즈 등급에 도달하셨습니다!
 다음 시즌에는 상위 등급으로 올라갈 수 있도록
 더 큰 활약을 기대하겠습니다!"
-18,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_021","축하드립니다! 실버 등급 보상을 획득하셨습니다!
+18,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_021","축하드립니다! 실버 등급에 도달하셨습니다!
 다음 시즌에는 상위 등급으로 올라갈 수 있도록
 더 큰 활약을 기대하겠습니다!"
-19,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_022","축하드립니다! 골드 등급 보상을 획득하셨습니다!
+19,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_022","축하드립니다! 골드 등급에 도달하셨습니다!
 다음 시즌에는 상위 등급으로 올라갈 수 있도록
 더 큰 활약을 기대하겠습니다!"
-20,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_023","축하드립니다! 플래티넘 등급 보상을 획득하셨습니다!
+20,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_023","축하드립니다! 플래티넘 등급에 도달하셨습니다!
 이 기세라면 다음 시즌에는 다이아몬드 등급도 가능하겠지요!
 앞으로 많은 활약을 기대하겠습니다!"
-21,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_024","축하드립니다! 다이아몬드 등급 보상을 획득하셨습니다!
+21,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_024","축하드립니다! 다이아몬드 등급에 도달하셨습니다!
 다음 시즌에도 다이아몬드 등급을 유지할 수 있도록
 최선을 다해주시기 바랍니다!"
 22,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_026","지난 시즌에 브론즈 이상의 등급을 달성하지 못하셔서
-안타깝게도 드릴 수 있는 보상이 없습니다.
+안타깝게도 드릴 수 있는 보상은 없습니다.
 다음 시즌에는 보상을 받을 수 있도록 최선을 다해주십시오!"
 23,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_030","성적 집계 방법에 따라 '순위 보상'과 '등급 보상'
 2가지를 획득할 수 있습니다."
@@ -64,8 +64,8 @@ int32,str,str
 28,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_033","（★未使用／削除予定★）"
 29,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_034","（★未使用／削除予定★）"
 30,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_035","（★未使用／削除予定★）"
-31,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_036","지난 시즌 종료 시점에 브론즈 등급 이상을 달성한
-모든 참가자에게 주어지는 보상입니다.
+31,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_036","지난 시즌 종료 시점에 브론즈 등급 이상을 달성한 참가자는
+달성한 등급 보고를 통해 보상을 획득할 수 있는 경우가 있습니다.
 보상 내용은 등급에 따라 다릅니다."
 32,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_037","더 피스트의 등급전에 참가하지 않았거나
 브론즈 등급으로 승급하기 전에 시즌이 종료된 참가자는
@@ -74,7 +74,7 @@ int32,str,str
 등급 달성 후 2시즌 이상 경과하면 보상을 받을 수 없으니
 주의하십시오."
 34,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SEASONREWARD_000_039","등급 보상을 놓치는 경우가 생기지 않도록
-시즌이 끝나면 즉시 등급 보상을 받으시기 바랍니다."
+시즌이 끝나면 즉시 도달한 등급을 보고하시기 바랍니다."
 35,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SYSTEM_000_100","지난 시즌의 등급 보상을 이미 받으셨습니다.
 현재 받을 수 있는 등급 보상은 없습니다."
 36,"TEXT_REGSEAPVPSEASONREWARDSECOND_00358_SYSTEM_000_101","소지품에 공간이 부족하여 보상을 받을 수 없습니다.
