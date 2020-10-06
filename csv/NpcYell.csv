@@ -1827,7 +1827,7 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 1679,0,2,False,False,False,2,5,False,False,1,"혼쭐나고 시퍼?"
 1680,0,2,False,False,False,3,5,False,False,1,"누가 좀 도와주세요!
 딸이 납치당했어요!"
-1681,0,2,False,False,False,3,5,False,False,1,"마지막 백성'과의 전투에 대비해
+1681,0,2,False,False,False,3,5,False,False,1,"'마지막 백성'과의 전투에 대비해
 준비하십시오"
 1682,0,2,False,False,False,3,5,False,False,1,"자, '구세신 달라가브' 님께
 산 제물을 바칠 때가 왔습니다"
@@ -12930,72 +12930,123 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 9748,0,2,False,False,False,4,1,False,False,4,"0"
 9749,0,2,False,False,False,4,1,False,False,4,"0"
 9750,0,2,False,False,False,4,1,False,False,4,"0"
-9751,0,0,False,False,False,0,0,False,False,0,""
-9752,0,0,False,False,False,0,0,False,False,0,""
-9753,0,0,False,False,False,0,0,False,False,0,""
-9754,0,0,False,False,False,0,0,False,False,0,""
-9755,0,0,False,False,False,0,0,False,False,0,""
-9756,0,0,False,False,False,0,0,False,False,0,""
-9757,0,0,False,False,False,0,0,False,False,0,""
-9758,0,0,False,False,False,0,0,False,False,0,""
-9759,0,0,False,False,False,0,0,False,False,0,""
-9760,0,0,False,False,False,0,0,False,False,0,""
-9761,0,0,False,False,False,0,0,False,False,0,""
-9762,0,0,False,False,False,0,0,False,False,0,""
-9763,0,0,False,False,False,0,0,False,False,0,""
-9764,0,0,False,False,False,0,0,False,False,0,""
-9765,0,0,False,False,False,0,0,False,False,0,""
-9766,0,0,False,False,False,0,0,False,False,0,""
-9767,0,0,False,False,False,0,0,False,False,0,""
-9768,0,0,False,False,False,0,0,False,False,0,""
-9769,0,0,False,False,False,0,0,False,False,0,""
-9770,0,0,False,False,False,0,0,False,False,0,""
-9771,0,0,False,False,False,0,0,False,False,0,""
-9772,0,0,False,False,False,0,0,False,False,0,""
-9773,0,0,False,False,False,0,0,False,False,0,""
-9774,0,0,False,False,False,0,0,False,False,0,""
-9775,0,0,False,False,False,0,0,False,False,0,""
-9776,0,0,False,False,False,0,0,False,False,0,""
-9777,0,0,False,False,False,0,0,False,False,0,""
-9778,0,0,False,False,False,0,0,False,False,0,""
-9779,0,0,False,False,False,0,0,False,False,0,""
-9780,0,0,False,False,False,0,0,False,False,0,""
-9781,0,0,False,False,False,0,0,False,False,0,""
-9782,0,0,False,False,False,0,0,False,False,0,""
-9783,0,0,False,False,False,0,0,False,False,0,""
-9784,0,0,False,False,False,0,0,False,False,0,""
-9785,0,0,False,False,False,0,0,False,False,0,""
-9786,0,0,False,False,False,0,0,False,False,0,""
-9787,0,0,False,False,False,0,0,False,False,0,""
-9788,0,0,False,False,False,0,0,False,False,0,""
-9789,0,0,False,False,False,0,0,False,False,0,""
-9790,0,0,False,False,False,0,0,False,False,0,""
-9791,0,0,False,False,False,0,0,False,False,0,""
-9792,0,0,False,False,False,0,0,False,False,0,""
-9793,0,0,False,False,False,0,0,False,False,0,""
-9794,0,0,False,False,False,0,0,False,False,0,""
-9795,0,0,False,False,False,0,0,False,False,0,""
-9796,0,0,False,False,False,0,0,False,False,0,""
-9797,0,0,False,False,False,0,0,False,False,0,""
-9798,0,0,False,False,False,0,0,False,False,0,""
-9799,0,0,False,False,False,0,0,False,False,0,""
-9800,0,0,False,False,False,0,0,False,False,0,""
-9801,0,0,False,False,False,0,0,False,False,0,""
-9802,0,0,False,False,False,0,0,False,False,0,""
-9803,0,0,False,False,False,0,0,False,False,0,""
-9804,0,0,False,False,False,0,0,False,False,0,""
-9805,0,0,False,False,False,0,0,False,False,0,""
-9806,0,0,False,False,False,0,0,False,False,0,""
-9807,0,0,False,False,False,0,0,False,False,0,""
-9808,0,0,False,False,False,0,0,False,False,0,""
-9809,0,0,False,False,False,0,0,False,False,0,""
-9810,0,0,False,False,False,0,0,False,False,0,""
-9811,0,0,False,False,False,0,0,False,False,0,""
-9812,0,0,False,False,False,0,0,False,False,0,""
-9813,0,0,False,False,False,0,0,False,False,0,""
-9814,0,0,False,False,False,0,0,False,False,0,""
-9815,0,0,False,False,False,0,0,False,False,0,""
-9816,0,0,False,False,False,0,0,False,False,0,""
+9751,9043,2,False,False,False,4,1,False,False,10,"자, 오랜만의 부흥 공동 작업이다!
+모두 힘내자고!"
+9752,9043,2,False,False,False,4,1,False,False,10,"우선 곡괭이 거리를 정비한다!
+길을 막는 '커다란 잔해'를 잘게 부수는 작업을 부탁해!"
+9753,9043,2,False,False,False,4,1,False,False,10,"여기서부터가 부흥 작업의 길목이라 할 수 있지……!
+그 첫걸음을 모두 함께 내딛는 거다!"
+9754,9043,2,False,False,False,4,1,False,False,10,"장인 여러분, 물자를 납품해줘서 고마워!
+그럼, 부흥 공동 작업을 시작하자!"
+9755,9043,2,False,False,False,4,1,False,False,10,"지난번에 이어 거리를 정비하겠다!
+길을 막는 '커다란 잔해'를 잘게 부수는 작업을 부탁해!"
+9756,9043,2,False,False,False,4,1,False,False,10,"부흥에 방해가 되는 건
+모두 함께 치워버리자고!"
+9757,9043,2,False,False,False,4,1,False,False,10,"부흥 작업을 시작한다!
+모두 자리로 가 줘!"
+9758,9043,2,False,False,False,4,1,False,False,10,"이번에는 곡괭이 거리의 '자잘한 잔해 파편'을 청소한다!"
+9759,9043,2,False,False,False,4,1,False,False,10,"이번 작업을 잘 하느냐가 다음 작업에도 영향을 준다…….
+서두르지 말고 꼼꼼하게 해줘!"
+9760,9043,2,False,False,False,4,1,False,False,10,"물자가 충분히 공급되었으니
+부흥 공동 작업을 시작한다!"
+9761,9043,2,False,False,False,4,1,False,False,10,"곡괭이 거리를 포장할 물자를
+'물자 적재소'에서 가져다가 작업을 시작해줘!"
+9762,9043,2,False,False,False,4,1,False,False,10,"곡괭이 거리도 거의 다 수복되었다!
+장인의 기술을 보여달라고!"
+9763,9043,2,False,False,False,4,1,False,False,10,"좋아, 다음 부흥 공동 작업을 시작한다!
+다들, 준비됐나!"
+9764,9043,2,False,False,False,4,1,False,False,10,"이곳에는 분수를 건설할 예정이다!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+9765,9043,2,False,False,False,4,1,False,False,10,"주민들이 편히 쉴 수 있는 광장이 되어야 해.
+너희의 장인 정신을 보여줘!"
+9766,9043,2,False,False,False,4,1,False,False,10,"이번 작업으로 분수를 완성시키자!
+다들 협력 부탁해!"
+9767,9043,2,False,False,False,4,1,False,False,10,"'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+9768,9043,2,False,False,False,4,1,False,False,10,"모두 힘을 모아 아름다운 광장을 만들어다오!"
+9769,9043,2,False,False,False,4,1,False,False,10,"부흥 공동 작업이 시작되었다!
+이제부터는 성 로엘 광장을 수복한다!"
+9770,9043,2,False,False,False,4,1,False,False,10,"우선 바닥을 정비한다!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+9771,9043,2,False,False,False,4,1,False,False,10,"이제부터 작업의 토대가 되는 부분이다!
+안전을 우선해줘!"
+9772,9043,2,False,False,False,4,1,False,False,10,"성 로엘 광장 부흥 공동 작업을 시작한다!"
+9773,9043,2,False,False,False,4,1,False,False,10,"이 통로도 엉망진창이군…….
+길을 막는 '커다란 잔해'를 잘게 부수는 작업을 부탁한다!"
+9774,9043,2,False,False,False,4,1,False,False,10,"말 그대로 길을 개척하는 거야!"
+9775,9043,2,False,False,False,4,1,False,False,10,"다들 준비됐어!?
+부흥 공동 작업을 시작한다!!"
+9776,9043,2,False,False,False,4,1,False,False,10,"이번에는 성 로엘 광장에 있는 '자잘한 잔해 파편'을 청소한다!"
+9777,9043,2,False,False,False,4,1,False,False,10,"지루한 작업이겠지만 꼼꼼하게 해다오!"
+9778,9043,2,False,False,False,4,1,False,False,10,"물자가 목표량에 다다랐다!
+모두 부흥 공동 작업에 참가해다오!"
+9779,9043,2,False,False,False,4,1,False,False,10,"성 로엘 광장을 포장할 물자를
+'물자 적재소'에서 가져다가 작업을 시작해줘!"
+9780,9043,2,False,False,False,4,1,False,False,10,"미장은 속도가 생명이야!
+잘 부탁한다!"
+9781,9043,2,False,False,False,4,1,False,False,10,"성 로엘 광장 정비도 막바지다!
+그럼, 부흥 공동 작업을 시작한다!"
+9782,9043,2,False,False,False,4,1,False,False,10,"이곳에는 단상을 만들 예정이다!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+9783,9043,2,False,False,False,4,1,False,False,10,"너희가 가진 장인의 기교를 보여다오!"
+9784,9043,2,False,False,False,4,1,False,False,10,"이름 없는 자들의 광장에서 가까운 곳부터
+이번 부흥 공동 작업을 시작한다!"
+9785,9043,2,False,False,False,4,1,False,False,10,"드디어 거주구를 정비한다!
+길을 막는 '커다란 잔해'를 잘게 부수는 작업을 부탁해!"
+9786,9043,2,False,False,False,4,1,False,False,10,"다 같이 하면 순식간에 끝날 거야!"
+9787,9043,2,False,False,False,4,1,False,False,10,"부흥 공동 작업을 시작한다!
+다들 모여줘!"
+9788,9043,2,False,False,False,4,1,False,False,10,"지난번에 이어 거주구를 정비한다!
+길을 막는 '커다란 잔해'를 잘게 부수는 작업을 부탁해!"
+9789,9043,2,False,False,False,4,1,False,False,10,"너희 장인들 덕분에 부흥 작업도 할 수 있는 거지!
+잘 부탁한다!"
+9790,9043,2,False,False,False,4,1,False,False,10,"시간이 됐다!
+부흥 공동 작업을 시작한다!"
+9791,9043,2,False,False,False,4,1,False,False,10,"이번에도 거주구를 정비한다!
+길을 막는 '커다란 잔해'를 잘게 부수는 작업을 부탁해!"
+9792,9043,2,False,False,False,4,1,False,False,10,"새보금자리 거주구로 가는 길을 막는 커다란 잔해는
+이걸로 마지막이다!"
+9793,9043,2,False,False,False,4,1,False,False,10,"좋아, 부흥 공동 작업을 시작한다!"
+9794,9043,2,False,False,False,4,1,False,False,10,"이번에는 새보금자리 거주구에 있는
+'자잘한 잔해 파편'을 청소하자!"
+9795,9043,2,False,False,False,4,1,False,False,10,"거주구 전체를 청소해야 하니 꽤 넓을 거야!
+나눠서 맡아줘!"
+9796,9043,2,False,False,False,4,1,False,False,10,"부흥 공동 작업을 시작할 시간이다!"
+9797,9043,2,False,False,False,4,1,False,False,10,"새보금자리 거주구를 포장할 물자를
+'물자 적재소'에서 가져다가 작업을 시작해줘!"
+9798,9043,2,False,False,False,4,1,False,False,10,"주민들이 살기 편하게끔 정비해야 하니
+부디 협력해다오!"
+9799,9043,2,False,False,False,4,1,False,False,10,"이번 부흥 공동 작업부터는
+드디어 주택을 건설한다!"
+9800,9043,2,False,False,False,4,1,False,False,10,"'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+9801,9043,2,False,False,False,4,1,False,False,10,"너희의 장인 정신을 보여다오!"
+9802,9043,2,False,False,False,4,1,False,False,10,"그럼, 부흥 공동 작업을 시작한다!
+준비됐나!?"
+9803,9043,2,False,False,False,4,1,False,False,10,"주택을 완성시키자!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+9804,9043,2,False,False,False,4,1,False,False,10,"너희 장인들의 기술을 뽐낼 시간이다!"
+9805,9043,2,False,False,False,4,1,False,False,10,"장인들 덕분에 자재가 충분히 모였다!
+부흥 공동 작업에 들어갈 시간이다!"
+9806,9043,2,False,False,False,4,1,False,False,10,"새로운 주택을 건설할 물자를
+'물자 적재소'에서 가져다가 작업을 시작해줘!"
+9807,9043,2,False,False,False,4,1,False,False,10,"새보금자리 거주구의 부지는 넓다!
+뚝딱뚝딱 집을 짓자고!"
+9808,9043,2,False,False,False,4,1,False,False,10,"자원이 다 모인 모양이군!
+부흥 공동 작업을 시작한다!"
+9809,9043,2,False,False,False,4,1,False,False,10,"주택을 완성시키자!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+9810,9043,2,False,False,False,4,1,False,False,10,"너희 장인의 기술로 훌륭한 집을 지어줘!"
+9811,9043,2,False,False,False,4,1,False,False,10,"부흥 공동 작업을 시작하자!
+자, 드디어 마지막 건설 예정지다!"
+9812,9043,2,False,False,False,4,1,False,False,10,"새로운 주택을 건설할 물자를
+'물자 적재소'에서 가져다가 작업을 시작해줘!"
+9813,9043,2,False,False,False,4,1,False,False,10,"집은 정밀하게 건설해야 해!
+꼼꼼하게 일해다오!"
+9814,9043,2,False,False,False,4,1,False,False,10,"부흥 공동 작업을 시작한다!
+자, 드디어 작업도 막바지다!"
+9815,9043,2,False,False,False,4,1,False,False,10,"주택을 완성시키자!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+9816,9043,2,False,False,False,4,1,False,False,10,"이번 정비 계획의 마지막 일이다!
+모두, 힘을 내다오!"
 9817,0,2,False,False,False,2,3,False,False,1,"자신을 갈고닦고자
 나라를 높이 들어올리는 혼"
 9818,0,2,False,False,False,2,3,False,False,1,"이 혼을 지닌 '손가락을 잘 쓰는'

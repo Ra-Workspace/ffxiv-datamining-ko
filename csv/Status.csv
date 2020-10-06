@@ -425,7 +425,8 @@ MP 회복 속도가 상승한다.",10468,0,1,1,16,16,False,False,False,False,Fal
 402,"노기 충천","모그리에게 도발당해 분노가 정점을 넘은 상태.
 도발한 대상만을 보고 계속 쫓아간다.",15565,0,1,2,17,0,False,False,False,True,False,True,True,False,False,100,False,False,0,0,False,0,False,False,0,0,False
 403,"주는 피해량 증가","적에게 주는 피해량이 증가하는 상태.",15519,0,1,1,16,0,False,False,False,False,False,False,False,False,True,200,False,False,50,0,False,0,False,False,0,0,False
-404,"운반","물건을 운반하고 있는 상태. 일정 시간이 지나면 피곤해져서 물건을 떨어뜨린다.",16208,0,1,1,16,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
+404,"운반","물건을 운반하고 있는 상태.
+일정 시간이 지나면 피곤해져서 물건을 떨어뜨린다.",16208,0,1,1,16,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
 405,"현혹","현혹당해 몸이 멋대로 움직이는 상태.",15545,0,1,2,17,0,False,False,False,False,False,False,False,True,True,100,False,False,0,0,False,0,False,False,0,0,False
 406,"받는 피해량 감소","받는 피해량이 감소하는 상태.",17301,8,1,1,16,0,False,False,False,False,False,False,False,True,True,30,False,False,-10,0,False,0,False,False,0,0,False
 407,"분진 중독","결정의 미세한 분진을 흡입한 상태. 4단계 누적되면 행동불능 상태가 된다.",17001,4,1,2,1,0,False,False,False,False,False,False,False,False,False,200,False,False,10,0,False,0,False,False,0,0,False
@@ -2386,7 +2387,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,1,2,17,0,False,False,False,F
 사슬에 묶인 플레이어에게 너무 가까이 가거나 너무 멀어지면 주위에 무속성 피해를 준다.",15240,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,False,False,0,0,True,0,False,False,0,0,False
 2256,"빛의 주박","빛의 주박이 발동한 상태.
 사슬에 묶인 플레이어에게 너무 가까이 가거나 너무 멀어지면 주위에 무속성 피해를 준다.",15240,0,1,2,17,0,False,False,False,False,False,False,False,False,False,198,False,False,0,0,True,0,False,False,0,0,False
-2257,"빛 과다","빛의 힘이 과다하게 축적된 상태.
+2257,"과잉광","빛의 힘이 과다하게 축적된 상태.
 5번 중첩되면 주위에 무속성 피해를 준다.",17091,5,1,2,17,0,False,False,False,False,False,False,False,False,False,199,False,False,0,0,True,0,False,False,0,0,False
 2258,"성룡의 발톱","성룡의 발톱에 긁힌 상태. 지속시간이 끝나면 전투불능이 된다.",15241,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
 2259,"성룡의 이빨","성룡의 이빨에 물린 상태. 지속시간이 끝나면 전투불능이 된다.",15242,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
