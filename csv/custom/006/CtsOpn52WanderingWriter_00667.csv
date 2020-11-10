@@ -1,26 +1,58 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
-1,"",""
-2,"",""
-3,"",""
-4,"",""
-5,"",""
-6,"",""
-7,"",""
-8,"",""
-9,"",""
-10,"",""
-11,"",""
-12,"",""
-13,"",""
-14,"",""
-15,"",""
-16,"",""
-17,"",""
-18,"",""
-19,"",""
-20,"",""
-21,"",""
-22,"",""
+0,"TEXT_CTSOPN52WANDERINGWRITER_00667_CFC_TO_INSTANCE_CONTENT","<Sheet(ContentFinderCondition,IntegerParameter(1),3)/>"
+1,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_000_000","오, 이런~ 심부름의 달인…… 아, 아니,
+해방자군, 오랜만, 오랜만이야!
+이발리스 탐색 때는 제노미스도 포함해서 정말 신세 많이 졌어!"
+2,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_000_001","여기가 강고스…… 보즈야 저항군의 거점이구나!
+무지코 극장에는 비밀인데, 사실 희곡 소재가 떨어졌거든…….
+여기라면 새로운 자극을 받을 수 있지 않을까 싶어서 와 본 거야."
+3,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_100_000","뭐 재미있는 모험담이 있으면 꼭 좀 들려줬음 좋겠어.
+널 주연으로 한 희곡을 써줄 테니까!
+……어랏? 뭔가 있는 표정인데?"
+4,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_100_050","묻고 싶은 것이 있어?"
+5,"TEXT_CTSOPN52WANDERINGWRITER_00667_Q1_000_000","무슨 이야기를 하시겠습니까?"
+6,"TEXT_CTSOPN52WANDERINGWRITER_00667_A100_000_000","이국의 극작가의 이야기가 듣고 싶다"
+7,"TEXT_CTSOPN52WANDERINGWRITER_00667_A1_000_000","취소"
+8,"TEXT_CTSOPN52WANDERINGWRITER_00667_Q2_000_100","무엇을 물어보시겠습니까?"
+9,"TEXT_CTSOPN52WANDERINGWRITER_00667_A1_000_100","성검 세이브 더 퀸에 대해서"
+10,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_000","기억 속에서의 전투……?
+그것 참 흥미로운 이야기군…….
+괜찮다면 좀 더 자세히 얘기해주지 않겠어?"
+11,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_001","호오~ 시드의 기억 속에서 싸운 바리스 황제라……
+허구의 기억이라고는 해도 바리스 황제의 강인함,
+그 전투력을 알기에는 충분했다는 뜻이군……."
+12,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_002","바리스 황제의 존안을 뵌 적은 몇 번 있지만,
+그분의 전투 모습을 가까이서 본 적은 없어…….
+하지만 그 뛰어난 솜씨와 대담무쌍한 기개는 익히 들은 바 있지."
+13,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_003","좋았어, 방금 구상이 떠올랐어.
+기억 속의 바리스 황제와 처음으로 칼로 대결한 해방자……
+그래, 직전에는 이런 대사를 주고받겠지, 한번 들어봐줘!"
+14,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_004","""그대는 어째서 내 검이 향하는 곳을 막는단 말이냐.
+ 그것은 스스로의 결점을 모르는 어린아이처럼 어느새
+ 모든 행위가 자신에게 되돌아와 무구한 손을 피로 물들이게 할 뿐"""
+15,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_005","""방자함이 이토록 추악한 색을 띠고 있단 말이더냐.
+ 겁을 모르는 자일수록 거만하고 타인을 비웃는 법.
+ 마음의 상처를 얕보는 자는 자신의 마음을 모르는 자일지니!"""
+16,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_006","으음, 좀 더 퇴고를 거쳐야겠어.
+역시 그 자리에 없으면 진실에서 멀어지는 법이지.
+네가 경험하고 느낀 것과는 아주 다를 것 같다는 생각이 들어……."
+17,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_500_007","미안하지만 조금 더 자세히 들려줄 수 있을까?
+의성어만 계속 말해도 상관없으니까
+상황을 극명하게 묘사해 주면 고맙겠어……."
+18,"TEXT_CTSOPN52WANDERINGWRITER_00667_SYSTEM_500_008","'극 보즈야 추억전'에서 입수 가능한 '<Sheet(Item,30227,0)/>'<13>FF0F02280BFF054974656DF276130103FF04EBA5BCFF04EC9D84</13>
+망자의 종소리에 있는 '카인타나'에게 건네면
+아이템과 교환할 수 있습니다."
+19,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_000","군힐드의 검을 복각했다고?
+우와, 역시 해방자는 다르구나! 훌륭해!
+이제 보즈야 저항군도 하나로 단결할 수 있겠어!"
+20,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_001","군힐드의 검은 보즈야에 전해 내려오는 전설의 보물이지.
+나에게도 자세한 얘기를 해주면 좋겠어.
+나중에 희곡을 집필할 때 참고로 할 테니."
+21,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_002","어이쿠…… 그러고 보니 여왕 군힐드만 대검할 수 있었던,
+여왕의 증표라고도 할 수 있는 성스러운 검이 있다고 하더군.
+이름이 뭐더라 '세이브 더 퀸'이라 했던가."
+22,"TEXT_CTSOPN52WANDERINGWRITER_00667_WANDERINGWRITER_600_003","난 그 정도밖에 모르니 보즈야 사람들에게 물어서 이야기를 모아볼게.
+정보가 어느 정도 모이면 물론 너한테도 알려줄 테니까
+기대하고 기다리고 있어!"

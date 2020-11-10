@@ -1820,7 +1820,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,1,2,17,0,False,False,False,F
 남은 시간이 0이 되면 계약이 종료된다.
 자신에 대한 HP 회복 효과가 감소한다.",15945,0,1,2,0,0,False,False,False,False,False,False,False,False,False,200,False,False,-50,0,False,0,False,False,0,0,False
 1729,"불퇴전","불퇴전의 결의로 전장에 선 상태. 주는 피해량이 증가한다.",15946,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,False,False,25,0,True,0,False,False,0,0,False
-1730,"기세 최고조","눈부신 전적을 올려 기세가 최고조에 달한 상태. 주는 피해량과 자신의 HP 회복 효과가 증가하고, 아드레날린 축적 속도가 빨라진다. 기공병기 탑승 중에는 무효화된다.",14845,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,50,3,True,0,False,False,0,0,False
+1730,"기세 최고조","눈부신 전적을 올려 기세가 최고조에 달한 상태. 자신이 주는 피해량과 HP 회복 효과가 증가하고, 아드레날린 축적 속도가 빨라진다. 기공병기 탑승 중에는 무효화된다.",14845,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,50,3,True,0,False,False,0,0,False
 1731,"빙결","얼어서 움직일 수 없는 상태.",13513,0,1,2,17,18,True,False,True,False,False,False,False,False,False,50,False,False,0,0,False,0,False,False,0,32,False
 1732,"엘리멘탈 경험치 상승","엘리멘탈레벨이 35레벨 미만일 때, 적 처치 시 얻는 엘리멘탈 경험치가 증가하는 상태.",15836,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,True,False,300,0,False,0,False,False,0,0,False
 1733,"성스러운 방패","성스러운 방패를 든 상태. 임무용 기술 '성스러운 방어'를 사용할 수 있다.",15942,0,1,1,16,91,False,False,False,False,False,False,False,True,True,100,False,False,0,0,True,0,False,False,0,0,False
@@ -2374,7 +2374,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,1,2,17,0,False,False,False,F
 2244,"회오리 형태","소형 죄식자들이 회오리 형태로 무리를 지은 상태.",15671,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,False,False,0,2,False,0,False,False,0,0,False
 2245,"뇌신의 저주","라무의 저주에 걸린 상태. 일정 시간마다 전기를 내뿜어 주변에 번개속성 공격을 가한다.
 또한 지속시간이 종료되면 혼비백산 상태가 된다.",15252,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
-2246,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+2246,"둔화","자동 공격 주기, 무기 기술 및 마법 시전 시간과 재사용 대기 시간이 늘어난 상태.",15009,0,1,2,13,0,False,False,False,False,False,False,False,False,False,50,False,False,15,0,False,0,False,False,0,0,False
 2247,"돌진 표적","돌진의 표적이 된 상태. 효과가 종료되면 기절한다.",15026,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,True,0,False,False,0,0,False
 2248,"타격 저항 감소","타격속성 저항이 떨어진 상태.",15064,0,1,2,17,0,False,False,False,False,False,False,False,False,False,50,False,False,-12,0,False,0,False,False,0,0,False
 2249,"불안정","자세가 무너져서 불안정한 상태. 받는 피해량이 증가한다.",15225,0,1,2,17,0,True,False,True,True,False,False,False,False,False,0,False,False,100,0,False,0,False,False,0,0,False
@@ -2401,22 +2401,22 @@ HP가 완전히 회복되면 해제된다.",15895,0,1,2,17,0,False,False,False,F
 2267,"고기방패","부하가 고기방패가 된 상태. 어미왕이 받는 피해가 무효화된다.",15024,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,False,False,0,0,False,0,False,False,0,12,False
 2268,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 2269,"돌발 임무 참가","특정 돌발 임무에 참가한 상태. 임무용 기술을 사용할 수 있으며, 직업 기술은 실행할 수 없다.",16214,0,1,1,16,0,False,False,False,False,False,False,False,False,False,100,False,False,0,2,False,0,False,False,0,0,False
-2270,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+2270,"","",0,0,1,2,0,0,True,False,True,False,False,False,False,True,True,200,False,True,0,0,True,0,False,False,0,32,False
 2271,"혼비백산","겁을 먹고 당황한 상태. 특정 적에게서 멀리 달아난다.",15253,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,False,False,0,0,False,0,False,False,0,9,False
 2272,"","",0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,False,True,0,0,False,0,False,False,0,0,False
 2273,"","",0,0,1,1,16,0,False,False,False,False,True,False,False,True,True,200,False,True,0,2,False,0,False,False,0,0,False
 2274,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 2275,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-2276,"着ぐるみ着用","特殊な着ぐるみを着用している状態。",16214,0,1,1,16,0,False,False,False,False,True,False,False,False,False,100,False,False,0,2,False,0,False,False,0,0,False
+2276,"인형탈 착용","특수한 인형탈을 입은 상태.",16214,0,1,1,16,0,False,False,False,False,True,False,False,False,False,100,False,False,0,2,False,0,False,False,0,0,False
 2277,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 2278,"빛속성 저항 감소","빛속성 저항이 떨어진 상태.",15599,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,False,False,0,0,False,0,False,False,0,0,False
 2279,"","",0,0,1,1,16,0,True,False,True,True,False,False,False,True,True,100,False,True,0,4,True,0,False,False,0,0,False
 2280,"거대화","몸이 거대해진 상태.",19541,3,1,1,16,0,False,False,False,False,True,False,False,False,False,199,False,False,20,26,False,0,False,False,0,0,False
 2281,"최대화","몸이 최대로 커진 상태.",15971,0,1,1,16,0,False,False,False,False,True,False,False,True,False,200,False,False,100,26,False,0,False,False,0,0,False
 2282,"성원","적에게 주는 피해량이 증가하는 상태.",18921,5,112,1,16,0,False,False,False,False,False,False,False,False,False,0,False,False,3,0,True,0,False,False,0,0,False
-2283,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+2283,"운명의 수레바퀴","받는 피해량을 줄여주는 보호막을 발생시킨 상태.",13227,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,False,False,0,4,True,0,False,False,0,27,False
 2284,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
-2285,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
+2285,"구속","행동이 불가능하고 HP가 서서히 줄어드는 상태.",15545,0,1,2,17,0,True,False,True,True,False,False,False,True,True,100,False,False,20,0,False,0,False,False,3,0,False
 2286,"구속","행동이 불가능한 상태.",15545,0,1,2,17,173,True,False,True,True,False,False,False,True,False,100,False,False,0,4,False,0,False,False,0,0,False
 2287,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
 2288,"","",0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,False,False,0,0,False,0,False,False,0,0,False
