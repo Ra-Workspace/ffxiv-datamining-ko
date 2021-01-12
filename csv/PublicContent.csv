@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,Type,TimeLimit,MapIcon,Name,TextData{Start},TextData{End},,,ContentFinderCondition,AdditionalData,,
-int32,byte,uint16,Image,str,PublicContentTextData,PublicContentTextData,uint16,uint32,ContentFinderCondition,Row,byte,uint16
+#,Type,TimeLimit,MapIcon,Name,TextData{Start},TextData{End},,,,ContentFinderCondition,AdditionalData,
+int32,byte,uint16,Image,str,PublicContentTextData,PublicContentTextData,uint16,uint32,uint16,ContentFinderCondition,Row,uint16
 0,0,0,0,"",0,0,0,0,0,0,0,0
 1,1,0,0,"영원한 언약식",1000,1143,0,0,0,0,0,0
 2,2,0,60848,"",0,0,0,0,195,0,0,0
