@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_SUBSEA101_00398_SEQ_00","하늘승강기에 있는 뷔르크리트는 기구에 남겨진 화물들을 배달해주기를 바라는 것 같다."
-1,"TEXT_SUBSEA101_00398_SEQ_01","기구에 남겨진 화물을 '앞돛대 탑'과 '데네벨 관문'까지 배달하자."
+1,"TEXT_SUBSEA101_00398_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 하늘승강기에 있는 '뷔르크리트'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_SUBSEA101_00398_SEQ_02","화물을 모두 배달했다. '하늘승강기'에 있는 '뷔르크리트'에게 보고하자."
 3,"TEXT_SUBSEA101_00398_SEQ_03","이와 같은 문제는 추락의 절벽에 비탈길을 만들면 해결될 것이다. 그러나 멜위브 제독은 야만족과 갈레말 제국에 대한 대비를 최우선으로 하고 있어서 공공사업은 기대할 수 없을 것 같다. 당분간은 기구로 해결하는 방법밖에는 없을 듯하다."
 4,"TEXT_SUBSEA101_00398_SEQ_04",""
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_SUBSEA101_00398_SEQ_21",""
 22,"TEXT_SUBSEA101_00398_SEQ_22",""
 23,"TEXT_SUBSEA101_00398_SEQ_23",""
-24,"TEXT_SUBSEA101_00398_TODO_00","앞돛대 탑에 있는 징기투프에게 화물 배달"
-25,"TEXT_SUBSEA101_00398_TODO_01","데네벨 관문에 있는 제서민에게 화물 배달"
-26,"TEXT_SUBSEA101_00398_TODO_02","뷔르크리트에게 보고"
+24,"TEXT_SUBSEA101_00398_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+하늘승강기에 있는 뷔르크리트에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_SUBSEA101_00398_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+하늘승강기에 있는 뷔르크리트에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_SUBSEA101_00398_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+하늘승강기에 있는 뷔르크리트에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_SUBSEA101_00398_TODO_03",""
 28,"TEXT_SUBSEA101_00398_TODO_04",""
 29,"TEXT_SUBSEA101_00398_TODO_05",""

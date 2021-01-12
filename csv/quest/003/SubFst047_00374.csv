@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_SUBFST047_00374_SEQ_00","굽은가지 목장의 키사는 모험가에게 목장 일을 의뢰하려는 듯하다."
-1,"TEXT_SUBFST047_00374_SEQ_01","키사는 모험가에게 초코보 먹이 주는 일을 의뢰했다. 먼저 '굽은가지 목장'에 있는 밭에서 '여물용 기살의 야채'를 손에 넣자."
+1,"TEXT_SUBFST047_00374_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 굽은가지 목장에 있는 '키사'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_SUBFST047_00374_SEQ_02","여물용 기살의 야채를 손에 넣었다. '굽은가지 목장'을 돌며 초코보 앞에 있는 '여물통'에 나누어주자."
 3,"TEXT_SUBFST047_00374_SEQ_03","모든 여물통에 여물용 기살의 야채를 나누어주었다. '굽은가지 목장'에 있는 '키사'에게 보고하자."
 4,"TEXT_SUBFST047_00374_SEQ_04","굽은가지 목장에서는 초코보를 알에서부터 부화시켜 어린 초코보가 될 때까지 키운다고 한다. 초코보들이 건강하게 자라나도록 목장 사람들에게 힘을 보태자."
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_SUBFST047_00374_SEQ_21",""
 22,"TEXT_SUBFST047_00374_SEQ_22",""
 23,"TEXT_SUBFST047_00374_SEQ_23",""
-24,"TEXT_SUBFST047_00374_TODO_00","밭에서 여물용 기살의 야채 입수"
-25,"TEXT_SUBFST047_00374_TODO_01","여물통에 여물용 기살의 야채 배급"
-26,"TEXT_SUBFST047_00374_TODO_02","키사에게 보고"
+24,"TEXT_SUBFST047_00374_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+굽은가지 목장에 있는 키사에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_SUBFST047_00374_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+굽은가지 목장에 있는 키사에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_SUBFST047_00374_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+굽은가지 목장에 있는 키사에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_SUBFST047_00374_TODO_03",""
 28,"TEXT_SUBFST047_00374_TODO_04",""
 29,"TEXT_SUBFST047_00374_TODO_05",""

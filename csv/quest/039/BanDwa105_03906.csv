@@ -1,0 +1,115 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANDWA105_03906_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+와츠의 망치 작업장에 있는 레기트는 전차의 엔진 소리가 걱정이 되는 듯하다."
+1,"TEXT_BANDWA105_03906_SEQ_01","시기트와 대화"
+2,"TEXT_BANDWA105_03906_SEQ_02","풍화한 대지에 있는 차축 담당 드워프에게 의뢰받은 물품을 납품"
+3,"TEXT_BANDWA105_03906_SEQ_03","레기트에게 보고"
+4,"TEXT_BANDWA105_03906_SEQ_04",""
+5,"TEXT_BANDWA105_03906_SEQ_05",""
+6,"TEXT_BANDWA105_03906_SEQ_06",""
+7,"TEXT_BANDWA105_03906_SEQ_07",""
+8,"TEXT_BANDWA105_03906_SEQ_08",""
+9,"TEXT_BANDWA105_03906_SEQ_09",""
+10,"TEXT_BANDWA105_03906_SEQ_10",""
+11,"TEXT_BANDWA105_03906_SEQ_11",""
+12,"TEXT_BANDWA105_03906_SEQ_12",""
+13,"TEXT_BANDWA105_03906_SEQ_13",""
+14,"TEXT_BANDWA105_03906_SEQ_14",""
+15,"TEXT_BANDWA105_03906_SEQ_15",""
+16,"TEXT_BANDWA105_03906_SEQ_16",""
+17,"TEXT_BANDWA105_03906_SEQ_17",""
+18,"TEXT_BANDWA105_03906_SEQ_18",""
+19,"TEXT_BANDWA105_03906_SEQ_19",""
+20,"TEXT_BANDWA105_03906_SEQ_20",""
+21,"TEXT_BANDWA105_03906_SEQ_21",""
+22,"TEXT_BANDWA105_03906_SEQ_22",""
+23,"TEXT_BANDWA105_03906_SEQ_23",""
+24,"TEXT_BANDWA105_03906_TODO_00","시기트와 대화"
+25,"TEXT_BANDWA105_03906_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>풍화한 대지에 있는 차축 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>풍화한 대지에 있는 차축 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>풍화한 대지에 있는 차축 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>풍화한 대지에 있는 차축 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>풍화한 대지에 있는 차축 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>풍화한 대지에 있는 차축 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>풍화한 대지에 있는 차축 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>풍화한 대지에 있는 차축 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
+26,"TEXT_BANDWA105_03906_TODO_02","레기트에게 보고"
+27,"TEXT_BANDWA105_03906_TODO_03",""
+28,"TEXT_BANDWA105_03906_TODO_04",""
+29,"TEXT_BANDWA105_03906_TODO_05",""
+30,"TEXT_BANDWA105_03906_TODO_06",""
+31,"TEXT_BANDWA105_03906_TODO_07",""
+32,"TEXT_BANDWA105_03906_TODO_08",""
+33,"TEXT_BANDWA105_03906_TODO_09",""
+34,"TEXT_BANDWA105_03906_TODO_10",""
+35,"TEXT_BANDWA105_03906_TODO_11",""
+36,"TEXT_BANDWA105_03906_TODO_12",""
+37,"TEXT_BANDWA105_03906_TODO_13",""
+38,"TEXT_BANDWA105_03906_TODO_14",""
+39,"TEXT_BANDWA105_03906_TODO_15",""
+40,"TEXT_BANDWA105_03906_TODO_16",""
+41,"TEXT_BANDWA105_03906_TODO_17",""
+42,"TEXT_BANDWA105_03906_TODO_18",""
+43,"TEXT_BANDWA105_03906_TODO_19",""
+44,"TEXT_BANDWA105_03906_TODO_20",""
+45,"TEXT_BANDWA105_03906_TODO_21",""
+46,"TEXT_BANDWA105_03906_TODO_22",""
+47,"TEXT_BANDWA105_03906_TODO_23",""
+48,"TEXT_BANDWA105_03906_REGITT_000_001","차축은 주행 중에 가장 부하를 많이 받는 곳이야라리.
+그냥 두면 금방 마모되어 휘어 버리고,
+소음의 원인이 되기도 해라리."
+49,"TEXT_BANDWA105_03906_REGITT_000_002","그래서 마모를 줄일 수 있는 장치가 필요해라리.
+네가 그 시제품 부품을 만들어주고
+검증 실험에도 협력해 줬으면 좋겠어라리!"
+50,"TEXT_BANDWA105_03906_REGITT_000_003","작업장 창고를 담당하고 있는 '시기트'에게
+재료를 받고 상세한 이야기를 들어줘라리~!"
+51,"TEXT_BANDWA105_03906_SHIGITT_000_010","훗…… 이번 실험은 아주 중요하다.
+성과에 따라서 드워프 전차의 내구성이 달라지게 되거든."
+52,"TEXT_BANDWA105_03906_SHIGITT_000_011","하지만 함부로 중량이 나가는 드워프 전차로
+시도하는 건 위험하니 자동인형으로 구조를 검증하겠다."
+53,"TEXT_BANDWA105_03906_SHIGITT_000_012","재료를 줄 테니 '<Sheet(Item,31153,0)/>'<13>FF0F02280BFF054974656DF279B10103FF04EBA5BCFF04EC9D84</13>……
+즉, 새로 설계하는 축받이 부품을 3개, 제작해 줬으면 한다.
+재료가 부족하면 재료 조달 자동인형에게 받도록 해."
+54,"TEXT_BANDWA105_03906_SHIGITT_000_013","재료를 줄 테니 '<Sheet(Item,31153,0)/>'<13>FF0F02280BFF054974656DF279B10103FF04EBA5BCFF04EC9D84</13>……
+즉, 새로 설계하는 축받이 부품을 3개, 제작해 줬으면 한다.
+재료가 부족하면 재료 조달 자동인형에게 받도록 해."
+55,"TEXT_BANDWA105_03906_SHIGITT_000_014","재료를 줄 테니 '<Sheet(Item,31153,0)/>'<13>FF0F02280BFF054974656DF279B10103FF04EBA5BCFF04EC9D84</13>……
+즉, 새로 배합하는 윤활유 3개 분량을 제작해 줬으면 한다.
+재료가 부족하면 재료 조달 자동인형에게 받도록 해."
+56,"TEXT_BANDWA105_03906_SHIGITT_000_016","완성하면 풍화한 대지 부근에서 부재 실험을 하고 있는
+'차축 담당 드워프'에게 가져가라.
+나도 실험 결과를 기대하고 있으마!"
+57,"TEXT_BANDWA105_03906_AUTOMATON03906_000_017","삐삐…… 재료 필요해?
+……지금은 필요 없겠네."
+58,"TEXT_BANDWA105_03906_AUTOMATON03906_000_018","삐삐…… 재료 필요해?
+……지금은 필요 없겠네."
+59,"TEXT_BANDWA105_03906_AUTOMATON03906_000_019","삐삐…… 재료 필요해?
+……지금은 필요 없겠네."
+60,"TEXT_BANDWA105_03906_AUTOMATON03906_000_020","삐삐…… 재료 필요해?
+가져가ー."
+61,"TEXT_BANDWA105_03906_AUTOMATON03906_000_021","삐삐…… 재료 필요해?
+가져가ー."
+62,"TEXT_BANDWA105_03906_AUTOMATON03906_000_022","삐삐…… 재료 필요해?
+가져가ー."
+63,"TEXT_BANDWA105_03906_DAILYDWARF03906_000_030","기다리고 기다리던 마모 경감 부재를 갖고 왔어?
+실험이 너무 기대돼!"
+64,"TEXT_BANDWA105_03906_DAILYDWARF03906_000_031","이렇게, 요렇게 한 다음…… 예압!"
+65,"TEXT_BANDWA105_03906_SYSTEM03906_000_032","……자동인형은 부드럽게 주행하기 시작했다."
+66,"TEXT_BANDWA105_03906_DAILYDWARF03906_000_033","응, 좋아! 아주 순조롭네.
+고마워, 덕분에 아주 잘됐어~!"
+67,"TEXT_BANDWA105_03906_DAILYDWARF03906_000_034","……엇, 그런데 부드럽게 달려서 어디까지 가는 거야~!?
+난 자동인형을 쫓아가야겠어!
+작업장에 있는 '레기트'에게 결과를 전달해줘!"
+68,"TEXT_BANDWA105_03906_DAILYDWARF03906_100_036","…………어라라?"
+69,"TEXT_BANDWA105_03906_SYSTEM03906_000_035","……자동인형은
+부드럽게, 하지만 굉장한 속도로 달려서 시야에서 사라졌다."
+70,"TEXT_BANDWA105_03906_DAILYDWARF03906_000_036","와아, 괜찮긴 한데 엄청난 스피드잖아!?
+당신 일처리는 믿을 만하니까…… 다른 문제인가 봐.
+적절하게 작동할 수 있게 다른 부위를 다시 점검해야겠어."
+71,"TEXT_BANDWA105_03906_DAILYDWARF03906_000_037","……어엇, 저 녀석 어디까지 달려간 거지~!?
+쫓아가지 않으면 이웃들이 민원을 제기할 거야!
+작업장에 있는 '레기트'에게 결과를 보고해줘!"
+72,"TEXT_BANDWA105_03906_REGITT_000_040","수고했어라리~!
+무사히 실험은 끝낸 것 같구나라리!"
+73,"TEXT_BANDWA105_03906_REGITT_000_041","이렇게 세세한 부재의 실험과 검증을 계속하다 보면
+조용하고 내구성 좋은 드워프 전차를 만들 수 있을 거야라리~!"
+74,"TEXT_BANDWA105_03906_REGITT_000_042","게다가 완성시키는 것도 중요하지만,
+문제없이 계속 사용할 수 있어야 하지 않겠어라리?
+검증 실험도 계속할 거니까 잘 부탁해라리~!"

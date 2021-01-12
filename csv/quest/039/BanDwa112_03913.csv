@@ -1,0 +1,110 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANDWA112_03913_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+와츠의 망치 작업장에 있는 레기트는 에탄올 연료의 개량에 대해 걱정하고 있는 듯하다."
+1,"TEXT_BANDWA112_03913_SEQ_01","시기트와 대화"
+2,"TEXT_BANDWA112_03913_SEQ_02","맑은 설수에 있는 정제 담당 드워프에게 납품"
+3,"TEXT_BANDWA112_03913_SEQ_03","레기트에게 보고"
+4,"TEXT_BANDWA112_03913_SEQ_04",""
+5,"TEXT_BANDWA112_03913_SEQ_05",""
+6,"TEXT_BANDWA112_03913_SEQ_06",""
+7,"TEXT_BANDWA112_03913_SEQ_07",""
+8,"TEXT_BANDWA112_03913_SEQ_08",""
+9,"TEXT_BANDWA112_03913_SEQ_09",""
+10,"TEXT_BANDWA112_03913_SEQ_10",""
+11,"TEXT_BANDWA112_03913_SEQ_11",""
+12,"TEXT_BANDWA112_03913_SEQ_12",""
+13,"TEXT_BANDWA112_03913_SEQ_13",""
+14,"TEXT_BANDWA112_03913_SEQ_14",""
+15,"TEXT_BANDWA112_03913_SEQ_15",""
+16,"TEXT_BANDWA112_03913_SEQ_16",""
+17,"TEXT_BANDWA112_03913_SEQ_17",""
+18,"TEXT_BANDWA112_03913_SEQ_18",""
+19,"TEXT_BANDWA112_03913_SEQ_19",""
+20,"TEXT_BANDWA112_03913_SEQ_20",""
+21,"TEXT_BANDWA112_03913_SEQ_21",""
+22,"TEXT_BANDWA112_03913_SEQ_22",""
+23,"TEXT_BANDWA112_03913_SEQ_23",""
+24,"TEXT_BANDWA112_03913_TODO_00","시기트와 대화"
+25,"TEXT_BANDWA112_03913_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>맑은 설수에 있는 정제 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>맑은 설수에 있는 정제 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>맑은 설수에 있는 정제 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>맑은 설수에 있는 정제 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>맑은 설수에 있는 정제 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>맑은 설수에 있는 정제 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>맑은 설수에 있는 정제 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>맑은 설수에 있는 정제 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
+26,"TEXT_BANDWA112_03913_TODO_02","레기트에게 보고"
+27,"TEXT_BANDWA112_03913_TODO_03",""
+28,"TEXT_BANDWA112_03913_TODO_04",""
+29,"TEXT_BANDWA112_03913_TODO_05",""
+30,"TEXT_BANDWA112_03913_TODO_06",""
+31,"TEXT_BANDWA112_03913_TODO_07",""
+32,"TEXT_BANDWA112_03913_TODO_08",""
+33,"TEXT_BANDWA112_03913_TODO_09",""
+34,"TEXT_BANDWA112_03913_TODO_10",""
+35,"TEXT_BANDWA112_03913_TODO_11",""
+36,"TEXT_BANDWA112_03913_TODO_12",""
+37,"TEXT_BANDWA112_03913_TODO_13",""
+38,"TEXT_BANDWA112_03913_TODO_14",""
+39,"TEXT_BANDWA112_03913_TODO_15",""
+40,"TEXT_BANDWA112_03913_TODO_16",""
+41,"TEXT_BANDWA112_03913_TODO_17",""
+42,"TEXT_BANDWA112_03913_TODO_18",""
+43,"TEXT_BANDWA112_03913_TODO_19",""
+44,"TEXT_BANDWA112_03913_TODO_20",""
+45,"TEXT_BANDWA112_03913_TODO_21",""
+46,"TEXT_BANDWA112_03913_TODO_22",""
+47,"TEXT_BANDWA112_03913_TODO_23",""
+48,"TEXT_BANDWA112_03913_REGITT_000_001","충분히 실용적인 드워프 에탄올이지만,
+불순물이 더 적은 연료를 만들 수 있다면
+엔진의 내구성도 개선될 거야라리……!"
+49,"TEXT_BANDWA112_03913_REGITT_000_002","그러기 위해서는 여러 가지 술의 양조 방법을……
+아니, 에탄올의 정제 방법을 시도해 봐야 해라리!"
+50,"TEXT_BANDWA112_03913_REGITT_000_003","이번에 부탁하고 싶은 것은
+에탄올 정제 실험에 필요한 물품들을 제작하는 일이야라리!
+상세한 내용은 '시기트'에게 들어줘라리!"
+51,"TEXT_BANDWA112_03913_SHIGITT_000_010","……에탄올 정제 실험 건 말이군?
+현재 정제 실험 담당자는 소란스러운 작업장에서 벗어나
+맑은 설수에서 고군분투하고 있어……."
+52,"TEXT_BANDWA112_03913_SHIGITT_000_012","그러니 이 재료를 가지고 '<Sheet(Item,31163,0)/>'<14>FF0F02280BFF054974656DF279BB0103FF07EBA19CEC8DA8FF0AEC9CBCEBA19CEC8DA8</14>
+고압에도 견딜 수 있는 금속 용기를 3개 제작해 주었으면 해.
+재료가 부족하면 재료 조달 자동인형에게 받도록."
+53,"TEXT_BANDWA112_03913_SHIGITT_000_013","그러니 이 재료를 가지고 '<Sheet(Item,31163,0)/>'<14>FF0F02280BFF054974656DF279BB0103FF07EBA19CEC8DA8FF0AEC9CBCEBA19CEC8DA8</14>
+불순물을 제거하기 위한 여과장치를 3개 제작해 주었으면 해.
+재료가 부족하면 재료 조달 자동인형에게 받도록."
+54,"TEXT_BANDWA112_03913_SHIGITT_000_014","그러니 이 재료를 가지고 '<Sheet(Item,31163,0)/>'<14>FF0F02280BFF054974656DF279BB0103FF07EBA19CEC8DA8FF0AEC9CBCEBA19CEC8DA8</14>
+새로운 발효법을 찾아내기 위한 특제 효모를 3병, 제작해 주었으면 해.
+재료가 부족하면 재료 조달 자동인형에게 받도록."
+55,"TEXT_BANDWA112_03913_SHIGITT_000_016","부탁한 것을 완성하면
+맑은 설수에 있는 '정제 담당 드워프'에게 가져가.
+실험이 잘 되길 나도 기도할게!"
+56,"TEXT_BANDWA112_03913_AUTOMATON03913_000_017","삐삐…… 재료 필요해?
+……지금은 필요 없겠네."
+57,"TEXT_BANDWA112_03913_AUTOMATON03913_000_018","삐삐…… 재료 필요해?
+……지금은 필요 없겠네."
+58,"TEXT_BANDWA112_03913_AUTOMATON03913_000_019","삐삐…… 재료 필요해?
+……지금은 필요 없겠네."
+59,"TEXT_BANDWA112_03913_AUTOMATON03913_000_020","삐삐…… 재료 필요해?
+가져가ー."
+60,"TEXT_BANDWA112_03913_AUTOMATON03913_000_021","삐삐…… 재료 필요해?
+가져가ー."
+61,"TEXT_BANDWA112_03913_AUTOMATON03913_000_022","삐삐…… 재료 필요해?
+가져가ー."
+62,"TEXT_BANDWA112_03913_DAILYDWARF03913_000_030","호, 혹시……
+부탁했던 '<Sheet(Item,31163,0)/>'<13>FF0F02280BFF054974656DF279BB0103FF04EBA5BCFF04EC9D84</13>……
+가져와준 거야라리……!?"
+63,"TEXT_BANDWA112_03913_DAILYDWARF03913_000_031","고마워라리…….
+매일 나 혼자서 고독한 실험만 하는 나날……
+오랜만에 사람하고 대화를 하니…… 감개무량해라리……."
+64,"TEXT_BANDWA112_03913_DAILYDWARF03913_000_032","얏호오오오오!
+이걸로 실험도 더 많이 할 수 있겠어라리!
+성과가 나올 때까지 힘들겠지만, 더 열심히 할 거야라리!"
+65,"TEXT_BANDWA112_03913_DAILYDWARF03913_000_033","고마워…… 딸꾹……!
+정제한 에탄올을 조금 맛봤더니 취기가 돌아서……
+하지만 이제 새로운 맛을…… 딸꾹…… 시도할 수 있어라리.
+"
+66,"TEXT_BANDWA112_03913_DAILYDWARF03913_000_034","자…… 실험하러 돌아갈게라리.
+'레기트'에게 잘 보고해줘라리~."
+67,"TEXT_BANDWA112_03913_REGITT_000_040","수고했어라리~!
+맑은 설수에서 돌아왔구나라리!
+동료의 실험은 순조로운 것 같았어라리?"
+68,"TEXT_BANDWA112_03913_REGITT_000_041","……그 반응은 그렇다 치고
+실험을 계속하고 있는 건 확실한 것 같네라리…….
+혼자서 힘들 것 같으니 또 협력해줘라리~!"

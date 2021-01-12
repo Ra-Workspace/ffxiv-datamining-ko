@@ -1,0 +1,105 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_BANDWA109_03910_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+와츠의 망치 작업장에 있는 레기트는 술통의 증산 체제를 걱정하고 있는 듯하다."
+1,"TEXT_BANDWA109_03910_SEQ_01","시기트와 대화"
+2,"TEXT_BANDWA109_03910_SEQ_02","오스탈 엄명성에 있는 술통 담당 드워프에게 의뢰받은 물품 납품하기"
+3,"TEXT_BANDWA109_03910_SEQ_03","레기트에게 보고"
+4,"TEXT_BANDWA109_03910_SEQ_04",""
+5,"TEXT_BANDWA109_03910_SEQ_05",""
+6,"TEXT_BANDWA109_03910_SEQ_06",""
+7,"TEXT_BANDWA109_03910_SEQ_07",""
+8,"TEXT_BANDWA109_03910_SEQ_08",""
+9,"TEXT_BANDWA109_03910_SEQ_09",""
+10,"TEXT_BANDWA109_03910_SEQ_10",""
+11,"TEXT_BANDWA109_03910_SEQ_11",""
+12,"TEXT_BANDWA109_03910_SEQ_12",""
+13,"TEXT_BANDWA109_03910_SEQ_13",""
+14,"TEXT_BANDWA109_03910_SEQ_14",""
+15,"TEXT_BANDWA109_03910_SEQ_15",""
+16,"TEXT_BANDWA109_03910_SEQ_16",""
+17,"TEXT_BANDWA109_03910_SEQ_17",""
+18,"TEXT_BANDWA109_03910_SEQ_18",""
+19,"TEXT_BANDWA109_03910_SEQ_19",""
+20,"TEXT_BANDWA109_03910_SEQ_20",""
+21,"TEXT_BANDWA109_03910_SEQ_21",""
+22,"TEXT_BANDWA109_03910_SEQ_22",""
+23,"TEXT_BANDWA109_03910_SEQ_23",""
+24,"TEXT_BANDWA109_03910_TODO_00","시기트와 대화"
+25,"TEXT_BANDWA109_03910_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성의 술통 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성의 술통 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성의 술통 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성의 술통 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성의 술통 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성의 술통 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성의 술통 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성의 술통 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
+26,"TEXT_BANDWA109_03910_TODO_02","레기트에게 보고"
+27,"TEXT_BANDWA109_03910_TODO_03",""
+28,"TEXT_BANDWA109_03910_TODO_04",""
+29,"TEXT_BANDWA109_03910_TODO_05",""
+30,"TEXT_BANDWA109_03910_TODO_06",""
+31,"TEXT_BANDWA109_03910_TODO_07",""
+32,"TEXT_BANDWA109_03910_TODO_08",""
+33,"TEXT_BANDWA109_03910_TODO_09",""
+34,"TEXT_BANDWA109_03910_TODO_10",""
+35,"TEXT_BANDWA109_03910_TODO_11",""
+36,"TEXT_BANDWA109_03910_TODO_12",""
+37,"TEXT_BANDWA109_03910_TODO_13",""
+38,"TEXT_BANDWA109_03910_TODO_14",""
+39,"TEXT_BANDWA109_03910_TODO_15",""
+40,"TEXT_BANDWA109_03910_TODO_16",""
+41,"TEXT_BANDWA109_03910_TODO_17",""
+42,"TEXT_BANDWA109_03910_TODO_18",""
+43,"TEXT_BANDWA109_03910_TODO_19",""
+44,"TEXT_BANDWA109_03910_TODO_20",""
+45,"TEXT_BANDWA109_03910_TODO_21",""
+46,"TEXT_BANDWA109_03910_TODO_22",""
+47,"TEXT_BANDWA109_03910_TODO_23",""
+48,"TEXT_BANDWA109_03910_REGITT_000_001","드워프 에탄올의 양조 설비는 순조롭게 가동 중이야라리~!
+산더미 같은 술…… 아니, 연료로 드워프 전차가 달리다니
+두근거림이 멈추질 않아라리!"
+49,"TEXT_BANDWA109_03910_REGITT_000_002","하지만 드워프 전차가 널리 보급된다면
+그만큼 많은 장소에 연료를 비축해야 할 필요가 있어라리."
+50,"TEXT_BANDWA109_03910_REGITT_000_003","즉 연료 비축용 술통을
+지금부터 증산해 둘 필요가 있다는 이야기야라리!
+'시기트'와 협력해서 제작을 부탁할게라리!"
+51,"TEXT_BANDWA109_03910_SHIGITT_000_010","……'<Sheet(Item,31159,0)/>' 건으로 온 건가.
+든든한 지원군이 와줬군."
+52,"TEXT_BANDWA109_03910_SHIGITT_000_012","재료를 줄 테니
+오랜 세월에도 버틸 수 있는 금속 틀을 3개, 만들어줄 수 있나?
+재료가 부족하면 재료 조달 자동인형에게 받도록 해."
+53,"TEXT_BANDWA109_03910_SHIGITT_000_013","재료를 줄 테니
+오랜 세월에도 버틸 수 있는 튼튼한 목재를 3개, 만들어줄 수 있나?
+재료가 부족하면 재료 조달 자동인형에게 받도록 해."
+54,"TEXT_BANDWA109_03910_SHIGITT_000_014","재료를 줄 테니
+오래 사용할 수 있도록 바니시를 3병 정도 만들어줄 수 있나?
+재료가 부족하면 재료 조달 자동인형에게 받도록 해."
+55,"TEXT_BANDWA109_03910_SHIGITT_000_016","부탁한 것을 완성하면
+오스탈 엄명성에 있는 '술통 담당 드워프'에게 가져가라.
+작업장은 좁아서 술통 보관 장소를 빌려 놨거든."
+56,"TEXT_BANDWA109_03910_AUTOMATON03910_000_017","삐삐…… 재료 필요해?
+……지금은 필요 없겠네."
+57,"TEXT_BANDWA109_03910_AUTOMATON03910_000_018","삐삐…… 재료 필요해?
+……지금은 필요 없겠네."
+58,"TEXT_BANDWA109_03910_AUTOMATON03910_000_019","삐삐…… 재료 필요해?
+……지금은 필요 없겠네."
+59,"TEXT_BANDWA109_03910_AUTOMATON03910_000_020","삐삐…… 재료 필요해?
+가져가ー."
+60,"TEXT_BANDWA109_03910_AUTOMATON03910_000_021","삐삐…… 재료 필요해?
+가져가ー."
+61,"TEXT_BANDWA109_03910_AUTOMATON03910_000_022","삐삐…… 재료 필요해?
+가져가ー."
+62,"TEXT_BANDWA109_03910_DAILYDWARF03910_000_030","당신, 작업장에서 보낸 심부름꾼이야?
+난 여기서 술통 조립과 비축 관리를 하고 있어라리.
+'<Sheet(Item,31159,0)/>'<13>FF0F02280BFF054974656DF279B70103FF04EBA5BCFF04EC9D84</13> 가져왔다면 나에게 줘라리!"
+63,"TEXT_BANDWA109_03910_DAILYDWARF03910_000_031","흠흠, 아주 잘했네라리!
+내가 훌륭한 술통으로 만들어 놓을 테니까라리
+당신은 '레기트'에게 보고해줘라리!"
+64,"TEXT_BANDWA109_03910_DAILYDWARF03910_000_032","일을 아주 잘했네라리!
+내가 멋진 술통을 만들어 놓을 테니까라리
+당신은 '레기트'에게 보고해줘라리!"
+65,"TEXT_BANDWA109_03910_REGITT_000_040","어서와라리~!
+술통 건도 잘 해결된 것 같던데, 고마워라리~."
+66,"TEXT_BANDWA109_03910_REGITT_000_041","에탄올 연료 용기는
+드워프 전통 술통을 응용한 거야라리.
+튼튼하고 수명이 긴 데다가 냄새도 새지 않는 최고의 물건이지라리!"
+67,"TEXT_BANDWA109_03910_REGITT_000_042","물론 본래 용도로 사용할 수도 있어라리……!
+우헤헤…… 창고에 가득 차 있는 맥주를 상상했더니
+행복한 기분이 되었어라리~!"

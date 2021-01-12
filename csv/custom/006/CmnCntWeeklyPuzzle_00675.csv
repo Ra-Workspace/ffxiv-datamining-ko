@@ -1,0 +1,88 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_000","오, <Highlight>ObjectParameter(1)</Highlight>.
+무슨 용건이지?"
+1,"TEXT_CMNCNTWEEKLYPUZZLE_00675_Q1_000_001","무엇을 하시겠습니까?"
+2,"TEXT_CMNCNTWEEKLYPUZZLE_00675_A1_000_001","'총당님의 환상반' 도전하기"
+3,"TEXT_CMNCNTWEEKLYPUZZLE_00675_A1_000_002","경품 교환"
+4,"TEXT_CMNCNTWEEKLYPUZZLE_00675_A1_000_003","'총당님의 환상반'이 무엇인지 듣기"
+5,"TEXT_CMNCNTWEEKLYPUZZLE_00675_A1_000_004","이야기 듣기"
+6,"TEXT_CMNCNTWEEKLYPUZZLE_00675_A1_000_005","취소"
+7,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_001","그렇다면 일단 나에게 이야기부터 들려줘야 해.
+강적과 싸우고 방금 돌아왔어! 이런 느낌으로
+정확하게 다 기억해낸 다음에 이야기하러 와줘."
+8,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_002","흠…… 지금은 너에게 들은 이야기를 내 나름대로 각색해서
+다도회에서 어떻게 말할지 조물조물하고 있는 중이다.
+미안하지만 환상반은 다음에 하도록 해."
+9,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_003","환상반은 일주일에 1번 '총당님'을 통해 도전할 수 있습니다.
+도전하고 싶을 때는 현실시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시 이후에
+'환 토벌전'을 완료한 후에 말을 걸어 주십시오."
+10,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_004","'총당님의 환상반'에 도전하시겠습니까?
+（'환상잎' 보유 수：<Value>IntegerParameter(1)</Value>/1000）<If(Equal(IntegerParameter(1),1000))>
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※최대 보유 수를 초과하므로 
+　더 이상 '환상잎'을 획득할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><If(GreaterThan(IntegerParameter(1),875))>
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※최대 보유 수에 근접하므로 이대로 도전하면
+　모든 '환상잎'을 획득하지 못할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If></If>"
+11,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_005","야만신과 격투했던 것을 상세하게 떠올린 모양이군.
+좋아, 그럼 지금 당장 들려주도록 해!"
+12,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_006","오오…… 정말 대단해!
+'요괴 잡는 텐젠'을 능가할 만한 대활극이야!
+약속한 대로 환상반에 도전해도 좋아."
+13,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_007","뭐야, 놀리는 거냐…… 이야기는 마음 먹었을 때 하는 게 좋거든?
+야만신과 했던 격투를 세세한 부분까지 떠올렸다면
+시간이 많이 지나기 전에 이야기해주러 오도록 해."
+14,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_008","모은 '환상잎'을 경품과 교환하겠다고?"
+15,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_100_008","오, 무슨 이야기를 듣고 싶지?"
+16,"TEXT_CMNCNTWEEKLYPUZZLE_00675_Q2_000_001","무엇을 물어보시겠습니까?"
+17,"TEXT_CMNCNTWEEKLYPUZZLE_00675_A2_000_001","총당님에 대해서"
+18,"TEXT_CMNCNTWEEKLYPUZZLE_00675_A2_000_002","환상반에 대해서"
+19,"TEXT_CMNCNTWEEKLYPUZZLE_00675_A2_000_003","취소"
+20,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_009","그러니까 난 총당이 아니라 종담이라고 했잖아.
+애초에 이 얼굴은 인간과 이야기하기 편한 모습으로 둔갑한 것뿐이야."
+21,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_010","옛날부터 인간들과 차를 마시며 담소를 나누는 게 취미거든.
+인간의 이야기를 듣기도 하고 내 이야기로 웃기기도 하고…….
+신사에서 멍하니 망을 보고 있는 것보다 훨씬 즐거워."
+22,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_011","그중에서도 쿠로가 만든 공상 이야기는 아주 각별하지.
+그래서 나도 여기서 여러 가지 이야기를 모으기로 한 거야.
+차는 내어 줄 수 없지만, 이야기 상대는 되어줄 거지?"
+23,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_012","여기 이딜샤이어에 더 많은 모험가를 모으기 위해
+로웨나 아가씨가 환상반이란 걸 고안해냈어.
+쿠로의 도움도 얻어서 새로운 경품도 여러 가지 준비했고."
+24,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_013","하지만 이미 알려진 알라그 석판이나 수집품을 납품받으니
+수지타산이 안 맞는다는 걸 알게 돼서 곤란해졌어."
+25,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_014","바로 그때 이 다도의 종담이 나타난 거지!
+듣자하니 여기엔 많은 모험가들의 이야기가 모인다잖아?
+마침 잘됐다 싶어서 내가 가게를 맡기로 했어."
+26,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_015","즉, 난 모험가에게 재미있는 이야기를 들을 수 있고,
+모험가는 로웨나 상회의 경품을 받을 수 있고,
+로웨나 상회는 내 신통력으로 업무 지원을 받을 수 있다는 이야기야."
+27,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_016","뭐, 결과적으로 일석삼조라 이거지.
+로웨나 아가씨도 마을이 북적거리는 걸 바라고 있을 테니까.
+신경 쓰지 말고 경품도 턱턱 바꿔 가도록 해."
+28,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_017","오, 다음에 또 와.
+이야기 상대는 많을수록 좋으니까."
+29,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_020","패널에 감춰진 그림을 모두 찾아냈다고? 일화가 끝이 없구나.
+그 행운을 믿고 한 번 더 도전시켜 주지.
+하지만 다시 한번 격투 이야기를 들려준다면 말이야."
+30,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_021","같은 이야기라도 해석에 따라 다양한 가능성이 생겨나지.
+몇 번을 들어도 반드시 얻을 것이 있어.
+그러니 다시 격투를 떠올릴 수 있다면 또 이야기하러 와줘."
+31,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_100_021","보너스 기회를 획득했습니다!
+다시 한번 환 토벌전을 완료하면
+또다시 '총당님의 환상반'에 도전할 수 있습니다."
+32,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_022","보너스 기회는 일주일에 1번만 획득할 수 있습니다.
+또한 보너스 기회의 획득 상황은 현실 시간으로<ResetTime>1203</ResetTime> 매주 <Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일,
+<If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화되므로 주의해 주십시오."
+33,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_023","'모두 획득'이라니 대단한걸, 일화가 끝이 없구나.
+그럼 네게 들은 이야기를 내 나름대로 각색해서
+다도회에서 어떻게 이야기할지 조물조물해볼까나……."
+34,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_024","그럭저럭 괜찮은 결과라고 할 수 있겠어.
+그 운을 높이 사서 또다시 도전시켜 주지.
+다시 한번 격투 이야기를 들려준다면 말이야."
+35,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_025","그럭저럭 괜찮은 결과라고 할 수 있겠어.
+그럼 네게 들은 이야기를 내 나름대로 각색해서
+다도회에서 어떻게 이야기할지 조물조물해볼까나……."
+36,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_026","획득 제로라…… 이야깃거리가 늘었다고, 좋게 생각하자고.
+그럼 네게 들은 이야기를 내 나름대로 각색해서
+다도회에서 어떻게 이야기할지 조물조물해볼까나……."

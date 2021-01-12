@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_SUBWIL073_00327_SEQ_00","검은솔 정류소의 워린은 선로에 돌을 올려놓는 범인을 처치해주기 바라는 듯하다."
-1,"TEXT_SUBWIL073_00327_SEQ_01","워린은 열차의 안전을 지키기 위하여 선로에 돌을 올려놓는 범인을 처치하고 싶다고 한다. 그의 지시에 따라 검은솔 정류소 주변의 선로 위에 놓인 '흠집 난 은 광석' 근처를 살펴보고, 범인이 나타나면 처치하자."
+1,"TEXT_SUBWIL073_00327_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 검은솔 정류소에 있는 '즈즈메다'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_SUBWIL073_00327_SEQ_02","검은솔 정류소 주변의 선로를 모두 살펴보고 질겅이 스프리건을 처치했다. 검은솔 정류소에 있는 '워린'에게 보고하자."
 3,"TEXT_SUBWIL073_00327_SEQ_03","돌을 놓은 범인을 퇴치하여 일단 선로의 안전은 확보되었다. 워린의 말에 따르면 질겅이 스프리건이 놓고 간 흠집 난 은 광석은 질겅이 스프리건이 먹다 남긴 은 광석……인 것 같다고 한다."
 4,"TEXT_SUBWIL073_00327_SEQ_04",""
@@ -25,8 +27,10 @@ int32,str,str
 21,"TEXT_SUBWIL073_00327_SEQ_21",""
 22,"TEXT_SUBWIL073_00327_SEQ_22",""
 23,"TEXT_SUBWIL073_00327_SEQ_23",""
-24,"TEXT_SUBWIL073_00327_TODO_00","흠집 난 은 광석 조사"
-25,"TEXT_SUBWIL073_00327_TODO_01","워린에게 보고"
+24,"TEXT_SUBWIL073_00327_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+검은솔 정류소에 있는 즈즈메다에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_SUBWIL073_00327_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+검은솔 정류소에 있는 즈즈메다에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_SUBWIL073_00327_TODO_02",""
 27,"TEXT_SUBWIL073_00327_TODO_03",""
 28,"TEXT_SUBWIL073_00327_TODO_04",""

@@ -8,7 +8,7 @@ int32,str,str
 3,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01","'강화 승인' 받기"
 4,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02","'강화 승인'에 대해서 묻기"
 5,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03","취소"
-6,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011","위대한 제작자의 신 비레고시여……
+6,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011","위대한 제작의 신 비레고시여……
 <Switch(IntegerParameter(1))><Case(1)><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/></Case><Case(2)><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/></Case><Case(3)><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/></Case></Switch> <Highlight>ObjectParameter(1)</Highlight> 님에게 가호를 내려주시옵소서……."
 7,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012","이것으로 '강화 승인'이 완료되었습니다!
 <Switch(IntegerParameter(1))><Case(1)><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/></Case><Case(2)><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/></Case><Case(3)><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/></Case></Switch> <Highlight>ObjectParameter(1)</Highlight> 님의 무운을 빌겠습니다!"

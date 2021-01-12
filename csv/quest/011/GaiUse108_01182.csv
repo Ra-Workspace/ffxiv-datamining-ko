@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE108_01182_SEQ_00","망자의 종소리에 있는 슬라프본은 모험가에게 부탁하고 싶은 일이 있는 듯하다."
-1,"TEXT_GAIUSE108_01182_SEQ_01","망자의 종소리를 더욱 굳게 지키려면 <Sheet(EventItem,2001078,0)/><13>FF15022811FF0A4576656E744974656DF61E88B60103FF04EAB080FF04EC9DB4</13> 필요하다고 한다. <Sheet(EventItem,2001078,0)/><13>FF15022811FF0A4576656E744974656DF61E88B60103FF04EBA5BCFF04EC9D84</13> 얻기 위해, 우선 남부 다날란 '카른의 무너진 사원' 앞에 있는 '비비무'와 대화하자."
+1,"TEXT_GAIUSE108_01182_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 망자의 종소리에 있는 '슬라프본'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSE108_01182_SEQ_02","비비무와 대화했다. 남부 다날란 '카른의 무너진 사원'을 헤쳐나간 뒤 <Sheet(EventItem,2001078,0)/><13>FF15022811FF0A4576656E744974656DF61E88B60103FF04EBA5BCFF04EC9D84</13> 손에 넣자.
 
 ※ '임무 찾기'를 통해, 본 임무의 공략에 참가할 수 있습니다."
@@ -27,9 +29,12 @@ int32,str,str
 21,"TEXT_GAIUSE108_01182_SEQ_21",""
 22,"TEXT_GAIUSE108_01182_SEQ_22",""
 23,"TEXT_GAIUSE108_01182_SEQ_23",""
-24,"TEXT_GAIUSE108_01182_TODO_00","카른의 무너진 사원에서 비비무와 대화"
-25,"TEXT_GAIUSE108_01182_TODO_01","'카른의 무너진 사원'을 공략하여 <Sheet(EventItem,2001078,0)/> 입수"
-26,"TEXT_GAIUSE108_01182_TODO_02","망자의 종소리에서 슬라프본에게 <Sheet(EventItem,2001078,0)/> 전달"
+24,"TEXT_GAIUSE108_01182_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 슬라프본에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE108_01182_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 슬라프본에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE108_01182_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 슬라프본에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSE108_01182_TODO_03",""
 28,"TEXT_GAIUSE108_01182_TODO_04",""
 29,"TEXT_GAIUSE108_01182_TODO_05",""

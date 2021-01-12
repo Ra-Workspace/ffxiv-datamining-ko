@@ -2,7 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_SUBSEA052_00464_SEQ_00","여름여울 농장의 교육 담당 원예가 걸캔트는 개척예정지의 안전을 확보하기 위해 마물 퇴치를 의뢰하고 싶은 듯하다."
-1,"TEXT_SUBSEA052_00464_SEQ_01","개척예정지 주변을 돌며 개척 작업에 방해가 되는 '꼬마 만드라고라'를 5마리 처치하자."
+1,"TEXT_SUBSEA052_00464_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 하기 NPC에게 다시 받아주십시오. 받을 수 있는 퀘스트는 진행 상황에 따라 다릅니다.
+여름여울 농장에 있는 '슈텔뷔른'
+여름여울 농장에 있는 '걸캔트'<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_SUBSEA052_00464_SEQ_02","개척예정지의 안전이 확보되었다. '여름여울 농장'의 교육 담당 원예가 '걸캔트'에게 보고하자."
 3,"TEXT_SUBSEA052_00464_SEQ_03","걸캔트는 모험가의 협력으로 개척예정지의 안전이 확보되었다고 무척 고마워했다. 하지만 그는 내심 해적 출신 농부들이 나서서 이런 퇴치 업무를 도와주길 바랐던 것 같다. 언젠가 걸캔트의 이런 바람이 이루어질까?"
 4,"TEXT_SUBSEA052_00464_SEQ_04",""
@@ -25,8 +29,10 @@ int32,str,str
 21,"TEXT_SUBSEA052_00464_SEQ_21",""
 22,"TEXT_SUBSEA052_00464_SEQ_22",""
 23,"TEXT_SUBSEA052_00464_SEQ_23",""
-24,"TEXT_SUBSEA052_00464_TODO_00","꼬마 만드라고라 처치"
-25,"TEXT_SUBSEA052_00464_TODO_01","걸캔트에게 보고"
+24,"TEXT_SUBSEA052_00464_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+퀘스트를 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_SUBSEA052_00464_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+퀘스트를 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_SUBSEA052_00464_TODO_02",""
 27,"TEXT_SUBSEA052_00464_TODO_03",""
 28,"TEXT_SUBSEA052_00464_TODO_04",""

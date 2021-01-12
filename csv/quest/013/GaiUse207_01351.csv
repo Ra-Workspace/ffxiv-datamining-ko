@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE207_01351_SEQ_00","저녁별 만의 호우잔에게 골치 아픈 일이 생긴 듯하다."
-1,"TEXT_GAIUSE207_01351_SEQ_01","호우잔의 아버지가 초코보 냄새를 못 견뎌서 초코보 마차를 안 타려고 하는 모양이다. 초코보 냄새를 해결해야 할 것 같다. 저녁별 만 술집에서 냄새에 민감한 여자를 찾아 물어보자."
+1,"TEXT_GAIUSE207_01351_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 저녁별 만에 있는 '호우잔'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSE207_01351_SEQ_02","초코보 냄새를 막아준다는 <Sheet(EventItem,2001208,0)/><13>FF15022811FF0A4576656E744974656DF61E89380103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 저녁별 만에 있는 '초코보'에게 <Sheet(EventItem,2001208,0)/><13>FF15022811FF0A4576656E744974656DF61E89380103FF04EBA5BCFF04EC9D84</13> 써보자."
 3,"TEXT_GAIUSE207_01351_SEQ_03","초코보에게 <Sheet(EventItem,2001208,0)/><13>FF15022811FF0A4576656E744974656DF61E89380103FF04EBA5BCFF04EC9D84</13> 뿌렸다. 효과가 있는지 알아보기 위해 저녁별 만에 있는 '초코보' 냄새를 맡아보자."
 4,"TEXT_GAIUSE207_01351_SEQ_04","<Sheet(EventItem,2001208,0)/><14>FF15022811FF0A4576656E744974656DF61E89380103FF04EBA19CFF07EC9CBCEBA19C</14>는 초코보 냄새를 막을 수 없는 것 같다. 저녁별 만에 있는 '휴런 마부'와 대화해보자."
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSE207_01351_SEQ_21",""
 22,"TEXT_GAIUSE207_01351_SEQ_22",""
 23,"TEXT_GAIUSE207_01351_SEQ_23",""
-24,"TEXT_GAIUSE207_01351_TODO_00","술집에 있는 여자에게 초코보 냄새 막는 법 묻기"
-25,"TEXT_GAIUSE207_01351_TODO_01","저녁별 만에서 초코보에게 <Sheet(EventItem,2001208,0)/> 사용"
-26,"TEXT_GAIUSE207_01351_TODO_02","저녁별 만에서 초코보 냄새 맡기"
-27,"TEXT_GAIUSE207_01351_TODO_03","휴런 마부와 대화"
-28,"TEXT_GAIUSE207_01351_TODO_04","호우잔에게 <Sheet(EventItem,2001209,0)/> 전달"
-29,"TEXT_GAIUSE207_01351_TODO_05","호우잔과 대화"
+24,"TEXT_GAIUSE207_01351_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+저녁별 만에 있는 호우잔에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE207_01351_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+저녁별 만에 있는 호우잔에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE207_01351_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+저녁별 만에 있는 호우잔에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE207_01351_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+저녁별 만에 있는 호우잔에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE207_01351_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+저녁별 만에 있는 호우잔에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSE207_01351_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+저녁별 만에 있는 호우잔에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSE207_01351_TODO_06",""
 31,"TEXT_GAIUSE207_01351_TODO_07",""
 32,"TEXT_GAIUSE207_01351_TODO_08",""

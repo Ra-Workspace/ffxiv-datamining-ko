@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA301_00733_SEQ_00","주점 '버스카론 맘대로'의 버스카론은 모험가에게 부탁하고 싶은 일이 있는 듯하다."
-1,"TEXT_GAIUSA301_00733_SEQ_01","지난날 주점에서 일했던 키키룬족인 테테룬이 놓고 간 물건이 있다고 한다. 림사 로민사 '국제거리 상점가'에 있는 '벤징크'에게 테테룬이 어디로 갔는지 물어보자."
+1,"TEXT_GAIUSA301_00733_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 주점 '버스카론 맘대로'에 있는 '버스카론'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSA301_00733_SEQ_02","테테룬이 어디로 갔는지는 '쿄쿄룬'이 잘 안다고 한다. 쿄쿄룬이 좋아하는 <Sheet(Item,　4772,0)/><13>FF15022811FF054974656DFF08E38080343737320103FF04EBA5BCFF04EC9D84</13> 준 다음 이야기를 들어보자."
 3,"TEXT_GAIUSA301_00733_SEQ_03","드디어 테테룬이 어디 있는지 알아냈다. 고지 라노시아로 가는 방법을 '선착장: 림사 로민사'에 있는 '와인버그'에게 물어보자."
 4,"TEXT_GAIUSA301_00733_SEQ_04","와인버그가 고지 라노시아로 가는 방법을 알려주었다. 테테룬이 있는 곳까지 가는 자세한 경로를 맥주 항구에 있는 '알트푸트'에게 물어보자."
@@ -25,11 +27,16 @@ int32,str,str
 21,"TEXT_GAIUSA301_00733_SEQ_21",""
 22,"TEXT_GAIUSA301_00733_SEQ_22",""
 23,"TEXT_GAIUSA301_00733_SEQ_23",""
-24,"TEXT_GAIUSA301_00733_TODO_00","국제거리 서쪽 상점가에서 벤징크와 대화"
-25,"TEXT_GAIUSA301_00733_TODO_01","쿄쿄룬에게 <Sheet(Item,　4772,0)/> 전달"
-26,"TEXT_GAIUSA301_00733_TODO_02","선착장: 림사 로민사에서 와인버그와 대화"
-27,"TEXT_GAIUSA301_00733_TODO_03","맥주 항구에서 알트푸트와 대화"
-28,"TEXT_GAIUSA301_00733_TODO_04","메메룬 교역 상점에서 테테룬에게 <Sheet(EventItem,2000587,0)/> 전달"
+24,"TEXT_GAIUSA301_00733_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSA301_00733_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSA301_00733_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSA301_00733_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSA301_00733_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29,"TEXT_GAIUSA301_00733_TODO_05",""
 30,"TEXT_GAIUSA301_00733_TODO_06",""
 31,"TEXT_GAIUSA301_00733_TODO_07",""

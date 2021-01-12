@@ -18,6 +18,7 @@ int32,str
 14,"획득력 <Value>IntegerParameter(1)</Value> 이상"
 15,"감별력 <Value>IntegerParameter(1)</Value> 이상"
 16,"획득력 <Value>IntegerParameter(1)</Value> 미만"
-17,"감별력 <Value>IntegerParameter(1)</Value> 미만"
+17,"감별력 <Value>IntegerParameter(1)</Value> <If(IntegerParameter(2))>이상<Else/>미만</If>"
 18,"<Sheet(Status,IntegerParameter(1),0)/> 부여"
 19,"최대 GP <Value>IntegerParameter(1)</Value> 이상"
+20,"<Sheet(Item,IntegerParameter(1),0)/> <If(IntegerParameter(2))>장비<Else/>장비 안 함</If>"

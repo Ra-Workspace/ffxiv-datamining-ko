@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE210_01354_SEQ_00","돌의 집에 있는 민필리아는 부탁하고 싶은 일이 있는 듯하다."
-1,"TEXT_GAIUSE210_01354_SEQ_01","곧 도착할 도마 사람들을 위해 식사가 마련되었다고 한다. 준비를 돕기 위해 돌의 집에 있는 '프라민'과 대화하자."
+1,"TEXT_GAIUSE210_01354_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 모래늪에 있는 '알피노'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSE210_01354_SEQ_02","프라민과 대화했다. 돌의 집에서 탁상 위에 마련된 <Sheet(EventItem,2001210,0)/><13>FF15022811FF0A4576656E744974656DF61E893A0103FF04EBA5BCFF04EC9D84</13> 모두 손에 넣자."
 3,"TEXT_GAIUSE210_01354_SEQ_03","도마 사람들에게 나눠줄 <Sheet(EventItem,2001210,0)/><13>FF15022811FF0A4576656E744974656DF61E893A0103FF04EBA5BCFF04EC9D84</13> 모두 손에 넣었다. 이어서 망자의 종소리 '일곱째 낙원'에 있는 '알리스'와 대화하자."
 4,"TEXT_GAIUSE210_01354_SEQ_04","알리스가 요리를 날라달라고 부탁했다. 일곱째 낙원에서 탁상 위에 마련된 <Sheet(EventItem,2001211,0)/> 3개를 손에 넣자."
@@ -25,11 +27,16 @@ int32,str,str
 21,"TEXT_GAIUSE210_01354_SEQ_21",""
 22,"TEXT_GAIUSE210_01354_SEQ_22",""
 23,"TEXT_GAIUSE210_01354_SEQ_23",""
-24,"TEXT_GAIUSE210_01354_TODO_00","돌의 집에서 프라민과 대화"
-25,"TEXT_GAIUSE210_01354_TODO_01","<Sheet(EventItem,2001210,0)/> 입수"
-26,"TEXT_GAIUSE210_01354_TODO_02","일곱째 낙원에서 알리스와 대화"
-27,"TEXT_GAIUSE210_01354_TODO_03","<Sheet(EventItem,2001211,0)/> 입수"
-28,"TEXT_GAIUSE210_01354_TODO_04","길드 본부 모험가에게 요리 전달"
+24,"TEXT_GAIUSE210_01354_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래늪에 있는 알피노에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE210_01354_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래늪에 있는 알피노에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE210_01354_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래늪에 있는 알피노에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE210_01354_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래늪에 있는 알피노에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE210_01354_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래늪에 있는 알피노에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29,"TEXT_GAIUSE210_01354_TODO_05",""
 30,"TEXT_GAIUSE210_01354_TODO_06",""
 31,"TEXT_GAIUSE210_01354_TODO_07",""

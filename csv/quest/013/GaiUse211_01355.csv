@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE211_01355_SEQ_00","망자의 종소리에 있는 길드 본부 모험가는 걱정거리가 있는 듯하다."
-1,"TEXT_GAIUSE211_01355_SEQ_01","요즘 들어 망자의 종소리 근처에 갑자기 늘어난 호수 코브라를 물리쳐달라고 했다. '망자의 종소리'에서 '성 코이나크 재단 조사지'로 가는 길에 흩어져 있는 모든 <Sheet(EObj,2003579,0)/>에 <Sheet(EventItem,2001212,0)/><13>FF15022811FF0A4576656E744974656DF61E893C0103FF04EBA5BCFF04EC9D84</13> 사용하고, <Sheet(BNpcName,　2673,0)/><13>FF19022815FF09424E70634E616D65FF08E38080323637330103FF04EAB080FF04EC9DB4</13> 나타나면 물리치자."
+1,"TEXT_GAIUSE211_01355_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 모래늪에 있는 '알피노'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSE211_01355_SEQ_02","망자의 종소리 근처에 있는 <Sheet(BNpcName,　2673,0)/><13>FF19022815FF09424E70634E616D65FF08E38080323637330103FF04EBA5BCFF04EC9D84</13> 제거했다. 망자의 종소리에 있는 '길드 본부 모험가'에게 보고하자."
 3,"TEXT_GAIUSE211_01355_SEQ_03","길드 본부 모험가에게 보고했다. 도마 사람들이 희망을 가득 품고 새 보금자리에 도착한 모양이다. 한편, 크리스탈 소실 사건 조사에 진전이 있었던 듯하다. 망자의 종소리 '돌의 집'에 있는 '민필리아'와 대화하자."
 4,"TEXT_GAIUSE211_01355_SEQ_04","크리스탈 소실 사건은 사하긴족이 거느린 해적단 '바다뱀의 혀'가 벌인 짓인 듯하다. 머지않아 사하긴족에 의한 야만신 '리바이어선' 소환이 행해질 것 같다고 한다. 야만신 소환을 막기 위해 멜위브 제독이 '새벽의 혈맹'에 도움을 요청했다. '초월하는 힘'이 가진 본질에 대해 알아낼 좋은 기회라 판단한 민필리아는 모험가 일행과 함께 림사 로민사에 가기로 했다."
@@ -25,10 +27,12 @@ int32,str,str
 21,"TEXT_GAIUSE211_01355_SEQ_21",""
 22,"TEXT_GAIUSE211_01355_SEQ_22",""
 23,"TEXT_GAIUSE211_01355_SEQ_23",""
-24,"TEXT_GAIUSE211_01355_TODO_00","<Sheet(EObj,2003579,0)/>에 <Sheet(EventItem,2001212,0)/><13>FF15022811FF0A4576656E744974656DF61E893C0103FF04EBA5BCFF04EC9D84</13> 사용하고
- <Sheet(BNpcName,　2673,0)/><13>FF19022815FF09424E70634E616D65FF08E38080323637330103FF04EAB080FF04EC9DB4</13> 나타나면 처치"
-25,"TEXT_GAIUSE211_01355_TODO_01","길드 본부 모험가와 대화"
-26,"TEXT_GAIUSE211_01355_TODO_02","돌의 집에서 민필리아와 대화"
+24,"TEXT_GAIUSE211_01355_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래늪에 있는 알피노에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE211_01355_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래늪에 있는 알피노에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE211_01355_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래늪에 있는 알피노에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSE211_01355_TODO_03",""
 28,"TEXT_GAIUSE211_01355_TODO_04",""
 29,"TEXT_GAIUSE211_01355_TODO_05",""

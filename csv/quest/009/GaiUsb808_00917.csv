@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB808_00917_SEQ_00","용머리 전진기지의 오르슈팡이 비공정에 대한 정보를 주려는 모양이다."
-1,"TEXT_GAIUSB808_00917_SEQ_01","그토록 기다리던 비공정 정보를 얻게 되었다. 밖에서 기다리는 '난처해하는 남자'와 대화하자."
+1,"TEXT_GAIUSB808_00917_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 용머리 전진기지에 있는 '오르슈팡'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSB808_00917_SEQ_02","관측원이 말하길, 비공정 관측 정보와 착지 지점이 담긴 기록이 점성대 서고에 있다고 한다. '아도넬 점성대' 맨 위층 책장에서 <Sheet(EventItem,2000720,0)/><13>FF15022811FF0A4576656E744974656DF61E87500103FF04EBA5BCFF04EC9D84</13> 찾자."
 3,"TEXT_GAIUSB808_00917_SEQ_03","책장에서 <Sheet(EventItem,2000720,0)/><13>FF15022811FF0A4576656E744974656DF61E87500103FF04EBA5BCFF04EC9D84</13> 찾았다. '난처해하는 남자'에게 가져다주고 이야기를 듣자."
 4,"TEXT_GAIUSB808_00917_SEQ_04","기록에 따르면 비공정은 돌방패 경계초소 근처에 불시착한 듯하다. 용머리 전진기지로 돌아가서 '오르슈팡'과 상의하자."
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSB808_00917_SEQ_21",""
 22,"TEXT_GAIUSB808_00917_SEQ_22",""
 23,"TEXT_GAIUSB808_00917_SEQ_23",""
-24,"TEXT_GAIUSB808_00917_TODO_00","난처해하는 남자와 대화"
-25,"TEXT_GAIUSB808_00917_TODO_01","<Sheet(EventItem,2000720,0)/> 입수"
-26,"TEXT_GAIUSB808_00917_TODO_02","난처해하는 남자에게 <Sheet(EventItem,2000720,0)/> 전달"
-27,"TEXT_GAIUSB808_00917_TODO_03","오르슈팡과 상의"
-28,"TEXT_GAIUSB808_00917_TODO_04","프란셀과 대화"
-29,"TEXT_GAIUSB808_00917_TODO_05","브뤼나디에에게 소개장 전달"
+24,"TEXT_GAIUSB808_00917_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+용머리 전진기지에 있는 오르슈팡에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB808_00917_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+용머리 전진기지에 있는 오르슈팡에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSB808_00917_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+용머리 전진기지에 있는 오르슈팡에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSB808_00917_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+용머리 전진기지에 있는 오르슈팡에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSB808_00917_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+용머리 전진기지에 있는 오르슈팡에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSB808_00917_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+용머리 전진기지에 있는 오르슈팡에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSB808_00917_TODO_06",""
 31,"TEXT_GAIUSB808_00917_TODO_07",""
 32,"TEXT_GAIUSB808_00917_TODO_08",""
@@ -66,7 +74,7 @@ int32,str,str
 뒤표지가 빨간 책을 가지고 오시면 됩니다!"
 53,"TEXT_GAIUSB808_00917_NPC_000_020","기록은 아도넬 점성대 맨 위층에 있습니다.
 ……커르다스에 오자마자 점성대에 들렀다구요?
-하하, 혼자 힘으로 뒤지셨다면 아마 몇 달은 걸리셨을 걸요."
+하하, 혼자 힘으로 뒤지셨다면 아마 몇 달은 걸리셨을걸요."
 54,"TEXT_GAIUSB808_00917_DUMMY_000_030","（アドネール占星の本棚にアクセスし、観測記録を取得）"
 55,"TEXT_GAIUSB808_00917_NPC_000_040","당시 기록은 찾으셨나요?
 기록이라면 산더미처럼 쌓인 곳이니까

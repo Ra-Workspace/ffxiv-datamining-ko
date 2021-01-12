@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB503_00872_SEQ_00","성 아다마 란다마 교회의 마르케스는 물건 수리에 필요한 도구를 구하고자 한다."
-1,"TEXT_GAIUSB503_00872_SEQ_01","마르케스가 시계 수리에 필요한 도구를 구해달라고 부탁했다. 울다하 보석공예가 길드에 있는 '메메데스'와 사파이어길 국제시장에 있는 '진트고트'에게서 <Sheet(EventItem,2000678,0)/><13>FF15022811FF0A4576656E744974656DF61E87260103FF04EC9980FF04EAB3BC</13> <Sheet(EventItem,2000679,0)/><13>FF15022811FF0A4576656E744974656DF61E87270103FF04EBA5BCFF04EC9D84</13> 받아오자."
+1,"TEXT_GAIUSB503_00872_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 성 아다마 란다마 교회에 있는 '마르케스'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSB503_00872_SEQ_02","필요한 도구를 모두 구했다. 성 아다마 란다마 교회에 있는 '마르케스'에게 가져다주자."
 3,"TEXT_GAIUSB503_00872_SEQ_03","시계 수리가 끝났다. 마르케스는 자신이 왜 시계를 잘 고치는지 모르겠다고 한다. 성 아다마 란다마 교회에 있는 '엘룬드'에게 <Sheet(EventItem,2000680,0)/><13>FF15022811FF0A4576656E744974656DF61E87280103FF04EBA5BCFF04EC9D84</13> 가져다주자."
 4,"TEXT_GAIUSB503_00872_SEQ_04","엘룬드가 말하길, 이 시계는 제국에서 만든 물건이라고 한다. 마르케스는 대체 누구이기에 이런 걸 쉽게 고치는 걸까……?"
@@ -25,10 +27,14 @@ int32,str,str
 21,"TEXT_GAIUSB503_00872_SEQ_21",""
 22,"TEXT_GAIUSB503_00872_SEQ_22",""
 23,"TEXT_GAIUSB503_00872_SEQ_23",""
-24,"TEXT_GAIUSB503_00872_TODO_00","보석공예가 길드에서 메메데스로부터 <Sheet(EventItem,2000678,0)/> 입수"
-25,"TEXT_GAIUSB503_00872_TODO_01","사파이어길 국제시장에서 진트고트로부터 <Sheet(EventItem,2000679,0)/> 입수"
-26,"TEXT_GAIUSB503_00872_TODO_02","성 아다마 란다마 교회에서 마르케스에게 도구 전달"
-27,"TEXT_GAIUSB503_00872_TODO_03","엘룬드에게 <Sheet(EventItem,2000680,0)/> 전달"
+24,"TEXT_GAIUSB503_00872_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+성 아다마 란다마 교회에 있는 마르케스에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB503_00872_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+성 아다마 란다마 교회에 있는 마르케스에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSB503_00872_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+성 아다마 란다마 교회에 있는 마르케스에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSB503_00872_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+성 아다마 란다마 교회에 있는 마르케스에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 28,"TEXT_GAIUSB503_00872_TODO_04",""
 29,"TEXT_GAIUSB503_00872_TODO_05",""
 30,"TEXT_GAIUSB503_00872_TODO_06",""

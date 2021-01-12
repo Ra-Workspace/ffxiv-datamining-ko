@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC904_01039_SEQ_00","푸른안개 야영지의 불멸대 상사 갈라진 주먹은 모험가가 병사들을 격려해주었으면 하는 듯하다."
-1,"TEXT_GAIUSC904_01039_SEQ_01","병사들을 격려하기 위해 음식을 준비하기로 했다. <Sheet(BNpcName,304,0)/><13>FF1302280FFF09424E70634E616D65F201300103FF04EBA5BCFF04EC9D84</13> 처치하여 <Sheet(EventItem,2000785,0)/><13>FF15022811FF0A4576656E744974656DF61E87910103FF04EBA5BCFF04EC9D84</13> 3개 손에 넣자."
+1,"TEXT_GAIUSC904_01039_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 푸른안개 야영지에 있는 '불멸대 상사 갈라진 주먹'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSC904_01039_SEQ_02","요리 재료를 구했다. <Sheet(EObj,2002256,0)/>에 <Sheet(EventItem,2000785,0)/><13>FF15022811FF0A4576656E744974656DF61E87910103FF04EBA5BCFF04EC9D84</13> 넣고 요리하자."
 3,"TEXT_GAIUSC904_01039_SEQ_03","음식이 다 되려면 시간이 좀 걸린다. <Sheet(EObj,2002256,0)/>에서 잠시 기다리자."
 4,"TEXT_GAIUSC904_01039_SEQ_04","음식이 완성된 것 같다. <Sheet(EObj,2002256,0)/>에서 <Sheet(EventItem,2000786,0)/><13>FF15022811FF0A4576656E744974656DF61E87920103FF04EBA5BCFF04EC9D84</13> 그릇에 담자."
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSC904_01039_SEQ_21",""
 22,"TEXT_GAIUSC904_01039_SEQ_22",""
 23,"TEXT_GAIUSC904_01039_SEQ_23",""
-24,"TEXT_GAIUSC904_01039_TODO_00","<Sheet(BNpcName,304,0)/> 처치 후 <Sheet(EventItem,2000785,0)/> 입수"
-25,"TEXT_GAIUSC904_01039_TODO_01","<Sheet(EObj,2002256,0)/>에 <Sheet(EventItem,2000785,0)/> 넣기"
-26,"TEXT_GAIUSC904_01039_TODO_02","<Sheet(EventItem,2000785,0)/> 조리기"
-27,"TEXT_GAIUSC904_01039_TODO_03","<Sheet(EObj,2002256,0)/>에서 <Sheet(EventItem,2000786,0)/> 입수"
-28,"TEXT_GAIUSC904_01039_TODO_04","병사에게 <Sheet(EventItem,2000786,0)/> 전달"
-29,"TEXT_GAIUSC904_01039_TODO_05","불멸대 상사 갈라진 주먹에게 보고"
+24,"TEXT_GAIUSC904_01039_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+불멸대 상사 갈라진 주먹에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC904_01039_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+불멸대 상사 갈라진 주먹에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC904_01039_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+불멸대 상사 갈라진 주먹에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSC904_01039_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+불멸대 상사 갈라진 주먹에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSC904_01039_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+불멸대 상사 갈라진 주먹에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSC904_01039_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+불멸대 상사 갈라진 주먹에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSC904_01039_TODO_06",""
 31,"TEXT_GAIUSC904_01039_TODO_07",""
 32,"TEXT_GAIUSC904_01039_TODO_08",""

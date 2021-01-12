@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA203_00726_SEQ_00","주점 '버스카론 맘대로'의 버스카론은 당장 모험가에게 부탁하고 싶은 일이 있는 듯하다."
-1,"TEXT_GAIUSA203_00726_SEQ_01","버스카론은 술에 취해 소란을 피우는 손님을 모험가가 원만하게 제지해주기를 바란다. 우선 <Sheet(EventItem,2000580,0)/><13>FF15022811FF0A4576656E744974656DF61E86C40103FF04EBA5BCFF04EC9D84</13> 가지러 가자."
+1,"TEXT_GAIUSA203_00726_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 주점 '버스카론 맘대로'에 있는 '버스카론'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSA203_00726_SEQ_02","주점 뒤편에 있는 강에 <Sheet(EventItem,2000580,0)/><13>FF15022811FF0A4576656E744974656DF61E86C40103FF04EBA5BCFF04EC9D84</13> 담그자."
 3,"TEXT_GAIUSA203_00726_SEQ_03","설치한 <Sheet(EventItem,2000580,0)/>에 물을 긷자."
 4,"TEXT_GAIUSA203_00726_SEQ_04","<Sheet(EventItem,2000581,0)/><13>FF15022811FF0A4576656E744974656DF61E86C50103FF04EBA5BCFF04EC9D84</13> 가져오자."
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSA203_00726_SEQ_21",""
 22,"TEXT_GAIUSA203_00726_SEQ_22",""
 23,"TEXT_GAIUSA203_00726_SEQ_23",""
-24,"TEXT_GAIUSA203_00726_TODO_00","<Sheet(EventItem,2000580,0)/> 입수"
-25,"TEXT_GAIUSA203_00726_TODO_01","강에 <Sheet(EventItem,2000580,0)/> 설치"
-26,"TEXT_GAIUSA203_00726_TODO_02","<Sheet(EventItem,2000580,0)/>에 물 긷기"
-27,"TEXT_GAIUSA203_00726_TODO_03","<Sheet(EventItem,2000581,0)/> 입수"
-28,"TEXT_GAIUSA203_00726_TODO_04","술 취한 중원 부족에게 <Sheet(EventItem,2000581,0)/> 사용"
-29,"TEXT_GAIUSA203_00726_TODO_05","버스카론에게 보고"
+24,"TEXT_GAIUSA203_00726_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSA203_00726_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSA203_00726_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSA203_00726_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSA203_00726_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSA203_00726_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+주점 '버스카론 맘대로'에 있는 버스카론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSA203_00726_TODO_06",""
 31,"TEXT_GAIUSA203_00726_TODO_07",""
 32,"TEXT_GAIUSA203_00726_TODO_08",""

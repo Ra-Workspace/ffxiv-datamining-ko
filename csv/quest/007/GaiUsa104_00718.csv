@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSA104_00718_SEQ_00","파파리모는 모험가가 실프족의 신뢰를 얻길 바라는 모양이다."
-1,"TEXT_GAIUSA104_00718_SEQ_01","좋은 방법이 없을지 도사 '이메디아'에게 물어보자."
+1,"TEXT_GAIUSA104_00718_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 실프 임시 주거지에 있는 '파파리모'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSA104_00718_SEQ_02","불편하게 생활하고 있는 실프족을 위해 <Sheet(BNpcName,223,0)/><13>FF1202280EFF09424E70634E616D65F0DF0103FF04EC9980FF04EAB3BC</13> <Sheet(BNpcName,2157,0)/><13>FF1302280FFF09424E70634E616D65F2086D0103FF04EBA5BCFF04EC9D84</13> 5마리 처치하자. 또 <Sheet(EventItem,2000577,0)/>도 5개 필요하다."
 3,"TEXT_GAIUSA104_00718_SEQ_03","마물을 처치하여 <Sheet(EventItem,2000577,0)/><13>FF15022811FF0A4576656E744974656DF61E86C10103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 실프 임시 주거지로 가서 '코무시오'와 이야기하자."
 4,"TEXT_GAIUSA104_00718_SEQ_04","마물을 처치하고 <Sheet(EventItem,2000577,0)/><13>FF15022811FF0A4576656E744974656DF61E86C10103FF04EBA5BCFF04EC9D84</13> 건네자 코무시오가 무척 기뻐했다. 조금이나마 신뢰를 얻은 것 같다."
@@ -25,11 +27,16 @@ int32,str,str
 21,"TEXT_GAIUSA104_00718_SEQ_21",""
 22,"TEXT_GAIUSA104_00718_SEQ_22",""
 23,"TEXT_GAIUSA104_00718_SEQ_23",""
-24,"TEXT_GAIUSA104_00718_TODO_00","이메디아와 상의"
-25,"TEXT_GAIUSA104_00718_TODO_01","<Sheet(BNpcName,223,0)/> 처치"
-26,"TEXT_GAIUSA104_00718_TODO_02","<Sheet(BNpcName,2157,0)/> 처치"
-27,"TEXT_GAIUSA104_00718_TODO_03","<Sheet(EventItem,2000577,0)/> 입수"
-28,"TEXT_GAIUSA104_00718_TODO_04","실프 임시 주거지에서 '코무시오'와 대화"
+24,"TEXT_GAIUSA104_00718_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+실프 임시 주거지에 있는 파파리모에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSA104_00718_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+실프 임시 주거지에 있는 파파리모에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSA104_00718_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+실프 임시 주거지에 있는 파파리모에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSA104_00718_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+실프 임시 주거지에 있는 파파리모에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSA104_00718_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+실프 임시 주거지에 있는 파파리모에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29,"TEXT_GAIUSA104_00718_TODO_05",""
 30,"TEXT_GAIUSA104_00718_TODO_06",""
 31,"TEXT_GAIUSA104_00718_TODO_07",""

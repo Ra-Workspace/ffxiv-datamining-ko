@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE314_01455_SEQ_00","망자의 종소리에 있는 슬라프본은 걱정거리가 있는 듯하다."
-1,"TEXT_GAIUSE314_01455_SEQ_01","슬라프본은 타타루가 곤경에 처한 게 아닌지 걱정하고 있다. 망자의 종소리 '돌의 집'에 있는 '타타루'와 대화하자."
+1,"TEXT_GAIUSE314_01455_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 돌의 집에 있는 '민필리아'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSE314_01455_SEQ_02","타타루는 '새벽의 혈맹' 운영 자금이 부족하다고 털어놓았다. 그래서 채굴로 돈을 벌기 위해 보조 도구가 필요하다고 한다. 림사 로민사 '대장장이 길드'에 가서, 길드마스터 '브리샐'에게 보조 도구를 보냈는지 물어보자."
 3,"TEXT_GAIUSE314_01455_SEQ_03","브리샐은 타타루에게 이미 물건을 보냈다고 한다. 림사 로민사 '팔분의 광장'에 있는 '까칠한 짐꾼'에게 감정 표현 '추궁'을 사용하자."
 4,"TEXT_GAIUSE314_01455_SEQ_04","추궁당한 짐꾼은 물건 배달을 깜빡했다는 걸 떠올렸다. 팔분의 광장에 있는 <Sheet(EObj,2004145,0)/><13>FF1002280CFF05454F626AF61E94B10103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
@@ -25,16 +27,24 @@ int32,str,str
 21,"TEXT_GAIUSE314_01455_SEQ_21",""
 22,"TEXT_GAIUSE314_01455_SEQ_22",""
 23,"TEXT_GAIUSE314_01455_SEQ_23",""
-24,"TEXT_GAIUSE314_01455_TODO_00","돌의 집에서 타타루와 대화"
-25,"TEXT_GAIUSE314_01455_TODO_01","대장장이 길드에서 브리샐과 대화"
-26,"TEXT_GAIUSE314_01455_TODO_02","팔분의 광장에서 까칠한 짐꾼 '/추궁'하기"
-27,"TEXT_GAIUSE314_01455_TODO_03","<Sheet(EObj,2004145,0)/> 입수"
-28,"TEXT_GAIUSE314_01455_TODO_04","돌의 집에서 프라민에게 <Sheet(EventItem,2001314,0)/> 전달"
-29,"TEXT_GAIUSE314_01455_TODO_05","대화창에 '말하기' 방식으로 '타타루'를 포함한 문장을 입력하여 
-엉킨덩굴 습지대 북동쪽 <Sheet(EObj,2004149,0)/> 부근에서 타타루 부르기"
-30,"TEXT_GAIUSE314_01455_TODO_06","타타루 구출"
-31,"TEXT_GAIUSE314_01455_TODO_07","타타루와 대화"
-32,"TEXT_GAIUSE314_01455_TODO_08","돌의 집에서 타타루와 대화"
+24,"TEXT_GAIUSE314_01455_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+돌의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE314_01455_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+돌의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE314_01455_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+돌의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE314_01455_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+돌의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSE314_01455_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+돌의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSE314_01455_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+돌의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+30,"TEXT_GAIUSE314_01455_TODO_06","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+돌의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+31,"TEXT_GAIUSE314_01455_TODO_07","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+돌의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+32,"TEXT_GAIUSE314_01455_TODO_08","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+돌의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 33,"TEXT_GAIUSE314_01455_TODO_09",""
 34,"TEXT_GAIUSE314_01455_TODO_10",""
 35,"TEXT_GAIUSE314_01455_TODO_11",""

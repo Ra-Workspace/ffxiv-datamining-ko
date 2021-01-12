@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSE113_01187_SEQ_00","모래의 집에 있는 타타루는 찾는 것이 있는 모양이다."
-1,"TEXT_GAIUSE113_01187_SEQ_01","본부 이전 준비로 바쁜 사람들에게 약차를 주려 하는 타타루. 커르다스 중앙고지 '용머리 전진기지'에 있는 '메드기스틀'과 대화하자."
+1,"TEXT_GAIUSE113_01187_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 망자의 종소리에 있는 '슬라프본'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSE113_01187_SEQ_02","<Sheet(EventItem,2001081,0)/><13>FF15022811FF0A4576656E744974656DF61E88B90103FF04EAB080FF04EC9DB4</13> 마침 다 떨어졌다고 한다. 용머리 전진기지에 있는 술집 주인 '이매뉴얼'과 대화하자."
 3,"TEXT_GAIUSE113_01187_SEQ_03","이매뉴얼이 말하기로는, <Sheet(EventItem,2001081,0)/><13>FF15022811FF0A4576656E744974656DF61E88B90103FF04EBA5BCFF04EC9D84</13> 따는 곳에 마물이 나타나는 바람에 찻잎을 구할 수가 없다고 한다. 용머리 전진기지 남서쪽에 있는 <Sheet(EObj,2002854,0)/><13>FF1002280CFF05454F626AF61E8FA60103FF04EBA5BCFF04EC9D84</13> 조사하고 <Sheet(EventItem,2001081,0)/><13>FF15022811FF0A4576656E744974656DF61E88B90103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
 4,"TEXT_GAIUSE113_01187_SEQ_04","<Sheet(EventItem,2001081,0)/><13>FF15022811FF0A4576656E744974656DF61E88B90103FF04EBA5BCFF04EC9D84</13> 무사히 손에 넣었다. 모래의 집에 있는 '타타루'에게 <Sheet(EventItem,2001081,0)/><13>FF15022811FF0A4576656E744974656DF61E88B90103FF04EBA5BCFF04EC9D84</13> 건네자."
@@ -25,10 +27,14 @@ int32,str,str
 21,"TEXT_GAIUSE113_01187_SEQ_21",""
 22,"TEXT_GAIUSE113_01187_SEQ_22",""
 23,"TEXT_GAIUSE113_01187_SEQ_23",""
-24,"TEXT_GAIUSE113_01187_TODO_00","용머리 전진기지에서 메드기스틀과 대화"
-25,"TEXT_GAIUSE113_01187_TODO_01","이매뉴얼과 대화"
-26,"TEXT_GAIUSE113_01187_TODO_02","<Sheet(EObj,2002854,0)/><13>FF1002280CFF05454F626AF61E8FA60103FF04EBA5BCFF04EC9D84</13> 조사하고 <Sheet(EventItem,2001081,0)/> 입수"
-27,"TEXT_GAIUSE113_01187_TODO_03","모래의 집에서 타타루에게 <Sheet(EventItem,2001081,0)/> 전달"
+24,"TEXT_GAIUSE113_01187_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 슬라프본에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSE113_01187_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 슬라프본에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSE113_01187_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 슬라프본에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSE113_01187_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 슬라프본에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 28,"TEXT_GAIUSE113_01187_TODO_04",""
 29,"TEXT_GAIUSE113_01187_TODO_05",""
 30,"TEXT_GAIUSE113_01187_TODO_06",""

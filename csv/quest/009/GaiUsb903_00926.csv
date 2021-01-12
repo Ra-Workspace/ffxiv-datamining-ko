@@ -2,7 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB903_00926_SEQ_00","하얀테 전초지의 니비는 아주 난감한 상황에 처한 듯하다."
-1,"TEXT_GAIUSB903_00926_SEQ_01","아유나르트 가에 보내는 아주 중요한 편지가 바람에 날아가 버렸다고 한다. 하얀테 전초지 남쪽 벼랑에서 <Sheet(EventItem,2000723,0)/><13>FF15022811FF0A4576656E744974656DF61E87530103FF04EBA5BCFF04EC9D84</13> 찾자."
+1,"TEXT_GAIUSB903_00926_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 하기 NPC에게 다시 받아주십시오. 받을 수 있는 퀘스트는 진행 상황에 따라 다릅니다.
+하얀테 전초지에 있는 '오스트포르'
+하얀테 전초지에 있는 '시드'<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSB903_00926_SEQ_02","<Sheet(EventItem,2000723,0)/><13>FF15022811FF0A4576656E744974656DF61E87530103FF04EBA5BCFF04EC9D84</13> 찾았다. '하얀테 전초지'에 있는 '드리유몽'에게 가져다주자."
 3,"TEXT_GAIUSB903_00926_SEQ_03","드리유몽에게 편지를 전했지만 패배자가 세운 전략이라며 비웃는 데 그쳤다. '니비'에게 보고하자."
 4,"TEXT_GAIUSB903_00926_SEQ_04","여러 차례 패배하며 전력을 잃은 아유나르트 가를 다른 가문 사람들은 무척 업신여기는 것 같다. 여기까지 와서 포기할 수는 없다. 돌방패 경계초소에 들어갈 수 있도록 하나씩 믿음을 쌓아나가자."
@@ -25,9 +29,12 @@ int32,str,str
 21,"TEXT_GAIUSB903_00926_SEQ_21",""
 22,"TEXT_GAIUSB903_00926_SEQ_22",""
 23,"TEXT_GAIUSB903_00926_SEQ_23",""
-24,"TEXT_GAIUSB903_00926_TODO_00","<Sheet(EventItem,2000723,0)/> 찾기"
-25,"TEXT_GAIUSB903_00926_TODO_01","드리유몽에게 <Sheet(EventItem,2000723,0)/> 전달"
-26,"TEXT_GAIUSB903_00926_TODO_02","니비에게 보고"
+24,"TEXT_GAIUSB903_00926_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+퀘스트를 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB903_00926_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+퀘스트를 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSB903_00926_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+퀘스트를 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSB903_00926_TODO_03",""
 28,"TEXT_GAIUSB903_00926_TODO_04",""
 29,"TEXT_GAIUSB903_00926_TODO_05",""

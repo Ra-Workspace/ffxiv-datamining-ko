@@ -2,7 +2,11 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSB902_00925_SEQ_00","하얀테 전초지의 베네딕트는 모험가에게 맡기고 싶은 일이 있는 듯하다."
-1,"TEXT_GAIUSB902_00925_SEQ_01","폐쇄적인 뒤랑데르 가에서 믿음을 얻으려면 상당한 노력이 필요하다고 한다. <Sheet(BNpcName,784,0)/> 5마리를 물리치자."
+1,"TEXT_GAIUSB902_00925_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 하기 NPC에게 다시 받아주십시오. 받을 수 있는 퀘스트는 진행 상황에 따라 다릅니다.
+하얀테 전초지에 있는 '오스트포르'
+하얀테 전초지에 있는 '시드'<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSB902_00925_SEQ_02","<Sheet(BNpcName,784,0)/><13>FF1302280FFF09424E70634E616D65F203100103FF04EBA5BCFF04EC9D84</13> 물리쳤다. 하얀테 전초지에 있는 '클로테리옹'에게 보고하자."
 3,"TEXT_GAIUSB902_00925_SEQ_03","클로테리옹은 모험가의 활약을 인정하긴 했지만, 표정이 썩 좋진 않았다. 전초지 사람들은 역시 외부인의 도움을 받는 게 싫은 것 같다……."
 4,"TEXT_GAIUSB902_00925_SEQ_04",""
@@ -25,8 +29,10 @@ int32,str,str
 21,"TEXT_GAIUSB902_00925_SEQ_21",""
 22,"TEXT_GAIUSB902_00925_SEQ_22",""
 23,"TEXT_GAIUSB902_00925_SEQ_23",""
-24,"TEXT_GAIUSB902_00925_TODO_00","<Sheet(BNpcName,784,0)/> 처치"
-25,"TEXT_GAIUSB902_00925_TODO_01","클로테리옹에게 보고"
+24,"TEXT_GAIUSB902_00925_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+퀘스트를 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSB902_00925_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+퀘스트를 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 26,"TEXT_GAIUSB902_00925_TODO_02",""
 27,"TEXT_GAIUSB902_00925_TODO_03",""
 28,"TEXT_GAIUSB902_00925_TODO_04",""

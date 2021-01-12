@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_MANFST203_00675_SEQ_00","물에 빠진 돌고래 주점의 바데론이 솜씨 좋은 모험가를 찾고 있는 듯하다."
-1,"TEXT_MANFST203_00675_SEQ_01","바데론은 모험가에게 '사스타샤 침식 동굴'에 나타난 수상한 자를 조사해달라고 했다. 하층 갑판 선착장에 있는 '바멜파'에게 사스타샤 침식 동굴로 가는 길을 물어보자."
+1,"TEXT_MANFST203_00675_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 물에 빠진 돌고래 주점에 있는 '바데론'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_MANFST203_00675_SEQ_02","맥주 항구 북쪽으로 가서 사스타샤 침식 동굴 앞에 있는 '노란셔츠 경비병'과 얘기해보자."
 3,"TEXT_MANFST203_00675_SEQ_03","노란셔츠는 사스타샤 침식 동굴에 수상한 사내들이 드나든다는 정보를 받고, 사하긴족과 해적단 '바다뱀의 혀'에 대한 경계를 강화한 것 같다. 수상한 사내들이 누군지 알아내기 위해 '사스타샤 침식 동굴'을 조사하자.
 
@@ -27,10 +29,14 @@ int32,str,str
 21,"TEXT_MANFST203_00675_SEQ_21",""
 22,"TEXT_MANFST203_00675_SEQ_22",""
 23,"TEXT_MANFST203_00675_SEQ_23",""
-24,"TEXT_MANFST203_00675_TODO_00","선착장에서 바멜파와 대화"
-25,"TEXT_MANFST203_00675_TODO_01","사스타샤 침식 동굴에서 노란셔츠 경비병과 대화"
-26,"TEXT_MANFST203_00675_TODO_02","'사스타샤 침식 동굴' 공략"
-27,"TEXT_MANFST203_00675_TODO_03","물에 빠진 돌고래 주점에서 바데론과 대화"
+24,"TEXT_MANFST203_00675_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+물에 빠진 돌고래 주점에 있는 바데론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_MANFST203_00675_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+물에 빠진 돌고래 주점에 있는 바데론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_MANFST203_00675_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+물에 빠진 돌고래 주점에 있는 바데론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_MANFST203_00675_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+물에 빠진 돌고래 주점에 있는 바데론에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 28,"TEXT_MANFST203_00675_TODO_04",""
 29,"TEXT_MANFST203_00675_TODO_05",""
 30,"TEXT_MANFST203_00675_TODO_06",""
@@ -217,7 +223,7 @@ int32,str,str
 119,"TEXT_MANFST203_00675_TALK_SCENE00005_000","안녕하세요~"
 120,"TEXT_MANFST203_00675_TALK_SCENE00006_000","안녕하세요~"
 121,"TEXT_MANFST203_00675_TALK_SCENE00007_000","안녕하세요~"
-122,"TEXT_MANFST203_00675_TALK_SCENE00008_000","「サスタシャ浸食洞」で『サハギン』を倒すの仮"
+122,"TEXT_MANFST203_00675_TALK_SCENE00008_000","'사스타샤 침식 동굴'에서 '사하긴' 처치(가)"
 123,"TEXT_MANFST203_00675_TALK_SCENE00009_000","안녕하세요~"
 124,"TEXT_MANFST203_00675_TALK_SCENE00010_000","안녕하세요~"
 125,"TEXT_MANFST203_00675_TALK_SCENE00011_000","안녕하세요~"

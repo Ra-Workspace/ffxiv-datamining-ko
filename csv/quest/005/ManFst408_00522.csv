@@ -274,7 +274,19 @@ int32,str,str
 어머니 크리스탈에게 인도받은 영웅이라고 믿어요."
 158,"TEXT_MANFST408_00522_101030_MINFILIA","자, 여러분!
 신들에게 사랑받은 땅, 에오르제아를 구하러 가요!"
-159,"TEXT_MANFST408_00522_ELYENORA_050_100","울다하 비공정 승강장 로비에 들어가시겠습니까?"
-160,"TEXT_MANFST408_00522_Q2_000_100","로비로 이동하시겠습니까?"
-161,"TEXT_MANFST408_00522_A2_000_101","예"
-162,"TEXT_MANFST408_00522_A2_000_102","아니요"
+159,"TEXT_MANFST408_00522_MINFILIA_000_030","……그런데 당신은 '내 초코보'를 갖고 있나요?
+이 작전에서는 먼 길을 이동해야 하기 때문에
+발 빠른 초코보가 필요한 경우도 있을 거예요."
+160,"TEXT_MANFST408_00522_MINFILIA_000_031","아직 갖고 있지 않다면
+작전이 시작되기 전에 입수해 주세요.
+총사령부에서 지급받을 수 있을 거예요."
+161,"TEXT_MANFST408_00522_SISTEM_000_032","주요 퀘스트를 진행하려면
+다음 퀘스트를 완료해야 합니다.
+드디어 내 초코보를!（<If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If>）"
+162,"TEXT_MANFST408_00522_SISTEM_000_040","퀘스트 드디어 내 초코보를!（<If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If>）은
+<If(GreaterThan(PlayerParameter(52),0))>흑와단 군령부의 '르아샤 대령'에게<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당 통합사령부의 '보르셀 대령'에게<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대 작전본부의 '스위프트 대령'에게<Else/></If>
+받을 수 있습니다."
+163,"TEXT_MANFST408_00522_ELYENORA_050_100","울다하 비공정 승강장 로비에 들어가시겠습니까?"
+164,"TEXT_MANFST408_00522_Q2_000_100","로비로 이동하시겠습니까?"
+165,"TEXT_MANFST408_00522_A2_000_101","예"
+166,"TEXT_MANFST408_00522_A2_000_102","아니요"

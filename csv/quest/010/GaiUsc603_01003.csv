@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC603_01003_SEQ_00","망자의 종소리의 사르크 마우르크는 구하는 물건이 있는 듯하다."
-1,"TEXT_GAIUSC603_01003_SEQ_01","사르크 마우르크가 제국군 장비를 구해달라고 했다. <Sheet(BNpcName,1813,0)/>, <Sheet(BNpcName,1812,0)/>, <Sheet(BNpcName,1811,0)/> 중 하나를 처치하고 <Sheet(EventItem,2000767,0)/><13>FF15022811FF0A4576656E744974656DF61E877F0103FF04EBA5BCFF04EC9D84</13> 손에 넣자. 또 <Sheet(BNpcName,1809,0)/> 또는 <Sheet(BNpcName,1810,0)/><13>FF1302280FFF09424E70634E616D65F207120103FF04EBA5BCFF04EC9D84</13> 처치하고 <Sheet(EventItem,2000768,0)/><13>FF15022811FF0A4576656E744974656DF61E87800103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
+1,"TEXT_GAIUSC603_01003_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 망자의 종소리에 있는 '사르크 마우르크'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSC603_01003_SEQ_02","제국군 장비를 모두 손에 넣었다. 망자의 종소리에 있는 '사르크 마우르크'에게 <Sheet(EventItem,2000767,0)/><13>FF15022811FF0A4576656E744974656DF61E877F0103FF04EC9980FF04EAB3BC</13> <Sheet(EventItem,2000768,0)/><13>FF15022811FF0A4576656E744974656DF61E87800103FF04EBA5BCFF04EC9D84</13> 보여주자."
 3,"TEXT_GAIUSC603_01003_SEQ_03","사르크 마우르크는 손상된 장비를 입고 있으면 의심을 살 것이라고 지적했다. 울다하 '재봉사 길드'에 있는 '이셀와인'에게 <Sheet(EventItem,2000767,0)/><13>FF15022811FF0A4576656E744974656DF61E877F0103FF04EBA5BCFF04EC9D84</13>, 림사 로민사 '갑주제작사 길드'에 있는 '하난자'에게 <Sheet(EventItem,2000768,0)/><13>FF15022811FF0A4576656E744974656DF61E87800103FF04EBA5BCFF04EC9D84</13> 수선해달라고 부탁하자."
 4,"TEXT_GAIUSC603_01003_SEQ_04","수선된 장비를 손에 넣었다. 망자의 종소리로 돌아가서 '사르크 마우르크'에게 <Sheet(EventItem,2000769,0)/><13>FF15022811FF0A4576656E744974656DF61E87810103FF04EC9980FF04EAB3BC</13> <Sheet(EventItem,2000770,0)/><13>FF15022811FF0A4576656E744974656DF61E87820103FF04EBA5BCFF04EC9D84</13> 건네자."
@@ -25,12 +27,18 @@ int32,str,str
 21,"TEXT_GAIUSC603_01003_SEQ_21",""
 22,"TEXT_GAIUSC603_01003_SEQ_22",""
 23,"TEXT_GAIUSC603_01003_SEQ_23",""
-24,"TEXT_GAIUSC603_01003_TODO_00","제국 병사로부터 <Sheet(EventItem,2000767,0)/> 입수"
-25,"TEXT_GAIUSC603_01003_TODO_01","제국 병사로부터 <Sheet(EventItem,2000768,0)/> 입수"
-26,"TEXT_GAIUSC603_01003_TODO_02","사르크 마우르크에게 입수한 장비 보여주기"
-27,"TEXT_GAIUSC603_01003_TODO_03","재봉사 길드에서 이셀와인에게 <Sheet(EventItem,2000767,0)/> 전달"
-28,"TEXT_GAIUSC603_01003_TODO_04","갑주제작사 길드에서 하난자에게 <Sheet(EventItem,2000768,0)/> 전달"
-29,"TEXT_GAIUSC603_01003_TODO_05","사르크 마우르크에게 수선된 장비 전달"
+24,"TEXT_GAIUSC603_01003_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 사르크 마우르크에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC603_01003_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 사르크 마우르크에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC603_01003_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 사르크 마우르크에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSC603_01003_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 사르크 마우르크에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSC603_01003_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 사르크 마우르크에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSC603_01003_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+망자의 종소리에 있는 사르크 마우르크에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSC603_01003_TODO_06",""
 31,"TEXT_GAIUSC603_01003_TODO_07",""
 32,"TEXT_GAIUSC603_01003_TODO_08",""

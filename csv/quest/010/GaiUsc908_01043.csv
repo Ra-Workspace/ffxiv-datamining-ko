@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC908_01043_SEQ_00","청린 정제소의 불멸대 소위 에델스타인은 모험가에게 할 말이 있는 모양이다."
-1,"TEXT_GAIUSC908_01043_SEQ_01","청린 정제소에 '라우반'이 도착했다고 한다. 그와 대화하여 지시를 받자."
+1,"TEXT_GAIUSC908_01043_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 푸른안개 야영지에 있는 '불멸대 상사 갈라진 주먹'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSC908_01043_SEQ_02","라우반은 병사를 격려해줄 것을 지시했다. 청린 정제소를 돌아다니며 병사에게 감정 표현 '힘 불어넣기'를 사용하자."
 3,"TEXT_GAIUSC908_01043_SEQ_03","병사들을 격려했다. 마지막으로 '불멸대 소위 에델스타인'에게도 힘을 불어넣어 주자."
 4,"TEXT_GAIUSC908_01043_SEQ_04","에델스타인 소위도 기운이 난 것 같다. '알라미고의 성난 소'라 불리는 라우반이 등장하자, 병사들도 사기가 올랐다. 이 기세를 몰아 마지막 작전을 성공시켜 싸움을 승리로 이끌자."
@@ -25,9 +27,12 @@ int32,str,str
 21,"TEXT_GAIUSC908_01043_SEQ_21",""
 22,"TEXT_GAIUSC908_01043_SEQ_22",""
 23,"TEXT_GAIUSC908_01043_SEQ_23",""
-24,"TEXT_GAIUSC908_01043_TODO_00","라우반과 대화"
-25,"TEXT_GAIUSC908_01043_TODO_01","병사에게 '/힘내' 사용"
-26,"TEXT_GAIUSC908_01043_TODO_02","불멸대 소위 에델스타인에게 '/힘내' 사용"
+24,"TEXT_GAIUSC908_01043_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+불멸대 상사 갈라진 주먹에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC908_01043_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+불멸대 상사 갈라진 주먹에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC908_01043_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+불멸대 상사 갈라진 주먹에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 27,"TEXT_GAIUSC908_01043_TODO_03",""
 28,"TEXT_GAIUSC908_01043_TODO_04",""
 29,"TEXT_GAIUSC908_01043_TODO_05",""

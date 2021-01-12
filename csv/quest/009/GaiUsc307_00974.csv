@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC307_00974_SEQ_00","열두 신 대성당의 메르윈은 모험가에게 정보를 주려는 듯하다."
-1,"TEXT_GAIUSC307_00974_SEQ_01","우선 <Sheet(EObj,2002193,0)/>에서 기다리다가, <Sheet(BNpcName,1981,0)/><13>FF1302280FFF09424E70634E616D65F207BD0103FF04EAB080FF04EC9DB4</13> 나타나면 처치해서 <Sheet(EventItem,2000930,0)/><13>FF15022811FF0A4576656E744974656DF61E88220103FF04EBA5BCFF04EC9D84</13> 얻자."
+1,"TEXT_GAIUSC307_00974_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 맥주 항구에 있는 '시아나'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSC307_00974_SEQ_02","아직 해야 할 일이 남아 있다. <Sheet(EObj,2002194,0)/>에 <Sheet(EventItem,2000930,0)/><13>FF15022811FF0A4576656E744974656DF61E88220103FF04EBA5BCFF04EC9D84</13> 비추어보자."
 3,"TEXT_GAIUSC307_00974_SEQ_03","<Sheet(EventItem,2000752,0)/><13>FF15022811FF0A4576656E744974656DF61E87700103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 비늘바위에 있는 '티기'와 대화하자."
 4,"TEXT_GAIUSC307_00974_SEQ_04","이제 고기를 유인해낼 수 있게 되었다. <Sheet(EObj,2002195,0)/>에 <Sheet(EventItem,2000752,0)/><13>FF15022811FF0A4576656E744974656DF61E87700103FF04EBA5BCFF04EC9D84</13> 써서 <Sheet(BNpcName,1982,0)/><13>FF1302280FFF09424E70634E616D65F207BE0103FF04EAB080FF04EC9DB4</13> 나타나면, 처치하여 <Sheet(EventItem,2000753,0)/><13>FF15022811FF0A4576656E744974656DF61E87710103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
@@ -25,12 +27,16 @@ int32,str,str
 21,"TEXT_GAIUSC307_00974_SEQ_21",""
 22,"TEXT_GAIUSC307_00974_SEQ_22",""
 23,"TEXT_GAIUSC307_00974_SEQ_23",""
-24,"TEXT_GAIUSC307_00974_TODO_00","<Sheet(EObj,2002193,0)/>에서 기다리다가 <Sheet(BNpcName,1981,0)/> 처치 후 <Sheet(EventItem,2000930,0)/> 입수"
-25,"TEXT_GAIUSC307_00974_TODO_01","<Sheet(EObj,2002194,0)/>에 <Sheet(EventItem,2000930,0)/><13>FF15022811FF0A4576656E744974656DF61E88220103FF04EBA5BCFF04EC9D84</13> 비추어 <Sheet(EventItem,2000752,0)/> 입수"
-26,"TEXT_GAIUSC307_00974_TODO_02","티기와 대화"
-27,"TEXT_GAIUSC307_00974_TODO_03","<Sheet(EObj,2002195,0)/>에 <Sheet(EventItem,2000752,0)/> 사용 후 <Sheet(BNpcName,1982,0)/><13>FF1302280FFF09424E70634E616D65F207BE0103FF04EBA5BCFF04EC9D84</13> 처치하여 
-<Sheet(EventItem,2000753,0)/> 입수"
-28,"TEXT_GAIUSC307_00974_TODO_04","그리다니아 구시가지에서 헤딘에게 <Sheet(EventItem,2000753,0)/> 전달"
+24,"TEXT_GAIUSC307_00974_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+맥주 항구에 있는 시아나에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC307_00974_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+맥주 항구에 있는 시아나에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC307_00974_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+맥주 항구에 있는 시아나에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSC307_00974_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+맥주 항구에 있는 시아나에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSC307_00974_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+맥주 항구에 있는 시아나에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 29,"TEXT_GAIUSC307_00974_TODO_05",""
 30,"TEXT_GAIUSC307_00974_TODO_06",""
 31,"TEXT_GAIUSC307_00974_TODO_07",""
