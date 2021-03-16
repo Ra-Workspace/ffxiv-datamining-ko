@@ -493,24 +493,24 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 339,"<CommandIcon(11)/>적용"
 340,"<CommandIcon(10)/>세부 메뉴"
 341,"<CommandIcon(10)/>세부 메뉴"
-342,""
-343,""
+342,"<CommandIcon(9)/>퍼즐 더미로 돌아가기"
+343,"<CommandIcon(9)/>닫기 버튼으로"
 344,""
 345,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>실행"
-346,""
+346,"<CommandIcon(8)/>사용하기  <CommandIcon(11)/>전과 정보로 돌아가기"
 347,"<CommandIcon(7)/>이동  <CommandIcon(8)/>패널 뒤집기"
-348,""
-349,""
-350,""
-351,""
-352,""
+348,"<CommandIcon(8)/>로스트 휴대함에 넣기  <CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>로스트 휴대함 조작"
+349,"<CommandIcon(8)/>사용하기  <CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>전과 정보로 돌아가기"
+350,"<CommandIcon(8)/>로스트 보관함에 넣기  <CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>로스트 보관함 조작"
+351,"<CommandIcon(11)/>전과 정보로 돌아가기"
+352,"<CommandIcon(11)/>로스트 보관함 조작"
 353,""
 354,""
-355,""
+355,"<CommandIcon(24)/>상세 정보 스크롤"
 356,"<CommandIcon(10)/>세부 메뉴"
 357,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>교환"
-358,""
-359,""
+358,"<CommandIcon(10)/>세부 메뉴"
+359,"<CommandIcon(10)/>지도 표시"
 360,"<CommandIcon(1)/>"
 361,"<CommandIcon(2)/>"
 362,"<CommandIcon(3)/>"
@@ -789,12 +789,47 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 연주 보조를 실행하면 합주 준비 확인을 수락하지 못하고
 강제로 '아니오'로 답변하게 됩니다.
 파티에서 합주를 할 때에는 주의하시기 바랍니다."
-1021,""
-1022,""
-1023,""
-1024,""
-1025,""
-1026,""
+1021,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>'남부 보즈야 전선'은 독자적인 규칙과 전용 시스템이 다수 포함된 임무입니다!
+임무 특징을 파악하고 갈레말 제국 제IV군단과 싸워 승리합시다!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>0F</UIForeground>※ 다음 페이지부터 '남부 보즈야 전선'의 특수 규칙을 설명합니다.
+설명을 잘 읽고 새로운 대규모 임무를 즐겨 주십시오.<UIForeground>01</UIForeground>"
+1022,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 임무 참가 직업의 레벨이 80으로 특수 조율됩니다!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+'남부 보즈야 전선'은 레벨 71 이상 잡으로 입장할 수 있습니다.
+임무에 입장하고 나면 레벨 80으로 특수 조율됩니다.
+또한 어떤 장비든 아이템 레벨이 최적의 상태로 조정되므로
+장비를 갖출 필요가 없습니다.
+
+<UIForeground>0F</UIForeground>※ 임무 안에서는 레벨 80까지의 기술을 모두 사용할 수 있습니다.<UIForeground>01</UIForeground>"
+1023,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 전과를 거두어 레지스탕스 랭크를 올리세요!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+'남부 보즈야 전선'에서는 임무 안에서만 적용되는 '레지스탕스 랭크'가 존재합니다.
+'전과'는 '돌발 교전' 및 '비상 교전'이라고 불리는
+작전에 참가하여 일정 이상 평가를 얻으면 올라갑니다.
+
+<UIForeground>0F</UIForeground>※ 전과는 적을 쓰러뜨리는 것만으로는 얻을 수 없습니다.
+교전을 완료했을 때에만 얻을 수 있으니 주의하세요!<UIForeground>01</UIForeground>"
+1024,"어느 정도 전과가 모이면 거점으로 돌아가
+'저항군 사령부 장교(랭크 담당자)'에게 보고하세요.
+일정 이상의 전과를 모으면 레지스탕스 랭크를 올릴 수 있습니다.
+
+레지스탕스 랭크가 일정 수치에 도달하면 퀘스트를 진행할 수 있으며, 행동 범위가 넓어집니다.
+유리하게 활동하려면 레지스탕스 랭크를 적극적으로 올리세요.
+
+<UIForeground>0F</UIForeground>※ 레지스탕스 랭크는 전과를 보고하기 전에는 올라가지 않습니다.
+전과를 모은 다음 장교에게 보고하는 것을 잊지 마세요!<UIForeground>01</UIForeground>"
+1025,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 전투 직업 레벨링에 활용하세요!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+'돌발 교전'과 '비상 교전'을 완료하면 전과와 더불어 경험치도 얻을 수 있습니다.
+
+직업 레벨은 전과와 달리 보고할 필요가 없으며 평소처럼 자동으로 레벨이 올라갑니다.
+
+레벨 80 미만인 직업이 있다면 보즈야 전선에서 레벨을 올려 보세요."
+1026,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 모르겠다 싶을 때에는……<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+기타 규칙과 시스템은 강고스에 있는 '셰로슈'나 보즈야 전선에 있는 NPC들이 설명해 줍니다.
+모르는 게 생기면 NPC를 찾아가 보세요!"
 1027,""
 1028,""
 1029,""

@@ -62,7 +62,7 @@ int32,str,str
 50,"TEXT_LUCKSA051_03845_Q1_800_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 레지스탕스 웨폰을 만드시겠습니까?"
 51,"TEXT_LUCKSA051_03845_A1_800_000","조금 더 생각한다"
 52,"TEXT_LUCKSA051_03845_A2_800_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 레지스탕스 웨폰을 만든다"
-53,"TEXT_LUCKSA051_03845_SYSTEM_800_001","레지스탕스 웨폰을 만들 수 있는 직업으로 변경한 후
+53,"TEXT_LUCKSA051_03845_SYSTEM_800_001","레지스탕스 웨폰을 만들고 싶은 직업으로 변경한 후
 다시 즐라탄에게 말을 거십시오."
 54,"TEXT_LUCKSA051_03845_SYSTEM_800_005","이미 <Sheet(Item,IntegerParameter(1),0)/> 및
 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
