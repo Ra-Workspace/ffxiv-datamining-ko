@@ -35,17 +35,18 @@ int32,str,str
 22,"The Dark's Embrace","아이템 제작
 주 재료: '구리종 광산' 또는 '구리종 광산(어려움)'에서 획득"
 23,"A Light in the Storm","아이템 제작
-주 재료: '시리우스 대등대' 또는 '시리우스 대등대(어려움)'에서 획득"
+주 재료: '시리우스 대등대'에서 획득"
 24,"Imagination","아이템 제작
 주 재료: '마과학 연구소'에서 획득"
 25,"Down the Up Staircase","아이템 제작
 주 재료: '거꾸로 선 탑'에서 획득"
 26,"The Scars of Battle","아이템 제작
-주 재료: '옛 암다포르 시가지' 또는 '옛 암다포르 시가지(어려움)'에서 획득"
+주 재료: '옛 암다포르 시가지'에서 획득"
 27,"Torn from the Heavens","골드 소서에서 교환"
 28,"Ultima","업적 '선율에 심취한 자: 2단계' 보상"
 29,"The Maker's Ruin","아이템 제작
-주 재료: '알테마 웨폰 파괴작전'에서 획득
+주 재료: 신생 에오르제아 주요 퀘스트와 관련된
+'??? 파괴작전'에서 획득
 (최저 아이템 레벨 조율 시 획득률 증가)"
 30,"Primal Judgment","아이템 제작
 주 재료: '극 이프리트 토벌전'에서 획득
@@ -57,7 +58,8 @@ int32,str,str
 주 재료: '극 타이탄 토벌전'에서 획득
 (최저 아이템 레벨 조율 시 획득률 증가)"
 33,"Heroes","아이템 제작
-주 재료: '극 나이츠 오브 라운드 토벌전'에서 획득
+주 재료: 창천의 이슈가르드 주요 퀘스트와 관련된
+'극 ??? 토벌전'에서 획득
 (최저 아이템 레벨 조율 시 획득률 증가)"
 34,"Fiend","아이템 제작
 주 재료: '극 마신 세피로트 토벌전'에서 획득
@@ -124,7 +126,8 @@ int32,str,str
 주 재료: '극왕 모그루 모그 XII세 토벌전'에서 획득
 (최저 아이템 레벨 조율 시 획득률 증가)"
 71,"Revenge of the Horde","아이템 제작
-주 재료: '극 니드호그 토벌전'에서 획득
+주 재료: 창천의 이슈가르드 주요 퀘스트와 관련된
+'극 ??? 토벌전'에서 획득
 (최저 아이템 레벨 조율 시 획득률 증가)"
 72,"Battle on the Big Bridge","아이템 제작
 주 재료: '길가메시 토벌전' 또는 '진 길가메시 토벌전'에서 획득"
@@ -182,8 +185,8 @@ int32,str,str
 111,"Metal - Brute Justice Mode","퀘스트 보상"
 112,"Exponential Entropy","퀘스트 보상"
 113,"Rise","퀘스트 보상"
-114,"Borderless (Duality)","쿠폰 입력으로 획득"
-115,"Unbending Steel (Duality)","쿠폰 입력으로 획득"
+114,"Borderless (Duality)","유료 구매 또는 이벤트로 획득"
+115,"Unbending Steel (Duality)","유료 구매 또는 이벤트로 획득"
 116,"The Kiss","기간 한정 이벤트 보상"
 117,"Flibbertigibbet","실프 임시 주거지에서 교환"
 118,"Piece of Mind","바스의 토굴집에서 교환"
@@ -271,18 +274,20 @@ int32,str,str
 182,"Deception","'쿠가네 성'에서 획득"
 183,"Far From Home","'스칼라 유적'에서 획득"
 184,"The Worm's Head","아이템 제작
-주 재료: '극 신룡 토벌전'에서 획득
+주 재료: 홍련의 해방자 주요 퀘스트와 관련된
+'극 ??? 토벌전'에서 획득
 (최저 아이템 레벨 조율 시 획득률 증가)"
 185,"The Worm's Tail","아이템 제작
-주 재료: '극 신룡 토벌전'에서 획득
+주 재료: 홍련의 해방자 주요 퀘스트와 관련된
+'극 ??? 토벌전'에서 획득
 (최저 아이템 레벨 조율 시 획득률 증가)"
 186,"Trisection","'왕도 라바나스터'에서 획득"
 187,"Precipitous Combat","'왕도 라바나스터'에서 획득"
 188,"Ultima's Transformation","'왕도 라바나스터'에서 획득"
 189,"Protagonist's Theme","퀘스트 보상"
 190,"Background Story","퀘스트 보상"
-191,"Ultima (Orchestral Version)","쿠폰 입력으로 획득"
-192,"Heroes (Orchestral Version)","쿠폰 입력으로 획득"
+191,"Ultima (Orchestral Version)","유료 구매 또는 이벤트로 획득"
+192,"Heroes (Orchestral Version)","유료 구매 또는 이벤트로 획득"
 193,"Starlit Gateway","기간 한정 이벤트 보상"
 194,"Babbling Brook","하우징 구역에서 판매"
 195,"Bustling Boulevard","하우징 구역에서 판매"
@@ -337,10 +342,12 @@ int32,str,str
 238,"Savage of the Ancient Forest","쿠가네에서 교환"
 239,"Proof of a Hero - Monster Hunter: World Version","'극 리오레우스 수렵전'에서 획득"
 240,"Nightbloom","아이템 제작
-주 재료: '극 츠쿠요미 토벌전'에서 획득
+주 재료: 홍련의 해방자 주요 퀘스트와 관련된
+'극 ??? 토벌전'에서 획득
 (최저 아이템 레벨 조율 시 획득률 증가)"
 241,"Wayward Daughter","아이템 제작
-주 재료: '극 츠쿠요미 토벌전'에서 획득
+주 재료: 홍련의 해방자 주요 퀘스트와 관련된
+'극 ??? 토벌전'에서 획득
 (최저 아이템 레벨 조율 시 획득률 증가)"
 242,"Rise of the White Raven (Orchestral Version)","유료 구매 또는 이벤트로 획득"
 243,"Revenge Twofold (Orchestral Version)","유료 구매 또는 이벤트로 획득"
@@ -381,12 +388,12 @@ int32,str,str
 274,"Ominous Prognisticks (Orchestral Version)","유료 구매 또는 이벤트로 획득"
 275,"From the Heavens","랄거의 손길에서 교환"
 276,"Rise of Heroes (Chiptune Version)","골드 소서에서 교환"
-277,"Wayward Daughter (Chiptune Version)","쿠폰 입력으로 획득"
-278,"The Worm's Tail (Chiptune Version)","쿠폰 입력으로 획득"
-279,"Rise (The Primals)","쿠폰 입력으로 획득"
-280,"Oblivion (GUNN Vocals)","쿠폰 입력으로 획득"
-281,"Painted Foothills (Orchestral Version)","쿠폰 입력으로 획득"
-282,"Moebius (Orchestral Version)","쿠폰 입력으로 획득"
+277,"Wayward Daughter (Chiptune Version)","유료 구매 또는 이벤트로 획득"
+278,"The Worm's Tail (Chiptune Version)","유료 구매 또는 이벤트로 획득"
+279,"Rise (The Primals)","유료 구매 또는 이벤트로 획득"
+280,"Oblivion (GUNN Vocals)","유료 구매 또는 이벤트로 획득"
+281,"Painted Foothills (Orchestral Version)","유료 구매 또는 이벤트로 획득"
+282,"Moebius (Orchestral Version)","유료 구매 또는 이벤트로 획득"
 283,"Afterglow","랄거의 손길에서 교환"
 284,"Hope Forgotten","랄거의 손길에서 교환"
 285,"The Stone Remembers","랄거의 손길에서 교환"
@@ -409,8 +416,8 @@ int32,str,str
 302,"Veiled in Black","검은솔 정류소 및 에오르제아 삼국에서 교환"
 303,"Apocalypsis Noctis","검은솔 정류소 및 에오르제아 삼국에서 교환"
 304,"A Quick Pit Stop","검은솔 정류소 및 에오르제아 삼국에서 교환"
-305,"The Worm's Tail (Journeys Version)","쿠폰 입력으로 획득"
-306,"eScape (Journeys Version)","쿠폰 입력으로 획득"
+305,"The Worm's Tail (Journeys Version)","유료 구매 또는 이벤트로 획득"
+306,"eScape (Journeys Version)","유료 구매 또는 이벤트로 획득"
 307,"The Source","레이크랜드에서 교환"
 308,"A World Divided","콜루시아 섬에서 교환"
 309,"Sands of Amber","아므 아랭에서 교환"
@@ -452,7 +459,8 @@ int32,str,str
 341,"Neath Dark Waters","템페스트에서 교환"
 342,"Pain in Pleasure","퀘스트 보상"
 343,"Invincible","아이템 제작
-주 재료: '극 하데스 토벌전'에서 획득
+주 재료: 칠흑의 반역자 주요 퀘스트와 관련된
+'극 ??? 토벌전'에서 획득
 (최저 아이템 레벨 조율 시 획득률 증가)"
 344,"The Grand Cosmos","'그랑 코스모스'에서 획득"
 345,"The Garden's Gates","일 메그에서 교환"
@@ -463,13 +471,13 @@ int32,str,str
 350,"Significance","퀘스트 보상"
 351,"City Ruins (Rays of Light)","'복제된 공장 폐허'에서 획득"
 352,"",""
-353,"Voice of no Return","퀘스트 보상"
+353,"Voice of no Return (Guitar)","퀘스트 보상"
 354,"Alien Manifestation","'복제된 공장 폐허'에서 획득"
 355,"Song of the Ancients (Atonement)","'복제된 공장 폐허'에서 획득"
 356,"Bipolar Nightmare","'복제된 공장 폐허'에서 획득"
 357,"Weight of the World (Prelude Version)","'복제된 공장 폐허'에서 획득"
-358,"Tsukuyomi's Pain (Orchestral Version)","쿠폰 입력으로 획득"
-359,"The Worm's Tail (Orchestral Version)","쿠폰 입력으로 획득"
+358,"Tsukuyomi's Pain (Orchestral Version)","유료 구매 또는 이벤트로 획득"
+359,"The Worm's Tail (Orchestral Version)","유료 구매 또는 이벤트로 획득"
 360,"Nail of the Heavens","울다하에서 교환"
 361,"Imperium","울다하에서 교환"
 362,"Blue Fields","퀘스트 보상"
@@ -520,11 +528,40 @@ int32,str,str
 399,"Broken Heart","퀘스트 보상"
 400,"Amusement Park","퀘스트 보상"
 401,"Fortress of Lies","'인형들의 군사 기지'에서 획득"
-402,"Grandma - Destruction","'인형들의 군사 기지'에서 획득"
+402,"Grandma (Destruction)","'인형들의 군사 기지'에서 획득"
 403,"End of the Unknown","'인형들의 군사 기지'에서 획득"
-404,"Torn from the Heavens/The Dark Colossus Destroys All (Medley)","'인형들의 군사 기지'에서 획득"
-405,"",""
-406,"",""
+404,"Torn from the Heavens/The Dark Colossus Destroys All (Medley Version)","'인형들의 군사 기지'에서 획득"
+405,"Neath Dark Waters (Scions & Sinners)","유료 구매 또는 이벤트로 획득"
+406,"A Long Fall (Scions & Sinners: Band)","유료 구매 또는 이벤트로 획득"
 407,"A New Hope (Piano Collections)","유료 구매 또는 이벤트로 획득"
 408,"Wailers And Waterwheels (Piano Collections)","유료 구매 또는 이벤트로 획득"
 409,"I Am the Sea (Piano Collections)","유료 구매 또는 이벤트로 획득"
+410,"",""
+411,"The Black Wolf Stalks Again","아이템 제작
+주 재료: '극 에메랄드 웨폰 파괴작전'에서 획득
+(최저 아이템 레벨 조율 시 획득률 증가)"
+412,"",""
+413,"",""
+414,"",""
+415,"",""
+416,"Freshly Glazed Porxie","'마토야의 공방'에서 획득"
+417,"Don't Be Afraid","'희망의 낙원 에덴: 재생편 2'에서 획득"
+418,"The Legendary Beast","'희망의 낙원 에덴: 재생편 3'에서 획득"
+419,"Promises to Keep","'희망의 낙원 에덴: 재생편 4'에서 획득"
+420,"The Extreme","'희망의 낙원 에덴: 재생편(영웅) 4'에서 획득"
+421,"Nemesis","잠수함 탐사로 획득"
+422,"Everywhere and Nowhere","'보물고 리예 기아 지하미궁 제전'에서 획득"
+423,"Tomorrow and Tomorrow - Reprise","'보물고 리예 기아 지하미궁'에서 획득"
+424,"Dangerous Words","'보물고 리예 기아 지하미궁'에서 획득"
+425,"Unmatching Pieces","'보물고 리예 기아 지하미궁 제전'에서 획득"
+426,"The Ludus","'할라탈리 수련장'에서 획득"
+427,"",""
+428,"",""
+429,"",""
+430,"A Fine Death","골드 소서에서 교환"
+431,"Below","'구리종 광산'에서 획득"
+432,"Dancing Calcabrina","'거꾸로 선 탑'에서 획득"
+433,"Ominous Prognisticks (Piano Collections) ","유료 구매 또는 이벤트로 획득"
+434,"Night in the Brume (Piano Collections)","유료 구매 또는 이벤트로 획득"
+435,"Painted Foothills (Piano Collections)","유료 구매 또는 이벤트로 획득"
+436,"Shuffle or Boogie","업적 '공식 기록: 1단계' 보상"

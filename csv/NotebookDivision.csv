@@ -68,9 +68,9 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1023,"아드키라",6,55,255,0,4,False,True,True,True,True,True,True,True,True
 1024,"카이 시르",6,55,255,0,5,False,True,True,True,True,True,True,True,True
 1025,"부흥 사업(1)",7,20,255,73,1,False,True,True,True,True,True,True,True,True
-1026,"기타",7,20,255,73,5,False,True,True,True,True,True,True,True,True
+1026,"기타",7,20,255,73,6,False,True,True,True,True,True,True,True,True
 1027,"부흥 사업(2)",7,20,255,73,2,False,True,True,True,True,True,True,True,True
-1028,"하늘강철 도구",7,80,255,69384,4,False,True,True,True,True,True,True,True,True
+1028,"하늘강철 도구",7,80,255,69384,5,False,True,True,True,True,True,True,True,True
 1029,"드워프족 퀘스트",5,70,255,0,4,False,True,True,True,True,True,True,True,True
 1030,"엘 투",6,55,255,0,6,False,True,True,True,True,True,True,True,True
 1031,"부흥 사업(3)",7,20,255,73,3,False,True,True,True,True,True,True,True,True
@@ -79,6 +79,7 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1034,"71-80",8,70,255,0,3,False,True,True,True,True,True,True,True,True
 1035,"장식",3,50,255,0,3,False,False,False,False,False,False,False,True,False
 1036,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
+1037,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 2000,"전승록: 커르다스",0,255,50,0,0,False,True,True,True,True,True,True,True,True
 2001,"전승록: 드라바니아",0,255,50,0,0,False,True,True,True,True,True,True,True,True
 2002,"전승록: 아발라시아",0,255,50,0,0,False,True,True,True,True,True,True,True,True
@@ -87,4 +88,6 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 2005,"전승록: 노르브란트",0,255,70,0,0,False,True,True,True,True,True,True,True,True
 2006,"이슈가르드 부흥",0,255,1,74,0,False,True,True,True,True,True,True,True,True
 2007,"하늘강철 도구",0,255,80,69384,0,False,True,True,True,True,True,True,True,True
-2008,"",0,255,255,0,0,False,True,True,True,True,True,True,True,True
+2008,"소장품 거래(1)",0,255,50,67631,0,False,True,True,True,True,True,True,True,True
+2009,"소장품 거래(2)",0,255,70,67631,0,False,True,True,True,True,True,True,True,True
+2010,"",0,255,255,0,0,False,True,True,True,True,True,True,True,True

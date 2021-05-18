@@ -30,12 +30,19 @@ int32,str,str
 14,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_505","'승선 접수' 시간이 아니므로 접수되지 않았습니다.
 다음 접수 시작 시각은
 '성취호 운행 시간표'에서 확인할 수 있습니다."
-15,"TEXT_CTSIKDENTRANCE_00663_TALK_ACTOR","（★未使用／削除予定★）"
-16,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_005","（★未使用／削除予定★）"
-17,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_010","（★未使用／削除予定★）"
-18,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_000","（★未使用／削除予定★）"
-19,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_001","（★未使用／削除予定★）"
-20,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_002","（★未使用／削除予定★）"
-21,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_010","（★未使用／削除予定★）"
-22,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_001","（★未使用／削除予定★）"
-23,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_000","●乗船受付時間外（次回の受付開始まで：<Value>IntegerParameter(1)</Value>s）"
+15,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_600","죄송합니다!
+조건이 맞지 않아 승선할 수 없습니다.
+괜찮으시다면 다음 항해에 참가해 주세요."
+16,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_605","지난번 먼바다 낚시에서 도중에 퇴장했기 때문에
+접수하지 못했습니다. 다음 접수 시작 시각은
+'성취호 운행 시간표'에서 확인할 수 있습니다."
+17,"TEXT_CTSIKDENTRANCE_00663_TALK_ACTOR","（★未使用／削除予定★）"
+18,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_005","（★未使用／削除予定★）"
+19,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_010","（★未使用／削除予定★）"
+20,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_000","（★未使用／削除予定★）"
+21,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_001","（★未使用／削除予定★）"
+22,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_002","（★未使用／削除予定★）"
+23,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_010","（★未使用／削除予定★）"
+24,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_001","（★未使用／削除予定★）"
+25,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_000","승선 접수 시간이 아닙니다
+다음 접수 시작: <Value>IntegerParameter(1)</Value>s"

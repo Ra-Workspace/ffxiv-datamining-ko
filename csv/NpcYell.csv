@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10
-#,,,,,,OutputType,BalloonTime,IsBalloonSlow,BattleTalkTime,Text,
-int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
+#,,,,,,OutputType,BalloonTime,IsBalloonSlow,BattleTalkTime,,Text
+int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 0,0,2,False,False,False,1,1,False,False,1,"0"
 1,0,2,False,False,False,3,1,False,False,1,"0"
 2,0,2,False,False,False,3,5,False,False,1,"누구 없어? 나 좀 도와줘!"
@@ -5026,8 +5026,8 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 4177,0,2,False,False,False,2,3,False,False,1,"으케케케케…
 정말 즐거워!"
 4178,0,2,False,False,False,2,3,False,False,1,"여기는 못 지나가개굴!"
-4179,0,2,False,False,False,2,3,False,False,1,"도둑개굴?
-물리친다개굴!"
+4179,0,2,False,False,False,2,3,False,False,1,"도둑개골?
+물리친다개골!"
 4180,0,2,False,False,False,2,3,False,False,1,"여기까지 올 줄이야…!"
 4181,0,2,False,False,False,2,3,False,False,1,"호~홋홋!"
 4182,0,2,False,False,False,2,3,False,False,1,"홋홋~!"
@@ -7339,7 +7339,7 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 5852,0,2,False,False,False,2,4,False,False,1,"그럼…
 나는 대체 무엇을…?"
 5853,0,2,False,False,False,5,1,False,False,5,"여기는 대체 어디냐……？
-나는 어째서 이런 곳을 헤메고 있느냐……."
+나는 어째서 이런 곳을 헤매고 있느냐……."
 5854,0,2,False,False,False,5,1,False,False,5,"으으으으으으…… 또……
 또 머리가 깨질 듯이 아프구나……!"
 5855,0,2,False,False,False,5,1,False,False,5,"여보게, 무슨 일인가?
@@ -12345,13 +12345,13 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 9303,0,2,False,False,False,2,3,False,False,1,"어느 광주리에 무엇이 들었을까?"
 9304,0,2,False,False,False,3,5,False,False,1,"어이, 기다려!"
 9305,0,2,False,False,False,3,5,False,False,1,"다이텐산의 영험한 샘물로 만든
-움직이는 떡이 섞여 들어왔어!"
+움직이는 떡이 섞여 있어!"
 9306,0,2,False,False,False,3,5,False,False,1,"뭐라고!?
 떡 찧기를 멈춰야 해…!"
 9307,0,2,False,False,False,5,1,False,False,5,"이런, 소머리가 움직이는 떡 때문에 놀라서 흥분했어!
 이렇게 된 이상 서둘러서 강신떡을 썰어야 해!"
-9308,0,2,False,False,False,2,3,False,False,1,"작년에 왔던 움직이는 강신떡이
-아직 남아 있었다는 말인가…"
+9308,0,2,False,False,False,2,3,False,False,1,"지난번 그 움직이는 강신떡이
+아직 남아 있었나…"
 9309,0,2,False,False,False,5,1,False,False,4,"놀이는 이쯤에서 끝내야겠군……
 참마도의 진정한 힘을 보여주마~!"
 9310,0,2,False,False,False,5,1,False,False,4,"이런, 살아남은 자가 있을 줄이야……
@@ -12364,8 +12364,8 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 쓱쓱 싹싹"
 9314,0,2,False,False,False,2,3,False,False,1,"청소 너무 좋아
 쓱쓱 싹싹"
-9315,0,2,False,False,False,2,3,False,False,1,"음메~!!"
-9316,0,2,False,False,False,2,3,False,False,1,"음메에에!!!"
+9315,0,2,False,False,False,2,3,False,False,1,"음머~!!"
+9316,0,2,False,False,False,2,3,False,False,1,"음머어어어!!!"
 9317,0,2,False,False,False,2,3,False,False,1,"!?"
 9318,0,2,False,False,False,2,3,False,False,1,"깨끗하게 청소!
 쓱쓱 싹싹!"
@@ -12528,21 +12528,21 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 이제 힘을 쓰고 싶지 않아…"
 9418,0,2,False,False,False,3,4,True,False,1,"으으… 나… 나는…
 외톨이야…"
-9419,0,2,False,False,False,2,3,False,False,1,"이거 참, 어처구니없는
-일이 벌어졌군…!"
+9419,0,2,False,False,False,2,3,False,False,1,"이거 참, 어처구니없는 일이
+벌어지고 말았군…!"
 9420,0,2,False,False,False,3,3,False,False,1,"진정해~!"
-9421,0,2,False,False,False,3,3,False,False,1,"음메~!"
-9422,0,2,False,False,False,3,3,False,False,1,"워워
-진정하라고~!"
+9421,0,2,False,False,False,3,3,False,False,1,"음머~!"
+9422,0,2,False,False,False,3,3,False,False,1,"착하지
+제발 진정해~!"
 9423,0,2,False,False,False,3,3,False,False,1,"제정신을 차린 모양이군…
 자, 돌아갈까?"
 9424,0,2,False,False,False,3,3,False,False,1,"손을 댈 수가 없어…
 일단 물러나자!"
 9425,0,2,False,False,False,2,3,False,False,1,"움직이는 떡만
-썰 수 있다면…"
-9426,0,2,False,False,False,2,3,False,False,1,"부탁이니까
-소머리는 다치게 하지 말아줘!"
-9427,0,2,False,False,False,2,3,False,False,1,"혼란에 빠진 소머리의 공격은
+썰어버릴 수 있다면…"
+9426,0,2,False,False,False,2,3,False,False,1,"부디 소머리는
+다치게 하지 말아줘!"
+9427,0,2,False,False,False,2,3,False,False,1,"혼란에 빠진 소머리의 공격을
 조심해야 해!"
 9428,0,2,False,False,False,5,1,False,False,4,"얼~쑤!
 조금 더 날뛰어 볼까~!"
@@ -12855,18 +12855,30 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 성질이 사나운 녀석이 있어!"
 9641,9357,2,False,False,False,3,5,False,False,1,"눈보라가 휘날릴 때
 잘 잡히는 귀한 물고기가 있어"
-9642,0,2,False,False,False,1,1,False,False,1,"0"
-9643,0,2,False,False,False,1,1,False,False,1,"0"
-9644,0,2,False,False,False,1,1,False,False,1,"0"
-9645,0,2,False,False,False,1,1,False,False,1,"0"
-9646,0,2,False,False,False,1,1,False,False,1,"0"
-9647,0,2,False,False,False,1,1,False,False,1,"0"
-9648,0,2,False,False,False,1,1,False,False,1,"0"
-9649,0,2,False,False,False,1,1,False,False,1,"0"
-9650,0,2,False,False,False,1,1,False,False,1,"0"
-9651,0,2,False,False,False,1,1,False,False,1,"0"
-9652,0,2,False,False,False,1,1,False,False,1,"0"
-9653,0,2,False,False,False,1,1,False,False,1,"0"
+9642,9357,2,False,False,False,3,5,False,False,1,"번개에 공명하는 듯이
+활발하게 헤엄치는 물고기가 있다더군"
+9643,9357,2,False,False,False,3,5,False,False,1,"환해류를 만나고 싶다면
+작은 물고기를 노리는 게 좋을 거야"
+9644,9357,2,False,False,False,3,5,False,False,1,"이 해역에 얽힌 전설에 따르면
+밤이 되면 신비한 괴물이 배를 습격한대…"
+9645,9357,2,False,False,False,3,5,False,False,1,"이 근처에서는 오징어가 안 잡혀
+뭔가가 잡아먹나봐…"
+9646,9357,2,False,False,False,3,5,False,False,1,"젠장, 빗발이 세차군
+녀석이 활동을 시작했나…"
+9647,9357,2,False,False,False,3,5,False,False,1,"중형 물고기용 미끼로
+녀석을 노려봐"
+9648,9357,2,False,False,False,3,5,False,False,1,"아침에 묘한 생물을 봤어
+그런 게 바다에 살 줄이야…"
+9649,9357,2,False,False,False,3,5,False,False,1,"작은 벌레를 미끼로 쓰면
+희귀한 생물이 걸릴지도 몰라"
+9650,9357,2,False,False,False,3,5,False,False,1,"번개가 엄청나군
+녀석의 사냥이 시작됐나…"
+9651,9357,2,False,False,False,3,5,False,False,1,"이 해역에서는 조심해
+크고 사나운 녀석이 있어!"
+9652,9357,2,False,False,False,3,5,False,False,1,"해질녘에 이상한 소리가 들려
+무언가를 씹어 부수는 듯한…"
+9653,9357,2,False,False,False,3,5,False,False,1,"이 근처 해변에는
+부서진 조개 껍데기가 잔뜩 널려 있대"
 9654,0,2,False,False,False,1,1,False,False,1,"0"
 9655,0,2,False,False,False,1,1,False,False,1,"0"
 9656,0,2,False,False,False,1,1,False,False,1,"0"
@@ -14691,16 +14703,24 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 10822,0,0,False,False,False,0,0,False,False,0,""
 10823,0,0,False,False,False,0,0,False,False,0,""
 10824,0,0,False,False,False,0,0,False,False,0,""
-10825,0,0,False,False,False,0,0,False,False,0,""
-10826,0,0,False,False,False,0,0,False,False,0,""
-10827,0,0,False,False,False,0,0,False,False,0,""
-10828,0,0,False,False,False,0,0,False,False,0,""
-10829,0,0,False,False,False,0,0,False,False,0,""
-10830,0,0,False,False,False,0,0,False,False,0,""
-10831,0,0,False,False,False,0,0,False,False,0,""
-10832,0,0,False,False,False,0,0,False,False,0,""
-10833,0,0,False,False,False,0,0,False,False,0,""
-10834,0,0,False,False,False,0,0,False,False,0,""
+10825,0,2,False,False,False,4,1,False,False,4,"비밀의 제전에 잘 오셨습니다!
+보물이 걸린 끝없는 축제를 즐겨봅시다!"
+10826,0,2,False,False,False,4,1,False,False,4,"그럼 바로……
+소소한 환혹으로써 우리 만남을 장식하도록 하지요!"
+10827,0,2,False,False,False,2,3,False,False,1,"우후후…
+피할 수 있을까?"
+10828,0,2,False,False,False,2,3,False,False,1,"먼지가 잔뜩
+쓱쓱 싹싹"
+10829,0,2,False,False,False,2,3,False,False,1,"일이 늘었어
+쓱쓱 싹싹"
+10830,0,2,False,False,False,2,3,False,False,1,"후닥닥, 척척척
+쓱쓱 싹싹"
+10831,0,2,False,False,False,4,1,False,False,4,"크앙크앙, 크앙~!"
+10832,0,2,False,False,False,4,1,False,False,5,"크앙크앙, 크앙크앙크앙크앙!"
+10833,0,2,False,False,False,4,1,False,False,4,"어이쿠?!
+내가 소환될 줄이야……!"
+10834,0,2,False,False,False,4,1,False,False,5,"브라보!
+아무래도 너희는 굉장한 행운아인가봐!"
 10835,0,0,False,False,False,0,0,False,False,0,""
 10836,0,0,False,False,False,0,0,False,False,0,""
 10837,0,0,False,False,False,0,0,False,False,0,""
@@ -14720,14 +14740,14 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 10851,0,0,False,False,False,0,0,False,False,0,""
 10852,0,0,False,False,False,0,0,False,False,0,""
 10853,0,0,False,False,False,0,0,False,False,0,""
-10854,0,0,False,False,False,0,0,False,False,0,""
-10855,0,0,False,False,False,0,0,False,False,0,""
-10856,0,0,False,False,False,0,0,False,False,0,""
-10857,0,0,False,False,False,0,0,False,False,0,""
-10858,0,0,False,False,False,0,0,False,False,0,""
-10859,0,0,False,False,False,0,0,False,False,0,""
-10860,0,0,False,False,False,0,0,False,False,0,""
-10861,0,0,False,False,False,0,0,False,False,0,""
+10854,0,2,False,False,False,2,3,False,False,1,"으악 뭇은 짓이냐!?"
+10855,0,2,False,False,False,2,3,False,False,1,"그래, 알았네!"
+10856,0,2,False,False,False,2,3,False,False,1,"그렇게는 못 한다!"
+10857,0,2,False,False,False,2,3,False,False,1,"헉… 헉…"
+10858,0,2,False,False,False,2,3,False,False,1,"윽…"
+10859,0,2,False,False,False,2,3,False,False,1,"아직… 부족한가…"
+10860,0,2,False,False,False,2,3,False,False,1,"그럼 바로 시전할게!"
+10861,0,2,False,False,False,2,3,False,False,1,"코볼드족을 묶어두겠다!"
 10862,0,0,False,False,False,0,0,False,False,0,""
 10863,0,0,False,False,False,0,0,False,False,0,""
 10864,0,0,False,False,False,0,0,False,False,0,""
@@ -14765,16 +14785,16 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 10896,0,0,False,False,False,0,0,False,False,0,""
 10897,0,0,False,False,False,0,0,False,False,0,""
 10898,0,0,False,False,False,0,0,False,False,0,""
-10899,0,0,False,False,False,0,0,False,False,0,""
-10900,0,0,False,False,False,0,0,False,False,0,""
-10901,0,0,False,False,False,0,0,False,False,0,""
-10902,0,0,False,False,False,0,0,False,False,0,""
-10903,0,0,False,False,False,0,0,False,False,0,""
-10904,0,0,False,False,False,0,0,False,False,0,""
-10905,0,0,False,False,False,0,0,False,False,0,""
-10906,0,0,False,False,False,0,0,False,False,0,""
-10907,0,0,False,False,False,0,0,False,False,0,""
-10908,0,0,False,False,False,0,0,False,False,0,""
+10899,0,2,False,False,False,2,3,False,False,1,"우리가 알리제를 지켜야 하네!"
+10900,0,2,False,False,False,2,3,False,False,1,"좋아, 마력을 알리제에게……!"
+10901,0,2,False,False,False,2,3,False,False,1,"알리제, 보낼게!"
+10902,0,2,False,False,False,2,3,False,False,1,"나에게 마력을 보내줘!"
+10903,0,2,False,False,False,2,3,False,False,1,"아직 부족해… 마력을 더 보내줘!"
+10904,0,2,False,False,False,2,3,False,False,1,"조금만 더… 부탁해…!"
+10905,0,2,False,False,False,2,3,False,False,1,"몰 꾸물거리고 잇냐!?"
+10906,0,2,False,False,False,2,3,False,False,1,"이제 끗장이다!"
+10907,0,2,False,False,False,2,3,False,False,1,"어서 헤치워버려!"
+10908,0,2,False,False,False,2,3,False,False,1,"그걸 투입해야겟다!"
 10909,0,0,False,False,False,0,0,False,False,0,""
 10910,0,0,False,False,False,0,0,False,False,0,""
 10911,0,0,False,False,False,0,0,False,False,0,""
@@ -14867,3 +14887,214 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,single,str
 10998,0,0,False,False,False,0,0,False,False,0,""
 10999,0,0,False,False,False,0,0,False,False,0,""
 11000,0,0,False,False,False,0,0,False,False,0,""
+11001,0,0,False,False,False,0,0,False,False,0,""
+11002,0,0,False,False,False,0,0,False,False,0,""
+11003,0,0,False,False,False,0,0,False,False,0,""
+11004,0,0,False,False,False,0,0,False,False,0,""
+11005,0,0,False,False,False,0,0,False,False,0,""
+11006,0,0,False,False,False,0,0,False,False,0,""
+11007,0,0,False,False,False,0,0,False,False,0,""
+11008,0,0,False,False,False,0,0,False,False,0,""
+11009,0,0,False,False,False,0,0,False,False,0,""
+11010,0,0,False,False,False,0,0,False,False,0,""
+11011,0,0,False,False,False,0,0,False,False,0,""
+11012,0,0,False,False,False,0,0,False,False,0,""
+11013,0,0,False,False,False,0,0,False,False,0,""
+11014,0,0,False,False,False,0,0,False,False,0,""
+11015,0,0,False,False,False,0,0,False,False,0,""
+11016,0,0,False,False,False,0,0,False,False,0,""
+11017,0,0,False,False,False,0,0,False,False,0,""
+11018,0,0,False,False,False,0,0,False,False,0,""
+11019,0,0,False,False,False,0,0,False,False,0,""
+11020,0,0,False,False,False,0,0,False,False,0,""
+11021,0,0,False,False,False,0,0,False,False,0,""
+11022,0,0,False,False,False,0,0,False,False,0,""
+11023,0,0,False,False,False,0,0,False,False,0,""
+11024,0,0,False,False,False,0,0,False,False,0,""
+11025,0,0,False,False,False,0,0,False,False,0,""
+11026,0,0,False,False,False,0,0,False,False,0,""
+11027,0,0,False,False,False,0,0,False,False,0,""
+11028,0,0,False,False,False,0,0,False,False,0,""
+11029,0,0,False,False,False,0,0,False,False,0,""
+11030,0,0,False,False,False,0,0,False,False,0,""
+11031,0,0,False,False,False,0,0,False,False,0,""
+11032,0,0,False,False,False,0,0,False,False,0,""
+11033,0,0,False,False,False,0,0,False,False,0,""
+11034,0,0,False,False,False,0,0,False,False,0,""
+11035,0,0,False,False,False,0,0,False,False,0,""
+11036,0,0,False,False,False,0,0,False,False,0,""
+11037,0,0,False,False,False,0,0,False,False,0,""
+11038,0,0,False,False,False,0,0,False,False,0,""
+11039,0,0,False,False,False,0,0,False,False,0,""
+11040,0,0,False,False,False,0,0,False,False,0,""
+11041,0,0,False,False,False,0,0,False,False,0,""
+11042,0,0,False,False,False,0,0,False,False,0,""
+11043,0,0,False,False,False,0,0,False,False,0,""
+11044,0,0,False,False,False,0,0,False,False,0,""
+11045,0,0,False,False,False,0,0,False,False,0,""
+11046,0,0,False,False,False,0,0,False,False,0,""
+11047,0,0,False,False,False,0,0,False,False,0,""
+11048,0,0,False,False,False,0,0,False,False,0,""
+11049,1010448,3,False,False,False,5,1,False,False,5,"<Unknown60>0234</Unknown60>현재 '공식 토너먼트'가 개최되고 있습니다.
+손에 땀을 쥐는 트리플 트라이어드 승부를 원하시는 분은
+부디 '카드 광장'으로 와주시기 바랍니다!"
+11050,0,2,False,False,False,2,3,False,False,1,"불의 마력을
+소일에 담는다…!"
+11051,0,2,False,False,False,2,3,False,False,1,"번개의 마력을
+소일에 담는다…!"
+11052,0,0,False,False,False,0,0,False,False,0,""
+11053,0,0,False,False,False,0,0,False,False,0,""
+11054,0,0,False,False,False,0,0,False,False,0,""
+11055,0,0,False,False,False,0,0,False,False,0,""
+11056,0,0,False,False,False,0,0,False,False,0,""
+11057,0,0,False,False,False,0,0,False,False,0,""
+11058,0,0,False,False,False,0,0,False,False,0,""
+11059,0,0,False,False,False,0,0,False,False,0,""
+11060,0,0,False,False,False,0,0,False,False,0,""
+11061,0,0,False,False,False,0,0,False,False,0,""
+11062,0,2,False,False,False,3,5,False,False,1,"이곳이 마토야 님의
+공방인가…"
+11063,0,2,False,False,False,3,5,False,False,1,"이 공방에
+또 오게 될 줄이야"
+11064,0,2,False,False,False,3,5,False,False,1,"자, 엄청나게 귀여운
+돼지를 만들자!"
+11065,0,2,False,False,False,3,5,False,False,1,"이 공방에
+또 오게 될 줄이야"
+11066,0,2,False,False,False,3,5,False,False,1,"여길 잘 아는 사람이
+함께라서 든든한걸!"
+11067,0,2,False,False,False,3,5,False,False,1,"시설은 아직
+쓸 만한 것 같은데…"
+11068,0,2,False,False,False,3,5,False,False,1,"오랫동안 방치했으니
+뭐가 나올지 몰라요…"
+11069,0,2,False,False,False,3,5,False,False,1,"방해되는 마물은
+없애버리면 되지?"
+11070,0,2,False,False,False,3,5,False,False,1,"오랫동안 방치했으니
+뭐가 나올지 몰라요…"
+11071,0,2,False,False,False,3,5,False,False,1,"방해되는 마물은
+몽땅 없애줄게!"
+11072,0,2,False,False,False,3,5,False,False,1,"비켜줄 생각이
+없어 보이는데…!"
+11073,0,2,False,False,False,3,5,False,False,1,"방해꾼을 처리하죠"
+11074,0,2,False,False,False,3,5,False,False,1,"점토를 손에 넣으려면
+저걸 쓰러뜨려야겠네…"
+11075,0,2,False,False,False,3,5,False,False,1,"저건 골렘이 변한 건가…?"
+11076,0,2,False,False,False,3,5,False,False,1,"그런 것 같네요…
+청소를 얼마나 안 했으면…"
+11077,0,2,False,False,False,3,5,False,False,1,"좋아!
+다들 잘했어!"
+11078,0,2,False,False,False,3,5,False,False,1,"이것으로 첫 번째 재료는
+확보했군요…"
+11079,0,2,False,False,False,3,5,False,False,1,"질 좋은 점토를
+손에 넣었어!"
+11080,0,2,False,False,False,3,5,False,False,1,"좋아!
+다들 잘했어!"
+11081,0,2,False,False,False,3,5,False,False,1,"어머,
+꽤나 신나 보이네요?"
+11082,0,2,False,False,False,3,5,False,False,1,"여기로 돌아오게
+되는 거였군…"
+11083,0,2,False,False,False,3,5,False,False,1,"다음 재료는
+맑은 물이랬죠?"
+11084,0,2,False,False,False,3,5,False,False,1,"공방 곳곳에
+전송문양이 있나 본데…"
+11085,0,2,False,False,False,3,5,False,False,1,"다음 재료는
+맑은 물이랬죠?"
+11086,0,2,False,False,False,3,5,False,False,1,"맞아
+점토를 반죽할 때 필요해"
+11087,0,2,False,False,False,3,5,False,False,1,"여기는 정비가 돼 있군…
+이것도 사역마가 한 건가?"
+11088,0,2,False,False,False,3,5,False,False,1,"물 긷는 심부름을
+하던 때가 생각나네요"
+11089,0,2,False,False,False,3,5,False,False,1,"물이 흐르는 소리…
+지하 수맥인가!"
+11090,0,2,False,False,False,3,5,False,False,1,"물이 흐르는 소리…
+지하 수맥인가!"
+11091,0,2,False,False,False,3,5,False,False,1,"정답이에요…
+떨어지면 꽤 추울걸요?"
+11092,0,2,False,False,False,3,5,False,False,1,"묘하게 생긴 녀석이
+나타났어…!"
+11093,0,2,False,False,False,3,5,False,False,1,"놀라운데요…
+저 애들이 아직도 있다니…"
+11094,0,2,False,False,False,3,5,False,False,1,"정령의 일종인가?
+아니, 좀 달라…"
+11095,0,2,False,False,False,3,5,False,False,1,"빗물로 만든 사역마예요
+고집쟁이니까 조심하세요!"
+11096,0,2,False,False,False,3,5,False,False,1,"야슈톨라가 그렇게까지
+경계하다니…"
+11097,0,2,False,False,False,3,5,False,False,1,"생긴 것과는 다르게
+만만치 않은 녀석이었어"
+11098,0,2,False,False,False,3,5,False,False,1,"미숙한 사람이 만든 사역마만큼
+처치곤란인 건 없죠"
+11099,0,2,False,False,False,3,5,False,False,1,"진흙투성이가 됐나 했더니,
+이번에는 쫄딱 젖었군…"
+11100,0,2,False,False,False,3,5,False,False,1,"과거를 청산해서
+개운하네요"
+11101,0,2,False,False,False,3,5,False,False,1,"설마 저 사역마를
+만든 사람이…"
+11102,0,2,False,False,False,3,5,False,False,1,"재료 모으기도
+아직까지는 순조롭군!"
+11103,0,2,False,False,False,3,5,False,False,1,"마토야가 기다리다 지쳐서
+졸지는 않을까 모르겠네요"
+11104,0,2,False,False,False,3,5,False,False,1,"옷이 젖으니 춥네…"
+11105,0,2,False,False,False,3,5,False,False,1,"옷이 젖으니 춥네…"
+11106,0,2,False,False,False,3,5,False,False,1,"어차피 다음 장소에서
+금방 마를 테니 안심하세요"
+11107,0,2,False,False,False,3,5,False,False,1,"용암이 무지개색이잖아?
+엄청난 광경이다!"
+11108,0,2,False,False,False,3,5,False,False,1,"지금 눈에는 이 속성의 힘이…
+지나치게 선명하네요…"
+11109,0,2,False,False,False,3,5,False,False,1,"여섯 속성이 섞인
+용암이라는 말이야?"
+11110,0,2,False,False,False,3,5,False,False,1,"용암이 무지개색이잖아?
+엄청난 광경이다!"
+11111,0,2,False,False,False,3,5,False,False,1,"크리스탈 광맥의 성분이
+녹아들어 있거든요"
+11112,0,2,False,False,False,3,5,False,False,1,"이제 마력이 깃든 불이
+가마에 지펴졌겠지!"
+11113,0,2,False,False,False,3,5,False,False,1,"여기는 언제 와도
+너무 더워요"
+11114,0,2,False,False,False,3,5,False,False,1,"이렇게 강력한 마력을 띤
+열원이 있으면 완벽해!"
+11115,0,2,False,False,False,3,5,False,False,1,"이제 마력이 깃든 불이
+가마에 지펴졌겠지!"
+11116,0,2,False,False,False,3,5,False,False,1,"마토야에게 돌아가죠…"
+11117,0,2,False,False,False,3,5,False,False,1,"마지막 마무리까지
+실력 행사로군, 재밌는데!"
+11118,0,2,False,False,False,3,5,False,False,1,"만든 사람을 닮아서
+난폭한 사역마 같군요…"
+11119,0,2,False,False,False,3,5,False,False,1,"저 돼지한테
+옷까지 입힐 필요가…?"
+11120,0,2,False,False,False,3,5,False,False,1,"저 돼지한테
+옷까지 입힐 필요가…?"
+11121,0,2,False,False,False,3,5,False,False,1,"고상한 방법으로는
+안 되겠네요"
+11122,0,2,False,False,False,2,3,False,False,1,"알리제, 괜찮니!?"
+11123,0,2,False,False,False,2,4,False,False,1,"경계를 늦추지 마라…"
+11124,0,2,False,False,False,2,5,False,False,1,"아직 방심할 순 없다"
+11125,0,2,False,False,False,2,5,False,False,1,"우리는 경계를 맡겠다"
+11126,0,2,False,False,False,2,4,False,False,1,"녀석들이 방해하게 둘 순 없지"
+11127,0,2,False,False,False,2,4,False,False,1,"윽… 실수했군"
+11128,0,2,False,False,False,2,3,False,False,1,"크헉…!"
+11129,0,2,False,False,False,2,3,False,False,1,"윽…"
+11130,0,2,False,False,False,2,3,False,False,1,"멜위브 제독님…!"
+11131,0,2,False,False,False,2,3,False,False,1,"으아아아아…
+머리가 께질 거 가타!"
+11132,0,0,False,False,False,0,0,False,False,0,""
+11133,0,0,False,False,False,0,0,False,False,0,""
+11134,0,2,False,False,False,2,3,False,False,1,"알리제를 지키는 건
+나한테 맡겨!"
+11135,0,0,False,False,False,0,0,False,False,0,""
+11136,0,0,False,False,False,0,0,False,False,0,""
+11137,0,0,False,False,False,0,0,False,False,0,""
+11138,0,0,False,False,False,0,0,False,False,0,""
+11139,0,0,False,False,False,0,0,False,False,0,""
+11140,0,0,False,False,False,0,0,False,False,0,""
+11141,0,0,False,False,False,0,0,False,False,0,""
+11142,0,0,False,False,False,0,0,False,False,0,""
+11143,0,0,False,False,False,0,0,False,False,0,""
+11144,0,0,False,False,False,0,0,False,False,0,""
+11145,0,0,False,False,False,0,0,False,False,0,""
+11146,0,0,False,False,False,0,0,False,False,0,""
+11147,0,0,False,False,False,0,0,False,False,0,""
+11148,0,0,False,False,False,0,0,False,False,0,""
+11149,0,0,False,False,False,0,0,False,False,0,""
+11150,0,0,False,False,False,0,0,False,False,0,""
