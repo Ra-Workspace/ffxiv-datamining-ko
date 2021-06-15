@@ -57,10 +57,10 @@ int32,str,str
 45,"TEXT_LUCKSA151_03970_TODO_21",""
 46,"TEXT_LUCKSA151_03970_TODO_22",""
 47,"TEXT_LUCKSA151_03970_TODO_23",""
-48,"TEXT_LUCKSA151_03970_SYSTEM_800_000","퀘스트 ''레지스탕스 웨폰'에 기억 정착시키기'에서
+48,"TEXT_LUCKSA151_03970_SYSTEM_800_000","퀘스트 '레지스탕스 웨폰에 기억 정착시키기'에서
 획득할 수 있는 무기는
 현재 직업인 '<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>' 전용 레지스탕스 웨폰입니다."
-49,"TEXT_LUCKSA151_03970_SYSTEM_801_000","''레지스탕스 웨폰'에 기억 정착시키기'를
+49,"TEXT_LUCKSA151_03970_SYSTEM_801_000","'레지스탕스 웨폰에 기억 정착시키기'를
 '<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>'<14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
 50,"TEXT_LUCKSA151_03970_Q1_800_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 레지스탕스 웨폰을 만드시겠습니까?"
 51,"TEXT_LUCKSA151_03970_A1_800_000","조금 더 생각한다"
@@ -74,9 +74,9 @@ int32,str,str
 다른 직업으로 변경한 후 다시 즐라탄에게 말을 거십시오."
 56,"TEXT_LUCKSA151_03970_SYSTEM_800_008","'<Sheet(Item,IntegerParameter(1),0)/>' 및
 '<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
-''레지스탕스 웨폰'에 기억 정착시키기'를 수락할 수 없습니다."
+'레지스탕스 웨폰에 기억 정착시키기'를 수락할 수 없습니다."
 57,"TEXT_LUCKSA151_03970_SYSTEM_800_009","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
-''레지스탕스 웨폰'에 기억 정착시키기'를 수락할 수 없습니다."
+'레지스탕스 웨폰에 기억 정착시키기'를 수락할 수 없습니다."
 58,"TEXT_LUCKSA151_03970_ZLATAN_000_000","그럼 '레지스탕스 웨폰' 개량을 위해
 '기억 덩어리'를 부탁드리고 싶습니다만……
 그나저나 참 다행입니다."

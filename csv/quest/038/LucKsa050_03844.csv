@@ -62,9 +62,9 @@ int32,str,str
 50,"TEXT_LUCKSA050_03844_GEROLT_000_000","오오, 왔군!
 바로 지금 '레지스탕스 웨폰'의
 시제품을 만들려고 하던 참이야!"
-51,"TEXT_LUCKSA050_03844_SYSTEM_800_000","퀘스트 ''군힐드의 검' 복각'에서 획득할 수 있는 무기는
+51,"TEXT_LUCKSA050_03844_SYSTEM_800_000","퀘스트 '군힐드의 검 복각'에서 획득할 수 있는 무기는
 현재 직업인 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 레지스탕스 웨폰입니다.
-''군힐드의 검' 복각'을 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If><14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
+'군힐드의 검 복각'을 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If><14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
 52,"TEXT_LUCKSA050_03844_Q1_800_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 레지스탕스 웨폰을 만드시겠습니까?"
 53,"TEXT_LUCKSA050_03844_A1_800_000","조금 더 생각한다"
 54,"TEXT_LUCKSA050_03844_A2_800_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 레지스탕스 웨폰을 만든다"
@@ -159,7 +159,7 @@ int32,str,str
 또 이 게롤트 님의 위대한 점이지!"
 90,"TEXT_LUCKSA050_03844_ZLATAN_000_123","게롤트 님의 실력은 훌륭하다는 말밖에 드릴 말씀이 없습니다.
 해방자님께서 무기를 드신 모습은……
-어린 시절 꿈꾸던 용자의 모습 그 자체였습니다!"
+어린 시절 꿈꾸던 용사의 모습 그 자체였습니다!"
 91,"TEXT_LUCKSA050_03844_ZLATAN_000_124","그 '레지스탕스 웨폰'은 해방자님께서 갖고 계십시오.
 그리고 반격 작전을 개시할 때, 부디 저희의 명분이 되어주십사……
 하는 것이 바이샤엔 님, 나아가서는 저희의 희망입니다."

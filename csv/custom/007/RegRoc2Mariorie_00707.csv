@@ -1,18 +1,32 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
-1,"",""
-2,"",""
-3,"",""
-4,"",""
-5,"",""
-6,"",""
-7,"",""
-8,"",""
-9,"",""
-10,"",""
-11,"",""
-12,"",""
-13,"",""
-14,"",""
+0,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000","<Highlight>ObjectParameter(1)</Highlight> 님, 또 와주셨군요!
+'창천 거리 부흥 기념 연주회'를 원하신다면
+바로 준비하겠습니다!"
+1,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_001","혹시 관심이 있으시다면
+더 난이도가 높은 연주 악보를 준비하겠습니다!"
+2,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_002","（★未使用／削除予定★）"
+3,"TEXT_REGROC2MARIORIE_00707_Q1_000_000","연주회를 시작하시겠습니까?"
+4,"TEXT_REGROC2MARIORIE_00707_A1_000_001","'창천 거리 부흥 기념 연주회(보통)'에 참가"
+5,"TEXT_REGROC2MARIORIE_00707_A1_000_002","'창천 거리 부흥 기념 연주회(어려움)'에 참가"
+6,"TEXT_REGROC2MARIORIE_00707_A1_000_003","잠깐 기다려줘"
+7,"TEXT_REGROC2MARIORIE_00707_A1_000_004","플레이 방법을 알려달라고 한다"
+8,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_003","알겠습니다!
+'창천 거리 부흥 기념 연주회'를 원하실 때는
+부담 없이 말을 걸어 주십시오!"
+9,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_004","'창천 거리 부흥 기념 연주회에서는 노트라 불리는 아이콘이
+리듬에 맞춰서 화면 위에 표시됩니다.
+노트에 맞춰 키를 눌러 음악회를 성공시키세요!"
+10,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_005","왼쪽 일반 노트: 마름모꼴이 겹쳐질 때 키를 누르세요.
+가운데 연타 노트: 겹쳐지면 일정 시간 키를 연타하세요.
+오른쪽 긴 노트: 겹쳐지면 일정 시간 키를 길게 누르세요."
+11,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_006","대응 키는 다음과 같습니다."
+12,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_007","<If(Equal(PlayerParameter(80),0))>마우스：화면에서 왼쪽 클릭, 오른쪽 클릭
+키보드：수식 키를 제외한 알파벳 등 표준 키
+플레이 중에는 빠른 대화를 할 수 없습니다<Else/><If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If>：<CommandIcon(18)/>를 제외한 각종 입력 전반　<CommandIcon(7)/> <CommandIcon(8)/> <CommandIcon(9)/> <CommandIcon(10)/> <CommandIcon(11)/>등</If>"
+13,"TEXT_REGROC2MARIORIE_00707_SYSTEM_000_008","［<If(Equal(PlayerParameter(78),3))>esc<Else/>Esc</If>］키, 또는 <CommandIcon(18)/> 버튼을 누르면
+'창천 거리 부흥 기념 연주회'를 도중에 끝낼 수 있습니다."
+14,"TEXT_REGROC2MARIORIE_00707_MARIORIE_000_999","앞으로도 연주회를 개최할 수 있도록
+절차를 진행해 놓을 테니
+나중에 또 들러주세요!"

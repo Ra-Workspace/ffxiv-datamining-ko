@@ -14659,7 +14659,7 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 똑똑히 봤느냐!"
 10793,0,2,False,False,False,2,4,False,False,1,"해냈습니다!
 에르네이스 님!"
-10794,0,2,False,False,False,3,4,False,False,1,"척 보급로 차단에
+10794,0,2,False,False,False,3,4,False,False,1,"적 보급로 차단에
 협력을 부탁드립니다!"
 10795,0,2,False,False,False,2,4,False,False,1,"이제 귀환하겠습니다!
 협력해 주셔서 감사합니다!"
@@ -14795,69 +14795,118 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 10906,0,2,False,False,False,2,3,False,False,1,"이제 끗장이다!"
 10907,0,2,False,False,False,2,3,False,False,1,"어서 헤치워버려!"
 10908,0,2,False,False,False,2,3,False,False,1,"그걸 투입해야겟다!"
-10909,0,0,False,False,False,0,0,False,False,0,""
-10910,0,0,False,False,False,0,0,False,False,0,""
-10911,0,0,False,False,False,0,0,False,False,0,""
-10912,0,0,False,False,False,0,0,False,False,0,""
-10913,0,0,False,False,False,0,0,False,False,0,""
-10914,0,0,False,False,False,0,0,False,False,0,""
-10915,0,0,False,False,False,0,0,False,False,0,""
-10916,0,0,False,False,False,0,0,False,False,0,""
-10917,0,0,False,False,False,0,0,False,False,0,""
-10918,0,0,False,False,False,0,0,False,False,0,""
-10919,0,0,False,False,False,0,0,False,False,0,""
-10920,0,0,False,False,False,0,0,False,False,0,""
-10921,0,0,False,False,False,0,0,False,False,0,""
-10922,0,0,False,False,False,0,0,False,False,0,""
-10923,0,0,False,False,False,0,0,False,False,0,""
-10924,0,0,False,False,False,0,0,False,False,0,""
-10925,0,0,False,False,False,0,0,False,False,0,""
-10926,0,0,False,False,False,0,0,False,False,0,""
-10927,0,0,False,False,False,0,0,False,False,0,""
-10928,0,0,False,False,False,0,0,False,False,0,""
-10929,0,0,False,False,False,0,0,False,False,0,""
-10930,0,0,False,False,False,0,0,False,False,0,""
-10931,0,0,False,False,False,0,0,False,False,0,""
-10932,0,0,False,False,False,0,0,False,False,0,""
-10933,0,0,False,False,False,0,0,False,False,0,""
-10934,0,0,False,False,False,0,0,False,False,0,""
-10935,0,0,False,False,False,0,0,False,False,0,""
-10936,0,0,False,False,False,0,0,False,False,0,""
-10937,0,0,False,False,False,0,0,False,False,0,""
-10938,0,0,False,False,False,0,0,False,False,0,""
-10939,0,0,False,False,False,0,0,False,False,0,""
-10940,0,0,False,False,False,0,0,False,False,0,""
-10941,0,0,False,False,False,0,0,False,False,0,""
-10942,0,0,False,False,False,0,0,False,False,0,""
-10943,0,0,False,False,False,0,0,False,False,0,""
-10944,0,0,False,False,False,0,0,False,False,0,""
-10945,0,0,False,False,False,0,0,False,False,0,""
-10946,0,0,False,False,False,0,0,False,False,0,""
-10947,0,0,False,False,False,0,0,False,False,0,""
-10948,0,0,False,False,False,0,0,False,False,0,""
-10949,0,0,False,False,False,0,0,False,False,0,""
-10950,0,0,False,False,False,0,0,False,False,0,""
-10951,0,0,False,False,False,0,0,False,False,0,""
-10952,0,0,False,False,False,0,0,False,False,0,""
-10953,0,0,False,False,False,0,0,False,False,0,""
-10954,0,0,False,False,False,0,0,False,False,0,""
-10955,0,0,False,False,False,0,0,False,False,0,""
-10956,0,0,False,False,False,0,0,False,False,0,""
-10957,0,0,False,False,False,0,0,False,False,0,""
-10958,0,0,False,False,False,0,0,False,False,0,""
-10959,0,0,False,False,False,0,0,False,False,0,""
-10960,0,0,False,False,False,0,0,False,False,0,""
-10961,0,0,False,False,False,0,0,False,False,0,""
-10962,0,0,False,False,False,0,0,False,False,0,""
-10963,0,0,False,False,False,0,0,False,False,0,""
-10964,0,0,False,False,False,0,0,False,False,0,""
-10965,0,0,False,False,False,0,0,False,False,0,""
-10966,0,0,False,False,False,0,0,False,False,0,""
-10967,0,0,False,False,False,0,0,False,False,0,""
-10968,0,0,False,False,False,0,0,False,False,0,""
-10969,0,0,False,False,False,0,0,False,False,0,""
-10970,0,0,False,False,False,0,0,False,False,0,""
-10971,0,0,False,False,False,0,0,False,False,0,""
+10909,9043,2,False,False,False,4,1,False,False,10,"장인 여러분 덕에 물자가 충분히 모였다!
+부흥 공동 작업을 시작하자!"
+10910,9043,2,False,False,False,4,1,False,False,10,"먼저 부흥시 문화구 서쪽을 정비한다!
+잔해를 부순 다음 파편을 운반해다오!"
+10911,9043,2,False,False,False,4,1,False,False,10,"오랜만에 하는 거니까
+안전에 특히 신경써야 한다!"
+10912,9043,2,False,False,False,4,1,False,False,10,"좋아, 부흥 공동 작업을 시작한다!
+준비됐나!?"
+10913,9043,2,False,False,False,4,1,False,False,10,"이번에는 부흥시 문화구 서쪽을 청소하자!"
+10914,9043,2,False,False,False,4,1,False,False,10,"'자잘한 잔해 파편'을 치우고
+사람이 지나다닐 수 있게 만들어줘!"
+10915,9043,2,False,False,False,4,1,False,False,10,"물자는 충분하군!
+자, 부흥 공동 작업을 시작하자!"
+10916,9043,2,False,False,False,4,1,False,False,10,"부흥시 문화구 서쪽을 포장한다!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10917,9043,2,False,False,False,4,1,False,False,10,"이 일대 정비 작업도 막바지다!
+기운 내자고!"
+10918,9043,2,False,False,False,4,1,False,False,10,"이번 부흥 공동 작업부터
+부흥시 문화구 서쪽에 주택을 짓는다!"
+10919,9043,2,False,False,False,4,1,False,False,10,"새로운 주택을 짓기 위하여
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10920,9043,2,False,False,False,4,1,False,False,10,"집은 마음의 안식처라지.
+그 토대니까, 정성껏 만들자!"
+10921,9043,2,False,False,False,4,1,False,False,10,"이번 부흥 공동 작업에서는
+계속해서 주택을 짓는다!"
+10922,9043,2,False,False,False,4,1,False,False,10,"작업 중인 주택을 완성시키자!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10923,9043,2,False,False,False,4,1,False,False,10,"문화구라는 이름에 부끄럽지 않은 집을
+우리 손으로 만들자고!"
+10924,9043,2,False,False,False,4,1,False,False,10,"좋아, 물자는 문제없어!
+부흥 공동 작업을 시작하자!"
+10925,9043,2,False,False,False,4,1,False,False,10,"새로운 주택을 건설하기 위해
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10926,9043,2,False,False,False,4,1,False,False,10,"자, 이 구획에도
+훌륭한 집을 짓자!"
+10927,9043,2,False,False,False,4,1,False,False,10,"부흥 공동 작업을 시작하자!"
+10928,9043,2,False,False,False,4,1,False,False,10,"작업 중인 주택을 완성시키자!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10929,9043,2,False,False,False,4,1,False,False,10,"장인 기술을 뽐낼 때다!
+모두 힘을 내라고!"
+10930,9043,2,False,False,False,4,1,False,False,10,"준비됐나!?
+부흥 공동 작업을 시작하자!"
+10931,9043,2,False,False,False,4,1,False,False,10,"새로운 주택을 건설하기 위해
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10932,9043,2,False,False,False,4,1,False,False,10,"사람이 많이 살 수 있도록
+뚝딱뚝딱 집을 짓자고!"
+10933,9043,2,False,False,False,4,1,False,False,10,"물자는 완벽해!
+장인 여러분, 부흥 공동 작업을 시작하자!"
+10934,9043,2,False,False,False,4,1,False,False,10,"작업 중인 주택을 완성시키자!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10935,9043,2,False,False,False,4,1,False,False,10,"이번만 하면 이 주변은 얼추 마무리된다!
+열심히 하자고!"
+10936,9043,2,False,False,False,4,1,False,False,10,"이번 부흥 공동 작업부터
+이곳에 '시인의 문'을 세운다!"
+10937,9043,2,False,False,False,4,1,False,False,10,"'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10938,9043,2,False,False,False,4,1,False,False,10,"이 너머로 상층이 이어지니까
+훌륭한 문을 만들자고!"
+10939,9043,2,False,False,False,4,1,False,False,10,"장인 여러분, 부흥 공동 작업이다!
+이번에는 '시인의 문'을 완성시킨다!"
+10940,9043,2,False,False,False,4,1,False,False,10,"'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10941,9043,2,False,False,False,4,1,False,False,10,"이곳이 개통되면
+시민들이 지나다니기 편해질 거야!"
+10942,9043,2,False,False,False,4,1,False,False,10,"부흥 공동 작업을 시작하자!
+이번부터 부흥시 문화구 동쪽 작업에 착수한다!"
+10943,9043,2,False,False,False,4,1,False,False,10,"우선 일대를 정비하자!
+'커다란 잔해'를 부수는 작업을 부탁하마!"
+10944,9043,2,False,False,False,4,1,False,False,10,"힘을 합쳐서 이 구획도 깨끗하게 만들자!"
+10945,9043,2,False,False,False,4,1,False,False,10,"좋았어! 다음 부흥 공동 작업을 시작하자!"
+10946,9043,2,False,False,False,4,1,False,False,10,"이번에는 부흥시 문화구 동쪽을 청소하자!"
+10947,9043,2,False,False,False,4,1,False,False,10,"'자잘한 잔해 파편'을 치워다오!"
+10948,9043,2,False,False,False,4,1,False,False,10,"좋았어! 다음 부흥 공동 작업을 시작하자!"
+10949,9043,2,False,False,False,4,1,False,False,10,"길을 포장하기 위해
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10950,9043,2,False,False,False,4,1,False,False,10,"건축의 기반이 될 토지다!
+멋지게 마무리하자!"
+10951,9043,2,False,False,False,4,1,False,False,10,"자, 부흥 공동 작업이다!
+이번부터 건축 작업을 시작한다!"
+10952,9043,2,False,False,False,4,1,False,False,10,"새로운 주택을 건설하기 위해
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10953,9043,2,False,False,False,4,1,False,False,10,"춥지 않게 지낼 수 있는 집을 더 많이 만들자고!"
+10954,9043,2,False,False,False,4,1,False,False,10,"장인 여러분, 물자를 납품해줘서 고맙다!
+자, 부흥 공동 작업을 시작하자!"
+10955,9043,2,False,False,False,4,1,False,False,10,"작업 중인 주택을 완성시키자!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10956,9043,2,False,False,False,4,1,False,False,10,"여러분의 기술을
+마음껏 발휘해줘!"
+10957,9043,2,False,False,False,4,1,False,False,10,"물자는 충분하다!
+장인 여러분, 부흥 공동 작업 시간이다!"
+10958,9043,2,False,False,False,4,1,False,False,10,"새로운 주택을 건설하기 위해
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10959,9043,2,False,False,False,4,1,False,False,10,"이 건물이 창천 거리에서 짓는 마지막 집이다!
+후회가 남지 않도록 제대로 짓자고!"
+10960,9043,2,False,False,False,4,1,False,False,10,"이번 부흥 공동 작업에서는
+부흥시 문화구의 집을 모두 완성할 예정이다!"
+10961,9043,2,False,False,False,4,1,False,False,10,"작업 중인 주택을 완성시키자!
+'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10962,9043,2,False,False,False,4,1,False,False,10,"협력해서 만족스러운 집을 짓자고!"
+10963,9043,2,False,False,False,4,1,False,False,10,"자, 부흥 공동 작업 시간이다!
+이번 작업부터 설중탕 건설에 들어간다!"
+10964,9043,2,False,False,False,4,1,False,False,10,"'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10965,9043,2,False,False,False,4,1,False,False,10,"느긋하게 몸을 담글 수 있는 휴식처를
+우리 손으로 만들자!"
+10966,9043,2,False,False,False,4,1,False,False,10,"오래 기다렸지!
+부흥 공동 작업을 시작한다!"
+10967,9043,2,False,False,False,4,1,False,False,10,"'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10968,9043,2,False,False,False,4,1,False,False,10,"이번 작업으로 설중탕이 완성된다!
+작업이 끝나면 마음껏 온천욕을 즐길 수 있어!"
+10969,9043,2,False,False,False,4,1,False,False,10,"창천 거리 부흥 공동 작업도 드디어 대단원이다…….
+마지막으로, 직접 기념비를 만들어 세우자!"
+10970,9043,2,False,False,False,4,1,False,False,10,"'물자 적재소'에서 물자를 가져다가 작업을 시작해줘!"
+10971,9043,2,False,False,False,4,1,False,False,10,"함께하는 부흥 공동 작업도 이것으로 마지막이군…….
+아, 안 울었어!"
 10972,0,0,False,False,False,0,0,False,False,0,""
 10973,0,0,False,False,False,0,0,False,False,0,""
 10974,0,0,False,False,False,0,0,False,False,0,""
