@@ -34,19 +34,35 @@ int32,str,str
 지금은 태세를 재정비하며 다시 반격의 기회를 노릴 수밖에 없습니다.
 해방자님도 잠시 휴식을 취하십시오."
 14,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_029","그런데 묻고 싶으신 것이 있으십니까? "
-15,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_030",""
-16,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_031",""
-17,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_032",""
-18,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_035",""
-19,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_040",""
-20,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_041",""
-21,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_045",""
-22,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_046",""
-23,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_050",""
-24,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_055",""
-25,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_056",""
-26,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_057",""
-27,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_058",""
+15,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_030","해방자 님, 남부 보즈야 전선은 고착상태에 빠져 있습니다.
+제IV군단에 눈에 띄는 움직임이 없는 것이 우려됩니다만,
+놈들의 지원군이 도착하기 전에 결판을 내야만 합니다."
+16,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_031","그래서 앞으로의 대책에 대해
+바이샤엔 님께서 당신과 의논하고 싶어하십니다.
+제 스승님의 이야기를 들어주십시오."
+17,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_032","……뭔가 확인하고 싶은 것이 있으십니까?"
+18,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_035","（★未使用／削除予定★）"
+19,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_040","무사히 현자님을 데리고 돌아와 주셔서 감사드립니다.
+그나저나 현자님은 남부 보즈야 전선에서
+뭔가를 깨달으신 것 같군요……."
+20,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_041","……뭔가 확인하고 싶은 것이 있으십니까?"
+21,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_045","그 투신은 아직 진정한 모습이 아니라는…… 것입니까?
+그건…… 실로 무서운 일……이군요.
+나타나는 빈도 수가 줄긴 했지만, 여전히 위협적인 존재니까요."
+22,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_046","……뭔가 확인하고 싶은 것이 있으십니까?"
+23,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_050","투신과 직접 대결을 피하기 위해서라도
+반드시 미시야를 잡아야 합니다…….
+그것이 그녀의 목숨을 빼앗는 일이 되더라도……."
+24,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_055","달마스카에서 지원 부대가 도착했다고 합니다.
+설마 기동 비공전함을 투입할 줄은 예상도 못했습니다.
+아직까지 그런 전력을 보유하고 있었을 줄이야……."
+25,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_056","하지만 기죽어 있을 때가 아닙니다.
+도마의 히엔 님에게 사태를 보고하고, 동방 연합과 연계해서
+제IV군단에 맞설 준비를 시작하겠습니다!"
+26,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_057","아마 다음 전투에서 보즈야의 명운이 갈릴 것입니다.
+저희는 사력을 다해 맞서 싸우겠습니다.
+그때는 반드시 해방자님의 힘을 저희에게 빌려주십시오……!"
+27,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSCHAK_000_058","그런데 뭔가 묻고 싶은 것이 있으십니까?"
 28,"TEXT_REGOTH4MYCMARSCHAK_00658_Q20_000_000","무엇을 물어보시겠습니까?"
 29,"TEXT_REGOTH4MYCMARSCHAK_00658_A20_000_000","갈레말 제국 제IV군단에 대해서"
 30,"TEXT_REGOTH4MYCMARSCHAK_00658_A20_000_001","노아 반 가브란스에 대해서"
@@ -88,11 +104,15 @@ int32,str,str
 46,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_215","실례, 정보에 따르면 마수왕 라이언은 '렘'으로 강등되었다고 합니다.
 메네니우스가 정식으로 분견대장으로 취임했기 때문이겠지만
 라이언이 제멋대로 행동하기 때문이라는 소문도 있습니다."
-47,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_216","그밖에도 '술사대대'를 이끄는 천인대장 알비레오도 강적입니다.
-그 요술에 저희도 몇 번이나 호되게 당했는지 모릅니다.
+47,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_216","그 밖에도 '술사대대'를 이끄는 천인대장 알비레오도 강적입니다.
+그 요술에 저희도 호되게 몇 번이나 당했는지 모릅니다.
 목숨을 잃은 자들의 원수를 어떻게든 갚아야 하는데……."
-48,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_220",""
-49,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_221",""
+48,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_220","현재 보즈야 주둔군의 지휘관은 분견대장 메네니우스입니다.
+마수왕 라이언 렘 헬소스는 부관의 위치라고 합니다만,
+아무래도 자기 마음대로 행동하고 다니는 듯합니다."
+49,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_221","누가 뭐래도 저희에게 가장 어려운 적은
+미시야와 그녀가 소환하는 투신일 것입니다.
+싸우는 상대가 투신이면 저희는 어찌할 방도가 없으니까요……."
 50,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_300","'칠흑의 번개'라 불리는 갈레말 제국 제IV군단의 장군입니다.
 전 군단장이자 노아의 아버지였던 바슈 반 가브란스는
 초대 솔 황제와 함께 각지의 전장에서 맹장으로 이름을 날렸습니다."
@@ -150,9 +170,15 @@ int32,str,str
 69,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_412","현재 달마스카에서 3개 보병대대라는 대규모 세력이 이동 중인데,
 그 이동이 끝난 뒤에는 요새의 공략이 극히 어려워질 것입니다.
 어떻게 해서든 투신의 위협을 제거해야 할 텐데 말입니다……."
-70,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_415",""
-71,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_416",""
-72,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_417",""
+70,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_415","지난번 '독수리 둥지 작전'으로 이 성채를 함락할 수 있었지만,
+투신이 출현한 탓에 저희는 빠르게 카스트룸 라쿠스리토레의
+점령을 포기할 수밖에 없었습니다."
+71,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_416","이게 다 미시야의 배신 때문입니다.
+이 전투로 목숨을 잃은 자들을 생각하면
+너무나도 아쉽고…… 통탄스럽습니다……."
+72,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_417","하지만 메네니우스도 카스트룸 라쿠스리토레에서 철수했습니다.
+성채의 방어 시스템도 괴멸 상태니 당연한 얘기겠죠.
+주둔 부대는 후방으로 물러났다는 보고를 받았습니다."
 73,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_450","현재 보즈야 구역의 제IV군단을 지휘하는 건
 가브란스 부관 중 한 명, 메네니우스 사스 라나투스입니다.
 분견대장으로 임명받고 계급도 렘에서 사스로 올라갔다고 합니다."
@@ -198,12 +224,29 @@ int32,str,str
 과연 진실을 밝혀낼 수 있을 것인지."
 88,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_601","죄송합니다…… 불평을 말해서 어쩌겠습니까.
 조사 결과가 나올 때까지 잠시 기다려 주십시오."
-89,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_605",""
-90,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_606",""
-91,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_607",""
-92,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_608",""
-93,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_610",""
-94,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_615",""
-95,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_616",""
-96,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_617",""
-97,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_618",""
+89,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_605","미시야의 출신에 대해서 조사했습니다.
+하지만 새로운 사실을 알아내진 못했습니다."
+90,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_606","그녀는 밀정이었던 것만 제외하고는 모든 게 사실이더군요.
+가족 구성원부터 경력까지 모두 진실이었습니다.
+……그래서였을까요, 저희가 그녀의 말을 믿었던 건."
+91,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_607","밀정은 가짜 프로필로 자신을 속이고 잠입합니다.
+하지만 그녀는 진정한 보즈야 사람 그 자체더군요.
+그렇기 때문에 빈틈이 보이지 않았던 것……."
+92,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_608","……아뇨, 그건 제 변명밖에 되지 않을 것입니다.
+그녀의 진의를…… 그 마음속 배신을 저는 알아채지 못했습니다.
+그 결과 수많은 피해를 초래하고 된 것이고요."
+93,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_610","아무리 후회해도 모자랄 지경이지만…… 그래도 저는……
+……아직 미시야를 진심으로 원망할 수가 없습니다.
+죄송합니다…… 잊어 주십시오……."
+94,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_615","아무리 후회해도 모자랄 지경이지만…… 그래도 저는……
+……아직 미시야를 진심으로 원망할 수가 없습니다.
+저에게 그녀는…………"
+95,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_616","미시야를 이 강고스의 지하 감옥으로 이송했습니다.
+원한을 품은 자가 그녀의 목숨을 노릴 가능성도 있으므로
+엄중히 경계하고 있습니다."
+96,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_617","당장 처형하라고 야만적인 요구를 하는 자도 있지만,
+바이샤엔 님은 이 전투에서 승리한 뒤에
+군사법정에서 제대로 그 죄를 따지겠다고 하십니다."
+97,"TEXT_REGOTH4MYCMARSCHAK_00658_MARSHAK_200_618","저도 그 방침에 이견은 없습니다.
+하지만 그녀는 심문을 해도 절대로 입을 열지 않고
+마음 또한 열려고 하지 않습니다…… 유감입니다……"

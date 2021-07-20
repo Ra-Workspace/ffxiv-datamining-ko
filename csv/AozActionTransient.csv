@@ -402,27 +402,123 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★★
 ","포악한 심판자의 필살기.
 날아라, 심판자여, 하늘보다 더 높이! 우리의 꿈과 희망과 우정이 사랑과 용기와 합체하여 악당을 해치운다! 그것이 정의의 발차기다!",4,139,0,0,True,False,False,False,False,False,False,False,False,False,False,False
-81,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-82,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-83,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-84,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-85,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-86,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-87,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-88,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-89,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-90,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-91,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-92,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-93,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-94,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-95,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-96,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-97,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-98,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-99,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-100,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-101,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-102,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-103,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-104,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
+81,81,72282,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물리(찌르기)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★
+","나마즈오족의 주특기인 전통 낚시법.
+지느러미로 작살을 쥐고, 눈에 보이지 않을 정도로 빠르게 3번 연속으로 찔러댄다. 원래는 물고기를 잡기 위한 낚시법이었지만 종종 자신을 지키기 위해서 사용하기도 한다.",1,2410,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+82,82,72283,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 번개
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★
+","나마즈오족이 발산하는 뇌격.
+강바닥에서 꼼짝도 하기 싫었던 나마즈오족이, 물고기를 감전시켜서 편하게 잡아먹으려고 생각해냈다는 모양이다. 적당한 자극을 받음으로써 혈행이 촉진되어 완력이 증가하는 효과도 있는 듯하다.",1,2410,69527,69526,True,True,False,False,False,False,False,False,False,False,False,False
+83,83,72284,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","도우준마루의 방해 기술을 모방한 청마법.
+마력으로 환영 장판을 만들어낸 다음, 뒤집어서 적의 발밑을 들어올린다. 숙달되면 장판 냄새마저 재현할 수 있다고 한다.",4,262,0,0,True,False,False,False,False,False,False,True,False,False,False,False
+84,84,72285,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 얼음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★
+","안개 드래곤이 방어 본능으로 사용하는 기술.
+자신의 주위에 냉기를 둘러, 공격해오는 상대를 빙결시킨다. 이때, 공기막을 만들어 자신은 얼지 않도록 하는 것이 요령이다.",4,585,0,0,True,True,False,True,False,False,False,False,False,False,False,False
+85,85,72286,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★
+","락슈미의 주특기.
+이것은 사랑의 찬가다. 사랑을 모르는 자가 부르면 주위를 불태우지만, 자애의 마음을 가진 자가 부르면 치유의 빛이 된다. 사랑이란 무엇인지를 몸으로 표현한 기술이라 할 수 있겠다.",4,263,0,0,True,True,False,False,False,False,False,False,False,False,False,False
+86,86,72287,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★
+","마열차가 쏘는 정화의 빛.
+망령이나 부정한 것들의 혼을 태워 정화한다. 마도 열차가 발명된 갈레말 제국에서는 죽은 자를 태우는 열차라는 기묘한 괴담이 돈다고 한다.",4,286,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+87,87,72288,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 땅
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★
+","진흙장사의 주특기이자 필살기.
+땅속성 에테르를 조작해서 만든 진흙을 퍼서 던진다. 흰옷을 입은 상대에게 사용하면 더 큰 정신적 고통을 줄 수 있을 것이다.",4,584,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+88,88,72289,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","신대륙의 수호상이 사용한다는 청마법.
+만능약과 비슷한 성분을 마법적으로 만들어, 대상에게 섭취시켜서 자가 치유 능력을 활성화시킨다. 치유 지식이 있는 자가 사용하면 효과가 더 클 것이다.",2,0,0,0,False,True,False,False,False,False,False,False,False,False,False,False
+89,89,72290,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★
+","현무의 주특기.
+물속성 에테르를 펼치는 일종의 마법 장벽이다. 받은 충격을 축적하는 성질이 있으며, 그 힘을 단숨에 방출하여 공격에 쓸 수도 있다.",4,284,0,0,True,True,False,False,False,False,False,False,False,False,False,False
+90,90,72291,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★
+","쌍표범 이본의 기술을 모방한 청마법.
+두 주먹에서 에테르를 쏜다. 이본은 산속에서 짐승을 상대로 밤낮없이 수련하다가, 커얼의 블래스터를 흉내내어 이 기술을 창안했다고 한다.",4,236,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+91,91,72292,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★
+","일부 커얼이 사용하는 청마법.
+동족이 쓰러져 궁지에 몰렸을 때 투쟁 본능을 일깨워 능력을 강화하는 기술. 여럿이 함께 도전해야 할 싸움에 홀로 임했을 때도 동일한 효과를 얻을 수 있다.",1,34,69526,69525,False,True,False,False,False,False,False,False,False,False,False,False
+92,92,72293,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★
+","콩가마토의 특기를 모방한 청마법.
+신체의 일부를 날개처럼 작게 떨어서 초음파를 생성한다. 빙결이나 석화로 단단하게 굳은 대상은 미세한 진동에 견디지 못하고 와장창 깨지고 만다.",1,2407,69528,69527,True,False,False,False,False,False,False,False,False,False,False,True
+93,93,72294,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 얼음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★
+","알테 로이테가 사용하는 마법.
+얼음속성 마법이지만 불에 관련된 이름이 붙여졌다. 출처인 고전소설 작가의 장난이라는 설도 있고, 화상처럼 보이는 심한 동상을 입기 때문이라고도 한다.",4,252,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+94,94,72295,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 불
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★
+","오메가가 사용하는 화학 병기를 모방한 청마법.
+마법으로 유해 성분을 합성하여, 살포하는 동시에 폭발시킨다. 원래는 냄새가 안 나지만, 불순물이 섞이면 겨자 냄새가 나기 때문에 이렇게 불린다.",4,589,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+95,95,72296,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","신대륙의 드래곤족이 사용한다는 청마법.
+외부 자극을 둔하게 만드는 에테르막으로 방어력을 높인다. 이 기술을 사용하는 존재가 진짜 드래곤족인지, 드래곤을 닮은 갑린강 마물인지는 불분명하다.",2,0,0,0,False,True,False,False,False,False,False,False,False,False,False,False
+96,96,72297,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★
+","드루바가 사용하는 청마법.
+환경 에테르를 조작하여 터뜨림으로써 적의 체표면에 자잘한 상처를 낸다. 복잡하게 찢어진 상처는 적에게 맹렬한 아픔을 주고 점점 고통에 빠뜨린다.",1,2408,69529,69528,True,False,False,False,False,False,False,False,False,False,False,False
+97,97,72298,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★
+","켈피가 주로 사용하는 청마법.
+마법으로 물길을 만들고 주위에 있는 자들을 끌어들인다. 하늘을 나는 새마저도 끌어당기는 그 불가사의함이야말로, 마법이 마법인 이유가 아닐까.",4,279,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+98,98,72299,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★
+","새태세가 사용하는 풍수술의 일종.
+지면에 에테르를 흘려보내 가짜 수맥을 만들어서 그 위에 있는 자를 쓸어버린다. 부주의하게 사용하면 아군까지 휘말리므로 본인이 저주받게 될 수도 있다.",4,536,0,0,True,True,False,False,False,False,False,False,False,False,False,False
+99,99,72300,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★
+","붉은 초코보라고도 불리는 준족 초코보의 주특기.
+주변 환경에서 티끌을 모아 바위 덩어리로 만든 다음, 빨갛게 달궈서 지상으로 떨어뜨린다. 이 기술을 때문에 붉은 초코보는 세계 각지에서 공포의 대상이 되었다.",1,2000,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+100,100,72301,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","신대륙의 요마가 사용하는 청마법.
+빛의 탄환을 연속해서 발사한다. 옛날에 왈라키족은 상대를 빈사 상태로 만드는 저주나 생명력을 마법으로 전환하는 비술도 같은 이름으로 부른 모양이다.",2,0,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+101,101,72302,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물리(타격)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★
+","오메가가 사용하는 기술을 모방한 청마법.
+차원의 틈을 완전히 장악한 오메가는 데이터를 기반으로 온갖 존재를 만들어 이용했다. 이를 마법적으로 재현하여 철권 환영을 투사하는 것이 이 마법이다.",4,589,0,0,True,False,True,False,False,False,False,False,False,False,False,False
+102,102,72303,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물리(타격)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★★
+","제천대성의 주특기.
+신통력으로 만든, 늘어났다 줄어들었다 하는 무기 '여의봉'을 마법으로 재현했다. 주위에 회오리바람을 일으키도록 회전하면서 휘둘러야 한다.",4,536,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+103,103,72304,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물리(타격)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★★
+","주작의 주특기.
+눈에 보이지도 않을 정도로 빠른 연속 발차기. '귀수'란 동방 점술에 쓰이는 별자리 중 하나로, 대부분 길조로 여겨지지만 혼례에 관해서는 흉조를 의미한다고 한다.",4,596,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+104,104,72305,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★★
+","츠쿠요미의 주특기.
+살의를 품은 마력을 꽃 모양으로 엮어 폭발시킨다. 1년에 한 번 피는 월하미인을 자신의 장송용 꽃으로 빗대는 각오가 이 마법에 힘을 주는 모양이다.",4,537,0,0,True,False,False,False,False,False,False,False,False,False,False,False

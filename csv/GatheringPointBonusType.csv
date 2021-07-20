@@ -22,4 +22,4 @@ int32,str
 18,"채집 횟수/내구도+<Value>IntegerParameter(1)</Value>"
 19,"채집 횟수/내구도+<Value>IntegerParameter(1)</Value>(능력치 반영)"
 20,"숨은 자원 출현률×<38>E80265FF022E</38>배"
-21,""
+21,"<If(IntegerParameter(2))>소장품 채집 가능<Else/>소장품 채집 불가능</If>"

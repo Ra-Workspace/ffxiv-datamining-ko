@@ -39,13 +39,23 @@ int32,str,str
 저희들은 승리하지 못할 것입니다.
 어떻게 해서든 대책을 세워야 합니다 "
 17,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_048","그런데 묻고 싶으신 것이 있으십니까? "
-18,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_050",""
-19,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_051",""
-20,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_055",""
-21,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_060",""
-22,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_061",""
-23,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_062",""
-24,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_063",""
+18,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_050","저희는 신도화될 위험성이 있기 때문에
+해방자님의 힘에 의지할 수밖에 없습니다.
+현자님을 데리고 돌아와주십시오, 잘 부탁드립니다!"
+19,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_051","그런데 묻고 싶으신 것이 있으십니까?"
+20,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_055","현자님의 말씀대로 공격 부대를 편성했습니다.
+당신의 준비가 끝나는 대로 신속하게 이동하겠습니다!
+자, 녀석들을 깜짝 놀라게 해줍시다!"
+21,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_060","제IV군단의 지원 부대가 달마스카 구역에 도착했다고 합니다.
+하지만 지금 당장 우리를 공격할 것처럼 보이진 않습니다.
+태세 정비를 위해 시간이 필요한지 다른 꿍꿍이가 있는 건지……."
+22,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_061","하지만 그 비공전함 편대가 녀석들의 최후의 전력으로 보입니다.
+그러니까 그 편대야말로 마지막 목표……
+즉 승리하고 나면 보즈야의 진정한 해방이 기다리고 있다는 뜻……."
+23,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_062","우리는 서둘러 대항하기 위한 전략과 전술을 세워야 합니다.
+확실한 승리를 위해 동방 연합에도 더 많은 지원을 요청합시다.
+이제 얼마 남지 않았습니다! 모든 것은 보즈야 해방을 위해서!!"
+24,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_063","그런데 묻고 싶으신 것이 있으십니까?"
 25,"TEXT_REGOTH4MYCBAICHAOUEN_00657_Q10_000_000","무엇을 물어보시겠습니까?"
 26,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A10_000_000","보즈야와 저항군에 대해서"
 27,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A10_000_001","강고스에 대해서"
@@ -87,10 +97,18 @@ int32,str,str
 43,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_220","또한 해방자님의 활약에 힘입어 '군힐드의 검'을 복각하고
 신생 군힐드의 검이 탄생한 덕분에
 보즈야 저항군의 여러 일파는 하나로 힘을 합치게 되었습니다."
-44,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_225",""
-45,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_226",""
-46,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_227",""
-47,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_230",""
+44,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_225","해방자님이 힘을 써주신 덕분에
+고대 보즈야의 유물이자 수호의 상징, 군힐드의 검도 복각하고……
+보즈야 저항군은 하나가 되었습니다."
+45,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_226","지난번 반격 작전을 통해
+제IV군단의 전초 기지인 카스트룸 라쿠스리토레를 함락하고
+남부 보즈야를 쟁탈할 수 있었습니다."
+46,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_227","……하지만 제IV군단의 계략에 빠져,
+수호신이었던 투신 세이브 더 퀸이 적으로 나타나
+저희 저항군은 절체절명의 위기에 빠지고 말았습니다."
+47,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_230","이번에 투신 세이브 더 퀸의 토벌에는 성공했습니다만,
+달마스카에서 제IV군단의 지원 부대가 도착하고 말았습니다.
+갈수록 태산이라고나 할까요."
 48,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_300","보즈야 저항군, 최전선에 위치한 거점입니다.
 구 보즈야의 남동쪽에 위치하고 있으며
 반격 작전은 이 거점을 발판으로 시작할 예정입니다."
@@ -169,13 +187,21 @@ int32,str,str
 73,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_440","유감스럽게도 투신의 출현으로 인해 신생 군힐드의 검을 포함해,
 수많은 저항군의 병사들이 신도가 되어 버렸습니다.
 피해 정도를 아직 전부 파악하지 못했을 정도입니다."
-74,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_441","일기당천의 강자인 신생 군힐드의 검이 적이 되어 버리다니
+74,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_441","일기당천의 강자인 신생 군힐드의 검이 적이 되어 버리다니……
 사태가 이렇게 되리라고 누가 상상이나 했을까요.
 그들을 구할 방법은 없는 것인지."
-75,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_445",""
-76,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_446",""
-77,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_450",""
-78,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_451",""
+75,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_445","……안타깝게도 투신 세이브 더 퀸으로 인해
+신생 군힐드의 검은 대부분 신도가 되어 버렸습니다.
+투신을 맹신하는 그들이 지금 저희에겐 최대의 적……."
+76,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_446","신도가 된 그들을 지금 당장 구할 수 없다면
+적어도 저희의 손으로 그들을 처분할 수밖에 없습니다……
+정말로 원통하고…… 안타깝기 짝이 없습니다."
+77,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_450","……안타깝게도 투신 세이브 더 퀸으로 인해
+신생 군힐드의 검은 대부분 신도가 되어 버렸습니다.
+이번에 그들을 처분하게 되었습니다만……."
+78,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_451","그렇다고 우울해하고 있을 여유는 없습니다.
+그들을 위해서도 새로운 용사를 선출하여
+다시 한번 신생 군힐드의 검을 편성하고 싶습니다."
 79,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_500","보즈야 출신의 로스가르족입니다.
 태어나자마자 갈레말 제국의 침공을 받았고
 철이 들 무렵엔 제국 시민으로 살았습니다."

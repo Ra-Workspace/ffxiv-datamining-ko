@@ -3610,6 +3610,12 @@ int32,str
 3787,"<Highlight>StringParameter(1)</Highlight> 님에게서 부활을 받으시겠습니까?"
 3788,"<Sheet(PlaceName,<Sheet(Aetheryte,IntegerParameter(1),8)/>,0)/>"
 3789,"복귀 지점으로 돌아가기"
+3790,"전투 불능이 되어 <Highlight>StringParameter(1)</Highlight>에서 퇴장합니다.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 보류해도 전투 불능 후 10분이 지나면 강제 퇴장됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+"
+3791,"퇴장"
+3792,"임무에서 퇴장"
 3800,"낚시수첩"
 3801,""
 3802,"대지역"
@@ -8319,6 +8325,7 @@ PvP 시스템이나 대결 규칙에 대해서는
 계속하시겠습니까?"
 8874,"변경한 설정을 적용합니다.
 계속하시겠습니까?"
+8875,"전투 시작 초읽기를 설정하여 함께 임무 중인 모든 플레이어에게 몇 초 후 전투를 시작하는지 알립니다."
 8876,"전투 시작 초읽기를 설정하여 파티원 혹은 연합 파티원에게 몇 초 후 전투를 시작하는지 알립니다."
 8877,"초읽기 설정(5초~30초)"
 8878,"실행"
@@ -10961,6 +10968,13 @@ MGP는 반환되지 않습니다."
 (컨트롤러 전용)<Else/>내 캐릭터 살펴보기 모드 켜기/끄기
 (게임패드 전용)</If>"
 11544,"캐릭터 위치와 회전 상태 초기화"
+11560,"전체 강화도: <If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value><Else/><Value>IntegerParameter(2)</Value>(한손검: <Value>IntegerParameter(4)</Value>/<Value>IntegerParameter(5)</Value> 방패: <Value>IntegerParameter(6)</Value>/<Value>IntegerParameter(7)</Value>)</If>"
+11561,"+<Value>IntegerParameter(1)</Value>"
+11562,"/<Value>IntegerParameter(1)</Value>"
+11563,"분배"
+11564,"분배한 수치로 장비를 강화하시겠습니까?"
+11565,"분배를 취소하시겠습니까?"
+11566,"변경한 수치로 재분배하시겠습니까?"
 11570,"기부 물자 보관함"
 11571,""
 11572,"매입가 비율"
@@ -13240,6 +13254,7 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 13986,"전투 준비 중인 비상 교전에 추가로 참가 신청할 수 있습니다!"
 13987,"참가할 수 있는 비상 교전이 발생했습니다!"
 13988,"비상 교전"
+13989,"관련 항목 <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
 14000,"스티커 모드"
 14001,"화면에 스티커를 붙일 수 있는
 스티커 모드로 전환합니다."
