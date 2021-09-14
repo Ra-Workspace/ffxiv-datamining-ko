@@ -89,3 +89,6 @@ int32,HWDInfoBoardArticleType,byte,uint16,bit&01,str
 85,2,109,15,False,"<Switch(IntegerParameter(1))><Case(1)>설중탕 건설 중입니다</Case><Case(2)>제15보 설중탕 건설 중입니다</Case></Switch>"
 86,2,111,16,False,"<Switch(IntegerParameter(1))><Case(1)>특별한 기념비 건설을 도와다오!</Case><Case(2)>제16보 특별한 기념비 건설을 도와다오!</Case></Switch>"
 87,2,112,17,True,"<Switch(IntegerParameter(1))><Case(1)>창천 거리 부흥이 완료되었습니다</Case><Case(2)>제17보 창천 거리 부흥이 완료되었습니다</Case></Switch>"
+88,1,0,0,True,""
+89,2,113,1,True,"창천 거리 부흥 축제가 열립니다!"
+90,3,112,6,True,"'창천 운동회' 설명"

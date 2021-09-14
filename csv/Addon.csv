@@ -1053,7 +1053,7 @@ int32,str
 1016,"<If(IntegerParameter(1))> <If(GreaterThan(IntegerParameter(2),0))>+<Else/></If><Value>IntegerParameter(2)</Value>% (최대 <Value>IntegerParameter(3)</Value>)<Else/> <If(GreaterThan(IntegerParameter(2),0))>+<Else/></If><Value>IntegerParameter(2)</Value></If>"
 1017,"식사 효과(획득 경험치+<Value>IntegerParameter(1)</Value>%)"
 1018,"<Value>IntegerParameter(1)</Value>회"
-1019,"<If(IntegerParameter(3))><Sheet(ClassJob,IntegerParameter(2),0)/>  <Gui(62)/><Emphasis>레벨<Highlight>StringParameter(1)</Highlight></Emphasis><Else/><Sheet(ClassJob,IntegerParameter(2),0)/>  레벨 <Highlight>StringParameter(1)</Highlight></If>    <If(GreaterThan(IntegerParameter(7),0))>경험치 --/--<Else/><If(GreaterThan(IntegerParameter(6),0))><Gui(76)/><UIForeground>F20203</UIForeground><UIGlow>F20204</UIGlow>경험치 <Value>IntegerParameter(4)</Value>/<Value>IntegerParameter(5)</Value><UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/>경험치 <Format(IntegerParameter(4),FF022C)/> / <Format(IntegerParameter(5),FF022C)/></If></If>"
+1019,"<If(IntegerParameter(3))><Sheet(ClassJob,IntegerParameter(2),0)/>  <Gui(62)/><Emphasis>레벨<Highlight>StringParameter(1)</Highlight></Emphasis><Else/><Sheet(ClassJob,IntegerParameter(2),0)/>  레벨 <Highlight>StringParameter(1)</Highlight></If>    <If(GreaterThan(IntegerParameter(7),0))>경험치 --/--<Else/><If(GreaterThan(IntegerParameter(6),0))><Gui(76)/><UIForeground>F20203</UIForeground><UIGlow>F20204</UIGlow>경험치 <Format(IntegerParameter(4),FF022C)/> / <Format(IntegerParameter(5),FF022C)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/>경험치 <Format(IntegerParameter(4),FF022C)/> / <Format(IntegerParameter(5),FF022C)/></If></If>"
 1020,"대규모 파티"
 1021,"소규모 파티"
 1022,"단독"
@@ -1211,6 +1211,12 @@ int32,str
 1172,"일련번호순"
 1173,"문자열순"
 1174,"지정한 순서대로 감정 표현을 정렬합니다."
+1180,"즐겨찾기로 등록했거나 최근에 사용한 감정 표현을 표시합니다."
+1181,"기본적인 감정 표현을 표시합니다."
+1182,"동작이 반복되거나, 동작을 바꿀 수 있는 등 특수한 감정 표현을 표시합니다."
+1183,"표정이 바뀌는 감정 표현을 표시합니다."
+1184,"습득한 감정 표현을 검색합니다.
+※ 명령어로도 검색할 수 있습니다."
 1185,"미니맵 북쪽 고정을 설정/해제합니다."
 1186,"잠그면 아이콘이 고정되어
 이동 및 해제할 수 없습니다."
@@ -2399,7 +2405,7 @@ int32,str
 2387,"집사 수행 보내기  [수행 중]"
 2388,"집사 장비 설정    [주 무기 장비 중]"
 2389,"집사 장비 설정    [<Gui(63)/>주 무기 없음]"
-2390,"집사 클래스 설정  [<Sheet(ClassJob,IntegerParameter(1),0)/>:   <Value>IntegerParameter(2)</Value> ]"
+2390,"집사 클래스 설정  [<Sheet(ClassJob,IntegerParameter(1),0)/>:  <Value>IntegerParameter(2)</Value> ]"
 2391,"집사 클래스 설정  [클래스 설정 없음]"
 2392,"<Sheet(ClassJob,IntegerParameter(1),0)/>  [선택 불가]"
 2393,"재의뢰"
@@ -2407,7 +2413,7 @@ int32,str
 2395,"집사 잡 설정"
 2396,"잡을 선택하십시오."
 2397,"<Gui(63)/>판매 의뢰 아이템 재매입"
-2398,"집사 레벨 업( <Value>IntegerParameter(2)</Value>) [필요 아이템: <Sheet(Item,IntegerParameter(1),0)/>]"
+2398,"집사 레벨 업(  <Value>IntegerParameter(2)</Value>) [필요 아이템: <Sheet(Item,IntegerParameter(1),0)/>]"
 2399,"<Gui(63)/>집사 급료 증서 교환(보유: <Value>IntegerParameter(1)</Value>개)"
 2400,"보물상자 확정 투표가 시작되었습니다."
 2401,"보상을 획득할 수 있는 파티원이 <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>명이므로
@@ -2814,6 +2820,7 @@ int32,str
    2위: <Value>IntegerParameter(2)</Value>개
    3위: <Value>IntegerParameter(3)</Value>개"
 2840,"?"
+2841,"방랑 모그리에게 건넬 교환 아이템을 얻을 수 있는 임무입니다."
 2842,"진행도 <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
 2843,"<Value>IntegerParameter(1)</Value>분 미만"
 2844,"<Value>IntegerParameter(1)</Value>분 이상"
@@ -3312,7 +3319,7 @@ int32,str
 3378,"달성한 업적만 표시합니다."
 3379,"미달성 업적만 표시합니다."
 3380,"칭호 보상 업적만 표시합니다."
-3381,"아이템 보상 업적만 표시합니다."
+3381,"기타 아이템 보상 업적만 표시합니다."
 3382,"해당 분류로 이동"
 3383,"조건에 맞는 업적이 없습니다."
 3384,"???"
@@ -3843,6 +3850,9 @@ int32,str
 4094,"선택지에 커서 자동 대기"
 4095,"캐릭터 광원 설정"
 4096,"자리 비움 시 프레임 속도 제한"
+4097,"UI 해상도 설정"
+4098,"UI 해상도"
+4099,"※ 게임을 다시 시작할 때 적용됩니다."
 4100,"<If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 일반 설정"
 4101,"게임패드 접속 유효화"
 4102,"사용 장치"
@@ -3892,6 +3902,8 @@ int32,str
 4150,"모두 표시"
 4151,"간략 표시"
 4152,"표시 안 함"
+4153,"표준 해상도: HD/FullHD"
+4154,"고해상도: 4K"
 4155,"흔들림 표현"
 4156,"자신"
 4157,"파티원"
@@ -3904,9 +3916,9 @@ int32,str
 4171,"소리 설정"
 4172,"그래픽 설정"
 4173,"마우스 설정"
-4174,"<If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 설정"
+4174,"<If(GreaterThan(PlayerParameter(75),0))>무선 컨트롤러<Else/>게임패드</If> 설정"
 4175,"언어 설정"
-4176,"컨트롤러 설정"
+4176,"무선 컨트롤러 설정"
 4177,"기타 설정"
 4178,"접근성 설정"
 4179,"테마 설정"
@@ -3974,7 +3986,8 @@ int32,str
 4257,"적용 안 함"
 4260,"A B X Y"
 4261,"○×△□"
-4262,"○×△□ + 터치패드"
+4262,"○×△□ + 터치패드(PS4)"
+4263,"○×△□ + 터치패드(PS5)"
 4265,"언어 설정에 맞춤"
 4266,"일본어"
 4267,"영어"
@@ -5221,6 +5234,7 @@ int32,str
 5495,"항목"
 5496,"검색"
 5497,"퀘스트: ???"
+5498,"이미 완료했기 때문에 보상이 없습니다."
 5500,"파이널판타지14 공식 가이드에 접속합니다."
 5501,"공식 가이드 열기"
 5502,"닫기"
@@ -5807,7 +5821,7 @@ PvP 시스템이나 대결 규칙에 대해서는
 게임을 종료하고 캐릭터 설정 데이터를 삭제하십시오."
 6111,"캐릭터 설정 데이터가 손상되었습니다.
 백업 데이터를 이용하여 복구를 시도합니다."
-6115,"이 검은 테두리가 보이지 않도록 PlayStation®4의 '표시 범위 설정'을 조정하십시오."
+6115,"검은 테두리가 보이지 않도록 <If(GreaterThan(PlayerParameter(75),0))><Switch(PlayerParameter(75))><Case(1)>PlayStation®3</Case><Case(2)>PlayStation®4</Case><Case(3)>PlayStation®4</Case><Case(4)>PlayStation®5</Case></Switch><Else/></If>의 '표시 범위 설정'을 조정하십시오."
 6120,"최신 소식"
 6121,"모든 공지사항"
 6122,"중요 공지사항"
@@ -7265,8 +7279,8 @@ PvP 시스템이나 대결 규칙에 대해서는
 7794,"토글(트리거를 눌렀다 뗀 후 버튼 조작)"
 7795,"혼합형"
 7796,"십자 단축바 표시 방식 설정"
-7797,"기본 표시: 방향키, 4버튼 | 방향키, 4버튼"
-7798,"기능별 표시: 방향키, 방향키 | 4버튼, 4버튼"
+7797,"<Gui(7)/>＋<Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/> | <Gui(7)/>＋<Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>"
+7798,"<Gui(7)/>＋<Gui(7)/> | <Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>＋<Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/>"
 7799,"십자 단축바 항상 표시"
 7800,"대화창 설정"
 7801,"이름 표시 방식"
@@ -7570,6 +7584,7 @@ PvP 시스템이나 대결 규칙에 대해서는
 8125,"<Sheet(EmoteCategory,2,0)/>"
 8126,"<Sheet(EmoteCategory,3,0)/>"
 8127,"즐겨찾기"
+8128,"검색"
 8130,"준비 확인"
 8131,""
 8132,"닫기"
@@ -7620,20 +7635,20 @@ PvP 시스템이나 대결 규칙에 대해서는
 8184,"90%"
 8185,"80%"
 8186,"60%"
-8190,"HUD 배열 정보 복사 (PS4↔PS Vita)"
+8190,"HUD 배열 정보 복사(리모트 플레이)"
 8191,"복사할 화면"
 8192,"선택한 화면 설정 복사하기"
 8193,"설정 복사하기"
-8194,"복사할 화면: <If(Equal(IntegerParameter(1),0))>일반 플레이 화면(PS4)<Else/>리모트 플레이 화면(PS Vita)</If>
-복사할 곳: <If(Equal(IntegerParameter(1),0))>리모트 플레이 화면(PS Vita)<Else/>일반 플레이 화면(PS4)</If>
+8194,"복사할 화면: <If(Equal(IntegerParameter(1),0))>일반 플레이 화면(<If(GreaterThan(PlayerParameter(75),0))><Switch(PlayerParameter(75))><Case(1)>PS3</Case><Case(2)>PS4™</Case><Case(3)>PS4™</Case><Case(4)>PS5™</Case></Switch><Else/></If>)<Else/>리모트 플레이 화면</If>
+복사할 곳: <If(Equal(IntegerParameter(1),0))>리모트 플레이 화면<Else/>일반 플레이 화면(<If(GreaterThan(PlayerParameter(75),0))><Switch(PlayerParameter(75))><Case(1)>PS3</Case><Case(2)>PS4™</Case><Case(3)>PS4™</Case><Case(4)>PS5™</Case></Switch><Else/></If>)</If>
 위 설정으로 HUD 레이아웃 정보를 덮어씁니다.
 계속하시겠습니까?"
 8195,"예"
 8196,"아니요"
-8197,"일반 플레이 화면 (PS4)"
-8198,"리모트 플레이 화면 (PS Vita)"
+8197,"일반 플레이 화면(<If(GreaterThan(PlayerParameter(75),0))><Switch(PlayerParameter(75))><Case(1)>PS3</Case><Case(2)>PS4™</Case><Case(3)>PS4™</Case><Case(4)>PS5™</Case></Switch><Else/></If>)"
+8198,"리모트 플레이 화면"
 8200,"물에 젖은 묘사 켜기"
-8201,"<If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 설정"
+8201,"<If(GreaterThan(PlayerParameter(75),0))>무선 컨트롤러<Else/>게임패드</If> 설정"
 8202,"스피커에서 나는 시스템 소리"
 8203,"스피커 음량"
 8204,"표시 제한"
@@ -7687,14 +7702,14 @@ PvP 시스템이나 대결 규칙에 대해서는
 8264,"마우스 커서에 가까이 있는 대상을 선택 후보로 표시"
 8265,"절대위치 조작"
 8266,"상대위치 조작"
-8270,"<If(Equal(PlayerParameter(75),3))>""PS4"" 표준 설정: Full HD 화면으로 플레이합니다. 처리 속도가 안정됩니다.<Else/>""PS4"" 표준 설정: Full HD 화면으로 플레이합니다.</If>"
+8270,"<If(Equal(PlayerParameter(75),3))>""PS4"" 표준 설정: FullHD(프레임 속도 중시)<Else/>""PS4"" 표준 설정: Full HD 화면으로 플레이합니다.</If>"
 8271,"표준품질: 글자 등을 보기 편한 HD 품질로 게임을 즐깁니다."
 8272,"UI 기본 크기"
 8273,"모두 적용"
 8274,"모든 UI 크기를 변경하시겠습니까?"
 8275,"모든 UI를 기본 크기로 변경"
 8276,"기본 크기"
-8277,"<If(Equal(PlayerParameter(75),3))>""PS4 Pro"" 확장 설정: 4K 모니터를 이용할 경우 화면 해상도가 향상됩니다.<Else/>""PS4 Pro"" 확장 설정: <Gui(63)/>""PS4 Pro""에서만 이용할 수 있습니다.</If>"
+8277,"<If(Equal(PlayerParameter(75),3))>""PS4 Pro"" 확장 설정: WQHD(4K 업스케일링)<Else/>""PS4 Pro"" 확장 설정: <Gui(63)/>""PS4 Pro""에서만 이용할 수 있습니다.</If>"
 8278,"사용자 인터페이스 배율"
 8279,"100%"
 8280,"150%"
@@ -7755,7 +7770,7 @@ PvP 시스템이나 대결 규칙에 대해서는
 8337,"의뢰"
 8338,"처치 대상: <Sheet(ObjStr,IntegerParameter(1),0)/>×<Value>IntegerParameter(2)</Value>"
 8339,"처치 대상: <Sheet(ObjStr,IntegerParameter(1),0)/>"
-8340,"돌발 임무 '<Sheet(Fate,IntegerParameter(1),30)/>' 달성"
+8340,"돌발 임무 '<Sheet(Fate,IntegerParameter(1),0)/>' 달성"
 8341,"길드 의뢰 '<Sheet(Leve,IntegerParameter(1),0)/>' 완료"
 8342,"<Sheet(PlaceName,IntegerParameter(1),0)/><If(IntegerParameter(2))> <Sheet(PlaceName,IntegerParameter(2),0)/><Else/></If>"
 8343,"아트마 획득"
@@ -8248,6 +8263,17 @@ PvP 시스템이나 대결 규칙에 대해서는
 8745,"표준"
 8746,"크게"
 8747,"최대"
+8748,"화면 해상도 설정"
+8749,"FullHD: 프레임 속도 중시"
+8750,"WQHD(4K 업스케일링): 표준/균형"
+8751,"4K: 화질 중시"
+8752,"사용자 인터페이스 표시 배율"
+8753,"100%"
+8754,"150%: FullHD 권장"
+8755,"200%: WQHD 권장/WQHD 이상에서만 유효"
+8756,"300%: 4K 권장/4K에서만 유효"
+8757,"시스템 UI 확대"
+8758,"※ 일부 시스템 UI만 확대됩니다."
 8791,"서버 초월 링크셸 [2]"
 8792,"서버 초월 링크셸 [3]"
 8793,"서버 초월 링크셸 [4]"
@@ -8869,9 +8895,10 @@ MGP는 반환되지 않습니다."
 9442,"알 수 없는 오류"
 9443,"덱에 넣을 수 있는 희귀 카드 매수를 초과했습니다."
 9444,"덱 구성 규칙
+・희귀도 ★★★★★: 최대 1장
+・희귀도 ★★★★ 이상: 최대 2장(※)
 ・희귀도 ★★★ 이하: 제한 없음
-・희귀도 ★★★★ 이상: 최대 1장
-"
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 희귀도 ★★★★★ 카드를 넣는 경우, 희귀도 ★★★★ 카드는 1장만 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 9445,"표준"
 9446,"수치"
 9447,"희귀도"
@@ -9190,12 +9217,12 @@ MGP는 반환되지 않습니다."
 9747,"<Switch(IntegerParameter(1))><Case(1)><Highlight>StringParameter(2)</Highlight></Case><Case(2)><Highlight>StringParameter(2)</Highlight>/<Highlight>StringParameter(3)</Highlight></Case><Case(3)><Highlight>StringParameter(2)</Highlight>/<Highlight>StringParameter(3)</Highlight>
 <Highlight>StringParameter(4)</Highlight></Case><Case(4)><Highlight>StringParameter(2)</Highlight>/<Highlight>StringParameter(3)</Highlight>
 <Highlight>StringParameter(4)</Highlight>/<Highlight>StringParameter(5)</Highlight></Case></Switch>"
-9748,"카드를 선택하여 덱을 짜십시오."
-9749,"카드 선택 1: 3장의 선택지 중 하나를 선택하십시오."
-9750,"카드 선택 2: 3장의 선택지 중 하나를 선택하십시오."
-9751,"카드 선택 3: 3장의 선택지 중 하나를 선택하십시오."
+9748,"덱에 넣을 카드를 선택하십시오."
+9749,"카드 선택 1: 선발 가능한 3가지 중에서 하나를 선택하십시오."
+9750,"카드 선택 2: 선발 가능한 3가지 중에서 하나를 선택하십시오."
+9751,"카드 선택 3: 선발 가능한 3가지 중에서 하나를 선택하십시오."
 9752,"남은 시간: <Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"
-9753,"추천"
+9753,"추천 편성"
 9754,"결정"
 9755,"<If(GreaterThan(IntegerParameter(1),0))><Highlight>StringParameter(2)</Highlight>
 <Highlight>StringParameter(3)</Highlight><Else/><Highlight>StringParameter(2)</Highlight></If>"
@@ -9227,9 +9254,9 @@ MGP는 반환되지 않습니다."
 9781,"<Sheet(ContentFinderCondition,IntegerParameter(1),37)/>"
 9782,"<Sheet(ContentFinderCondition,IntegerParameter(1),37)/>"
 9783,"<Sheet(ContentFinderCondition,IntegerParameter(2),37)/>
-<Sheet(Fate,IntegerParameter(1),30)/>"
+<Sheet(Fate,IntegerParameter(1),0)/>"
 9784,"<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(2),5)/>,0)/>
-<Sheet(Fate,IntegerParameter(1),30)/>"
+<Sheet(Fate,IntegerParameter(1),0)/>"
 9785,"<97>E803</97>
 대결: <Sheet(ObjStr,IntegerParameter(1),0)/>"
 9786,"<Sheet(TripleTriadCompetition,IntegerParameter(1),0)/>
@@ -9312,8 +9339,8 @@ MGP는 반환되지 않습니다."
 9852,"없음"
 9853,"남은 시간: <Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"
 9854,"결정"
-9855,"아래의 규칙 설정으로 토너먼트를 시작하시겠습니까?<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>
-※ 중간에 규칙을 변경할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+9855,"아래 규칙으로 설정하시겠습니까?
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 한번 정한 규칙은 토너먼트가 끝날 때까지 변경할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <Switch(IntegerParameter(1))><Case(1)>・<Highlight>StringParameter(2)</Highlight></Case><Case(2)>・<Highlight>StringParameter(2)</Highlight>
 ・<Highlight>StringParameter(3)</Highlight></Case><Case(3)>・<Highlight>StringParameter(2)</Highlight>
@@ -9330,7 +9357,7 @@ MGP는 반환되지 않습니다."
 9859,"모든 참가자가 대결을 마쳤습니다.
 결과를 집계하고 있습니다."
 9860,"덱 정보 확인 불가"
-9861,"덱 편성"
+9861,"덱 구성"
 9862,""
 9863,"<Value>IntegerParameter(1)</Value>차전"
 9864,"승점 <If(GreaterThanOrEqualTo(IntegerParameter(1),0))>+<Value>IntegerParameter(1)</Value><Else/><Value>IntegerParameter(1)</Value></If>　득실차 <If(GreaterThanOrEqualTo(IntegerParameter(2),0))>+<Value>IntegerParameter(2)</Value><Else/><Value>IntegerParameter(2)</Value></If>"
@@ -9739,8 +9766,8 @@ MGP는 반환되지 않습니다."
 10231,"PvP 임무용 설정"
 10232,"PvP용 설정 활성화"
 10233,"이중 십자 단축바 활성화: <CommandIcon(14)/> 또는 <CommandIcon(15)/>2회 눌러 사용"
-10234,"4버튼만 활성화"
-10235,"방향키와 4버튼 활성화"
+10234,"기술 버튼만 활성화"
+10235,"방향키와 기술 버튼 활성화"
 10236,"왼쪽 세트 표시: <CommandIcon(14)/>2회 입력"
 10237,"오른쪽 세트 표시: <CommandIcon(15)/>2회 입력"
 10238,"이중 십자 단축바 사용 시 입력 대기 시간"
@@ -9841,7 +9868,7 @@ MGP는 반환되지 않습니다."
 10359,"임무 중에는 정보를 가져올 수 없습니다."
 10360,"메달 획득"
 10361,"꼬마 친구 무작위 호출 시 즐겨찾기 중에서만 불러냅니다. ※ 즐겨찾기에 둘 이상 설정해야 합니다."
-10362,"탈것/나는 탈것 무작위 호출 시 즐겨찾기 중에서만 불러냅니다."
+10362,"탈것 무작위 호출 시 즐겨찾기 중에서만 불러냅니다."
 10363,"최대 탑승 인원"
 10364,"<Value>IntegerParameter(1)</Value>명"
 10365,"즐겨찾기에 탈것 또는 나는 탈것을 둘 이상 설정해야 합니다.
@@ -10160,17 +10187,17 @@ MGP는 반환되지 않습니다."
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 관전 파티는 2인 이상의 파티원이 필요합니다.
 ※ 관전 파티는 대결 파티 초대가 완료되지 않으면 초대할 수 없습니다.
 ※ 친선전 참가 신청 시에는 대전 파티, 관전 파티의 각 파티장이 같은 지역에 있어야 합니다.
-※인원수 제한 해제 설정은 친선전에 적용되지 않습니다.
+※ 인원수 제한 해제 설정은 친선전에 적용되지 않습니다.
 
 ※ 아래 조건에 해당될 경우 친선전 참가 신청이 취소됩니다.
-• 파티장이 해당 지역에서 이탈
+ • 파티장이 해당 지역에서 이탈
  • 파티장 변경
-• 파티장 혹은 파티원 접속 종료
+ • 파티장 혹은 파티원 접속 종료
  • 파티에 새로운 파티원 참가
  • 파티원이 파티에서 탈퇴
-• 파티 해체
-• 친선전에 초대받은 파티가 친선전 참가 거절
-• '모두 취소' 버튼 사용
+ • 파티 해체
+ • 친선전에 초대받은 파티가 친선전 참가 거절
+ • '모두 취소' 버튼 사용
 <UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10708,"모두 취소"
 10709,"닫기"
@@ -10361,7 +10388,7 @@ MGP는 반환되지 않습니다."
 검색 결과는 10건까지 표시됩니다."
 10910,"모집자 이름"
 10911,"검색"
-10912,"레벨 <Highlight>StringParameter(1)</Highlight><If(IntegerParameter(3))> <Gui(88)/><Else/></If> <Highlight>StringParameter(2)</Highlight>"
+10912,"레벨 <Highlight>StringParameter(1)</Highlight> <If(IntegerParameter(3))><Gui(88)/><Else/></If> <Highlight>StringParameter(2)</Highlight>"
 10913,"레벨 ??<If(IntegerParameter(2))> <Gui(88)/><Else/></If> <Highlight>StringParameter(1)</Highlight>"
 10914,"모집자 이름으로 검색"
 10915,"모집 범위"
@@ -11711,8 +11738,8 @@ PvP팀 등록에 동의하십니까?"
 12245,""
 12246,"활성 기술"
 12247,"미등록"
-12248,"불러오기"
-12249,"저장"
+12248,"활성 기술 세트 불러오기"
+12249,"활성 기술 세트 저장"
 12250,"청마도서"
 12251,"원하는 기술을 청마도서에서 선택하면 활성화되며,
 활성화된 기술은 단축바에 등록하여 사용할 수 있습니다."
@@ -11806,11 +11833,11 @@ PvP팀 등록에 동의하십니까?"
 12338,"적도라"
 12339,"대삼원(파오)"
 12340,"대사희(파오)"
-12341,""
-12342,""
-12343,""
-12344,""
-12345,""
+12341,"성과 이름 모두 표시"
+12342,"성만 머릿글자로 표시"
+12343,"이름만 머릿글자로 표시"
+12344,"성과 이름 모두 머릿글자로 표시"
+12345,"파티 목록 설정에 따름"
 12346,"스프리건"
 12347,"모그리"
 12348,"만드라고라"
@@ -11832,9 +11859,9 @@ PvP팀 등록에 동의하십니까?"
 12364,""
 12365,""
 12366,""
-12367,""
-12368,""
-12369,""
+12367,"작패유희 플레이어 이름 표시 설정"
+12368,"자신"
+12369,"다른 플레이어"
 12370,"플레이어 대국 전적"
 12371,"NPC 대국 전적"
 12372,"총 경기 횟수"
@@ -12550,6 +12577,17 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 13026,"갱신 기간 안에 자격을 재취득하지 않으면
 기간이 종료된 후 멘토 자격을 상실합니다.
 조속히 멘토 자격을 재취득하시기 바랍니다."
+13030,"'무작위 임무: 레벨링' 목적지 제한"
+13031,"미리 구성된 파티로 '무작위 임무: 레벨링'을 신청하면 파티원의 레벨에 따라 적절한 목적지가 선택됩니다.
+
+참가 조건 레벨이 파티원의 최저 레벨보다 8 이상 낮은 임무는 목적지에서 제외됩니다.
+(예시)
+파티원 중에서 가장 낮은 레벨이 70인 경우, 참가 조건 레벨이 63 이상 70 이하인 임무 중에서 목적지가 무작위로 결정됩니다.
+
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>이 기능을 이용하려면 아래 조건을 모두 충족해야 합니다.
+• 미리 구성된 파티로 신청(단독 또는 3명 이하 파티로 신청 시 무효)
+• 목적지 제한에 맞는 임무가 2개 이상 존재
+※ 파티에 속한 경우, 파티장의 설정이 반영됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 13032,"나무인형 소환"
 13033,"나무인형 제거"
 13034,"I"
@@ -12562,6 +12600,7 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 •자유 탐색 전용 기술
 •꼬마 친구/탈것/패션 소품 사용
 •직업 변경(제작자 및 채집가 제외)
+•악기 연주
 
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ 대상 던전을 한 번 이상 완료해야 이용할 수 있습니다.
 ※ 파티에 속한 경우, 파티장의 설정이 반영됩니다.
@@ -12688,7 +12727,7 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 13155,"적(일부 NPC 포함)"
 13156,"캐릭터 광원"
 13157,"밝기 수동 조정 켜기"
-13158,""
+13158,"일부 시각 효과 계열 사물"
 13159,"사용자 정의"
 13160,"모두 보이기"
 13161,"모두 숨기기"
@@ -12742,6 +12781,8 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 13209,"안내가 있을 때까지 기다려 주세요."
 13210,"최신 게시물로 돌아가기"
 13211,"부흥 사업 계획의 과거 기록을 확인할 수 있습니다."
+13212,"창천 운동회가 개최될 때까지 기다려 주세요."
+13213,"창천 운동회 개최 중! 많은 참가 바랍니다."
 13220,"이슈가르드 부흥 <Gui(64)/>"
 13221,"자재를 납품해 주세요!"
 13222,"순위 집계 종료까지  <If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>일 <Else/></If><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>시간 <Else/></If><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>분<Else/><If(GreaterThan(IntegerParameter(2),0))><Else/>1분 이내</If></If>"
@@ -12749,6 +12790,9 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 13224,"부흥 공동 작업이 진행되고 있습니다.
 참가 희망자는 창천 거리로 와 주세요!"
 13225,"부흥 사업 계획이 완료되었습니다!"
+13226,"다음 운동회까지 <If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>일 <Else/></If><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>시간 <Else/></If><If(GreaterThan(IntegerParameter(3),0))><Value>IntegerParameter(3)</Value>분<Else/><If(GreaterThan(IntegerParameter(2),0))><Else/><If(GreaterThan(IntegerParameter(1),0))><Else/>1분 이내</If></If></If>"
+13227,"창천 운동회 개최 중! 많은 참가 바랍니다"
+13228,"이번 창천 운동회는 종료되었습니다"
 13230,"고압 에테르"
 13231,"기술 순위"
 13232,""
@@ -13046,6 +13090,26 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 13643,"합계 점수"
 13644,"선상 과제"
 13645,": <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
+13650,"현재 활성 기술과 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>청마법이 등록된 단축바 칸<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 활성 기술 세트로 저장합니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 공유 단축바에 등록한 청마법은 저장되지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13651,"저장된 활성 기술 세트에서 활성 기술과 청마법 단축바를 불러옵니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 공유 단축바는 변경되지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13652,"활성 기술과 청마법 단축바를 [<Highlight>StringParameter(1)</Highlight>]에 저장하시겠습니까?"
+13653,"[<Highlight>StringParameter(1)</Highlight>]에 저장한 활성 기술과 청마법 단축바를 불러오시겠습니까?"
+13654,"[<Highlight>StringParameter(1)</Highlight>]에 저장한 활성 기술을 불러오시겠습니까?
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 활성 기술 세트에는 단축바가 저장되어 있지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13655,"활성 기술 세트에 저장합니다.
+단축바는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>청마도사용 단축바에 등록된 것만<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 저장됩니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 공유 단축바에 등록한 청마법은 저장되지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13656,"활성 기술 세트를 불러옵니다.
+<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>단축바 저장 내용은 청마도사용 단축바에 복원됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13657,"현재 활성 기술과 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>청마도사용 단축바<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 [<Highlight>StringParameter(1)</Highlight>]에 저장하시겠습니까?"
+13658,"[<Highlight>StringParameter(1)</Highlight>]에 저장한 활성 기술 세트를 불러오시겠습니까?
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>단축바 저장 내용은 청마도사용 단축바에 복원됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13659,"[<Highlight>StringParameter(1)</Highlight>]에 저장한 활성 기술을 불러오시겠습니까?"
+13660,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>단축바 내용은 청마도사용 단축바에 복원되었습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+13661,"현재 활성 기술을 [<Highlight>StringParameter(1)</Highlight>]에 저장합니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 청마도사가 아니므로, 청마법 단축바는 저장되지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 13670,"패션 소품 사용 중"
 13671,"패션 소품"
 13672,""
@@ -13243,6 +13307,13 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 13952,"지그소 퍼즐을 종료하시겠습니까?"
 13953,"복원을 완료하시겠습니까?"
 13954,"재도전하시겠습니까?"
+13958,"보상 아이템을 받으시겠습니까?"
+13959,"미달성"
+13960,"받을 수 있음"
+13961,"이미 받음"
+13962,"탈것 보상 업적만 표시합니다."
+13963,"꼬마 친구 보상 업적만 표시합니다."
+13964,"장비 보상 업적만 표시합니다."
 13980,"로스트 휴대함에 넣기"
 13981,"로스트 휴대함에 모두 넣기"
 13982,"로스트 보관함에 넣기"
@@ -13255,6 +13326,7 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 13987,"참가할 수 있는 비상 교전이 발생했습니다!"
 13988,"비상 교전"
 13989,"관련 항목 <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
+13991,"용감도"
 14000,"스티커 모드"
 14001,"화면에 스티커를 붙일 수 있는
 스티커 모드로 전환합니다."
@@ -13329,6 +13401,26 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 14103,"왼쪽"
 14104,"가운데"
 14105,"오른쪽"
+14106,"고향 서버 표시"
+14107,"칭호(칭호가 설정된 경우에만 표시)"
+14108,"직업 이름"
+14109,"레벨 표시"
+14110,"지역 좌표"
+14111,"저작권"
+14112,"<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>"
+14113,"<Sheet(ClassJob,IntegerParameter(1),0)/>"
+14114,"<Sheet(ClassJob,IntegerParameter(1),0)/> <Highlight>StringParameter(2)</Highlight>"
+14115,"대리 체험"
+14116,"X:<Value>IntegerParameter(1)</Value><If(IntegerParameter(2))><Switch(IntegerParameter(2))><Case(1)>₁</Case><Case(2)>₂</Case><Case(3)>₃</Case><Case(4)>₄</Case><Case(5)>₅</Case><Case(6)>₆</Case><Case(7)>₇</Case><Case(8)>₈</Case><Case(9)>₉</Case></Switch><Else/>₀</If> Y:<Value>IntegerParameter(3)</Value><If(IntegerParameter(4))><Switch(IntegerParameter(4))><Case(1)>₁</Case><Case(2)>₂</Case><Case(3)>₃</Case><Case(4)>₄</Case><Case(5)>₅</Case><Case(6)>₆</Case><Case(7)>₇</Case><Case(8)>₈</Case><Case(9)>₉</Case></Switch><Else/>₀</If>"
+14117,"X:<Value>IntegerParameter(1)</Value><If(IntegerParameter(2))><Switch(IntegerParameter(2))><Case(1)>₁</Case><Case(2)>₂</Case><Case(3)>₃</Case><Case(4)>₄</Case><Case(5)>₅</Case><Case(6)>₆</Case><Case(7)>₇</Case><Case(8)>₈</Case><Case(9)>₉</Case></Switch><Else/>₀</If> Y:<Value>IntegerParameter(3)</Value><If(IntegerParameter(4))><Switch(IntegerParameter(4))><Case(1)>₁</Case><Case(2)>₂</Case><Case(3)>₃</Case><Case(4)>₄</Case><Case(5)>₅</Case><Case(6)>₆</Case><Case(7)>₇</Case><Case(8)>₈</Case><Case(9)>₉</Case></Switch><Else/>₀</If> Z:<If(LessThan(IntegerParameter(7),0))>-<Else/></If><Value>IntegerParameter(5)</Value><If(IntegerParameter(6))><Switch(IntegerParameter(6))><Case(1)>₁</Case><Case(2)>₂</Case><Case(3)>₃</Case><Case(4)>₄</Case><Case(5)>₅</Case><Case(6)>₆</Case><Case(7)>₇</Case><Case(8)>₈</Case><Case(9)>₉</Case></Switch><Else/>₀</If>"
+14118,"© SQUARE ENIX CO., LTD. Published in Korea by ACTOZ SOFT CO., LTD."
+14119,"칭호"
+14120,"직업 이름"
+14121,"지역 좌표"
+14122,"저작권"
+14123,"스티커 좌우 반전"
+14124,"스티커 상하 반전"
+14125,"X:?.? Y:?.?"
 14150,"내구도"
 14151,"소장 가치"
 14152,"<Value>IntegerParameter(1)</Value>"
@@ -13370,6 +13462,34 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 14206,"기술 소비 CP가 50% 줄어든 상태."
 14207,"기술 효과가 2회 더 지속되는 상태."
 14208,"작업 진행량이 보통의 1.5배가 되는 상태."
+14350,"놓아주기 대상 선택"
+14351,""
+14352,"NQ(일반 품질)"
+14353,"HQ(높은 품질)"
+14354,"적용"
+14355,"닫기"
+14356,"변경 내용을 취소하시겠습니까?"
+14357,"전체"
+14401,"일련번호순"
+14402,"문자열순"
+14403,"검색"
+14404,"문자열로 감정 표현을 검색합니다.
+최대 10건까지 표시됩니다."
+14405,"감정 표현을 찾을 수 없습니다."
+14406,"아이콘 도움말"
+14407,""
+14408,"평상시 이용 가능"
+14409,"물위에서 이용 가능"
+14410,"물속에서 이용 가능"
+14411,"바닥에 앉은 상태로 이용 가능"
+14412,"의자에 앉은 상태로 이용 가능"
+14413,"탈것 탑승 중 이용 가능"
+14414,"패션 소품(우산) 사용 중에 이용 가능"
+14415,"패션 소품(날개) 사용 중에 이용 가능"
+14416,"낚시 중에 이용 가능"
+14417,"닫기"
+14418,"아이콘 도움말을 표시합니다."
+14419," "
 101000,"<CommandIcon(10)/>세부 메뉴"
 101001,"<CommandIcon(11)/>"
 101002,"<CommandIcon(19)/>선택"
@@ -13384,7 +13504,7 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 101030,"<CommandIcon(8)/>보조 기술로 등록"
 101031,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>선택"
 101032,"<CommandIcon(8)/>장비 변경  <CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경"
-101033,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)> <CommandIcon(2)/>탭 전환</Case></Switch><Else/> <CommandIcon(2)/>탭 전환</If> <CommandIcon(11)/>로그 확대"
+101033,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환 <CommandIcon(11)/>로그 확대"
 101034,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>대화 입력으로 돌아가기<CommandIcon(11)/>로그 확대"
 101035,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>대화 입력으로 돌아가기<CommandIcon(11)/>로그를 보통 크기로 되돌리기"
 101036,"<CommandIcon(5)/>이력  <CommandIcon(10)/>삭제  <CommandIcon(13)/>상용구  <If(GreaterThan(PlayerParameter(75),0))> <CommandIcon(11)/>가상 키보드<Else/><Indent/></If>"
@@ -13458,7 +13578,7 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 101104,"<CommandIcon(23)/>지도 스크롤"
 101105,"<CommandIcon(23)/>지도 스크롤 <CommandIcon(8)/>어류도감 표시"
 101106,"<CommandIcon(19)/>선택"
-101107,"<CommandIcon(1)/>로그 선택<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)> <CommandIcon(2)/>탭 전환</Case></Switch><Else/> <CommandIcon(2)/>탭 전환</If> <CommandIcon(11)/>로그 확대"
+101107,"<CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환 <CommandIcon(11)/>로그 확대"
 101108,"<CommandIcon(1)/>로그 선택 <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
 101109,"<CommandIcon(11)/>넣을 아이템 선택"
 101110,"<CommandIcon(10)/>변경 전으로 되돌리기"
@@ -13473,16 +13593,16 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 101119,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
 101120,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If> <CommandIcon(12)/>+<CommandIcon(11)/><If(IntegerParameter(2))>받침대 위에 물건 놓기 켜기<Else/>받침대 위에 물건 놓기 끄기</If>"
 101121,"<CommandIcon(10)/>단축바에 등록"
-101122,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)> <CommandIcon(2)/>탭 전환</Case></Switch><Else/> <CommandIcon(2)/>탭 전환</If>"
+101122,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환"
 101123,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(9)/>뒤로"
-101124,"<CommandIcon(1)/>로그 선택<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)> <CommandIcon(2)/>탭 전환</Case></Switch><Else/> <CommandIcon(2)/>탭 전환</If>"
+101124,"<CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환"
 101125,"<CommandIcon(12)/><CommandIcon(13)/>탭 전환"
 101126,"<CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그 확대"
 101127,"<CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
 101128,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>지역 변경 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소"
 101129,"<CommandIcon(10)/>세부 메뉴"
 101130,"<CommandIcon(9)/>뒤로"
-101131,"<CommandIcon(1)/>로그 선택<If(PlayerParameter(75))><Switch(PlayerParameter(75))><Case(1)></Case><Case(2)> <CommandIcon(2)/>탭 전환</Case></Switch><Else/> <CommandIcon(2)/>탭 전환</If>"
+101131,"<CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환"
 101132,"<CommandIcon(12)/><CommandIcon(13)/>클래스 선택"
 101133,"<CommandIcon(12)/><CommandIcon(13)/>범주 선택 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>제작하기"
 101134,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>제작"
@@ -13782,7 +13902,7 @@ NPC와 함께 입장하려면, 임무 찾기를 이용할 때와 마찬가지로
 102442,"일일 퀘스트"
 102443,""
 102444,"오늘 남은 수주권: <Value>IntegerParameter(1)</Value>"
-102445,"'<Sheet(Fate,IntegerParameter(1),30)/>'<13>FF0E02280AFF0546617465E8021F03FF04EBA5BCFF04EC9D84</13> 시작하시겠습니까?"
+102445,"'<Sheet(Fate,IntegerParameter(1),0)/>'<13>FF0E02280AFF0546617465E8020103FF04EBA5BCFF04EC9D84</13> 시작하시겠습니까?"
 102446,"대화하기"
 102450,"PvP 프로필"
 102451,""
@@ -13905,7 +14025,7 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102582,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>보상 아이템 획득 완료<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 102583,"<Value>IntegerParameter(1)</Value>인 전용 (방어: <Value>IntegerParameter(2)</Value>명 / 회복: <Value>IntegerParameter(3)</Value>명 / 공격: <Value>IntegerParameter(4)</Value>명)"
 102584,"<Value>IntegerParameter(1)</Value>인 이하 전용 (방어: <Value>IntegerParameter(2)</Value>명 / 회복: <Value>IntegerParameter(3)</Value>명 / 공격: <Value>IntegerParameter(4)</Value>명)"
-102585,"1 ~ <Value>IntegerParameter(1)</Value>인용(방어: <Value>IntegerParameter(2)</Value> / 회복: <Value>IntegerParameter(3)</Value> / 공격: <Value>IntegerParameter(4)</Value>)×<Value>IntegerParameter(5)</Value>파티"
+102585,"<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><Value>IntegerParameter(1)</Value>~<Else/></If><Value>IntegerParameter(2)</Value>인용<If(GreaterThan(IntegerParameter(3),0))>(방어: <Value>IntegerParameter(4)</Value> / 회복: <Value>IntegerParameter(5)</Value> / 공격: <Value>IntegerParameter(6)</Value>)<Else/></If>×<Value>IntegerParameter(7)</Value>파티"
 102586,"해당 임무 2개 이상의 참가 조건 만족"
 102587,"보상 획득: 1일 1회 가능"
 102588,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>보상 획득함<If(GreaterThan(IntegerParameter(2),1))> <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value><Else/></If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -13926,7 +14046,7 @@ Patch4.0から不要なログのはずなのでこれが出た場合要チェッ
 102602,"임무를 지정된 순서로 정렬합니다."
 102603,"1~<Value>IntegerParameter(1)</Value>인용×3~9개 파티"
 102604,"아이템 레벨 조율: <Value>IntegerParameter(1)</Value>
-※ 아이템 레벨 조율 중에는 모든 장비의 성능이 조율된 아이템 레벨 이하로 조정됩니다."
+<If(GreaterThan(IntegerParameter(2),0))>※ 아이템 레벨 조율 중에는 모든 장비의 성능이 조율된 아이템 레벨 이하로 조정됩니다.<Else/>※ 아이템 레벨 조율 중에는 모든 장비의 성능이 조율된 아이템 레벨로 조정됩니다.</If>"
 102605,"평균 아이템 레벨 <Value>IntegerParameter(1)</Value> 이상
 아이템 레벨 조율: <Value>IntegerParameter(2)</Value>
 ※ 아이템 레벨 조율 중에는 모든 장비의 성능이 조율된 아이템 레벨 이하로 조정됩니다."

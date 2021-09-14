@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37
-#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Model,Scale,InactiveIdle[0],InactiveIdle[1],InactiveBattle,InactiveWandering,Behavior,Special,WanderingWait,Priority,Roulette,,Battle,LookAt,Poke,Enemy,Stroke,Clapping,Icon,Order,,,Cost,HP,,Skill{Angle},Skill{Cost},,,MinionRace
+#,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Model,Scale,InactiveIdle[0],InactiveIdle[1],InactiveBattle,InactiveWandering,Behavior,Special,WanderingWait,Priority,,,,,,Enemy,Battle,Roulette,Icon,Order,IdleAnimation,,Cost,HP,,Skill{Angle},Skill{Cost},,,MinionRace
 int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte,byte,CompanionMove,byte,byte,uint16,bit&01,bit&02,bit&04,bit&08,bit&10,uint16,bit&20,bit&40,Image,uint16,bit&80,byte,byte,uint16,byte,uint16,byte,byte,uint16,MinionRace
 0,"",0,"",0,0,1,0,0,0,100,0,0,0,0,0,0,8,0,False,False,False,False,False,0,False,True,0,0,False,0,10,100,0,0,20,0,0,0
 1,"꼬마 봄",0,"",0,0,1,0,0,427,100,30,0,0,0,2,0,8,1,True,False,True,False,False,0,False,True,4403,1001,True,0,10,390,5,360,30,1,600,2
@@ -378,7 +378,7 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 374,"고대인형",0,"",0,0,1,0,0,2894,90,10,0,0,0,1,0,8,412,False,True,True,False,False,0,False,True,4774,10023,True,0,20,470,22,360,20,1,632,3
 375,"지휘관 상어",0,"",0,0,1,0,0,2895,100,10,0,0,0,2,0,8,413,True,False,True,False,True,0,False,True,4775,4010,True,0,15,450,38,30,20,1,640,2
 376,"둘리아 인형",0,"",0,0,1,0,0,2896,100,10,0,0,0,1,0,8,414,False,True,True,False,False,0,False,True,4776,9040,True,0,30,660,20,120,20,2,631,3
-377,"어린 아마로",0,"",0,0,1,0,0,2897,100,10,0,0,0,2,0,8,417,True,False,True,False,True,0,False,True,4777,10024,False,0,15,430,43,0,20,1,620,1
+377,"어린 아마로",0,"",0,0,1,0,0,2897,100,10,0,0,0,2,0,8,417,True,False,True,False,True,0,False,True,4777,1093,True,0,15,430,43,0,20,1,620,2
 378,"라라다일",0,"",0,0,1,0,0,2898,100,10,1,0,0,2,0,8,415,True,False,True,False,True,0,False,True,4778,4011,True,0,20,470,46,0,20,1,620,1
 379,"불행토끼",0,"",0,0,1,0,0,2899,100,10,0,0,0,1,0,8,416,False,True,True,False,False,0,False,True,4779,10025,True,0,25,480,17,0,30,1,620,3
 380,"라리호 드워프",0,"",0,0,1,0,0,2977,100,10,0,0,0,1,0,8,418,False,True,False,True,False,0,False,True,4780,12903,True,0,10,430,19,30,30,1,601,3
@@ -397,23 +397,39 @@ int32,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,ModelChara,byte,byte,byte,byte
 393,"백귀공주",0,"",0,0,1,0,0,2990,100,10,0,0,0,2,0,8,324,True,False,True,False,True,0,False,True,4793,13019,False,0,15,430,19,30,30,1,611,2
 394,"자동인형 2B",0,"",0,0,1,0,0,2991,100,10,0,0,0,1,0,8,426,False,True,False,True,False,0,False,True,4794,13023,False,0,25,550,38,30,40,1,604,3
 395,"자동인형 2P",0,"",0,0,1,0,0,2992,100,10,0,0,0,1,0,8,426,False,True,False,True,False,0,False,True,4795,13023,False,0,20,380,26,120,20,1,622,3
-396,"모모라 모라!!!",0,"",0,0,1,0,0,3032,100,10,0,0,0,2,5,8,427,True,False,True,False,True,0,False,True,4796,4012,False,0,25,530,40,0,30,1,631,1
-397,"실드라급 잠수함 P형",0,"",0,0,1,0,0,3033,100,10,0,0,0,1,0,8,428,False,True,False,True,False,0,False,True,4797,11007,False,0,30,470,1,30,20,1,604,4
-398,"가이아 인형",0,"",0,0,1,0,0,3034,100,10,0,0,0,1,0,8,429,False,True,False,True,False,0,False,True,4798,9043,False,0,10,240,32,0,30,1,620,3
-399,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+396,"모모라 모라!!!",0,"",0,0,1,0,0,3032,100,10,0,0,0,2,5,8,427,True,False,True,False,True,0,False,True,4796,4012,True,0,25,530,40,0,30,1,631,1
+397,"실드라급 잠수함 P형",0,"",0,0,1,0,0,3033,100,10,0,0,0,1,0,8,428,False,True,False,True,False,0,False,True,4797,11007,True,0,30,470,1,30,20,1,604,4
+398,"가이아 인형",0,"",0,0,1,0,0,3034,100,10,0,0,0,1,0,8,429,False,True,False,True,False,0,False,True,4798,9043,True,0,10,240,32,0,30,1,620,3
+399,"파롬 인형",0,"",0,0,1,0,0,3035,100,0,10,0,0,1,16,8,242,False,True,False,True,False,400,False,True,4799,12044,False,0,15,480,12,360,20,2,626,3
 400,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-401,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-402,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-403,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-404,"세이브 더 프린세스",0,"",0,0,1,0,0,3040,100,10,0,0,0,1,0,8,430,False,True,False,True,False,0,False,True,4804,2107,False,0,15,400,25,360,20,1,625,2
-405,"또륵이",0,"",0,0,1,0,0,3106,100,10,0,0,0,2,0,8,431,True,False,True,False,True,0,False,True,4805,1091,False,0,20,380,31,0,30,2,620,2
-406,"트라이크",0,"",0,0,1,0,0,3107,100,10,0,0,0,2,0,8,432,True,False,True,False,True,0,False,True,4806,1092,False,0,30,800,28,120,20,1,605,2
-407,"황금 비버",0,"",0,0,1,0,0,3156,100,10,5,0,0,2,0,8,391,True,False,True,False,True,0,False,True,4807,6004,False,0,25,520,34,0,30,1,620,1
-408,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-409,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-410,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-411,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-412,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-413,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-414,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
-415,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+401,"엣지 인형",0,"",0,0,1,0,0,3037,100,10,0,0,0,1,0,8,242,False,True,False,True,False,0,False,True,4801,12046,False,0,25,500,11,360,20,1,617,3
+402,"리디아 인형",0,"",0,0,1,0,0,3038,100,10,0,0,0,1,0,8,242,False,True,False,True,False,0,False,True,4802,12047,False,0,30,440,39,0,20,1,620,3
+403,"로자 인형",0,"",0,0,1,0,0,3039,100,10,0,0,0,1,0,8,242,False,True,False,True,False,0,False,True,4803,12048,False,0,10,380,27,360,30,1,615,3
+404,"세이브 더 프린세스",0,"",0,0,1,0,0,3040,100,10,0,0,0,1,0,8,430,False,True,False,True,False,0,False,True,4804,2107,True,0,15,400,25,360,20,1,625,2
+405,"또륵이",0,"",0,0,1,0,0,3106,100,10,0,0,0,2,0,8,431,True,False,True,False,True,0,False,True,4805,1091,True,0,20,380,31,0,30,2,620,2
+406,"트라이크",0,"",0,0,1,0,0,3107,100,10,0,0,0,2,0,8,432,True,False,True,False,True,0,False,True,4806,1092,True,0,30,800,28,120,20,1,605,2
+407,"황금 비버",0,"",0,0,1,0,0,3156,100,10,5,0,0,2,0,8,391,True,False,True,False,True,0,False,True,4807,6004,True,0,25,520,34,0,30,1,620,1
+408,"갈매기",0,"",0,0,1,0,0,3108,100,10,0,0,0,2,2,8,433,True,False,True,False,True,0,False,True,4808,5010,False,0,10,440,18,360,30,1,624,1
+409,"개미핥기",0,"",0,0,1,0,0,3109,100,10,0,0,0,2,0,8,434,True,False,True,False,True,0,False,True,4809,3025,False,0,15,450,14,30,20,1,607,1
+410,"아기 돌고래",0,"",0,0,1,0,0,3110,120,10,0,0,0,2,5,8,435,True,False,True,False,True,0,False,True,4810,4013,False,0,20,450,19,120,30,1,608,1
+411,"마도 프레데터 추종형",0,"",0,0,1,0,0,3111,100,10,0,0,0,1,0,8,436,False,True,False,True,False,0,False,True,4811,11023,False,0,25,490,33,0,20,1,620,2
+412,"세뇨리따 사보텐더",0,"",0,0,1,0,0,3152,80,10,10,0,0,1,0,8,437,False,True,False,True,False,0,False,True,4812,9044,False,0,30,640,43,0,20,2,620,3
+413,"벤벤",0,"",0,0,1,0,0,3153,100,10,0,0,0,1,0,8,438,False,True,False,True,False,0,False,True,4813,11514,False,0,10,360,31,0,30,1,620,4
+414,"방랑자의 모닥불",0,"",0,0,1,0,0,3154,100,0,0,0,0,3,14,8,439,False,True,False,True,False,0,False,True,4814,11515,False,0,15,550,27,360,60,1,615,4
+415,"기계생명체",0,"",0,0,1,0,0,3155,100,10,0,0,0,1,0,8,440,False,True,False,True,False,0,False,True,4815,13024,False,0,20,490,38,120,30,1,609,4
+416,"라이나 인형",0,"",0,0,1,0,0,3214,100,0,10,0,0,1,15,8,441,False,True,False,True,False,381,False,True,4816,9045,False,0,25,540,10,0,20,1,620,3
+417,"루나르 인형",0,"",0,0,1,0,0,3215,100,0,10,0,0,1,15,8,442,False,True,False,True,False,331,False,True,4817,9046,False,0,30,540,25,360,20,1,625,3
+418,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+419,"자동인형 9S",0,"",0,0,1,0,0,3217,100,10,0,0,0,1,0,8,445,False,True,False,True,False,0,False,True,4819,13024,False,0,25,500,8,30,20,1,621,3
+420,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+421,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+422,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+423,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+424,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+425,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+426,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+427,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+428,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+429,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+430,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0
+431,"",0,"",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,0,False,False,0,0,False,0,0,0,0,0,0,0,0,0

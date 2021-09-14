@@ -13,7 +13,7 @@ int32,str,str
 6,"TEXT_CTSMYCRESISTANCELEVELUP_00681_A1_000_003","취소"
 7,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_020","이미 당신은
 더할 나위 없는 '전과'를 올리셨습니다.
-'남부 보즈야 전선'에서 당신의 명성이 자자합니다!"
+이 전장에 당신의 명성이 자자합니다!"
 8,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_030","……흠, 명성을 더 떨치고 싶으시면
 전장에서 더 많은 '전과'를 올리셔야 합니다."
 9,"TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_031","레지스탕스 랭크를 올리기 위해서는
@@ -26,35 +26,36 @@ int32,str,str
 12,"TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_051","레지스탕스 랭크가 상승하여
 새로운 '세이브 더 퀸' 관련 퀘스트를
 받을 수 있습니다!"
-13,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_060","그리고 당신의 훌륭한 활약을 높이 평가하여
+13,"TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_052",""
+14,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_060","그리고 당신의 훌륭한 활약을 높이 평가하여
 '로스트 휴대함'의 용량을 확장시켜 드렸습니다!
 더 많은 '로스트 기술'을 사용할 수 있으실 것입니다!"
-14,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_065","또한 '로스트 샤드'의 연구가 진행되어
+15,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_065","또한 '로스트 샤드'의 연구가 진행되어
 감정 가능한 샤드의 종류가 늘었다는 연락을 받았습니다!
 전장에서 반드시 활용해 주시기 바랍니다."
-15,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_070","그리고…… 날이 갈수록 전장의 분위기가 더 치열해지고 있다고
+16,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_070","그리고…… 날이 갈수록 전장의 분위기가 더 치열해지고 있다고
 들었습니다. 해방자님께서도 한층 더 주의를 기울이시면서
 전장에 임해 주시길 바랍니다……!"
-16,"TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_071","레지스탕스 랭크가 '<Value>IntegerParameter(1)</Value>' 이상일 때 전투불능이 되면
+17,"TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_071","레지스탕스 랭크가 '<Value>IntegerParameter(1)</Value>' 이상일 때 전투불능이 되면
 누적된 '전과'가 줄어듭니다."
-17,"TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_072","또한 전투불능이 된 후에 데존으로 귀환할 경우,
+18,"TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_072","또한 전투불능이 된 후에 데존으로 귀환할 경우,
 상기 페널티를 포함해 일정 수치의 '전과'가 줄어듭니다.
 감소 수치는 레지스탕스 랭크에 따라 달라집니다."
-18,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_080","이번에 보고해주신 '전과' 평가를 완료했습니다.
+19,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_080","이번에 보고해주신 '전과' 평가를 완료했습니다.
 그럼 해방자님의 무운을 빌겠습니다!"
-19,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_090","이런, 아무래도 해방자님이 올리신 '전과'는
+20,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_090","이런, 아무래도 해방자님이 올리신 '전과'는
 지금 말씀하신 내용만으로는 부족한 듯하군요…….
 '전과'를 더 보고하시겠습니까?"
-20,"TEXT_CTSMYCRESISTANCELEVELUP_00681_Q2_000_001","계속해서 '전과'를 보고하시겠습니까?"
-21,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_100","제 예상을 뛰어넘으셨군요……!
+21,"TEXT_CTSMYCRESISTANCELEVELUP_00681_Q2_000_001","계속해서 '전과'를 보고하시겠습니까?"
+22,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_100","제 예상을 뛰어넘으셨군요……!
 이렇게까지 '전과'를 올리고 계실 줄이야.
 어서 저항군 여러분께 알려드려야겠습니다."
-22,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_105","알겠습니다!
+23,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_105","알겠습니다!
 그럼 전투가 일단락되었을 때라도 좋으니
 보고를 부탁드리겠습니다!"
-23,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_110","대단하십니다…… 지금 보고해주신 '전과'를 들으니
+24,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_110","대단하십니다…… 지금 보고해주신 '전과'를 들으니
 당신의 명성은 이보다 더 높아질 수 없을 듯합니다!"
-24,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_111","이만큼이나 훌륭한 무공을 올리실 줄이야……
+25,"TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_111","이만큼이나 훌륭한 무공을 올리실 줄이야……
 역시 해방자님이십니다. 저도 감사 인사를 드리겠습니다.
 전장에서 이토록 활약해주심에 진심으로 감사드립니다!"
-25,"TEXT_CTSMYCRESISTANCELEVELUP_00681_PRG_TEST_001","（★未使用／削除予定★）"
+26,"TEXT_CTSMYCRESISTANCELEVELUP_00681_PRG_TEST_001","（★未使用／削除予定★）"

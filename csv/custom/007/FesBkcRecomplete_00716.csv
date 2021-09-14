@@ -1,0 +1,29 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000","'기간 한정 퀘스트 다시하기'는
+이미 완료한 기간 한정 퀘스트를
+기간 한정으로 다시 한번 체험할 수 있는 기능입니다."
+1,"TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001","'기간 한정 퀘스트 다시하기'를 실행하시겠습니까?"
+2,"TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002","・'기간 한정 퀘스트 다시하기'를 실행하면
+　다음 퀘스트가 미완료 상태가 됩니다.
+　　「<Sheet(Quest,IntegerParameter(1),0)/>」
+<If(Equal(IntegerParameter(2),0))><Else/>　　「<Sheet(Quest,IntegerParameter(2),0)/>」
+</If><If(Equal(IntegerParameter(3),0))><Else/>　　「<Sheet(Quest,IntegerParameter(3),0)/>」
+</If><If(Equal(IntegerParameter(4),0))><Else/>・퀘스트를 완료하기까지 다음 NPC에게
+　관련 아이템의 구입 및 교환을 할 수 없습니다.
+　　「<Sheet(ENpcResident,IntegerParameter(4),0)/>」
+</If><If(Equal(IntegerParameter(5),0))><Else/>　　「<Sheet(ENpcResident,IntegerParameter(5),0)/>」
+</If><If(Equal(IntegerParameter(4),0))><Else/>・개최 기간이 끝난 후에도
+　대상 퀘스트가 미완료인 경우에는
+　관련 아이템의 구입 및 교환을 할 수 없는 상태가 유지됩니다.
+</If>・기간 한정 퀘스트 다시하기 중에는
+　대상 퀘스트에서 보상을 얻을 수 없습니다.
+
+'기간 한정 퀘스트 다시하기'를 이용하실 때는
+개최 기간 내에 대상 퀘스트를 완료할 수 있도록
+충분한 플레이 시간을 확보하신 후에 즐겨 주시기 바랍니다.
+
+"
+3,"TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003","'기간 한정 퀘스트 다시하기' 실행하기"
+4,"TEXT_FESBKCRECOMPLETE_00716_TALK_ACTOR","（★未使用／削除予定★）"
