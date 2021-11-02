@@ -1,39 +1,75 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
-1,"",""
-2,"",""
-3,"",""
-4,"",""
-5,"",""
-6,"",""
-7,"",""
-8,"",""
-9,"",""
-10,"",""
-11,"",""
-12,"",""
-13,"",""
-14,"",""
-15,"",""
-16,"",""
-17,"",""
-18,"",""
-19,"",""
-20,"",""
-21,"",""
-22,"",""
-23,"",""
-24,"",""
-25,"",""
-26,"",""
-27,"",""
-28,"",""
-29,"",""
-30,"",""
-31,"",""
-32,"",""
-33,"",""
-34,"",""
-35,"",""
+0,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_000","해방자님, 고생이 많으십니다.
+'저항군 훈장'에 대해 무슨 볼일이십니까?"
+1,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_010","해방자님, 고생이 많으십니다.
+'저항군 훈장'은 모두 수여해 드렸습니다만
+저에게 무슨 볼일이십니까?"
+2,"TEXT_CTSMYCMEDAL_00719_Q1_000_000","무엇을 하시겠습니까?"
+3,"TEXT_CTSMYCMEDAL_00719_A1_000_000","'전과 인증서' 교환"
+4,"TEXT_CTSMYCMEDAL_00719_A1_000_001","전과 인증서를 건네고 '저항군 훈장' 받기"
+5,"TEXT_CTSMYCMEDAL_00719_A1_000_002","'저항군 훈장'에 대해 자세히 묻기"
+6,"TEXT_CTSMYCMEDAL_00719_A1_000_010","취소"
+7,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_100","……오, 해방자님은 이미
+견줄 자가 없을 정도로 무공을 세우셨습니다."
+8,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_101","더 이상 해방자님에게
+'전과 인증서'를 드릴 필요가 없습니다.
+당신의 용맹스러움은 이 전장에 충분히 알려져 있습니다……!"
+9,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_110","죄송합니다만, 해방자님의 현재 전과는
+'전과 인증서'를 받기에 부족해 보입니다…….
+전장에서 다시 공적을 쌓고 와주시면 감사하겠습니다."
+10,"TEXT_CTSMYCMEDAL_00719_SYSTEM_000_111","'전과 인증서'를 받으려면
+전과를 <Value>IntegerParameter(1)</Value> 이상 소지해야 합니다."
+11,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_120","'전과 인증서'를 원하시는군요?
+그럼, 당신의 전과를 확인하겠습니다!"
+12,"TEXT_CTSMYCMEDAL_00719_Q2_000_000","현재 소지 전과는 <Value>IntegerParameter(1)</Value>입니다.
+전과를 <Value>IntegerParameter(2)</Value> 소비하여
+전과 인증서를 <Value>IntegerParameter(3)</Value>장, 입수하시겠습니까?"
+13,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_130","상당히 훌륭한 전과를 올리신 것을 확인했습니다!
+자, '전과 인증서'를 받아 주십시오!"
+14,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_135","모은 '전과 인증서'를 가지고 오시면
+'저항군 훈장'을 수여해 드립니다.
+전과 인증서를 다 모으시면 다시 말을 걸어주십시오."
+15,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_140","훈장에는 전장에서의 활약을 기원하는 술법이 새겨져 있어
+몸에 많이 지니고 있을수록 가호의 강도도 강해진다고 합니다.
+보다 높은 곳을 목표로 하신다면 반드시……!"
+16,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_145","이 전장에서 해방자님의 무공 이야기를 듣지 못한 자는 없습니다.
+그 활약상은 마치 전설의 군신과도 같은…….
+훈장의 가호를 얻은 해방자님의 힘이 이 정도일 줄은……!"
+17,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_210","'저항군 훈장'을 받고 싶으시군요.
+어떤 훈장을 원하시는지 말씀해 주시겠습니까……?"
+18,"TEXT_CTSMYCMEDAL_00719_Q3_000_000","어떤 '저항군 훈장'을 교환하시겠습니까?
+(전과 인증서 보유 수: <Value>IntegerParameter(1)</Value>)"
+19,"TEXT_CTSMYCMEDAL_00719_A3_000_000","'수비 혜성 훈장' （<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>) 필요한 전과 인증서: <Value>IntegerParameter(3)</Value>"
+20,"TEXT_CTSMYCMEDAL_00719_A3_000_001","'용맹 혜성 훈장' （<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>) 필요한 전과 인증서: <Value>IntegerParameter(3)</Value>"
+21,"TEXT_CTSMYCMEDAL_00719_A3_000_002","'구명 혜성 훈장' （<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>) 필요한 전과 인증서: <Value>IntegerParameter(3)</Value>"
+22,"TEXT_CTSMYCMEDAL_00719_A3_000_010","취소"
+23,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_230","……흐음, 유감스럽지만
+선택하신 '저항군 훈장'을 건네기에는
+'전과 인증서'가 부족한 것 같습니다……."
+24,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_061","전장에서 '전과'를 더 올리신 후에 와주시면
+그에 맞는 '전과 인증서'를 드리겠습니다."
+25,"TEXT_CTSMYCMEDAL_00719_Q4_000_000","전과 인증서를 <Value>IntegerParameter(1)</Value>장 소비하여
+'수비 혜성 훈장'을 받으시겠습니까?"
+26,"TEXT_CTSMYCMEDAL_00719_Q4_000_001","전과 인증서를 <Value>IntegerParameter(1)</Value>장 소비하여
+'용맹 혜성 훈장'을 받으시겠습니까?"
+27,"TEXT_CTSMYCMEDAL_00719_Q4_000_002","전과 인증서를 <Value>IntegerParameter(1)</Value>장 소비하여
+'구명 혜성 훈장'을 받으시겠습니까?"
+28,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_250","전과 인증서를 모두 모으셨군요.
+그럼, '저항군 훈장'을 받아 주십시오……!"
+29,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_251","이 훈장은 보즈야의 모든 병사들이 동경하는 강자의 상징.
+훈장을 입수한 해방자님이 전장을 누비는 모습을 보면
+모두 용기를 얻을 것입니다!"
+30,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_270","해방자님……!
+당신은 드디어 모든 '저항군 훈장'을 손에 넣으셨습니다!"
+31,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_271","즉, 이 전장에서 견줄 자가 없는 무인이 되셨다는 증거!
+그 실력에 저희 보즈야 병사들은 물론이고,
+전장에서 싸우는 모든 자들이 존경의 마음을 가질 것입니다!"
+32,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_272","그 남다른 용맹함으로
+저희를 도와주신다면 이처럼 든든한 일은 없을 것입니다.
+앞으로도 해방자님이 도움을 주신다면 감사하겠습니다!"
+33,"TEXT_CTSMYCMEDAL_00719_SYSTEM_000_273","'저항군 훈장'에 의한 능력치 상승 효과가
+모든 종류, 최대로 부여되었습니다!"
+34,"TEXT_CTSMYCMEDAL_00719_TALK_ACTOR","（★未使用／削除予定★）"
+35,"TEXT_CTSMYCMEDAL_00719_RESISTANCECOUNCILOR_000_200","（★未使用／削除予定★）"

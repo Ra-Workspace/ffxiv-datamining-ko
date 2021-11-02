@@ -56,20 +56,38 @@ int32,str,str
 확실한 승리를 위해 동방 연합에도 더 많은 지원을 요청합시다.
 이제 얼마 남지 않았습니다! 모든 것은 보즈야 해방을 위해서!!"
 24,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_063","그런데 묻고 싶으신 것이 있으십니까?"
-25,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_070",""
-26,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_075",""
-27,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_076",""
-28,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_080",""
-29,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_081",""
-30,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_085",""
-31,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_086",""
-32,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_090",""
-33,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_095",""
-34,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_096",""
-35,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_100",""
-36,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_101",""
-37,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_102",""
-38,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_103",""
+25,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_070","이미 자트노르 고원에 선발대를 파견했습니다.
+우리는 주력 부대와 함께 '후발대'로 지금부터 이동할 것입니다.
+부디 해방자님도 저희와 함께 가주셨으면 합니다!"
+26,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_075","갈론드 아이언웍스 사의 리리야 님이 찾고 있었습니다.
+잔류 에너지 조사가 뭐라고 하는 것 같았습니다…….
+전선으로 떠나기 전에 리리야 님을 만나 주십시오."
+27,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_076","그런데 묻고 싶으신 것이 있으십니까?"
+28,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_080","적에게 제공권을 빼앗긴 이상,
+전선을 밀어올리는 건 쉽지 않을 겁니다.
+반드시 이 땅에서 결전에 임하고 싶습니다만……."
+29,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_081","그런데 묻고 싶으신 것이 있으십니까?"
+30,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_085","시드 님의 유사 청룡벽 덕분에 거정을 확보할 수 있었습니다.
+이대로 다음 거점까지 계속 공격을 할 수 있으면 좋겠습니다만,
+제IV군단의 저항은 한층 더 격렬해지겠지요……."
+31,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_086","그런데 묻고 싶으신 것이 있으십니까?"
+32,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_090","제IV군단이 고대 알라그 제국의 '악마'를 부활시키기 전에
+어떻게 해서든 기함 달리아다를 쳐야만 합니다……!
+시드 님께서 고안한 '대 청린기관 파동병기'를 믿어봅시다."
+33,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_095","……드디어 메네니우스와 결전을 펼치게 되겠군요.
+놈들이 발굴했다는 '알라그의 악마'가 걱정됩니다.
+마수왕 라이언도 아직 건재하니 쉬운 싸움은 아닐 것입니다."
+34,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_096","다시 한번 해방자님의 힘을 저희를 위해서……!"
+35,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_100","해방자님, 감사했습니다.
+당신 덕분에 보즈야를 우리 손으로 되찾을 수 있었습니다.
+깊은 감사를 드리며 진심으로 감사의 말씀 전합니다. "
+36,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_101","이대로 해방자님이 이 보즈야에 남아 계시고
+국가의 초석을 다시 세우는 데 도움을 부탁드리고 싶지만……
+흠 역시 그건 힘들겠지요."
+37,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_102","당신은 한곳에 안주하실 분이 아니십니다……
+앞으로도 약한 자를 위해 목숨을 걸고 계속 싸워나가시겠지요.
+……해방자님이 가시는 길에 여왕님의 가호가 있기를."
+38,"TEXT_REGOTH4MYCBAICHAOUEN_00657_000_103","그런데 묻고 싶으신 것이 있으십니까?"
 39,"TEXT_REGOTH4MYCBAICHAOUEN_00657_Q10_000_000","무엇을 물어보시겠습니까?"
 40,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A10_000_000","보즈야와 저항군에 대해서"
 41,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A10_000_001","강고스에 대해서"
@@ -77,12 +95,12 @@ int32,str,str
 43,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A10_100_002","신생 군힐드의 검에 대해서"
 44,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A10_000_003","바이샤엔에 대해서"
 45,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A10_000_0010","취소"
-46,"TEXT_REGOTH4MYCBAICHAOUEN_00657_Q20_000_000",""
-47,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A20_000_000",""
-48,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A20_000_001",""
-49,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A20_000_002",""
-50,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A20_000_003",""
-51,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A20_000_0010",""
+46,"TEXT_REGOTH4MYCBAICHAOUEN_00657_Q20_000_000","무엇을 물어보시겠습니까?"
+47,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A20_000_000","자트노르 고원에 대해서"
+48,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A20_000_001","바르데니스 전초지에 대해서"
+49,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A20_000_002","앞으로의 신생 보즈야에 대해서"
+50,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A20_000_003","로스틱에 대해서"
+51,"TEXT_REGOTH4MYCBAICHAOUEN_00657_A20_000_0010","취소"
 52,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_200","일사바드 대륙 남동부에 위치한 이 보즈야는 현재,
 보즈야 구역이란 이름으로 갈레말 제국의 지배를 받고 있습니다."
 53,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_201","보즈야 역사의 기원은 제3성력 시대까지 거슬러 올라갑니다.
@@ -252,39 +270,108 @@ int32,str,str
 108,"TEXT_REGOTH4MYCBAICHAOUEN_00657_BAISHAEN_100_509","그 후로 십여 년…… 지금은 최고참 간부 중 한 명이자
 일파를 통솔하는 위치에 있게 됐습니다만,
 그때나 지금이나 제 소원은 오직 단 하나, 보즈야의 해방뿐입니다……."
-109,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_600",""
-110,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_601",""
-111,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_602",""
-112,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_603",""
-113,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_604",""
-114,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_605",""
-115,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_610",""
-116,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_611",""
-117,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_700",""
-118,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_701",""
-119,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_702",""
-120,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_703",""
-121,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_704",""
-122,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_705",""
-123,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_710",""
-124,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_711",""
-125,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_712",""
-126,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_713",""
-127,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_714",""
-128,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_715",""
-129,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_801",""
-130,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_802",""
-131,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_803",""
-132,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_804",""
-133,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_805",""
-134,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_806",""
-135,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_807",""
-136,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_808",""
-137,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_809",""
-138,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_810",""
-139,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_811",""
-140,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_900",""
-141,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_901",""
-142,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_902",""
-143,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_903",""
-144,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_904",""
+109,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_600","고대 보즈야어로 '저물어가는 고원'이라 불리는 이 고원은
+남부 보즈야 전선의 북동쪽,
+달마스카 구역과의 경계 근처에 위치합니다."
+110,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_601","원래는 완만한 평야였다고 합니다만,
+제4재해 때 거대 지진으로 인해 융기와 침강이 반복된 결과
+크고 작은 테이블산을 가진 고원이 되었습니다."
+111,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_602","제4재해의 영향으로 땅 속성 크리스탈이 많이 출토되자
+한때는 산길잡이나 광산 노동자들이 이 땅을 많이 찾았고
+이곳저곳에 갱도가 만들어졌습니다."
+112,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_603","하지만 백 년 정도 전에 크리스탈은 채굴로 모두 고갈되어
+지금은 보시다시피 사람이 살지 않는 황야입니다."
+113,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_604","15년 전 위성 달라가브에서 쏟아진 대량의 에너지는
+보즈야를 사라지게 했을 뿐아니라 지맥을 통해 이곳에도 도달했죠.
+그 결과, 부유암 및 하늘섬이 생겨났다고 합니다."
+114,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_605","그 영향으로 갈라진 대지의 여기저기서
+고대 알라그 제국의 유적을 볼 수 있게 되었습니다.
+제IV군단의 목적도 어쩌면……."
+115,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_610","15년 전 위성 달라가브에서 쏟아진 대량의 에너지는
+보즈야를 사라지게 했을 뿐아니라 지맥을 통해 이곳에도 도달했죠.
+그 결과, 자트노르 고원에선 부유암 및 하늘섬이 생겨났다고 합니다."
+116,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_611","그 영향으로 갈라진 대지의 여기저기서
+고대 알라그 제국의 유적을 볼 수 있게 되었습니다.
+……설마 그런 것이 묻혀 있었을 줄은 몰랐지만 말입니다."
+117,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_700","과거에 일을 찾던 광산 노동자가 도달한 첫 번째 마을……
+그리고 우리가 공략의 단서로 선택한 첫 번째 거점,
+그것이 이곳, 바르데니스입니다."
+118,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_701","'바르데니스'는 이 지역에 자생하는 백합의 이름인데,
+이전엔 주변 일대에 흐드러지게 피어 있었다고 합니다.
+하지만 15년 전 보즈야 사건 이후, 전부 다 잃어버렸습니다."
+119,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_702","위성 달라가브에서 쏟아진 대량의 에너지는 지맥을 통해
+보즈야 전 지역으로 확산되었습니다.
+그 영향으로 지맥이 흐트러졌고 끊어진 지맥도 많습니다……."
+120,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_703","이곳을 전초지로 선택한 것은 발밑에 지맥이 있기 때문이지만,
+이 자트노르 고원의 지맥도 뚝뚝 끊겨 있기 때문에
+전선을 밀어올리고 다음 거점을 정할 때 힘들 것 같습니다."
+121,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_704","지맥이 없다면 에테라이트를 설치해도 작동하지 않을 테고,
+시드 님이 설치하신 유사 청룡벽을 작동시킬 수도 없습니다.
+끊어진 지맥을 얼마나 '연결'하는지가 관건입니다."
+122,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_705","다행히 리리야 님이 고안한 전부다유도하리……
+그 유도 장치가 부족한 에너지를 보충하고 있어서
+유사 청룡벽이 우리의 안전을 확보해주고 있습니다."
+123,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_710","과거에 일을 찾던 광산 노동자가 도달한 첫 번째 마을……
+그리고 우리가 공략의 단서로 선택한 첫 번째 거점,
+그곳이 바르데니스입니다."
+124,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_711","'바르데니스'는 이 지역에 자생하는 백합의 이름인데,
+이전엔 주변 일대에 흐드러지게 피어 있었다고 합니다.
+하지만 15년 전 보즈야 사건 이후, 전부 다 잃어버렸습니다."
+125,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_712","위성 달라가브에서 쏟아진 대량의 에너지는 지맥을 통해
+보즈야 전 지역으로 확산되었습니다.
+그 영향으로 지맥이 흐트러졌고 끊어진 지맥도 많습니다……."
+126,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_713","그 지점을 전초지로 선택한 것은 발밑에 지맥이 있기 때문이지만,
+자트노르 고원의 지맥도 뚝뚝 끊겨 있기 때문에
+전선을 밀어올리고 다음 거점을 정할 때 힘들 것 같습니다."
+127,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_714","지맥이 없다면 에테라이트를 설치해도 작동하지 않을 테고,
+시드 님이 설치하신 유사 청룡벽을 작동시킬 수도 없습니다.
+끊어진 지맥을 얼마나 '연결'하는지가 관건입니다."
+128,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_715","다행히 리리야 님이 고안하신 전부다유도하리……
+유도 장치가 부족한 에너지를 보충하고, 그 결과
+유사 청룡벽이 저희의 안전을 약속해주었습니다."
+129,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_801","네…… 전투는 끝났지만, 지금부터가 중요합니다. 
+제IV군단이라는 공통의 적이 있을 땐 모두가 한마음 한뜻이었지만,
+앞으로는 개개의 이익을 위해 저희끼리 분쟁이 생길 수도 있습니다."
+130,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_802","그렇게 되지 않도록 일단은 국가 기반이 생길 때까지
+각 조직의 대표를 지도자 그룹으로 지정해서
+임시 정권으로서 국가를 운용할까 합니다. "
+131,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_803","일단은 새로운 법의 초안을 작성하고,
+각 행정부 및 경찰 기구 등 인사 조정을…… 하려고
+그 준비를 시작하고 있던 참입니다."
+132,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_804","신 헌법의 초안은 제IV군단이 정한 법을 
+참고로 작성하려고 합니다."
+133,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_805","우리는 과거의 좋았던 보즈야를 되찾기 위해서 싸웠지만,
+나쁜 습관은 완전히 버려야만 합니다."
+134,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_806","저항군으로 목숨을 바친 자도 있지만,
+전쟁을 싫어해서 식민지 주민으로 살아가는 자도 많습니다……
+그중엔 미시야처럼 제IV군단의 통치를 원하는 자도 있겠죠."
+135,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_807","적이었다 하더라도 그것이 '뛰어난 법률'이라면
+우리는 그것을 배우고 흡수해야 합니다.
+그 점을 보즈야 국민들이 모두 알아주었으면 좋겠습니다……."
+136,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_808","우리가 세울 새로운 보즈야…… 신생 보즈야는
+모두가 평등한 권리를 갖고 차별과 가난이 없는 사회를 지향합니다.
+그리고 그것을 유지할 수 있도록 모두가 노력해야 합니다."
+137,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_809","이 신생 보즈야를 위해 수많은 희생이 있었다는 사실,
+그것을 우리는 잊어서는 안 됩니다.
+두 번 다시 이런 참극을 반복하지 않기 위해서라도……!"
+138,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_810","새로운 헌법을 제정하고, 최소한의 행정기구를 구축하고 나면
+선거제도를 시행해 국가의 대표자들을 국민이 뽑게 할 것입니다.
+그렇습니다…… 신생 보즈야는 공화제 국가가 될 것입니다!"
+139,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_811","늦어도 2년 후에는 선거를 실시하고 싶습니다.
+그때는 해방자님도 이곳에 와주십시오.
+그리고 해방자님의 두 눈으로 새로운 국가를 확인해 주십시오."
+140,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_900","……로스틱은 간다는 말도 없이 이곳을 떠났습니다.
+저는 신생 보즈야의 초석을 마련하기 위해
+꼭 이곳에 남았으면 했지만, 유감입니다."
+141,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_901","저항군에 참가하기 전,
+그는 순간만을 사는 인생을 살았었습니다……
+그저 원수를 갚기 위해서 습격을 반복하는 복수의 화신……."
+142,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_902","그런 그도 지금은 동료와 제자를 돌아볼 수 있게 되었습니다.
+자신을 위해서만 검을 휘두르는 것이 아니라
+자신과 다른 사람을 구하기 위해 검을 휘두르죠……."
+143,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_903","그자처럼 '마음의 고통을 아는 자'가 신생보즈야엔 필요합니다.
+타인의 마음을 배려하고 모두에게 무엇이 소중하고 중요한지를
+진심으로 이해할 수 있는 인간이 필요합니다."
+144,"TEXT_REGOTH4MYCBAICHAOUEN_00657_100_904","하지만…… 그에겐 그 나름대로 생각이 있겠지요.
+제 부탁을 강요할 수는 없으니까요……
+그래도 전 그가 다시 이곳에 돌아올 날을 기다릴 것입니다."

@@ -13873,10 +13873,10 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 맞서 싸워라!"
 10310,0,2,False,False,False,2,3,False,False,1,"올 테면 와라!"
 10311,0,2,False,False,False,2,3,False,False,1,"해치워주마!"
-10312,0,0,False,False,False,0,0,False,False,0,""
-10313,0,0,False,False,False,0,0,False,False,0,""
+10312,0,2,False,False,False,2,3,False,False,1,"받아랏!"
+10313,0,2,False,False,False,2,3,False,False,1,"꿰뚫겠다!"
 10314,0,0,False,False,False,0,0,False,False,0,""
-10315,0,0,False,False,False,0,0,False,False,0,""
+10315,0,2,False,False,False,2,3,False,False,1,"울부짖어라, 마창 니드호그!"
 10316,0,2,False,False,False,2,3,False,False,1,"장갑 손상율… 한계 돌파…
 다음 작전으로 이행합니다…"
 10317,0,0,False,False,False,0,0,False,False,0,""
@@ -14692,17 +14692,19 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 두려운 사내였습니다…"
 10812,0,0,False,False,False,0,0,False,False,0,""
 10813,0,0,False,False,False,0,0,False,False,0,""
-10814,0,0,False,False,False,0,0,False,False,0,""
-10815,0,0,False,False,False,0,0,False,False,0,""
-10816,0,0,False,False,False,0,0,False,False,0,""
-10817,0,0,False,False,False,0,0,False,False,0,""
-10818,0,0,False,False,False,0,0,False,False,0,""
-10819,0,0,False,False,False,0,0,False,False,0,""
-10820,0,0,False,False,False,0,0,False,False,0,""
-10821,0,0,False,False,False,0,0,False,False,0,""
-10822,0,0,False,False,False,0,0,False,False,0,""
-10823,0,0,False,False,False,0,0,False,False,0,""
-10824,0,0,False,False,False,0,0,False,False,0,""
+10814,0,2,False,False,False,2,4,False,False,1,"싸워라~!"
+10815,0,2,False,False,False,2,4,False,False,1,"해치워라~!"
+10816,0,2,False,False,False,2,4,False,False,1,"힘내십쇼!"
+10817,0,2,False,False,False,2,4,False,False,1,"잘한다!"
+10818,0,2,False,False,False,2,4,False,False,1,"힘이여 솟아라!"
+10819,0,2,False,False,False,2,4,False,False,1,"잠깐 놀아주마!"
+10820,0,2,False,False,False,2,4,False,False,1,"피해 다니기만 해서
+되겠어?"
+10821,0,2,False,False,False,2,4,False,False,1,"어이!
+어금니 꽉 깨물라고!"
+10822,0,2,False,False,False,2,4,False,False,1,"어떠냐, 우왕좌왕해 봐!"
+10823,0,2,False,False,False,2,4,False,False,1,"날려버리겠다!"
+10824,0,2,False,False,False,2,4,False,False,1,"지뢰 설치…!"
 10825,0,2,False,False,False,4,1,False,False,4,"비밀의 제전에 잘 오셨습니다!
 보물이 걸린 끝없는 축제를 즐겨봅시다!"
 10826,0,2,False,False,False,4,1,False,False,4,"그럼 바로……
@@ -15210,101 +15212,113 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 또 적이…!"
 11164,0,2,False,False,False,3,5,True,False,1,"무, 무사해…?"
 11165,0,2,False,False,False,2,3,False,False,1,"달걀을 주워 주세요!"
-11166,0,0,False,False,False,0,0,False,False,0,""
-11167,0,0,False,False,False,0,0,False,False,0,""
-11168,0,0,False,False,False,0,0,False,False,0,""
-11169,0,0,False,False,False,0,0,False,False,0,""
-11170,0,0,False,False,False,0,0,False,False,0,""
-11171,0,0,False,False,False,0,0,False,False,0,""
-11172,0,0,False,False,False,0,0,False,False,0,""
-11173,0,0,False,False,False,0,0,False,False,0,""
-11174,0,0,False,False,False,0,0,False,False,0,""
-11175,0,0,False,False,False,0,0,False,False,0,""
-11176,0,0,False,False,False,0,0,False,False,0,""
-11177,0,0,False,False,False,0,0,False,False,0,""
-11178,0,0,False,False,False,0,0,False,False,0,""
-11179,0,0,False,False,False,0,0,False,False,0,""
-11180,0,0,False,False,False,0,0,False,False,0,""
-11181,0,0,False,False,False,0,0,False,False,0,""
-11182,0,0,False,False,False,0,0,False,False,0,""
-11183,0,0,False,False,False,0,0,False,False,0,""
-11184,0,0,False,False,False,0,0,False,False,0,""
-11185,0,0,False,False,False,0,0,False,False,0,""
-11186,0,0,False,False,False,0,0,False,False,0,""
-11187,0,0,False,False,False,0,0,False,False,0,""
-11188,0,0,False,False,False,0,0,False,False,0,""
-11189,0,0,False,False,False,0,0,False,False,0,""
-11190,0,0,False,False,False,0,0,False,False,0,""
-11191,0,0,False,False,False,0,0,False,False,0,""
-11192,0,0,False,False,False,0,0,False,False,0,""
-11193,0,0,False,False,False,0,0,False,False,0,""
+11166,0,2,False,False,False,2,3,False,False,1,"야만족이…"
+11167,0,2,False,False,False,2,3,False,False,1,"전진… 전진…"
+11168,0,2,False,False,False,2,3,False,False,1,"영광 있으라…
+영광 있으라…"
+11169,0,2,False,False,False,2,3,False,False,1,"이얍!"
+11170,0,2,False,False,False,2,3,False,False,1,"핫!"
+11171,0,2,False,False,False,2,3,False,False,1,"물러설 수는 없다!"
+11172,0,2,False,False,False,2,3,False,False,1,"야이씨 키잇!"
+11173,0,2,False,False,False,2,3,False,False,1,"꼴값 떨지 마라 키잇!"
+11174,0,2,False,False,False,2,3,False,False,1,"가자, 가자!
+거친 구름바다의 바람처럼!"
+11175,0,2,False,False,False,2,3,False,False,1,"지키자, 지키자!
+크고 단단한 바위처럼!"
+11176,0,2,False,False,False,2,3,False,False,1,"스스스스스…!
+받아라!"
+11177,0,2,False,False,False,2,3,False,False,1,"스스스스스…
+지지 않겠다!"
+11178,0,2,False,False,False,2,3,False,False,1,"실력을 보여주겠닷치!"
+11179,0,2,False,False,False,2,3,False,False,1,"혼쭐을 내주겠닷치!"
+11180,0,2,False,False,False,2,3,False,False,1,"포효하라, 티소나!"
+11181,0,2,False,False,False,2,3,False,False,1,"그렇게는 안 되지!"
+11182,0,2,False,False,False,2,3,False,False,1,"내 주먹을 받아랏!"
+11183,0,2,False,False,False,2,3,False,False,1,"가자!"
+11184,0,2,False,False,False,2,3,False,False,1,"자, 간다!"
+11185,0,2,False,False,False,2,3,False,False,1,"용서해라!"
+11186,0,2,False,False,False,2,3,False,False,1,"하앗…!"
+11187,0,2,False,False,False,2,3,False,False,1,"정신 차려…!"
+11188,0,2,False,False,False,3,4,True,False,1,"자, 어서 가!"
+11189,0,2,False,False,False,3,4,False,False,1,"모두 무사하시기를…"
+11190,0,2,False,False,False,3,7,True,False,1,"이쪽이다!"
+11191,0,2,False,False,False,3,4,False,False,1,"알리제, 이쪽이야!"
+11192,0,2,False,False,False,2,3,False,False,1,"아, 으으으…"
+11193,0,2,False,False,False,2,3,False,False,1,"영광 있으라…"
 11194,0,0,False,False,False,0,0,False,False,0,""
 11195,0,0,False,False,False,0,0,False,False,0,""
 11196,0,0,False,False,False,0,0,False,False,0,""
 11197,0,0,False,False,False,0,0,False,False,0,""
 11198,0,0,False,False,False,0,0,False,False,0,""
-11199,0,0,False,False,False,0,0,False,False,0,""
-11200,0,0,False,False,False,0,0,False,False,0,""
+11199,0,2,False,False,False,2,3,False,False,1,"죽인다…"
+11200,0,2,False,False,False,2,3,False,False,1,"야만족 놈들…"
 11201,0,0,False,False,False,0,0,False,False,0,""
 11202,0,0,False,False,False,0,0,False,False,0,""
 11203,0,0,False,False,False,0,0,False,False,0,""
 11204,0,0,False,False,False,0,0,False,False,0,""
-11205,0,0,False,False,False,0,0,False,False,0,""
-11206,0,0,False,False,False,0,0,False,False,0,""
-11207,0,0,False,False,False,0,0,False,False,0,""
-11208,0,0,False,False,False,0,0,False,False,0,""
-11209,0,0,False,False,False,0,0,False,False,0,""
-11210,0,0,False,False,False,0,0,False,False,0,""
+11205,0,2,False,False,False,2,3,False,False,1,"제국… 만세…"
+11206,0,2,False,False,False,2,3,False,False,1,"으그그그극…"
+11207,0,2,False,False,False,2,3,False,False,1,"구웨에에!"
+11208,0,2,False,False,False,3,4,False,False,1,"몸이…!"
+11209,0,2,False,False,False,3,4,False,False,1,"이번엔 나냐…!"
+11210,0,2,False,False,False,3,4,False,False,1,"수호의 마법!"
 11211,0,0,False,False,False,0,0,False,False,0,""
-11212,0,0,False,False,False,0,0,False,False,0,""
-11213,0,0,False,False,False,0,0,False,False,0,""
-11214,0,0,False,False,False,0,0,False,False,0,""
-11215,0,0,False,False,False,0,0,False,False,0,""
-11216,0,0,False,False,False,0,0,False,False,0,""
-11217,0,0,False,False,False,0,0,False,False,0,""
+11212,0,2,False,False,False,3,4,False,False,1,"조심해…!"
+11213,0,2,False,False,False,3,5,False,False,1,"하아아앗…!"
+11214,0,2,False,False,False,3,3,False,False,1,"이 말뚝은…!"
+11215,0,2,False,False,False,3,3,False,False,1,"이쪽은 내가!"
+11216,0,2,False,False,False,3,4,False,False,1,"그아아아악!"
+11217,0,2,False,False,False,3,4,False,False,1,"이야아압!"
 11218,0,2,False,False,False,2,5,False,False,1,"부악!"
 11219,0,2,False,False,False,2,5,False,False,1,"부악, 부악!"
 11220,0,2,False,False,False,4,1,True,False,4,"부아아아악~!"
 11221,0,2,False,False,False,4,1,True,False,4,"부아아아악~!
 부아악~!"
-11222,0,0,False,False,False,0,0,False,False,0,""
-11223,0,0,False,False,False,0,0,False,False,0,""
-11224,0,0,False,False,False,0,0,False,False,0,""
-11225,0,0,False,False,False,0,0,False,False,0,""
-11226,0,0,False,False,False,0,0,False,False,0,""
-11227,0,0,False,False,False,0,0,False,False,0,""
-11228,0,0,False,False,False,0,0,False,False,0,""
-11229,0,0,False,False,False,0,0,False,False,0,""
-11230,0,0,False,False,False,0,0,False,False,0,""
-11231,0,0,False,False,False,0,0,False,False,0,""
-11232,0,0,False,False,False,0,0,False,False,0,""
-11233,0,0,False,False,False,0,0,False,False,0,""
-11234,0,0,False,False,False,0,0,False,False,0,""
-11235,0,0,False,False,False,0,0,False,False,0,""
-11236,0,0,False,False,False,0,0,False,False,0,""
-11237,0,0,False,False,False,0,0,False,False,0,""
-11238,0,0,False,False,False,0,0,False,False,0,""
-11239,0,0,False,False,False,0,0,False,False,0,""
-11240,0,0,False,False,False,0,0,False,False,0,""
-11241,0,0,False,False,False,0,0,False,False,0,""
-11242,0,0,False,False,False,0,0,False,False,0,""
-11243,0,0,False,False,False,0,0,False,False,0,""
-11244,0,0,False,False,False,0,0,False,False,0,""
-11245,0,0,False,False,False,0,0,False,False,0,""
-11246,0,0,False,False,False,0,0,False,False,0,""
-11247,0,0,False,False,False,0,0,False,False,0,""
-11248,0,0,False,False,False,0,0,False,False,0,""
-11249,0,0,False,False,False,0,0,False,False,0,""
-11250,0,0,False,False,False,0,0,False,False,0,""
-11251,0,0,False,False,False,0,0,False,False,0,""
-11252,0,0,False,False,False,0,0,False,False,0,""
-11253,0,0,False,False,False,0,0,False,False,0,""
-11254,0,0,False,False,False,0,0,False,False,0,""
-11255,0,0,False,False,False,0,0,False,False,0,""
-11256,0,0,False,False,False,0,0,False,False,0,""
-11257,0,0,False,False,False,0,0,False,False,0,""
-11258,0,0,False,False,False,0,0,False,False,0,""
-11259,0,0,False,False,False,0,0,False,False,0,""
+11222,0,2,False,False,False,2,4,False,False,1,"숨통을 끊어놓겠다…!"
+11223,0,2,False,False,False,2,4,False,False,1,"특수탄 장전…!"
+11224,0,2,False,False,False,2,4,False,False,1,"표적 확인…!"
+11225,0,2,False,False,False,2,4,False,False,1,"산산조각 내주마!"
+11226,0,2,False,False,False,2,4,False,False,1,"뻗어나가라!"
+11227,0,2,False,False,False,2,4,False,False,1,"피할 수 없을 것이다…!"
+11228,0,2,False,False,False,2,4,False,False,1,"파악했다…
+조준 사격!"
+11229,0,2,False,False,False,2,4,False,False,1,"푸르르르!"
+11230,0,2,False,False,False,2,4,False,False,1,"모노케로스, 부탁해!"
+11231,0,2,False,False,False,2,4,False,False,1,"사령을 불러내다니…!?"
+11232,0,2,False,False,False,2,4,False,False,1,"보즈야의 자유를 위하여!"
+11233,0,2,False,False,False,2,4,False,False,1,"전진, 전진!"
+11234,0,2,False,False,False,2,4,False,False,1,"가자!"
+11235,0,2,False,False,False,2,4,False,False,1,"우오오오!"
+11236,0,2,False,False,False,2,4,False,False,1,"흡!"
+11237,0,2,False,False,False,2,4,False,False,1,"지금부터가 중요하다!"
+11238,0,2,False,False,False,2,4,False,False,1,"방심하지 마라!"
+11239,0,2,False,False,False,2,4,False,False,1,"가자!"
+11240,0,2,False,False,False,2,4,False,False,1,"결코 굴복하지 않겠습니다!
+맞서는 힘으로 무너뜨리겠습니다…!"
+11241,0,2,False,False,False,2,4,False,False,1,"끝장내자…!"
+11242,0,2,False,False,False,2,4,False,False,1,"나는 이쪽으로 가지!"
+11243,0,2,False,False,False,2,4,False,False,1,"무운을 빕니다…!"
+11244,0,2,False,False,False,2,4,False,False,1,"빈틈 발견!"
+11245,0,2,False,False,False,2,4,False,False,1,"이 공격이라면!"
+11246,0,2,False,False,False,2,4,False,False,1,"마도 병기 뒤에…!"
+11247,0,2,False,False,False,2,4,False,False,1,"저것이 바로 그
+'알라그의 악마'인가!?"
+11248,0,2,False,False,False,2,4,False,False,1,"막아야 한다!"
+11249,0,2,False,False,False,2,4,False,False,1,"가브란스 님을 위하여!"
+11250,0,2,False,False,False,2,4,False,False,1,"그렇겐 못 한다!"
+11251,0,2,False,False,False,2,4,False,False,1,"요격하라!"
+11252,0,2,False,False,False,2,4,False,False,1,"사역마여, 나와라!"
+11253,0,2,False,False,False,2,4,False,False,1,"자, 그 불꽃으로
+우리의 적을 불태워버려라!"
+11254,0,2,False,False,False,2,4,False,False,1,"침입자 발견…
+침입자 발견…!"
+11255,0,2,False,False,False,2,4,False,False,1,"불꽃에서 날아올라라!"
+11256,0,2,False,False,False,2,4,False,False,1,"검에 불의 마력을…!"
+11257,0,2,False,False,False,2,4,False,False,1,"마력의 흐름이…
+시간을 조작한다…!"
+11258,0,2,False,False,False,2,4,False,False,1,"한도 끝도 없군…!"
+11259,0,2,False,False,False,2,4,False,False,1,"계속 온다!
+방심하지 마!"
 11260,0,2,False,False,False,2,5,False,False,1,"여름 해변, 그리고 바다!!"
 11261,0,2,False,False,False,2,5,False,False,1,"자, 헤엄치자!"
 11262,0,2,False,False,False,2,5,False,False,1,"나도 같이~!"
@@ -15324,12 +15338,15 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 11273,0,2,False,False,False,4,1,True,False,4,"부아아아아악!"
 11274,0,2,False,False,False,4,1,True,False,4,"부아악, 부악!"
 11275,0,2,False,False,False,4,1,True,False,4,"부… 부… 부악…"
-11276,0,0,False,False,False,0,0,False,False,0,""
-11277,0,0,False,False,False,0,0,False,False,0,""
-11278,0,0,False,False,False,0,0,False,False,0,""
-11279,0,0,False,False,False,0,0,False,False,0,""
-11280,0,0,False,False,False,0,0,False,False,0,""
-11281,0,0,False,False,False,0,0,False,False,0,""
+11276,0,2,False,False,False,2,4,False,False,1,"끼기긱… 오른…
+오른팔이…!"
+11277,0,2,False,False,False,2,4,False,False,1,"끼긱… 기기긱…
+왼파아알!"
+11278,0,2,False,False,False,2,4,False,False,1,"나, 는, 나, 나는…
+놓치지 않, 아…!"
+11279,0,2,False,False,False,2,4,False,False,1,"간닷!"
+11280,0,2,False,False,False,2,4,False,False,1,"밀어붙여!"
+11281,0,2,False,False,False,2,4,False,False,1,"사역마를 더 불러내!"
 11282,0,2,False,False,False,2,4,False,False,1,"불퇴전!"
 11283,0,2,False,False,False,2,4,False,False,1,"사중구생!"
 11284,0,2,False,False,False,2,4,False,False,1,"사, 살려줘…"
@@ -15343,7 +15360,8 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 반드시 이 은혜를 갚겠소"
 11291,0,2,False,False,False,2,4,False,False,1,"천우신조!
 인간이 도와주러 올 줄이야!"
-11292,0,0,False,False,False,0,0,False,False,0,""
+11292,0,2,False,False,False,2,4,False,False,1,"바슈 님…
+당신이 계신 곳으로…"
 11293,0,0,False,False,False,0,0,False,False,0,""
 11294,0,0,False,False,False,0,0,False,False,0,""
 11295,0,2,False,False,False,2,4,False,False,1,"싸우기 무섭따…"
@@ -15393,34 +15411,60 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 11328,0,2,False,False,False,2,4,False,False,1,"제, 국… 영광…"
 11329,0,2,False,False,False,2,4,False,False,1,"영광…
 우, 리, 제국…"
-11330,0,0,False,False,False,0,0,False,False,0,""
-11331,0,0,False,False,False,0,0,False,False,0,""
-11332,0,0,False,False,False,0,0,False,False,0,""
-11333,0,0,False,False,False,0,0,False,False,0,""
-11334,0,0,False,False,False,0,0,False,False,0,""
-11335,0,0,False,False,False,0,0,False,False,0,""
-11336,0,0,False,False,False,0,0,False,False,0,""
-11337,0,0,False,False,False,0,0,False,False,0,""
-11338,0,0,False,False,False,0,0,False,False,0,""
-11339,0,0,False,False,False,0,0,False,False,0,""
-11340,0,0,False,False,False,0,0,False,False,0,""
-11341,0,0,False,False,False,0,0,False,False,0,""
-11342,0,0,False,False,False,0,0,False,False,0,""
-11343,0,0,False,False,False,0,0,False,False,0,""
-11344,0,0,False,False,False,0,0,False,False,0,""
-11345,0,0,False,False,False,0,0,False,False,0,""
-11346,0,0,False,False,False,0,0,False,False,0,""
-11347,0,0,False,False,False,0,0,False,False,0,""
-11348,0,0,False,False,False,0,0,False,False,0,""
-11349,0,0,False,False,False,0,0,False,False,0,""
-11350,0,0,False,False,False,0,0,False,False,0,""
-11351,0,0,False,False,False,0,0,False,False,0,""
-11352,0,0,False,False,False,0,0,False,False,0,""
-11353,0,0,False,False,False,0,0,False,False,0,""
-11354,0,0,False,False,False,0,0,False,False,0,""
-11355,0,0,False,False,False,0,0,False,False,0,""
-11356,0,0,False,False,False,0,0,False,False,0,""
-11357,0,0,False,False,False,0,0,False,False,0,""
+11330,0,2,False,False,False,5,1,False,False,4,"야마츠미, 너 잘 만났다!
+순순히 오라를 받아라!"
+11331,0,2,False,False,False,5,1,False,False,4,"당신의 처지는 안타깝습니다만
+보즈야를 지배하려는 건 용서 못 합니다!"
+11332,0,2,False,False,False,5,1,False,False,4,"동정은 필요 없다! 우리는 적이니.
+타협할 수 없는 것을 위해 싸울 뿐이다!"
+11333,0,2,False,False,False,5,1,False,False,4,"우리 일족의 보물에 봉인된, 최강의 사역귀를 이곳에……!"
+11334,0,2,False,False,False,5,1,False,False,4,"가라, 요우키!
+우리의 원수를 쳐부숴라!"
+11335,0,2,False,False,False,5,1,False,False,4,"에잇, 제법이군!
+사역귀들아, 이리 와서 나를 지키는 결계를 쳐라!"
+11336,0,2,False,False,False,2,4,False,False,1,"내 운명도…
+여기까지인가…"
+11337,0,2,False,False,False,2,4,False,False,1,"요우키가
+쓰러지다니!?"
+11338,0,2,False,False,False,5,1,False,False,4,"최강의 사역귀, 요우키를 쓰러뜨리다니……!"
+11339,0,2,False,False,False,2,4,False,False,1,"야마츠미 님…!
+다음 기회를 노립시다…"
+11340,0,2,False,False,False,5,1,False,False,4,"비장의 수단을 다 썼나 보군.
+단념해라, 야마츠미!"
+11341,0,2,False,False,False,2,4,False,False,1,"으으…
+이럴 수가…"
+11342,0,2,False,False,False,5,1,False,False,4,"윽…….
+우라베 일족을 재건하기 위해 일단 물러난다……!"
+11343,0,2,False,False,False,5,1,False,False,4,"키힛…… 내가 봐도 성석 조각을
+참 잘 다루게 되었군……."
+11344,0,2,False,False,False,2,4,False,False,1,"정신 주박도 완벽해…
+완성도가 높아!"
+11345,0,2,False,False,False,2,4,False,False,1,"동료가 이 주변에
+먼저 왔을 텐데…!"
+11346,0,2,False,False,False,2,4,False,False,1,"으윽… 달마스카…
+흡흡…!"
+11347,0,2,False,False,False,5,1,False,False,6,"""달마스카에서 확인된, 성석으로 인한 변이체""라고요?
+저게 프란 님께서 말씀하신 존재란 말인가요!?"
+11348,0,2,False,False,False,2,4,False,False,1,"봤느냐!
+이것이 나의 음양술이다!"
+11349,0,2,False,False,False,2,4,False,False,1,"이런……!
+일단 물러나자!"
+11350,0,2,False,False,False,2,4,False,False,1,"알겠습니다…
+오보로 님…!"
+11351,0,2,False,False,False,2,4,False,False,1,"윽…!
+이런 곳에서…!"
+11352,0,2,False,False,False,2,4,False,False,1,"원수를…
+모두의 원수를…!"
+11353,0,2,False,False,False,2,4,False,False,1,"죽인다…
+죽인다, 죽인다아아!"
+11354,0,2,False,False,False,2,4,False,False,1,"여… 여긴…
+아아, 다들, 어디에…?"
+11355,0,2,False,False,False,2,4,False,False,1,"라이언 님…!
+승리를, 승리르으을!"
+11356,0,2,False,False,False,2,4,False,False,1,"오오오오오…
+라이언 니이이임!"
+11357,0,2,False,False,False,2,4,False,False,1,"라… 이언… 님…
+라이… 언… 님…"
 11358,10080,2,False,False,False,4,1,False,False,10,"곡괭이 거리에 마련된 재료로
 인형을 만들어야 해! 쿠뽀!"
 11359,10080,2,False,False,False,4,1,False,False,10,"다 만들어진 인형을
@@ -15542,55 +15586,81 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 참가해줘, 쿠뽀!"
 11441,0,2,False,False,False,2,3,False,False,1,"어서 이동해요!"
 11442,0,2,False,False,False,2,3,False,False,1,"가자!"
-11443,0,0,False,False,False,0,0,False,False,0,""
-11444,0,0,False,False,False,0,0,False,False,0,""
-11445,0,0,False,False,False,0,0,False,False,0,""
-11446,0,0,False,False,False,0,0,False,False,0,""
-11447,0,0,False,False,False,0,0,False,False,0,""
-11448,0,0,False,False,False,0,0,False,False,0,""
-11449,0,0,False,False,False,0,0,False,False,0,""
-11450,0,0,False,False,False,0,0,False,False,0,""
-11451,0,0,False,False,False,0,0,False,False,0,""
-11452,0,0,False,False,False,0,0,False,False,0,""
-11453,0,0,False,False,False,0,0,False,False,0,""
-11454,0,0,False,False,False,0,0,False,False,0,""
-11455,0,0,False,False,False,0,0,False,False,0,""
-11456,0,0,False,False,False,0,0,False,False,0,""
-11457,0,0,False,False,False,0,0,False,False,0,""
-11458,0,0,False,False,False,0,0,False,False,0,""
-11459,0,0,False,False,False,0,0,False,False,0,""
-11460,0,0,False,False,False,0,0,False,False,0,""
-11461,0,0,False,False,False,0,0,False,False,0,""
-11462,0,0,False,False,False,0,0,False,False,0,""
-11463,0,0,False,False,False,0,0,False,False,0,""
-11464,0,0,False,False,False,0,0,False,False,0,""
-11465,0,0,False,False,False,0,0,False,False,0,""
-11466,0,0,False,False,False,0,0,False,False,0,""
-11467,0,0,False,False,False,0,0,False,False,0,""
-11468,0,0,False,False,False,0,0,False,False,0,""
-11469,0,0,False,False,False,0,0,False,False,0,""
+11443,0,2,False,False,False,5,1,False,False,4,"내 이름은 파가가!
+보크스타인의 이름을 잇는 마수조련사다!"
+11444,0,2,False,False,False,5,1,False,False,4,"이날을 위해 키운 내 친구와
+싸울 용기가 있는 자는 앞으로 나와라!"
+11445,0,2,False,False,False,5,1,False,False,4,"핫핫핫…… 네가 상대하겠다고?
+좋다, 정정당당하게 승부하자!"
+11446,0,2,False,False,False,5,1,False,False,4,"베르다 주니어, 오브다 주니어!
+너희의 힘을 저 녀석들에게 보여줘라!"
+11447,0,2,False,False,False,2,4,False,False,1,"뀨잇!"
+11448,0,2,False,False,False,5,1,False,False,4,"물러나, 베르다 주니어! 무리하지 마!"
+11449,0,2,False,False,False,5,1,False,False,4,"후퇴해, 오브다 주니어! 죽는 건 허락하지 않는다!"
+11450,0,2,False,False,False,5,1,False,False,4,"아니…… 주니어들이 당해내지 못하다니……!"
+11451,0,2,False,False,False,5,1,False,False,4,"다음번엔 너희를 쓰러뜨리고 말겠다!
+각오해라!"
+11452,0,2,False,False,False,5,1,False,False,4,"핫핫핫…… 저항군이란 고작 이 정도지!
+이런 녀석들한테 애를 먹다니, 라이언도 한물갔네!"
+11453,0,2,False,False,False,2,4,False,False,1,"뀨이잇!!"
+11454,0,2,False,False,False,2,4,False,False,1,"저, 저 괴물이
+우리 동료였다고!?"
+11455,0,2,False,False,False,2,4,False,False,1,"흡…으읍…
+자비… 흡!"
+11456,0,2,False,False,False,5,1,False,False,6,"""이제 구할 수 없어. 숨통을 끊어주는 것이 자비""라고요.
+호랑수염, 당신 의견에 찬성이에요. 목숨을 거두어 주죠."
+11457,0,2,False,False,False,5,1,False,False,5,"키힛…… 저항군 녀석들인가…….
+나, 질브리스베르가 만든 걸작을 보여주지."
+11458,0,2,False,False,False,5,1,False,False,4,"자, 나의 인형이여, 화려하게 춤춰다오!"
+11459,0,2,False,False,False,5,1,False,False,4,"난폭한 암석 사역마여……!
+내 명령에 따라 저항군들을 뭉개버려라!"
+11460,0,2,False,False,False,5,1,False,False,4,"좋아, 사역마의 상태는 양호하군.
+진군 개시…… 저항군 놈들을 산산조각 내자!"
+11461,0,2,False,False,False,2,4,False,False,1,"아니…
+얼음 거인이잖아!?"
+11462,0,2,False,False,False,2,4,False,False,1,"에잇, 공격해라!"
+11463,0,2,False,False,False,2,4,False,False,1,"좋아, 전과는 충분해…"
+11464,0,2,False,False,False,2,4,False,False,1,"뒤쫓을 필요 없다"
+11465,0,2,False,False,False,2,4,False,False,1,"돌아가서
+다음 임무를 준비하자!"
+11466,0,2,False,False,False,2,4,False,False,1,"끼기기이이익…!"
+11467,0,2,False,False,False,5,1,False,False,4,"아, 좀 아프잖아!
+여전히 홀딱 반할 만큼 강하구만!"
+11468,0,2,False,False,False,2,4,False,False,1,"헉, 헉…
+힘이 안 들어가…"
+11469,0,2,False,False,False,2,4,False,False,1,"정신 차려!
+지면… 안 돼!"
 11470,0,0,False,False,False,0,0,False,False,0,""
 11471,0,0,False,False,False,0,0,False,False,0,""
 11472,0,0,False,False,False,0,0,False,False,0,""
 11473,0,0,False,False,False,0,0,False,False,0,""
-11474,0,0,False,False,False,0,0,False,False,0,""
-11475,0,0,False,False,False,0,0,False,False,0,""
-11476,0,0,False,False,False,0,0,False,False,0,""
-11477,0,0,False,False,False,0,0,False,False,0,""
+11474,0,2,False,False,False,2,4,False,False,1,"기이이익…!"
+11475,0,2,False,False,False,5,1,False,False,4,"저항군 놈들, 드디어 나타났군……."
+11476,0,2,False,False,False,5,1,False,False,4,"자, 강화병 다보그……!
+개량된 델타 가브리엘에 올라타라……!"
+11477,0,2,False,False,False,5,1,False,False,4,"저 금색 기체…….
+설마 다보그 씨가 타고 있는 건가요!?"
 11478,0,0,False,False,False,0,0,False,False,0,""
-11479,0,0,False,False,False,0,0,False,False,0,""
-11480,0,0,False,False,False,0,0,False,False,0,""
-11481,0,0,False,False,False,0,0,False,False,0,""
-11482,0,0,False,False,False,0,0,False,False,0,""
-11483,0,0,False,False,False,0,0,False,False,0,""
-11484,0,0,False,False,False,0,0,False,False,0,""
-11485,0,0,False,False,False,0,0,False,False,0,""
-11486,0,0,False,False,False,0,0,False,False,0,""
-11487,0,0,False,False,False,0,0,False,False,0,""
+11479,0,2,False,False,False,5,1,False,False,4,"여기는 강화병 다보그…….
+공격 목표 확인…… 전투 행동을 개시합니다……."
+11480,0,2,False,False,False,5,1,False,False,4,"여기는 강화병 다보그…….
+기체 손상 확인…… 화력 부족……."
+11481,0,2,False,False,False,5,1,False,False,4,"원거리 공격 단말 전개…….
+병렬 조작으로 전방위 공격을 실행합니다……."
+11482,0,2,False,False,False,5,1,False,False,4,"정신 차리세요…… 다보그 씨!"
+11483,0,2,False,False,False,5,1,False,False,4,"여기는 강화병 다보그……
+기체 손상률 상승…… 전투를 계속합니다……."
+11484,0,2,False,False,False,2,4,False,False,1,"하앗!"
+11485,0,2,False,False,False,2,4,False,False,1,"얕보지 마시죠!"
+11486,0,2,False,False,False,2,4,False,False,1,"지금이다!"
+11487,0,2,False,False,False,2,4,False,False,1,"이건…
+전자기 장벽!?"
 11488,0,0,False,False,False,0,0,False,False,0,""
 11489,0,0,False,False,False,0,0,False,False,0,""
-11490,0,0,False,False,False,0,0,False,False,0,""
-11491,0,0,False,False,False,0,0,False,False,0,""
+11490,0,2,False,False,False,2,4,False,False,1,"적 전력 저하 확인…
+임무 성공…"
+11491,0,2,False,False,False,2,4,False,False,1,"엄청난 화력이군…
+여러분, 후퇴하십시오!"
 11492,0,2,False,False,False,3,4,False,False,1,"영웅님께서 직접……
 감사합니다!"
 11493,0,2,False,False,False,3,4,False,False,1,"이건 최신형 도구잖아…!"
@@ -15617,68 +15687,97 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 축제 너무 좋아요!"
 11508,0,0,False,False,False,0,0,False,False,0,""
 11509,0,0,False,False,False,0,0,False,False,0,""
-11510,0,0,False,False,False,0,0,False,False,0,""
-11511,0,0,False,False,False,0,0,False,False,0,""
-11512,0,0,False,False,False,0,0,False,False,0,""
-11513,0,0,False,False,False,0,0,False,False,0,""
-11514,0,0,False,False,False,0,0,False,False,0,""
-11515,0,0,False,False,False,0,0,False,False,0,""
-11516,0,0,False,False,False,0,0,False,False,0,""
-11517,0,0,False,False,False,0,0,False,False,0,""
-11518,0,0,False,False,False,0,0,False,False,0,""
-11519,0,0,False,False,False,0,0,False,False,0,""
-11520,0,0,False,False,False,0,0,False,False,0,""
+11510,0,2,False,False,False,3,4,False,False,1,"빨리 가!"
+11511,0,2,False,False,False,3,4,False,False,1,"야만신은 어디 있지…"
+11512,0,2,False,False,False,3,4,False,False,1,"느낌이 안 좋아"
+11513,0,2,False,False,False,3,4,False,False,1,"간신히 막아냈군요…"
+11514,0,2,False,False,False,3,4,False,False,1,"자, 반격이다!"
+11515,0,2,False,False,False,3,4,False,False,1,"모두 꿰뚫어주지!"
+11516,0,2,False,False,False,3,4,False,False,1,"해방자님!
+이쪽으로…!"
+11517,0,2,False,False,False,2,4,False,False,1,"청린수 연료통을 입수하시거든
+저에게…!"
+11518,0,2,False,False,False,2,5,False,False,1,"적의 방어력을
+얕봤던 모양입니다…"
+11519,0,2,False,False,False,2,5,False,False,1,"전원 후퇴…!"
+11520,0,2,False,False,False,2,5,False,False,1,"윽…
+작전이 실패하다니…!"
 11521,0,0,False,False,False,0,0,False,False,0,""
 11522,0,0,False,False,False,0,0,False,False,0,""
 11523,0,0,False,False,False,0,0,False,False,0,""
 11524,0,0,False,False,False,0,0,False,False,0,""
-11525,0,0,False,False,False,0,0,False,False,0,""
-11526,0,0,False,False,False,0,0,False,False,0,""
-11527,0,0,False,False,False,0,0,False,False,0,""
-11528,0,0,False,False,False,0,0,False,False,0,""
-11529,0,0,False,False,False,0,0,False,False,0,""
-11530,0,0,False,False,False,0,0,False,False,0,""
-11531,0,0,False,False,False,0,0,False,False,0,""
-11532,0,0,False,False,False,0,0,False,False,0,""
-11533,0,0,False,False,False,0,0,False,False,0,""
-11534,0,0,False,False,False,0,0,False,False,0,""
-11535,0,0,False,False,False,0,0,False,False,0,""
-11536,0,0,False,False,False,0,0,False,False,0,""
-11537,0,0,False,False,False,0,0,False,False,0,""
-11538,0,0,False,False,False,0,0,False,False,0,""
-11539,0,0,False,False,False,0,0,False,False,0,""
-11540,0,0,False,False,False,0,0,False,False,0,""
-11541,0,0,False,False,False,0,0,False,False,0,""
-11542,0,0,False,False,False,0,0,False,False,0,""
-11543,0,0,False,False,False,0,0,False,False,0,""
-11544,0,0,False,False,False,0,0,False,False,0,""
-11545,0,0,False,False,False,0,0,False,False,0,""
-11546,0,0,False,False,False,0,0,False,False,0,""
-11547,0,0,False,False,False,0,0,False,False,0,""
-11548,0,0,False,False,False,0,0,False,False,0,""
-11549,0,0,False,False,False,0,0,False,False,0,""
-11550,0,0,False,False,False,0,0,False,False,0,""
-11551,0,0,False,False,False,0,0,False,False,0,""
+11525,0,2,False,False,False,5,1,False,False,5,"키힛…… 마침 이런 곳에
+좋은 재료가 있군……."
+11526,0,2,False,False,False,5,1,False,False,5,"마도승병대대의 상급 백인대장 질브리스베르다.
+내가 '인형술사'라고 불리는 이유를 아나?"
+11527,0,2,False,False,False,5,1,False,False,4,"어이쿠, 미안. 너희 '인형'들은 모르겠지.
+나에게 사용되는 쪽이니까……."
+11528,0,2,False,False,False,2,4,False,False,1,"음, 뭐지?"
+11529,0,2,False,False,False,2,4,False,False,1,"제국 병사인가!?"
+11530,0,2,False,False,False,2,4,False,False,1,"무슨 헛소리를…
+전력 차를 모르겠나?"
+11531,0,2,False,False,False,2,4,False,False,1,"저항하지 말고, 무기를 버려라!
+너를 체포한다!"
+11532,0,2,False,False,False,2,4,False,False,1,"대체 무슨 소리지?"
+11533,0,2,False,False,False,5,1,False,False,5,"달마스카에서 발굴한 성석 조각이다.
+그걸 조금 고쳐봤지, 재밌지 않나?"
+11534,0,2,False,False,False,2,5,False,False,1,"목표 달성 확인!
+여러분, 잘 싸우셨습니다!"
+11535,0,2,False,False,False,2,5,False,False,1,"대승리입니다!"
+11536,0,2,False,False,False,2,5,False,False,1,"청린수가 이만큼 있으면
+청룡벽을 유지할 수 있습니다!"
+11537,0,2,False,False,False,3,4,False,False,1,"윽… 반동이…!"
+11538,0,2,False,False,False,2,5,False,False,1,"작전 개시!
+돌격… 돌격!"
+11539,0,2,False,False,False,2,5,False,False,1,"청린수를 빼앗아라!"
+11540,0,2,False,False,False,2,3,False,False,1,"제국을… 위하, 여…"
+11541,0,2,False,False,False,2,3,False,False,1,"파괴, 하라…"
+11542,0,2,False,False,False,2,3,False,False,1,"지금이 고비다!"
+11543,0,2,False,False,False,2,3,False,False,1,"밀려선 안 된다!"
+11544,0,2,False,False,False,2,3,False,False,1,"쉬이이이잇!"
+11545,0,2,False,False,False,2,3,False,False,1,"쉬잇!
+모두를 지켜야 한다!"
+11546,0,2,False,False,False,2,3,False,False,1,"같이 싸울께~!"
+11547,0,2,False,False,False,2,3,False,False,1,"질 수 업서~!"
+11548,0,2,False,False,False,2,3,False,False,1,"시이잇!
+네놈들 뜻대로는 안 돼!"
+11549,0,2,False,False,False,2,3,False,False,1,"싯싯시이잇!"
+11550,0,2,False,False,False,2,3,False,False,1,"건곤일척!"
+11551,0,2,False,False,False,2,3,False,False,1,"용감무쌍!"
 11552,0,2,False,False,False,2,5,False,False,1,"도망쳐어어!！"
 11553,0,2,False,False,False,2,5,False,False,1,"나, 나도 같이 가!"
 11554,0,2,False,False,False,2,5,False,False,1,"기다려!"
 11555,0,2,False,False,False,2,5,False,False,1,"덜덜덜덜…"
-11556,0,0,False,False,False,0,0,False,False,0,""
-11557,0,0,False,False,False,0,0,False,False,0,""
-11558,0,0,False,False,False,0,0,False,False,0,""
-11559,0,0,False,False,False,0,0,False,False,0,""
-11560,0,0,False,False,False,0,0,False,False,0,""
-11561,0,0,False,False,False,0,0,False,False,0,""
-11562,0,0,False,False,False,0,0,False,False,0,""
-11563,0,0,False,False,False,0,0,False,False,0,""
-11564,0,0,False,False,False,0,0,False,False,0,""
-11565,0,0,False,False,False,0,0,False,False,0,""
-11566,0,0,False,False,False,0,0,False,False,0,""
-11567,0,0,False,False,False,0,0,False,False,0,""
-11568,0,0,False,False,False,0,0,False,False,0,""
-11569,0,0,False,False,False,0,0,False,False,0,""
-11570,0,0,False,False,False,0,0,False,False,0,""
-11571,0,0,False,False,False,0,0,False,False,0,""
+11556,0,2,False,False,False,5,1,False,False,4,"키힛…… 제법이군…….
+예비 인형을 내보내야겠어."
+11557,0,2,False,False,False,5,1,False,False,4,"자, 인형들이여……
+마력을 쏟아부어 내 장벽을 지켜라!"
+11558,0,2,False,False,False,2,4,False,False,1,"공격이…
+통하지 않아!?"
+11559,0,2,False,False,False,2,4,False,False,1,"마법 장벽인가!?"
+11560,0,2,False,False,False,2,4,False,False,1,"으윽… 흡…
+주위… 흡!"
+11561,0,2,False,False,False,5,1,False,False,4,"저 남자는 나중에 처리해요!
+주위에 나타난 마물부터 해치워야 해요!"
+11562,0,2,False,False,False,5,1,False,False,4,"내, 내 인형들을 잘도 부쉈겠다……!"
+11563,0,2,False,False,False,5,1,False,False,4,"그래 봤자, 그걸 사용하면 너희들 따윈……!
+키힛…… 히히히히히히히히……!"
+11564,0,2,False,False,False,5,1,False,False,5,"어찌저찌 마물을 쓰러뜨리긴 했지만…….
+인형술사 질브리스베르, 위험한 자 같아요."
+11565,0,2,False,False,False,2,4,False,False,1,"으윽… 흡…
+해치운다… 흡!"
+11566,0,2,False,False,False,5,1,False,False,5,"""더는 희생자를 내지 않기 위해 다음엔 꼭 해치운다""라고요?
+호랑수염, 당신 의견에 찬성해요."
+11567,0,2,False,False,False,5,1,False,False,5,"키힛…… 멋진 결과로군……!
+저항군 녀석들을 짓밟아 줬어!"
+11568,0,2,False,False,False,5,1,False,False,4,"그걸 써서 이 기술을 재현하면…….
+키힛…… 히히히히히히히……!"
+11569,0,2,False,False,False,5,1,False,False,4,"윽…… 완패로군요…….
+인형술사 질브리스베르…… 너무 위험한 자예요!"
+11570,0,2,False,False,False,2,4,False,False,1,"으윽… 흡…
+해치운다… 흡!"
+11571,0,2,False,False,False,5,1,False,False,6,"""더는 희생자를 내지 않기 위해 다음엔 꼭 해치운다""라고요?
+물론이에요, 호랑수염. 역습할 기회를 기다리자고요……,"
 11572,0,2,False,False,False,2,5,False,False,1,"왔구나, 거대 얼음마수!
 다들 싸울 준비해!"
 11573,0,2,False,False,False,2,5,False,False,1,"크크크, 얼음 봄바드…
@@ -15693,63 +15792,94 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 11578,0,2,False,False,False,2,5,False,False,1,"엄청난 싸움이다!"
 11579,0,2,False,False,False,2,5,False,False,1,"힘내라!"
 11580,0,2,False,False,False,2,5,False,False,1,"가라!"
-11581,0,0,False,False,False,0,0,False,False,0,""
-11582,0,0,False,False,False,0,0,False,False,0,""
-11583,0,0,False,False,False,0,0,False,False,0,""
-11584,0,0,False,False,False,0,0,False,False,0,""
-11585,0,0,False,False,False,0,0,False,False,0,""
-11586,0,0,False,False,False,0,0,False,False,0,""
+11581,0,2,False,False,False,5,1,False,False,4,"아니, 로피가 아닙니까.
+실험에 협력하기 위해 와주다니 기쁘군요."
+11582,0,2,False,False,False,5,1,False,False,4,"파비노! 또 뭘 꾸미고 있지……!
+당신의 비인도적인 실험도 이제 끝이야!"
+11583,0,2,False,False,False,2,4,False,False,1,"피험체를 확보했습니다
+지금부터 실험을 시작합니다"
+11584,0,2,False,False,False,5,1,False,False,4,"우선 고전적인 요마 소환술의 실증 실험을 하죠.
+마침 좋은 제물도 있으니까……."
+11585,0,2,False,False,False,5,1,False,False,4,"무슨 짓을……!!"
+11586,0,2,False,False,False,5,1,False,False,4,"이 희생이, 이 몸의 마도를 한 걸음 더 전진시킬 겁니다.
+참으로 멋지도다, 연구의 자유란!"
 11587,0,0,False,False,False,0,0,False,False,0,""
-11588,0,0,False,False,False,0,0,False,False,0,""
+11588,0,2,False,False,False,5,1,False,False,4,"네 지식욕을 채우기 위해
+얼마나 많은 생명이 희생됐는지…… 용서 못 해!"
 11589,0,0,False,False,False,0,0,False,False,0,""
-11590,0,0,False,False,False,0,0,False,False,0,""
-11591,0,0,False,False,False,0,0,False,False,0,""
-11592,0,0,False,False,False,0,0,False,False,0,""
-11593,0,0,False,False,False,0,0,False,False,0,""
-11594,0,0,False,False,False,0,0,False,False,0,""
-11595,0,0,False,False,False,0,0,False,False,0,""
+11590,0,2,False,False,False,5,1,False,False,4,"그럼, 희생을 두려워 않는 자세가 얼마나 진전을 앞당길지……
+지금 여기서 실증해 봅시다!"
+11591,0,2,False,False,False,2,4,False,False,1,"꾸엑!?"
+11592,0,2,False,False,False,5,1,False,False,4,"설마 이 아이들을 제물로……!?
+그, 그만둬……!"
+11593,0,2,False,False,False,5,1,False,False,4,"흠, 에테르 공급을 확인…… 실험은 성공한 모양입니다.
+이 강화법을 실용화할 수 있을 것 같아요."
+11594,0,2,False,False,False,5,1,False,False,4,"어디까지…… 대체 어디까지 생명을 모욕할 셈이야!"
+11595,0,2,False,False,False,5,1,False,False,4,"실력으로 막아보지 그래요?
+수많은 희생을 치르고 발전시킨 마법을 써서 말이에요!"
 11596,0,0,False,False,False,0,0,False,False,0,""
-11597,0,0,False,False,False,0,0,False,False,0,""
-11598,0,0,False,False,False,0,0,False,False,0,""
-11599,0,0,False,False,False,0,0,False,False,0,""
-11600,0,0,False,False,False,0,0,False,False,0,""
-11601,0,0,False,False,False,0,0,False,False,0,""
-11602,0,0,False,False,False,0,0,False,False,0,""
-11603,0,0,False,False,False,0,0,False,False,0,""
-11604,0,0,False,False,False,0,0,False,False,0,""
-11605,0,0,False,False,False,0,0,False,False,0,""
+11597,0,2,False,False,False,5,1,False,False,4,"이런…… 이 몸의 마도가…… 여기서 무너지다니……!?
+인정할 수 없어…… 절대, 인정 못, 해…………."
+11598,0,2,False,False,False,2,4,False,False,1,"파비노 님이 졌어!?"
+11599,0,2,False,False,False,2,4,False,False,1,"거점으로 후퇴한다…!"
+11600,0,2,False,False,False,2,4,False,False,1,"후, 후퇴다~!"
+11601,0,2,False,False,False,5,1,False,False,4,"헉, 헉, 헉…….
+가, 간신히 파비노를 쓰러뜨렸군요……."
+11602,0,2,False,False,False,5,1,False,False,4,"하지만 술사대대의 연구 시설에는 아직
+잡혀 있는 실험 동물들이 많을 거예요……."
+11603,0,2,False,False,False,5,1,False,False,4,"그 아이들을 구할 때까지는 멈춰 설 수 없어요."
+11604,0,2,False,False,False,5,1,False,False,4,"헉, 헉, 헉…….
+아직 쓰러질…… 수는…………!"
+11605,0,2,False,False,False,5,1,False,False,4,"자, 돌아가서 아둔한 저항군에게 전하세요.
+이 몸의 마도는 더 높은 경지에 다다랐다고 말이죠……!"
 11606,0,0,False,False,False,0,0,False,False,0,""
 11607,0,0,False,False,False,0,0,False,False,0,""
 11608,0,0,False,False,False,0,0,False,False,0,""
 11609,0,0,False,False,False,0,0,False,False,0,""
-11610,0,0,False,False,False,0,0,False,False,0,""
-11611,0,0,False,False,False,0,0,False,False,0,""
-11612,0,0,False,False,False,0,0,False,False,0,""
-11613,0,0,False,False,False,0,0,False,False,0,""
-11614,0,0,False,False,False,0,0,False,False,0,""
-11615,0,0,False,False,False,0,0,False,False,0,""
-11616,0,0,False,False,False,0,0,False,False,0,""
-11617,0,0,False,False,False,0,0,False,False,0,""
-11618,0,0,False,False,False,0,0,False,False,0,""
-11619,0,0,False,False,False,0,0,False,False,0,""
-11620,0,0,False,False,False,0,0,False,False,0,""
+11610,0,2,False,False,False,5,1,False,False,4,"으윽, 지금의 나에게는…… 힘이 부족해…….
+파비노의 악행을, 저지할…… 힘이……."
+11611,0,2,False,False,False,5,1,False,False,4,"썩 나타나라, 저항군 녀석들아!
+내 이름은 파가가다!"
+11612,0,2,False,False,False,5,1,False,False,4,"으윽…… 흡……, 흡흡…… 으윽……!"
+11613,0,2,False,False,False,5,1,False,False,4,"""저 녀석, 어쩐지 지난 번과 분위기가 다르다""라고요?
+그러고 보니, 뭔가 각오를 한 것 같은데……."
+11614,0,2,False,False,False,5,1,False,False,4,"저렇게까지 대놓고 도발하는데 꼬리를 말고 도망치면
+그건 사기에 직결되는 문제겠죠……!"
+11615,0,2,False,False,False,5,1,False,False,4,"창을 든 여자에 수염 난 남자……!
+이번에야말로, 내 양아버지의 명예를 위해 너희를 쓰러뜨리겠다!"
+11616,0,2,False,False,False,5,1,False,False,4,"아직이다!
+보크스타인의 이름을 이어받은 내가 질 수는 없어!"
+11617,0,2,False,False,False,5,1,False,False,4,"마수왕을 사칭하는 그자에게 알려줄 거야!
+그 칭호에 어울리는 사람이 누구인지 말이야!"
+11618,0,2,False,False,False,5,1,False,False,4,"라이언을 물리친 자들을 쓰러뜨리고,
+보크스타인이야말로 마수왕에 걸맞는다는 걸 보여주겠어!"
+11619,0,2,False,False,False,5,1,False,False,4,"주니어들, 기다리라고 했잖아!?
+너희 상처는 아직 낫지 않았다고!"
+11620,0,2,False,False,False,2,4,False,False,1,"뀨잇!"
 11621,0,0,False,False,False,0,0,False,False,0,""
-11622,0,0,False,False,False,0,0,False,False,0,""
-11623,0,0,False,False,False,0,0,False,False,0,""
-11624,0,0,False,False,False,0,0,False,False,0,""
-11625,0,0,False,False,False,0,0,False,False,0,""
-11626,0,0,False,False,False,0,0,False,False,0,""
-11627,0,0,False,False,False,0,0,False,False,0,""
-11628,0,0,False,False,False,0,0,False,False,0,""
-11629,0,0,False,False,False,0,0,False,False,0,""
-11630,0,0,False,False,False,0,0,False,False,0,""
-11631,0,0,False,False,False,0,0,False,False,0,""
-11632,0,0,False,False,False,0,0,False,False,0,""
-11633,0,0,False,False,False,0,0,False,False,0,""
-11634,0,0,False,False,False,0,0,False,False,0,""
+11622,0,2,False,False,False,2,4,False,False,1,"뀨이, 뀨잇!"
+11623,0,2,False,False,False,5,1,False,False,4,"베르다 주니어…… 넌 정말 착하구나!
+오브다 주니어…… 알았어, 마지막까지 함께 싸우자!"
+11624,0,2,False,False,False,2,4,False,False,1,"뀨이잇!"
+11625,0,2,False,False,False,5,1,False,False,4,"윽…… 끈질긴 녀석들 같으니라고……!
+라이언을 물리칠 정도의 실력은 된다는 말이지……."
+11626,0,2,False,False,False,5,1,False,False,4,"그렇다고 포기할까 보냐!"
+11627,0,2,False,False,False,5,1,False,False,4,"다음엔, 다음엔 꼭 너희를 쓰러뜨리고 말겠다!"
+11628,0,2,False,False,False,5,1,False,False,4,"집착이 유별나네요……."
+11629,0,2,False,False,False,5,1,False,False,4,"흡…… 으윽……, ……!"
+11630,0,2,False,False,False,5,1,False,False,4,"""마수가 저래서는 당분간 전선에 못 나온다""라고요?
+네…… 그랬으면 좋겠네요."
+11631,0,2,False,False,False,5,1,False,False,4,"아직 어린 소녀가, 명예를 위해 전장에서 목숨을 잃는 건
+보고 싶지 않으니까요……."
+11632,0,2,False,False,False,5,1,False,False,4,"봤느냐!
+이게 진정한 마수조련사, 보크스타인의 힘이다!"
+11633,0,2,False,False,False,2,4,False,False,1,"뀨이잇!"
+11634,0,2,False,False,False,5,1,False,False,4,"자, 당당하게 돌아가자!
+늙다리 라이언이 울며 분해 하는 얼굴이 눈에 선하구나!"
 11635,0,0,False,False,False,0,0,False,False,0,""
 11636,0,0,False,False,False,0,0,False,False,0,""
-11637,0,0,False,False,False,0,0,False,False,0,""
+11637,0,2,False,False,False,5,1,False,False,4,"집착이 엄청나군요……!
+더 싸워봤자 불리해요. 후퇴하죠……!"
 11638,0,0,False,False,False,0,0,False,False,0,""
 11639,0,2,False,False,False,2,5,False,False,1,"지지 않겠어!"
 11640,0,2,False,False,False,2,5,False,False,1,"나도 할 땐 한다고…!"
@@ -15786,224 +15916,357 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 오빠…!"
 11661,0,2,False,False,False,2,5,False,False,1,"져, 졌나!?"
 11662,0,2,False,False,False,2,5,False,False,1,"이런… 도망가야…!"
-11663,0,0,False,False,False,0,0,False,False,0,""
-11664,0,0,False,False,False,0,0,False,False,0,""
-11665,0,0,False,False,False,0,0,False,False,0,""
-11666,0,0,False,False,False,0,0,False,False,0,""
-11667,0,0,False,False,False,0,0,False,False,0,""
-11668,0,0,False,False,False,0,0,False,False,0,""
-11669,0,0,False,False,False,0,0,False,False,0,""
-11670,0,0,False,False,False,0,0,False,False,0,""
-11671,0,0,False,False,False,0,0,False,False,0,""
-11672,0,0,False,False,False,0,0,False,False,0,""
-11673,0,0,False,False,False,0,0,False,False,0,""
-11674,0,0,False,False,False,0,0,False,False,0,""
-11675,0,0,False,False,False,0,0,False,False,0,""
-11676,0,0,False,False,False,0,0,False,False,0,""
-11677,0,0,False,False,False,0,0,False,False,0,""
-11678,0,0,False,False,False,0,0,False,False,0,""
-11679,0,0,False,False,False,0,0,False,False,0,""
-11680,0,0,False,False,False,0,0,False,False,0,""
-11681,0,0,False,False,False,0,0,False,False,0,""
-11682,0,0,False,False,False,0,0,False,False,0,""
-11683,0,0,False,False,False,0,0,False,False,0,""
-11684,0,0,False,False,False,0,0,False,False,0,""
-11685,0,0,False,False,False,0,0,False,False,0,""
-11686,0,0,False,False,False,0,0,False,False,0,""
-11687,0,0,False,False,False,0,0,False,False,0,""
-11688,0,0,False,False,False,0,0,False,False,0,""
-11689,0,0,False,False,False,0,0,False,False,0,""
-11690,0,0,False,False,False,0,0,False,False,0,""
-11691,0,0,False,False,False,0,0,False,False,0,""
-11692,0,0,False,False,False,0,0,False,False,0,""
-11693,0,0,False,False,False,0,0,False,False,0,""
-11694,0,0,False,False,False,0,0,False,False,0,""
-11695,0,0,False,False,False,0,0,False,False,0,""
-11696,0,0,False,False,False,0,0,False,False,0,""
-11697,0,0,False,False,False,0,0,False,False,0,""
-11698,0,0,False,False,False,0,0,False,False,0,""
-11699,0,0,False,False,False,0,0,False,False,0,""
-11700,0,0,False,False,False,0,0,False,False,0,""
-11701,0,0,False,False,False,0,0,False,False,0,""
-11702,0,0,False,False,False,0,0,False,False,0,""
-11703,0,0,False,False,False,0,0,False,False,0,""
-11704,0,0,False,False,False,0,0,False,False,0,""
-11705,0,0,False,False,False,0,0,False,False,0,""
-11706,0,0,False,False,False,0,0,False,False,0,""
-11707,0,0,False,False,False,0,0,False,False,0,""
-11708,0,0,False,False,False,0,0,False,False,0,""
-11709,0,0,False,False,False,0,0,False,False,0,""
-11710,0,0,False,False,False,0,0,False,False,0,""
-11711,0,0,False,False,False,0,0,False,False,0,""
-11712,0,0,False,False,False,0,0,False,False,0,""
-11713,0,0,False,False,False,0,0,False,False,0,""
-11714,0,0,False,False,False,0,0,False,False,0,""
-11715,0,0,False,False,False,0,0,False,False,0,""
-11716,0,0,False,False,False,0,0,False,False,0,""
-11717,0,0,False,False,False,0,0,False,False,0,""
-11718,0,0,False,False,False,0,0,False,False,0,""
-11719,0,0,False,False,False,0,0,False,False,0,""
-11720,0,0,False,False,False,0,0,False,False,0,""
-11721,0,0,False,False,False,0,0,False,False,0,""
-11722,0,0,False,False,False,0,0,False,False,0,""
+11663,0,2,False,False,False,2,4,False,False,1,"승리의 독수리를 따르라!"
+11664,0,2,False,False,False,2,4,False,False,1,"군힐드의 검이
+우리를 이끈다!"
+11665,0,2,False,False,False,2,4,False,False,1,"보즈야에 전해지는
+비약의 힘을 받으십시오!"
+11666,0,2,False,False,False,2,4,False,False,1,"대의를 위하여…!"
+11667,0,2,False,False,False,2,4,False,False,1,"동포들의 미래…
+지켜내겠다!"
+11668,0,2,False,False,False,2,4,False,False,1,"방패가 되겠습니다!
+제 곁에 계십시오…!"
+11669,0,2,False,False,False,2,4,False,False,1,"거기군!"
+11670,0,2,False,False,False,2,4,False,False,1,"이래 봬도
+상급 닌자다!"
+11671,0,2,False,False,False,2,4,False,False,1,"잡았다!"
+11672,0,2,False,False,False,2,4,False,False,1,"갑니다!"
+11673,0,2,False,False,False,2,4,False,False,1,"에잇!"
+11674,0,2,False,False,False,2,4,False,False,1,"하압!"
+11675,0,2,False,False,False,2,4,False,False,1,"뚫어주마!"
+11676,0,2,False,False,False,2,4,False,False,1,"어설퍼!"
+11677,0,2,False,False,False,2,4,False,False,1,"나그샤의 기술을
+받아라!"
+11678,0,2,False,False,False,2,4,False,False,1,"으읍…!"
+11679,0,2,False,False,False,2,4,False,False,1,"하압…!"
+11680,0,2,False,False,False,2,4,False,False,1,"우오오옷!"
+11681,0,2,False,False,False,2,4,False,False,1,"맞서는 힘으로!"
+11682,0,2,False,False,False,2,4,False,False,1,"저도
+군힐드의 검입니다!"
+11683,0,2,False,False,False,2,4,False,False,1,"두 마나를 합해서…!"
+11684,0,2,False,False,False,2,4,False,False,1,"믿는 길을 위하여…!"
+11685,0,2,False,False,False,2,4,False,False,1,"뜻대로 안 될걸!"
+11686,0,2,False,False,False,2,4,False,False,1,"성스러운 빛을!"
+11687,0,2,False,False,False,2,4,False,False,1,"보즈야를 위하여!"
+11688,0,2,False,False,False,2,4,False,False,1,"고향을 탈환하자!"
+11689,0,2,False,False,False,2,4,False,False,1,"자유를 이 손에!"
+11690,0,2,False,False,False,2,4,False,False,1,"침략자 놈들!"
+11691,0,2,False,False,False,2,4,False,False,1,"밀어붙여라!"
+11692,0,2,False,False,False,2,4,False,False,1,"군힐드의 검을 따르라!"
+11693,0,2,False,False,False,2,4,False,False,1,"어딜!"
+11694,0,2,False,False,False,2,4,False,False,1,"받아라!"
+11695,0,2,False,False,False,2,4,False,False,1,"이것이 보즈야 사람의 힘이다!"
+11696,0,2,False,False,False,2,4,False,False,1,"이 승리가 자유로 이어진다!"
+11697,0,2,False,False,False,2,4,False,False,1,"봤느냐!
+우리의 저력을!"
+11698,0,2,False,False,False,2,4,False,False,1,"제국군 따위에게
+질 수는 없다!"
+11699,0,2,False,False,False,2,4,False,False,1,"보즈야 해방을 위하여!"
+11700,0,2,False,False,False,2,4,False,False,1,"제국군 따위 별것 아니다!"
+11701,0,2,False,False,False,2,4,False,False,1,"도망쳐, 도망쳐라…!"
+11702,0,2,False,False,False,2,4,False,False,1,"제국의 힘…
+얕봐선 안 되겠군…"
+11703,0,2,False,False,False,2,4,False,False,1,"분하지만…
+후퇴해야겠어…!"
+11704,0,2,False,False,False,2,4,False,False,1,"트, 틀렸어…
+더는 못 버텨…!"
+11705,0,2,False,False,False,2,4,False,False,1,"이 굴욕…
+잊지 않겠다…!"
+11706,0,2,False,False,False,2,4,False,False,1,"후퇴, 후퇴다아!"
+11707,0,2,False,False,False,2,4,False,False,1,"이런 곳에서…"
+11708,0,2,False,False,False,2,4,False,False,1,"방심한…
+것인가…"
+11709,0,2,False,False,False,2,4,False,False,1,"윽…!"
+11710,0,2,False,False,False,2,4,False,False,1,"아, 아직…
+싸워야, 하는데…"
+11711,0,2,False,False,False,2,4,False,False,1,"실수했군…"
+11712,0,2,False,False,False,2,4,False,False,1,"여기까지인가…"
+11713,0,2,False,False,False,2,4,False,False,1,"헉, 헉…"
+11714,0,2,False,False,False,2,4,False,False,1,"면목 없습니다…"
+11715,0,2,False,False,False,2,4,False,False,1,"지, 질 수 없는
+싸움이거늘…"
+11716,0,2,False,False,False,2,4,False,False,1,"이 정도 상처로…
+움직이지 못하다니…"
+11717,0,2,False,False,False,2,4,False,False,1,"으윽…"
+11718,0,2,False,False,False,2,4,False,False,1,"……!!"
+11719,0,2,False,False,False,2,4,False,False,1,"내 맞서는 힘이…
+부족한가…?"
+11720,0,2,False,False,False,2,4,False,False,1,"내가 미숙해서…"
+11721,0,2,False,False,False,2,4,False,False,1,"나로서는
+구할 수 없는 걸까…"
+11722,0,2,False,False,False,2,4,False,False,1,"모노케로스…
+나는…!"
 11723,0,2,False,False,False,2,4,False,False,1,"힘내라!"
 11724,0,2,False,False,False,2,4,False,False,1,"수탉이 온다!"
 11725,0,2,False,False,False,2,4,False,False,1,"저 달걀은 주울 수 있겠어!"
 11726,0,2,False,False,False,2,4,False,False,1,"다치지 않게 조심해!"
-11727,0,0,False,False,False,0,0,False,False,0,""
-11728,0,0,False,False,False,0,0,False,False,0,""
-11729,0,0,False,False,False,0,0,False,False,0,""
-11730,0,0,False,False,False,0,0,False,False,0,""
-11731,0,0,False,False,False,0,0,False,False,0,""
-11732,0,0,False,False,False,0,0,False,False,0,""
-11733,0,0,False,False,False,0,0,False,False,0,""
-11734,0,0,False,False,False,0,0,False,False,0,""
-11735,0,0,False,False,False,0,0,False,False,0,""
-11736,0,0,False,False,False,0,0,False,False,0,""
-11737,0,0,False,False,False,0,0,False,False,0,""
-11738,0,0,False,False,False,0,0,False,False,0,""
-11739,0,0,False,False,False,0,0,False,False,0,""
-11740,0,0,False,False,False,0,0,False,False,0,""
-11741,0,0,False,False,False,0,0,False,False,0,""
-11742,0,0,False,False,False,0,0,False,False,0,""
-11743,0,0,False,False,False,0,0,False,False,0,""
+11727,0,2,False,False,False,3,4,False,False,1,"해방자님!
+이쪽으로…!"
+11728,0,2,False,False,False,2,4,False,False,1,"마도 부품을 입수하시거든
+저에게…!"
+11729,0,2,False,False,False,2,4,False,False,1,"기계 병기가
+줄줄이…"
+11730,0,2,False,False,False,2,4,False,False,1,"지금이라면
+기습할 수 있겠어요"
+11731,0,2,False,False,False,2,4,False,False,1,"가자, 츠바메!
+기척을 숨기고 접근하자!"
+11732,0,2,False,False,False,2,4,False,False,1,"네…!"
+11733,0,2,False,False,False,2,4,False,False,1,"엇흠…!
+바, 방심했다…!"
+11734,0,2,False,False,False,2,4,False,False,1,"이, 이런…"
+11735,0,2,False,False,False,2,4,False,False,1,"임무 완료입니다!
+여러분, 협력해 주셔서 감사합니다!"
+11736,0,2,False,False,False,2,4,False,False,1,"트, 틀렸어…
+후퇴합시다!"
+11737,0,2,False,False,False,2,4,False,False,1,"도와줘서 고맙다!"
+11738,0,2,False,False,False,2,4,False,False,1,"해냈어요!
+우리가 이겼어요!"
+11739,0,2,False,False,False,2,4,False,False,1,"흡… 으윽…
+퇴로… 흡!"
+11740,0,2,False,False,False,5,1,False,False,4,"뭐야, 지원군이 더 있다니……!?"
+11741,0,2,False,False,False,5,1,False,False,4,"에잇, 내 운명도 여기까지인가……!"
+11742,0,2,False,False,False,5,1,False,False,4,"키힛…… 야마츠미 공,
+꽤나 궁지에 몰린 모양이군?"
+11743,0,2,False,False,False,2,4,False,False,1,"""퇴로는 완벽하게 봉쇄했다""
+…라는 말이죠."
 11744,0,0,False,False,False,0,0,False,False,0,""
-11745,0,0,False,False,False,0,0,False,False,0,""
-11746,0,0,False,False,False,0,0,False,False,0,""
-11747,0,0,False,False,False,0,0,False,False,0,""
-11748,0,0,False,False,False,0,0,False,False,0,""
-11749,0,0,False,False,False,0,0,False,False,0,""
-11750,0,0,False,False,False,0,0,False,False,0,""
-11751,0,0,False,False,False,0,0,False,False,0,""
-11752,0,0,False,False,False,0,0,False,False,0,""
-11753,0,0,False,False,False,0,0,False,False,0,""
-11754,0,0,False,False,False,0,0,False,False,0,""
-11755,0,0,False,False,False,0,0,False,False,0,""
-11756,0,0,False,False,False,0,0,False,False,0,""
-11757,0,0,False,False,False,0,0,False,False,0,""
-11758,0,0,False,False,False,0,0,False,False,0,""
-11759,0,0,False,False,False,0,0,False,False,0,""
+11745,0,2,False,False,False,5,1,False,False,4,"하지만 걱정할 것 없다.
+너의 '간절한 소망'은 이 성석 조각에 전해질 테니……."
+11746,0,2,False,False,False,5,1,False,False,4,"다보그 씨……!
+자, 우리와 함께 돌아갑시다!"
+11747,0,2,False,False,False,5,1,False,False,4,"어리석은 저항군 같으니…….
+거기 있는 건 너희가 아는 다보그란 자가 아니다."
+11748,0,2,False,False,False,5,1,False,False,4,"'간절한 소망'이라고……!?
+내 소망은 새로운 조국에서 일족을 재건하는 것…… 그뿐이다!"
+11749,0,2,False,False,False,5,1,False,False,4,"뭐지…… 목소리가…… 돌에서 목소리가, 들려…….
+으, 으으, 으아아아악!!"
+11750,0,2,False,False,False,5,1,False,False,4,"마도 병기의 성능을 극한까지 끌어올리기 위하여
+최신 기술을 투입해 개발한 생체 부품이다!"
+11751,0,2,False,False,False,5,1,False,False,4,"키힛…… 히히히히히히히……!
+거 봐, 역시 전해졌잖아, 히히히히히히……!"
+11752,0,2,False,False,False,5,1,False,False,4,"좋아…… 정신 주박도 완벽해…….
+가라, 내 새로운 인형, 루카비가 된 자여!"
+11753,0,2,False,False,False,2,4,False,False,1,"야마츠미를…
+제물로 썼어!?"
+11754,0,2,False,False,False,2,4,False,False,1,"으윽…
+끔찍… 흡!"
+11755,0,2,False,False,False,2,4,False,False,1,"""끔찍한 짓""이라고
+하려는 거죠? 동감이에요"
+11756,0,2,False,False,False,2,4,False,False,1,"일족을… 재건한다…"
+11757,0,2,False,False,False,2,4,False,False,1,"노아 님의… 새로운 왕국에서…"
+11758,0,2,False,False,False,5,1,False,False,4,"키힛…… 지기는 했지만……
+성석 조각의 힘은…… 확실히 보았다."
+11759,0,2,False,False,False,5,1,False,False,4,"이, 이 자들은…… 대체!?"
 11760,0,0,False,False,False,0,0,False,False,0,""
-11761,0,0,False,False,False,0,0,False,False,0,""
-11762,0,0,False,False,False,0,0,False,False,0,""
-11763,0,0,False,False,False,0,0,False,False,0,""
-11764,0,0,False,False,False,0,0,False,False,0,""
-11765,0,0,False,False,False,0,0,False,False,0,""
+11761,0,2,False,False,False,5,1,False,False,4,"야마츠미로 이 정도라니, 내가 직접 사용하면……!"
+11762,0,2,False,False,False,5,1,False,False,4,"흡…… 으윽……
+가엽…… 흡!"
+11763,0,2,False,False,False,5,1,False,False,4,"""야마츠미라는 자, 가엽구나""라고요?
+맞아요…… 소망 때문에 기괴한 존재로 변하다니……."
+11764,0,2,False,False,False,5,1,False,False,4,"네, 그러게요…….
+그리고 변이에 사용된 성석 조각이라는 물건도 위험합니다……."
+11765,0,2,False,False,False,5,1,False,False,4,"질브리스베르라고 했나?
+저 자는 온 힘을 다해 막아야겠어."
 11766,0,0,False,False,False,0,0,False,False,0,""
 11767,0,0,False,False,False,0,0,False,False,0,""
-11768,0,0,False,False,False,0,0,False,False,0,""
-11769,0,0,False,False,False,0,0,False,False,0,""
-11770,0,0,False,False,False,0,0,False,False,0,""
-11771,0,0,False,False,False,0,0,False,False,0,""
-11772,0,0,False,False,False,0,0,False,False,0,""
-11773,0,0,False,False,False,0,0,False,False,0,""
-11774,0,0,False,False,False,0,0,False,False,0,""
-11775,0,0,False,False,False,0,0,False,False,0,""
-11776,0,0,False,False,False,0,0,False,False,0,""
-11777,0,0,False,False,False,0,0,False,False,0,""
-11778,0,0,False,False,False,0,0,False,False,0,""
-11779,0,0,False,False,False,0,0,False,False,0,""
-11780,0,0,False,False,False,0,0,False,False,0,""
-11781,0,0,False,False,False,0,0,False,False,0,""
-11782,0,0,False,False,False,0,0,False,False,0,""
-11783,0,0,False,False,False,0,0,False,False,0,""
-11784,0,0,False,False,False,0,0,False,False,0,""
-11785,0,0,False,False,False,0,0,False,False,0,""
-11786,0,0,False,False,False,0,0,False,False,0,""
-11787,0,0,False,False,False,0,0,False,False,0,""
-11788,0,0,False,False,False,0,0,False,False,0,""
-11789,0,0,False,False,False,0,0,False,False,0,""
-11790,0,0,False,False,False,0,0,False,False,0,""
-11791,0,0,False,False,False,0,0,False,False,0,""
-11792,0,0,False,False,False,0,0,False,False,0,""
-11793,0,0,False,False,False,0,0,False,False,0,""
-11794,0,0,False,False,False,0,0,False,False,0,""
-11795,0,0,False,False,False,0,0,False,False,0,""
-11796,0,0,False,False,False,0,0,False,False,0,""
-11797,0,0,False,False,False,0,0,False,False,0,""
-11798,0,0,False,False,False,0,0,False,False,0,""
-11799,0,0,False,False,False,0,0,False,False,0,""
-11800,0,0,False,False,False,0,0,False,False,0,""
-11801,0,0,False,False,False,0,0,False,False,0,""
-11802,0,0,False,False,False,0,0,False,False,0,""
-11803,0,0,False,False,False,0,0,False,False,0,""
-11804,0,0,False,False,False,0,0,False,False,0,""
-11805,0,0,False,False,False,0,0,False,False,0,""
-11806,0,0,False,False,False,0,0,False,False,0,""
-11807,0,0,False,False,False,0,0,False,False,0,""
-11808,0,0,False,False,False,0,0,False,False,0,""
-11809,0,0,False,False,False,0,0,False,False,0,""
-11810,0,0,False,False,False,0,0,False,False,0,""
-11811,0,0,False,False,False,0,0,False,False,0,""
-11812,0,0,False,False,False,0,0,False,False,0,""
-11813,0,0,False,False,False,0,0,False,False,0,""
-11814,0,0,False,False,False,0,0,False,False,0,""
+11768,0,2,False,False,False,2,4,False,False,1,"히히히…!
+성석 조각, 굉장하구나!"
+11769,0,2,False,False,False,2,4,False,False,1,"윽… 후퇴한 다음
+재정비하자!"
+11770,0,2,False,False,False,2,4,False,False,1,"면목 없습니다…"
+11771,0,2,False,False,False,2,4,False,False,1,"으윽…
+인내… 흡!"
+11772,0,2,False,False,False,2,4,False,False,1,"""지금은 인내할 때""
+라는 거죠…"
+11773,0,2,False,False,False,5,1,False,False,4,"보크스타인의 이름을 이어받은 내 목을 치고
+무훈을 세우고 싶은 자, 어디 없느냐!"
+11774,0,2,False,False,False,5,4,False,False,4,"여기는 제IV기계화 보병소대, 적에게 공격 받고 있다!
+속히 항공 지원을 요청한다!"
+11775,0,2,False,False,False,5,1,False,False,4,"이쪽은 이미 양산에 성공했다, 이 말씀이지.
+자, 나의 강화병 부대여, 저항군을 모조리 쓸어버려라!"
+11776,0,2,False,False,False,5,4,False,False,4,"윽…… 엄청난 압력……!
+후퇴, 후퇴다!"
+11777,0,2,False,False,False,5,4,False,False,4,"비공전함대에 보고, 저항군 부대는 후퇴했다!
+항공 지원에 감사한다……!"
+11778,0,2,False,False,False,2,4,False,False,1,"저, 저기…
+저것 좀 봐!"
+11779,0,2,False,False,False,2,4,False,False,1,"고대 짐승인가…!?
+엄청나게 크잖아!"
+11780,0,2,False,False,False,2,4,False,False,1,"이, 이리로 온다!
+맞서 싸우자!"
+11781,0,2,False,False,False,2,4,False,False,1,"부오오오오오오오오옹!!"
+11782,0,2,False,False,False,5,1,False,False,5,"어이, 해방자! 여전히 날뛰고 있구나!
+내 밑에서 일하면 더할 나위 없을 텐데……!"
+11783,0,2,False,False,False,5,1,False,False,5,"하지만 나도 이제 널 포섭하는 걸 포기해야겠어……!
+당하기만 해서는 체면이 안 서거든!"
+11784,0,2,False,False,False,2,4,False,False,1,"이대로는…!
+분하지만 후퇴합시다…!"
+11785,0,2,False,False,False,2,4,False,False,1,"드디어 해방자님을
+포섭하는 걸 포기했나…"
+11786,0,2,False,False,False,5,1,False,False,5,"그러니 네놈들 전부……
+초코보의 먹이로 만들어주마, 각오해라!"
+11787,0,2,False,False,False,2,4,False,False,1,"꾸에에에엑!"
+11788,0,2,False,False,False,2,4,False,False,1,"요격한다!"
+11789,0,2,False,False,False,5,1,False,False,5,"크하하하! 바로 그 날뛰는 모습이야!
+기분 좋은데!"
+11790,0,2,False,False,False,5,1,False,False,5,"그만큼 널 쓰러뜨리면 보상이 두둑하거든!
+부하들에게 고기를 먹이기 위해, 널 해치우겠다!"
+11791,0,2,False,False,False,2,4,False,False,1,"꾸에에에에!"
+11792,0,2,False,False,False,2,4,False,False,1,"부하를 위해 싸우는 건
+공감할 만하지만…!"
+11793,0,2,False,False,False,5,1,False,False,5,"에잇, 여기까진가!
+하지만 부하들을 위해, 죽을 수는 없다!"
+11794,0,2,False,False,False,5,1,False,False,5,"미안하지만 승부는 나중에 내자!
+잘 있어라, 해방자!"
+11795,0,2,False,False,False,2,4,False,False,1,"꾸에… 꾸에에…"
+11796,0,2,False,False,False,5,1,False,False,5,"이것 참…… 별난 자로군요……."
+11797,0,2,False,False,False,5,1,False,False,5,"크하하하하! 어떠냐? 우리 강하지!
+해방자여, 마음이 변하면 말해라!"
+11798,0,2,False,False,False,5,1,False,False,5,"강하고 믿음직한 녀석은 언제든지 환영한다!"
+11799,0,2,False,False,False,2,4,False,False,1,"꾸엑!
+꾸엑!"
+11800,0,2,False,False,False,2,4,False,False,1,"휴르르르…!"
+11801,0,2,False,False,False,2,4,False,False,1,"기함 달리아다로
+돌아가자…!"
+11802,0,2,False,False,False,2,4,False,False,1,"흠…
+슬슬 돌아갈까…"
+11803,0,2,False,False,False,2,4,False,False,1,"돌아가서
+다음 임무를 준비하자!"
+11804,0,2,False,False,False,2,4,False,False,1,"휴르르르!"
+11805,0,2,False,False,False,5,1,False,False,4,"키힛…… 숫자로 밀어붙일 생각이라면……
+이쪽도 인형들을 사용해야겠지!"
+11806,0,2,False,False,False,5,1,False,False,4,"웬 놈들이냐! 동방식 옷차림을 했다만…….
+동방 연합의 지원군은 아니지!?"
+11807,0,2,False,False,False,5,1,False,False,4,"우리는 음양사다……. 사정이 있어 노아 님을 따르게 됐지.
+너희에게 원한은 없지만, 목숨을 받아가야겠다……."
+11808,0,2,False,False,False,2,4,False,False,1,"제국군인가!
+맞서 싸우자…!"
+11809,0,2,False,False,False,5,1,False,False,4,"부오오오오오오오오오옹!"
+11810,0,2,False,False,False,5,1,False,False,4,"적군을 만났나…… 가세하겠다!"
+11811,0,2,False,False,False,5,1,False,False,4,"이런…… 지원군이 빨리도 왔군……!
+나의 사역귀들이여, 저 자들을 한꺼번에 처리해라!"
+11812,0,2,False,False,False,5,1,False,False,4,"뭐…… 뭐지, 저 괴물은……!
+전원, 정신 바짝 차리고 싸워라!"
+11813,0,2,False,False,False,5,1,False,False,4,"윽…… 실수했나……!?"
+11814,0,2,False,False,False,5,1,False,False,4,"나의 사역귀를 쓰러뜨리다니……!!"
 11815,0,2,False,False,False,5,1,False,False,4,"으악, 수탉들이 쳐들어왔어요!!
 쪼이지 않도록 조심하면서 '갓 낳은 달걀'을 모아주세요!"
-11816,0,0,False,False,False,0,0,False,False,0,""
-11817,0,0,False,False,False,0,0,False,False,0,""
-11818,0,0,False,False,False,0,0,False,False,0,""
-11819,0,0,False,False,False,0,0,False,False,0,""
-11820,0,0,False,False,False,0,0,False,False,0,""
-11821,0,0,False,False,False,0,0,False,False,0,""
-11822,0,0,False,False,False,0,0,False,False,0,""
-11823,0,0,False,False,False,0,0,False,False,0,""
-11824,0,0,False,False,False,0,0,False,False,0,""
-11825,0,0,False,False,False,0,0,False,False,0,""
-11826,0,0,False,False,False,0,0,False,False,0,""
-11827,0,0,False,False,False,0,0,False,False,0,""
-11828,0,0,False,False,False,0,0,False,False,0,""
-11829,0,0,False,False,False,0,0,False,False,0,""
-11830,0,0,False,False,False,0,0,False,False,0,""
-11831,0,0,False,False,False,0,0,False,False,0,""
-11832,0,0,False,False,False,0,0,False,False,0,""
-11833,0,0,False,False,False,0,0,False,False,0,""
-11834,0,0,False,False,False,0,0,False,False,0,""
-11835,0,0,False,False,False,0,0,False,False,0,""
-11836,0,0,False,False,False,0,0,False,False,0,""
-11837,0,0,False,False,False,0,0,False,False,0,""
-11838,0,0,False,False,False,0,0,False,False,0,""
-11839,0,0,False,False,False,0,0,False,False,0,""
-11840,0,0,False,False,False,0,0,False,False,0,""
-11841,0,0,False,False,False,0,0,False,False,0,""
-11842,0,0,False,False,False,0,0,False,False,0,""
-11843,0,0,False,False,False,0,0,False,False,0,""
-11844,0,0,False,False,False,0,0,False,False,0,""
-11845,0,0,False,False,False,0,0,False,False,0,""
-11846,0,0,False,False,False,0,0,False,False,0,""
-11847,0,0,False,False,False,0,0,False,False,0,""
-11848,0,0,False,False,False,0,0,False,False,0,""
-11849,0,0,False,False,False,0,0,False,False,0,""
-11850,0,0,False,False,False,0,0,False,False,0,""
-11851,0,0,False,False,False,0,0,False,False,0,""
-11852,0,0,False,False,False,0,0,False,False,0,""
-11853,0,0,False,False,False,0,0,False,False,0,""
-11854,0,0,False,False,False,0,0,False,False,0,""
-11855,0,0,False,False,False,0,0,False,False,0,""
-11856,0,0,False,False,False,0,0,False,False,0,""
-11857,0,0,False,False,False,0,0,False,False,0,""
-11858,0,0,False,False,False,0,0,False,False,0,""
-11859,0,0,False,False,False,0,0,False,False,0,""
-11860,0,0,False,False,False,0,0,False,False,0,""
-11861,0,0,False,False,False,0,0,False,False,0,""
-11862,0,0,False,False,False,0,0,False,False,0,""
-11863,0,0,False,False,False,0,0,False,False,0,""
-11864,0,0,False,False,False,0,0,False,False,0,""
-11865,0,0,False,False,False,0,0,False,False,0,""
-11866,0,0,False,False,False,0,0,False,False,0,""
-11867,0,0,False,False,False,0,0,False,False,0,""
-11868,0,0,False,False,False,0,0,False,False,0,""
-11869,0,0,False,False,False,0,0,False,False,0,""
-11870,0,0,False,False,False,0,0,False,False,0,""
-11871,0,0,False,False,False,0,0,False,False,0,""
-11872,0,0,False,False,False,0,0,False,False,0,""
-11873,0,0,False,False,False,0,0,False,False,0,""
-11874,0,0,False,False,False,0,0,False,False,0,""
-11875,0,0,False,False,False,0,0,False,False,0,""
-11876,0,0,False,False,False,0,0,False,False,0,""
-11877,0,0,False,False,False,0,0,False,False,0,""
-11878,0,0,False,False,False,0,0,False,False,0,""
-11879,0,0,False,False,False,0,0,False,False,0,""
+11816,0,2,False,False,False,5,1,False,False,4,"무, 물러나야겠다…… 이 빚은 언젠가 갚아주마……!"
+11817,0,2,False,False,False,5,1,False,False,4,"적의 사역마를 처치했다!
+다들 잘 싸웠다!"
+11818,0,2,False,False,False,2,4,False,False,1,"우오오오!"
+11819,0,2,False,False,False,5,1,False,False,4,"우리 음양사의 힘을 똑똑히 보았느냐……!"
+11820,0,2,False,False,False,5,1,False,False,4,"이것이 동방의 음양술이란 말인가……!
+전원, 후퇴!"
+11821,0,2,False,False,False,2,4,False,False,1,"저런 녀석한테
+지다니…!"
+11822,0,2,False,False,False,5,1,False,False,4,"우리 음양사는 이 승리를 밑바탕으로
+노아 님의 새 왕국에서 확실한 지위를 얻을 것이다……!"
+11823,0,2,False,False,False,2,4,False,False,1,"넵!"
+11824,0,2,False,False,False,5,1,False,False,4,"성석 조각으로 변이시키고 정신 주박 술식을 얹으면
+순식간에 인형이 완성되지!"
+11825,0,2,False,False,False,5,1,False,False,5,"자, 인형들이여, 신나게 춤추어라.
+나는 다음 재료를 찾으러 가야 하거든……!"
+11826,0,2,False,False,False,2,3,False,False,1,"키힛…
+히히히히히히히!"
+11827,0,2,False,False,False,2,4,False,False,1,"음침한 녀석이군…"
+11828,0,2,False,False,False,2,4,False,False,1,"으, 으아아악!"
+11829,0,2,False,False,False,2,4,False,False,1,"모, 몸이 뜨거워…!
+불타는 것 같아아아아!"
+11830,0,2,False,False,False,5,1,False,False,4,"한탄스럽군요…… 참으로 한탄스럽습니다…….
+이런 야만족 상대로, 영예로운 제IV군단이 애를 먹다니……."
+11831,0,2,False,False,False,5,1,False,False,5,"하지만 이 몸이 전장에 나선 이상,
+저항군 따위는 모조리 없애 드리지요……!"
+11832,0,2,False,False,False,5,1,False,False,4,"서, 설마, 파비노……!?
+당신이 왜 보즈야에 있어!"
+11833,0,2,False,False,False,5,1,False,False,5,"응? 탈주했다는 보고는 받았습니다만…….
+이 몸 앞에 엎드려 용서를 구하려고 나타나셨나요?"
+11834,0,2,False,False,False,5,1,False,False,5,"웃기지 마!
+비윤리적인 실험만 하는 당신한테 누가 용서를 빈다고 그래!"
+11835,0,2,False,False,False,2,4,False,False,1,"배신자를 처리하는 건
+상관인 이 몸의 임무…!"
+11836,0,2,False,False,False,2,4,False,False,1,"모노케로스를 상처 입힌 당신은
+절대로 용서 못 해!"
+11837,0,2,False,False,False,5,1,False,False,4,"어이쿠, 깜박했네요.
+로피, 당신의 후임을 소개해 드리죠."
+11838,0,2,False,False,False,5,1,False,False,5,"둘이 잘 맞을 겁니다.
+당신과 그는 닮았으니까요……!"
+11839,0,2,False,False,False,5,1,False,False,5,"소개합니다!
+동지를 배신한 '군힐드의 검', 로브로 군입니다!"
+11840,0,2,False,False,False,5,1,False,False,4,"오오오…… 여왕 폐하의 명에 따라
+반역자를…… 근절…… 한다……!"
+11841,0,2,False,False,False,5,1,False,False,4,"시, 신도화된 보즈야 사람이잖아……!?
+무슨 짓을 한 거야……!"
+11842,0,2,False,False,False,2,4,False,False,1,"로피…
+잘 있어라…"
+11843,0,2,False,False,False,2,4,False,False,1,"여왕 폐하…
+곁으로…!"
+11844,0,2,False,False,False,5,1,False,False,5,"모노케로스만으로도 모자라
+신도화된 보즈야인을 마술 실험에 쓰다니……."
+11845,0,2,False,False,False,5,1,False,False,4,"파비노의 악행만큼은
+제 목숨과 바꿔서라도 막아야 해요……."
+11846,0,2,False,False,False,2,4,False,False,1,"오오오오…… 이 승리를,
+여왕 폐하께……!"
+11847,0,2,False,False,False,2,4,False,False,1,"이것이 마술의 힘…
+기억해 두시죠"
+11848,0,2,False,False,False,2,4,False,False,1,"도망쳐…
+모두, 도망쳐요…!"
+11849,0,2,False,False,False,5,1,False,False,4,"윽… 누구냐!?"
+11850,0,2,False,False,False,5,1,False,False,5,"오오오…… 나는 여왕님의 방패이자 칼,
+군힐드의 검이다……!"
+11851,0,2,False,False,False,5,1,False,False,5,"당신은…… 로브로!
+보고는 받았습니다만 정말로 신도가 되다니……!"
+11852,0,2,False,False,False,5,1,False,False,5,"하지만 저 역시 '군힐드의 검'입니다!
+상대가 당신이라 해도, 물러설 수 없습니다!"
+11853,0,2,False,False,False,5,1,False,False,4,"당신에게 전수 받은 이 기술로……
+당신을 붙잡아 강고스로 데려가겠습니다!"
+11854,0,2,False,False,False,5,1,False,False,4,"오오오…… 여왕 폐하의 적대하는 자가……
+나처럼 적마법을 사용하다니……!"
+11855,0,2,False,False,False,5,1,False,False,4,"허나…… 이 오의는 모를 게다……!
+붉은 생명을 불태워라, 진홍빛 재앙……!"
+11856,0,2,False,False,False,5,1,False,False,4,"마력이 고조되고 있어…… 설마!?
+여러분, 피하세요!!"
+11857,0,2,False,False,False,5,1,False,False,4,"윽…… 신도화되고도, 이렇게 고도의 기술을……!"
+11858,0,2,False,False,False,5,1,False,False,4,"오오오…… 아직, 여기서 쓰러질 수는…….
+여왕 폐하 곁으로……!"
+11859,0,2,False,False,False,5,1,False,False,4,"기다려…… 기다려 주세요, 로브로!"
+11860,0,2,False,False,False,5,1,False,False,4,"아직 육체까지 변이되지는 않았어.
+지금…… 지금이라면 구할 수 있을 거야……."
+11861,0,2,False,False,False,2,4,False,False,1,"스승님…
+기다려 주세요…"
+11862,0,2,False,False,False,5,1,False,False,4,"윽…… 신도화되고 마력이 더 강해졌어……!
+대책을 세우기 위해 일단 후퇴하죠……!"
+11863,0,2,False,False,False,5,1,False,False,4,"오오오오…… 이 승리를, 여왕 폐하께……!
+이제 폐하의 곁으로……!"
+11864,0,2,False,False,False,5,1,False,False,4,"보세요, 저 무기를……!
+신생 군힐드의 검, '법검 로브로' 님입니다!"
+11865,0,2,False,False,False,5,1,False,False,4,"오오오…… 또, 너냐……!
+나처럼 적마법을 사용하는, 거슬리는 여자……!"
+11866,0,2,False,False,False,5,1,False,False,4,"로브로…… 저는, 다시 싸울 이때를 기다렸어요."
+11867,0,2,False,False,False,5,1,False,False,4,"이 싸움에서 저는 스승인 당신을 뛰어넘겠습니다.
+그리고 당신을 구하겠습니다…… 반드시!"
+11868,0,2,False,False,False,5,1,False,False,4,"오오오…… 여왕 폐하의 적…….
+이번에야말로, 저승으로 보내주마……!"
+11869,0,2,False,False,False,5,1,False,False,4,"윽…… 역시 스승님이시군요!
+하지만 지지 않겠습니다…… 마력을, 목숨을 불살라서라도!"
+11870,0,2,False,False,False,5,1,False,False,4,"오오오…… 끈질긴 녀석……!
+그렇다면, 내 오의로, 끝내주마……!"
+11871,0,2,False,False,False,5,1,False,False,4,"이번에는 도망치지 않을 겁니다……!
+당신이 가르쳐준 '맞서는 힘'으로 넘어서겠습니다!"
+11872,0,2,False,False,False,5,1,False,False,2,"붉은 생명을 불태워라……!"
+11873,0,2,False,False,False,5,1,False,False,4,"붉은 생명을 불태워라, 진홍빛 재앙……!"
+11874,0,2,False,False,False,3,4,False,False,1,"이게 무슨…!?
+내 힘을, 뛰어넘다니…!"
+11875,0,2,False,False,False,5,1,False,False,4,"그어어어…… 마력의 불꽃이…… 꺼져간다……!
+몸이…… 움직이지, 않…………."
+11876,0,2,False,False,False,5,1,False,False,4,"지금입니다!
+스승님을…… 로브로를 붙잡으세요!"
+11877,0,2,False,False,False,5,1,False,False,4,"허억, 허억…… 허억…….
+해냈습니다, 스승님…… 이제 당신을 구할 수……!"
+11878,0,2,False,False,False,5,1,False,False,4,"이, 이럴 수가…… 이렇게까지 마력을 불태웠는데도
+스승님께 비하면…… 한참 멀었다는 건가……!?"
+11879,0,2,False,False,False,5,1,False,False,4,"오오오오…… 이 승리를, 여왕 폐하께……!
+이제 폐하의 곁으로……!"
 11880,10079,2,False,False,False,4,1,False,False,10,"외부 손님을 위한 '창천 운동회'를 준비하고 있습니다.
 행사는 시인의 문 앞에서 시작합니다~!"
 11881,10079,2,False,False,False,4,1,False,False,10,"'창천 운동회' 참가자에게는 선물을 드립니다!
@@ -16039,48 +16302,77 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 11896,10079,2,False,False,False,4,1,False,False,10,"개방된 이슈가르드에 방문해주신 모험가와 장인 여러분께
 창천 거리를 소개해 드리고자 이런 행사를 마련했습니다."
 11897,10079,2,False,False,False,4,1,False,False,10,"잠시라도 즐거우셨기를 바랍니다!"
-11898,0,0,False,False,False,0,0,False,False,0,""
-11899,0,0,False,False,False,0,0,False,False,0,""
-11900,0,0,False,False,False,0,0,False,False,0,""
-11901,0,0,False,False,False,0,0,False,False,0,""
-11902,0,0,False,False,False,0,0,False,False,0,""
-11903,0,0,False,False,False,0,0,False,False,0,""
-11904,0,0,False,False,False,0,0,False,False,0,""
-11905,0,0,False,False,False,0,0,False,False,0,""
-11906,0,0,False,False,False,0,0,False,False,0,""
-11907,0,0,False,False,False,0,0,False,False,0,""
-11908,0,0,False,False,False,0,0,False,False,0,""
-11909,0,0,False,False,False,0,0,False,False,0,""
-11910,0,0,False,False,False,0,0,False,False,0,""
-11911,0,0,False,False,False,0,0,False,False,0,""
-11912,0,0,False,False,False,0,0,False,False,0,""
-11913,0,0,False,False,False,0,0,False,False,0,""
-11914,0,0,False,False,False,0,0,False,False,0,""
-11915,0,0,False,False,False,0,0,False,False,0,""
-11916,0,0,False,False,False,0,0,False,False,0,""
-11917,0,0,False,False,False,0,0,False,False,0,""
-11918,0,0,False,False,False,0,0,False,False,0,""
-11919,0,0,False,False,False,0,0,False,False,0,""
-11920,0,0,False,False,False,0,0,False,False,0,""
-11921,0,0,False,False,False,0,0,False,False,0,""
-11922,0,0,False,False,False,0,0,False,False,0,""
-11923,0,0,False,False,False,0,0,False,False,0,""
-11924,0,0,False,False,False,0,0,False,False,0,""
-11925,0,0,False,False,False,0,0,False,False,0,""
-11926,0,0,False,False,False,0,0,False,False,0,""
-11927,0,0,False,False,False,0,0,False,False,0,""
-11928,0,0,False,False,False,0,0,False,False,0,""
-11929,0,0,False,False,False,0,0,False,False,0,""
-11930,0,0,False,False,False,0,0,False,False,0,""
-11931,0,0,False,False,False,0,0,False,False,0,""
-11932,0,0,False,False,False,0,0,False,False,0,""
-11933,0,0,False,False,False,0,0,False,False,0,""
-11934,0,0,False,False,False,0,0,False,False,0,""
-11935,0,0,False,False,False,0,0,False,False,0,""
-11936,0,0,False,False,False,0,0,False,False,0,""
-11937,0,0,False,False,False,0,0,False,False,0,""
-11938,0,0,False,False,False,0,0,False,False,0,""
-11939,0,0,False,False,False,0,0,False,False,0,""
+11898,0,2,False,False,False,2,4,False,False,1,"바이샤엔 님…
+저쪽을 보십쇼!"
+11899,0,2,False,False,False,2,4,False,False,1,"전장에 혼자 있다니…?"
+11900,0,2,False,False,False,5,1,False,False,4,"보즈야 사람이시죠……?
+왜 이런 곳에 계십니까?"
+11901,0,2,False,False,False,5,1,False,False,4,"다, 당신은, 혹시…… 다보그 씨 아닙니까?
+2년 전 작전에서 포로가 되었다고 들었는데……!"
+11902,0,2,False,False,False,5,1,False,False,4,"여기는 강화병 다보그…….
+적 병사 확인…… 전투를 시작합니다……."
+11903,0,2,False,False,False,2,4,False,False,1,"저, 저 얼굴…!"
+11904,0,2,False,False,False,5,1,False,False,4,"아니, 저 마도 병기는……!?
+설마 당신이 조종하고 있었던 겁니까!"
+11905,0,2,False,False,False,5,1,False,False,4,"도저히…… 제정신으로는 보이지 않습니다만,
+지금은 맞서 싸우는 수밖에 없겠군요……!"
+11906,0,2,False,False,False,5,1,False,False,4,"정신 차리세요, 다보그 씨!
+당신은 조종당하고 있는 거죠……!?"
+11907,0,2,False,False,False,5,1,False,False,4,"에너지 획득량 저하…….
+보조 동력 기동, 공격 방식을 변경합니다……."
+11908,0,2,False,False,False,2,4,False,False,1,"다보그 씨…!
+그 기계는 위험합니다!"
+11909,0,2,False,False,False,2,4,False,False,1,"바이샤엔 님
+조심하십쇼!"
+11910,0,2,False,False,False,5,1,False,False,4,"여기는 강화병 다보그…….
+기체 손상률, 한계 돌파…… 귀환합니다……."
+11911,0,2,False,False,False,5,1,False,False,4,"다보그 씨…… 기다리세요!"
+11912,0,2,False,False,False,5,1,False,False,4,"신도화와는 다르게 마음을 지배하는 방법이 있다니…….
+이건 너무, 너무 잔혹하지 않습니까!"
+11913,0,2,False,False,False,2,4,False,False,1,"바이샤엔 님…"
+11914,0,2,False,False,False,5,1,False,False,4,"여기서 멈출 수는 없습니다.
+우리가 전진하면, 그를 구할 방법도 생길지 모르니까요……."
+11915,0,2,False,False,False,5,1,False,False,4,"여기는 강화병 다보그…….
+적 병사 처치에 성공, 귀환합니다……."
+11916,0,2,False,False,False,2,4,False,False,1,"적군의 동향을
+살펴라…"
+11917,0,2,False,False,False,2,4,False,False,1,"저항군의
+부대 배치는…"
+11918,0,2,False,False,False,5,1,False,False,4,"0"
+11919,0,2,False,False,False,5,1,False,False,4,"저건…… 제국군 정찰부대!?"
+11920,0,2,False,False,False,5,1,False,False,4,"정보를 가지고 돌아가게 해서는 안 됩니다!
+여기서 치겠습니다!"
+11921,0,2,False,False,False,5,1,False,False,4,"이래 봬도 '군힐드의 검'입니다……!
+스승님께 전수받은 힘으로 여러분을 지키겠습니다!"
+11922,0,2,False,False,False,5,1,False,False,4,"비공전함대에 긴급 통신……!
+적군의 강습이다. 당장 항공 지원을 부탁한다……!"
+11923,0,2,False,False,False,5,1,False,False,4,"녀석들을 한꺼번에 날려버려……!"
+11924,0,2,False,False,False,5,1,False,False,4,"해, 해냈습니다!
+스승님, 제가…… 해냈습니다!"
+11925,0,2,False,False,False,5,1,False,False,4,"호오…… 너도 '군힐드의 검'이라고…….
+데이터 수집에 협력해줘서 고맙다."
+11926,0,2,False,False,False,5,1,False,False,4,"마도 병기 뒤에서 감시하다니, 꽤나 겁쟁이군요…….
+다음엔 당신이 직접 전장으로 나오세요!"
+11927,0,2,False,False,False,5,1,False,False,4,"미, 밀리고 있어!?
+스승님, 저는 어쩌면 좋죠…………!!"
+11928,0,2,False,False,False,5,1,False,False,4,"그렇지, 아군을 탈출시켜야…….
+여러분, 분하지만 후퇴합시다……!"
+11929,0,2,False,False,False,2,4,False,False,1,"네, 넵!"
+11930,0,2,False,False,False,5,1,False,False,4,"이, 이렇게 많은 숫자는, 우리만으로는……!"
+11931,0,2,False,False,False,5,1,False,False,4,"바이샤엔 님!
+도우러 왔습니다!"
+11932,0,2,False,False,False,2,4,False,False,1,"여, 여러분…
+와줘서 고맙습니다!"
+11933,0,2,False,False,False,2,4,False,False,1,"저도 돕겠습니다…!"
+11934,0,2,False,False,False,2,4,False,False,1,"적 기함이 가깝습니다…!
+승리해야 합니다!"
+11935,0,2,False,False,False,2,4,False,False,1,"저희도 함께하겠습니다!"
+11936,0,2,False,False,False,2,4,False,False,1,"해냅시다!"
+11937,0,2,False,False,False,2,4,False,False,1,"지키겠습니다!"
+11938,0,2,False,False,False,5,1,False,False,4,"여러분, 감사합니다……!
+보즈야인의 목숨을 하찮게 여기는 잔학한 제국군을 무찌릅시다!"
+11939,0,2,False,False,False,2,4,False,False,1,"강고스로
+이송하겠습니다…!"
 11940,10079,2,False,False,False,4,1,False,False,10,"현재 곡괭이 거리에서
 '인형 만들기 대회'가 진행되고 있습니다~!"
 11941,10079,2,False,False,False,4,1,False,False,10,"'인형 만들기 대회'에서는, 상자에 든 재료를 사용해서
@@ -16095,7 +16387,8 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 인형을 들고 계신 분은 서둘러 짐수레로 가 주세요!"
 11947,10079,2,False,False,False,4,1,False,False,10,"또한 제작자 및 채집가여야만
 선물을 받을 수 있으니, 주의하세요!"
-11948,0,0,False,False,False,0,0,False,False,0,""
+11948,0,2,False,False,False,2,4,False,False,1,"여러분, 경계하십시오…
+제가 얘기해 보겠습니다"
 11949,10079,2,False,False,False,4,1,False,False,10,"시인의 문 앞에서 '야크 털 깎기 대회'가 진행되고 있습니다!
 참가하시는 분께는 선물을 드립니다~!"
 11950,10079,2,False,False,False,4,1,False,False,10,"'에테르 털깎이'는 잘 작동하나요?
@@ -16140,73 +16433,115 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 선물상자를 들고 계신 분은 서둘러 배달해 주세요!"
 11970,10079,2,False,False,False,4,1,False,False,10,"이것으로 '창천 운동회'의 모든 행사가 종료되었습니다.
 참가해 주신 여러분, 감사합니다~!"
-11971,0,0,False,False,False,0,0,False,False,0,""
-11972,0,0,False,False,False,0,0,False,False,0,""
-11973,0,0,False,False,False,0,0,False,False,0,""
-11974,0,0,False,False,False,0,0,False,False,0,""
-11975,0,0,False,False,False,0,0,False,False,0,""
-11976,0,0,False,False,False,0,0,False,False,0,""
-11977,0,0,False,False,False,0,0,False,False,0,""
-11978,0,0,False,False,False,0,0,False,False,0,""
-11979,0,0,False,False,False,0,0,False,False,0,""
-11980,0,0,False,False,False,0,0,False,False,0,""
-11981,0,0,False,False,False,0,0,False,False,0,""
-11982,0,0,False,False,False,0,0,False,False,0,""
-11983,0,0,False,False,False,0,0,False,False,0,""
-11984,0,0,False,False,False,0,0,False,False,0,""
-11985,0,0,False,False,False,0,0,False,False,0,""
-11986,0,0,False,False,False,0,0,False,False,0,""
-11987,0,0,False,False,False,0,0,False,False,0,""
-11988,0,0,False,False,False,0,0,False,False,0,""
-11989,0,0,False,False,False,0,0,False,False,0,""
-11990,0,0,False,False,False,0,0,False,False,0,""
-11991,0,0,False,False,False,0,0,False,False,0,""
-11992,0,0,False,False,False,0,0,False,False,0,""
-11993,0,0,False,False,False,0,0,False,False,0,""
-11994,0,0,False,False,False,0,0,False,False,0,""
-11995,0,0,False,False,False,0,0,False,False,0,""
-11996,0,0,False,False,False,0,0,False,False,0,""
-11997,0,0,False,False,False,0,0,False,False,0,""
-11998,0,0,False,False,False,0,0,False,False,0,""
-11999,0,0,False,False,False,0,0,False,False,0,""
-12000,0,0,False,False,False,0,0,False,False,0,""
-12001,0,0,False,False,False,0,0,False,False,0,""
-12002,0,0,False,False,False,0,0,False,False,0,""
-12003,0,0,False,False,False,0,0,False,False,0,""
-12004,0,0,False,False,False,0,0,False,False,0,""
-12005,0,0,False,False,False,0,0,False,False,0,""
-12006,0,0,False,False,False,0,0,False,False,0,""
-12007,0,0,False,False,False,0,0,False,False,0,""
-12008,0,0,False,False,False,0,0,False,False,0,""
-12009,0,0,False,False,False,0,0,False,False,0,""
-12010,0,0,False,False,False,0,0,False,False,0,""
-12011,0,0,False,False,False,0,0,False,False,0,""
-12012,0,0,False,False,False,0,0,False,False,0,""
-12013,0,0,False,False,False,0,0,False,False,0,""
-12014,0,0,False,False,False,0,0,False,False,0,""
-12015,0,0,False,False,False,0,0,False,False,0,""
-12016,0,0,False,False,False,0,0,False,False,0,""
-12017,0,0,False,False,False,0,0,False,False,0,""
-12018,0,0,False,False,False,0,0,False,False,0,""
-12019,0,0,False,False,False,0,0,False,False,0,""
-12020,0,0,False,False,False,0,0,False,False,0,""
-12021,0,0,False,False,False,0,0,False,False,0,""
-12022,0,0,False,False,False,0,0,False,False,0,""
-12023,0,0,False,False,False,0,0,False,False,0,""
-12024,0,0,False,False,False,0,0,False,False,0,""
-12025,0,0,False,False,False,0,0,False,False,0,""
-12026,0,0,False,False,False,0,0,False,False,0,""
-12027,0,0,False,False,False,0,0,False,False,0,""
-12028,0,0,False,False,False,0,0,False,False,0,""
-12029,0,0,False,False,False,0,0,False,False,0,""
-12030,0,0,False,False,False,0,0,False,False,0,""
+11971,0,2,False,False,False,5,1,False,False,4,"저들이 진짜 다보그 씨가 아니라면
+그는 대체 어디에……!"
+11972,0,2,False,False,False,5,1,False,False,4,"아아…… 피험체 VIII호 말인가…….
+시험작 역할을 아주 톡톡히 해줬지."
+11973,0,2,False,False,False,5,1,False,False,4,"그런데 거듭되는 실험으로 몸이 한계에 다다라서 말이야…….
+복잡한 전투 기동은 아무래도 생체 부품에 부하가 걸리거든."
+11974,0,2,False,False,False,5,1,False,False,4,"그래서 제VII군단이 모은 전투 데이터를 추출한 다음
+다른 자에게 덮어씌우는 기술을 응용해 문제를 해결했지……."
+11975,0,2,False,False,False,5,1,False,False,4,"전투 기능을 포함해, 피험체 VIII호의 기억을
+통째로 그들에게 이식했다는 말씀이야……!"
+11976,0,2,False,False,False,5,1,False,False,4,"이, 이 무슨 끔찍한 짓을……!
+그게 인간이 같은 인간에게 할 짓입니까!"
+11977,0,2,False,False,False,5,1,False,False,4,"제국 놈, 용서할 수 없다……!
+다보그의 한을 여기서 풀어주겠다!"
+11978,0,2,False,False,False,5,1,False,False,4,"이, 이럴 수가…… 내 강화병 부대가 전멸하다니……!?
+어, 어쩔 수 없군……!"
+11979,0,2,False,False,False,5,1,False,False,4,"아직 조정 중이지만 '그걸' 투입하는 수밖에 없겠어!
+그때까지 한껏 승리에 취해 있어라……!"
+11980,0,2,False,False,False,2,4,False,False,1,"아직 비장의 수단이
+있다는 듯 말했습니다만…"
+11981,0,2,False,False,False,2,4,False,False,1,"방심할 수 없군요…
+각오해야겠어요…!"
+11982,0,2,False,False,False,5,1,False,False,4,"네, 주의를 기울이며 싸워야 합니다.
+다보그 씨의 희생을 헛되게 하지 않기 위해서라도……."
+11983,0,2,False,False,False,5,1,False,False,4,"자, 전초지로 돌아가서 다음 전투에 대비합시다……!"
+11984,0,2,False,False,False,2,4,False,False,1,"엄청난 화력이군…
+전원 후퇴합시다!"
+11985,0,2,False,False,False,2,4,False,False,1,"이, 이런…!"
+11986,0,2,False,False,False,2,4,False,False,1,"분하다…!"
+11987,0,2,False,False,False,2,4,False,False,1,"이 틈에 후퇴를…!"
+11988,0,2,False,False,False,5,1,False,False,4,"찾았다, 우라베 가문의 야마츠미!
+마르샤크 공께 정보를 듣고 네놈을 쫓아왔다!"
+11989,0,2,False,False,False,5,1,False,False,4,"도마의 보물을 훔쳐 달아난 네가
+어쩌다 보즈야에…… 왜 제국에 협력하는 거냐!?"
+11990,0,2,False,False,False,5,1,False,False,4,"나를 도둑 취급하다니…….
+도마 닌자여, 같은 고향 사람으로서 알려주마."
+11991,0,2,False,False,False,5,1,False,False,4,"예부터 제사를 담당했던 우리 일족은
+신관이라는 이유로 요츠유에게 극심한 탄압을 받았다."
+11992,0,2,False,False,False,5,1,False,False,4,"그런 우리를 노아 님이 비밀리에 보호해 주셨지.
+목숨을 구해주신 은혜는 목숨으로 갚는다…… 그뿐이야."
+11993,0,2,False,False,False,5,1,False,False,4,"그렇다고 보즈야를 지배하려는 쪽에 협력하다니…….
+보즈야 사람들의 자유는 어쩌고요!"
+11994,0,2,False,False,False,5,1,False,False,4,"0"
+11995,0,2,False,False,False,5,1,False,False,4,"0"
+11996,0,2,False,False,False,5,1,False,False,4,"이런…… 이 이상은 내 몸이……!"
+11997,0,2,False,False,False,5,1,False,False,4,"텐마를 쓰러뜨리다니……!?
+마, 말도 안 돼……!"
+11998,0,2,False,False,False,5,1,False,False,4,"야마츠미여, 지금이라면 돌이킬 수 있다.
+조국 도마로 귀순해라……!"
+11999,0,2,False,False,False,5,1,False,False,4,"0"
+12000,0,2,False,False,False,5,1,False,False,4,"나는 노아 님께 충성을 맹세한 몸……!
+목숨이 아까워서 주군을 배신할 수는 없다……!"
+12001,0,2,False,False,False,2,4,False,False,1,"기다려!"
+12002,0,2,False,False,False,2,4,False,False,1,"저렇게까지 충성하다니…"
+12003,0,2,False,False,False,5,1,False,False,4,"쳇…… 도망치는 건 빠르군……!"
+12004,0,2,False,False,False,5,1,False,False,4,"……이런, 이대로는 안 되겠어!
+츠바메!"
+12005,0,2,False,False,False,2,4,False,False,1,"알았습니다…
+후퇴하죠…!"
+12006,0,2,False,False,False,2,4,False,False,1,"퇴각, 퇴각하라!"
+12007,0,2,False,False,False,5,1,False,False,4,"닌자여, 기억해둬라.
+다음에는 고향 사람이라고 봐주지 않겠다!"
+12008,0,2,False,False,False,5,1,False,False,4,"그런데 그 모습…….
+대체 무슨 일이 있었던 겁니까!?"
+12009,0,2,False,False,False,2,3,False,False,1,"봤느냐!
+저항군 놈들아!"
+12010,0,2,False,False,False,2,3,False,False,1,"승리의 함성을 질러라!"
+12011,0,2,False,False,False,2,3,False,False,1,"이것이 제IV군단의 힘이다!"
+12012,0,2,False,False,False,2,3,False,False,1,"우리가 승리했다!
+사령부에 보고하라!"
+12013,0,2,False,False,False,2,3,False,False,1,"윽… 네 이놈…!"
+12014,0,2,False,False,False,2,3,False,False,1,"후, 후퇴다…!"
+12015,0,2,False,False,False,2,3,False,False,1,"패배하다니…!"
+12016,0,2,False,False,False,2,3,False,False,1,"우리가 졌다고!?"
+12017,0,2,False,False,False,5,1,False,False,4,"내 이름은 파가가!
+보크스타인의 이름을 잇는 마수조련사다!"
+12018,0,2,False,False,False,5,1,False,False,4,"으읍……, 유명…… 마수조련사…… 흡흡……!"
+12019,0,2,False,False,False,5,1,False,False,4,"""보크스타인은 서쪽에서 유명한 마수조련사 일족""이라고요?
+호랑수염, 당신 저 여자애를 알아요?"
+12020,0,2,False,False,False,5,1,False,False,4,"핫핫핫…… 내 양아버지의 무훈을 아는 자가 있었군!
+도망치려면 지금 도망쳐라!"
+12021,0,2,False,False,False,5,1,False,False,4,"역시 마수왕 라이언의 부하답네.
+제법이잖아……!"
+12022,0,2,False,False,False,5,1,False,False,4,"흡…… 으윽……, 라이언…… 호적수…… 흡!"
+12023,0,2,False,False,False,5,1,False,False,4,"""보크스타인은 라이언과 마수왕 자리를 놓고 싸운 호적수""라고요?
+늘 생각하지만 호랑수염 당신, 의외로 아는 게 많군요."
+12024,0,2,False,False,False,5,1,False,False,4,"그, 그자의 호적수라고!?
+라이언 따위를 아버지와 비교하다니, 용서 못 해!"
+12025,0,2,False,False,False,5,1,False,False,4,"아버지를 모욕한 너희를, 절대로 용서하지 않겠다!"
+12026,0,2,False,False,False,5,1,False,False,4,"으으으으…… 내 귀여운 아이들을……!
+잘도, 잘도 죽였겠다!"
+12027,0,2,False,False,False,5,1,False,False,4,"젠장, 후퇴하자!
+너희 얼굴은 절대로 잊지 않겠다…… 각오해라!"
+12028,0,2,False,False,False,5,1,False,False,4,"마수왕 라이언에 대해서는 들은 적 있지만,
+그 말고도 저 정도의 마수조련사가 있었다니……."
+12029,0,2,False,False,False,5,1,False,False,4,"흡흡…… 보급…… 보고…… 으으……!"
+12030,0,2,False,False,False,5,1,False,False,4,"그래야겠네요.
+우리도 보급 겸 보고하러 일단 돌아가죠."
 12031,0,0,False,False,False,0,0,False,False,0,""
-12032,0,0,False,False,False,0,0,False,False,0,""
-12033,0,0,False,False,False,0,0,False,False,0,""
-12034,0,0,False,False,False,0,0,False,False,0,""
-12035,0,0,False,False,False,0,0,False,False,0,""
-12036,0,0,False,False,False,0,0,False,False,0,""
-12037,0,0,False,False,False,0,0,False,False,0,""
+12032,0,2,False,False,False,5,1,False,False,4,"윽……성가신 마수들 같으니……!
+일단 후퇴하고, 태세를 재정비하죠!"
+12033,0,2,False,False,False,5,1,False,False,4,"핫핫핫…… 보크스타인의 힘을 잘 보았느냐!"
+12034,0,2,False,False,False,5,1,False,False,4,"늙다리 라이언 따위 없어도,
+이 파가가가 저항군을 몽땅 쳐부숴 주마!"
+12035,0,2,False,False,False,5,1,False,False,4,"기체 손상률 60%……
+화력 부족…… 헬다이버 투입을 요청합니다……."
+12036,0,2,False,False,False,2,4,False,False,1,"새로운 기체 확인…
+비행형 마도 아머다!"
+12037,0,2,False,False,False,2,4,False,False,1,"0"
 12038,0,2,False,False,False,3,5,False,False,1,"다들 전투 준비해!
 방심하지 말고!"
 12039,0,2,False,False,False,3,5,False,False,1,"아렌발드…
@@ -16330,36 +16665,55 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 아니, 그 모조품…!"
 12101,0,2,False,False,False,3,5,False,False,1,"가짜라고는 해도 이 기운은…
 절대 방심해선 안 돼…!"
-12102,0,0,False,False,False,0,0,False,False,0,""
-12103,0,0,False,False,False,0,0,False,False,0,""
-12104,0,0,False,False,False,0,0,False,False,0,""
-12105,0,0,False,False,False,0,0,False,False,0,""
-12106,0,0,False,False,False,0,0,False,False,0,""
-12107,0,0,False,False,False,0,0,False,False,0,""
-12108,0,0,False,False,False,0,0,False,False,0,""
-12109,0,0,False,False,False,0,0,False,False,0,""
-12110,0,0,False,False,False,0,0,False,False,0,""
-12111,0,0,False,False,False,0,0,False,False,0,""
-12112,0,0,False,False,False,0,0,False,False,0,""
-12113,0,0,False,False,False,0,0,False,False,0,""
-12114,0,0,False,False,False,0,0,False,False,0,""
-12115,0,0,False,False,False,0,0,False,False,0,""
-12116,0,0,False,False,False,0,0,False,False,0,""
-12117,0,0,False,False,False,0,0,False,False,0,""
-12118,0,0,False,False,False,0,0,False,False,0,""
-12119,0,0,False,False,False,0,0,False,False,0,""
-12120,0,0,False,False,False,0,0,False,False,0,""
-12121,0,0,False,False,False,0,0,False,False,0,""
-12122,0,0,False,False,False,0,0,False,False,0,""
-12123,0,0,False,False,False,0,0,False,False,0,""
-12124,0,0,False,False,False,0,0,False,False,0,""
-12125,0,0,False,False,False,0,0,False,False,0,""
-12126,0,0,False,False,False,0,0,False,False,0,""
-12127,0,0,False,False,False,0,0,False,False,0,""
-12128,0,0,False,False,False,0,0,False,False,0,""
-12129,0,0,False,False,False,0,0,False,False,0,""
-12130,0,0,False,False,False,0,0,False,False,0,""
-12131,0,0,False,False,False,0,0,False,False,0,""
+12102,0,2,False,False,False,2,4,False,False,1,"너, 너는…
+클라리시!"
+12103,0,2,False,False,False,2,4,False,False,1,"자, 털이 아름다운
+내 귀염둥이야…!"
+12104,0,2,False,False,False,2,4,False,False,1,"운동할 시간이란다!"
+12105,0,2,False,False,False,2,4,False,False,1,"부오오오오!"
+12106,0,2,False,False,False,2,4,False,False,1,"히익!"
+12107,0,2,False,False,False,2,4,False,False,1,"으아악!"
+12108,0,2,False,False,False,5,1,False,False,4,"여러분, 괜찮으십니까……!?"
+12109,0,2,False,False,False,5,1,False,False,4,"어머나, 그 얼굴…… 왠지 낯이 익네요."
+12110,0,2,False,False,False,5,1,False,False,4,"으음…… 분명, 내 새로운 귀염둥이의
+운동 상대로 고용된 하인이었죠?"
+12111,0,2,False,False,False,5,1,False,False,4,"이 아이는 하인을 짓뭉개고 노는 걸 정말로 좋아한답니다…….
+뼈가 으스러지는 감촉이 좋아 죽겠나봐요……."
+12112,0,2,False,False,False,5,1,False,False,4,"0"
+12113,0,2,False,False,False,5,1,False,False,4,"그런 뻔한 도발에 넘어가지 않습니다.
+전원 전투 준비, 저 거대 마수를 막아냅시다……!"
+12114,0,2,False,False,False,5,1,False,False,4,"류바!
+슬슬 제대로 싸워보려무나!"
+12115,0,2,False,False,False,5,1,False,False,4,"부오오오오오오오옹!!!"
+12116,0,2,False,False,False,5,1,False,False,4,"아아, 나의 귀여운 류바가……!!"
+12117,0,2,False,False,False,5,1,False,False,4,"이, 이…… 내가……
+몸에 흙을…… 묻히게 되다니……!?"
+12118,0,2,False,False,False,5,1,False,False,4,"더러운 쓰레기들…… 잊지 않겠어요!"
+12119,0,2,False,False,False,5,1,False,False,4,"꼭, 절대, 반드시……
+새 귀염둥이의 먹이로 만들어 드리죠……!"
+12120,0,2,False,False,False,5,1,False,False,4,"여러분, 뒤쫓아서는 안 됩니다…….
+부상자는 후방에서 치료하고, 무사한 사람은 주위를 경계하세요!"
+12121,0,2,False,False,False,5,1,False,False,4,"그나저나…… 화려한 클라리시라고 했던가요…….
+저런 마수를 대체 어디서 데려오는 걸까요?"
+12122,0,2,False,False,False,5,1,False,False,4,"이 이야기는 나중에 하죠.
+우리도 전초지로 돌아갑시다……."
+12123,0,2,False,False,False,5,1,False,False,4,"아아, 한심한 쓰레기들…….
+이래서야 운동도 안 되겠네요."
+12124,0,2,False,False,False,5,1,False,False,4,"분하지만 후퇴합시다…….
+피해를 최소한으로 줄여야 합니다!"
+12125,0,2,False,False,False,2,4,False,False,1,"도, 도망치자…!"
+12126,0,2,False,False,False,2,4,False,False,1,"하피 안크…!
+초코보를 죽이세요!"
+12127,0,2,False,False,False,2,4,False,False,1,"실험 동물, 사망 확인…
+에테르 추출을 시작합니다!"
+12128,0,2,False,False,False,2,4,False,False,1,"몸이… 움직이지 않아…!?
+어, 어떻게 된 일이지!"
+12129,0,2,False,False,False,2,4,False,False,1,"저항하지 마라…
+이 야만족!"
+12130,0,2,False,False,False,5,1,False,False,4,"저, 저건…… 저항군 여러분!
+괜찮으신가요……!?"
+12131,0,2,False,False,False,5,1,False,False,4,"윽…… 증원군을 불렀군요……!
+하지만 물러나지 않겠습니다. 끝까지 싸웁시다!"
 12132,0,0,False,False,False,0,0,False,False,0,""
 12133,0,0,False,False,False,0,0,False,False,0,""
 12134,0,0,False,False,False,0,0,False,False,0,""
@@ -16389,34 +16743,50 @@ int32,uint32,byte,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 12147,0,2,False,False,False,3,5,False,False,1,"루나 바하무트…
 여기서 쓰러뜨리자!"
 12148,0,0,False,False,False,0,0,False,False,0,""
-12149,0,0,False,False,False,0,0,False,False,0,""
-12150,0,0,False,False,False,0,0,False,False,0,""
-12151,0,0,False,False,False,0,0,False,False,0,""
-12152,0,0,False,False,False,0,0,False,False,0,""
-12153,0,0,False,False,False,0,0,False,False,0,""
-12154,0,0,False,False,False,0,0,False,False,0,""
-12155,0,0,False,False,False,0,0,False,False,0,""
-12156,0,0,False,False,False,0,0,False,False,0,""
-12157,0,0,False,False,False,0,0,False,False,0,""
-12158,0,0,False,False,False,0,0,False,False,0,""
-12159,0,0,False,False,False,0,0,False,False,0,""
-12160,0,0,False,False,False,0,0,False,False,0,""
-12161,0,0,False,False,False,0,0,False,False,0,""
-12162,0,0,False,False,False,0,0,False,False,0,""
+12149,0,2,False,False,False,2,4,False,False,1,"으악…!"
+12150,0,2,False,False,False,2,4,False,False,1,"하, 하지 마…!"
+12151,0,2,False,False,False,2,4,False,False,1,"이렇게 죽긴 싫어…!"
+12152,0,2,False,False,False,5,1,False,False,4,"으…… 으으으…… 머리가…….
+나는…… 집으로…… 가족 곁으로……."
+12153,0,2,False,False,False,5,1,False,False,4,"저, 저건, 우리 동지 다보그……!
+바이샤엔 님 말씀대로군……!"
+12154,0,2,False,False,False,5,1,False,False,4,"으으…… 으아…….
+누구냐…… 가, 가까이 오지 마…… 오면 안 돼……!"
+12155,0,2,False,False,False,5,1,False,False,4,"다보그, 진정하시오!
+우리는 당신을 구하려는 거요……!"
+12156,0,2,False,False,False,5,1,False,False,4,"강화병, 사냥감이 미끼를 문 것 같다.
+예정대로 신병기 시험을 시작해라……."
+12157,0,2,False,False,False,2,4,False,False,1,"어디서 나는 소리지?
+적의 통신인가…!?"
+12158,0,2,False,False,False,5,1,False,False,4,"여…… 여기는 강화병 다보그…….
+지령 확인…… 원거리 공격 단말로 공격을 시작합니다……."
+12159,0,2,False,False,False,2,4,False,False,1,"하, 함정이었나!?"
+12160,0,2,False,False,False,2,4,False,False,1,"포위되었습니다!"
+12161,0,2,False,False,False,5,1,False,False,4,"모두, 침착해라……!
+저 마도 병기를 파괴하면, 동지를 구할 수 있을지도 모른다!"
+12162,0,2,False,False,False,5,1,False,False,4,"정신 차리시오, 다보그!
+우리는 적이 아니오……!"
 12163,0,0,False,False,False,0,0,False,False,0,""
-12164,0,0,False,False,False,0,0,False,False,0,""
+12164,0,2,False,False,False,5,1,False,False,4,"진형 조정…… 공격을 실행합니다……."
 12165,0,0,False,False,False,0,0,False,False,0,""
 12166,0,0,False,False,False,0,0,False,False,0,""
-12167,0,0,False,False,False,0,0,False,False,0,""
-12168,0,0,False,False,False,0,0,False,False,0,""
+12167,0,2,False,False,False,5,1,False,False,4,"여기는 강화병 다보그…….
+에너지 획득량 저하…… 전투 지속 불가……."
+12168,0,2,False,False,False,5,1,False,False,4,"다보그……!!"
 12169,0,0,False,False,False,0,0,False,False,0,""
-12170,0,0,False,False,False,0,0,False,False,0,""
-12171,0,0,False,False,False,0,0,False,False,0,""
-12172,0,0,False,False,False,0,0,False,False,0,""
-12173,0,0,False,False,False,0,0,False,False,0,""
-12174,0,0,False,False,False,0,0,False,False,0,""
-12175,0,0,False,False,False,0,0,False,False,0,""
-12176,0,0,False,False,False,0,0,False,False,0,""
+12170,0,2,False,False,False,5,1,False,False,4,"또 구하지 못했어…….
+그의 신병을 확보해서 세뇌를 풀어야 하는데……."
+12171,0,2,False,False,False,5,1,False,False,4,"아무튼, 전장에 더 있어봤자 체력만 소모되겠지요…….
+일단 보급을 위해 전초지로 돌아갑시다."
+12172,0,2,False,False,False,5,1,False,False,4,"작전 행동 중단…… 귀환합니다……."
+12173,0,2,False,False,False,5,1,False,False,4,"여왕 폐하를 위하여…… 패배는 허락되지, 않, 는다……!
+내 모든, 마력을…… 여기에!"
+12174,0,2,False,False,False,5,1,False,False,4,"대화는 필요 없다……!
+우리 음양사들은, 노아 님의 이상을 위해 목숨을 바칠 뿐!"
+12175,0,2,False,False,False,5,1,False,False,4,"오보로 님, 분하지만 쫓아가면 안 됩니다.
+우리도 진지로 돌아가죠."
+12176,0,2,False,False,False,5,1,False,False,4,"그래…….
+돌아가자, 츠바메……."
 12177,0,2,False,False,False,5,1,False,False,4,"모험가님 덕분에 달걀을 잔뜩 모았습니다!"
 12178,0,2,False,False,False,5,1,False,False,4,"나중에 또 도와주세요!"
 12179,0,2,False,False,False,5,1,False,False,4,"이, 이런…… 수탉이 생각보다 더 난폭하군요!

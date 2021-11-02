@@ -18528,7 +18528,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 15995,"자신을 중심으로 주위 적에게 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
 2번째 대상부터는 위력이 50% 감소합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과(발동률 50%)<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>환상부채<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과(발동률 50%)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>환상부채<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>라이징 윈드밀 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 15996,"자신을 중심으로 주위 적에게 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 350
@@ -19532,9 +19532,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60"
 16533,"대상에게 무속성 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300"
-16534,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>치유의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1개 소비하여 자신을 중심으로 주위 파티원의 HP를 회복합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여"
+16534,"[MacroError]"
 16535,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피의 백합 3단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여 대상과 그 주위 적에게 무속성 범위 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 900
 2번째 대상부터는 위력이 25% 감소합니다."
@@ -21659,7 +21657,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 17987,""
 17988,""
 17989,""
-17990,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 50<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여, 10초 동안 자신이 주는 피해량을 25%, HP 회복량을 50% 증가시키고 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>생명활성술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>불요불굴책<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 재사용 대기 시간을 15초 단축합니다."
+17990,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>요정 에테르 50<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여, 10초 동안 자신이 주는 피해량과 HP 회복 효과를 25% 증가시키고 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>생명활성술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>불요불굴책<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 재사용 대기 시간을 15초 단축합니다."
 17991,"자신을 중심으로 주위 적의 지속 회복 효과와 보호막 효과를 모두 해제하고, 자신과 주위 파티원에게 아래 추가 효과를 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 지속적으로 HP를 회복하고, 10초 동안 회복력 2000만큼 피해를 흡수하는 보호막을 칩니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 800"
@@ -22880,11 +22878,10 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1600"
 18945,"자신과 주위 파티원의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000"
-18946,"자신과 주위 파티원의 HP를 회복한 후, 15초 동안 지속 회복 효과를 부여합니다.
+18946,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>치유의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1개 소비하여 자신과 주위 파티원의 HP를 회복하고, 15초 동안 대상의 HP를 지속적으로 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 200
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>치유의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>치유의 백합<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신이 전투 상태에 돌입하면 10초마다 발생
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>치유의 백합 최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 3"
 18947,"자신과 주위 파티원의 HP를 회복하고, 10초 동안 회복량의 100%만큼 피해를 흡수하는 보호막을 칩니다.
@@ -23001,7 +22998,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 18997,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>환상부채<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 1개 소비하여 자신을 중심으로 주위 적에게 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 15초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>부채춤: 절정 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>부채춤: 절정 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 무도 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>금관의 피루엣<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 18998,""
@@ -24581,7 +24578,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 20530,""
 20531,""
 20532,""
-20533,""
+20533,"자신을 중심으로 주위 적에게 무속성 범위 마법 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 200"
 20534,""
 20535,""
 20536,""
@@ -25699,11 +25697,15 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 21491,""
 21492,""
 21493,""
-21494,""
-21495,""
+21494,"대상에게 물리 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 440"
+21495,"대상과 그 주위 적에게 범위 물리 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 400"
 21496,""
-21497,""
-21498,""
+21497,"대상의 HP를 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 350"
+21498,"대상에게 무속성 마법 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 210"
 21499,""
 21500,""
 21501,""
@@ -25813,10 +25815,17 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 21605,""
 21606,""
 21607,""
-21608,""
-21609,""
+21608,"대상의 HP를 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 400"
+21609,"자신과 주위 파티원의 HP를 회복한 후 15초 동안 지속 회복 효과를 부여합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100"
 21610,""
-21611,""
+21611,"자신을 중심으로 방어막을 생성합니다.
+18초 동안 범위 안에 있는 파티원과 자신이 받는 피해를 10% 감소시키고, 15초 동안 지속적으로 HP를 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100
+방어막을 펼친 상태에서 움직이면 즉시 해제됩니다.
+실행 후 자동 공격이 정지됩니다."
 21612,""
 21613,""
 21614,""
@@ -26057,7 +26066,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 21849,""
 21850,""
 21851,""
-21852,""
+21852,"대상에게 얼음속성 마법 공격을 가하고, 자신의 MP를 최대 MP의 40%만큼 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300"
 21853,""
 21854,""
 21855,""
@@ -26089,11 +26099,16 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 21881,""
 21882,""
 21883,""
-21884,""
+21884,"대상과 그 주위 적에게 번개속성 범위 마법 공격을 가하고 18초 동안 번개속성 지속 피해를 줍니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30"
 21885,""
-21886,""
+21886,"대상의 HP를 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 700"
 21887,""
-21888,""
+21888,"자신을 중심으로 주위 파티원의 HP를 회복한 후 15초 동안 지속 회복 효과를 부여합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 200
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100"
 21889,""
 21890,""
 21891,""
@@ -26126,7 +26141,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 21918,""
 21919,""
 21920,""
-21921,""
+21921,"주위에 있는 적의 행동을 방해합니다.
+대상은 이동 및 기술 시전을 포함한 모든 행동을 일정 시간 동안 멈춥니다."
 21922,""
 21923,""
 21924,""
@@ -28262,22 +28278,68 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 23904,""
 23905,""
 23906,""
-23907,""
-23908,""
-23909,""
-23910,""
-23911,""
-23912,""
-23913,""
-23914,""
-23915,""
-23916,""
-23917,""
-23918,""
-23919,""
-23920,""
-23921,""
-23922,""
+23907,"시작 지점으로 순간이동합니다.
+전투 중에는 사용할 수 없습니다.
+무기 기술 및 마법과 재사용 대기 시간을 공유합니다."
+23908,"자신과 주위 파티원에게 30초 동안 최대 HP 대비 10%의 피해를 막아주는 보호막을 칩니다."
+23909,"자신을 중심으로 주위 적에게 번개속성 범위 마법 공격을 가하고, 대상의 기술 시전을 중단시킵니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
+마법 공격에 취약한 적에게는 추가 효과가 발생합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60초 동안 받는 피해량 10% 증가"
+23910,"자신을 중심으로 주위 적에게 범위 물리 공격을 가하고, 대상의 기술 시전을 중단시킵니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
+물리 공격에 취약한 적에게는 추가 효과가 발생합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60초 동안 받는 피해량 10% 증가"
+23911,"자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>로스트 리플렉트<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>로스트 리플렉트<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초 동안 일부를 제외한 마법 피해를 반사합니다.
+무기 기술 및 마법과 재사용 대기 시간을 공유합니다."
+23912,"자신 또는 아군 1명을 대상으로 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>리레이즈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>리레이즈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 지속시간 중에 전투불능이 되면 80%의 확률로 자동 부활합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 180분"
+23913,"30초 동안 시전 시간 없이 마법을 사용합니다.
+전투 중에만 사용할 수 있습니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마법 작렬<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>마법 작렬<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30초 동안 MP 소비량이 증가하지만, 마법 공격으로 주는 피해량이 45% 증가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>사제의 약 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마법 작렬<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 MP 소비량 증가 효과를 무시하고, 마법 공격으로 주는 피해량 증가 효과는 100%가 됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>척후의 약 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>로스트 연속 시전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 지속시간이 90초가 됩니다."
+23914,"대상에게 근접 물리 공격을 가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 350
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>후방공격 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 일정 확률로 대상을 전투불능으로 만듭니다. 대상의 HP가 적을수록 성공률이 증가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>늑대인간의 약 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>로스트 힘의 원천<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>로스트 힘의 원천<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 18초 동안 자신이 주는 피해량이 30%, 극대화 발동률이 40% 증가합니다.
+고유 재사용 대기 시간이 적용되며, 다른 무기 기술이나 마법의 재사용 대기 시간에 영향받지 않습니다."
+23915,"자신 또는 다른 플레이어 1명을 대상으로, 30분 동안 받는 물리 피해량을 15% 감소시키는 보호막을 칩니다."
+23916,"자신 또는 다른 플레이어 1명을 대상으로, 30분 동안 받는 마법 피해량을 15% 감소시키는 보호막을 칩니다."
+23917,"자신 또는 다른 플레이어 1명을 대상으로, 600초 동안 최대 HP를 30% 증가시킵니다."
+23918,"자신의 10m 앞쪽을 향해 신속하게 이동합니다.
+속박 상태에서는 사용할 수 없습니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신과 주위 파티원에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>로스트 질주<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>로스트 질주<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 10초 동안 자신의 이동 속도가 크게 향상됩니다.
+다른 이동 속도 증가 효과와 동시에 부여할 수 없습니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>도적의 약 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60초 동안 자신과 주위 파티원의 회피율이 15% 증가합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>척후의 약 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신과 주위 파티원에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>빠른 재시전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>빠른 재시전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 안에 실행하는 다음 능력의 재사용 대기 시간이 25% 단축됩니다."
+23919,"사용하면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>쇠약<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 해제되고, 10초 동안 일부를 제외한 대부분의 피해를 무효화하며, 자신이 주는 피해량이 65% 증가합니다.
+지속시간이 종료되면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>영걸<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 부여됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>영걸<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 50초 동안 자신이 주는 피해량이 65% 증가하고, 받는 피해량이 10% 감소합니다.
+전투 중에만 사용할 수 있습니다.
+※ <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>쇠약[강]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은 해제할 수 없습니다."
+23920,"자신과 주위 파티원의 HP와 MP를 모두 회복합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신과 주위 파티원에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>자동 포션<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>자동 에테르<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>자동 포션<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600초 안에 HP가 50% 이하로 떨어지면 자동으로 HP를 회복합니다.
+회복 효과가 발동하면 50% 확률로 효과가 사라집니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>도적의 약 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 회복 효과 발동 후 효과가 사라질 확률이 10%로 감소
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>자동 에테르<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600초 안에 MP가 20% 이하로 떨어지면 자동으로 MP를 회복합니다.
+회복 효과가 발동하면 50% 확률로 효과가 사라집니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>도적의 약 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 회복 효과 발동 후 효과가 사라질 확률이 10%로 감소"
+23921,"자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>로스트 피의 분노<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>로스트 피의 분노<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 1중첩당 자신이 주는 피해량이 15% 증가하고, 받는 피해량이 5% 감소합니다. 효과가 지속되는 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>신속 접근 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 사용하면 중첩 수가 증가하며, 이때 지속시간이 초기화됩니다.(최대 4중첩)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 18초
+전투 중에만 사용할 수 있습니다.
+최대로 중첩되면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>로스트 피의 분노<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피의 각성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 변화합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>피의 각성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30초 동안 자신이 주는 피해량이 60% 증가하고, HP와 MP가 지속적으로 회복되며, 지속시간 중에 실행하는 능력의 재사용 대기 시간이 75% 단축됩니다."
+23922,"자신의 HP와 MP를 모두 회복합니다.
+재사용 대기 시간을 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>저항군용 포션<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>운명의 주사위<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 공유합니다."
 23923,""
 23924,""
 23925,""
