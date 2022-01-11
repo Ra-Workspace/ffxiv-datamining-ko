@@ -2756,6 +2756,7 @@ int32,str
 2775,"닫기"
 2776,"?/<Format(IntegerParameter(1),FF022C)/> (보유 수 <Format(IntegerParameter(2),FF022C)/><If(GreaterThan(IntegerParameter(3),0))>/ <Format(IntegerParameter(4),FF022C)/><Else/></If>)"
 2777,"아이템 레벨이 조율되며, 역할을 자유롭게 구성해서 참가할 수 있는 임무입니다. 아이템 레벨 조율 중에는 모든 장비의 성능이 조율된 아이템 레벨 이하로 조정됩니다."
+2778,"방랑 모그리에게 건넬 교환 아이템을 얻을 수 있는 임무입니다."
 2779,"대상 임무: <Highlight>StringParameter(1)</Highlight>"
 2780,"참가자 준비 확인 중"
 2781,"모두"
