@@ -7,13 +7,13 @@ int32,str,str
 1,"TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001","'기간 한정 퀘스트 다시하기'를 실행하시겠습니까?"
 2,"TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002","・'기간 한정 퀘스트 다시하기'를 실행하면
 　다음 퀘스트가 미완료 상태가 됩니다.
-　　「<Sheet(Quest,IntegerParameter(1),0)/>」
-<If(Equal(IntegerParameter(2),0))><Else/>　　「<Sheet(Quest,IntegerParameter(2),0)/>」
-</If><If(Equal(IntegerParameter(3),0))><Else/>　　「<Sheet(Quest,IntegerParameter(3),0)/>」
+　　'<Sheet(Quest,IntegerParameter(1),0)/>'
+<If(Equal(IntegerParameter(2),0))><Else/>　　'<Sheet(Quest,IntegerParameter(2),0)/>'
+</If><If(Equal(IntegerParameter(3),0))><Else/>　　'<Sheet(Quest,IntegerParameter(3),0)/>'
 </If><If(Equal(IntegerParameter(4),0))><Else/>・퀘스트를 완료하기까지 다음 NPC에게
 　관련 아이템의 구입 및 교환을 할 수 없습니다.
-　　「<Sheet(ENpcResident,IntegerParameter(4),0)/>」
-</If><If(Equal(IntegerParameter(5),0))><Else/>　　「<Sheet(ENpcResident,IntegerParameter(5),0)/>」
+　　'<Sheet(ENpcResident,IntegerParameter(4),0)/>'
+</If><If(Equal(IntegerParameter(5),0))><Else/>　　'<Sheet(ENpcResident,IntegerParameter(5),0)/>'
 </If><If(Equal(IntegerParameter(4),0))><Else/>・개최 기간이 끝난 후에도
 　대상 퀘스트가 미완료인 경우에는
 　관련 아이템의 구입 및 교환을 할 수 없는 상태가 유지됩니다.

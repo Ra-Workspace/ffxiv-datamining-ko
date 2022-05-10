@@ -19,7 +19,7 @@ int32,str
 15,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
 16,"<CommandIcon(10)/>세부 메뉴"
 17,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>지역 지도"
-18,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(13)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>지역 지도"
+18,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>지역 지도"
 19,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
 20,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
 21,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
@@ -38,7 +38,7 @@ int32,str
 34,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
 35,"<CommandIcon(11)/>새로 고침  <CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>상세 정보"
 36,"<CommandIcon(11)/>이 조건으로 검색"
-37,"<CommandIcon(11)/>방어 / 회복 / 공격 / 자유 / 불필요 순으로 역할 전환  <CommandIcon(8)/>특정 클래스/잡 지정"
+37,"<CommandIcon(10)/><CommandIcon(11)/>방어 / 회복 / 공격 / 자유 / 불필요 순으로 역할 전환  <CommandIcon(8)/>특정 클래스/잡 지정"
 38,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>교환"
 39,"<CommandIcon(10)/>세부 메뉴"
 40,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>결정 <CommandIcon(9)/>닫기"
@@ -165,7 +165,7 @@ int32,str
 161,"<CommandIcon(10)/>세부 메뉴"
 162,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
 163,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(12)/>+<CommandIcon(13)/>위치 링크"
-164,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(13)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(12)/>+<CommandIcon(13)/>위치 링크"
+164,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(12)/>+<CommandIcon(13)/>위치 링크"
 165,"<CommandIcon(11)/>번호를 무작위로 입력"
 166,"<CommandIcon(10)/>세부 메뉴"
 167,"<CommandIcon(10)/>세부 메뉴"
@@ -174,8 +174,9 @@ int32,str
 170,"<CommandIcon(11)/>규칙 설명"
 171,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>아이템 선택"
 172,"<CommandIcon(9)/>닫기 버튼 선택"
-173,"lua 5.1.4 / MIT License
-
+173,"------------------------
+lua 5.1.4 / MIT License
+------------------------
 Copyright (C) 1994-2008 Lua.org, PUC-Rio.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the ""Software""), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
@@ -185,8 +186,9 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED ""AS IS"", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
+------------------------
 rsa-md5 / RSA Data Security License
-
+------------------------
 Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
 
 License to copy and use this software is granted provided that it is identified as the ""RSA Data Security, Inc. MD5 Message-Digest Algorithm"" in all material mentioning or referencing this software or this function.
@@ -198,6 +200,7 @@ RSA Data Security, Inc. makes no representations concerning either the merchanta
 These notices must be retained in any copies of any part of this documentation and/or software. 
 
 
+------------------------
 SHA-1 (Internet Society)
 ------------------------
 Copyright (C) The Internet Society (2001). All Rights Reserved.
@@ -213,6 +216,7 @@ Acknowledgement
 Funding for the RFC Editor function is currently provided by the Internet Society.
 
 
+----------------
 zstream.h (zlib)
 ----------------
 Copyright (c) 1997
@@ -222,7 +226,13 @@ Fantoftvegen 38, 5036 BERGEN, Norway
 http://www.cmr.no
 
 Permission to use, copy, modify, distribute and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation. Christian Michelsen Research AS makes no representations about the suitability of this software for any purpose. It is provided ""as is"" without express or implied warranty.
--------------------------------------------------------------------------------"
+
+
+------
+LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
+------
+""DUALSHOCK"" and ""DualSense"" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
+Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
 174,"<CommandIcon(12)/><CommandIcon(13)/>범주 선택"
 175,"<CommandIcon(12)/><CommandIcon(13)/>작업 공정 전환 <CommandIcon(10)/>세부 메뉴"
 176,"<CommandIcon(12)/><CommandIcon(13)/>작업 공정 전환 <CommandIcon(10)/>세부 메뉴"
@@ -369,7 +379,7 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 222,"<CommandIcon(10)/>세부 메뉴"
 223,"<CommandIcon(23)/>스크롤  <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소  <CommandIcon(13)/>고정 시점 카메라 전환"
 224,"<CommandIcon(10)/>세부 메뉴"
-225,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(12)/><CommandIcon(13)/>환경 선택"
+225,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>환경 전환"
 226,"<CommandIcon(9)/>닫기 <CommandIcon(24)/>스크롤"
 227,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>추가 <CommandIcon(10)/>세부 메뉴"
 228,"<CommandIcon(10)/>세부 메뉴"
@@ -383,7 +393,7 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 236,"<CommandIcon(8)/>PvP 보조 기술로 설정"
 237,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>선택"
 238,"<CommandIcon(3)/><CommandIcon(4)/>이동 <CommandIcon(8)/>결정"
-239,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(13)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소"
+239,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소"
 240,"<CommandIcon(8)/>PvP 특성으로 설정"
 241,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
 242,"<CommandIcon(9)/> 포기 선택"
@@ -541,17 +551,17 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 387,"<CommandIcon(8)/>보상 받기  <CommandIcon(10)/>세부 메뉴"
 388,"<CommandIcon(10)/>세부 메뉴"
 389,"<CommandIcon(10)/>세부 메뉴"
-390,""
-391,""
-392,""
-393,""
-394,""
-395,""
-396,""
-397,""
-398,""
+390,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(10)/>세부 메뉴"
+391,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택  <CommandIcon(8)/>지도 열기"
+392,"<CommandIcon(5)/>에테라이트 선택 <CommandIcon(8)/>이동 <CommandIcon(23)/>맵 조작"
+393,"<CommandIcon(23)/>스크롤 <CommandIcon(7)/>목록 조작"
+394,"<CommandIcon(23)/>스크롤 <CommandIcon(8)/>이동 <CommandIcon(7)/>목록 조작"
+395,"<CommandIcon(10)/>역할 변경  <CommandIcon(8)/>특정 직업 지정  <CommandIcon(11)/>이 조건으로 검색"
+396,"<CommandIcon(10)/>전체 선택/해제  <CommandIcon(11)/>이 조건으로 검색"
+397,"<CommandIcon(10)/>역할/개별 직업 선택 전환"
+398,"<CommandIcon(10)/>전체 지역/개별 지역 선택 전환"
 399,""
-400,""
+400,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>텔레포 실행"
 1000,"신고를 접수하지 못했습니다.
 다시 시도하십시오."
 1001,"<UIForeground>F20202</UIForeground>다시보기 재생 중 조작 방법<UIForeground>01</UIForeground>
@@ -891,13 +901,13 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 
 강화 기술은 내구도는 소비하지 않지만 GP를 소비합니다.
 
-※ '감별력'을 올리면 '집중 검사'의 효과가 높아집니다."
+※ '기술력'을 올리면 '집중 검사'의 효과가 높아집니다."
 1039,"가치 상향"
 1040,"순화 기술을 사용하면 '가치 상향'이 발생할 때가 있습니다.
 
 '가치 상향'은 순화가 잘 되었음을 의미하며, 평소보다 소장 가치가 더 많이 오릅니다.
 
-※ '감별력'을 올리면 가치 상향 발생률이 높아집니다."
+※ '기술력'을 올리면 가치 상향 발생률이 높아집니다."
 1041,"활안"
 1042,"순화 기술을 사용하면 '활안' 효과가 부여될 때가 있습니다.
 

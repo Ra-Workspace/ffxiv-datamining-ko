@@ -15,9 +15,9 @@ int32,str,str
 11,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_10","불멸대 임무"
 12,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_11","조달 임무"
 13,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_REWARD","보상 받기 "
-14,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_BATTLE_MULTI","대규모 용병업 (필요 수주권: <Sheet(LeveSystemDefine,88,1)/>장)"
-15,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_GATHER_MULTI","대규모 채집업 (필요 수주권: <Sheet(LeveSystemDefine,88,1)/>장)"
-16,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_CRAFT_MULTI","대규모 제작업 (필요 수주권: <Sheet(LeveSystemDefine,88,1)/>장)"
+14,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_BATTLE_MULTI","대규모 용병업 (필요 수주권: <Sheet(LeveSystemDefine,87,1)/>장)"
+15,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_GATHER_MULTI","대규모 채집업 (필요 수주권: <Sheet(LeveSystemDefine,87,1)/>장)"
+16,"TEXT_GUILDLEVEASSIGNMENT_SELECT_MENU_CRAFT_MULTI","대규모 제작업 (필요 수주권: <Sheet(LeveSystemDefine,87,1)/>장)"
 17,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_GATHERING","임무를 완수하고 받은 평가에 따라, 보상이 처음 제시된 금액에서 <Value>IntegerParameter(1)</Value>% 증가합니다."
 18,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_GCLEVE","<If(IntegerParameter(1))>'소속 총사령부 보너스'<If(IntegerParameter(2))>・<Else/></If><Else/></If><If(IntegerParameter(2))>'임무내용 평가'<Else/></If>에 의해 보상이 증가합니다."
 19,"TEXT_GUILDLEVEASSIGNMENT_TALK_ADD_REWARD_BY_DIFFICULTY","<If(IntegerParameter(5))>또한, <Else/></If><If(IntegerParameter(1))>난이도<If(IntegerParameter(2))>・<Else/><If(IntegerParameter(3))>・<Else/></If></If><Else/></If><If(IntegerParameter(2))>빠른 달성<If(IntegerParameter(3))>・<Else/></If><Else/></If><If(IntegerParameter(3))>현상범 토벌<Else/></If>에 따른 보너스가 붙어

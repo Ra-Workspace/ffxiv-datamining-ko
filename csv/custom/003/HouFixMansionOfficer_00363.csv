@@ -1,8 +1,9 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000","<Switch(IntegerParameter(1))><Case(1)>중층 돛대</Case><Case(2)>백합 언덕</Case><Case(3)>나나모 대풍차</Case><Case(4)>홍매전</Case></Switch>에 잘 오셨습니다!
-이곳에서는 아파트 구매나 이용에 대해 안내해드리고 있습니다."
+0,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000","<Switch(IntegerParameter(1))><Case(1)>중층 돛대</Case><Case(2)>백합 언덕</Case><Case(3)>나나모 대풍차</Case><Case(4)>홍매전</Case><Case(5)> 단란한 난롯가</Case></Switch>에 잘 오셨습니다!
+이곳에서는 아파트 구매나 이용에 대해
+안내해드리고 있습니다."
 1,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_000","아파트에 대해 물어보기"
 2,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_001","취소"
 3,"TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_000","무엇을 물어보시겠습니까?"
@@ -104,3 +105,9 @@ int32,str,str
 53,"TEXT_HOUFIXMANSIONOFFICER_00363_KUGANE_NOT_ARROWED_TO_BUY","아파트 '홍매전'의 개인실을 구매하려면
 주요 퀘스트 '대양으로 출정하다'를
 완료해야 합니다."
+54,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_1","'단란한 난롯가'에 오신 것을 환영합니다!
+이곳은 현재 모험가 거주구로 개방하기 위하여
+준비하고 있습니다."
+55,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_2","현재 '단란한 난롯가'는 선행 공개 기간입니다.
+주택 판매가 시작될 때까지 잠시만 기다려 주십시오."
+56,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY",""

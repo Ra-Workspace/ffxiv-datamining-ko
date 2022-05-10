@@ -657,7 +657,7 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 653,"작은 동물의 머리뼈를 뒤집어 쓴 희귀한 민물고기. 뼈에 약효가 있다고 전해지기에 치료 마법의 이름을 붙였다.",23071,205,0,False,False,3,620,0,True,False,False
 654,"커얼어의 아종으로 전설적인 무기 스파이라이의 이름으로 불린다. 커얼보다 단단하고 날카로운 이빨을 지녔다.",23072,210,0,False,False,3,612,0,True,False,False
 655,"거대한 등지느러미에 마력을 흘려보내 열을 발생시킴으로써, 한랭화한 환경에 적응했다. 등지느러미는 방한용으로 이용할 수 있다.",23073,215,0,False,False,2,397,0,True,False,False
-656,"아름다운 진주를 만들어 내는 데다가, 껍데기 안쪽은 환상적인 빛을 띤다. 나전 세공의 재료로 비할 데 없는 가치가 있다.",23074,220,0,False,False,0,613,0,True,False,False
+656,"아름다운 진주를 만들어 내는 데다가, 껍데기 안쪽은 환상적인 빛을 띤다. 자개 세공의 재료로 비할 데 없는 가치가 있다.",23074,220,0,False,False,0,613,0,True,False,False
 657,"고블린문어의 아종으로 색깔 때문에 과학자 집단 '푸른손'에 유래한 애칭이 붙었다. 군청색 먹물을 뱉는 것으로도 유명하다.",23075,225,0,False,False,3,400,0,True,False,False
 658,"남색 잉어. 깊이가 느껴지는 색은 청채어와 자채어가 짝짓기한 결과로 생겨난 것이라고 한다.",24203,320,0,False,False,3,614,2505,True,False,False
 659,"녹색 잉어. 바람속성의 힘을 지녀, 그 힘으로 날벌레를 떨어뜨려 먹는 독특한 습성이 있는 듯하다.",24204,320,0,False,False,3,614,2505,True,True,True
@@ -818,7 +818,7 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 814,"포악한 성질은 그대로이며, 붉은 비늘은 마치 분노에 타오르는 듯하다. 동족을 이끌고 회유하는 모습은 푸아족조차 벌벌 떨 정도라고 한다.",28070,440,0,True,True,3,816,2507,True,True,True
 815,"물을 다스리는 롱카의 신이 수중 신전의 경비를 맡겼다고 전해지는 고대 야수. 투시 메키타 호수에 악의를 품고 다가오는 자를 노린다고 한다.",28071,440,0,True,True,3,817,2507,True,True,False
 816,"모래 속에서 머리를 내민 물고기를 반드시 잡아먹는 사냥의 명수. 그 날렵한 솜씨를 보고 온도족은 '유성'의 민첩함을 배운다고 한다.",28072,440,0,True,True,1,818,2507,True,True,True
-817,"체액이 천연 염료로 사용되어 예부터 귀하게 여겨진 고둥. 레이크랜드 연방에서는 '지식이 샘솟는 항아리'라고 블리며 현자들의 상징으로 취급되었다.",28189,345,0,False,False,3,813,0,True,False,False
+817,"체액이 천연 염료로 사용되어 예부터 귀하게 여겨진 고둥. 레이크랜드 연방에서는 '지식이 샘솟는 항아리'라고 불리며 현인들의 상징으로 취급되었다.",28189,345,0,False,False,3,813,0,True,False,False
 818,"잔잔한 물결을 좋아한다고 알려진 물고기. 살이 담백하고 부드러워 콜루시아 섬의 어촌에서는 튀김이나 건어물로 만드는 등 폭넓게 가공해서 먹고 있다.",28190,350,0,False,False,2,814,0,True,False,False
 819,"무지갯빛을 띠는 굉장히 아름다운 진주를 채집할 수 있다. 하지만 한 장인이 목걸이를 완성시키기까지, 진주보다 많은 수의 사람이 일 메그에서 사라졌다고 한다.",28191,355,0,False,False,2,816,0,True,False,False
 820,"나바스아렝 말로 '대지의 방패'를 의미하는 이름이다. 껍데기는 가볍고도 튼튼하여 왕국 기병의 방패나 갑옷에 사용되었다.",28192,370,0,False,False,4,815,0,True,False,False
@@ -908,7 +908,7 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 904,"등에 편속성 크리스탈이 붙어 있는 고대 야수. 밤이 되면 해수면에 별이 빛나는 듯이 보이기 때문에 '물 위의 별'이라고도 불린다.",29788,445,5,True,False,1,900,0,True,True,False
 905,"넓은 등에 생겨난 산호숲에서는 백여 종의 생물이 발견된다고 한다. 작은 물고기 떼도 붙어 살며, 마치 하나의 이동 거주지와도 같다.",29789,445,5,True,False,1,900,0,True,True,False
 906,"무척 오래 산 노령의 바위지느러미. 예전에는 가스를 머금어 떠다녔으나, 온몸이 딱딱해지고 무거워져서 날 수 없게 된 듯하다.",29790,445,5,True,False,1,900,0,True,True,False
-907,"멸종한 줄 알았던 대형 해룡. 먼 옛날 에르스렌트 섬의 해적이 롱십을 끄는 데에 이용했다는 전승이 남아 있다.",29791,445,5,True,False,1,900,0,True,True,False
+907,"멸종한 줄 알았던 대형 해룡. 먼 옛날 에어슬랜트 섬의 해적이 롱십을 끄는 데에 이용했다는 전승이 남아 있다.",29791,445,5,True,False,1,900,0,True,True,False
 908,"강의 신 살리아크가 지식의 강을 만들 때 태어난 산호. 먹으면 공부를 잘하게 된다는 소문을 믿고 먹었다가 식중독에 걸린 학생이 수두룩하다.",29673,440,0,False,False,3,399,0,True,False,False
 909,"다른 조개를 잡아먹는 육식 고둥. 날카로운 모양 때문에 커르다스 지방에서는 용의 뼈에서 태어났다는 전승이 전해진다.",29678,450,0,False,False,3,397,0,True,False,False
 910,"푸른 몸은 가열하면 분홍빛으로 물든다. 갓 탈피한 껍데기는 연하며, 직공 마을에서는 일반적으로 껍데기째 튀겨서 맥주와 함께 먹는다.",30487,460,0,False,False,0,814,2507,True,False,False
@@ -945,7 +945,7 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 941,"몸이 주황색이라 꽈리 열매에 비유되는 해파리. 복을 부르는 물건과 닮았다며 동양의 상인이 절을 한 적이 있어, 로들리트 만 연안에서도 귀하게 여겨진다.",32097,1,1,False,False,1,900,0,True,False,True
 942,"옆으로 넓적한 체형 때문에 이렇게 불린다. 바다에서 헤엄치기를 꿈꿨던 구부가 변한 모습이라는 설도 있다.",32058,1,2,False,False,1,900,0,True,False,False
 943,"등지느러미와 배지느러미를 넓게 펼쳐 바닷속을 춤추듯 헤엄치는 물고기. 지느러미가 조금이라도 아름다웠더라면 나비에 비유되었겠지만, 안타깝게도 나방과 닮았다고 여겨진다.",32059,1,2,False,False,1,900,0,True,False,True
-944,"왕뱀의 이름이 붙은 곰치. 맹독이 있는 긴 엄니로 쐐기를 박듯이 사냥감을 물고는, 움직일 수 없게 되면 온몸을 휘감고 잡아먹는다고 한다.",32060,1,2,False,False,1,900,0,True,False,True
+944,"왕뱀의 이름이 붙은 대형어. 맹독이 있는 긴 엄니로 쐐기를 박듯이 사냥감을 물고는, 움직일 수 없게 되면 온몸을 휘감고 잡아먹는다고 한다.",32060,1,2,False,False,1,900,0,True,False,True
 945,"원래는 붉은물결 바다에서 유래한 이름이지만, 같은 종족끼리 혹을 맞부딪는 혹부리놀래기의 습성 때문에 이마에 항상 피가 맺힌 개체도 많이 보인다.",32078,1,2,False,False,1,900,0,True,False,True
 946,"손톱을 장식하는 인어가 부러워서 자신의 집게발을 붉게 물들이게 되었다고 전해지는 청게. 때문에 밤낮으로 부지런히 사냥감을 썰어댄다.",32079,1,2,False,False,1,900,0,True,False,False
 947,"이 가늘고 긴 다리를, 해신 리믈렌이 바늘로 사용하여 몇 말름이나 되는 어망을 짰다는 전설이 있다. 붉은물결 바다 연안에서는 풍어의 상징으로 여겨진다.",32080,1,2,False,False,1,900,0,True,False,True
@@ -992,7 +992,7 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 988,"고농도 에테르를 쬐어 체표가 거의 결정화된 곰치. 환해류를 이끄는 듯이 해류 맨 앞에서 헤엄친다고 한다.",32083,1,4,True,False,1,900,0,True,False,True
 989,"고농도 에테르를 쬐어 체표가 거의 결정화된 고대룡. 환해류를 이끄는 듯이 해류 맨 앞에서 헤엄친다고 한다.",32103,1,4,True,False,1,900,0,True,False,True
 990,"긴 촉수로 어선을 통째로 감아쥐는 거대한 오징어. 난파선의 섬 깊숙한 곳에 사는 괴물의 혈족이라고 전해지며, 어떤 원한이 있어서인지 바다도시 주민들을 집요하게 노린다고 한다.",32074,485,5,True,True,1,900,0,True,True,False
-991,"아무리 봐도 평범한 개구리 같은데, 바닷물을 아랑곳하지 않고 먼바다를 헤엄진다. 이딜샤이어 부근에서 도망친 어떤 실험체가 아닌가 의심된다.",32094,485,5,True,True,1,900,0,True,True,False
+991,"아무리 봐도 평범한 개구리 같은데, 바닷물을 아랑곳하지 않고 먼바다를 헤엄친다. 이딜샤이어 부근에서 도망친 어떤 실험체가 아닌가 의심된다.",32094,485,5,True,True,1,900,0,True,True,False
 992,"이름은 '넓적한 이빨'을 뜻하며, 이빨로 해저를 파서 조개를 잡아먹는다. 껍데기째로 씹어먹기 때문에, 사라진 자리에는 대량의 조가비 파편이 흩어져 있다.",32114,485,5,True,True,1,900,0,True,True,False
 993,"색이 탁하고 조금 쭈글쭈글한 물풀. 평온한 죽음을 맞이한 모그리족의 폼폼이 구름바다 멀리 떠돌며 변한 모습이라고 한다. 소금에 절여 말린 매실과 닮았다.",31771,490,0,False,True,3,402,0,True,False,False
 994,"몸속에 발광 기관이 있으며, 도광판처럼 생긴 지느러미에서 주황색 빛을 방출한다. 그 모습이 마치 투명한 물속에 불꽃이 이는 듯하다.",31770,490,0,False,True,3,402,0,True,False,False
@@ -1018,164 +1018,280 @@ int32,str,Row,GatheringItemLevelConvertTable,byte,bit&01,bit&02,FishingRecordTyp
 1014,"지느러미가 아름답기 때문에 요정어로 '거울 나비'라고 불린다. 선대 요정왕과 헤어지는 것을 아쉬워한 어느 픽시족이, 호수에 사는 물고기를 그녀와 닮은 모습으로 바꾸었다고 한다.",33242,490,0,True,True,3,816,2507,True,True,True
 1015,"진짜 모습은 거대한 용과 같다고 한다. 그렇기에 이 복스러운 모습으로 나타났다는 것은, 물뱀님께서 숲에 다시 강림하실 날이 가까웠다는 뜻…… 일 수도 있고 아닐 수도 있다.",33243,490,0,True,True,3,817,2507,True,True,False
 1016,"심해의 물줄기에 생명이 깃들었다고 하는 신비한 물고기. 살과 뼈 안쪽까지 물을 풍부하게 머금어서 심해에서 부력을 조절할 때 사용한다고 한다.",33244,490,0,True,True,1,818,2507,True,True,True
-1017,"",0,0,0,False,False,0,0,0,False,False,False
-1018,"",0,0,0,False,False,0,0,0,False,False,False
-1019,"",0,0,0,False,False,0,0,0,False,False,False
-1020,"",0,0,0,False,False,0,0,0,False,False,False
-1021,"",0,0,0,False,False,0,0,0,False,False,False
-1022,"",0,0,0,False,False,0,0,0,False,False,False
-1023,"",0,0,0,False,False,0,0,0,False,False,False
-1024,"",0,0,0,False,False,0,0,0,False,False,False
-1025,"",6688,36,0,False,False,26,134,0,False,False,False
-1026,"",6689,41,0,False,False,26,134,0,False,False,False
-1027,"",6690,46,0,False,False,26,134,0,False,False,False
-1028,"",6691,50,0,False,False,26,134,0,False,False,False
-1029,"",6692,50,0,False,False,26,134,0,False,False,False
-1030,"",2001398,2,0,False,False,26,155,0,False,False,False
-1031,"",2001410,2,0,False,False,26,156,0,False,False,False
-1032,"",2001422,2,0,False,False,26,155,0,False,False,False
-1033,"",12241,136,0,False,False,26,397,0,False,False,False
-1034,"",12242,150,0,False,False,26,397,0,False,False,False
-1035,"",12243,150,0,False,False,26,397,0,False,False,False
-1036,"",2001889,5,0,False,False,26,137,0,False,False,False
-1037,"",13733,150,0,False,False,26,401,0,False,False,False
-1038,"",13734,180,0,False,False,26,401,0,False,False,False
-1039,"",13631,180,0,False,False,26,401,0,False,False,False
-1040,"",13736,150,0,False,False,26,401,0,False,False,False
-1041,"",13737,150,0,False,False,26,401,0,False,False,False
-1042,"",13738,150,0,False,False,26,401,0,False,False,False
-1043,"",13739,180,0,False,False,26,401,0,False,False,False
-1044,"",13740,150,0,False,False,26,401,0,False,False,False
-1045,"",17594,190,0,False,False,26,401,0,False,False,False
-1046,"",17949,220,0,False,False,26,612,0,False,False,False
-1047,"",17950,260,0,False,False,26,613,0,False,False,False
-1048,"",17952,290,0,False,False,26,613,0,False,False,False
-1049,"",17835,290,0,False,False,26,612,0,False,False,False
-1050,"",17836,290,0,False,False,26,612,0,False,False,False
-1051,"",2002390,5,0,False,False,26,137,0,False,False,False
-1052,"",26750,380,0,False,False,26,816,0,False,False,False
-1053,"",26751,430,0,False,False,26,818,0,False,False,False
-1054,"",22668,150,0,False,False,26,622,0,False,False,False
-1055,"",22669,150,0,False,False,26,622,0,False,False,False
-1056,"",22670,150,0,False,False,26,622,0,False,False,False
-1057,"",22671,150,0,False,False,26,622,0,False,False,False
-1058,"",22672,150,0,False,False,26,622,0,False,False,False
-1059,"",22673,150,0,False,False,26,622,0,False,False,False
-1060,"",22674,150,0,False,False,26,622,0,False,False,False
-1061,"",22675,150,0,False,False,26,622,0,False,False,False
-1062,"",22676,150,0,False,False,26,622,0,False,False,False
-1063,"",22677,150,0,False,False,26,622,0,False,False,False
-1064,"",22678,150,0,False,False,26,622,0,False,False,False
-1065,"",22679,150,0,False,False,26,622,0,False,False,False
-1066,"",22680,150,0,False,False,26,622,0,False,False,False
-1067,"",22681,150,0,False,False,26,622,0,False,False,False
-1068,"",22682,150,0,False,False,26,622,0,False,False,False
-1069,"",22683,150,0,False,False,26,622,0,False,False,False
-1070,"",22684,150,0,False,False,26,622,0,False,False,False
-1071,"",22685,150,0,False,False,26,622,0,False,False,False
-1072,"",22686,150,0,False,False,26,622,0,False,False,False
-1073,"",22687,150,0,False,False,26,622,0,False,False,False
-1074,"",22688,150,0,False,False,26,622,0,False,False,False
-1075,"",22689,150,0,False,False,26,622,0,False,False,False
-1076,"",22690,150,0,False,False,26,622,0,False,False,False
-1077,"",22691,150,0,False,False,26,622,0,False,False,False
-1078,"",22692,150,0,False,False,26,622,0,False,False,False
-1079,"",22693,150,0,False,False,26,622,0,False,False,False
-1080,"",23171,150,0,False,False,26,622,0,False,False,False
-1081,"",26744,430,0,False,False,26,817,0,False,False,False
-1082,"",26745,430,0,False,False,26,818,0,False,False,False
-1083,"",2002869,5,0,False,False,26,137,0,False,False,False
-1084,"",29564,290,0,False,False,26,817,0,False,False,False
-1085,"",29565,290,0,False,False,26,817,0,False,False,False
-1086,"",29566,290,0,False,False,26,817,0,False,False,False
-1087,"",29567,290,0,False,False,26,817,0,False,False,False
-1088,"",29568,290,0,False,False,26,817,0,False,False,False
-1089,"",29569,290,0,False,False,26,817,0,False,False,False
-1090,"",29570,290,0,False,False,26,817,0,False,False,False
-1091,"",29571,290,0,False,False,26,817,0,False,False,False
-1092,"",29572,290,0,False,False,26,817,0,False,False,False
-1093,"",29575,290,0,False,False,26,817,0,False,False,False
-1094,"",29576,290,0,False,False,26,817,0,False,False,False
-1095,"",29577,290,0,False,False,26,817,0,False,False,False
-1096,"",29580,290,0,False,False,26,817,0,False,False,False
-1097,"",29582,290,0,False,False,26,817,0,False,False,False
-1098,"",29583,290,0,False,False,26,817,0,False,False,False
-1099,"",29584,290,0,False,False,26,817,0,False,False,False
-1100,"",29585,290,0,False,False,26,817,0,False,False,False
-1101,"",29586,290,0,False,False,26,817,0,False,False,False
-1102,"",29587,290,0,False,False,26,817,0,False,False,False
-1103,"",29588,290,0,False,False,26,817,0,False,False,False
-1104,"",0,0,0,False,False,0,0,0,False,False,False
-1105,"",0,0,0,False,False,0,0,0,False,False,False
-1106,"",29994,1,0,False,False,26,401,0,False,False,False
-1107,"",29995,1,0,False,False,26,401,0,False,False,False
-1108,"",29996,1,0,False,False,26,401,0,False,False,False
-1109,"",29997,1,0,False,False,26,401,0,False,False,False
-1110,"",29998,150,0,False,False,26,401,0,False,False,False
-1111,"",29999,150,0,False,False,26,401,0,False,False,False
-1112,"",30000,290,0,False,False,26,401,0,False,False,False
-1113,"",30001,290,0,False,False,26,401,0,False,False,False
-1114,"",30002,430,0,False,False,26,401,0,False,False,False
-1115,"",30003,430,0,False,False,26,401,0,False,False,False
-1116,"",30004,430,0,False,False,26,401,0,False,False,False
-1117,"",30005,430,0,False,False,26,401,0,False,False,False
-1118,"",30006,435,0,False,False,26,401,0,False,False,False
-1119,"",30007,435,0,False,False,26,401,0,False,False,False
-1120,"",30008,435,0,False,False,26,401,0,False,False,False
-1121,"",30009,435,0,False,False,26,401,0,False,False,False
-1122,"",30010,435,0,False,False,26,401,0,False,False,True
-1123,"",30011,435,0,False,False,26,401,0,False,False,True
-1124,"",30012,435,0,False,False,26,401,0,False,False,True
-1125,"",30013,435,0,False,False,26,401,0,False,False,True
-1126,"",31578,10,0,False,False,26,401,0,False,False,False
-1127,"",31579,10,0,False,False,26,401,0,False,False,False
-1128,"",31580,10,0,False,False,26,401,0,False,False,False
-1129,"",31581,10,0,False,False,26,401,0,False,False,False
-1130,"",31582,150,0,False,False,26,401,0,False,False,False
-1131,"",31583,150,0,False,False,26,401,0,False,False,False
-1132,"",31584,150,0,False,False,26,401,0,False,False,False
-1133,"",31585,150,0,False,False,26,401,0,False,False,False
-1134,"",31586,150,0,False,False,26,401,0,False,False,False
-1135,"",31587,150,0,False,False,26,401,0,False,False,False
-1136,"",31588,150,0,False,False,26,401,0,False,False,False
-1137,"",31589,150,0,False,False,26,401,0,False,False,False
-1138,"",31590,430,0,False,False,26,401,0,False,False,False
-1139,"",31591,430,0,False,False,26,401,0,False,False,False
-1140,"",31592,430,0,False,False,26,401,0,False,False,False
-1141,"",31593,430,0,False,False,26,401,0,False,False,False
-1142,"",31594,430,0,False,False,26,401,0,False,False,False
-1143,"",31595,430,0,False,False,26,401,0,False,False,False
-1144,"",31596,445,0,False,False,26,401,0,False,False,False
-1145,"",31597,445,0,False,False,26,401,0,False,False,False
-1146,"",31598,445,0,False,False,26,401,0,False,False,False
-1147,"",31599,445,0,False,False,26,401,0,False,False,False
-1148,"",31600,445,0,False,False,26,401,0,False,False,True
-1149,"",31601,445,0,False,False,26,401,0,False,False,True
-1150,"",31602,445,0,False,False,26,401,0,False,False,True
-1151,"",31603,445,0,False,False,26,401,0,False,False,True
-1152,"",32882,10,0,False,False,26,401,0,False,False,False
-1153,"",32883,10,0,False,False,26,401,0,False,False,False
-1154,"",32884,10,0,False,False,26,401,0,False,False,False
-1155,"",32885,10,0,False,False,26,401,0,False,False,False
-1156,"",32886,150,0,False,False,26,401,0,False,False,False
-1157,"",32887,150,0,False,False,26,401,0,False,False,False
-1158,"",32888,150,0,False,False,26,401,0,False,False,False
-1159,"",32889,150,0,False,False,26,401,0,False,False,False
-1160,"",32890,150,0,False,False,26,401,0,False,False,False
-1161,"",32891,150,0,False,False,26,401,0,False,False,False
-1162,"",32892,150,0,False,False,26,401,0,False,False,False
-1163,"",32893,150,0,False,False,26,401,0,False,False,False
-1164,"",32894,430,0,False,False,26,401,0,False,False,False
-1165,"",32895,430,0,False,False,26,401,0,False,False,False
-1166,"",32896,430,0,False,False,26,401,0,False,False,False
-1167,"",32897,430,0,False,False,26,401,0,False,False,False
-1168,"",32898,430,0,False,False,26,401,0,False,False,False
-1169,"",32899,430,0,False,False,26,401,0,False,False,False
-1170,"",32900,485,0,False,False,26,401,0,False,False,False
-1171,"",32901,485,0,False,False,26,401,0,False,False,False
-1172,"",32902,485,0,False,False,26,401,0,False,False,False
-1173,"",32903,485,0,False,False,26,401,0,False,False,False
-1174,"",32904,485,0,False,False,26,401,0,False,False,True
-1175,"",32905,485,0,False,False,26,401,0,False,False,True
-1176,"",32906,485,0,False,False,26,401,0,False,False,True
-1177,"",32907,485,0,False,False,26,401,0,False,False,True
+1017,"북해에서 볼 수 있는 대왕조개의 일종. 샬레이안에서는 속칭을 사용하지 않기 때문에, 껍데기 표면의 방사형 빗살에서 유래한 '빗'이라는 뜻의 학명으로 부른다.",36385,430,0,True,True,0,962,0,True,False,False
+1018,"식초에 절이면 아주 맛있지만, 보통은 초절임을 만들지 않고 말려서 가루를 내 현인빵 반죽에 넣는다.",36386,495,0,True,False,0,962,0,True,False,False
+1019,"동그란 얼굴이 바다표범이나 개처럼 귀여워 보인다. 그러나 독주머니 외에도 내장과 근육까지 강한 독이 있기 때문에, 포식자가 다가오지 않아 느긋하게 헤엄칠 수 있다.",36387,495,0,True,False,0,962,0,True,False,False
+1020,"바닷속에서 특히 더 눈에 띄는 아름다운 빛깔을 지녔다. 코발트처럼 빛나는 푸른 비늘은 환해류와 비슷한 물속 에테르류의 영향을 강하게 받은 것이다.",36388,500,0,True,False,0,962,0,True,False,False
+1021,"긴 꼬리와 마름모꼴 몸은 현악기인 기타를 닮았다. 분류상으로는 가오리의 일종이지만, 기타 애호가가 증가하며 이렇게 불리게 되었다.",36389,510,0,True,False,0,962,0,True,False,False
+1022,"세계 각지에 널리 분포하는 가재류의 일종. 샬레이안에서는 초여름이 되면 이 가재를 간소하게 소금물에 데치기만 해서 모두 함께 손으로 집어먹는 연회를 연다고 한다.",36390,430,0,True,False,2,962,0,True,False,False
+1023,"'공작농어'라고 통틀어 불리는 어종 중 하나로, 커다란 얼룩무늬가 있다. 낚시를 하며 사색을 즐기는 샬레이안 낚시꾼들에게 인기 있는 종이다.",36392,495,0,True,False,2,962,0,True,False,False
+1024,"툭 튀어나온 이마의 혹이 지식욕이 왕성한 연구자의 두뇌에 비유된다. 무거운 머리에 이끌려 휘청휘청 헤엄치는 모습은 밤을 샌 학술원 연구자와 똑같다.",36393,495,0,True,False,2,962,0,True,False,False
+1025,"검에 비유되는 날카로운 몸으로 물살을 거슬러 재빠르게 헤엄친다. 하구 부근의 기수역에서 상류까지 회유하며, 작은 물고기나 갑각류라면 종류를 가리지 않고 잡아먹는다.",36394,500,0,True,False,2,962,0,True,False,False
+1026,"마름모꼴 몸과 가늘고 얇은 지느러미가 특징인 물고기. 꽤나 겁이 많고 얌전하며, 마치 깊은 사색에 잠긴 듯이 샘의 한구석에서 가만히 지낸다.",36395,430,0,True,False,3,962,0,True,False,False
+1027,"촉수가 굉장히 많기 때문에 활짝 핀 달리아 꽃이 물속에서 흔들리는 듯이 보인다. 바위나 돌에 붙어 있지 않고, 먹이가 풍부한 곳을 찾아 물밑을 굴러다니며 이동한다.",36396,495,0,True,False,3,962,0,True,False,False
+1028,"드라바니아의 식민도시에서 사육되었던 종. '대이동' 때 샬레이안 본국에 유입되어, 가장 아름다운 개체를 번식시키고 있다.",36397,495,0,True,False,2,956,0,True,False,False
+1029,"잉어과의 일종으로 어떤 환경에도 잘 적응한다. 라비린토스에서는 인공 환경의 지표를 얻고자 물이 있는 거의 모든 곳에 방류했다.",36398,495,0,True,False,2,956,0,True,False,False
+1030,"오염과 온도 변화에 강한 소형 물고기. 1호 천구구에서 지하수와 섞여 흐르는 라비린토스의 순환수에서 해충의 알과 불순물을 주로 먹는다.",36399,430,0,True,False,2,956,0,True,False,False
+1031,"'공작농어'라고 통틀어 불리는 어종 중 하나로, 굵은 줄무늬가 특징이다. 서식지에 따라 색깔과 무늬가 변하기 때문에 인공 환경에서 연구되고 있다.",36400,500,0,True,False,2,956,0,True,False,False
+1032,"이끼가 낀 것처럼 녹색을 띠는 민물 갑각류. 물속 에테르를 직접 섭취하는 습성 때문에 환경 에테르 수치 측정에 자주 활용된다.",35604,430,0,False,False,2,956,0,True,False,False
+1033,"지상에 서식하는 농어를 지하 시설에서 번식시킨 종. 비늘 색이나 살집이 다르기 때문에, 환경에 따른 생태 변화에 대해 의미 있는 결과가 기록되었다.",36402,510,0,True,False,2,956,0,True,False,False
+1034,"주황색 꼬리지느러미에 줄무늬가 있는 화려한 물고기. 줄톱 모양 이빨이 있으며, 이끼나 미생물을 섭취함으로써 인공 환경 보전에 기여하고 있다.",36403,500,0,True,False,2,956,0,True,False,False
+1035,"평소에는 수수한 색깔이라 근연종과 구별하기 어렵지만, 적과 접촉하는 등의 자극을 받으면 검은 줄무늬가 나타나 구별할 수 있다.",36404,500,0,True,False,2,956,0,True,False,False
+1036,"라비린토스 환경에서 유래한, 이끼 낀 듯한 독특한 색깔을 띤다. 대양을 회유하는 종을 제한된 수역에서 번식시킴으로써 식량으로 이용할 수 있으리라 기대된다.",36405,510,0,True,False,2,956,0,True,False,False
+1037,"연어과처럼 살이 많고 생김새도 비슷하지만, 샬레이안에서 품종 개량으로 태어난 잉어 종류이다. 산란기에는 푸른 비늘이 새빨갛게 물든다.",36407,510,0,True,False,2,956,0,True,False,False
+1038,"고대어의 일종인 아미아를 인공적으로 번식시킨 종으로, 연구 환경에서도 개체에 변화가 적다. 몸의 적갈색을 보호색 삼아 나무뿌리나 물에 떠다니는 나무 밑에 숨어 산다.",36408,527,0,True,False,2,956,0,True,False,False
+1039,"기다란 집게가 있는 동종 중에서 가장 원종에 가까운 종. 원산지인 근동에서는 개체수가 감소하고 있으며, 라비린토스에서 번식 실험이 이루어지고 있다.",36409,500,0,True,False,2,956,0,True,False,False
+1040,"뾰족한 주둥이로 물을 발사하여 먹이인 곤충류를 쏘아 떨어뜨린다. 명중률이 굉장히 높기 때문에, 물속에서 에테르의 요동을 관측하는 것으로 생각된다.",36410,510,0,True,False,2,956,0,True,False,False
+1041,"암철강 칼날처럼 새카만 색이 특징이다. 원산지에서는 도적의 칼이 변한 것이라는 전승이 있지만, 번식 환경에서 그 일화는 의미를 잃게 되었다.",36411,520,0,True,False,2,956,0,True,False,False
+1042,"지상에서 발견된 아스타쿠스의 색소 변이 개체를 재현한 종. 샬레이안 지반과 지하 환경의 복잡한 에테르류가 아름다운 푸른색을 만들어 낸다고 한다.",36412,510,0,True,False,2,956,0,True,False,False
+1043,"주로 민물에 서식하지만, 수질이 오염된 환경이나 바닷물에도 견딜 수 있다. 연구 시설에서는 이 종의 번식 상황을 보며 순환수의 수질을 보전하고 있다.",36414,570,0,True,False,2,956,2509,True,True,True
+1044,"주둥이가 발달하여 사베네어 섬의 마탕가족들에게 사랑받는다. 전승에서는 아르카소다라족 여인을 사랑한 물고기가 제 스스로 코를 늘렸다고 한다.",36415,500,0,True,False,3,963,0,True,False,False
+1045,"메가두타 궁전 앞뜰에서 헤엄치는 은색 물고기. 기름기가 도는 살점이 무척 맛있어서, 향신료로 맛을 낸 소스와 함께 라자한 궁중 요리로 제공된다.",36417,500,0,True,False,3,963,0,True,False,False
+1046,"주새개골 뒤쪽 끝에 있는 귀처럼 생긴 돌기가 특징이다. 실제로는 아가미에 있는 호흡기관의 일부로, 빠르게 헤엄칠수록 돌기도 진동하듯이 움직인다.",36418,510,0,True,False,3,963,0,True,False,False
+1047,"라자한에서는 예부터 이 아름다운 은색 물고기를 귀하게 여겼다. 때문에 메가두타 궁전의 낚시터에는 태수 일족만이 들어갈 수 있었으며, 시민이 난획하는 것은 엄하게 금지되었다.",36419,520,0,True,False,3,963,0,True,False,False
+1048,"사베네어 섬 남쪽 해안에 널리 서식하는 소형 바닷물고기. 산호초와 수면 근처를 오가며 넓은 범위를 헤엄치기에, 섬의 명물로서 어민들에게 친숙하다.",36420,495,0,True,False,0,957,0,True,False,False
+1049,"배를 닮았다 하여 이런 이름이 붙었다. 납작한 몸으로 얕은 물을 회유하며, 배 그림자처럼 보이는 외형을 이용해 작은 물고기를 몰아서 잡아먹는다.",36421,500,0,True,False,0,957,0,True,False,False
+1050,"짙은 장밋빛 껍데기가 특징이다. 여러 마리가 모이면 이름 그대로 큰 꽃송이가 핀 듯 보이지만, 강한 독이 있기 때문에 함부로 건드리면 안 된다.",36422,510,0,True,False,0,957,0,True,False,False
+1051,"육식 동물 같은 암갈색 반점이 지느러미까지 퍼져 있다. 일설에 따르면 눈의 위치를 파악하기 어렵게 하여 적을 속이는, 바다의 생존술이라고 한다.",36423,520,0,True,False,0,957,0,True,False,False
+1052,"사베네어 섬의 명물인 형형색색의 견직물처럼 빛깔과 무늬가 다채롭다. 어촌에서는 신랑이 물고기를 잡아오면 신부가 그 무늬대로 비단을 짜서 피로연 때 걸치기도 한다.",36425,510,0,True,False,0,957,0,True,False,False
+1053,"심해에서 성장한 다음 중층으로 회유하여 먹이를 찾는다. 배를 위로 뒤집는 등 불규칙한 자세를 취하고 짙은 몸 색깔을 심층으로 가장해서, 먹이가 다가오기를 기다리며 떠다닌다.",36426,510,0,True,False,0,957,0,True,False,False
+1054,"사나운 대형 정어리의 일종. 사베네어 섬 남쪽 해안 지역 생태계의 정점에 군림하며, 영역 의식이 강해 옛 아르카소다라족 왕의 이름이 붙었다.",36427,520,0,True,False,0,957,0,True,False,False
+1055,"만지면 손에 번개를 맞은 듯이 저릿저릿하기 때문에 '번개'라는 뜻의 이름이 붙었다. 실제로는, 에테르류를 흐트러뜨리고 무리 지어 헤엄치면서 흐트러짐을 더욱 크게 만든다.",35605,495,0,False,False,0,957,0,True,False,False
+1056,"유열향 연금술사의 기술에 의해 황금색 비늘을 얻게 된 종. 금화로 만들려고 했던 모양인지, 몇몇 비늘에는 글자나 사람의 옆얼굴 그림이 남아 있다.",36430,527,0,True,False,0,957,0,True,False,False
+1057,"채석장의 저수지에서 빙글빙글 춤추듯이 헤엄치는 물고기. 무도가들의 성지인 카쟈야 연무장으로 가려던 자가 변한 모습이라고 전해진다.",36431,500,0,True,False,3,957,0,True,False,False
+1058,"사베네어 섬의 습한 환경을 좋아하는 거대 개구리. 커다란 몸 때문에, 금기를 범한 아르카소다라족 연금술사가 변한 모습이라고도 여겨진다.",36432,510,0,True,False,3,957,0,True,False,False
+1059,"라자한 태수가 헌상받은 외래종. 번식력이 강하여 다른 나라에서는 대량 증식이 문제가 되었으나, 사베네어 섬 수질과는 맞지 않는지 일부 지역에서만 볼 수 있다.",36434,520,0,True,False,3,957,0,True,False,False
+1060,"날카로운 이빨로 바위도 잘게 부숴 먹기 때문에, 섭취한 바위 색깔이 몸에도 나타난다. 채석장 기술자들에게는 채석업의 수호신으로서 귀하게 여겨진다.",36435,527,0,True,False,3,957,0,True,False,False
+1061,"사베네어 섬 내륙에 널리 서식하여 섬 주민들에게 친숙한 화려한 물고기. 암컷의 절반 정도는 살면서 수컷으로 성별을 전환한다. 물론 날 때부터 수컷인 개체도 있다.",36436,527,0,True,False,2,957,0,True,False,False
+1062,"젖의 바다라는 뜻인 크시로다 강에서 자란 대형 민물고기. 마치 강물을 마시는 것처럼, 큰 입을 벌리고 헤엄치는 모습이 유명하다.",36438,534,0,True,False,2,957,0,True,False,False
+1063,"무시무시한 얼굴이 마치 라자한의 관문을 지키는 문지기 같다. 저수지를 헤엄치다가 문이 아닌 다른 곳으로 들어가려는 자를 보면 가차 없이 습격한다.",36439,540,0,True,False,2,957,0,True,False,False
+1064,"토라나 관문에 서식하는 대형 물고기. 어장이 라자한 시장에서 가깝고, 비리지 않은 쫄깃한 살이 맛있기 때문에 시민들이 즐겨 먹는다.",36440,570,0,True,False,2,957,2509,True,True,True
+1065,"지느러미가 타오르는 불꽃처럼 붉은 물고기. 유열향의 연금술 용광로에서 튀어나온 쇳덩어리가 열을 띤 채로 강으로 뛰어들어 생명을 얻었다고 전해진다.",36441,534,0,True,False,2,957,0,True,False,False
+1066,"이름은 '부리를 가진 것'이라는 뜻이며, 이름대로 길고 뾰족한 주둥이가 특징이다. 그 입으로 먹이를 하나하나 잡아먹으며, 맹렬한 속도로 강을 질주하듯이 헤엄친다.",36442,540,0,True,False,2,957,0,True,False,False
+1067,"보석을 흩뿌려놓은 게 아닌가 착각할 만큼 색깔이 화려하다. 외국 수출품으로도 인기가 있어, 밀림 주민들은 눈을 번뜩이며 밀렵꾼을 경계한다.",36443,534,0,True,False,3,957,0,True,False,False
+1068,"하늘색과 붉은색이 섞인 아름다운 꼬리지느러미는 반달 모양으로 펼쳐진다. 게다가 달빛을 받으면 색깔이 변하여, 관상어로서 라자한 상류층에 인기가 있다.",36444,540,0,True,False,3,957,0,True,False,False
+1069,"노란 바탕에 검은 반점이 있어, 과일인 바나나와 흡사하다. 물에 떨어진 과일로 착각하여 사냥감이 접근하면, 큰 입을 벌려 한입에 삼킨다.",36446,547,0,True,False,3,957,0,True,False,False
+1070,"동그란 몸으로 꼬물꼬물 헤엄치는 모습은 사베네어 섬의 명물로 유명한 함사와 꼭 닮았다. 환상샘 깊은 곳을 헤엄치면 배에 이끼가 끼어 녹색이 되므로 몸 색깔까지 똑같아진다고 한다.",36447,540,0,True,False,3,957,0,True,False,False
+1071,"치어일 때에는 혹이 없으나 성장하며 점점 자란다. 현지인의 말에 따르면 마야의 환상샘에서 신비로운 힘을 받아 혹이 커진 개체는 길조로 여겨진다고 한다.",36448,534,0,True,False,3,957,0,True,False,False
+1072,"녹색 몸으로 깊은 물인 것처럼 위장해 물 위의 사냥감을 눈 깜짝할 사이에 샘 밑으로 끌고 들어간다. 환상샘에서 수행이 폐지된 것은 이 위험성 때문인 듯도 하다.",36449,547,0,True,False,3,957,0,True,False,False
+1073,"모래와 자갈이 많은 바다 밑이나 산호초를 좋아하는 소형 물고기. 붉은 몸을 흔들며 헤엄치는 모습은 바닷속에 작은 불이 지펴진 듯하며, 산호초를 마치 촛대처럼 보이게 한다.",36450,534,0,True,False,1,957,0,True,False,False
+1074,"노란 과육과 검은 씨앗이 있는 과일을 닮은 물고기. 독을 빼고 말리면 말린 과일 같은 단맛이 나서, 요리보다는 과자로 즐겨 먹는다.",36451,527,0,True,False,1,957,0,True,False,False
+1075,"나루네어 섬 부근에 보금자리를 만드는 것으로 알려진 대형 문어. 영역을 침범당하는 일을 극도로 싫어하기 때문에, 해상에서 사건이 일어나면 늘 불쾌하다는 듯이 먹물을 뿜어댄다.",36452,540,0,True,False,1,957,0,True,False,False
+1076,"길게 자란 7개의 등지느러미를 닭벼슬처럼 펄럭이며 헤엄친다. 몸집이 크고 투쟁심이 강하여, 등지느러미로 어부를 도발하고 어선과 힘겨루기를 즐길 정도이다.",36453,547,0,True,False,1,957,0,True,False,False
+1077,"'창 같은 이빨'이라는 뜻의 이름을 가진 바다짐승. 몸은 뱀처럼 가늘고 길지만 육지 생물 같은 특성이 있으며, 장시간 잠수하지 못하기 때문에 얕은 바다를 좋아한다.",36454,570,0,True,False,1,957,2509,True,False,True
+1078,"크기가 작기 때문에 육수를 내어 국물로 먹는다. 제국을 대표하는 맛이라고 할 수 있다. 껍데기에 남아 있는 성장선을 분석하여 갈레말드 지방의 환경 변화에 대해 연구한다.",35606,520,0,False,False,2,958,0,True,False,False
+1079,"에블라나 빙원의 낮은 수온에 개의치 않고 커다란 몸을 꿈틀거리며 헤엄치는 모습이 설국의 물고기답다. 지방이 낀 살점은 날것으로 먹어도 맛있어서 인기가 있다.",36456,520,0,True,False,2,958,0,True,False,False
+1080,"조개의 친척뻘로, 성격이 온순하며 얌전하게 헤엄친다. 갈레안족은 전쟁신이나 요정에 비유하지 않고, 물속에서 작게 움직이는 망자의 영혼이라고 여긴 모양이다.",36457,520,0,True,False,3,958,0,True,False,False
+1081,"한기가 감도는 핵형 생물. 물속에서 미량의 청린수를 섭취하여 에너지로 변환하기 때문에, 제국군도 그 구조를 자세하게 연구했다고 한다.",36458,527,0,True,False,3,958,0,True,False,False
+1082,"단단하고 두꺼운 비늘에 싸인 하얀 살점이 솜사탕처럼 부드럽다. 지역 전통 음식에도 쓰이기 때문에 인기가 있지만, 껍질을 벗기는 일이 무척 힘들다.",36459,510,0,True,False,3,958,0,True,False,False
+1083,"여러 겹으로 접은 듯한 아름다운 지느러미는 갈레말 황제의 왕관을 연상시킨다. 황족들이 황제에게 충성심을 보이기 위해 앞다투어 이 물고기를 구했다고 한다.",36460,510,0,True,False,2,958,0,True,False,False
+1084,"흑백의 굵은 줄무늬가 특징인 물고기. 제국 수도의 용수로에 의태한 것으로 여겨지나, 수면에 흰 선이 늘어선 모습을 차선이 칠해진 도로로 착각하여 뛰어드는 사람도 있다고 한다.",36461,520,0,True,False,2,958,0,True,False,False
+1085,"투명한 하늘색 거대 메기. 깊은 곳에서 주로 생활하지만, 드물게 수면 가까이 올라오면 도랑에 얼음 덩어리가 떠내려왔다며 제국 주민들이 떠들썩했다.",36462,527,0,True,False,2,958,0,True,False,False
+1086,"아름다운 지느러미 색이 마치 달에서 본 푸른 행성과도 같다. 레포릿들은 달에 찾아온 방문자에게서 들은 샬레이안 박물학자의 이름으로 부른다.",36463,520,0,True,False,3,959,0,True,False,False
+1087,"옅은 노랑을 띤 남색 몸이 마치 달빛을 받은 듯하다고 하여 이렇게 불린다. 월면 에테르의 농도에 맞추어 색이 조금씩 바뀐다.",36465,527,0,True,False,3,959,0,True,False,False
+1088,"눈물을 흘리는 듯한 눈가의 별무늬가 특징. 먼 옛날 별똥별이 되어 전령으로서 지상으로 떠난 형제 물고기를 그리워하며 우는 것이라 한다.",36466,527,0,True,False,3,959,0,True,False,False
+1089,"고대 이데아에서 재생된 고대종. 재생 과정을 담당한 레포릿이 도중에 간식을 먹느라 눈을 뗀 사이, 색소 변이가 발생했다.",36467,534,0,True,False,3,959,0,True,False,False
+1090,"마법샘의 독소를 분해하여 생태 유지에 필요한 영양소를 얻는다고 한다. 그러나 그 과정에서 독 때문에 의식이 몽롱해져, 늘 세상을 비관하는 듯이 휘청휘청 헤엄친다.",36468,527,0,True,False,8,959,0,True,False,False
+1091,"갈색으로도 자주색으로도 보이는, 칙칙하게 빛나는 비늘이 있다. 금속질 비늘이 마법샘 안에서 화학 반응을 일으키기 때문에 이렇게 보이는 것으로, 다른 환경으로 옮기면 비늘 색도 변한다고 한다.",36470,534,0,True,False,8,959,0,True,False,False
+1092,"촉수 모양으로 발달한 균사가 꿈틀거리는데, 자신의 의사로 움직이는 것이 아니라 다른 생물의 움직임을 모방하며 떠다니는 것이다. 마법샘 속 유기물과 합성하여 점점 성장한다.",36471,534,0,True,False,8,959,0,True,False,False
+1093,"지상에 사는 모래바다 생물인 올고이 콜코이의 근연종. 원래 월면에서 발달한 종이었으나, 운석 충돌에 휘말려 행성 하이델린으로 오게 되었다는 설이 있다.",36472,570,0,True,False,8,959,2511,True,False,True
+1094,"달에 서식하는 우주거북의 커다란 등딱지 틈새에 숨어 기생한다. 그 모습이 월면에 꽂힌 봉인처럼 보인다 하여, 제법 거창한 이름으로 불리게 되었다.",36473,534,0,True,False,8,959,0,True,False,False
+1095,"월면의 잿빛 땅처럼 보이는 암회색 등딱지가 있다. 레포릿들이 지어낸 이야기에서, 달은 이 우주거북 무리가 모여 만들어진 것이라고 한다.",36475,540,0,True,False,8,959,0,True,False,False
+1096,"나뭇잎처럼 생긴 커다란 등지느러미로 풍맥을 포착하여 엘피스의 하늘섬들을 날아다닌다. 드물게 바람을 타지 못하고 땅바닥에 떨어져 폴짝대는, 헤엄이 서툰 개체도 있다.",36476,534,0,True,False,2,961,0,True,False,False
+1097,"엷은 무지개색 비늘과 강한 도약력이 특징이다. 수면에서 물보라를 날리며 뛰어오르면 무지개가 뜨기 때문에, 무지개에 오르는 듯하다 하여 이렇게 불린다.",36477,534,0,True,False,2,961,0,True,False,False
+1098,"색다른 뜰에서 우연히 태어난 황금색 미꾸라지. 창조물 관리국에 이데아를 등록하는 것이 목표이나, 포식자에게 금방 발견된다는 결점이 지적되고 있다.",36478,540,0,True,False,2,961,0,True,False,False
+1099,"관상 목적으로 창조된 민물고기. 금빛과 은빛으로 빛나는 물고기의 모습을 보려는 게 아니라, 헤엄칠 때 수면의 반짝임이 증폭되는 효과를 보는 것이 주된 목적인 듯하다.",36479,540,0,True,False,2,961,0,True,False,False
+1100,"퉁퉁한 거구가 커다란 금괴처럼 보인다. 그러나 엘피스 주민들은 황금에 가치를 두지 않기 때문에, 그들이 보기에 고급스러운 느낌은 아닌 모양이다.",36480,570,0,True,False,2,961,2513,True,False,True
+1101,"작고 아름다운 은백색 물고기. 몸 표면에 기생하는 미생물이 은빛을 내는 것이고, 원래 비늘은 갈색에 가깝다.",36481,540,0,True,False,3,961,0,True,False,False
+1102,"엘피스 주민들에게 '화관'으로 불리며 사랑받는 아름다운 물고기. 창조 마법으로 얼마나 아름다운 색깔을 만들 수 있는지 한계에 도전한 듯하다.",36484,540,0,True,False,3,961,0,True,False,False
+1103,"고대인이 '짜부라진 몸'이라는 뜻으로 이름 붙였듯이, 좌우로 납작하고 위아래로 길다. 곤충이나 수초, 식물 씨앗 등을 좋아하며 튼튼한 이빨로 으깨서 먹는다.",36485,547,0,True,False,3,961,0,True,False,False
+1104,"고대인들의 말로 '에메랄드'를 가리키는 이름이 붙은 녹색 물고기. 아로와나라고 불리는 원생종과 이 고대종의 비교 연구가 기대를 모은다.",35607,540,0,False,False,3,961,0,True,False,False
+1105,"촉수 안에 무수한 별들의 반짝임이 담겨 있다는 생물. 이를 잡은 자는 수많은 은하의 운명을 짊어지게 될 것이다.",36487,547,0,True,False,8,960,0,True,False,False
+1106,"오미크론이 기록한 바로는, 어느 성간 문명의 지적 생명체가 식용으로 양식했다고 한다. 그들이 여러 행성에 퍼뜨림으로써 수많은 고유종을 멸종시킨 듯하다.",36488,554,0,True,False,8,960,0,True,False,False
+1107,"라그나로크의 레포릿 선원이 발견한, 가재처럼 생긴 우주 갑각류. 행성 하이델린의 하천과 비슷한 환경에서 진화하며 수렴 진화가 이루어진 듯하다.",36489,547,0,True,False,8,960,0,True,False,False
+1108,"흰색과 검은색이 섞인 몸 빛깔은 모래바람 모양으로 지직이는 마도 모니터 화면을 닮았다. 마법샘의 불안정한 자기장으로 위장하여, 길 잃은 생물을 잡아먹는다.",36491,554,0,True,False,8,960,0,True,False,False
+1109,"머리 부분에만 내장이 있는 투명한 물고기. 언뜻 보기엔 뼈밖에 없는 듯하지만, 투명한 몸이 마법샘의 영향으로 가끔 하얗게 물들면 의외로 살집이 있다는 것을 알 수 있다.",36492,554,0,True,False,8,960,0,True,False,False
+1110,"용의 별이 원산지인 초식 생물로, 먹이사슬의 하위에 속한다. 에테르 바람을 타고 날아 높은 곳에 있는 나뭇잎을 먹으며 사는 듯하다.",36494,560,0,True,False,8,960,0,True,False,False
+1111,"드래곤족에게 붙은 기생충을 먹기 위해 종종 비늘에 달라붙는다. 일종의 닥터피시로, 용들은 더러움을 씻어주는 물고기라고 생각하는 모양이다.",36495,554,0,True,False,8,960,0,True,False,False
+1112,"메테이온이 어느 행성에서 만난 생물. 어떤 마법 사고가 일어나는 바람에 강제 퇴화된 지성체가 아닐까 추측된다.",36496,560,0,True,False,8,960,0,True,False,False
+1113,"드래곤족의 알을 한입에 삼키는 대형 포식자. 지금은 먹을 수 있는 알이 없기 때문에 커다란 입을 벌린 채로 마법샘을 헤매고 있다.",36497,560,0,True,False,8,960,0,True,False,False
+1114,"검푸른 바탕에 하얀 반점이 움직이며 빛난다. 겹겹의 비늘이 망원 렌즈 같은 역할을 하여 수만 광년 떨어진 은하의 모습을 비춘다고 한다.",36499,560,0,True,False,3,960,0,True,False,False
+1115,"튀어나온 붉은 아가미가 특징. 행성 충돌로 생겨난 대량의 에테르 덩어리를 몸에 바로 맞은 것으로 추정되며, 여러 환경에서 생존할 수 있는 호흡 기관이 있다.",36501,560,0,True,False,3,960,0,True,False,False
+1116,"시각이 퇴화하여, 주위를 파악하기 위해 미약한 번개를 몸에 두르고 있다. 그 번개에서 나오는 음파는 우주 끝에서 애절한 노랫소리처럼 울려 퍼진다고 한다.",36502,560,0,True,False,3,960,0,True,False,False
+1117,"어떤 이아가 말하길, 재육체화기의 성능을 확인하기 위해 만든 시험작이라고 한다. 모습을 기억하던 몇 안 되는 생물 중 하나를 본뜬 모양이다.",36503,560,0,True,False,3,960,0,True,False,False
+1118,"마치 행성처럼 같은 궤도를 일정 주기로 맴돈다. 궤도 중심에는 동족만이 감지할 수 있는 특수한 자기장이 존재하는 듯하며, 이 자기장을 놓치면 죽고 만다.",36505,560,0,True,False,3,960,0,True,False,False
+1119,"끝부분에 달린 입으로 먹이를 통째로 삼킨다. 식사 후에도 부피가 변하지 않는 불가사의한 내장이 있는데, 이를 확인한 자는 이미 같은 우주에 없다고 봐야 한다.",36506,554,0,True,False,28,960,0,True,False,False
+1120,"껍데기가 수지 상태의 고분자 화합물로 이루어져 있어 강제로는 열기 어려울 만큼 단단하다. 안에 수많은 지적 생명체가 거주하는 소형 우주선이라는 설도 있다.",36507,554,0,True,False,28,960,0,True,False,False
+1121,"양쪽에 달린 집게와 독가시가 있는 꼬리를 동시에 사용하기 때문에, 삼지창을 가리키는 이름으로 불린다. 눈은 동그랗고 귀엽게 생겼지만, 고향 행성에서는 포학의 끝을 달렸다고 한다.",36508,560,0,True,False,28,960,0,True,False,False
+1122,"감각이 발달하여, 별들의 움직임을 읽고 다음에 멸망할 별을 예언한다고 하는 우주샘의 현자. 자신을 바깥 우주로 데려가 줄 인도자를 기다리다가 낚싯바늘에 걸렸다.",36509,560,0,True,False,28,960,0,True,False,False
+1123,"메테이온이 접촉한 7번째 문명의 주민. 그들의 가치관으로는 다리 수가 많을수록 지능이 높다고 한다. 우둔한 4족 생명체에게 잡혀서 절망했다.",36510,554,0,True,False,28,960,0,True,False,False
+1124,"커다란 귀처럼 생긴 다리를 보고 동족이라 생각해서 다가간 레포릿이 하마터면 통째로 삼켜질 뻔했다. 잡아먹힌 사냥감은 투명한 몸통 속에서 천천히 녹아내린다고 한다.",36511,560,0,True,False,28,960,0,True,False,False
+1125,"다른 생물에게 환각을 보여주고 조종하는 능력 때문에 환각 우주인이라고도 불린다. 우주샘에서는 문어 형태로 퍼져 있지만, 중력이 있는 환경에서는 이족 보행을 한다는 설이 있는데 믿거나 말거나.",36512,560,0,True,False,28,960,0,True,False,False
+1126,"원통형 몸에서 길게 뻗은 주둥이로 별조각을 주워 먹는다. 어떤 레포릿이 꿈에서 본 당근괴물과 똑같이 생겼다고 한다.",36513,560,0,True,False,28,960,0,True,False,False
+1127,"조개 모양 껍데기는 개체 전용 우주 구동 장치로, 본체는 그 탈것과 항상 동화되어 있다. 에테르를 추진력으로 활용하여 우주샘 속을 음속에 가까운 속도로 날아다닌다.",36514,560,0,True,False,28,960,0,True,False,False
+1128,"온몸을 덮은 가시로 외적을 위협하지만, 배 쪽은 부드럽고 성게와 비슷한 맛이다. 하이델린에도 서식하는 성게가 사실 우주에서 유래한 생물이라는 설에 신빙성이 실린다.",36515,560,0,True,False,28,960,0,True,False,False
+1129,"원래는 반 인간 형태의 지적 생명체였으나, 불로의 술법에 실패하여 말린 가오리 같은 모습으로 변했다. 우주샘의 소용돌이에 그저 몸을 맡긴 채 살아가는 가련한 존재이다.",36516,560,0,True,False,28,960,0,True,False,False
+1130,"지상 보행을 할 수 있는 작은 팔다리가 있으나, 모성이 멸망한 후에는 거의 사용한 적 없다. 안주할 만한 별을 다시 찾으면 멈춰 있던 진화의 시곗바늘이 움직일지도 모른다.",36517,560,0,True,False,28,960,0,True,False,False
+1131,"다리에는 8갈래의 막이 붙어 있고 두뇌는 늘 끓고 있다. 관측조차 어려운 초중력 천체에 있는 누군가가 돌려보낸 것이라 여겨져, 그 기억을 끄집어내려 하지 않는다.",36518,560,0,True,False,28,960,0,True,False,False
+1132,"안구처럼 생긴 몸에서 실처럼 가는 촉수를 뻗는다. 이아 문명이 최전성기일 때 그들이 접촉한 고차원 존재이며, 이 우주를 관측하는 눈이라고도 한다.",36519,560,0,True,False,28,960,0,True,False,False
+1133,"커다랗고 둥근 머리와 꼬리로 갈수록 가늘어지는 몸통을 가졌다. 어떤 문명에 멸망이 다가오면 솟아오르듯 나타나 종말을 경고한다고 한다.",36520,560,0,True,False,28,960,0,True,False,False
+1134,"몸 전체보다도 긴 에테르 날개로 희박한 에테르를 포착해 별 사이를 날아다니는 은하 고래. 알고 보면 식물에 가까운 육체 구조를 지녔다고 한다.",36521,570,0,True,False,28,960,2511,True,True,False
+1135,"",0,0,0,False,False,0,0,0,False,False,False
+1136,"",0,0,0,False,False,0,0,0,False,False,False
+1137,"",6688,36,0,False,False,30,134,0,False,False,False
+1138,"",6689,41,0,False,False,30,134,0,False,False,False
+1139,"",6690,46,0,False,False,30,134,0,False,False,False
+1140,"",6691,50,0,False,False,30,134,0,False,False,False
+1141,"",6692,50,0,False,False,30,134,0,False,False,False
+1142,"",2001398,2,0,False,False,30,155,0,False,False,False
+1143,"",2001410,2,0,False,False,30,156,0,False,False,False
+1144,"",2001422,2,0,False,False,30,155,0,False,False,False
+1145,"",12241,136,0,False,False,30,397,0,False,False,False
+1146,"",12242,150,0,False,False,30,397,0,False,False,False
+1147,"",12243,150,0,False,False,30,397,0,False,False,False
+1148,"",2001889,5,0,False,False,30,137,0,False,False,False
+1149,"",13733,150,0,False,False,30,401,0,False,False,False
+1150,"",13734,180,0,False,False,30,401,0,False,False,False
+1151,"",13631,180,0,False,False,30,401,0,False,False,False
+1152,"",13736,150,0,False,False,30,401,0,False,False,False
+1153,"",13737,150,0,False,False,30,401,0,False,False,False
+1154,"",13738,150,0,False,False,30,401,0,False,False,False
+1155,"",13739,180,0,False,False,30,401,0,False,False,False
+1156,"",13740,150,0,False,False,30,401,0,False,False,False
+1157,"",17594,190,0,False,False,30,401,0,False,False,False
+1158,"",17949,220,0,False,False,30,612,0,False,False,False
+1159,"",17950,260,0,False,False,30,613,0,False,False,False
+1160,"",17952,290,0,False,False,30,613,0,False,False,False
+1161,"",17835,290,0,False,False,30,612,0,False,False,False
+1162,"",17836,290,0,False,False,30,612,0,False,False,False
+1163,"",2002390,5,0,False,False,30,137,0,False,False,False
+1164,"",26750,380,0,False,False,30,816,0,False,False,False
+1165,"",26751,430,0,False,False,30,818,0,False,False,False
+1166,"",22668,150,0,False,False,30,622,0,False,False,False
+1167,"",22669,150,0,False,False,30,622,0,False,False,False
+1168,"",22670,150,0,False,False,30,622,0,False,False,False
+1169,"",22671,150,0,False,False,30,622,0,False,False,False
+1170,"",22672,150,0,False,False,30,622,0,False,False,False
+1171,"",22673,150,0,False,False,30,622,0,False,False,False
+1172,"",22674,150,0,False,False,30,622,0,False,False,False
+1173,"",22675,150,0,False,False,30,622,0,False,False,False
+1174,"",22676,150,0,False,False,30,622,0,False,False,False
+1175,"",22677,150,0,False,False,30,622,0,False,False,False
+1176,"",22678,150,0,False,False,30,622,0,False,False,False
+1177,"",22679,150,0,False,False,30,622,0,False,False,False
+1178,"",22680,150,0,False,False,30,622,0,False,False,False
+1179,"",22681,150,0,False,False,30,622,0,False,False,False
+1180,"",22682,150,0,False,False,30,622,0,False,False,False
+1181,"",22683,150,0,False,False,30,622,0,False,False,False
+1182,"",22684,150,0,False,False,30,622,0,False,False,False
+1183,"",22685,150,0,False,False,30,622,0,False,False,False
+1184,"",22686,150,0,False,False,30,622,0,False,False,False
+1185,"",22687,150,0,False,False,30,622,0,False,False,False
+1186,"",22688,150,0,False,False,30,622,0,False,False,False
+1187,"",22689,150,0,False,False,30,622,0,False,False,False
+1188,"",22690,150,0,False,False,30,622,0,False,False,False
+1189,"",22691,150,0,False,False,30,622,0,False,False,False
+1190,"",22692,150,0,False,False,30,622,0,False,False,False
+1191,"",22693,150,0,False,False,30,622,0,False,False,False
+1192,"",23171,150,0,False,False,30,622,0,False,False,False
+1193,"",26744,430,0,False,False,30,817,0,False,False,False
+1194,"",26745,430,0,False,False,30,818,0,False,False,False
+1195,"",2002869,5,0,False,False,30,137,0,False,False,False
+1196,"",29564,290,0,False,False,30,817,0,False,False,False
+1197,"",29565,290,0,False,False,30,817,0,False,False,False
+1198,"",29566,290,0,False,False,30,817,0,False,False,False
+1199,"",29567,290,0,False,False,30,817,0,False,False,False
+1200,"",29568,290,0,False,False,30,817,0,False,False,False
+1201,"",29569,290,0,False,False,30,817,0,False,False,False
+1202,"",29570,290,0,False,False,30,817,0,False,False,False
+1203,"",29571,290,0,False,False,30,817,0,False,False,False
+1204,"",29572,290,0,False,False,30,817,0,False,False,False
+1205,"",29575,290,0,False,False,30,817,0,False,False,False
+1206,"",29576,290,0,False,False,30,817,0,False,False,False
+1207,"",29577,290,0,False,False,30,817,0,False,False,False
+1208,"",29580,290,0,False,False,30,817,0,False,False,False
+1209,"",29582,290,0,False,False,30,817,0,False,False,False
+1210,"",29583,290,0,False,False,30,817,0,False,False,False
+1211,"",29584,290,0,False,False,30,817,0,False,False,False
+1212,"",29585,290,0,False,False,30,817,0,False,False,False
+1213,"",29586,290,0,False,False,30,817,0,False,False,False
+1214,"",29587,290,0,False,False,30,817,0,False,False,False
+1215,"",29588,290,0,False,False,30,817,0,False,False,False
+1216,"",0,0,0,False,False,0,0,0,False,False,False
+1217,"",0,0,0,False,False,0,0,0,False,False,False
+1218,"",29994,1,0,False,False,30,401,0,False,False,False
+1219,"",29995,1,0,False,False,30,401,0,False,False,False
+1220,"",29996,1,0,False,False,30,401,0,False,False,False
+1221,"",29997,1,0,False,False,30,401,0,False,False,False
+1222,"",29998,150,0,False,False,30,401,0,False,False,False
+1223,"",29999,150,0,False,False,30,401,0,False,False,False
+1224,"",30000,290,0,False,False,30,401,0,False,False,False
+1225,"",30001,290,0,False,False,30,401,0,False,False,False
+1226,"",30002,430,0,False,False,30,401,0,False,False,False
+1227,"",30003,430,0,False,False,30,401,0,False,False,False
+1228,"",30004,430,0,False,False,30,401,0,False,False,False
+1229,"",30005,430,0,False,False,30,401,0,False,False,False
+1230,"",30006,435,0,False,False,30,401,0,False,False,False
+1231,"",30007,435,0,False,False,30,401,0,False,False,False
+1232,"",30008,435,0,False,False,30,401,0,False,False,False
+1233,"",30009,435,0,False,False,30,401,0,False,False,False
+1234,"",30010,435,0,False,False,30,401,0,False,False,True
+1235,"",30011,435,0,False,False,30,401,0,False,False,True
+1236,"",30012,435,0,False,False,30,401,0,False,False,True
+1237,"",30013,435,0,False,False,30,401,0,False,False,True
+1238,"",31578,10,0,False,False,30,401,0,False,False,False
+1239,"",31579,10,0,False,False,30,401,0,False,False,False
+1240,"",31580,10,0,False,False,30,401,0,False,False,False
+1241,"",31581,10,0,False,False,30,401,0,False,False,False
+1242,"",31582,150,0,False,False,30,401,0,False,False,False
+1243,"",31583,150,0,False,False,30,401,0,False,False,False
+1244,"",31584,150,0,False,False,30,401,0,False,False,False
+1245,"",31585,150,0,False,False,30,401,0,False,False,False
+1246,"",31586,150,0,False,False,30,401,0,False,False,False
+1247,"",31587,150,0,False,False,30,401,0,False,False,False
+1248,"",31588,150,0,False,False,30,401,0,False,False,False
+1249,"",31589,150,0,False,False,30,401,0,False,False,False
+1250,"",31590,430,0,False,False,30,401,0,False,False,False
+1251,"",31591,430,0,False,False,30,401,0,False,False,False
+1252,"",31592,430,0,False,False,30,401,0,False,False,False
+1253,"",31593,430,0,False,False,30,401,0,False,False,False
+1254,"",31594,430,0,False,False,30,401,0,False,False,False
+1255,"",31595,430,0,False,False,30,401,0,False,False,False
+1256,"",31596,445,0,False,False,30,401,0,False,False,False
+1257,"",31597,445,0,False,False,30,401,0,False,False,False
+1258,"",31598,445,0,False,False,30,401,0,False,False,False
+1259,"",31599,445,0,False,False,30,401,0,False,False,False
+1260,"",31600,445,0,False,False,30,401,0,False,False,True
+1261,"",31601,445,0,False,False,30,401,0,False,False,True
+1262,"",31602,445,0,False,False,30,401,0,False,False,True
+1263,"",31603,445,0,False,False,30,401,0,False,False,True
+1264,"",32882,10,0,False,False,30,401,0,False,False,False
+1265,"",32883,10,0,False,False,30,401,0,False,False,False
+1266,"",32884,10,0,False,False,30,401,0,False,False,False
+1267,"",32885,10,0,False,False,30,401,0,False,False,False
+1268,"",32886,150,0,False,False,30,401,0,False,False,False
+1269,"",32887,150,0,False,False,30,401,0,False,False,False
+1270,"",32888,150,0,False,False,30,401,0,False,False,False
+1271,"",32889,150,0,False,False,30,401,0,False,False,False
+1272,"",32890,150,0,False,False,30,401,0,False,False,False
+1273,"",32891,150,0,False,False,30,401,0,False,False,False
+1274,"",32892,150,0,False,False,30,401,0,False,False,False
+1275,"",32893,150,0,False,False,30,401,0,False,False,False
+1276,"",32894,430,0,False,False,30,401,0,False,False,False
+1277,"",32895,430,0,False,False,30,401,0,False,False,False
+1278,"",32896,430,0,False,False,30,401,0,False,False,False
+1279,"",32897,430,0,False,False,30,401,0,False,False,False
+1280,"",32898,430,0,False,False,30,401,0,False,False,False
+1281,"",32899,430,0,False,False,30,401,0,False,False,False
+1282,"",32900,485,0,False,False,30,401,0,False,False,False
+1283,"",32901,485,0,False,False,30,401,0,False,False,False
+1284,"",32902,485,0,False,False,30,401,0,False,False,False
+1285,"",32903,485,0,False,False,30,401,0,False,False,False
+1286,"",32904,485,0,False,False,30,401,0,False,False,True
+1287,"",32905,485,0,False,False,30,401,0,False,False,True
+1288,"",32906,485,0,False,False,30,401,0,False,False,True
+1289,"",32907,485,0,False,False,30,401,0,False,False,True
+1290,"",35849,527,0,False,False,30,957,0,False,False,False
+1291,"",35850,560,0,False,False,30,959,0,False,False,False
+1292,"",36611,560,0,False,False,30,960,0,False,False,False
+1293,"",36612,560,0,False,False,30,960,0,False,False,False

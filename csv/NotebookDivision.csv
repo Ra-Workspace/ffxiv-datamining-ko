@@ -17,8 +17,8 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 13,"66-70",0,63,65,0,0,False,True,True,True,True,True,True,True,True
 14,"71-75",0,68,70,0,0,False,True,True,True,True,True,True,True,True
 15,"76-80",0,73,75,0,0,False,True,True,True,True,True,True,True,True
-16,"81-85",0,255,255,0,0,False,True,True,True,True,True,True,True,True
-17,"86-90",0,255,255,0,0,False,True,True,True,True,True,True,True,True
+16,"81-85",0,78,80,0,0,False,True,True,True,True,True,True,True,True
+17,"86-90",0,83,85,0,0,False,True,True,True,True,True,True,True,True
 18,"91-95",0,255,255,0,0,False,True,True,True,True,True,True,True,True
 19,"96-100",0,255,255,0,0,False,True,True,True,True,True,True,True,True
 20,"101-105",0,255,255,0,0,False,True,True,True,True,True,True,True,True
@@ -42,17 +42,17 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 38,"191-195",0,255,255,0,0,False,True,True,True,True,True,True,True,True
 39,"196-200",0,255,255,0,0,False,True,True,True,True,True,True,True,True
 40,"[翻訳不要] レベル区分終端",0,255,255,0,0,False,True,True,True,True,True,True,True,True
-1000,"비전서: 제1권",1,50,255,0,1,True,True,True,True,True,True,True,True,True
-1001,"비전서: 제2권",1,50,255,0,2,True,True,True,True,True,True,True,True,True
-1002,"비전서: 제3권",1,50,255,0,3,True,True,True,True,True,True,True,True,True
-1003,"비전서: 제4권",1,60,255,0,4,True,True,True,True,True,True,True,True,True
+1000,"비전서: 제1권",1,50,255,0,9,True,True,True,True,True,True,True,True,True
+1001,"비전서: 제2권",1,50,255,0,8,True,True,True,True,True,True,True,True,True
+1002,"비전서: 제3권",1,50,255,0,7,True,True,True,True,True,True,True,True,True
+1003,"비전서: 제4권",1,60,255,0,6,True,True,True,True,True,True,True,True,True
 1004,"비전서: 제5권",1,70,255,0,5,True,True,True,True,True,True,True,True,True
-1005,"비전서: 제6권",1,70,255,0,6,True,True,True,True,True,True,True,True,True
-1006,"비전서: 제7권",1,80,255,0,7,True,True,True,True,True,True,True,True,True
-1007,"비전서: 제8권",1,80,255,0,8,True,True,True,True,True,True,True,True,True
-1008,"비전서: 기타",1,15,255,0,9,True,True,True,True,True,True,True,True,True
-1009,"하우징(1)",2,12,255,0,1,False,True,True,True,True,True,True,True,True
-1010,"하우징(2)",2,12,255,0,2,False,True,True,True,True,True,True,True,True
+1005,"비전서: 제6권",1,70,255,0,4,True,True,True,True,True,True,True,True,True
+1006,"비전서: 제7권",1,80,255,0,3,True,True,True,True,True,True,True,True,True
+1007,"비전서: 제8권",1,80,255,0,2,True,True,True,True,True,True,True,True,True
+1008,"비전서: 기타",1,15,255,0,10,True,True,True,True,True,True,True,True,True
+1009,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
+1010,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 1011,"염료",3,30,255,0,1,False,True,True,True,True,True,True,True,True
 1012,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 1013,"클래스 퀘스트",4,61,255,0,1,False,True,True,True,True,True,True,True,True
@@ -74,21 +74,37 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1029,"드워프족 퀘스트",5,70,255,0,4,False,True,True,True,True,True,True,True,True
 1030,"엘 투",6,55,255,0,6,False,True,True,True,True,True,True,True,True
 1031,"부흥 사업(3)",7,20,255,73,3,False,True,True,True,True,True,True,True,True
-1032,"50-60",8,50,255,0,1,False,True,True,True,True,True,True,True,True
-1033,"61-70",8,61,255,0,2,False,True,True,True,True,True,True,True,True
-1034,"71-80",8,70,255,0,3,False,True,True,True,True,True,True,True,True
+1032,"50-60",8,50,255,0,4,False,True,True,True,True,True,True,True,True
+1033,"61-70",8,61,255,0,3,False,True,True,True,True,True,True,True,True
+1034,"71-80",8,70,255,0,2,False,True,True,True,True,True,True,True,True
 1035,"장식",3,50,255,0,3,False,False,False,False,False,False,False,True,False
 1036,"부흥 사업(4)",7,20,255,73,4,False,True,True,True,True,True,True,True,True
 1037,"뒤랑데르 백작",6,55,255,0,7,False,True,True,True,True,True,True,True,True
 1038,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
-2000,"전승록: 커르다스",0,255,50,0,0,False,True,True,True,True,True,True,True,True
-2001,"전승록: 드라바니아",0,255,50,0,0,False,True,True,True,True,True,True,True,True
-2002,"전승록: 아발라시아",0,255,50,0,0,False,True,True,True,True,True,True,True,True
-2003,"전승록: 기라바니아",0,255,60,0,0,False,True,True,True,True,True,True,True,True
-2004,"전승록: 오사드",0,255,60,0,0,False,True,True,True,True,True,True,True,True
-2005,"전승록: 노르브란트",0,255,70,0,0,False,True,True,True,True,True,True,True,True
-2006,"이슈가르드 부흥",0,255,1,74,0,False,True,True,True,True,True,True,True,True
-2007,"하늘강철 도구",0,255,80,69384,0,False,True,True,True,True,True,True,True,True
-2008,"소장품 거래(1)",0,255,50,67631,0,False,True,True,True,True,True,True,True,True
-2009,"소장품 거래(2)",0,255,70,67631,0,False,True,True,True,True,True,True,True,True
-2010,"",0,255,255,0,0,False,True,True,True,True,True,True,True,True
+1039,"81-90",8,80,255,0,1,False,True,True,True,True,True,True,True,True
+1040,"마법대학 거래",4,80,255,69668,5,False,False,True,True,True,False,False,False,False
+1041,"마법대학 거래",4,80,255,69675,6,False,True,False,False,False,True,True,False,False
+1042,"마법대학 거래",4,80,255,69682,7,False,False,False,False,False,False,False,True,True
+1043,"내장재/외장재",2,12,255,0,1,False,True,True,True,True,True,True,True,False
+1044,"조경물",2,12,255,0,2,False,True,True,True,True,True,True,True,True
+1045,"가구",2,12,255,0,3,False,True,True,True,True,True,True,True,True
+1046,"가구(받침대/깔개)",2,12,255,0,4,False,True,True,True,True,True,True,True,False
+1047,"가구(탁상)",2,12,255,0,5,False,True,True,True,True,True,True,True,True
+1048,"가구(벽걸이)",2,12,255,0,6,False,True,True,True,True,True,True,True,False
+1049,"기타",2,12,255,0,7,False,False,False,False,False,False,False,True,False
+1050,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
+2000,"커르다스",10,255,50,0,9,False,True,True,True,True,True,True,True,True
+2001,"드라바니아",10,255,50,0,8,False,True,True,True,True,True,True,True,True
+2002,"아발라시아",10,255,50,0,7,False,True,True,True,True,True,True,True,True
+2003,"기라바니아",10,255,60,0,6,False,True,True,True,True,True,True,True,True
+2004,"오사드",10,255,60,0,5,False,True,True,True,True,True,True,True,True
+2005,"노르브란트",10,255,70,0,4,False,True,True,True,True,True,True,True,True
+2006,"이슈가르드 부흥",11,255,1,74,1,False,True,True,True,True,True,True,True,True
+2007,"하늘강철 도구",11,255,80,69384,2,False,True,True,True,True,True,True,True,True
+2008,"50-70",9,255,50,67631,3,False,True,True,True,True,True,True,True,True
+2009,"71-80",9,255,70,67631,2,False,True,True,True,True,True,True,True,True
+2010,"북해 지역 / 일사바드",10,255,80,0,3,False,True,True,True,True,True,True,True,True
+2011,"외계 우주",10,255,80,69932,2,False,True,True,True,True,True,True,True,True
+2012,"고대세계",10,255,80,69956,1,False,True,True,True,True,True,True,True,True
+2013,"81-90",9,255,80,67631,1,False,True,True,True,True,True,True,True,True
+2014,"",0,255,255,0,0,False,True,True,True,True,True,True,True,True

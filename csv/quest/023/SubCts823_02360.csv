@@ -4,7 +4,7 @@ int32,str,str
 0,"TEXT_SUBCTS823_02360_SEQ_00","비술사 길드마스터 대리인 투뷔르가임은 모험가에게 할 말이 있는 듯하다."
 1,"TEXT_SUBCTS823_02360_SEQ_01","성 코이나크 재단의 야미트라가 편찬한 '소환사'에 대한 논문을 읽은 투뷔르가임은 모험가에게 부탁하고 싶은 일이 있는 듯하다. 비술사 길드 아래층 훈련장에 있는 <Sheet(EObj,2007639,0)/>에서 투뷔르가임을 기다리자."
 2,"TEXT_SUBCTS823_02360_SEQ_02","화염의 에테르가 깃든 카벙클을 무사히 소환하여 투뷔르가임의 실험은 성공리에 끝났다. 비술사 길드에 있는 '투뷔르가임'과 대화하자."
-3,"TEXT_SUBCTS823_02360_SEQ_03","투뷔르가임은 실험을 도와준 모험가 덕분에 마법생물의 새로운 가능성을 발견할 수 있었다며 감사의 뜻을 표했다."
+3,"TEXT_SUBCTS823_02360_SEQ_03","투뷔르가임은 실험을 도와준 모험가 덕분에 마법 생물의 새로운 가능성을 발견할 수 있었다며 감사의 뜻을 표했다."
 4,"TEXT_SUBCTS823_02360_SEQ_04",""
 5,"TEXT_SUBCTS823_02360_SEQ_05",""
 6,"TEXT_SUBCTS823_02360_SEQ_06",""
@@ -87,13 +87,13 @@ int32,str,str
 61,"TEXT_SUBCTS823_02360_THUBYRGEIM_000_018","자, 실험은 이걸로 마치고,
 일단 위로 올라가자."
 62,"TEXT_SUBCTS823_02360_THUBYRGEIM_000_020","오늘은 내 갑작스러운 부탁을 들어줘서 고마웠어.
-네 덕분에 마법생물의 새로운 가능성을 발견할 수 있었어.
+네 덕분에 마법 생물의 새로운 가능성을 발견할 수 있었어.
 그러니 너만 괜찮다면 이 기술을 계속해서 사용해줘."
-63,"TEXT_SUBCTS823_02360_SYSTEM_000_021","명령어 <UIForeground>F20222</UIForeground><Sheet(TextCommand,226,8)/><UIForeground>01</UIForeground>을 실행하면
+63,"TEXT_SUBCTS823_02360_SYSTEM_000_021","명령어 <UIForeground>F20222</UIForeground><Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground>을 실행하면
 에기의 외형을 변경할 수 있습니다."
 64,"TEXT_SUBCTS823_02360_SYSTEM_000_022","예를 들어 가루다 에기의 모습을 카벙클 루비로 변경하고 싶은 경우에는
-<UIForeground>F20222</UIForeground><Sheet(TextCommand,226,8)/><UIForeground>01</UIForeground> ""가루다 에기"" ""카벙클 루비""라고
+<UIForeground>F20222</UIForeground><Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground> ""가루다 에기"" ""카벙클 루비""라고
 입력하면 외형을 변경할 수 있습니다."
 65,"TEXT_SUBCTS823_02360_SYSTEM_000_023","더욱 자세한 설명은
-<UIForeground>F20222</UIForeground>/? <Sheet(TextCommand,226,8)/><UIForeground>01</UIForeground>에서 확인할 수 있습니다.
+<UIForeground>F20222</UIForeground>/? <Sheet(TextCommand,33,8)/><UIForeground>01</UIForeground>에서 확인할 수 있습니다.
 에기를 원하는 외형으로 변경해보세요."

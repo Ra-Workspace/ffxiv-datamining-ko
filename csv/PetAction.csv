@@ -8,7 +8,7 @@ int32,str,str,Image,Action,Pet,bit&01,bit&02,bit&04
 4,"대기","소환수를 그 자리에서 대기시킵니다.",528,0,0,False,True,False
 5,"공격","자신이 공격하거나 공격당하기 전에는 전투를 시작하지 않도록 명령합니다.",531,0,0,False,True,False
 6,"평화","소환수에게 자신이 지시를 내릴 때까지 전투 행동을 하지 않도록 명령합니다.",532,0,0,False,True,False
-7,"자유 전투","소환수가 자유롭게 공격하도록 합니다.",525,0,0,False,True,False
+7,"자유 전투","소환수가 자유롭게 공격하도록 합니다.",786,0,0,True,False,False
 8,"지시 전투","소환수가 자유롭게 공격하도록 합니다. 단, 일부 기술은 명령을 받을 때까지 실행하지 않습니다.",786,0,0,True,False,False
 9,"돌풍","대상에게 바람속성 마법 공격을 가합니다.  <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 90",786,637,1,True,False,False
 10,"날리기","대상에게 바람속성 마법 공격을 가하고 15m 밀쳐냅니다.

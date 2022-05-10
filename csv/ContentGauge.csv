@@ -1,49 +1,62 @@
-﻿key,0,1,2,3,4,5,6,7,8,9
-#,Name,Color,,TextString,,,,,,
-int32,str,ContentGaugeColor,bit&01,str,sbyte,sbyte,byte,sbyte,sbyte,byte
-0,"",0,True,"",-1,1,0,-1,1,0
-1,"",0,False,"",0,0,0,0,0,0
-2,"",0,False,"",0,0,0,0,0,0
-3,"편속성 에테르",4,True,"ContentGaugeMax_negative",80,1,2,-1,1,0
-4,"에테르 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-5,"땅의 계약",3,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-6,"재물",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-7,"매혹적인 포옹",4,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-8,"통제자 하쉬말림의 마력",3,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-9,"바하무트 에테르",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-10,"허무",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-11,"포르돌라의 에테르",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-12,"마티우스의 에테르",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-13,"에테르 가속도",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-14,"현무의 영기",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-15,"인연의 힘",2,False,"",60,1,3,90,1,1
-16,"다운 게이지",3,False,"ContentGaugeMax_positive",30,-1,2,-1,1,0
-17,"원념",1,True,"ContentGaugeMax_negative",50,1,3,80,1,2
-18,"제천대성의 요력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-19,"알테마 에테르",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-20,"귀룡 야즈마트의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-21,"마인 벨리아스의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-22,"신기의 요력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-23,"붉은 선율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-24,"미드가르드오름 에테르",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-25,"메테오 충돌까지",3,True,"ContentGaugeMax_negative",80,1,2,-1,1,0
-26,"흑수정의 마력",1,False,"ContentGaugeMax_negative",50,1,3,80,1,2
-27,"뇌력 집중도",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-28,"성검기",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-29,"청룡의 신통력",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2
-30,"마법 장벽 내구도",2,False,"",30,1,3,50,1,1
-31,"에테르 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-32,"뇌신의 검기",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-33,"티타니아의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-34,"이노센스의 위광",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-35,"고대인의 기도",1,True,"ContentGaugeMax_negative",100,1,2,-1,1,0
-36,"에너지 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-37,"해킹 진행률",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2
-38,"빛의 범람",4,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-39,"에너지 충전율",3,True,"ContentGaugeMax_negative",80,1,2,-1,1,0
-40,"달라가브 에테르 밀도",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-41,"리미트 브레이크",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-42,"마더 포크시의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
-43,"가이아의 기억",2,False,"",35,1,3,50,1,1
-44,"자 다의 영혼 변이율",3,False,"",-1,1,0,-1,1,0
-45,"에테르 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11
+#,,Name,Color,,TextString,,,,,,,
+int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,int16
+0,0,"",0,True,"",-1,1,0,-1,1,0,0
+1,0,"",0,False,"",0,0,0,0,0,0,0
+2,0,"",0,False,"",0,0,0,0,0,0,0
+3,0,"편속성 에테르",4,True,"ContentGaugeMax_negative",80,1,2,-1,1,0,0
+4,0,"에테르 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+5,0,"땅의 계약",3,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+6,0,"재물",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+7,0,"매혹적인 포옹",4,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+8,0,"통제자 하쉬말림의 마력",3,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+9,0,"바하무트 에테르",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+10,0,"허무",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+11,0,"포르돌라의 에테르",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+12,0,"마티우스의 에테르",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+13,0,"에테르 가속도",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+14,0,"현무의 영기",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+15,0,"인연의 힘",2,False,"",60,1,3,90,1,1,0
+16,0,"다운 게이지",3,False,"ContentGaugeMax_positive",30,-1,2,-1,1,0,0
+17,0,"원념",1,True,"ContentGaugeMax_negative",50,1,3,80,1,2,0
+18,0,"제천대성의 요력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+19,0,"알테마 에테르",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+20,0,"귀룡 야즈마트의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+21,0,"마인 벨리아스의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+22,0,"신기의 요력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+23,0,"붉은 선율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+24,0,"미드가르드오름 에테르",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+25,0,"메테오 충돌까지",3,True,"ContentGaugeMax_negative",80,1,2,-1,1,0,0
+26,0,"흑수정의 마력",1,False,"ContentGaugeMax_negative",50,1,3,80,1,2,0
+27,0,"뇌력 집중도",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+28,0,"성검기",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+29,0,"청룡의 신통력",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
+30,0,"마법 장벽 내구도",2,False,"",30,1,3,50,1,1,0
+31,0,"에테르 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+32,0,"뇌신의 검기",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+33,0,"티타니아의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+34,0,"이노센스의 위광",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+35,0,"고대인의 기도",1,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+36,0,"에너지 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+37,0,"해킹 진행률",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
+38,0,"빛의 범람",4,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+39,0,"에너지 충전율",3,True,"ContentGaugeMax_negative",80,1,2,-1,1,0,0
+40,0,"달라가브 에테르 밀도",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+41,0,"리미트 브레이크",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+42,0,"마더 포크시의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+43,0,"가이아의 기억",2,False,"",35,1,3,50,1,1,0
+44,0,"자 다의 영혼 변이율",3,False,"",-1,1,0,-1,1,0,0
+45,0,"에테르 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+46,0,"혼돈",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
+47,0,"절망",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
+48,0,"육합결계 술식",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+49,0,"적군 경계도",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
+50,0,"조디아크의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+51,0,"에테르 충전율",4,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+52,0,"",0,False,"",0,0,0,0,0,0,0
+53,0,"",0,False,"",0,0,0,0,0,0,0
+54,1,"",0,True,"",600,1,0,900,1,0,0
+55,0,"위신수 파프니르의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+56,0,"",0,False,"",0,0,0,0,0,0,0
+57,0,"베네스의 에테르",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
+58,0,"",0,False,"",0,0,0,0,0,0,0
