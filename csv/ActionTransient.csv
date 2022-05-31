@@ -4486,7 +4486,7 @@ HQ 획득률을 올려주는 다른 기술과 함께 사용할 수 없습니다.
 3565,"파티원 1명을 대상으로 20초 동안 적개심 상승을 억제합니다."
 3566,"대상에게 3회 연속으로 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 150"
-3567,"10초 안에 실행하는 다음 단일 대상 무기 기술이 2회 발동됩니다. 단, 추가 효과 및 콤보 보너스는 1번만 발생합니다."
+3567,"10초 안에 실행하는 다음 단일 대상 무기 기술이 2회 발동됩니다. 단, 추가 효과 및 콤보 보너스는 1회만 발생합니다."
 3568,"대상에게 땅속성 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 230"
 3569,"지정한 위치에 24초 동안 지속 회복 영역을 생성합니다.
@@ -5787,11 +5787,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 4593,"아이템을 선별합니다.
 희귀도 상승: 기술력에 따른 기본값×0.5
 손상도 상승: 0
-채집 중에 1번만 사용할 수 있으며, 채집 횟수를 1회 소비합니다."
+채집 중에 한 번만 사용할 수 있으며, 채집 횟수를 1회 소비합니다."
 4594,"아이템을 선별합니다.
 희귀도 상승: 기술력에 따른 기본값×0.5
 손상도 상승: 0
-채집 중에 1번만 사용할 수 있으며, 채집 횟수를 1회 소비합니다."
+채집 중에 한 번만 사용할 수 있으며, 채집 횟수를 1회 소비합니다."
 4595,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>낚시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 직전에 잡은 물고기가 잡히지 않게 만듭니다.
 대상 물고기를 잡은 후 15초 안에 실행해야 합니다.
@@ -11918,7 +11918,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>여행신의 무곡<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>절대음감<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>군신의 찬가<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과 중에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마구 쏘기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 9625,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>시상 4개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여 5초 안에 실행하는 다음 1회의 단일 대상 무기 기술을 2발 발사합니다.
-단, 추가 효과는 1번만 발생합니다.
+단, 추가 효과는 1회만 발생합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>군신의 찬가 시상 4<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
@@ -19311,7 +19311,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 16464,"자신을 제외한 파티원 1명을 대상으로 지정하여, <If(Equal(PlayerParameter(68),21))><If(GreaterThanOrEqualTo(PlayerParameter(72),82))>8<Else/>6</If><Else/>6</If>초 동안 자신에게는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초의 분노<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를, 대상 파티원에게는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초의 분노 대상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>원초의 분노<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신의 물리 공격이 명중하면 HP가 회복됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>원초의 분노<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신의 무기 기술 공격이 명중하면 HP가 회복됩니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 400
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>원초의 분노 대상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 시전한 전사의 회복량 대비 100%만큼 HP를 회복하고, 받는 피해량이 10% 감소합니다.
 <If(Equal(PlayerParameter(68),21))><If(GreaterThanOrEqualTo(PlayerParameter(72),82))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초의 혈조<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초의 혈류<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
@@ -28800,7 +28800,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 24282,""
 24283,"대상에게 무속성 마법 공격을 가하고, 심각인[회복] 대상의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),64))>300<Else/><If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),54))>250<Else/>180</If><Else/>180</If></If><Else/><If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),54))>250<Else/>180</If><Else/>180</If></If>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>심각인[회복] 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>"
 24284,"대상의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>450<Else/>400</If><Else/>400</If>"
 24285,"자신 또는 파티원 1명을 대상으로, 자신에게는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>심각인<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을, 대상에게는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>심각인[회복]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
@@ -28814,7 +28814,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 24289,"대상과 그 주위 적에게 무속성 범위 마법 공격을 가하고, 심각인[회복] 대상의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),64))>400<Else/><If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),54))>330<Else/>230</If><Else/>230</If></If><Else/><If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),54))>330<Else/>230</If><Else/>230</If></If>
 2번째 대상부터는 위력이 30% 감소합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>심각인[회복] 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2
 고유 재사용 대기 시간이 적용됩니다."
 24290,"자신을 강화하여 특정 마법을 변화시킵니다.
@@ -28838,7 +28838,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 24293,"대상에게 30초 동안 무속성 지속 피해를 주고, 심각인[회복] 대상의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),64))>40<Else/><If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),54))>35<Else/>30</If><Else/>30</If></If><Else/><If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),54))>35<Else/>30</If><Else/>30</If></If>
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>심각인[회복] 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 24294,"15초 동안 자신의 공격마법으로 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>심각인[회복]<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 대상에게 발생하는 HP 회복 효과가 50% 증가합니다."
@@ -28848,7 +28848,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600"
 24297,"자신을 중심으로 주위 적에게 무속성 범위 마법 공격을 가하고, 심각인[회복] 대상의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 160
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>심각인[회복] 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>"
 24298,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>의술석 1개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여 15초 동안 자신과 주위 파티원이 받는 피해량을 10% 감소시키고, 자신의 MP를 최대 MP의 7%만큼 회복합니다.
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>타우로콜레<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과와 동시에 부여할 수 없습니다.<If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),78))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상의 HP를 15초 동안 지속적으로 회복합니다.
@@ -28870,7 +28870,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 24304,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>의술침 1개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 소비하여 대상과 그 주위 적에게 무속성 범위 마법 공격을 가하고, 심각인[회복] 대상의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>300<Else/>240</If><Else/>240</If>
 2번째 대상부터는 위력이 50% 감소합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>심각인[회복] 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>"
 24305,"자신 또는 파티원 1명을 대상으로 15초 동안 회복력 300만큼 피해를 흡수하는 보호막을 치고, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>혈액 각인<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 5중첩 부여합니다.
 지속시간 안에 피해를 최대로 흡수하면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>혈액 각인<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 1중첩 소비하여 다시 보호막을 칩니다.
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>혈액 각인<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 지속시간이 끝나면 대상의 HP를 회복합니다.
@@ -28920,7 +28920,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 24317,"자신 또는 파티원 1명을 대상으로, 10초 동안 받는 HP 회복 효과를 20% 증가시킵니다."
 24318,"대상을 향해 전방 직선 범위 무속성 마법 공격을 가하고, 심각인[회복] 대상의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 330
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>심각인 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>심각인[회복] 회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),40))><If(GreaterThanOrEqualTo(PlayerParameter(72),85))>170<Else/>130</If><Else/>130</If>
 2번째 대상부터는 위력이 40% 감소합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신과 반경 20m 안에 있는 파티원의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
@@ -30799,7 +30799,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지
 다른 소환 계열 기술을 실행하면 효과가 사라집니다.
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 카벙클 생존 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>루비의 신비<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-25806,"타이탄 에기를 소환하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>대지의 분노<Else/>바위 쪼개기</If><Else/>바위 쪼개기</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행시키고, 자신에게 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>땅 에테르 4단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
+25806,"타이탄 에기를 소환하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))>대지의 분노<Else/>바위 쪼개기</If><Else/>바위 쪼개기</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행시키고, 자신에게 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>땅 에테르 4단계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
 <If(Equal(PlayerParameter(68),27))><If(GreaterThanOrEqualTo(PlayerParameter(72),50))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>대지의 분노<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상에게 접근한 후 반경 5m 안에 있는 적에게 땅속성 범위 마법 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 600
 2번째 대상부터는 위력이 60% 감소합니다.

@@ -2935,8 +2935,8 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 장갑이 두꺼운 덕에 받는 피해량이 감소하지만, 다리 부위가 파손되어 이동할 수 없다.",15379,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,0,0,False,False,100,0,True,0,False,False,0,0,0,False
 2737,"의식 몽롱","큰 피해를 받아 의식이 몽롱해진 상태.",15380,0,0,1,2,0,0,True,False,True,False,False,False,False,True,True,100,0,False,False,0,0,True,0,False,False,0,30,0,False
 2738,"빈사","빈사 상태. 가까스로 의식을 유지하고 있지만 설 수조차 없다.",17333,0,6,1,2,0,0,False,False,True,False,False,False,False,True,False,0,0,False,False,0,0,True,0,False,False,0,30,0,False
-2739,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2740,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2739,"얼음의 침식","얼음속성 힘에 침식된 상태.",15373,89,0,1,2,17,346,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2740,"불의 침식","불속성 힘에 침식된 상태.",15374,89,0,1,2,17,347,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
 2741,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2742,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2743,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
@@ -2957,20 +2957,21 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2758,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2759,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2760,"강제 빙의","영혼이 다른 사람의 몸에 강제로 빙의된 상태.",15381,69,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,0,False,False,0,2,True,0,False,False,0,0,0,False
-2761,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2761,"어둠의 불꽃","어둠의 불꽃이 타올라, 받는 피해를 무효화하는 상태.
+반대 성질의 불꽃에 닿으면 중첩 수가 감소한다.",17551,0,4,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2762,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2763,"방글방글 저주","방글방글 저주에 걸린 상태. '방글방글 저주'에 의한 피해량이 증가한다.",17311,89,8,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2764,"부글부글 저주","부글부글 저주에 걸린 상태. '부글부글 저주'에 의한 피해량이 증가한다.",17471,89,8,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2765,"샘솟는 지혜 시전 가능","샘솟는 지혜를 실행할 수 있는 상태.",16019,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,False,0,0,0,False
 2766,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,False,0,15,0,False
-2767,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2767,"먹잇감 각인","같은 각인이 찍힌 동료가 곁에 없으면 피해가 증가하는 상태.",15729,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2768,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2769,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2770,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2771,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2772,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2773,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2774,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2774,"물독","물속성 피해로 HP가 서서히 줄어드는 상태.",15529,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,10,0,False,False,10,0,False,0,False,False,0,0,0,False
 2775,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2776,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2777,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
@@ -2995,7 +2996,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2796,"진 경계","받는 피해량이 감소하는 상태.",10151,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-20,0,False,0,False,False,0,0,0,False
 2797,"진 철벽 방어","받는 피해량이 감소하는 상태.",10152,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,False,0,False,False,0,0,0,False
 2798,"진 앙갚음","적에게 주는 피해량이 감소하는 상태.",13103,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,0,False,False,-10,0,False,0,False,False,0,0,0,False
-2799,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2799,"에테르 흡수","에테르를 흡수해서 축적하는 상태.",15429,0,0,1,1,16,361,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2800,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2801,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2802,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False

@@ -25,7 +25,7 @@ int32,str,str
 21,"TEXT_AKTKLA407_04159_SEQ_21",""
 22,"TEXT_AKTKLA407_04159_SEQ_22",""
 23,"TEXT_AKTKLA407_04159_SEQ_23",""
-24,"TEXT_AKTKLA407_04159_TODO_00","<If(Equal(PlayerParameter(68),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>하부 아크린토스 부근의 암반에서 <Sheet(Item,35848,0)/> 깨기<Else/>심사의 전당에 있는 탄킨에게 <Sheet(Item,35848,0)/> 납품</If><Else/><If(Equal(PlayerParameter(68),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>메리올 실험 농장 부근의 약초밭에서 <Sheet(Item,35848,0)/> 채집<Else/>심사의 전당에 있는 탄킨에게 <Sheet(Item,35848,0)/> 납품</If><Else/><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>광부 또는 원예가가 되어
+24,"TEXT_AKTKLA407_04159_TODO_00","<If(Equal(PlayerParameter(68),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>하부 아크린토스 부근의 암반에서 <Sheet(Item,35848,0)/> 캐기<Else/>심사의 전당에 있는 탄킨에게 <Sheet(Item,35848,0)/> 납품</If><Else/><If(Equal(PlayerParameter(68),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>메리올 실험 농장 부근의 약초밭에서 <Sheet(Item,35848,0)/> 채집<Else/>심사의 전당에 있는 탄킨에게 <Sheet(Item,35848,0)/> 납품</If><Else/><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>광부 또는 원예가가 되어
 <Sheet(Item,35848,0)/> 채집<Else/>광부 또는 원예가가 되어
 심사의 전당에 있는 탄킨에게 <Sheet(Item,35848,0)/> 납품</If></If></If>"
 25,"TEXT_AKTKLA407_04159_TODO_01","히나게시에게 <Sheet(EventItem,2003098,0)/> 전달"
