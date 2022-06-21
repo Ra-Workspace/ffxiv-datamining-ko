@@ -2724,7 +2724,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 헨젤과 그레텔이 가까워지면, 창과 방패 강화 상태가 된다.",15361,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,0,False,False,-50,0,False,0,False,False,0,0,0,False
 2539,"창과 방패 강화","헨젤과 그레텔이 가까워져 창과 방패가 강화되고, 받는 피해량이 감소한 상태.
 측면공격과 후방공격을 반사한다.",15362,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,0,False,False,50,0,False,0,False,False,0,0,0,False
-2540,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2540,"냉각","냉각되고 있는 상태. 효과가 끝날 때까지 계속 움직이지 않으면 빙결 상태가 된다.",15355,0,0,1,2,17,284,False,False,False,False,False,False,False,False,False,99,0,False,False,0,0,True,0,False,False,0,23,0,False
 2541,"不浄の侵食","不浄に侵食されつつある状態。カウント0で不浄の恐怖状態に陥り、対象から離れようとしてしまう。",15363,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
 2542,"不浄の恐怖","不浄の恐怖で行動できなくなり、対象から離れようとしてしまう状態。",15364,0,0,1,2,17,0,False,False,True,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2543,"연체화","물렁해진 상태. 이동 속도가 느려지고 점프와 기술을 실행할 수 없다.",16214,69,0,1,1,16,0,False,False,False,False,True,False,False,False,False,100,0,False,False,0,2,True,0,False,False,0,0,0,False
@@ -2937,11 +2937,11 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2738,"빈사","빈사 상태. 가까스로 의식을 유지하고 있지만 설 수조차 없다.",17333,0,6,1,2,0,0,False,False,True,False,False,False,False,True,False,0,0,False,False,0,0,True,0,False,False,0,30,0,False
 2739,"얼음의 침식","얼음속성 힘에 침식된 상태.",15373,89,0,1,2,17,346,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
 2740,"불의 침식","불속성 힘에 침식된 상태.",15374,89,0,1,2,17,347,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
-2741,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2742,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2743,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2744,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2745,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2741,"시한부 사슬","빛속성과 불속성 에테르가 깃든 마법 사슬에 묶인 상태.",15372,0,0,1,2,17,352,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2742,"근거리 사슬","가까이 있는 사람들과 마력 사슬로 묶이기 시작한 상태.",15375,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2743,"원거리 사슬","멀리 있는 사람들과 마력 사슬로 묶이기 시작한 상태.",15377,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2744,"근거리 사슬: 발동","가까이 있는 사람들과 마력 사슬로 묶인 상태.",15376,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2745,"원거리 사슬: 발동","멀리 있는 사람들과 마력 사슬로 묶인 상태.",15378,0,0,1,2,17,330,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
 2746,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2747,"","",0,0,0,1,1,0,351,False,False,False,False,False,False,False,True,True,0,0,True,False,0,35,True,0,False,False,0,0,0,False
 2748,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
@@ -2959,18 +2959,19 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2760,"강제 빙의","영혼이 다른 사람의 몸에 강제로 빙의된 상태.",15381,69,0,1,1,16,0,False,False,False,False,False,False,False,True,True,100,0,False,False,0,2,True,0,False,False,0,0,0,False
 2761,"어둠의 불꽃","어둠의 불꽃이 타올라, 받는 피해를 무효화하는 상태.
 반대 성질의 불꽃에 닿으면 중첩 수가 감소한다.",17551,0,4,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
-2762,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2762,"죽음의 운명","죽어야만 하는 상태.
+죽을 만한 고통을 받으면 살아남을 수 있다.",17556,0,4,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,25,0,False
 2763,"방글방글 저주","방글방글 저주에 걸린 상태. '방글방글 저주'에 의한 피해량이 증가한다.",17311,89,8,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2764,"부글부글 저주","부글부글 저주에 걸린 상태. '부글부글 저주'에 의한 피해량이 증가한다.",17471,89,8,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2765,"샘솟는 지혜 시전 가능","샘솟는 지혜를 실행할 수 있는 상태.",16019,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,2,False,False,0,0,True,0,False,False,0,0,0,False
 2766,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,0,0,True,False,0,0,False,0,False,False,0,15,0,False
 2767,"먹잇감 각인","같은 각인이 찍힌 동료가 곁에 없으면 피해가 증가하는 상태.",15729,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
-2768,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2769,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2770,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2771,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2772,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2773,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2768,"격류의 각인","격류의 각인이 찍힌 상태. 효과가 끝나면 자신을 중심으로 범위 공격이 발생한다.",15903,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2769,"중압의 각인","중압의 각인이 찍힌 상태. 효과가 끝나면 자신을 중심으로 범위 공격이 발생한다.",15696,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2770,"격동의 각인: 전","격동의 각인이 찍힌 상태. 효과가 끝나면 앞으로 밀려간다.",15387,0,0,1,2,17,318,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2771,"격동의 각인: 후","격동의 각인이 찍힌 상태. 효과가 끝나면 뒤로 밀려간다.",15387,0,0,1,2,17,319,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2772,"격동의 각인: 좌","격동의 각인이 찍힌 상태. 효과가 끝나면 왼쪽으로 밀려간다.",15387,0,0,1,2,17,321,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2773,"격동의 각인: 우","격동의 각인이 찍힌 상태. 효과가 끝나면 오른쪽으로 밀려간다.",15387,0,0,1,2,17,320,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2774,"물독","물속성 피해로 HP가 서서히 줄어드는 상태.",15529,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,10,0,False,False,10,0,False,0,False,False,0,0,0,False
 2775,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2776,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
@@ -2997,11 +2998,11 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2797,"진 철벽 방어","받는 피해량이 감소하는 상태.",10152,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,-10,0,False,0,False,False,0,0,0,False
 2798,"진 앙갚음","적에게 주는 피해량이 감소하는 상태.",13103,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,0,False,False,-10,0,False,0,False,False,0,0,0,False
 2799,"에테르 흡수","에테르를 흡수해서 축적하는 상태.",15429,0,0,1,1,16,361,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
-2800,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2801,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2802,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2803,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2804,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2800,"_rsv_2800_-1_6_C0_0Status","_rsv_2800_-1_6_C1_0Status",15430,0,0,1,1,16,362,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2801,"_rsv_2801_-1_6_C0_0Status","_rsv_2801_-1_6_C1_0Status",15431,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,False,0,0,0,False
+2802,"_rsv_2802_-1_6_C0_0Status","_rsv_2802_-1_6_C1_0Status",15432,0,0,1,2,17,35,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2803,"_rsv_2803_-1_6_C0_0Status","_rsv_2803_-1_6_C1_0Status",15433,0,0,1,2,17,59,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2804,"_rsv_2804_-1_6_C0_0Status","_rsv_2804_-1_6_C1_0Status",15386,0,0,1,2,17,317,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2805,"행복당근","거대한 행복당근을 먹고 배가 부른 상태. 왠지 행복해져서 또 먹고 싶다.",16242,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2806,"쌩쌩당근","거대한 쌩쌩당근을 먹고 배가 부른 상태. 왠지 머리 회전이 빨라진 기분이다.",16243,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2807,"행운당근","거대한 행운당근을 먹고 배가 부른 상태. 왠지 운이 좋아진 기분이다.",16244,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
@@ -3032,10 +3033,14 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2832,"어둠의 주박","이동이 불가능한 상태.",15408,0,0,1,2,12,5,False,True,False,False,False,False,False,False,True,200,0,False,False,0,0,True,0,False,False,0,0,0,False
 2833,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2834,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2835,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2836,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2837,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2838,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2835,"방향 전환: 앞","방향을 전환하기 위해 자세를 잡은 상태.
+머리꼬리 자세 또는 꼬리머리 자세 실행 시점의 방향을 기준으로, 앞쪽을 향해 공격한다.",15423,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2836,"방향 전환: 뒤","방향을 전환하기 위해 자세를 잡은 상태.
+머리꼬리 자세 또는 꼬리머리 자세 실행 시점의 방향을 기준으로, 뒤쪽을 향해 공격한다.",15424,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,False,0,False,False,0,0,0,False
+2837,"방향 전환: 좌","방향을 전환하기 위해 자세를 잡은 상태.
+머리꼬리 자세 또는 꼬리머리 자세 실행 시점의 방향을 기준으로, 왼쪽을 향해 공격한다.",15425,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,198,0,False,False,0,0,False,0,False,False,0,0,0,False
+2838,"방향 전환: 우","방향을 전환하기 위해 자세를 잡은 상태.
+머리꼬리 자세 또는 꼬리머리 자세 실행 시점의 방향을 기준으로, 오른쪽을 향해 공격한다.",15426,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,197,0,False,False,0,0,False,0,False,False,0,0,0,False
 2839,"수둔술","숨어있지 않아도 '은신술'이 필요한 기술을 실행할 수 있는 상태.",12906,74,0,1,1,16,0,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,True,0,False,False,0,0,0,False
 2840,"변덕쟁이: 오른쪽","변덕을 부려 오른쪽을 보려는 상태.",15425,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2841,"변덕쟁이: 왼쪽","변덕을 부려 왼쪽을 보려는 상태.",15426,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
@@ -3049,7 +3054,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2849,"","",0,0,0,1,2,0,0,True,False,True,False,False,False,False,False,False,100,0,True,False,0,4,False,0,False,False,0,0,0,False
 2850,"","",0,0,0,1,1,0,0,True,False,True,True,False,False,False,False,True,0,0,True,False,0,0,True,0,False,False,0,30,0,False
 2851,"이벤트 중","이벤트가 발생한 상태.",15765,0,0,1,1,0,0,False,False,True,True,False,False,False,True,True,100,0,False,False,0,4,True,0,False,False,0,0,0,False
-2852,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2852,"받는 회복 감소","받는 HP 회복 효과가 감소하는 상태.",15427,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,-30,0,True,0,False,False,0,0,0,False
 2853,"산 쪼개기 시전 가능","산 쪼개기를 실행할 수 있는 상태.",12698,0,0,28,1,16,0,False,False,False,False,False,False,False,True,False,0,2,False,False,0,0,False,0,False,False,0,0,0,False
 2854,"요마의 낫","<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>효수형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>교수형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>참수형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행할 수 있는 상태.",17097,0,2,180,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,27,True,0,False,False,0,0,0,False
 2855,"효수형 효과 향상","다음에 실행하는 효수형의 위력이 증가하는 상태.",12927,0,0,180,1,16,0,False,False,False,False,False,False,False,False,False,0,2,False,False,0,0,True,0,False,False,0,0,0,False
@@ -3083,12 +3088,12 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2882,"被物理ダメージ増加","受ける物理ダメージが増加する状態。",15053,36,0,1,2,17,0,False,False,False,False,False,False,False,True,True,0,0,False,False,10,0,False,0,False,False,0,0,0,False
 2883,"スロウ","オートアタックの攻撃間隔と、ウェポンスキルおよび魔法のキャストタイムとリキャストタイムが延長された状態。",15009,5,0,1,2,13,0,False,False,False,False,False,False,False,True,True,0,0,False,False,15,0,False,0,False,False,0,0,0,False
 2884,"ＨＰ自然回復無効","ＨＰ自然回復が無効化された状態。",16825,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,14,False,0,False,False,0,0,0,False
-2885,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2886,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2887,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2888,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2889,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2890,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2885,"근거리 사슬","가까이 있는 사람들과 마력 사슬로 묶이기 시작한 상태.",15375,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2886,"근거리 사슬","가까이 있는 사람들과 마력 사슬로 묶이기 시작한 상태.",15375,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2887,"근거리 사슬","가까이 있는 사람들과 마력 사슬로 묶이기 시작한 상태.",15375,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2888,"원거리 사슬","멀리 있는 사람들과 마력 사슬로 묶이기 시작한 상태.",15377,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2889,"원거리 사슬","멀리 있는 사람들과 마력 사슬로 묶이기 시작한 상태.",15377,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2890,"원거리 사슬","멀리 있는 사람들과 마력 사슬로 묶이기 시작한 상태.",15377,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
 2891,"작살꾼의 직감","작살질로 잡을 수 있는 희귀 어류의 기척을 느낀 상태.
 특수 조건에 따라 출현하는 어류가 나타날 가능성이 있다.",11101,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,0,0,False
 2892,"","",0,89,0,1,2,0,0,True,False,True,True,False,False,False,False,True,0,0,True,False,0,4,True,0,False,False,0,30,0,False
@@ -3104,7 +3109,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2902,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2903,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2904,"현상 기록","다음에 일어날 현상을 기록하는 상태.",15382,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,False,0,False,False,0,0,0,False
-2905,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2905,"반전 모드","거꾸로 싸움으로써 공격 범위가 뒤집힌 상태.",15422,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
 2906,"●偽神獣の猛毒","●グレイプニルの攻撃によって付与された毒。特定の攻撃を受ける度に毒が進化し、様々な弱体効果へと変化する。",15841,0,0,1,2,17,35,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2907,"티소나의 벽","받는 피해량을 줄여주는 보호막을 발생시킨 상태.",12512,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,0,False,False,-10,0,False,0,False,False,0,0,0,False
 2908,"티소나의 벽 대상","받는 피해량이 감소하는 상태.",12513,0,0,1,1,16,0,False,False,False,False,False,False,False,False,True,0,0,False,False,-10,0,False,0,False,False,0,0,0,False
@@ -3122,21 +3127,21 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2920,"감전","번개속성 피해로 HP가 서서히 줄어드는 상태.",15528,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,100,0,False,False,10,0,False,0,False,False,0,0,0,False
 2921,"물독","물속성 피해로 HP가 서서히 줄어드는 상태.",15529,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,100,0,False,False,10,0,False,0,False,False,0,0,0,False
 2922,"고통","무속성 피해로 HP가 서서히 줄어드는 상태.",15530,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,100,0,False,False,10,0,False,0,False,False,0,0,0,False
-2923,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2924,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2925,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2926,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2927,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2928,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2929,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2923,"근거리 사슬","가까이 있는 사람들과 마력 사슬로 묶이기 시작한 상태.",15375,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2924,"원거리 사슬","멀리 있는 사람들과 마력 사슬로 묶이기 시작한 상태.",15377,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
+2925,"_rsv_2925_-1_6_C0_0Status","_rsv_2925_-1_6_C1_0Status",15434,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2926,"_rsv_2926_-1_6_C0_0Status","_rsv_2926_-1_6_C1_0Status",15435,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2927,"_rsv_2927_-1_6_C0_0Status","_rsv_2927_-1_6_C1_0Status",15436,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
+2928,"영검의 불꽃","대상의 능력을 활성화하는 불꽃을 받은 상태. 주는 피해량과 주는 회복량이 증가한다.",15383,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,200,0,False,False,100,0,False,0,False,False,0,0,0,False
+2929,"영검의 불꽃[약]","대상의 능력을 활성화하는 불꽃을 받은 상태. 주는 회복량이 증가한다.",15383,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,200,0,False,False,100,0,False,0,False,False,0,0,0,False
 2930,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2931,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2932,"부대 혜택: 도시 내 전력 질주 연장","도시 안에서 전력 질주를 사용하면 지속시간이 연장되는 상태.",16520,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,1,False,False,0,0,True,0,True,False,0,0,0,False
 2933,"이벤트 중","이벤트가 발생한 상태.",15765,0,0,1,1,0,344,False,False,True,True,False,False,False,True,True,100,0,False,False,0,0,True,0,False,False,0,0,0,False
 2934,"●強制稼働","●未完成の状態だが強制的に短時間稼働している状態。効果時間中は破壊されない。",15910,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2935,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2935,"지속 피해","무속성 피해로 HP가 서서히 줄어드는 상태.",15067,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,100,0,False,False,10,0,False,0,False,False,0,0,0,False
 2936,"심신상실","심신상실로 인하여 손가락 커서가 가리키는 방향을 따라 움직이게 되는 상태.",15809,0,0,1,2,17,43,False,False,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,False,0,0,0,False
-2937,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2937,"불속성 저항 감소[강]","불속성 저항이 크게 떨어진 상태.",15595,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,-12,0,False,0,False,False,0,0,0,False
 2938,"케이라콜레[회복]","지속적으로 HP가 회복되는 상태.",12970,0,0,181,1,16,0,False,False,False,False,False,False,False,False,False,5,0,False,True,10,0,False,0,False,False,0,0,0,False
 2939,"표식","표적으로 점찍힌 상태.",15026,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,False,0,0,0,False
 2940,"받는 물리 피해량 증가","물리 공격으로 받는 피해량이 증가하는 상태.",15053,36,0,1,2,17,0,False,False,False,False,False,False,False,False,False,50,0,False,False,10,0,False,0,False,False,0,0,0,False
@@ -3172,7 +3177,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2968,"개두술","착란을 일으켜 아군을 공격하는 상태.
 육체가 지나치게 활성화되어 HP가 서서히 줄어든다.",15843,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,200,0,False,False,10,0,True,0,False,False,0,0,0,False
 2969,"현자의 지혜","현자의 지혜로 심신이 보호받는 상태. 개두술을 무효화한다.",15897,0,0,1,1,16,0,False,False,False,False,False,False,False,True,False,200,0,False,False,0,0,True,0,False,False,0,0,0,False
-2970,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2970,"","",0,0,0,1,1,0,0,False,False,False,False,False,False,False,False,True,0,0,True,False,0,28,True,0,False,False,0,0,0,False
 2971,"최대 HP 감소","HP 최대치가 감소한 상태.",15076,6,0,1,2,17,0,False,False,False,False,False,False,True,False,False,50,0,False,False,-10,0,False,0,False,False,0,0,0,False
 2972,"죽음의 공물","자신이 공양의 원을 부여한 대상에게서 죽음의 공물을 얻을 수 있는 상태.",12938,0,0,180,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,True,0,False,False,0,0,0,False
 2973,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
@@ -3185,7 +3190,7 @@ HP가 완전히 회복되면 해제된다.",15895,0,0,1,2,17,0,False,False,False
 2980,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2981,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2982,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
-2983,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
+2983,"수면","잠에 빠져 행동이 불가능한 상태.",15013,1,0,1,2,2,0,True,False,True,False,False,False,False,True,False,100,0,False,False,0,0,False,0,False,False,0,3,0,False
 2984,"","",0,0,0,1,1,0,368,False,False,False,False,False,False,False,True,True,0,0,True,False,0,35,True,0,False,False,0,0,0,False
 2985,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False
 2986,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,False,0,0,0,False

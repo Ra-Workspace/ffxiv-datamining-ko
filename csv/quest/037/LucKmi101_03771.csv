@@ -53,8 +53,8 @@ int32,str,str
 46,"TEXT_LUCKMI101_03771_TODO_22",""
 47,"TEXT_LUCKMI101_03771_TODO_23",""
 48,"TEXT_LUCKMI101_03771_SYSTEM_000_000","이 퀘스트를 진행하려면
-퀘스트 '드디어 내 초코보를!（<If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If>）'을
-완료해야 합니다."
+다음 퀘스트를 완료해야 합니다.
+드디어 내 초코보를!（<If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If>）"
 49,"TEXT_LUCKMI101_03771_SYSTEM_000_001","퀘스트 '드디어 내 초코보를!（<If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If>）'은
 <If(GreaterThan(PlayerParameter(52),0))>'흑와단 대령 르아샤'에게<Else/></If><If(GreaterThan(PlayerParameter(53),0))>'쌍사당 대령 보르셀'에게<Else/></If><If(GreaterThan(PlayerParameter(54),0))>'불멸대 대령 스위프트'에게<Else/></If>
 받을 수 있습니다."
@@ -67,8 +67,8 @@ int32,str,str
 52,"TEXT_LUCKMI101_03771_SYSTEM_000_004","연대기 퀘스트: 크리스탈 타워의 진행 상황은
 '퀘스트' 메뉴에서 확인할 수 있습니다."
 53,"TEXT_LUCKMI101_03771_SYSTEM_000_005","이 퀘스트를 진행하려면
-퀘스트 '드디어 내 초코보를!（<If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If>）'을
-완료해야 합니다."
+다음 퀘스트를 완료해야 합니다.
+드디어 내 초코보를!（<If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If>）"
 54,"TEXT_LUCKMI101_03771_SYSTEM_000_006","퀘스트 '드디어 내 초코보를!（<If(GreaterThan(PlayerParameter(52),0))>흑와단<Else/></If><If(GreaterThan(PlayerParameter(53),0))>쌍사당<Else/></If><If(GreaterThan(PlayerParameter(54),0))>불멸대<Else/></If>）'은
 <If(GreaterThan(PlayerParameter(52),0))>'흑와단 대령 르아샤'에게<Else/></If><If(GreaterThan(PlayerParameter(53),0))>'쌍사당 대령 보르셀'에게<Else/></If><If(GreaterThan(PlayerParameter(54),0))>'불멸대 대령 스위프트'에게<Else/></If>
 받을 수 있습니다."

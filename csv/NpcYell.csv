@@ -17993,14 +17993,15 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 12936,0,False,False,False,3,4,False,False,1,"내 저주를 받아라"
 12937,0,False,False,False,3,4,False,False,1,"에테르에 잡아먹혀라!"
 12938,0,False,False,False,3,4,False,False,1,"놓치지 않겠다…!"
-12939,0,False,False,False,0,0,False,False,0,""
-12940,0,False,False,False,0,0,False,False,0,""
-12941,0,False,False,False,0,0,False,False,0,""
-12942,0,False,False,False,0,0,False,False,0,""
-12943,0,False,False,False,0,0,False,False,0,""
-12944,0,False,False,False,0,0,False,False,0,""
-12945,0,False,False,False,0,0,False,False,0,""
-12946,0,False,False,False,0,0,False,False,0,""
+12939,0,False,False,False,3,4,False,False,1,"망토여, 펄럭여라!"
+12940,0,False,False,False,3,4,False,False,1,"저주는 이렇게
+이용할 수도 있지…!"
+12941,0,False,False,False,3,4,False,False,1,"뒹굴어 보아라!"
+12942,0,False,False,False,3,4,False,False,1,"_rsv_12942_-1_6_C0_0NpcYell"
+12943,0,False,False,False,3,4,False,False,1,"_rsv_12943_-1_6_C0_0NpcYell"
+12944,0,False,False,False,3,4,False,False,1,"_rsv_12944_-1_6_C0_0NpcYell"
+12945,0,False,False,False,3,4,False,False,1,"_rsv_12945_-1_6_C0_0NpcYell"
+12946,0,False,False,False,3,4,False,False,1,"_rsv_12946_-1_6_C0_0NpcYell"
 12947,0,False,False,False,2,4,False,False,1,"고마워…"
 12948,0,False,False,False,2,4,False,False,1,"살았다…!"
 12949,0,False,False,False,2,4,False,False,1,"집에 갈 수 있어…?"
@@ -18069,35 +18070,64 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 미끌미끌해져야지~!"
 12986,0,False,False,False,2,4,False,False,1,"후욱,후욱!
 무스 점액을 제게 주세요!"
-12987,0,False,False,False,0,0,False,False,0,""
-12988,0,False,False,False,0,0,False,False,0,""
-12989,0,False,False,False,0,0,False,False,0,""
-12990,0,False,False,False,0,0,False,False,0,""
-12991,0,False,False,False,0,0,False,False,0,""
-12992,0,False,False,False,0,0,False,False,0,""
-12993,0,False,False,False,0,0,False,False,0,""
-12994,0,False,False,False,0,0,False,False,0,""
-12995,0,False,False,False,0,0,False,False,0,""
-12996,0,False,False,False,0,0,False,False,0,""
-12997,0,False,False,False,0,0,False,False,0,""
-12998,0,False,False,False,0,0,False,False,0,""
-12999,0,False,False,False,0,0,False,False,0,""
-13000,0,False,False,False,0,0,False,False,0,""
-13001,0,False,False,False,0,0,False,False,0,""
-13002,0,False,False,False,0,0,False,False,0,""
-13003,0,False,False,False,0,0,False,False,0,""
-13004,0,False,False,False,0,0,False,False,0,""
-13005,0,False,False,False,0,0,False,False,0,""
-13006,0,False,False,False,0,0,False,False,0,""
-13007,0,False,False,False,0,0,False,False,0,""
-13008,0,False,False,False,0,0,False,False,0,""
-13009,0,False,False,False,0,0,False,False,0,""
-13010,0,False,False,False,0,0,False,False,0,""
-13011,0,False,False,False,0,0,False,False,0,""
-13012,0,False,False,False,0,0,False,False,0,""
-13013,0,False,False,False,0,0,False,False,0,""
-13014,0,False,False,False,0,0,False,False,0,""
-13015,0,False,False,False,0,0,False,False,0,""
+12987,0,False,False,False,2,3,False,False,1,"자~!
+익사이트한 시간이에요~!"
+12988,0,False,False,False,2,3,False,False,1,"저를 부수면
+상을 줄게요!"
+12989,0,False,False,False,2,3,False,False,1,"빨리 부숴주세요~!
+두근두근해~!"
+12990,0,False,False,False,2,3,False,False,1,"어서요, 망설이지 말고!
+부, 숴, 주, 세, 요~!"
+12991,0,False,False,False,2,3,False,False,1,"앗… 무시하다니…
+시무룩…"
+12992,0,False,False,False,2,3,False,False,1,"우와~!
+멋져요, 부숴줘요~!"
+12993,0,False,False,False,2,3,False,False,1,"좋은 공격이에요~!
+부숴봐요~!"
+12994,0,False,False,False,2,3,False,False,1,"더 공격하세요~!
+더, 더~!"
+12995,0,False,False,False,2,3,False,False,1,"덕분에 존재 의의를 다했습니다!
+고마워요~!"
+12996,0,False,False,False,2,3,False,False,1,"안타깝네요~!
+그럼 안녕~!"
+12997,0,False,False,False,2,3,False,False,1,"위잉…!
+출격합니다~!"
+12998,0,False,False,False,2,3,False,False,1,"잘 부탁해요…!
+즐겁게 싸웁시다!"
+12999,0,False,False,False,2,3,False,False,1,"저도 온 힘을 다해…
+죽일 각오로 싸울 테니!"
+13000,0,False,False,False,2,3,False,False,1,"불행하더라도
+피차일반이에요…!"
+13001,0,False,False,False,2,3,False,False,1,"앗… 그렇게…
+취급도 안 해주시다니…"
+13002,0,False,False,False,2,3,False,False,1,"영차!
+죽여죽여죽여버리겠어~!"
+13003,0,False,False,False,2,3,False,False,1,"어이, 덤벼!
+이쪽으로 오라고~!"
+13004,0,False,False,False,2,3,False,False,1,"온 힘을 다해서~!
+으랴아아아아압!"
+13005,0,False,False,False,2,3,False,False,1,"아아… 끝…
+이군요… 안… 녕…"
+13006,0,False,False,False,3,5,False,False,1,"시스템 기동…
+요격 행동을 시작합니다…"
+13007,0,False,False,False,3,4,False,False,1,"빙글빙글 반전…
+회전합니다~!"
+13008,0,False,False,False,3,4,False,False,1,"너무 돌아서
+눈이 핑핑~!"
+13009,0,False,False,False,3,5,False,False,1,"내 말이 곧 진실이니
+거짓에 물든 자를 벌하리라"
+13010,0,False,False,False,3,7,False,False,1,"계속 움직이는 자를
+벌하리라…"
+13011,0,False,False,False,3,7,False,False,1,"움직임을 멈추는 자를
+벌하리라…"
+13012,0,False,False,False,3,7,False,False,1,"내게 다가오는 자를
+벌하리라…"
+13013,0,False,False,False,3,7,False,False,1,"내게서 멀어지는 자를
+벌하리라…"
+13014,0,False,False,False,3,5,False,False,1,"남을 외면하는 자를
+벌하리라…"
+13015,0,False,False,False,3,5,False,False,1,"남에게 의존하는 자를
+벌하리라…"
 13016,0,False,False,False,2,4,False,False,1,"그래…
 이 감정이야…!"
 13017,0,False,False,False,2,4,False,False,1,"한때 나는 싸웠었지…
@@ -18490,7 +18520,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,str
 이제 반격하죠!"
 13238,0,False,False,False,5,1,False,False,5,"후우…… 진정하고 떠올려 보자…….
 사나운 뿔, 조각상 같은 육체, 마력이 담긴 눈을……!"
-13239,0,False,False,False,5,1,False,False,5,"이것이 나의 진정힌 신작, 원형 키클롭스다!
+13239,0,False,False,False,5,1,False,False,5,"이것이 나의 진정한 신작, 원형 키클롭스다!
 어떠한 힘을 지니고 있는지, 마음껏 싸워보게!"
 13240,0,False,False,False,5,1,False,False,5,"이런, 내 신작을 쓰러뜨리다니…….
 자네도 꽤 훌륭한 사역마군!"
