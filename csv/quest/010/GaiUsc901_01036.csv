@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_GAIUSC901_01036_SEQ_00","모래의 집에 있는 민필리아는 대규모 작전을 설명하려는 듯하다."
-1,"TEXT_GAIUSC901_01036_SEQ_01","드디어 '열두 현자의 행진'이 시작되었다. 우선 저녁별 만 북쪽 '불멸대 주둔지'에서 '동맹군 연락 장교'와 대화하자."
+1,"TEXT_GAIUSC901_01036_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 모래의 집에 있는 '민필리아'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_GAIUSC901_01036_SEQ_02","불멸대는 먼저 출발한 모양이다. 제국군 전초기지 문앞에 가서 '불멸대 소위 아달버트'와 대화하자."
 3,"TEXT_GAIUSC901_01036_SEQ_03","작전이 시작되었다. 제국군 전초기지 안에 있는 문을 만지자."
 4,"TEXT_GAIUSC901_01036_SEQ_04","기지 문이 열렸다. 제국군 전초기지로 진격하여 리트아틴을 토벌하자.
@@ -27,12 +29,18 @@ int32,str,str
 21,"TEXT_GAIUSC901_01036_SEQ_21",""
 22,"TEXT_GAIUSC901_01036_SEQ_22",""
 23,"TEXT_GAIUSC901_01036_SEQ_23",""
-24,"TEXT_GAIUSC901_01036_TODO_00","불멸대 주둔지에서 동맹군 연락 장교와 대화"
-25,"TEXT_GAIUSC901_01036_TODO_01","제국군 전초기지 문 앞에서 불멸대 소위 아달버트와 대화"
-26,"TEXT_GAIUSC901_01036_TODO_02","제국군 전초기지 안에서 문에 접촉"
-27,"TEXT_GAIUSC901_01036_TODO_03","리트아틴 처치"
-28,"TEXT_GAIUSC901_01036_TODO_04","불멸대 주둔지에서 동맹군 연락 장교에게 보고"
-29,"TEXT_GAIUSC901_01036_TODO_05","불멸대 주둔지에서 동맹군 연락 장교에게 보고"
+24,"TEXT_GAIUSC901_01036_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_GAIUSC901_01036_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_GAIUSC901_01036_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_GAIUSC901_01036_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+28,"TEXT_GAIUSC901_01036_TODO_04","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+29,"TEXT_GAIUSC901_01036_TODO_05","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 30,"TEXT_GAIUSC901_01036_TODO_06",""
 31,"TEXT_GAIUSC901_01036_TODO_07",""
 32,"TEXT_GAIUSC901_01036_TODO_08",""
@@ -206,10 +214,10 @@ int32,str,str
 에오르제아의 반격이 이곳에서 시작되는 것이다!"
 116,"TEXT_GAIUSC901_01036_ADALBERT_000_313","실패는 용납되지 않는다.
 전원, 각오를 단단히 하라!"
-117,"TEXT_GAIUSC901_01036_ADALBERT_000_314","그대들 '모험가 선발 부대'가 돌입함과 동시에
+117,"TEXT_GAIUSC901_01036_ADALBERT_000_314","그대는 돌입 후, 밤이 되길 기다렸다 어둠을 틈타 대상에 접근해다오.
 우리는 주변에서 양동작전을 펼치며 기지 병력을 분산시키겠다.
 나머진 그대 손에 달렸다!"
-118,"TEXT_GAIUSC901_01036_ADALBERT_000_315","<Highlight>ObjectParameter(1)</Highlight> 대장!
+118,"TEXT_GAIUSC901_01036_ADALBERT_000_315","<Highlight>ObjectParameter(1)</Highlight> 공!
 반드시 리트아틴을 처단하고 와라!
 무운을 빈다!"
 119,"TEXT_GAIUSC901_01036_ADALBERT_000_316","작전 개시!"

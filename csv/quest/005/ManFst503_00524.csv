@@ -2,7 +2,9 @@
 #,,
 int32,str,str
 0,"TEXT_MANFST503_00524_SEQ_00","라우반은 모험가를 '공방'에 보내고자 한다."
-1,"TEXT_MANFST503_00524_SEQ_01","알테마 웨폰이 있는 '공방'으로 가려면 비공정을 타야 한다. 청린 정제소로 가서 '시드'에게 태워달라고 하자."
+1,"TEXT_MANFST503_00524_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 북부 다날란의 라우반의 완충지에 있는 '라우반'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
 2,"TEXT_MANFST503_00524_SEQ_02","드디어 성채 안으로 침입했다. '마도성 프라이토리움'을 공략하자.
 
 ※ '임무 찾기'를 통해 공략에 참가할 수 있습니다."
@@ -27,10 +29,14 @@ int32,str,str
 21,"TEXT_MANFST503_00524_SEQ_21",""
 22,"TEXT_MANFST503_00524_SEQ_22",""
 23,"TEXT_MANFST503_00524_SEQ_23",""
-24,"TEXT_MANFST503_00524_TODO_00","청린 정제소에서 시드와 대화"
-25,"TEXT_MANFST503_00524_TODO_01","'마도성 프라이토리움' 공략"
-26,"TEXT_MANFST503_00524_TODO_02","민필리아와 대화"
-27,"TEXT_MANFST503_00524_TODO_03","민필리아와 대화"
+24,"TEXT_MANFST503_00524_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+라우반의 완충지에 있는 라우반에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+25,"TEXT_MANFST503_00524_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+라우반의 완충지에 있는 라우반에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+26,"TEXT_MANFST503_00524_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+라우반의 완충지에 있는 라우반에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+27,"TEXT_MANFST503_00524_TODO_03","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+라우반의 완충지에 있는 라우반에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 28,"TEXT_MANFST503_00524_TODO_04",""
 29,"TEXT_MANFST503_00524_TODO_05",""
 30,"TEXT_MANFST503_00524_TODO_06",""
@@ -98,7 +104,7 @@ int32,str,str
 68,"TEXT_MANFST503_00524_GAIUS_000_348","기술은 자유를 위해 존재한다는 너의 사상은
 미드에게도 분명히 전해졌던 것이지."
 69,"TEXT_MANFST503_00524_CID_000_349","설마 그 말을 전하고자……
-우리를 불러들이기 위해 그 포격으로 바닥을 부순 거냐!?"
+우리를 불러들이기 위해 벽을 부숴 길을 만든 거냐!?"
 70,"TEXT_MANFST503_00524_GAIUS_000_350","……제안을 하나 하마, 시드.
 갈레말로, 나에게로 돌아오지 않겠느냐?
 미드의 뒤를 이어 네가 수석 기공사가 되는 거다."

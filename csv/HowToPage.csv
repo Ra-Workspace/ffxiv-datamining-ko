@@ -1023,10 +1023,10 @@ int32,byte,byte,Image,byte,str,str,str
 
 '건네주기' 버튼을 클릭하면 납품이 완료됩니다.
 
-HQ 아이템을 납품하면 추가 보상을 받을 수 있습니다.","",""
+제작업 의뢰는 HQ 아이템을 납품하면 추가 보상을 받을 수 있습니다.","",""
 571,1,0,150682,0,"의뢰인과 대화한 뒤, 지정된 아이템을 소지품에서 선택하고 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>건네주기<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 버튼을 누르면 납품이 완료됩니다.
 
-HQ 아이템을 납품하면 추가 보상을 받을 수 있습니다.
+제작업 의뢰는 HQ 아이템을 납품하면 추가 보상을 받을 수 있습니다.
 ","",""
 572,0,0,0,0,"","",""
 573,0,0,0,0,"","",""
@@ -1041,7 +1041,9 @@ HQ 아이템을 납품하면 추가 보상을 받을 수 있습니다.
 단, 채집용 도구를 장비해야 의뢰를 시작할 수 있으며, 단독 수행 임무이므로 파티 상태에서는 진행할 수는 없습니다.","",""
 581,1,0,150692,0,"어부가 받을 수 있는 채집업 의뢰는 제작업 의뢰와 비슷한 방식으로 진행됩니다.
 
-의뢰인과 대화한 다음, 지정된 아이템을 납품하세요.","",""
+퀘스트 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지도 표시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 누르면, 필요한 물고기가 서식하는 지역을 확인할 수 있습니다.
+
+의뢰인과 대화한 다음, 지정된 물고기를 잡아 납품하세요.","",""
 582,0,0,0,0,"","",""
 583,0,0,0,0,"","",""
 584,0,0,0,0,"","",""
@@ -2072,11 +2074,11 @@ HQ 아이템은 품질이 좋은 아이템을 뜻하며, 보통 아이템보다 
 1247,0,0,0,0,"","",""
 1248,0,0,0,0,"","",""
 1249,0,0,0,0,"","",""
-1250,1,0,151211,0,"수상 투기장 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>늑대우리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 개방되었습니다!
+1250,1,0,151211,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>크리스탈라인 컨플릭트<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 개방되었습니다!
 
-늑대우리는 세 도시국가 동맹이 전력 강화를 위해 개최하고 있는 모험가용 PvP 전투의 장입니다.
+크리스탈라인 컨플릭트는 세 도시국가 동맹이 전력을 강화하기 위해 개최하는 모험가용 PvP 임무입니다.
 
-자세한 사항은 늑대우리 부두에 있는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>대결 접수처<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 문의하세요!","",""
+자세한 사항은 늑대우리 부두에 있는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>군기 졸룬기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에게 문의하세요!","",""
 1251,0,0,0,0,"","",""
 1252,0,0,0,0,"","",""
 1253,0,0,0,0,"","",""
@@ -2206,13 +2208,14 @@ HQ 아이템은 품질이 좋은 아이템을 뜻하며, 보통 아이템보다 
 1327,0,0,0,0,"","",""
 1328,0,0,0,0,"","",""
 1329,0,0,0,0,"","",""
-1330,1,0,151531,0,"PvP 임무에 참가하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>PvP 경험치<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 얻을 수 있습니다.
+1330,1,0,151531,0,"PvP 임무에서는 전투에 참가하면 아래 보상을 얻을 수 있습니다.
 
-PvP 경험치가 일정 이상 쌓이면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>PvP 랭크<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 상승합니다.
-PvP 랭크가 올라가면 소속 총사령부별로 고유 업적을 획득할 수 있습니다.","",""
-1331,1,0,151532,0,"또한 PvP 임무에서는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>명예 점수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 획득할 수 있습니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>PvP 경험치<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>명예 점수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>시리즈 경험치<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+1331,1,0,151532,0,"그 밖에도 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>시리즈 보상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이나 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>트로피 크리스탈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>처럼 전투 외적으로 획득할 수 있는 보상도 있습니다.
 
-명예 점수를 쌓아 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>늑대우리 부두<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 있는 병사들에게 가면 PvP를 유리하게 진행할 수 있는 각종 아이템으로 교환할 수 있습니다.","",""
+자세한 내용은 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>늑대우리 부두<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 있는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>흑와단 대위 베르쿠야<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에게 문의하세요!","",""
 1332,1,0,151533,0,"PvP와 관련된 캐릭터 정보는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>PvP 프로필<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서 확인하세요.
 
 PvP 프로필은 주 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>PvP 프로필<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택하면 열 수 있습니다.","",""
@@ -2255,10 +2258,10 @@ PvP 프로필은 주 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F20
 1358,0,0,0,0,"","",""
 1359,0,0,0,0,"","",""
 1360,1,0,151561,0,"모험가 거주구에 있는 모든 토지 앞에는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>간판<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 세워져 있으며, 이 간판에 토지 소유자에 대한 정보가 표시됩니다.","",""
-1361,1,0,151562,0,"소유자 정보 대신 토지 가격이 적혀있다면, 역경매 방식으로 해당 토지를 구매할 수 있습니다.
+1361,1,0,151562,0,"소유자 정보 대신 토지 가격이 적혀있다면, 그 가격에 토지를 구매할 수 있습니다.
 
-입찰 방법과 규칙은 거주구 담당관이 자세히 설명해줄 것입니다.
-토지 가격은 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>6시간마다 떨어지니<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 적당한 가격이 되면 구매하세요.","",""
+토지는 '선착순 판매' 또는 '추첨 판매' 방식으로 판매됩니다.
+구매 방법과 규칙에 대해 더 자세히 알아보려면 거주구 담당관을 찾아가 보세요.","",""
 1362,0,0,0,0,"","",""
 1363,0,0,0,0,"","",""
 1364,0,0,0,0,"","",""
@@ -2564,7 +2567,7 @@ PvP 프로필은 주 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F20
 장비의 세부 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>장비 투영<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택하면 해당 장비의 외형을 다른 장비로 보이게 할 수 있습니다.","",""
 1561,1,0,151762,0,"외형을 변경하려면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>환상의 프리즘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라는 전용 촉매가 필요합니다.
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 투영한 장비의 외형은 현재 직업으로 장비 가능할 경우에만 반영됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 외형 원본 아이템의 장비 레벨이 투영 대상 아이템의 장비 레벨 이하여야 하며, 장비 가능한 직업, 종족, 성별 조건이 일치해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1562,1,0,151763,0,"외형을 변경한 장비 및 외형을 빌려온 장비는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>귀속<UIGlow>01</UIGlow><UIForeground>01</UIForeground>되어 장터에 출품하거나 거래할 수 없습니다.
 
 좋은 장비를 손에 넣었지만 전에 쓰던 장비의 외형이 더 마음에 든다면, 장비 투영을 이용해 자유롭게 옷차림을 바꿔보세요!","",""
@@ -2638,7 +2641,9 @@ PvP 프로필은 주 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F20
 급료가 있으면 망설이지 말고 집사 수행에 사용하세요!","",""
 1602,1,0,151803,0,"집사가 수행을 떠나도 초인종을 울려 불러내거나 장터에 출품하는 데에는 지장이 없습니다.
 
-집사를 적극적으로 활용하세요!","",""
+집사를 적극적으로 활용하세요!
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 집사 수행을 중단해도 집사 급료는 돌려받을 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1603,0,0,0,0,"","",""
 1604,0,0,0,0,"","",""
 1605,0,0,0,0,"","",""
@@ -3526,7 +3531,7 @@ RP는 다른 모험가와 대결했을 때의 승패에 따라 변화합니다.
 
 용도에 따라 여러 가지 투영세트를 구성해서 간편하게 외형 변화를 즐기세요!
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 투영세트는 대도시에서만 이용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 투영세트는 대도시 또는 휴식 지역에서 이용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2440,1,0,152631,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>마정반<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 이용할 수 있게 되었습니다!
 
 에우레카의 마물들은 어느 한 속성에 특화된 힘을 지니고 있습니다.
@@ -3753,7 +3758,7 @@ RP는 다른 모험가와 대결했을 때의 승패에 따라 변화합니다.
 2540,1,0,152841,0,"패션 소품을 사용할 수 있게 되었습니다!
 
 아이템을 사용하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>내 캐릭터<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>패션 소품<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 기술이 추가되며, 단축바에 등록하여 사용할 수 있습니다.","",""
-2541,1,0,152842,0,"패션 소품 기술을 사용하면 소품을 꺼내고, 다시 사용하면 집어넣습니다.
+2541,1,0,152842,0,"꺼낸 패션 소품을 집어넣으려면 기술을 다시 사용하거나, 보조 단축바에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>소품 넣기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하세요.
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 패션 소품 기술은 몇 번이고 다시 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 2550,1,0,152861,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>제작 연습<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 할 수 있게 되었습니다.

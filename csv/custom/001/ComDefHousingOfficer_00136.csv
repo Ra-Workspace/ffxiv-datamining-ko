@@ -6,7 +6,7 @@ int32,str,str
 1,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2Q1_100_002","무엇을 물어보시겠습니까?"
 2,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A11_111_002","취소"
 3,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A1_101_002","모험가 거주구에 대해서"
-4,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_100_002","토지 구입 및 포기에 대해서"
+4,"TEXT_COMDEFHOUSINGOFFICER_00136_CATEGORYA1_100_002","토지 구매/포기에 대해서"
 5,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A2_102_002","토지에 대해서"
 6,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A3_103_002","토지 구입에 대해서"
 7,"TEXT_COMDEFHOUSINGOFFICER_00136_CHOICE2A4_104_002","토지 포기에 대해서"
@@ -113,7 +113,7 @@ int32,str,str
 자동 철거가 실행된 후 (현실 시간) 35일 이내에만
 '거주구 담당관'을 통해 돌려받을 수 있습니다."
 65,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_187","이때 '자유부대 주택'의 자산 회수는
-'토지 매입 및 포기' 권한을 가진 캐릭터만이 실행 가능합니다."
+'토지 구매/포기' 권한을 가진 캐릭터만이 실행 가능합니다."
 66,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_188","또한 '개인 주택'의 자산은
 해당 개인 주택의 '소유자'만이 회수할 수 있습니다."
 67,"TEXT_COMDEFHOUSINGOFFICER_00136_HOUSINGOFFICER_000_050","주택을 건설하려면 '건축 허가증'이 필요합니다."
@@ -283,7 +283,7 @@ int32,str,str
 주택을 통째로 다른 토지로 이전시키는 기능입니다.
 다른 하우징 구역이나 넓이가 다른 토지에도 이전할 수 있습니다."
 137,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_212","개인 주택은 소유자가,
-자유부대 주택은 '토지 구입 및 포기' 권한을 가진 멤버가
+자유부대 주택은 '토지 구매/포기' 권한을 가진 멤버가
 이사를 실행할 수 있습니다."
 138,"TEXT_COMDEFHOUSINGOFFICER_00136_SYSTEM_000_213","이미 토지를 소유하고 있는 상태에서
 '간판'을 조사하여 '토지 구입하기'를 선택하면

@@ -59,8 +59,8 @@ int32,str
 55,"<CommandIcon(8)/>개인실로 이동  <CommandIcon(10)/>개인실 정보 보기"
 56,"<CommandIcon(8)/> 훈련시키기 <CommandIcon(10)/> 세부 메뉴"
 57,"<CommandIcon(8)/> 훈련시키기 <CommandIcon(10)/> 세부 메뉴"
-58,"<CommandIcon(11)/>탐험 기록 표시"
-59,"<CommandIcon(11)/>탐험의 실마리 표시"
+58,"<CommandIcon(11)/>탐험 기록 표시 <CommandIcon(10)/>세부 메뉴"
+59,"<CommandIcon(11)/>탐험의 실마리 표시 <CommandIcon(10)/>세부 메뉴"
 60,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
 61,"<CommandIcon(10)/> 세부 메뉴"
 62,"<CommandIcon(11)/> 보유카드 표시 방법 변경  <CommandIcon(10)/> 세부 메뉴"
@@ -240,7 +240,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 178,"<CommandIcon(10)/>세부 메뉴"
 179,"<CommandIcon(8)/>선택 <CommandIcon(9)/>닫기 <CommandIcon(11)/>결정하고 닫기"
 180,"<CommandIcon(5)/>이력  <CommandIcon(12)/>+<CommandIcon(13)/>붙여넣기  <CommandIcon(10)/>삭제  <If(GreaterThan(PlayerParameter(75),0))><CommandIcon(11)/>가상 키보드<Else/><Indent/></If>"
-181,"<CommandIcon(10)/>세부 메뉴"
+181,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>적용하고 닫기"
 182,"<CommandIcon(9)/>적용하고 닫기"
 183,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>꼬마 친구 목록 보이기"
 184,"<CommandIcon(8)/>불러내기"
@@ -515,7 +515,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 351,"<CommandIcon(11)/>전과 정보로 돌아가기"
 352,"<CommandIcon(11)/>로스트 보관함 조작"
 353,"<CommandIcon(11)/>추천 편성"
-354,""
+354,"<CommandIcon(9)/>닫기"
 355,"<CommandIcon(24)/>상세 정보 스크롤"
 356,"<CommandIcon(10)/>세부 메뉴"
 357,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>교환"
@@ -560,8 +560,167 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 396,"<CommandIcon(10)/>전체 선택/해제  <CommandIcon(11)/>이 조건으로 검색"
 397,"<CommandIcon(10)/>역할/개별 직업 선택 전환"
 398,"<CommandIcon(10)/>전체 지역/개별 지역 선택 전환"
-399,""
+399,"<CommandIcon(11)/>決定して閉じる"
 400,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>텔레포 실행"
+401,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>참가 결정하고 닫기 <CommandIcon(24)/>상세 정보 스크롤"
+402,"<CommandIcon(9)/>목록으로 돌아가기 <CommandIcon(24)/>상세 정보 스크롤"
+403,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(24)/>상세 정보 스크롤"
+404,"<CommandIcon(24)/>상세 정보 스크롤"
+405,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
+406,"<CommandIcon(11)/>입장 결정하고 닫기  <CommandIcon(10)/>파티원 편성"
+407,"<CommandIcon(8)/>파티원 선택/해제  <CommandIcon(9)/>편성 종료"
+408,"트러스트"
+409,"주요 퀘스트에서 공략한 레벨 71 이후의 일반 던전은
+동료 NPC의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>환영체<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 함께 다시 공략할 수 있습니다.
+공략에 참가한 환영체는 경험치를 얻고 레벨을 올릴 수 있습니다."
+410,"장비 투영"
+411,"80레벨에 도달한 동료 NPC의 환영체는
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>장비 투영<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 할 수 있습니다.
+파티원 선택 화면의 상세 정보 칸에서
+장비 투영 아이콘을 누르거나
+캐릭터 세부 메뉴에서 '장비 투영'을 선택하면
+외형을 변경할 수 있습니다."
+412,"환영체 제한"
+413,"환영체 중에는 일부 던전에 동행할 수 없는 환영체도 있습니다."
+414,"던전 입장 방법"
+415,"던전에는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC와 함께 혼자 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하거나
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭 기능을 이용<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다른 플레이어와 함께 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>할 수 있습니다.
+
+물론 미리 파티를 짜서 입장할 수도 있으며,
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장 방법이 달라도 똑같이 던전을 공략할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+416,"임무 지원"
+417,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 도움을 받으며
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>혼자서 던전을 공략할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+이 시스템을 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라고 부릅니다.
+
+임무 지원을 이용할 수 있는 던전 입구에는
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>진입 지점<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원 아이콘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 배치되어 있습니다.
+진입 지점을 클릭하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC와 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택하면
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원 창<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 열립니다.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC의 직업<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은 플레이어의 현재 직업에 따라
+가장 적절한 조합으로 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자동 조정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>됩니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 누르고 NPC와 함께 던전을 공략해 보세요!"
+418,"입장 확인"
+419,"입장 준비가 완료되면 알림음이 울립니다.
+입장 확인 창에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 눌러 임무에 도전하세요!
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>제한 시간 안에 입장하지 않으면 자동으로 입장 거부가 되며
+입장할 던전 선택부터 다시 시작해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+420,"공략 가능 던전"
+421,"당신이 성장할수록, 공략할 수 있는 던전도 늘어납니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원을 이용할 수 없는 던전이나 임무<UIGlow>01</UIGlow><UIForeground>01</UIForeground>는
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용해서 도전해 보세요.
+
+이미 공략을 완료했더라도, 몇 번이고 다시 같은 던전에 도전할 수 있습니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>주 메뉴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 정보<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 통해 던전에 다시 도전할 수 있습니다."
+422,"파티 편성"
+423,"주요 퀘스트에서 방문하게 되는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>레벨 71 이후 일반 던전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC로 파티를 편성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하여 입장할 수 있습니다.
+
+현재 파티원을 클릭하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파티원 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 창이 열리며,
+던전에 같이 갈 수 있는 지원 NPC가 표시됩니다."
+424,""
+425,""
+426,""
+427,""
+428,"임무 찾기"
+429,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다른 플레이어와 함께<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+던전에 입장할 수 있습니다.
+
+진입 지점을 클릭하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다른 플레이어와 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택하면
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기 창<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 열립니다."
+430,"임무 참가 신청"
+431,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>가고 싶은 던전을 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>한 다음 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>참가 신청<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 누르면
+목적지가 같은 플레이어를 찾아 자동으로 파티를 구성해 줍니다.
+이 과정을 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라고 부릅니다.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 동시에 최대 5개 임무를 선택하여 참가 신청할 수 있습니다.
+
+※ 자물쇠 표시는 참가 조건을 갖추지 못했음을 뜻합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+432,"신청 예약 상황"
+433,"참가 신청을 하면 할 일 목록에 임무 찾기 아이콘이 표시되고,
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>예약 상황<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 확인할 수 있습니다.
+
+예약 상황에는 파티 구성 현황과 서버 예약 상황 등이 표시됩니다."
+434,"입장 확인"
+435,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭이 성립<UIGlow>01</UIGlow><UIForeground>01</UIForeground>되면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>알림음<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 울립니다.
+이때 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 누르면 임무에 도전할 수 있습니다.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>제한 시간 안에 입장하지 않으면 자동으로 입장 거부가 되며
+입장할 던전 선택부터 다시 시작해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+436,"공략 가능 던전"
+437,"당신이 성장할수록, 공략할 수 있는 던전도 늘어납니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원을 이용할 수 없는 던전이나 임무<UIGlow>01</UIGlow><UIForeground>01</UIForeground>는
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용해서 도전해 보세요.
+
+이미 공략을 완료했더라도, 몇 번이고 다시 같은 던전에 도전할 수 있습니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>주 메뉴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 정보<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 통해 던전에 다시 도전할 수 있습니다."
+438,"<CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
+439,"<CommandIcon(10)/>세부 메뉴"
+440,"<CommandIcon(10)/>세부 메뉴"
+441,""
+442,""
+443,""
+444,""
+445,""
+446,""
+447,""
+448,""
+449,""
+450,""
+451,""
+452,""
+453,""
+454,""
+455,""
+456,""
+457,""
+458,""
+459,""
+460,""
+461,""
+462,""
+463,""
+464,""
+465,""
+466,""
+467,""
+468,""
+469,""
+470,""
+471,""
+472,""
+473,""
+474,""
+475,""
+476,""
+477,""
+478,""
+479,""
+480,""
+481,""
+482,""
+483,""
+484,""
+485,""
+486,""
+487,""
+488,""
+489,""
+490,""
+491,""
+492,""
+493,""
+494,""
+495,""
+496,""
+497,""
+498,""
+499,""
+500,""
 1000,"신고를 접수하지 못했습니다.
 다시 시도하십시오."
 1001,"<UIForeground>F20202</UIForeground>다시보기 재생 중 조작 방법<UIForeground>01</UIForeground>
@@ -907,7 +1066,9 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 
 '가치 상향'은 순화가 잘 되었음을 의미하며, 평소보다 소장 가치가 더 많이 오릅니다.
 
-※ '기술력'을 올리면 가치 상향 발생률이 높아집니다."
+※ '기술력'을 올리면 가치 상향 발생률이 높아집니다.
+
+※ 강화 기술 '가치 집중'을 사용하면 가치 상향 발생률이 높아집니다."
 1041,"활안"
 1042,"순화 기술을 사용하면 '활안' 효과가 부여될 때가 있습니다.
 
