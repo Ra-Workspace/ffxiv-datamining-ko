@@ -5356,15 +5356,15 @@ PvP 임무에서는 전용 시스템이 적용되므로
 플레이어 대전 특유의 불꽃 튀는 접전을 즐겨보세요!
 
 PvP 시스템이나 대결 규칙에 대해서는
-공식 홈페이지의 PvP 특설 페이지에서 확인하실 수 있습니다."
-5549,"PvP 특설 페이지 접속"
+공식 홈페이지의 PvP 가이드 페이지에서 확인하실 수 있습니다."
+5549,"PvP 가이드 페이지 접속"
 5550,"닫기"
 5551,"PvP에 대해서"
 5552,"https://guide.ff14.co.kr/pvp"
-5553,"스마트폰 등으로 QR코드를 읽을 수 있는 애플리케이션을 사용하면 공식 홈페이지의 'PvP 특설 페이지'에 접속할 수 있습니다."
+5553,"스마트폰 등으로 QR코드를 읽을 수 있는 애플리케이션을 사용하면 공식 홈페이지의 'PvP 가이드 페이지'에 접속할 수 있습니다."
 5554,"이 PvP 기술세트는 이제 사용할 수 없습니다.
 단축바에서 제거하십시오."
-5555,"공식 홈페이지의 PvP 특설 페이지에서 더 많은 정보를 확인하실 수 있습니다.
+5555,"공식 홈페이지의 PvP 가이드 페이지에서 더 많은 정보를 확인하실 수 있습니다.
 <Highlight>StringParameter(1)</Highlight>"
 5560,"마테리아 장착 가능한 능력치"
 5561,"장착 가능한 능력치 확인"
@@ -12316,8 +12316,7 @@ PvP팀 등록에 동의하십니까?"
 　・다른 서버의 플레이어에게 언약식 청첩장을 줄 수 없습니다.
 
 <UIForeground>F20202</UIForeground>임무 및 기능<UIForeground>01</UIForeground>
-<If(GreaterThan(IntegerParameter(1),0))>　・PvP의 각종 결과가 랭킹 대상에서 제외됩니다.
-　・'크리스탈라인 컨플릭트' 등급전에 참가할 수 없습니다.
+<If(GreaterThan(IntegerParameter(1),0))>　・'크리스탈라인 컨플릭트' 등급전에 참가할 수 없습니다.
 <Else/></If>　・'꼬마 친구 공방전' 대회에 참가할 수 없습니다.
 　・'트리플 트라이어드' 대회에 참가할 수 없습니다.
 　・'주간 복권'을 구입하거나 교환할 수 없습니다.
@@ -12431,8 +12430,8 @@ PvP팀 등록에 동의하십니까?"
 12624,"'<Highlight>StringParameter(1)</Highlight>'<14>FF07022903EA0203FF04EBA19CFF07EC9CBCEBA19C</14> 이동하시겠습니까?
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>같은 서버에 파티원이 있으면 이 기능을 이용할 수 없습니다.
 단독, 파티 모집 중, 서버 초월 파티 상태로만 이동할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-12625,"Traveler"
-12626,"고향 서버가 속한 데이터 센터를 벗어나면 모그레터 알림을 받을 수 없습니다."
+12625,"여행자"
+12626,"고향 서버의 데이터 센터에 있을 때에만 모그레터 알림을 받을 수 있습니다."
 12630,"너츠 마물 수배서: 초급"
 12631,"너츠 마물 수배서: 중급"
 12632,"너츠 마물 수배서: 상급"
@@ -13839,8 +13838,8 @@ PvP팀 등록에 동의하십니까?"
 14420,"재추첨"
 14421,"달성 완료!"
 14422,":"
-14423,"별빛"
-14424,"그림자"
+14423,"별빛 팀"
+14424,"그림자 팀"
 14425,"승점<If(GreaterThan(IntegerParameter(1),0))>(연승 보너스 발생 중!)<Else/>　</If>"
 14426,"<Highlight>StringParameter(1)</Highlight><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value><Else/></If><Switch(IntegerParameter(3))><Case(1)>☆☆☆</Case><Case(2)>★☆☆</Case><Case(3)>★★☆</Case><Case(4)>★★★</Case></Switch>　→　<Highlight>StringParameter(4)</Highlight><If(Equal(IntegerParameter(5),0))><If(GreaterThan(IntegerParameter(6),0))><Value>IntegerParameter(6)</Value><Else/></If><Switch(IntegerParameter(7))><Case(1)>☆☆☆</Case><Case(2)>★☆☆</Case><Case(3)>★★☆</Case><Case(4)>★★★</Case></Switch><Else/></If>"
 14427,"크리스탈 점수"

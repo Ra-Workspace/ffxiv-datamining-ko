@@ -4,10 +4,14 @@ int32,str,str
 0,"TEXT_CMNDEFRETAINERCALL_00010_INACTIVE_TASK_ABORT","의뢰받은 수행 임무를 실행할 수 없게 되었기 때문에
 집사 급료를 반납하고
 의뢰를 취소합니다. "
-1,"TEXT_CMNDEFRETAINERCALL_00010_LVUP_NO_CLASS","이 집사는 클래스가 설정되어 있지 않기 때문에 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 건넬 수 없습니다."
-2,"TEXT_CMNDEFRETAINERCALL_00010_LVUP_NO_EFFECT","이 집사는 이미 레벨 <Value>IntegerParameter(2)</Value>에 도달했기 때문에 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 건넬 수 없습니다."
+1,"TEXT_CMNDEFRETAINERCALL_00010_LVUP_NO_CLASS","이 집사는 클래스가 설정되어 있지 않기 때문에
+<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 건넬 수 없습니다."
+2,"TEXT_CMNDEFRETAINERCALL_00010_LVUP_NO_EFFECT","이 집사는 이미 레벨 <Value>IntegerParameter(2)</Value>에 도달했기 때문에
+<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 건넬 수 없습니다."
 3,"TEXT_CMNDEFRETAINERCALL_00010_LVUP_CAP_PLAYER","집사의 레벨은 고용주의 레벨보다 높을 수 없습니다."
-4,"TEXT_CMNDEFRETAINERCALL_00010_ASK_PLAYER_LVSYNC","이 집사는 고용주와 같은 레벨인 <Value>IntegerParameter(1)</Value>까지만 레벨 업이 가능합니다. 계속하시겠습니까?"
+4,"TEXT_CMNDEFRETAINERCALL_00010_ASK_PLAYER_LVSYNC","이 집사는 고용주와 같은 레벨인
+<Value>IntegerParameter(1)</Value>까지만 레벨 업이 가능합니다.
+계속하시겠습니까?"
 5,"TEXT_CMNDEFRETAINERCALL_00010_LVUP_NO_ITEM","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 없습니다."
 6,"TEXT_CMNDEFRETAINERCALL_00010_ASK_USE_LVUP_ITEM","정말로 이 집사에게 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 건네시겠습니까?"
 7,"TEXT_CMNDEFRETAINERCALL_00010_ASK_USE_LVUP_ITEM_CHECK","집사의 레벨을 <Value>IntegerParameter(1)</Value>까지 올리기"
