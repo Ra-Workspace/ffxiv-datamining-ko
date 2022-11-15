@@ -5,7 +5,7 @@ int32,str,str
 오늘은 의뢰했던 물건을 가지고 왔나요?
 아니면 차 한잔 하러?"
 1,"TEXT_CTSSFSCHARACTER8_00773_GREETING_AMELIANCE_000_001","잘 왔어요, <Highlight>ObjectParameter(1)</Highlight> 씨.
-유학생용 마법도구와 두꺼비 준비는 잘 되어 가나요?
+유학생용 마법도구와 개구리 준비는 잘 되어 가나요?
 당신이 언제 갖고 올지 너무 기대돼요!"
 2,"TEXT_CTSSFSCHARACTER8_00773_GREETING_AMELIANCE_000_002","<Highlight>ObjectParameter(1)</Highlight> 씨, 와줘서 기뻐요!
 유학생들이 식사 때 곤란하지 않도록
@@ -147,7 +147,7 @@ int32,str,str
 말하지 않아도 알겠지만, 순도가 높을 것일수록 성능이 뛰어나요.
 하지만 그걸 구하는 일은 말도 안 되게 어렵답니다."
 63,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_002","요리의 신선도를 유지하기 위해서는
-런치박스의 재료에 얼마나 보냉성이 있느냐가 중요해요.
+도시락통의 재료에 얼마나 보냉성이 있느냐가 중요해요.
 품질이 좋으면 그만큼 오래 보존할 수 있는데 말이죠……"
 64,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_003","마법인형은 관절이 많기 때문에 윤활유가 꼭 필요하답니다……
 하지만 불순물이 많을수록 마력 저항이 커지고 말아요.
@@ -158,10 +158,10 @@ int32,str,str
 66,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_000","필기용 잉크는 먼저 특수 용액을 섞어서 성분을 침전시킨 후에
 필요한 성분만을 추출해서 가공한다고 해요.
 질 좋은 재료일수록 필기감이 부드럽겠죠……"
-67,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_001","두꺼비는 용도에 따라 다양하게 활용되는데요,
+67,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_001","개구리는 용도에 따라 다양하게 활용되는데요,
 마법대학에서는 주로 사역마로 취급되는 경우가 많아요.
-똑똑하고 건강한 두꺼비라면 다들 좋아할 텐데요……"
-68,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_002","보기에도 예쁜 런치박스가 식욕을 돋우지 않겠어요?
+똑똑하고 건강한 개구리라면 다들 좋아할 텐데요……"
+68,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_002","보기에도 예쁜 도시락이 식욕을 돋우지 않겠어요?
 ……이 나라 사람들은 그런 감각을 이해 못 하겠지만,
 다른 나라에서 온 아이들은 신경 쓸 거라고 생각해요……"
 69,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_003","마법인형의 눈은 발광 소재를 사용하는 것이 일반적이에요.
@@ -234,7 +234,7 @@ int32,str,str
 최종적으로 아버지의 허가를 받아서 집을 뛰쳐나왔어요."
 95,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_010","그랬구나…….
 어머님은 왜 반대를 하셨니?"
-96,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_011","아마도…… 일족의 치료약에 긍지심을 갖고 있기 때문일 거예요.
+96,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_011","아마도…… 일족의 치료약에 자긍심을 갖고 있기 때문일 거예요.
 제가 치유마법을 배우는 것이
 가업을 부정하는 것처럼 보였겠죠."
 97,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_012","저도 연금술은 자랑스럽게 생각해요. 하지만 약으로
@@ -276,7 +276,7 @@ int32,str,str
 115,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MERYLD_002_015","아, 아멜리앙스 님……!
 요리는 저희가 하겠습니다!"
 116,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_016","괜찮아, 괜찮아!
-학생 시절에도 주구장창 현인빵만 먹던 푸르슈노 씨에게
+학생 시절에도 주야장천 현인빵만 먹던 그이에게
 자주 도시락을 싸주곤 했었거든."
 117,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_017","그럼, 부엌으로 가볼까? 밀라!"
 118,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_018","아, 네……!"
@@ -310,13 +310,13 @@ int32,str,str
 132,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_002","정말로 감사했습니다.
 저를 포함해서 지원이 없었다면 유학을 경험하지 못했을
 유학생이 적지 않았을 거예요."
-133,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_003","호스트 패밀리가 되어주신 르베유르 가 여러분과
+133,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_003","호스트 가족이 되어주신 르베유르 가 여러분과
 <Highlight>ObjectParameter(1)</Highlight> 씨가 구해서 갖다 주신
 멋진 물품들이 없었더라면 도저히……."
 134,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_004","그래서…… 감사 인사라고 하기엔 좀 그렇지만
 두 분께 보여드리고 싶은 것이 있어요……!"
 135,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_005","갑니다……!"
-136,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_104_005","그대로 똑바로 누워서 쓰러져……!"
+136,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_104_005","그대로 위를 보고 쓰러져……!"
 137,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_006","대단해…… 완벽하게 조작할 수 있게 됐구나!"
 138,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_007","아직이에요……!"
 139,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_008","밀라……
@@ -364,7 +364,7 @@ int32,str,str
 158,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_100","유학생 중에는 밀라처럼
 처음으로 마법 공부를 하는 학생도 적지 않을 거예요."
 159,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_101","그래서 부탁을 할까 하는데, 괜찮을까요?
-마법을 다루기 위한 마법도구와 두꺼비를 준비해줬으면 해요.
+마법을 다루기 위한 마법도구와 개구리를 준비해줬으면 해요.
 질이 좋으면 좋을수록 실력도 빨리 늘어요."
 160,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_102","고마워요, 얼마나 든든한지 몰라요.
 잘 부탁해요!"
@@ -387,7 +387,7 @@ int32,str,str
 이국에서 학습하는 본국 학생들도 지원하려고 해요."
 167,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_103","물론 이 르베유르 저택에서도
 계속해서 홈스테이를 받을 거예요."
-168,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_104","푸르슈노 씨나 애들이 집으로 돌아오면
+168,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_104","남편이나 애들이 집으로 돌아오면
 모르는 아이가 살고 있는 걸 보고 깜짝 놀라겠죠.
 ……그때까지는 비밀로 해둘까 봐요."
 169,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_105","아참, 밀라에게 선물한 의상 말인데요,
@@ -396,7 +396,7 @@ int32,str,str
 당신 것은 완성될 때까지 조금 더 기다려줬으면 해요."
 171,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_107","그리고 이것도 비밀로 해줬으면 하는데요……
 추천하고 싶은 의상이 있다면 빌려줄 수 있을까요?
-푸르슈노 씨의 놀라는 얼굴을 보고 싶거든요!"
+그이의 놀라는 얼굴을 보고 싶거든요!"
 172,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '르베유르 가의 협력자'로 여기게 되었습니다!"
 173,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
@@ -431,7 +431,7 @@ int32,str,str
 앞으로도 의지할 테니 잘 부탁해요."
 186,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_002_000","이번주도 물건을 많이 가져와줘서
 굉장히 도움이 됐어요!"
-187,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_002_001","만약 지금 푸르슈노 씨가 돌아온다면
+187,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_002_001","만약 지금 그이가 돌아온다면
 당신과 제가 친하게 지내는 걸 보고 굉장히 놀라겠죠?
 ……후훗, 상상만 해도 재미있네요."
 188,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_003_000","언제나 고마워요, <Highlight>ObjectParameter(1)</Highlight> 씨!"
@@ -460,7 +460,7 @@ int32,str,str
 다시 정식으로 감사 인사를 하고 싶어서요."
 198,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_001","단골 거래를 통해 이렇게 친분을 쌓게 된 것도
 물론 진심으로 감사하게 생각하지만요……
-알피노와 알리제, 그리고 푸르슈노 씨도요."
+알피노와 알리제, 그리고 남편도요."
 199,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_002","저의 소중한 사람들을 지켜줘서 고마워요.
 ……반드시 돌아올 거라 믿게 해준 것도요."
 200,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_003","그리고 지금은 당신도 소중한 존재랍니다.

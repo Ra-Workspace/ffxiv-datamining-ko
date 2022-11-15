@@ -12253,10 +12253,10 @@ PvP팀 등록에 동의하십니까?"
 12511,""
 12512,"나의 고향 서버"
 12513,"방문 가능한 서버"
-12514,"<If(Equal(IntegerParameter(1),2))>　　　　　　　　　　<UIForeground>F20202</UIForeground>《데이터 센터 여행》<UIForeground>01</UIForeground>
+12514,"<If(Equal(IntegerParameter(1),2))><UIForeground>F20202</UIForeground>《데이터 센터 여행》<UIForeground>01</UIForeground>
 고향 서버와 다른 데이터 센터에 소속된 서버로 이동하는 일종의 서버 텔레포입니다. 서버 텔레포보다 제한되는 기능이 더 많으니 이용 시 주의하시기 바랍니다.
 
-　　　　　　　<UIForeground>F20202</UIForeground>《다른 데이터 센터로 이동 시 주의 사항》<UIForeground>01</UIForeground>
+<UIForeground>F20202</UIForeground>《다른 데이터 센터로 이동 시 주의 사항》<UIForeground>01</UIForeground>
 　・서버가 혼잡할 경우, 처리에 30분 정도 걸릴 수 있습니다.
 　・처리가 시작되면 취소할 수 없습니다. 처리 중에는 계정이 잠기며,
 　 처리가 완료 때까지 다른 캐릭터로도 로그인할 수 없습니다.
@@ -12267,16 +12267,16 @@ PvP팀 등록에 동의하십니까?"
 　・데이터 센터 여행 중에는 또 다른 데이터 센터로 직접 이동할 수 없습니다.
 　  고향 데이터 센터로 돌아간 다음, 이동할 데이터 센터를 다시 선택해야 합니다.
 
-<Else/></If><If(LessThan(IntegerParameter(1),2))>　　　　　　　　　　<UIForeground>F20202</UIForeground>《서버 텔레포》<UIForeground>01</UIForeground>
+<Else/></If><If(LessThan(IntegerParameter(1),2))><UIForeground>F20202</UIForeground>《서버 텔레포》<UIForeground>01</UIForeground>
 <If(Equal(IntegerParameter(1),0))>당신의 고향 서버<Else/>당신이 현재 있는 서버</If>에서 다른 서버를 방문할 수 있습니다.
 방문한 서버에서는 친구와 파티를 맺거나 물건을 사는 등 평소처럼 게임을 즐길 수 있습니다.
 
-　　　　　　　　　　<UIForeground>F20202</UIForeground>《신청 시 주의 사항》<UIForeground>01</UIForeground>
+<UIForeground>F20202</UIForeground>《신청 시 주의 사항》<UIForeground>01</UIForeground>
 선택한 서버의 혼잡 상황에 따라 이동에 시간이 걸릴 수 있습니다.
 서버 텔레포 준비가 끝나면 자동으로 이동되며, 하던 행동은 모두 취소됩니다.
 
-<Else/></If>　　　　　　　　　<UIForeground>F20202</UIForeground><If(GreaterThan(IntegerParameter(1),0))>《다른 데이터센터<Else/>　　《다른 서버</If>에서 제한》<UIForeground>01</UIForeground>
-<If(Equal(IntegerParameter(1),1))>당신은 현재 고향 서버와는 다른 데이터 센터에 있습니다.<Else/></If><If(GreaterThan(IntegerParameter(1),0))>다른 데이터 센터<Else/>다른 서버</If> 방문 중에는 아래와 같은 기능이 제한되니 주의하십시오.。
+<Else/></If><UIForeground>F20202</UIForeground><If(GreaterThan(IntegerParameter(1),0))>《다른 데이터센터<Else/>《다른 서버</If>에서 제한》<UIForeground>01</UIForeground>
+<If(Equal(IntegerParameter(1),1))>당신은 현재 고향 서버와는 다른 데이터 센터에 있습니다.<Else/></If><If(GreaterThan(IntegerParameter(1),0))>다른 데이터 센터<Else/>다른 서버</If> 방문 중에는 아래와 같은 기능이 제한되니 주의하십시오.
 
 <If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20202</UIForeground>친구 목록<UIForeground>01</UIForeground>
 　・다른 데이터센터에 있는 친구와 대화할 수 없습니다.
@@ -12322,7 +12322,7 @@ PvP팀 등록에 동의하십니까?"
 　・'주간 복권'을 구입하거나 교환할 수 없습니다.
 　・'모그레터'를 이용할 수 없습니다.
 　・'딥 던전' 점수가 랭킹 대상에서 제외됩니다.
-　・'언약의 반지 텔레포' 및 에테라이트 진자 사용 후 '가까운 거점으로 텔레포'는
+　・'언약의 반지' 및 '에테라이트 진자'의 텔레포 기능은
     서로 같은 서버에 있을 때에만 실행할 수 있습니다.
 　・광부 및 원예가로 미지 혹은 전설의 채집터를 발견할 수 없습니다.
 "
