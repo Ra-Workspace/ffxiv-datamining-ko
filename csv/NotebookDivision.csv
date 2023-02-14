@@ -42,15 +42,15 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 38,"191-195",0,255,255,0,0,False,True,True,True,True,True,True,True,True
 39,"196-200",0,255,255,0,0,False,True,True,True,True,True,True,True,True
 40,"[翻訳不要] レベル区分終端",0,255,255,0,0,False,True,True,True,True,True,True,True,True
-1000,"비전서: 제1권",1,50,255,0,9,True,True,True,True,True,True,True,True,True
-1001,"비전서: 제2권",1,50,255,0,8,True,True,True,True,True,True,True,True,True
-1002,"비전서: 제3권",1,50,255,0,7,True,True,True,True,True,True,True,True,True
-1003,"비전서: 제4권",1,60,255,0,6,True,True,True,True,True,True,True,True,True
-1004,"비전서: 제5권",1,70,255,0,5,True,True,True,True,True,True,True,True,True
-1005,"비전서: 제6권",1,70,255,0,4,True,True,True,True,True,True,True,True,True
-1006,"비전서: 제7권",1,80,255,0,3,True,True,True,True,True,True,True,True,True
-1007,"비전서: 제8권",1,80,255,0,2,True,True,True,True,True,True,True,True,True
-1008,"비전서: 기타",1,15,255,0,10,True,True,True,True,True,True,True,True,True
+1000,"비전서: 제1권",1,50,255,0,10,True,True,True,True,True,True,True,True,True
+1001,"비전서: 제2권",1,50,255,0,9,True,True,True,True,True,True,True,True,True
+1002,"비전서: 제3권",1,50,255,0,8,True,True,True,True,True,True,True,True,True
+1003,"비전서: 제4권",1,60,255,0,7,True,True,True,True,True,True,True,True,True
+1004,"비전서: 제5권",1,70,255,0,6,True,True,True,True,True,True,True,True,True
+1005,"비전서: 제6권",1,70,255,0,5,True,True,True,True,True,True,True,True,True
+1006,"비전서: 제7권",1,80,255,0,4,True,True,True,True,True,True,True,True,True
+1007,"비전서: 제8권",1,80,255,0,3,True,True,True,True,True,True,True,True,True
+1008,"비전서: 기타",1,15,255,0,11,True,True,True,True,True,True,True,True,True
 1009,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 1010,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 1011,"염료",3,30,255,0,1,False,True,True,True,True,True,True,True,True
@@ -59,9 +59,9 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1014,"중용의 공예관 거래",4,70,255,68763,2,False,False,True,True,True,False,False,False,False
 1015,"중용의 공예관 거래",4,70,255,68766,3,False,True,False,False,False,True,True,False,False
 1016,"중용의 공예관 거래",4,70,255,68769,4,False,False,False,False,False,False,False,True,True
-1017,"이크살족 퀘스트",5,1,255,0,1,False,True,True,True,True,True,True,True,True
-1018,"모그리족 퀘스트",5,50,255,0,2,False,True,True,True,True,True,True,True,True
-1019,"나마즈오족 퀘스트",5,60,255,0,3,False,True,True,True,True,True,True,True,True
+1017,"이크살",5,1,255,0,1,False,True,True,True,True,True,True,True,True
+1018,"모그리",5,50,255,0,2,False,True,True,True,True,True,True,True,True
+1019,"나마즈오",5,60,255,0,3,False,True,True,True,True,True,True,True,True
 1020,"시로 알리아포",6,55,255,0,1,False,True,True,True,True,True,True,True,True
 1021,"메나고",6,55,255,0,2,False,True,True,True,True,True,True,True,True
 1022,"쿠레나이",6,55,255,0,3,False,True,True,True,True,True,True,True,True
@@ -71,16 +71,16 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1026,"기타",7,20,255,73,6,False,True,True,True,True,True,True,True,True
 1027,"부흥 사업(2)",7,20,255,73,2,False,True,True,True,True,True,True,True,True
 1028,"하늘강철 도구",7,80,255,69384,5,False,True,True,True,True,True,True,True,True
-1029,"드워프족 퀘스트",5,70,255,0,4,False,True,True,True,True,True,True,True,True
+1029,"드워프",5,70,255,0,4,False,True,True,True,True,True,True,True,True
 1030,"엘 투",6,55,255,0,6,False,True,True,True,True,True,True,True,True
 1031,"부흥 사업(3)",7,20,255,73,3,False,True,True,True,True,True,True,True,True
 1032,"50-60",8,50,255,0,4,False,True,True,True,True,True,True,True,True
 1033,"61-70",8,61,255,0,3,False,True,True,True,True,True,True,True,True
 1034,"71-80",8,70,255,0,2,False,True,True,True,True,True,True,True,True
-1035,"장식",3,50,255,0,3,False,False,False,False,False,False,False,True,False
+1035,"장식(1)",3,50,255,0,3,False,False,False,False,False,False,False,True,False
 1036,"부흥 사업(4)",7,20,255,73,4,False,True,True,True,True,True,True,True,True
 1037,"뒤랑데르 백작",6,55,255,0,7,False,True,True,True,True,True,True,True,True
-1038,"비전서: 제9권",1,90,255,0,1,True,True,True,True,True,True,True,True,True
+1038,"비전서: 제9권",1,90,255,0,2,True,True,True,True,True,True,True,True,True
 1039,"81-90",8,80,255,0,1,False,True,True,True,True,True,True,True,True
 1040,"마법대학 거래",4,80,255,69668,5,False,False,True,True,True,False,False,False,False
 1041,"마법대학 거래",4,80,255,69675,6,False,True,False,False,False,True,True,False,False
@@ -93,7 +93,9 @@ int32,str,NotebookDivisionCategory,byte,byte,Quest,byte,bit&01,bool,bool,bool,bo
 1048,"가구(벽걸이)",2,12,255,0,6,False,True,True,True,True,True,True,True,False
 1049,"기타",2,12,255,0,7,False,False,False,False,False,False,False,True,False
 1050,"아멜리앙스",6,80,255,0,8,False,True,True,True,True,True,True,True,True
-1051,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
+1051,"비전서: 제10권",1,90,255,0,1,True,True,True,True,True,True,True,True,True
+1052,"장식(2)",3,73,255,0,4,False,False,False,False,False,False,False,True,False
+1053,"",0,0,0,0,0,False,False,False,False,False,False,False,False,False
 2000,"커르다스",10,255,50,0,9,False,True,True,True,True,True,True,True,True
 2001,"드라바니아",10,255,50,0,8,False,True,True,True,True,True,True,True,True
 2002,"아발라시아",10,255,50,0,7,False,True,True,True,True,True,True,True,True

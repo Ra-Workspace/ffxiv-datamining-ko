@@ -98,7 +98,7 @@ int32,str,str
 '집사 급료'로 교환해야 이용할 수 있습니다.
 집사 급료의 소지량은 '화폐 목록'에서 확인할 수 있습니다."
 54,"TEXT_CMNDEFRETAINERBELL_00544_ABOUT_RETAINER_TIP_1","집사를 수행에 보내려면 '집사 급료'를 지불해야 합니다."
-55,"TEXT_CMNDEFRETAINERBELL_00544_ABOUT_RETAINER_TIP_2","집사 급료는 군표로 교환하거나 야만족 일일 퀘스트,
+55,"TEXT_CMNDEFRETAINERBELL_00544_ABOUT_RETAINER_TIP_2","집사 급료는 군표로 교환하거나 우호부족 일일 퀘스트,
 길드 의뢰 보상 등으로 손에 넣을 수 있습니다."
 56,"TEXT_CMNDEFRETAINERBELL_00544_ABOUT_RETAINER_TIP_3","'집사 급료 증서'를 소지한 경우,
 유실물 관리인에게 건네주면
@@ -168,7 +168,7 @@ int32,str,str
 얻을 수 있는 아이템이나 갈 수 있는 장소가 달라집니다.
 집사 수행은 한 번에 한 가지만 보낼 수 있습니다."
 84,"TEXT_CMNDEFRETAINERBELL_00544_ABOUT_VENTURES_5","그리고 집사는 수행을 떠날 때마다 급료를 받아갑니다."
-85,"TEXT_CMNDEFRETAINERBELL_00544_ABOUT_VENTURES_6","집사 급료는 군표로 교환하거나 야만족 일일 퀘스트,
+85,"TEXT_CMNDEFRETAINERBELL_00544_ABOUT_VENTURES_6","집사 급료는 군표로 교환하거나 우호부족 일일 퀘스트,
 길드 의뢰 보상 등으로 손에 넣을 수 있습니다."
 86,"TEXT_CMNDEFRETAINERBELL_00544_FIRST_VENTURE_1","<Highlight>StringParameter(1)</Highlight><13>FF07022903EA0203FF04EAB080FF04EC9DB4</13> 수행을 떠났습니다."
 87,"TEXT_CMNDEFRETAINERBELL_00544_FIRST_VENTURE_2","이 수행 임무의 소요 시간은 <If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>시간 <If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>분<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>분<Else/>1분</If></If>입니다.

@@ -8,12 +8,12 @@ int32,str,str
 지금은 에우레카에 갈 수 없는데
 무슨 일이시죠?"
 2,"TEXT_CTSERKKUGANEENTRANCE_00459_Q1_000_000","무엇을 하시겠습니까?"
-3,"TEXT_CTSERKKUGANEENTRANCE_00459_MENU_CONTENT","'<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>'에 들어간다"
+3,"TEXT_CTSERKKUGANEENTRANCE_00459_MENU_CONTENT","'<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>'에 들어간다"
 4,"TEXT_CTSERKKUGANEENTRANCE_00459_A1_000_001","'금단의 땅 에우레카'에 대해서 물어본다"
 5,"TEXT_CTSERKKUGANEENTRANCE_00459_A1_000_002","마정반 확인"
 6,"TEXT_CTSERKKUGANEENTRANCE_00459_A1_100_002","로고스 샤드와 로고스 기술 확인"
 7,"TEXT_CTSERKKUGANEENTRANCE_00459_A1_000_003","취소"
-8,"TEXT_CTSERKKUGANEENTRANCE_00459_YESNO_CONTENT","'<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>'에 들어가시겠습니까?<If(Equal(IntegerParameter(2),0))><Else/>
+8,"TEXT_CTSERKKUGANEENTRANCE_00459_YESNO_CONTENT","'<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>'에 들어가시겠습니까?<If(Equal(IntegerParameter(2),0))><Else/>
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 엘리멘탈레벨이 <Value>IntegerParameter(2)</Value><13>FF07022003E80303FF04EBA5BCFF04EC9D84</13> 넘으면
 엘리멘탈레벨 <Value>IntegerParameter(2)</Value><14>FF07022003E80303FF04EBA19CFF07EC9CBCEBA19C</14> 자동 조정됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground></If>"
@@ -113,7 +113,7 @@ int32,str,str
 48,"TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_100","에우레카에 대해 보고할 것이 있는데
 장비를 보아하니 다른 일로 바쁘신 모양입니다.
 모험 준비가 끝나면 다시 말을 걸어 주십시오."
-49,"TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_101","'<Sheet(ContentFinderCondition,IntegerParameter(1),38)/>'<13>FF2002281CFF17436F6E74656E7446696E646572436F6E646974696F6EE8022703FF04EBA5BCFF04EC9D84</13> 개방하려면
+49,"TEXT_CTSERKKUGANEENTRANCE_00459_SYSTEM_000_101","'<Sheet(ContentFinderCondition,IntegerParameter(1),39)/>'<13>FF2002281CFF17436F6E74656E7446696E646572436F6E646974696F6EE8022803FF04EBA5BCFF04EC9D84</13> 개방하려면
 현재 직업이 리미티드 잡을 제외하고
 레벨 70 이상인 투사 또는 마법사여야 합니다."
 50,"TEXT_CTSERKKUGANEENTRANCE_00459_RODNEY_000_010","（★未使用／削除予定★）"

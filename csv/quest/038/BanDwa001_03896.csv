@@ -34,7 +34,7 @@ int32,str,str
 25,"TEXT_BANDWA001_03896_TODO_01","레기트와 대화"
 26,"TEXT_BANDWA001_03896_TODO_02","맑은 설수에 있는 로니트와 대화"
 27,"TEXT_BANDWA001_03896_TODO_03","로니트와 대화"
-28,"TEXT_BANDWA001_03896_TODO_04","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
+28,"TEXT_BANDWA001_03896_TODO_04","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>로니트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
 29,"TEXT_BANDWA001_03896_TODO_05",""
 30,"TEXT_BANDWA001_03896_TODO_06",""
 31,"TEXT_BANDWA001_03896_TODO_07",""
@@ -364,10 +364,10 @@ int32,str,str
 이들의 뜨거운 열정은 무사히 결실을 맺을 것인가……?"
 193,"TEXT_BANDWA001_03896_SYSTEM_000_150","'와츠의 망치 작업장'과의 우호 관계가
 모험가의 활약에 힘입어 3단계 '우호'를 달성하여
-드워프족의 '야만족 퀘스트'가 개방되었습니다."
+드워프족의 '우호부족 퀘스트'가 개방되었습니다."
 194,"TEXT_BANDWA001_03896_SYSTEM_000_151","앞으로 와츠의 망치 작업장에 있는 '레기트'에게
-반복 가능한 '야만족 일일 퀘스트'를
+반복 가능한 '우호부족 일일 퀘스트'를
 받을 수 있습니다."
 195,"TEXT_BANDWA001_03896_SYSTEM_000_152","또 '미주트'를 통해
-야만족이 취급하는 아이템을 구매할 수 있습니다.
+우호부족이 취급하는 아이템을 구매할 수 있습니다.
 앞으로 모험에 활용해보세요!"

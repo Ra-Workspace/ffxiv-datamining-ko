@@ -26,9 +26,12 @@ int32,uint32,uint32,uint32,str,str,str
 확인 버튼을 누르면 변경 내용이 반영됩니다.","",""
 19,0,0,0,"편집할 항목을 오른쪽 목록에서 선택하십시오.
 ???는 아직 결정되지 않은 항목입니다.","",""
-20,0,0,0,"삭제","",""
-21,0,0,0,"<Highlight>StringParameter(1)</Highlight><13>FF07022903EA0203FF04EBA5BCFF04EC9D84</13> 삭제하시겠습니까?","",""
-22,0,0,0,"예, 삭제하겠습니다.","",""
+20,0,0,0,"캐릭터 삭제","",""
+21,0,0,0,"'<Highlight>StringParameter(1)</Highlight>'<13>FF07022903EA0203FF04EBA5BCFF04EC9D84</13> 삭제하시겠습니까?
+캐릭터를 삭제하면 소지한 아이템과 길, 고용 중인 집사도 함께 삭제됩니다.
+캐릭터가 자유부대의 부대장인 경우, 새로 부대장이 될 수 있는 부대원이 없으면 자유부대가 해체됩니다.
+자유부대가 소유한 주택과 부대 금고에 있는 아이템 등도 모두 사라지므로 주의하시기 바랍니다.","",""
+22,0,0,0,"네, 주의 사항을 확인했으며 삭제하겠습니다.","",""
 23,0,0,0,"이름 변경","",""
 24,0,0,0,"집사 이름 변경","",""
 25,0,0,0,"<Highlight>StringParameter(1)</Highlight><14>FF07022903EA0203FF04EBA19CFF07EC9CBCEBA19C</14> 접속하시겠습니까?","",""
@@ -1468,24 +1471,23 @@ int32,uint32,uint32,uint32,str,str,str
 1167,0,0,0,"취소","",""
 1168,0,0,0,"❖<Highlight>StringParameter(1)</Highlight>","",""
 1169,0,0,0,"서버 정보를 불러오고 있습니다.","",""
-1170,0,0,0,"캐릭터 '<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>'<13>FF07022903EA0303FF04EBA5BCFF04EC9D84</13>
-데이터 센터 '<Highlight>StringParameter(3)</Highlight>'의 서버 '<Highlight>StringParameter(4)</Highlight>'<14>FF07022903EA0503FF04EBA19CFF07EC9CBCEBA19C</14> 이동시키는 처리를 개시합니다.
+1170,0,0,0,"'<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>' 캐릭터를
+'<Highlight>StringParameter(3)</Highlight>' 데이터 센터의 '<Highlight>StringParameter(4)</Highlight>' 서버로 이동시킵니다.
 
-<UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>캐릭터를 안전하게 이동시키기 위하여 아래의 조치가 취해집니다.
-・캐릭터 이동에는 수십 초에서 수 분이 걸립니다.
-・캐릭터 이동이 완료될 때까지 취소할 수 없습니다.
-・처리가 완료될 때까지 다른 캐릭터로 접속할 수 없습니다.
-양해해 주시기 바랍니다.
+<UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>캐릭터 이동 시 유의 사항
+・이동 처리에는 수십 초에서 수 분이 걸립니다.
+・처리 중에는 취소할 수 없습니다.
+・처리가 완료되기 전에는 다른 캐릭터로 접속할 수 없습니다.
 
-※ 혼잡할 때에는 이동 시간이 늘어날 수도 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+※ 혼잡 시에는 처리에 걸리는 시간이 길어질 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1171,0,0,0,"실행","",""
 1172,0,0,0,"이전 단계","",""
 1173,0,0,0,"캐릭터가 데이터 센터를 이동하고 있습니다.
 처리가 완료될 때까지 기다려 주십시오.
 ※ 혼잡 시에는 처리에 걸리는 시간이 길어질 수 있습니다.","",""
-1174,0,0,0,"캐릭터 '<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>'<13>FF07022903EA0303FF04EAB080FF04EC9DB4</13>
-데이터 센터 '<Highlight>StringParameter(3)</Highlight>'의 서버 '<Highlight>StringParameter(4)</Highlight>'<14>FF07022903EA0503FF04EBA19CFF07EC9CBCEBA19C</14>로 이동했습니다!","",""
-1175,0,0,0,"이 캐릭터는 현재 다른 데이터 센터를 방문 중입니다.","",""
+1174,0,0,0,"'<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>' 캐릭터가
+'<Highlight>StringParameter(3)</Highlight>' 데이터 센터의 '<Highlight>StringParameter(4)</Highlight>' 서버로 이동되었습니다!","",""
+1175,0,0,0,"이 캐릭터는 현재 다른 데이터 센터(<Highlight>StringParameter(1)</Highlight>)에 있습니다.","",""
 1176,0,0,0,"이 캐릭터로 접속하려면 이름을 변경해야 합니다. 이름을 변경하기 위해 고향 서버로 돌아가십시오.","",""
 1177,0,0,0,"이 캐릭터로 접속하려면 집사 이름을 변경해야 합니다. 집사 이름을 변경하기 위해 고향 서버로 돌아가십시오.","",""
 1178,0,0,0,"캐릭터 이름 또는 집사 이름을 변경하기 위해 고향 서버로 돌아갑니다.
@@ -1550,7 +1552,7 @@ int32,uint32,uint32,uint32,str,str,str
 1220,0,0,0,"서버 처리 요청 중 오류가 발생했습니다.<If(GreaterThan(IntegerParameter(1),0))>
 [<Value>IntegerParameter(1)</Value>]<Else/></If>","",""
 1221,0,0,0,"파티 상태이므로 '<If(GreaterThan(IntegerParameter(1),0))>고향 데이터 센터로 귀환<Else/>다른 데이터 센터 방문</If>' 기능을 이용할 수 없습니다.","",""
-1222,0,0,0,"","",""
+1222,0,0,0,"기타 조작","",""
 1223,0,0,0,"","",""
 1224,0,0,0,"","",""
 1225,0,0,0,"","",""
@@ -2129,7 +2131,7 @@ int32,uint32,uint32,uint32,str,str,str
 1798,0,0,0,"","",""
 1799,0,0,0,"","",""
 1800,0,0,0,"로그인 처리를 중단하시겠습니까?","",""
-1801,0,0,0,"","",""
+1801,0,0,0,"일정 시간 동안 조작하지 않아 자동으로 접속이 종료되었습니다.","",""
 1802,0,0,0,"","",""
 1803,0,0,0,"","",""
 1804,0,0,0,"","",""

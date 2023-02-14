@@ -33,7 +33,7 @@ int32,str,str
 23,"TEXT_BANMOG403_02304_SEQ_23",""
 24,"TEXT_BANMOG403_02304_TODO_00","모그리족 숙련 기술자와 대화"
 25,"TEXT_BANMOG403_02304_TODO_01","모그리족 기술자와 대화"
-26,"TEXT_BANMOG403_02304_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,15736,0)/> 제작<Else/>모그리족 초보 기술자에게 <Sheet(Item,15736,0)/> 납품</If>"
+26,"TEXT_BANMOG403_02304_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,15736,0)/> 제작<Else/>모그리족 초보 기술자에게 <Sheet(Item,15736,0)/> 납품</If>"
 27,"TEXT_BANMOG403_02304_TODO_03","똘똘한 모그에크에게 보고"
 28,"TEXT_BANMOG403_02304_TODO_04",""
 29,"TEXT_BANMOG403_02304_TODO_05",""

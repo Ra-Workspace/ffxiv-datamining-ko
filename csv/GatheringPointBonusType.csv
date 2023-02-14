@@ -25,3 +25,5 @@ int32,str
 21,"<If(IntegerParameter(2))>소장품 채집 가능<Else/>소장품 채집 불가능</If>"
 22,"획득 수 보너스 발생률+<Value>IntegerParameter(1)</Value>%"
 23,"획득 수 보너스 발생률+<Value>IntegerParameter(1)</Value>%(능력치 반영)"
+24,"소장 가치 최대 시: 승화율+<Value>IntegerParameter(1)</Value>%"
+25,"소장 가치 최대 시: 승화율+<Value>IntegerParameter(1)</Value>%(능력치 반영)"

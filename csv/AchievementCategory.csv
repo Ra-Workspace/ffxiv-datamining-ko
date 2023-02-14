@@ -38,7 +38,7 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 34,"어부",5,True,False,12
 35,"일반",8,True,False,1
 36,"의뢰",8,True,False,2
-37,"야만족 퀘스트",8,True,False,3
+37,"우호부족 퀘스트",8,True,False,3
 38,"기간 한정 이벤트",8,True,True,4
 39,"탐험수첩",11,True,False,1
 40,"라노시아",11,True,False,2
@@ -76,3 +76,4 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 72,"북해 지역",11,True,False,12
 73,"일사바드",11,True,False,13
 74,"기타",11,True,False,99
+75,"",0,False,False,0

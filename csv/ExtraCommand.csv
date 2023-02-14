@@ -1,6 +1,6 @@
 ﻿key,0,1,2,3
-#,,,,
-int32,str,str,int32,sbyte
+#,Name,Description,Icon,Order
+int32,str,str,Image,sbyte
 0,"","",0,0
 1,"단체 자세","단체 자세 모드를 실행합니다.
 자신과 파티원, 친구가 직전에 실행한 감정 표현이나 기술 동작을 반복해서 취합니다.

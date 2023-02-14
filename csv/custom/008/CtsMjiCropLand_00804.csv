@@ -1,0 +1,119 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CTSMJICROPLAND_00804_TALK_ACTOR","0"
+1,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_008_000","안녕! 야옹 선생에게 이야기는 들었어.
+경작지 개간을 시작해도 될까?"
+2,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_008_005","경작지 개간을 시작할게!"
+3,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_008_010","그래, 알았어.
+그럼 마음 내킬 때 나에게 말을 걸어줘!"
+4,"TEXT_CTSMJICROPLAND_00804_SYSTEM_008_000","경작지를 개방하시겠습니까?"
+5,"TEXT_CTSMJICROPLAND_00804_Q1_008_000","싹 갈아엎어버려!"
+6,"TEXT_CTSMJICROPLAND_00804_Q1_008_005","지금은 그만둘래"
+7,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_009_000","경작지가 완성되었어!
+이 경작지에 심을 수 있는 씨앗을 특별히 선물로 줄게!
+씨앗을 심고 물을 주면 싹이 날 테니까 한 번 해봐."
+8,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_009_005","경작지 일로 무슨 문제가 생기면 나에게 말해줘!"
+9,"TEXT_CTSMJICROPLAND_00804_SYSTEM_009_000","'씨뿌리기 모드'가 개방되었습니다!
+개척 관리판에서 '씨뿌리기 모드'로 변경하면
+작물을 심지 않은 밭이랑에 씨를 뿌릴 수 있습니다."
+10,"TEXT_CTSMJICROPLAND_00804_SYSTEM_009_005","（★未使用／削除予定★）"
+11,"TEXT_CTSMJICROPLAND_00804_SYSTEM_009_010","'물 주기 모드'가 개방되었습니다!
+개척 관리판에서 '물 주기 모드'로 변경하면
+경작지에 심은 씨에 물을 줄 수 있습니다."
+12,"TEXT_CTSMJICROPLAND_00804_SYSTEM_009_015","（★未使用／削除予定★）"
+13,"TEXT_CTSMJICROPLAND_00804_SYSTEM_009_020","（★未使用／削除予定★）"
+14,"TEXT_CTSMJICROPLAND_00804_SYSTEM_009_025","（★未使用／削除予定★）"
+15,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_010_000","내가 준 씨앗은 무인도의 경작지에 심을 수 있어!
+꼭 한 번 시도해봐!"
+16,"TEXT_CTSMJICROPLAND_00804_SYSTEM_010_000","개척 관리판에서 '씨 뿌리기 모드'로 바꾸고
+갖고 있는 씨앗을 선택한 후 밭이랑을 클릭하면
+씨앗을 심을 수 있습니다."
+17,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_011_000","심은 씨앗에 물을 줘 봐!
+물을 주고 시간이 지나면 개척 작물이 성장할 거야!"
+18,"TEXT_CTSMJICROPLAND_00804_SYSTEM_011_000","개척 관리판에서 '물 주기 모드'를 바꾸고
+씨앗을 심은 밭이랑을 클릭하면
+씨앗과 개척 작물에 물을 줄 수 있습니다."
+19,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_012_000","씨를 뿌리고 물까지 주느라 수고했어!
+일단 기본적인 것만 한 건데, 어땠어?
+새로운 씨앗이 생기면 경작지에 뿌려서 키워 봐!"
+20,"TEXT_CTSMJICROPLAND_00804_SYSTEM_012_000","작물은 물을 주면 천천히 성장합니다.
+물을 주지 않으면 작물의 성장은 멈춰 버립니다.
+비가 내릴 때는 자동으로 물을 준 상태가 됩니다."
+21,"TEXT_CTSMJICROPLAND_00804_SYSTEM_012_005","성장한 작물은 '수확 모드'로 수확하거나
+쓸모없어진 경우 '갈아엎기 모드'로 처분할 수도 있습니다."
+22,"TEXT_CTSMJICROPLAND_00804_SYSTEM_012_010","（★未使用／削除予定★）"
+23,"TEXT_CTSMJICROPLAND_00804_SYSTEM_012_015","（★未使用／削除予定★）"
+24,"TEXT_CTSMJICROPLAND_00804_SYSTEM_100_000","어떻게 하시겠습니까?"
+25,"TEXT_CTSMJICROPLAND_00804_SYSTEM_100_005","어떻게 하시겠습니까?
+경작지 확장 중, 완료까지 <Value>IntegerParameter(1)</Value>시간"
+26,"TEXT_CTSMJICROPLAND_00804_Q2_100_000","경작지 상태 보기"
+27,"TEXT_CTSMJICROPLAND_00804_Q2_100_005","경작지 확장하기"
+28,"TEXT_CTSMJICROPLAND_00804_Q2_100_010","경작지 확장 완료"
+29,"TEXT_CTSMJICROPLAND_00804_Q2_100_015","재배 맡기기란"
+30,"TEXT_CTSMJICROPLAND_00804_Q2_100_020","씨앗 구입하기"
+31,"TEXT_CTSMJICROPLAND_00804_Q2_100_025","이야기 듣기"
+32,"TEXT_CTSMJICROPLAND_00804_Q2_100_030","취소"
+33,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_200_000","최근 들어 우리의 개척 실력도 많이 좋아졌어!
+지금이라면 경작지를 더 넓게 확장할 수 있어!"
+34,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_200_005","경작지 확장이 끝났어!
+이제 훨씬 더 많은 작물을 키울 수 있어!"
+35,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_300_000","최근 들어 우리들의 개척 실력도 더 많이 좋아졌어!
+지금이라면 경작지를 훨씬 더 넓게 확장할 수 있어!"
+36,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_300_005","경작지 확장이 끝났어!
+이제 훠~얼씬 더 많은 작물을 키울 수 있을 거야! "
+37,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_300_010","경작지가 넓어지고 우리 친구들도 늘었으니
+이제 '마법인형용 경작 장비'가 있으면
+우리가 경작지에서 작물을 돌볼 수 있어!"
+38,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_300_015","도구 만드는 법을 알려줄 테니
+완성하면 나에게 가지고 와!"
+39,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_300_020","그리고 이렇게나 경작지가 넓으면
+씨앗을 많이 모으는 것도 힘들 거야.
+우리가 모아온 씨앗도 나눠줄게!"
+40,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_300_025","여러 가지 씨앗을 준비해 둘 테니까 나에게 말을 걸어줘!"
+41,"TEXT_CTSMJICROPLAND_00804_SYSTEM_300_000","'마법인형용 경작 장비'의
+개척 제작법이 개방되었습니다!
+제작을 마친 후에 '일굼이'에게 건네보세요!"
+42,"TEXT_CTSMJICROPLAND_00804_SYSTEM_300_005","'일굼이의 가게'가 개방되었습니다!
+'일굼이'에게 개척 채집으로는 입수할 수 없는 씨앗을
+시엘달레 화폐: 청선화로 구입할 수 있습니다."
+43,"TEXT_CTSMJICROPLAND_00804_SYSTEM_400_000","시엘달레 화폐: 청선화 <Value>IntegerParameter(1)</Value>개를 지불하고
+경작지를 확장하시겠습니까?
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※경작지 확장에는 약 <Value>IntegerParameter(2)</Value>시간이 소요됩니다.
+확장 중이라도 현재 경작지는 평소처럼 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44,"TEXT_CTSMJICROPLAND_00804_Q3_400_000","밭을 새롭게 더 넓혀줘!"
+45,"TEXT_CTSMJICROPLAND_00804_Q3_400_005","지금은 그만둘래"
+46,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_400_000","바로 착수할 수는 있는데……
+우리들의 운임비와 확장 작업을 위한 시간이 필요해.
+예산은 시엘달레 화폐: 청선화 <Value>IntegerParameter(1)</Value>개 정도야."
+47,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_400_005","그럼 경작지 확장에 착수할게!
+완성될 때까지 잠시 기다려줘!"
+48,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_400_010","어어? 화폐가 부족한가 봐
+시엘달레 화폐: 청선화 <Value>IntegerParameter(1)</Value>개를 다 모으면
+다시 말을 걸어줘!"
+49,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_400_015","확장하고 싶으면 또 말을 걸어줘!"
+50,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_500_000","경작지 확장이 거의 끝났어!
+그럼 마지막 마무리에 들어갈게!"
+51,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_600_000","'재배 맡기기'가 뭐냐고?
+재배 맡기기는 우리가 너 대신에
+경작지 작물을 돌보는 걸 말해."
+52,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_600_005","하지만 지금은 우리 친구들이 부족해서
+바로 도와줄 수는 없어.
+경작지가 넓어지고 친구가 늘어나면 다시 물어봐줘!"
+53,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_600_010","재배 맡기기용 도구를 만들면
+나에게 가지고 와!
+'마법인형용 경작 장비'는 '개척 제작'으로 만들 수 있어!"
+54,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_600_015","오오, 이것이 바로 '마법인형용 경작 장비'!
+이게 있으면 우리도 경작지 작물을 돌볼 수 있어!"
+55,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_600_020","우리들의 운임비가 들고
+너 만큼 잘할 수 없을지도 모르지만……
+경작지 작물 재배를 맡기고 싶다면 우리가 도와줄게!"
+56,"TEXT_CTSMJICROPLAND_00804_SYSTEM_600_000","재배 맡기기가 개방되었습니다!
+일굼이에게 경작지 작물 돌보기를 의뢰할 수 있습니다."
+57,"TEXT_CTSMJICROPLAND_00804_SYSTEM_600_005","（★未使用／削除予定★）"
+58,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_700_000","이 경작지에서는 씨앗을 심고 작물을 키울 수 있어.
+키운 작물은 요리나 동물들의 사료로 사용할 수 있어!"
+59,"TEXT_CTSMJICROPLAND_00804_SYSTEM_700_000","（★未使用／削除予定★）"
+60,"TEXT_CTSMJICROPLAND_00804_TAGAYASU_800_000","안녕!
+여기는 경작지야!
+천천히 보고 가!"

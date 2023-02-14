@@ -499,7 +499,7 @@ int32,str,str
 '집사 수행 보내기'가 추가되었습니다.
 집사를 모험에 보내봅시다."
 380,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_RETAINER_TIP_1","집사를 수행에 보내려면 '집사 급료'를 지불해야 합니다."
-381,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_RETAINER_TIP_2","집사 급료는 군표로 교환하거나 야만족 일일 퀘스트,
+381,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_RETAINER_TIP_2","집사 급료는 군표로 교환하거나 우호부족 일일 퀘스트,
 길드 의뢰 보상 등으로 손에 넣을 수 있습니다."
 382,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_RETAINER_TIP_3","'집사 급료 증서'를 소지한 경우,
 유실물 관리인이나 집사에게 건네주면
@@ -517,7 +517,7 @@ int32,str,str
 얻을 수 있는 아이템이나 갈 수 있는 장소가 달라집니다.
 집사 수행은 한 번에 한 가지만 보낼 수 있습니다."
 388,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_VENTURES_5","그리고 집사는 수행을 떠날 때마다 급료를 받아갑니다."
-389,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_VENTURES_6","집사 급료는 군표로 교환하거나 야만족 일일 퀘스트,
+389,"TEXT_CMNDEFRETAINERCALL_00010_ABOUT_VENTURES_6","집사 급료는 군표로 교환하거나 우호부족 일일 퀘스트,
 길드 의뢰 보상 등으로 손에 넣을 수 있습니다."
 390,"TEXT_CMNDEFRETAINERCALL_00010_FIRST_VENTURE_1","<Highlight>StringParameter(1)</Highlight><13>FF07022903EA0203FF04EAB080FF04EC9DB4</13> 수행을 떠났습니다."
 391,"TEXT_CMNDEFRETAINERCALL_00010_FIRST_VENTURE_2","이 수행 임무의 소요 시간은 <If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>시간 <If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>분<Else/></If><Else/><If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>분<Else/>1분</If></If>입니다.

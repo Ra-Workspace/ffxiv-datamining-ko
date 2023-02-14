@@ -74,7 +74,7 @@ int32,str,str
 몸의 중심에 있는 다라의 심핵을 전부 부숴 주게!"
 55,"TEXT_BANANA503_03060_SYSTEM_000_020","지금부터 흉포해진 다라를 처치합니다.
 카메라를 확대/축소하여 다라의 중심에 있는 심핵에 조준을 맞추고
-<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>좌클릭<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>버튼/<CommandIcon(8)/>버튼</If><13>FF3C020838E4E95101FF19024804F2022203EE8191ECA28CED81B4EBA6AD0248020103FF18021E021003EBB284ED8ABC2F021E020903EBB284ED8ABC03FF04EBA19CFF07EC9CBCEBA19C</13> 포격합시다!"
+<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>왼쪽 클릭<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>버튼/<CommandIcon(8)/>버튼</If><13>FF4002083CE4E95101FF1D024804F2022203EE8191EC99BCECAABD20ED81B4EBA6AD0248020103FF18021E021003EBB284ED8ABC2F021E020903EBB284ED8ABC03FF04EBA19CFF07EC9CBCEBA19C</13> 포격합시다!"
 56,"TEXT_BANANA503_03060_SYSTEM_000_021","또한 흉포해진 다라가 한 마리라도
 희귀한 광석에 도달하면, 처치는 실패하게 됩니다.
 재빨리 '포격'해서 3마리 모두 쓰러뜨립시다!"

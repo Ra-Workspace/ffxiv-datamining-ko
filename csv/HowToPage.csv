@@ -1057,7 +1057,9 @@ int32,byte,byte,Image,byte,str,str,str
 원예가와 광부가 받는 채집업 의뢰의 주된 달성 조건은 다음과 같습니다.
 - 지정된 모든 곳에서 채집하기
 - 지정된 아이템을 정해진 개수만큼 얻기","",""
-591,1,0,150702,0,"지정된 채집 장소 위에는 의뢰 표시 아이콘이 붙습니다.
+591,1,0,150702,0,"적정 레벨로 채집에 성공하면 높은 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>평가치<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 얻어, 더 많은 보상을 받을 수 있는 의뢰도 있습니다.
+
+지정된 채집 장소 위에는 의뢰 표시 아이콘이 붙습니다.
 
 미니맵에도 채집 지점이 표시됩니다.","",""
 592,0,0,0,0,"","",""
@@ -2062,7 +2064,7 @@ HQ 아이템은 품질이 좋은 아이템을 뜻하며, 보통 아이템보다 
 1241,1,0,151432,0,"소환수를 소환하면 소환수 전용 기술이 등록된 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>보조 단축바<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 표시됩니다.
 
 보조 단축바에 설정된 기술을 사용하면 소환수에게 명령을 내릴 수 있습니다.","",""
-1242,1,0,151433,0,"소환수에게 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>공격<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 명령을 내린 상태에서는 전투가 벌어지면 소환수도 함께 공격합니다.
+1242,1,0,151433,0,"소환수에게 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>공격<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 명령을 내린 상태에서는 전투가 벌어지면 소환수가 스스로 움직입니다.
 반면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>대기<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태에서는 플레이어가 명령을 내리기 전에는 움직이지 않습니다.
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>귀환<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 명령을 사용하면 소환수를 돌려보낼 수 있습니다.","",""
 1243,0,0,0,0,"","",""
@@ -2373,15 +2375,15 @@ PvP 프로필은 주 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F20
 1437,0,0,0,0,"","",""
 1438,0,0,0,0,"","",""
 1439,0,0,0,0,"","",""
-1440,1,0,151641,0,"각지의 야만족에게서 받을 수 있는 일일 퀘스트를 수행하면 해당 야만족과의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>우호도<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 올라갑니다.
+1440,1,0,151641,0,"각지의 우호부족에게서 받을 수 있는 일일 퀘스트를 수행하면 해당 부족과의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>우호도<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 올라갑니다.
 
-야만족과 친목이 두터워지면 우호도의 단계가 상승합니다.","",""
-1441,1,0,151642,0,"야만족 퀘스트는 하루에 12개까지만 받을 수 있습니다.
+우호부족과 친목이 두터워지면 우호도 단계가 상승합니다.","",""
+1441,1,0,151642,0,"우호부족 퀘스트는 하루에 12개까지만 받을 수 있습니다.
 
-야만족 퀘스트는 매일 새로운 내용으로 갱신되며, 전날 받은 퀘스트가 남아 있으면 새 퀘스트를 받을 수 없습니다.","",""
-1442,1,0,151643,0,"각 야만족의 우호도와 우호도 단계는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>캐릭터<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>평판<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 탭에서확인할 수 있습니다.
+우호부족 퀘스트는 매일 새로운 내용으로 갱신되며, 전날 받은 퀘스트가 남아 있으면 새 퀘스트를 받을 수 없습니다.","",""
+1442,1,0,151643,0,"각 부족의 우호도와 우호도 단계는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>캐릭터<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>평판<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 탭에서확인할 수 있습니다.
 
-우호도 단계가 올라가면 야만족들 나름의 삶과 사고방식을 접할 기회가 찾아올 것입니다.","",""
+우호도 단계가 올라가면 그들 나름의 삶과 사고방식을 접할 기회가 찾아올 것입니다.","",""
 1443,0,0,0,0,"","",""
 1444,0,0,0,0,"","",""
 1445,0,0,0,0,"","",""
@@ -2389,12 +2391,13 @@ PvP 프로필은 주 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F20
 1447,0,0,0,0,"","",""
 1448,0,0,0,0,"","",""
 1449,0,0,0,0,"","",""
-1450,1,0,151651,0,"야만족 퀘스트를 완료하면 퀘스트를 의뢰한 야만족과의 우호도가 상승합니다.
+1450,1,0,151651,0,"우호부족 퀘스트를 완료하면, 퀘스트를 의뢰한 부족의 우호도가 상승합니다.
+
 우호도가 일정 수준에 도달하면 우호도 단계를 올리기 위한 특별 퀘스트를 받을 수 있습니다.","",""
-1451,1,0,151652,0,"우호도 단계가 오르면 해당 야만족 전용 상점에서 파는 야만족 관련 아이템을 구매할 수 있습니다.","",""
+1451,1,0,151652,0,"우호도 단계가 오르면, 해당 부족 전용 상점에서 파는 우호부족 관련 아이템을 구매할 수 있습니다.","",""
 1452,1,0,151653,0,"우호도 단계가 올라갈수록 판매하는 아이템 종류가 늘어납니다.
 
-야만족과의 친목을 쌓고 특별한 아이템을 손에 넣으세요!","",""
+우호부족과 친목을 쌓고 특별한 아이템을 손에 넣으세요!","",""
 1453,0,0,0,0,"","",""
 1454,0,0,0,0,"","",""
 1455,0,0,0,0,"","",""
@@ -2637,7 +2640,7 @@ PvP 프로필은 주 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F20
 집사에게 좋은 장비를 장착시키면 획득 가능한 아이템의 종류가 늘고, 더 많은 아이템을 가져오기도 합니다.","",""
 1601,1,0,151802,0,"집사 수행을 보내려면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>집사 급료<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 보수로 지급해야 합니다.
 
-집사 급료는 소속 총사령부에서 군표와 교환하거나, 길드 의뢰 또는 야만족 퀘스트를 달성하면 획득할 수 있습니다.
+집사 급료는 소속 총사령부에서 군표와 교환하거나, 길드 의뢰 또는 우호부족 퀘스트를 달성하면 획득할 수 있습니다.
 급료가 있으면 망설이지 말고 집사 수행에 사용하세요!","",""
 1602,1,0,151803,0,"집사가 수행을 떠나도 초인종을 울려 불러내거나 장터에 출품하는 데에는 지장이 없습니다.
 
@@ -2944,9 +2947,9 @@ PvP 프로필은 주 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F20
 
 납품할 때마다 아이콘으로 표시된 제작자 클래스가 경험치를 얻습니다.
 경험치가 필요한 클래스가 있다면 해당 클래스의 아이콘이 붙은 아이템 중에서 공헌도가 높은 것을 납품하세요.","",""
-1792,1,0,151983,0,"다른 야만족 일일 퀘스트와 달리, 한 번 포기하면 야만족 일일 퀘스트가 갱신되기 전까지 다시 받을 수 없습니다.
+1792,1,0,151983,0,"다른 우호부족 일일 퀘스트와 달리, 한번 포기하면 일일 퀘스트가 갱신되기 전까지 다시 받을 수 없습니다.
 
-이크살이 지정한 아이템은 매일 <Time(1285081200)/><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후 <Else/>오전 </If><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신됩니다.
+이크살이 지정한 아이템은 매일 <ResetTime>01</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신됩니다.
 퀘스트를 완료하지 않은 채 날짜가 바뀌지 않도록 주의하세요.","",""
 1800,1,0,151991,0,"레벨 50이 된 집사에게 좋은 장비를 갖춰주면 더욱 희귀한 발굴품을 찾아올 수 있습니다.
 
@@ -3808,8 +3811,18 @@ RP는 다른 모험가와 대결했을 때의 승패에 따라 변화합니다.
 2563,0,0,0,0,"","",""
 2564,0,0,0,0,"","",""
 2565,0,0,0,0,"","",""
-2566,0,0,0,0,"","",""
-2567,0,0,0,0,"","",""
-2568,0,0,0,0,"","",""
-2569,0,0,0,0,"","",""
+2566,1,0,152921,0,"제작법 중에는 작업량을 다 채우더라도 품질이 일정 수치 미만이면 제작에 실패하는 것도 있습니다.
+
+완성에 필요한 품질은 제작수첩에 기재되어 있습니다.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>가공<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 같은 기술을 사용하여 품질을 높이고, 아이템을 완성하세요!","",""
+2567,1,0,152931,0,"일부 소장품은 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>무정형성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 갖습니다.
+
+무정형성이 있는 소장품은 소장 가치를 최대로 높여서 정제하면 귀중한 아이템이 나오기도 합니다.","",""
+2568,1,0,152932,0,"무정형성 소장품의 소장 가치를 최대로 올려 채집하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>승화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하는 경우가 있습니다.
+
+승화한 소장품을 정제하면 귀중한 아이템이 반드시 나옵니다.","",""
+2569,1,0,152933,0,"플레이어의 획득력이 높을수록 무정형성 소장품이 승화할 확률이 증가합니다.
+
+획득력을 올려서 무정형성 소장품을 승화시키고, 귀중한 아이템을 획득해 보세요!","",""
 2570,0,0,0,0,"","",""
