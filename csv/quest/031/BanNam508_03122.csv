@@ -29,14 +29,14 @@ int32,str,str
 22,"TEXT_BANNAM508_03122_SEQ_22",""
 23,"TEXT_BANNAM508_03122_SEQ_23",""
 24,"TEXT_BANNAM508_03122_TODO_00","재회시장 주변에 있는 요리를 좋아하는 나마즈오와 대화"
-25,"TEXT_BANNAM508_03122_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
+25,"TEXT_BANNAM508_03122_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
+<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>재회시장 남쪽 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>재회시장 남쪽 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>넴 칼에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>재회시장 근처에 있는 요리를 좋아하는 나마즈오에게 
@@ -151,7 +151,7 @@ int32,str,str
 으윽, 이런 맛은 태어나서 처음 먹어봐.
 맛만큼 보기에도 역겨워서 이걸 어떻게 요리라고 불러!?"
 84,"TEXT_BANNAM508_03122_YESUI_000_054","아아, 양들의 울음소리가 오늘도 참 아름답네.
-태양신 아짐과 달신 나아마여, 이 세계를 주셔서 감사합니다……!
+태양신 아짐과 달의 신 나아마여, 이 세계를 주셔서 감사합니다……!
 ……아, 미안! 너무나도 맛이 없어서 현실을 직시할 수 없었어."
 85,"TEXT_BANNAM508_03122_YESUI_000_055","어쨌든 고맙게 잘 먹었어.
 나마즈오들한테도 잘 얘기해줘."

@@ -48,389 +48,395 @@ int32,str,str
 25,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_002_002","'광부'와 '원예가'의 소장품은 세부 메뉴를 열어
 '채집 방법 검색'을 선택하면
 채집수첩에서 채집 장소가 표시됩니다."
-26,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_002_003","'어부'의 소장품은 아이템 툴팁에 직접적으로
-낚시 장소에 대한 힌트가 나옵니다."
-27,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_002_004","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
+26,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_002_003","'어부'의 채집 소장품은 목록에서 세부 메뉴를 열어
+'획득 장소 표시'를 선택하면
+해당 물고기를 잡을 수 있는 낚시터 또는 어장이 표시됩니다."
+27,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_102_003","또한, 낚시를 할 때는
+미끼로 '<Sheet(Item,28634,0)/>' 사용을 추천합니다."
+28,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_002_004","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
 '제작자'와 '광부 및 원예가', '어부'의 세 분야로 나뉘며,
 모두 '소장품'이어야 합니다."
-28,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_003_000","의뢰물 제작에 필요한 재료는
+29,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_003_000","의뢰물 제작에 필요한 재료는
 랄거의 손길 서쪽에 있는
 '재료 상인'에게서 구입할 수 있습니다."
-29,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_000","제작 물품의 '소장 가치'는
+30,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_000","제작 물품의 '소장 가치'는
 제작 시에 '품질'을 높이면 상승합니다.
 최대한 품질을 높여서 완성시키는 것이 중요합니다."
-30,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_002","품질이 높아지는 기술에 성공하면
+31,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_002","품질이 높아지는 기술에 성공하면
 자신에게 '정신 집중'이 부여됩니다."
-31,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_003","（★未使用／削除予定★）"
-32,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_004","최대한 수많은 정신 집중을 축적해 놓고
+32,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_003","（★未使用／削除予定★）"
+33,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_004","최대한 수많은 정신 집중을 축적해 놓고
 마지막에 '비레고의 축복' 등으로
 단숨에 품질을 올려 완성해 보세요."
-33,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_005","그 외에도 품질을 높이는 기술이 여럿 존재합니다.
+34,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_005","그 외에도 품질을 높이는 기술이 여럿 존재합니다.
 익숙해지면 다양하게 시도하여 자기만의 제작법을 찾아봅시다."
-34,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_005_000","소장품 채집 아이템을 선택하면 특수 창이 표시됩니다.
+35,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_005_000","소장품 채집 아이템을 선택하면 특수 창이 표시됩니다.
 소장품 채집용 기술을 사용해
 '소장 가치'를 올린 다음 아이템을 채집합니다."
-35,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_005_001","'광부'와 '원예가'로 소장 가치를 올리려면
+36,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_005_001","'광부'와 '원예가'로 소장 가치를 올리려면
 기술 '집중 검사'를 사용한 다음 '순화'를 사용합니다.
 이를 반복하여 소장품을 채집해보세요."
-36,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_005_002","소장 가치를 더 높이고 싶은 경우에는
+37,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_005_002","소장 가치를 더 높이고 싶은 경우에는
 장비를 갖추고 '획득력'과 '기술력'을 높여보세요.
 소장품 채집용 기술의 효과가 높아집니다."
-37,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_005_003","'GP'가 부족하다면 장비를 갖추고
+38,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_005_003","'GP'가 부족하다면 장비를 갖추고
 '최대 GP'를 높여보세요."
-38,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_006_000","수산물은 낚은 '물고기의 크기'가
+39,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_006_000","수산물은 낚은 '물고기의 크기'가
 그대로 '소장 가치'가 됩니다."
-39,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_006_001","소장품 목록에 있는 물고기가 낚이는 낚시터로 가서
+40,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_006_001","소장품 목록에 있는 물고기가 낚이는 낚시터로 가서
 기술 '소장품 채집'을 사용하고 낚시를 시작하세요."
-40,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_006_002","기술 '인내 2'를 사용한 뒤
+41,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_006_002","기술 '인내 2'를 사용한 뒤
 적절한 낚아채기 기술을 사용하면
 큰 물고기를 낚을 수 있습니다."
-41,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_006_003","크기가 생각만큼 크지 않을 때에는 '기술력'이 올라가는
+42,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_006_003","크기가 생각만큼 크지 않을 때에는 '기술력'이 올라가는
 장비를 갖추어 봅시다."
-42,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
+43,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
 '제작자'와 '광부 및 원예가', '어부' 세 종류로 나뉘며,
 모두 '소장품'이어야 합니다."
-43,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_008","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
+44,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_008","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
 해당 클래스 레벨이 60 이상일 때 가능합니다."
-44,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_009","납품 시 클래스 레벨이 89 이하인 경우는
+45,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_009","납품 시 클래스 레벨이 89 이하인 경우는
 레벨 90이 되면 받을 수 있는 화폐 보상 대신
 경험치 보상을 얻을 수 있습니다."
-45,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_001","각 소장품의 입수 방법은
+46,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_001","각 소장품의 입수 방법은
 다음과 같이 확인하실 수 있습니다."
-46,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_002","제작 소장품은 의뢰 목록의 세부 메뉴에서
+47,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_002","제작 소장품은 의뢰 목록의 세부 메뉴에서
 '제작법 검색'을 선택하면
 제작수첩에서 제작법이 표시됩니다."
-47,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_003","의뢰물 제작에 필요한 재료는
+48,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_003","의뢰물 제작에 필요한 재료는
 랄거의 손길 서쪽에 있는
 '재료 상인'에게서 구입할 수 있습니다."
-48,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_004","광부 및 원예가의 채집 소장품은 의뢰 목록에서
+49,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_004","광부 및 원예가의 채집 소장품은 의뢰 목록에서
 세부 메뉴 '채집 방법 검색'을 선택하면
 채집수첩에서 채집 장소가 표시됩니다."
-49,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_005","어부의 채집 소장품은 의뢰 목록의
-아이템 툴팁에 낚시 장소에 대한 힌트가 나옵니다."
-50,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_006","'소장 가치'가 높을수록
+50,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_005","'어부'의 채집 소장품은 목록에서 세부 메뉴를 열어
+'획득 장소 표시'를 선택하면
+해당 물고기를 잡을 수 있는 낚시터 또는 어장이 표시됩니다."
+51,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_100_005","또한, 낚시를 할 때는
+미끼로 '<Sheet(Item,28634,0)/>' 사용을 추천합니다."
+52,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_006","'소장 가치'가 높을수록
 납품 시에 더 많은 보상을 받을 수 있습니다."
-51,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_007","소장 가치를 올리는 방법이 궁금하면
+53,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_000_007","소장 가치를 올리는 방법이 궁금하면
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 걸어
 '단골 거래에 대해 물어보기'를 선택하세요."
-52,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_001_000","의뢰물을 납품함으로써
+54,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_001_000","의뢰물을 납품함으로써
 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EAB080FF04EC9DB4</13> 당신을 신뢰하게 되었습니다."
-53,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
+55,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
 '신뢰 단계'가 상승하며, <Sheet(ENpcResident,IntegerParameter(1),0)/>의
 새로운 이야기를 볼 수 있습니다."
-54,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
+56,"TEXT_CTSSFSCHARACTER2_00434_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
 적극적으로 소장품을 납품하여 신뢰도를 올리세요!"
-55,"TEXT_CTSSFSCHARACTER2_00434_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
+57,"TEXT_CTSSFSCHARACTER2_00434_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
 현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
 다시 납품할 수 있습니다."
-56,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_001_000","부탁드렸던 기라바니아의 특산품이군요!
+58,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_001_000","부탁드렸던 기라바니아의 특산품이군요!
 그리다니아에서는 다 보기 드문 물건들이니
 분명 거래도 잘될 거예요!"
-57,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_001_001","이국적인 정서가 물씬 풍기는 물건이군요!
+59,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_001_001","이국적인 정서가 물씬 풍기는 물건이군요!
 이게 동방 취향이라는 걸까요…….
 분명 수집가분들의 마음에도 들 거예요!"
-58,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_001_002","재미있고 화려한 물건들…….
+60,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_001_002","재미있고 화려한 물건들…….
 골드 소서의 추억을 떠오르게 하는 기념품으로
 틀림없이 주목을 받게 되겠네요!"
-59,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_001_003","전통적으로 수렵 생활을 하는 메씨족에
+61,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_001_003","전통적으로 수렵 생활을 하는 메씨족에
 정말 필요한 물건들뿐이어서 많은 도움이 되겠어요!
 우리 부모님이랑 동생들도 기뻐할 거예요!"
-60,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_001_004","해방을 위한 전쟁은 끝났지만,
+62,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_001_004","해방을 위한 전쟁은 끝났지만,
 해방을 유지하기 위한 활동은 앞으로도 계속됩니다.
 이 군수품들은 소중하게 잘 쓸게요!"
-61,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_002_000","기라바니아 특유의 금모래 '<Sheet(Item,IntegerParameter(1),0)/>'네요!
+63,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_002_000","기라바니아 특유의 금모래 '<Sheet(Item,IntegerParameter(1),0)/>'네요!
 파괴신 랄거가 부순 별의 조각이라 불리는 아름다움…….
 이 정도 품질의 금이라면 그리다니아에서도 귀하게 쓰일 거예요!"
-62,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_002_001","이 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 보존 상태가 좋군요!
+64,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_002_001","이 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 보존 상태가 좋군요!
 이런 동전을 소장하고 있는 수집가들이 많다고 하니
 틀림없이 좋은 거래를 할 수 있을 거예요!"
-63,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_002_002","코터 왕조 시대의 오래된 장신구군요!
+65,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_002_002","코터 왕조 시대의 오래된 장신구군요!
 근동식 의장을 이용하고 있는 것이 특징적이네요.
 특이한 경품으로 인기를 끌 것 같아요!"
-64,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_002_003","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13>
+66,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_002_003","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13>
 메씨족의 전통적인 염색에 사용되는 안료예요.
 의상을 만들 때 꼭 필요한 거라 다들 좋아할 거예요!"
-65,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_002_004","굉장히 영양가 있어 보이는 <Sheet(Item,IntegerParameter(1),0)/><14>FF0E02280AFF054974656DE8020103FF04EBA19CFF07EC9CBCEBA19C</14>군요!
+67,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_002_004","굉장히 영양가 있어 보이는 <Sheet(Item,IntegerParameter(1),0)/><14>FF0E02280AFF054974656DE8020103FF04EBA19CFF07EC9CBCEBA19C</14>군요!
 짐승의 뿔을 사용한 알라미고 전통의 약차도 좋지만,
 식물에서 추출한 약차도 아주 귀중하답니다!"
-66,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_003_000","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 현지에선 잘 알려진 생선이죠.
+68,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_003_000","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 현지에선 잘 알려진 생선이죠.
 엄마가 만드는 피라미를 구운 요리는 정말 맛있답니다.
 고향의 맛을 그리다니아 분들에게도 전해드리고 싶네요."
-67,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_003_001","마치 산호와도 같은 아름다운 빛깔…….
+69,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_003_001","마치 산호와도 같은 아름다운 빛깔…….
 관상용 물고기로 인기가 있는 이유를 알겠네요!
 분명 수집가분들에게도 큰 인기를 끌 거예요!"
-68,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_003_002","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 따뜻한 곳에서도 자라는 생명력이 강한 해조구에요.
+70,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_003_002","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13> 따뜻한 곳에서도 자라는 생명력이 강한 해조구에요.
 모양이 예쁜 개체가 적어서, 가치가 있고 없고의 차이가 매우 큰데
 이건 정말 최고의 해조구에요!"
-69,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_003_003","참 훌륭한 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF07EB84A4EC9A94FF0AEC9DB4EB84A4EC9A94</13>……!
+71,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_003_003","참 훌륭한 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF07EB84A4EC9A94FF0AEC9DB4EB84A4EC9A94</13>……!
 이걸로 만든 뫼니에르는 정말 맛있어서 모두가 좋아하죠!
 뭐…… 제가 만들면 항상 숯덩이처럼 태워버리지만요……."
-70,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_003_004","아주 싱싱한 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF07EAB5B0EC9A94FF0AEC9DB4EAB5B0EC9A94</13>!
+72,"TEXT_CTSSFSCHARACTER2_00434_KNOWLEDGE_MNAAGO_003_004","아주 싱싱한 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF07EAB5B0EC9A94FF0AEC9DB4EAB5B0EC9A94</13>!
 영양가가 높아 부상병들의 자양 강장에 도움이 된답니다.
 틀림없이 오렐라 선생님께서도 좋아하실 거예요!"
-71,"TEXT_CTSSFSCHARACTER2_00434_JUDGEMENT_MNAAGO_000_000","그럼 외람되지만 납품하신 물건을 살펴보겠습니다.
+73,"TEXT_CTSSFSCHARACTER2_00434_JUDGEMENT_MNAAGO_000_000","그럼 외람되지만 납품하신 물건을 살펴보겠습니다.
 흐음…… 이 튼튼하고 안정적인 품질, 대단하군요!
 뛰어난 장인의 솜씨를 접할 수 있어 영광입니다!"
-72,"TEXT_CTSSFSCHARACTER2_00434_JUDGEMENT_MNAAGO_000_001","그럼 외람되지만 납품하신 물건을 살펴보겠습니다.
+74,"TEXT_CTSSFSCHARACTER2_00434_JUDGEMENT_MNAAGO_000_001","그럼 외람되지만 납품하신 물건을 살펴보겠습니다.
 흐음…… 훌륭하다고밖에 표현할 수 없는 품질이네요!
 저 같은 초짜의 눈에도 확실하게 차이가 보이는걸요!"
-73,"TEXT_CTSSFSCHARACTER2_00434_JUDGEMENT_MNAAGO_000_002","그럼 외람되지만 납품하신 물건을 살펴보겠습니다.
+75,"TEXT_CTSSFSCHARACTER2_00434_JUDGEMENT_MNAAGO_000_002","그럼 외람되지만 납품하신 물건을 살펴보겠습니다.
 이, 이럴 수가…… 이건 일품이라 부를 만한 품질이네요!
 해방자님은 장인으로서도 일류의 솜씨를 가지셨군요!"
-74,"TEXT_CTSSFSCHARACTER2_00434_JUDGEMENT_MNAAGO_000_003","그럼 외람되지만 납품하신 물건을 살펴보겠습니다.
+76,"TEXT_CTSSFSCHARACTER2_00434_JUDGEMENT_MNAAGO_000_003","그럼 외람되지만 납품하신 물건을 살펴보겠습니다.
 ……오오, 어쩜 이렇게 뛰어날 수가!
 틀림없이 메씨족 모두가 마음에 들어할 거예요!"
-75,"TEXT_CTSSFSCHARACTER2_00434_JUDGEMENT_MNAAGO_000_004","그럼 외람되지만 납품하신 물건을 살펴보겠습니다.
+77,"TEXT_CTSSFSCHARACTER2_00434_JUDGEMENT_MNAAGO_000_004","그럼 외람되지만 납품하신 물건을 살펴보겠습니다.
 ……정말 훌륭한 물건이네요!
 해방군의 일상에 아주 큰 도움이 되어줄 것 같아요!"
-76,"TEXT_CTSSFSCHARACTER2_00434_FULLBAG_000_000","소지품에 공간이 부족하여
+78,"TEXT_CTSSFSCHARACTER2_00434_FULLBAG_000_000","소지품에 공간이 부족하여
 신뢰도 상승 보상을 받을 수 없습니다."
-77,"TEXT_CTSSFSCHARACTER2_00434_FULLBAG_000_001","소지품을 정리한 뒤,
+79,"TEXT_CTSSFSCHARACTER2_00434_FULLBAG_000_001","소지품을 정리한 뒤,
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 다시 말을 거십시오."
-78,"TEXT_CTSSFSCHARACTER2_00434_BEFRANKUP_MNAAGO_000_000","<Highlight>ObjectParameter(1)</Highlight> 님, 협력해주셔서 감사합니다!
+80,"TEXT_CTSSFSCHARACTER2_00434_BEFRANKUP_MNAAGO_000_000","<Highlight>ObjectParameter(1)</Highlight> 님, 협력해주셔서 감사합니다!
 덕분에 기라바니아 특산품이 많이 모였으니
 틀림없이 그리다니아 수집가들의 관심을 끌 수 있을 거예요!"
-79,"TEXT_CTSSFSCHARACTER2_00434_BEFRANKUP_MNAAGO_001_000","<Highlight>ObjectParameter(1)</Highlight> 님, 협력해주셔서 감사합니다!
+81,"TEXT_CTSSFSCHARACTER2_00434_BEFRANKUP_MNAAGO_001_000","<Highlight>ObjectParameter(1)</Highlight> 님, 협력해주셔서 감사합니다!
 덕분에 동방풍 소장품이 많이 모였어요.
 당장 울다하 부호들에게 팔러 가겠어요!"
-80,"TEXT_CTSSFSCHARACTER2_00434_BEFRANKUP_MNAAGO_002_000","<Highlight>ObjectParameter(1)</Highlight> 님, 협력해주셔서 감사합니다!
+82,"TEXT_CTSSFSCHARACTER2_00434_BEFRANKUP_MNAAGO_002_000","<Highlight>ObjectParameter(1)</Highlight> 님, 협력해주셔서 감사합니다!
 덕분에 골드 소서 경품이 많이 모였어요.
 이 경품이 있으면 틀림없이 오락장이 더 재미있어질 거예요!"
-81,"TEXT_CTSSFSCHARACTER2_00434_BEFRANKUP_MNAAGO_003_000","<Highlight>ObjectParameter(1)</Highlight> 님, 협력해주셔서 감사합니다!
+83,"TEXT_CTSSFSCHARACTER2_00434_BEFRANKUP_MNAAGO_003_000","<Highlight>ObjectParameter(1)</Highlight> 님, 협력해주셔서 감사합니다!
 덕분에 메씨족 일용품이 모였어요.
 이 정도 있으면 메씨족 사람들에게 아주 큰 도움이 될 거예요."
-82,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_000","<Highlight>ObjectParameter(1)</Highlight> 님께서 납품해주신
+84,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_000","<Highlight>ObjectParameter(1)</Highlight> 님께서 납품해주신
 '기라바니아 특산품'은 그리다니아의 수집가들이 아주 좋아하더군요!
 쉽게 구할 수 없었던 것들이라 아주 귀하게 여기더라고요."
-83,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_001","그리고 어느 정도 자금이 모였길래
+85,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_001","그리고 어느 정도 자금이 모였길래
 바로 전사자 유족에게 후원금을 보냈어요.
 감사 인사를 하고 싶다는 분이 마침 여기 와 계세요."
-84,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_GERMAINNE_001_002","안녕하세요, 게르메인이라고 합니다.
+86,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_GERMAINNE_001_002","안녕하세요, 게르메인이라고 합니다.
 전 아버지와 함께 해방군에 있었습니다만,
 아버지께서 전사하셔서…… 후원금을 받게 되었습니다. "
-85,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_GERMAINNE_001_003","메나고 씨가 해방자이신 당신이 자금 마련을 위해 협력하신다길래
+87,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_GERMAINNE_001_003","메나고 씨가 해방자이신 당신이 자금 마련을 위해 협력하신다길래
 꼭 감사 인사를 드려야겠다 싶어서 이렇게 찾아왔습니다.
 정말로 고맙습니다."
-86,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_GERMAINNE_001_004","저는 어렸을 때부터 학문의 길로 나아가는 게 꿈이었습니다.
+88,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_GERMAINNE_001_004","저는 어렸을 때부터 학문의 길로 나아가는 게 꿈이었습니다.
 하지만 제국의 지배를 받는 우리에게 자유는 주어지지 않아서
 전 아버지와 함께 해방운동에 참가해 계속 싸워왔습니다."
-87,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_GERMAINNE_001_005","이제 해방되었으니 마음껏 제 꿈을 펼치고자 합니다.
+89,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_GERMAINNE_001_005","이제 해방되었으니 마음껏 제 꿈을 펼치고자 합니다.
 열심히 공부해서 해방군과 알라미고에 도움이 되고 싶습니다.
 후원금은 책이나 필기구를 사는 데 쓰겠습니다. "
-88,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_006","게르메인의 아버지는 제노스 일당이 랄거의 손길을
+90,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_006","게르메인의 아버지는 제노스 일당이 랄거의 손길을
 습격했을 때, 그녀를 보호하려다 전사하셨어요."
-89,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_007","그 습격이 있던 날, 저는 부상을 입는 바람에
+91,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_007","그 습격이 있던 날, 저는 부상을 입는 바람에
 쿠루루 님과 함께 먼저 그곳을 빠져나왔어요.
 마지막까지 남겠다고 고집을 부리긴 했지만……."
-90,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_008","결국 메프리드의 설득에 못이겨 탈출했어요.
+92,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_008","결국 메프리드의 설득에 못이겨 탈출했어요.
 하지만 그때 전장에 남았던 메프리드는…….
 그는 정말로 동료를 아끼는 훌륭한 전사였어요."
-91,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_009","아 참, 최근에 알게 된 사실인데요,
+93,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_009","아 참, 최근에 알게 된 사실인데요,
 메프리드에게는 부인과 아이가 있었다고 해요.
 생전에는 조금도 티를 안 내서 전혀 몰랐었지만요."
-92,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_010","숨진 그를 위해서라도 가족에게 후원금을 보내고 싶은데,
+94,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_010","숨진 그를 위해서라도 가족에게 후원금을 보내고 싶은데,
 어디에 있는지 소재 파악이 안 돼서 찾고 있는 중이에요."
-93,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_011","아무튼 여러모로 힘써주신 덕분에 다른 전사자 유족분들도
+95,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_011","아무튼 여러모로 힘써주신 덕분에 다른 전사자 유족분들도
 이번 후원금을 받고 아주 기뻐하셨어요.
 정말 감사드려요."
-94,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_012","하지만 이걸로 끝난 건 아니에요.
+96,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_012","하지만 이걸로 끝난 건 아니에요.
 싸우다가 죽어간 동료들은 아직 많이 있어요.
 그리고 그 유족분들도 많이 계시고요."
-95,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_013","이 사업은 이제부터 시작이에요.
+97,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_013","이 사업은 이제부터 시작이에요.
 그러니 앞으로도 많은 협력을 부탁드릴게요!"
-96,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_000","<Highlight>ObjectParameter(1)</Highlight> 님께서 납품해주신
+98,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_000","<Highlight>ObjectParameter(1)</Highlight> 님께서 납품해주신
 '동방풍 소장품'이 울다하의 부호들에게 날개 돋힌 듯 팔렸어요!
 그것도 다들 깜짝 놀랄 만큼 비싼 가격으로 사가더라고요."
-97,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_001","순식간에 자금이 모였으니
+99,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_001","순식간에 자금이 모였으니
 다시 전사자 유족 분에게 후원금을 보내드렸는데,
 이번에도 감사 인사를 하고 싶다는 분이 찾아오셨네요."
-98,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_WOMAN00434_002_002","처음 뵙겠습니다.
+100,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_WOMAN00434_002_002","처음 뵙겠습니다.
 전 이름을 밝힐 만한 사람은 아니고,
 전사한 어느 해방군 투사의 어미 되는 사람입니다."
-99,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_WOMAN00434_002_003","후원금을 보내주셔서 정말로 감사드립니다.
+101,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_WOMAN00434_002_003","후원금을 보내주셔서 정말로 감사드립니다.
 국가의 부흥을 위해 모두가 바쁘고 힘든 시기에
 후원금을 받게 되리라곤 생각도 못했어요."
-100,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_WOMAN00434_002_004","죽은 아들 녀석은 이런 말을 자주 했었지요.
+102,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_WOMAN00434_002_004","죽은 아들 녀석은 이런 말을 자주 했었지요.
 해방이 되면, 장사를 시작해서 돈을 많이 벌어
 엄마를 행복하게 해주겠다고……."
-101,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_WOMAN00434_002_005","제게는 후원금이 아들 녀석이 보내준 선물로 여겨진답니다.
+103,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_WOMAN00434_002_005","제게는 후원금이 아들 녀석이 보내준 선물로 여겨진답니다.
 죄송해요, 두 분이 고생해서 마련해준 돈인데……."
-102,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_WOMAN00434_002_006","정말 진심으로 감사드립니다. 그럼 실례할게요."
-103,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_007","저분 아들은 황제의 감시탑에서 벌어진 전투에서
+104,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_WOMAN00434_002_006","정말 진심으로 감사드립니다. 그럼 실례할게요."
+105,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_007","저분 아들은 황제의 감시탑에서 벌어진 전투에서
 중심탑이 붕괴되면서 목숨을 잃었어요."
-104,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_008","그때 전 콘래드 대장님과 함께 있었죠.
+106,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_008","그때 전 콘래드 대장님과 함께 있었죠.
 대장님은 계속 저항하던 해골연대의 젊은이들을 설득 중이었는데
 그들이 투항한 직후에 제국이 중심탑을 폭격해서……."
-105,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_009","솔직히 저는 배신자인 해골연대를 설득하면서까지
+107,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_009","솔직히 저는 배신자인 해골연대를 설득하면서까지
 구해야 할 필요가 있었는지…… 지금도 의문이 남아요."
-106,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_010","콘래드 대장님은 해방 후의 알라미고를 생각해서
+108,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_010","콘래드 대장님은 해방 후의 알라미고를 생각해서
 알라미고인들끼리 미워하거나 원망하는 일이 없도록
 많이 노력하셨어요."
-107,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_011","그 마음은 이해하지만, 결국 대장님뿐 아니라 동료들도 희생됐고
+109,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_011","그 마음은 이해하지만, 결국 대장님뿐 아니라 동료들도 희생됐고
 심지어 투항한 해골연대의 젊은이들까지 목숨을 잃었잖아요."
-108,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_012","물론 갑작스런 폭격을 누가 예상했겠어요…….
+110,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_012","물론 갑작스런 폭격을 누가 예상했겠어요…….
 하지만 설득하느라 시간을 많이 뺏기지만 않았어도
 대장님도 동료들도 모두 무사했을 거란 생각을 지울 수가 없어요."
-109,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_013","죄송합니다, 저도 모르게 두서없이 얘기가 길어졌네요.
+111,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_013","죄송합니다, 저도 모르게 두서없이 얘기가 길어졌네요.
 덕분에 이번에도 전사자 유족분들께서 기뻐해주셨어요.
 진심으로 감사드립니다. "
-110,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_014","그런데, 콘래드 대장님께는 사모님이 계세요.
+112,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_014","그런데, 콘래드 대장님께는 사모님이 계세요.
 다음에 자금이 모이면 후원금을 직접 전달하러 갈 생각이에요."
-111,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_015","<Highlight>ObjectParameter(1)</Highlight> 님도
+113,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_015","<Highlight>ObjectParameter(1)</Highlight> 님도
 콘래드 대장님과 인연이 깊으시죠?
 사모님을 뵈러 갈 때 같이 가주시면 좋을 것 같아요."
-112,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_003_000","<Highlight>ObjectParameter(1)</Highlight> 님께서 납품해주신
+114,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_003_000","<Highlight>ObjectParameter(1)</Highlight> 님께서 납품해주신
 '골드 소서 경품'이 큰 인기를 끌면서
 덕분에 오락장 분위기가 뜨겁게 달아오르고 있대요!"
-113,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_003_001","덕분에 어느 정도 자금이 모였어요.
+115,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_003_001","덕분에 어느 정도 자금이 모였어요.
 예전에 말씀드린 대로 이번에는 콘래드 대장님의 사모님께
 직접 후원금을 전달하러 갈 생각이에요."
-114,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_003_002","아, 그리고 지난번에 말씀드린
+116,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_003_002","아, 그리고 지난번에 말씀드린
 메프리드의 부인과 아이가 어디 있는지도 알아냈어요.
 그래서 가다가 들러서 후원금을 전달하려고요."
-115,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_003_003","메프리드와 콘래드 대장님은 모두
+117,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_003_003","메프리드와 콘래드 대장님은 모두
 <Highlight>ObjectParameter(1)</Highlight> 님과 인연이 깊으니,
 꼭 같이 가주셨으면 해요."
-116,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_003_004","일단 한번 생각해보시고, 같이 가주시겠다면
+118,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_003_004","일단 한번 생각해보시고, 같이 가주시겠다면
 그때 다시 말을 걸어주세요."
-117,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_000","<Highlight>ObjectParameter(1)</Highlight> 님께서 납품해주신
+119,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_000","<Highlight>ObjectParameter(1)</Highlight> 님께서 납품해주신
 '메씨족 일용품'이 메씨족 사이에서 매우 호평이에요.
 다들 너무 도움이 된대요! "
-118,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_001","후원금 자금을 모으면서 효도도 할 수 있다니 일석이조네요!
+120,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_001","후원금 자금을 모으면서 효도도 할 수 있다니 일석이조네요!
 정말로 감사합니다!"
-119,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_002","엄마!?
+121,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_002","엄마!?
 여기까지 오시다니, 무슨 일 있어요?"
-120,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MHAHTOA_004_003","일하는 중에 미안하구나.
+122,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MHAHTOA_004_003","일하는 중에 미안하구나.
 지난번에는 미처 말을 못 꺼냈는데,
 너한테 꼭 해야 할 말이 있어서……."
-121,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MHAHTOA_004_004","나고야, 이제 알라미고도 해방되었으니
+123,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MHAHTOA_004_004","나고야, 이제 알라미고도 해방되었으니
 일족이 사는 곳으로 돌아오는 건 어떠니?
 엄마는 네가 우리와 함께 평온한 나날을 보냈으면 해."
-122,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_005","어, 엄마. 나는 해야 할 일이……."
-123,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MHAHTOA_004_006","전사자 유족들에게 보내는 후원금 사업 말이지?
+124,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_005","어, 엄마. 나는 해야 할 일이……."
+125,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MHAHTOA_004_006","전사자 유족들에게 보내는 후원금 사업 말이지?
 그래, 아주 훌륭한 일이라고 생각해. 하지만…… 그 정도면
 이제 충분하지 않니? 네 인생을 희생하면서까지 계속할 필요가……."
-124,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_007","죄송해요, 엄마.
+126,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_007","죄송해요, 엄마.
 후원금을 전달한 사람은 아직 극히 일부에 불과해요.
 그리고 난 내 인생을 희생하고 있다고 생각 안 해요."
-125,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_008","물론 수렵 생활을 하는 메씨족의 생활과는 많이 다르죠.
+127,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_008","물론 수렵 생활을 하는 메씨족의 생활과는 많이 다르죠.
 하지만 저는 제 의지로 전투에 참여한 이상,
 목숨을 잃은 동료들에 대한 책임이 있어요."
-126,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_009","제가 모든 유족을 도울 수 있다고는 생각 안 해요.
+128,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_009","제가 모든 유족을 도울 수 있다고는 생각 안 해요.
 그래도 동료들의 영혼이 편히 잠들 수 있도록
 제가 할 수 있는 일은 최선을 다하고 싶어요."
-127,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_016","부족할지도 모르지만, 이게 바로 제 인생인걸요!"
-128,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MHAHTOA_004_010","……아무래도 널 설득하지 못할 것 같구나.
+129,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_016","부족할지도 모르지만, 이게 바로 제 인생인걸요!"
+130,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MHAHTOA_004_010","……아무래도 널 설득하지 못할 것 같구나.
 내 반대를 무릅쓰고 해방군에 지원했을 때에도
 지금과 똑같은 눈빛이었지……."
-129,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MHAHTOA_004_011","알겠어, 더 이상 말리지는 않으마.
+131,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MHAHTOA_004_011","알겠어, 더 이상 말리지는 않으마.
 하지만 딱 한 가지만 부탁할 게 있어.
 앞으로는…… 엄마를 보러 자주 돌아와주면 안 될까?"
-130,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_012","엄마…….
+132,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_012","엄마…….
 예…… 알겠어요."
-131,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_013","죄송해요, 갑자기 엄마가 오셔서 저도 놀라긴 했지만,
+133,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_013","죄송해요, 갑자기 엄마가 오셔서 저도 놀라긴 했지만,
 다시 한번 이 사업에 대한 저의 초심이 떠올랐어요."
-132,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_014","앞으로도 저는 목숨을 잃은 동료들을 위해
+134,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_014","앞으로도 저는 목숨을 잃은 동료들을 위해
 어려운 생활을 하고 있는 유족분들에게
 후원금을 통해 도움을 드리고 싶어요."
-133,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_015","하지만 이것도 다 <Highlight>ObjectParameter(1)</Highlight> 님께서
+135,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_015","하지만 이것도 다 <Highlight>ObjectParameter(1)</Highlight> 님께서
 저를 '단골 거래처'로 삼아주셔야 가능한 일이죠!"
-134,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_017","앞으로도 오래오래 잘 부탁드립니다!"
-135,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_100","그럼, 이번에 거래를 부탁드리고 싶은 소장품은
+136,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_017","앞으로도 오래오래 잘 부탁드립니다!"
+137,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_100","그럼, 이번에 거래를 부탁드리고 싶은 소장품은
 바로 '동방풍 소장품'이에요."
-136,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_101","사실 얼마 전에 해방군 총지휘관이 되신
+138,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_101","사실 얼마 전에 해방군 총지휘관이 되신
 라우반 각하와 말씀을 나눌 기회가 있었는데요,
 울다하 부호들 사이에서 동방풍 물건이 유행하고 있대요."
-137,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_102","그리고 그리다니아의 수집가들보다 울다하 부호들이
+139,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_102","그리고 그리다니아의 수집가들보다 울다하 부호들이
 돈도 더 잘 쓴다고 하니, 이건 기회다 싶어서요…….
 후후후, 저도 소장품을 거래하는 사람답게 세게 나가야겠어요."
-138,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_103","그래서 말인데요…… <Highlight>ObjectParameter(1)</Highlight> 님,
+140,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_001_103","그래서 말인데요…… <Highlight>ObjectParameter(1)</Highlight> 님,
 '동방풍 소장품'을 납품해주세요! 잘 부탁드리겠습니다!"
-139,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_100","자, 이번에 거래를 부탁드리고 싶은 소장품은,
+141,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_100","자, 이번에 거래를 부탁드리고 싶은 소장품은,
 '골드 소서 경품'이에요."
-140,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_101","울다하의 오락장 '골드 소서'는 알고 계시나요?
+142,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_101","울다하의 오락장 '골드 소서'는 알고 계시나요?
 그곳에서는 알라미고인들이 많이 일하고 있답니다."
-141,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_102","제 친구도 거기서 일하는데요, 후원금 얘길 했더니
+143,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_102","제 친구도 거기서 일하는데요, 후원금 얘길 했더니
 자기도 꼭 협력하고 싶다고 하더라고요."
-142,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_103","골드 소서에서는 경품으로 쓸 상품을
+144,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_103","골드 소서에서는 경품으로 쓸 상품을
 여러 상인들한테서 사들이고 있는데,
 저도 그 거래처 중 하나로 들어가게 되었어요."
-143,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_104","오락장은 저와 전혀 인연이 없는 곳인 줄 알았는데
+145,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_104","오락장은 저와 전혀 인연이 없는 곳인 줄 알았는데
 설마 이런 형태로 연을 맺게 되다니…….
 납품하러 가는 김에 좀 놀아볼까……."
-144,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_105","아, 물론 농담이에요!"
-145,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_106","아무튼 그렇게 됐으니…… <Highlight>ObjectParameter(1)</Highlight> 님,
+146,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_105","아, 물론 농담이에요!"
+147,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_002_106","아무튼 그렇게 됐으니…… <Highlight>ObjectParameter(1)</Highlight> 님,
 '골드 소서 경품'을 납품해주세요! 잘 부탁드리겠습니다!"
-146,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_100","자, 그럼 앞으로의 거래에 관해서 말인데요……."
-147,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_101","전사자 유족을 위해, 그리고 가족을 위해.
+148,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_100","자, 그럼 앞으로의 거래에 관해서 말인데요……."
+149,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_101","전사자 유족을 위해, 그리고 가족을 위해.
 나아가서는 '알라미고 해방군'을 위해서라도
 저는 이 사업을 계속할 생각이에요."
-148,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_102","해방된 후에도, 어렵게 쟁취한 자유를 수호하고
+150,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_102","해방된 후에도, 어렵게 쟁취한 자유를 수호하고
 알라미고를 부흥시키기 위해 해방군은 활동해나갈 거예요.
 저도 그 일원으로서 소장품 거래를 통해 도움이 되고자 해요."
-149,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_103","그러니 <Highlight>ObjectParameter(1)</Highlight> 님,
+151,"TEXT_CTSSFSCHARACTER2_00434_LCUT_RANKUP_MNAAGO_004_103","그러니 <Highlight>ObjectParameter(1)</Highlight> 님,
 앞으로도 소장품의 납품을 잘 부탁드립니다!"
-150,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+152,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '후원금 사업의 협력자'로 여기게 되었습니다!"
-151,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+153,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '후원금 사업의 동지'로 여기게 되었습니다!"
-152,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+154,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '후원금 사업의 구세주'로 여기게 되었습니다!"
-153,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+155,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '무엇보다도 소중한 동지'로 여기게 되었습니다!"
-154,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_001_001","전사자 유족 후원 사업을 추진하고 있는 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
+156,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_001_001","전사자 유족 후원 사업을 추진하고 있는 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
 당신에게 새로운 부탁이 있는 듯합니다."
-155,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_001_002","전사자 유족 후원 사업이 순조롭게 진행되는 가운데,
+157,"TEXT_CTSSFSCHARACTER2_00434_RANKUPINFO_001_002","전사자 유족 후원 사업이 순조롭게 진행되는 가운데,
 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13> 당신에게 새로운 부탁을 하려는 듯합니다."
-156,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
+158,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
 '의뢰물 건네주기'를 선택해 확인하세요."
-157,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_001_001","단골 거래 이야기 퀘스트를 진행할 수 있게 되었습니다.
+159,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_001_001","단골 거래 이야기 퀘스트를 진행할 수 있게 되었습니다.
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게서 퀘스트를 받을 수 있습니다.
 퀘스트를 완료하면 납품 목록이 갱신됩니다."
-158,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_002_001","앞으로 받을 의뢰는 일주일에 한 번
+160,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_002_001","앞으로 받을 의뢰는 일주일에 한 번
 지금까지 납품한 의뢰물 중에서 무작위로 선택됩니다."
-159,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_002_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
+161,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_002_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
 '의뢰물 건네주기'를 선택해 확인하세요."
-160,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_002_003","또한 '해방군 군수품', '노란 칡뿌리'
+162,"TEXT_CTSSFSCHARACTER2_00434_AFTRANKUP_002_003","또한 '해방군 군수품', '노란 칡뿌리'
 '보라방패 자라'는 특히 많은 보상을 얻을 수 있습니다.
 목록에 포함되면 적극적으로 납품해 보세요."
-161,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_001_000","많이 납품해주셔서 정말 감사합니다!"
-162,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_001_001","역시 실력 좋은 장인이시네요!
+163,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_001_000","많이 납품해주셔서 정말 감사합니다!"
+164,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_001_001","역시 실력 좋은 장인이시네요!
 앞으로도 잘 부탁드려요!"
-163,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_002_000","이번 주에도 많이 납품해주셔서 감사합니다!"
-164,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_002_001","많이 바쁘실 텐데 저한테 이렇게 시간을 내주시니
+165,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_002_000","이번 주에도 많이 납품해주셔서 감사합니다!"
+166,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_002_001","많이 바쁘실 텐데 저한테 이렇게 시간을 내주시니
 늘 감사한 마음뿐입니다!"
-165,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_003_000","많이 납품해주셔서 정말로 감사합니다!"
-166,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_003_001","저희 둘 다 이제 힘이 부친 것 같아요.
+167,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_003_000","많이 납품해주셔서 정말로 감사합니다!"
+168,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_003_001","저희 둘 다 이제 힘이 부친 것 같아요.
 역시 소장품 거래는 쉬운 일이 아니네요."
-167,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_003_002","계속 싸우려면 휴식도 필요한 법!
+169,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_003_002","계속 싸우려면 휴식도 필요한 법!
 <Highlight>ObjectParameter(1)</Highlight> 님도 시간 되실 때
 푹 쉬셔야 해요."
-168,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_004_000","오늘도 납품해주셔서 감사합니다!"
-169,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_004_001","<Highlight>ObjectParameter(1)</Highlight> 님의 물건을 보고 있으면
+170,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_004_000","오늘도 납품해주셔서 감사합니다!"
+171,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_004_001","<Highlight>ObjectParameter(1)</Highlight> 님의 물건을 보고 있으면
 수집가분들이 열광하는 이유를 이해할 수 있어요.
 저도 팔기 아까울 때가 있으니까요."
-170,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_004_002","소장품 거래를 시작한 지 얼마 안 된 초보지만,
+172,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_004_002","소장품 거래를 시작한 지 얼마 안 된 초보지만,
 앞으로도 잘 부탁드립니다!"
-171,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_005_000","항상 납품해주셔서 감사합니다!"
-172,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_005_001","그런데 저도 이제 제법 상인답지 않나요?
+173,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_005_000","항상 납품해주셔서 감사합니다!"
+174,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_005_001","그런데 저도 이제 제법 상인답지 않나요?
 이게 다 <Highlight>ObjectParameter(1)</Highlight> 님께서
 저를 단골 거래처로 삼아주신 덕분이에요."
-173,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_005_002","싸움이랑 사냥만 할 줄 알지, 딱히 다른 재주는 없었는데
+175,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_005_002","싸움이랑 사냥만 할 줄 알지, 딱히 다른 재주는 없었는데
 덕분에 전 이제 조금씩 상인으로도 살아나갈 수 있게 되었네요.
 많이 부족하지만, 앞으로도 잘 부탁드려요!"
-174,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_006_000","많이 납품해주셔서 감사합니다!"
-175,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_006_001","<Highlight>ObjectParameter(1)</Highlight> 님께서 저를 도와주신 지도
+176,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_006_000","많이 납품해주셔서 감사합니다!"
+177,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_006_001","<Highlight>ObjectParameter(1)</Highlight> 님께서 저를 도와주신 지도
 꽤 많은 시간이 흘렀네요."
-176,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_006_002","이 사업의 목적은 전사자 유족에게 후원금을 보내는 것이죠.
+178,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_006_002","이 사업의 목적은 전사자 유족에게 후원금을 보내는 것이죠.
 물론 그 목적에는 변함이 없어요."
-177,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_006_003","하지만 언제부턴가 그뿐 아니라
+179,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_006_003","하지만 언제부턴가 그뿐 아니라
 <Highlight>ObjectParameter(1)</Highlight> 님의 훌륭한 상품을 많은 사람들에게
 전하는 일도 제겐 하나의 기쁨이 되었답니다."
-178,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_006_004","앞으로도 훌륭한 작품들을 기다리고 있을 테니
+180,"TEXT_CTSSFSCHARACTER2_00434_RANKUP_MNAAGO_006_004","앞으로도 훌륭한 작품들을 기다리고 있을 테니
 오래도록 잘 부탁드립니다!"
-179,"TEXT_CTSSFSCHARACTER2_00434_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
+181,"TEXT_CTSSFSCHARACTER2_00434_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
 현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
 다시 납품할 수 있습니다."
-180,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_001","（★未使用／削除予定★）"
+182,"TEXT_CTSSFSCHARACTER2_00434_GUIDE_004_001","（★未使用／削除予定★）"

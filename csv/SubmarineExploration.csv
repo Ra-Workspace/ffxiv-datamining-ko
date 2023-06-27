@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12
-#,Destination,Location,X,Y,Z,Map,Passengers,Stars,RankReq,CeruleumTankReq,SurveyDuration<min>,SurveyDistance,ExpReward
+#,Destination,Location,X,Y,Z,Map,StartingPoint,Stars,RankReq,CeruleumTankReq,SurveyDuration<min>,SurveyDistance,ExpReward
 int32,str,str,int16,int16,int16,SubmarineMap,bit&01,byte,byte,byte,uint16,byte,uint32
 0,"","",483,927,0,1,True,0,0,0,0,0,0
 1,"A　하얀 여울","A",640,880,100,1,False,1,1,1,180,10,10610
@@ -88,13 +88,13 @@ int32,str,str,int16,int16,int16,SubmarineMap,bit&01,byte,byte,byte,uint16,byte,u
 84,"K　소용돌이 해협","K",802,436,800,4,False,3,98,6,1300,43,3653174
 85,"L　새부리 만","L",620,806,300,4,False,4,99,6,1310,44,3981960
 86,"M　바다마물 감옥","M",136,138,1000,4,False,4,100,6,1330,44,4340337
-87,"","",0,0,0,0,False,0,0,0,0,0,0
-88,"","",0,0,0,0,False,0,0,0,0,0,0
-89,"","",0,0,0,0,False,0,0,0,0,0,0
-90,"","",0,0,0,0,False,0,0,0,0,0,0
-91,"","",0,0,0,0,False,0,0,0,0,0,0
-92,"","",0,0,0,0,False,0,0,0,0,0,0
-93,"","",0,0,0,0,False,0,0,0,0,0,0
+87,"N　버려진 귀양지","N",533,68,100,4,False,4,101,6,1340,45,4687564
+88,"O　루가트의 해변","O",885,400,400,4,False,4,101,6,1340,45,4687564
+89,"P　얼음무지 샘","P",502,899,200,4,False,5,102,6,1360,46,5062570
+90,"Q　세이렌 해 05","Q",873,106,1000,4,False,5,103,6,1370,47,5467576
+91,"R　소용돌이 섬","R",678,289,0,4,False,5,104,6,1390,47,5904983
+92,"S　붉은피 해구","S",937,651,1000,4,False,5,105,6,1400,48,6377382
+93,"T　바다수정 샘","T",747,901,200,4,False,5,105,6,1400,48,6377382
 94,"","",0,0,0,0,False,0,0,0,0,0,0
 95,"","",0,0,0,0,False,0,0,0,0,0,0
 96,"","",0,0,0,0,False,0,0,0,0,0,0

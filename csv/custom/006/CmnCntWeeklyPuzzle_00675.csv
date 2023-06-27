@@ -86,18 +86,23 @@ int32,str,str
 36,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_025","그럭저럭 괜찮은 결과라고 할 수 있겠어.
 그럼 네게 들은 이야기를 내 나름대로 각색해
 다도회에서 어떻게 이야기할지 조물조물해볼까나……."
-37,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_026","획득 제로라…… 이야깃거리가 늘었으니 좋게 생각하자고.
+37,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_050","보너스 기회를 획득하지 못했기 때문에
+이번주에는 더 이상 환상반에 도전할 수 없습니다."
+38,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_051","다시 환상반에 도전하고 싶을 때는 현실 시간으로
+매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시 이후에
+'환 토벌전'을 완료한 후에 말을 걸어 주십시오."
+39,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_026","획득 제로라…… 이야깃거리가 늘었으니 좋게 생각하자고.
 그럼 네게 들은 이야기를 내 나름대로 각색해
 다도회에서 어떻게 이야기할지 조물조물해볼까나……."
-38,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_030","잠깐만.
+40,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_030","잠깐만.
 지금은 다도회의 이야깃거리를 모으기엔 시기가 좀 좋지 않아.
 미안하지만 환상반은 당분간 쉬어야 할 것 같아."
-39,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_031","지금은 '환 토벌전' 개최 기간이 아니므로
+41,"TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_031","지금은 '환 토벌전' 개최 기간이 아니므로
 '총당님의 환상반'에도 도전할 수 없습니다.
 업데이트를 기다려 주세요!"
-40,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_040","패널에 감춰진 그림을 모두 찾아냈다고? 일화가 끝이 없구나.
+42,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_040","패널에 감춰진 그림을 모두 찾아냈다고? 일화가 끝이 없구나.
 그 행운을 높이 사서 한 번 더 도전시켜 주고 싶지만
 지금은 시기가 좋지 않아…… 이번엔 여기까지만 하지."
-41,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_041","나쁘지 않은 결과로군.
+43,"TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_041","나쁘지 않은 결과로군.
 그 행운을 높이 사서 한 번 더 도전시켜 주고 싶지만
 지금은 시기가 좋지 않아…… 이번엔 여기까지만 하지."

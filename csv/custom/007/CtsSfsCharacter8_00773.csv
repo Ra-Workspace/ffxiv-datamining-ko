@@ -51,426 +51,432 @@ int32,str,str
 26,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_002_002","광부 및 원예가의 채집 소장품은 의뢰 목록에서
 세부 메뉴 '채집 방법 검색'을 선택하면
 채집수첩에서 채집 장소가 표시됩니다."
-27,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_002_003","어부의 채집 소장품은 의뢰 목록의
-아이템 툴팁에 낚시 장소에 대한 힌트가 나옵니다."
-28,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_002_004","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
+27,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_002_003","'어부'의 채집 소장품은 목록에서 세부 메뉴를 열어
+'획득 장소 표시'를 선택하면
+해당 물고기를 잡을 수 있는 낚시터 또는 어장이 표시됩니다."
+28,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_102_003","또한, 낚시를 할 때는
+미끼로 '<Sheet(Item,28634,0)/>' 사용을 추천합니다."
+29,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_002_004","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
 '제작자'와 '광부 및 원예가', '어부' 세 종류로 나뉘며,
 모두 '소장품'이어야 합니다."
-29,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_003_000","의뢰물 제작에 필요한 재료는
+30,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_003_000","의뢰물 제작에 필요한 재료는
 올드 샬레이안 '아고라'에 있는
 '신노브'에게서 구입할 수 있습니다."
-30,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_004_000","제작 물품의 '소장 가치'는
+31,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_004_000","제작 물품의 '소장 가치'는
 제작 시에 '품질'을 높이면 상승합니다.
 최대한 품질을 높여서 완성시키는 것이 중요합니다."
-31,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_004_002","품질이 높아지는 기술에 성공하면
+32,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_004_002","품질이 높아지는 기술에 성공하면
 자신에게 '정신 집중'이 부여됩니다."
-32,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_004_003","최대한 수많은 정신 집중을 축적해 놓고
+33,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_004_003","최대한 수많은 정신 집중을 축적해 놓고
 마지막에 '비레고의 축복' 등으로
 단숨에 품질을 올려 완성해 보세요."
-33,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_004_004","그 외에도 품질을 높이는 기술이 여럿 존재합니다.
+34,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_004_004","그 외에도 품질을 높이는 기술이 여럿 존재합니다.
 익숙해지면 다양하게 시도하여 자기만의 제작법을 찾아봅시다."
-34,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_005_000","소장품 채집 아이템을 선택하면 특수 창이 표시됩니다.
+35,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_005_000","소장품 채집 아이템을 선택하면 특수 창이 표시됩니다.
 소장품 채집용 기술을 사용해
 '소장 가치'를 올린 다음 아이템을 채집합니다."
-35,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_005_001","'광부'와 '원예가'로 소장 가치를 올리려면
+36,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_005_001","'광부'와 '원예가'로 소장 가치를 올리려면
 기술 '집중 검사'를 사용한 다음 '순화'를 사용합니다.
 이를 반복하여 소장품을 채집해보세요."
-36,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_005_002","소장 가치를 더 높이고 싶은 경우에는
+37,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_005_002","소장 가치를 더 높이고 싶은 경우에는
 장비를 갖추고 '획득력'과 '기술력'을 높여보세요.
 소장품 채집용 기술의 효과가 높아집니다."
-37,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_005_003","'GP'가 부족하다면 장비를 갖추고
+38,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_005_003","'GP'가 부족하다면 장비를 갖추고
 '최대 GP'를 높여보세요."
-38,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_006_000","수산물은 낚은 '물고기의 크기'가
+39,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_006_000","수산물은 낚은 '물고기의 크기'가
 그대로 '소장 가치'가 됩니다."
-39,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_006_001","소장품 목록에 있는 물고기가 낚이는 낚시터로 가서
+40,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_006_001","소장품 목록에 있는 물고기가 낚이는 낚시터로 가서
 기술 '소장품 채집'을 사용하고 낚시 또는 작살질을 시작하세요."
-40,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_006_002","낚시는 기술 '인내 2'를 사용한 뒤
+41,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_006_002","낚시는 기술 '인내 2'를 사용한 뒤
 적절한 낚아채기 기술을 사용하면
 큰 물고기를 낚을 수 있습니다."
-41,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_006_003","크기가 생각만큼 크지 않을 때에는 '기술력'이 올라가는
+42,"TEXT_CTSSFSCHARACTER8_00773_GUIDE_006_003","크기가 생각만큼 크지 않을 때에는 '기술력'이 올라가는
 장비를 갖추어 봅시다."
-42,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
+43,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
 '제작자'와 '광부 및 원예가', '어부' 세 종류로 나뉘며,
 모두 '소장품'이어야 합니다."
-43,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_008","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
+44,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_008","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
 해당 클래스 레벨이 80 이상일 때 가능합니다."
-44,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_009","납품 시 클래스 레벨이 89 이하인 경우는
+45,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_009","납품 시 클래스 레벨이 89 이하인 경우는
 레벨 90이 되면 받을 수 있는 화폐 보상 대신
 경험치 보상을 얻을 수 있습니다."
-45,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_001","각 소장품의 입수 방법은
+46,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_001","각 소장품의 입수 방법은
 다음과 같이 확인하실 수 있습니다."
-46,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_002","제작 소장품은 의뢰 목록의 세부 메뉴에서
+47,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_002","제작 소장품은 의뢰 목록의 세부 메뉴에서
 '제작법 검색'을 선택하면
 제작수첩에서 제작법이 표시됩니다."
-47,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_003","의뢰물 제작에 필요한 재료는
+48,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_003","의뢰물 제작에 필요한 재료는
 올드 샬레이안 '아고라'에 있는
 '신노브'에게서 구입할 수 있습니다."
-48,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_004","광부 및 원예가의 채집 소장품은 의뢰 목록에서
+49,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_004","광부 및 원예가의 채집 소장품은 의뢰 목록에서
 세부 메뉴 '채집 방법 검색'을 선택하면
 채집수첩에서 채집 장소가 표시됩니다."
-49,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_005","어부의 채집 소장품은 의뢰 목록의
-아이템 툴팁에 낚시 장소에 대한 힌트가 나옵니다."
-50,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_006","'소장 가치'가 높을수록
+50,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_005","'어부'의 채집 소장품은 목록에서 세부 메뉴를 열어
+'획득 장소 표시'를 선택하면
+해당 물고기를 잡을 수 있는 낚시터 또는 어장이 표시됩니다."
+51,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_100_005","또한, 낚시를 할 때는
+미끼로 '<Sheet(Item,28634,0)/>' 사용을 추천합니다."
+52,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_006","'소장 가치'가 높을수록
 납품 시에 더 많은 보상을 받을 수 있습니다."
-51,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_007","소장 가치를 올리는 방법이 궁금하면
+53,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_000_007","소장 가치를 올리는 방법이 궁금하면
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 걸어
 '단골 거래에 대해 물어보기'를 선택하세요."
-52,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_001_000","의뢰물을 납품함으로써
+54,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_001_000","의뢰물을 납품함으로써
 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EAB080FF04EC9DB4</13> 당신을 신뢰하게 되었습니다."
-53,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
+55,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
 '신뢰 단계'가 상승하며, <Sheet(ENpcResident,IntegerParameter(1),0)/>의
 새로운 이야기를 볼 수 있습니다."
-54,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
+56,"TEXT_CTSSFSCHARACTER8_00773_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
 적극적으로 소장품을 납품하여 신뢰도를 올리세요!"
-55,"TEXT_CTSSFSCHARACTER8_00773_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
+57,"TEXT_CTSSFSCHARACTER8_00773_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
 현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
 다시 납품할 수 있습니다."
-56,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_001_000","마법대학에서 사용할 필기구는 강의 메모뿐 아니라
+58,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_001_000","마법대학에서 사용할 필기구는 강의 메모뿐 아니라
 주문 및 술식을 옮겨 적을 때에도 사용해요.
 그래서 에테르 전도율이 높은 것일수록 질이 좋은데……"
-57,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_001_001","마법학을 배우려면 좋은 마법도구가 반드시 필요하죠…….
+59,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_001_001","마법학을 배우려면 좋은 마법도구가 반드시 필요하죠…….
 천구의, 환술도구, 현학도구 그리고 마법약 등 종류도 많아요.
 당신이 준비한 건 어떤 거죠?"
-58,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_001_002","맛보다는 영양 효율을 더 따지는 샬레이안인이지만,
+60,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_001_002","맛보다는 영양 효율을 더 따지는 샬레이안인이지만,
 유학생을 통해 이문화 요리에 관심을 갖게 된 사람도 생겼나 봐요.
 보온 및 보냉 성능이 뛰어나다면 좋을 텐데요……"
-59,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_001_003","마법인형은 사용자의 명령을 수용하고 동작으로 나타내요……
+61,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_001_003","마법인형은 사용자의 명령을 수용하고 동작으로 나타내요……
 그래서 마력 감도가 높을수록 성능이 뛰어나다고 할 수 있죠.
 핵도 그렇고 의상도 섬세한 조정이 필요한데 말이에요……"
-60,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_001_004","종말 현상의 피해 지역에선 아직 교육 환경의 개선이 필요해요.
+62,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_001_004","종말 현상의 피해 지역에선 아직 교육 환경의 개선이 필요해요.
 학교를 잃은 아이들을 위해서
 최대한 오래 쓸 수 있는 물건을 보내주고 싶어요……"
-61,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_000","주문 및 술식을 적을 때에는
+63,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_000","주문 및 술식을 적을 때에는
 잉크뿐만 아니라 펜의 에테르 전도율이 높은 것이 좋아요.
 당신이 준비해준 깃털은 어떨까요?"
-62,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_001","크리스탈로 대표되는 마법의 촉매는
+64,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_001","크리스탈로 대표되는 마법의 촉매는
 말하지 않아도 알겠지만, 순도가 높을 것일수록 성능이 뛰어나요.
 하지만 그걸 구하는 일은 말도 안 되게 어렵답니다."
-63,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_002","요리의 신선도를 유지하기 위해서는
+65,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_002","요리의 신선도를 유지하기 위해서는
 도시락통의 재료에 얼마나 보냉성이 있느냐가 중요해요.
 품질이 좋으면 그만큼 오래 보존할 수 있는데 말이죠……"
-64,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_003","마법인형은 관절이 많기 때문에 윤활유가 꼭 필요하답니다……
+66,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_003","마법인형은 관절이 많기 때문에 윤활유가 꼭 필요하답니다……
 하지만 불순물이 많을수록 마력 저항이 커지고 말아요.
 질 좋은 기름을 구해다 주면 좋을 텐데요……"
-65,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_004","종말 현상의 피해 지역에서는 아직 교육 환경의 개선이 필요해요.
+67,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_002_004","종말 현상의 피해 지역에서는 아직 교육 환경의 개선이 필요해요.
 어떤 환경에서도 튼튼하게 버틸 수 있도록
 내구성을 중시해서 재료를 선택하고 싶은데요……"
-66,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_000","필기용 잉크는 먼저 특수 용액을 섞어서 성분을 침전시킨 후에
+68,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_000","필기용 잉크는 먼저 특수 용액을 섞어서 성분을 침전시킨 후에
 필요한 성분만을 추출해서 가공한다고 해요.
 질 좋은 재료일수록 필기감이 부드럽겠죠……"
-67,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_001","개구리는 용도에 따라 다양하게 활용되는데요,
+69,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_001","개구리는 용도에 따라 다양하게 활용되는데요,
 마법대학에서는 주로 사역마로 취급되는 경우가 많아요.
 똑똑하고 건강한 개구리라면 다들 좋아할 텐데요……"
-68,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_002","보기에도 예쁜 도시락이 식욕을 돋우지 않겠어요?
+70,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_002","보기에도 예쁜 도시락이 식욕을 돋우지 않겠어요?
 ……이 나라 사람들은 그런 감각을 이해 못 하겠지만,
 다른 나라에서 온 아이들은 신경 쓸 거라고 생각해요……"
-69,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_003","마법인형의 눈은 발광 소재를 사용하는 것이 일반적이에요.
+71,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_003","마법인형의 눈은 발광 소재를 사용하는 것이 일반적이에요.
 암흑 속에서 빛나는 걸 보면 순간적으로 깜짝 놀라요.
 빛이 없어도 물건을 인식할 수 있도록 한다거나 이유는 다양한데……"
-70,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_004","라자한의 태수님도 각지의 교육 부흥을 위한 일이라면 괜찮다며
+72,"TEXT_CTSSFSCHARACTER8_00773_KNOWLEDGE_AMELIANCE_003_004","라자한의 태수님도 각지의 교육 부흥을 위한 일이라면 괜찮다며
 사베네어 섬의 재료를 써도 된다고 흔쾌히 승낙해 주셨어요.
 질 좋은 산호에서 발색력이 좋은 분필을 만들 수 있는데……"
-71,"TEXT_CTSSFSCHARACTER8_00773_JUDGEMENT_AMELIANCE_000_000","대단해요!
+73,"TEXT_CTSSFSCHARACTER8_00773_JUDGEMENT_AMELIANCE_000_000","대단해요!
 고마워요, <Highlight>ObjectParameter(1)</Highlight> 씨.
 음, 제가 봐도 품질은 더할 나위 없네요!"
-72,"TEXT_CTSSFSCHARACTER8_00773_JUDGEMENT_AMELIANCE_000_001","세상에나, 굉장히 좋네요!
+74,"TEXT_CTSSFSCHARACTER8_00773_JUDGEMENT_AMELIANCE_000_001","세상에나, 굉장히 좋네요!
 이렇게나 훌륭한 품질의 물건을 구해오다니……
 유학생뿐 아니라 재학생들한테도 문의가 쇄도하겠는걸요?"
-73,"TEXT_CTSSFSCHARACTER8_00773_JUDGEMENT_AMELIANCE_000_002","이건…… 할말을 잃을 정도로 훌륭해요!
+75,"TEXT_CTSSFSCHARACTER8_00773_JUDGEMENT_AMELIANCE_000_002","이건…… 할말을 잃을 정도로 훌륭해요!
 이 품질을 알게 되면 다른 물건에는 만족할 수 없을 거예요…….
 유학생들에게는 이건 특별한 물건이라고 설명해야 겠어요."
-74,"TEXT_CTSSFSCHARACTER8_00773_JUDGEMENT_AMELIANCE_000_003","이게 있다면 마법인형을 사용한 특훈도 문제없겠네요!
+76,"TEXT_CTSSFSCHARACTER8_00773_JUDGEMENT_AMELIANCE_000_003","이게 있다면 마법인형을 사용한 특훈도 문제없겠네요!
 치유마법과 같은 섬세한 마법에도 반응할 거예요."
-75,"TEXT_CTSSFSCHARACTER8_00773_JUDGEMENT_AMELIANCE_000_004","앞날이 막막했던 아이도 당신 덕분에 도움을 받게 될 거예요.
+77,"TEXT_CTSSFSCHARACTER8_00773_JUDGEMENT_AMELIANCE_000_004","앞날이 막막했던 아이도 당신 덕분에 도움을 받게 될 거예요.
 세상 모든 아이들이 평등하게 배울 수 있는 기회를 갖게 되길……."
-76,"TEXT_CTSSFSCHARACTER8_00773_FULLBAG_000_000","소지품에 공간이 부족하여
+78,"TEXT_CTSSFSCHARACTER8_00773_FULLBAG_000_000","소지품에 공간이 부족하여
 신뢰도 상승 보상을 받을 수 없습니다."
-77,"TEXT_CTSSFSCHARACTER8_00773_FULLBAG_000_001","소지품을 정리한 뒤,
+79,"TEXT_CTSSFSCHARACTER8_00773_FULLBAG_000_001","소지품을 정리한 뒤,
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 다시 말을 거십시오."
-78,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_000_000","정말이지 당신에게 부탁하길 잘했어요!
+80,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_000_000","정말이지 당신에게 부탁하길 잘했어요!
 그래요…… 당분간은 이 정도로 충분해요.
 고마워요, <Highlight>ObjectParameter(1)</Highlight> 씨."
-79,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_000_001","저, 당신이 장인으로 활약하는 모습은
+81,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_000_001","저, 당신이 장인으로 활약하는 모습은
 우리 애들이 잘 모르는 면 아닌가요?
 다음에 편지 쓸 때 자랑할까 봐요…… 후후후."
-80,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_001_000","당신 덕분에 유학생들의 평판이 굉장히 좋아요!
+82,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_001_000","당신 덕분에 유학생들의 평판이 굉장히 좋아요!
 제 학생 시절 은사님도 칭찬해주셨다니까요.
 후훗, 당신의 협력 덕분이라고 말씀드렸어요."
-81,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_001_001","밀라가 마법을 익히는 데에도 도움이 되면 좋겠어요.
+83,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_001_001","밀라가 마법을 익히는 데에도 도움이 되면 좋겠어요.
 마력에 소질은 있은 듯하니 요령만 생기면 실력은 금방 늘 거예요.
 하지만 그것만큼은 본인이 하기 나름이라 안타까워요……."
-82,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_002_000","<Highlight>ObjectParameter(1)</Highlight> 씨 덕분에
+84,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_002_000","<Highlight>ObjectParameter(1)</Highlight> 씨 덕분에
 유학생들이 학생식당 때문에 힘들어하지 않겠네요."
-83,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_002_001","그러고 보니 알리제는 자주 도시락을 싸달라고 했었는데,
+85,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_002_001","그러고 보니 알리제는 자주 도시락을 싸달라고 했었는데,
 알피노는 거의 현인빵으로 끼니를 때우곤 했어요.
 이상한 부분이 자기 아버지랑 똑같다니까요……."
-84,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_003_000","당신이 있으니 정말로 든든해요.
+86,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_003_000","당신이 있으니 정말로 든든해요.
 우리 가족이 너무 당신을 의지하는 걸까요……?
 후훗, 이렇게 된 거 아예 우리 가족이 되는 건 어때요?"
-85,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_003_001","……후후, 농담이에요, 그나저나 어느새
+87,"TEXT_CTSSFSCHARACTER8_00773_BEFRANKUP_AMELIANCE_003_001","……후후, 농담이에요, 그나저나 어느새
 밀라가 귀국하는 날이 다가오고 있네요.
 쓸쓸해지겠지만 이것만큼은 어찌할 수 없으니까요……."
-86,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_001","아멜리앙스 씨, 저 왔어요!"
-87,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_002","어서 와, 밀라.
+88,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_001","아멜리앙스 씨, 저 왔어요!"
+89,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_002","어서 와, 밀라.
 첫 수업은 어땠니?
 친구는 생겼고?"
-88,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_003","네! 굉장히 재미있었어요!
+90,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_003","네! 굉장히 재미있었어요!
 다들 너무나 친절하게 대해주었고요!
 모든 것이 신선한 경험이라…… 마치 새로운 세계가 열린 것 같아요!"
-89,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_004","어머 잘됐네, 마음이 놓이는구나.
+91,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_004","어머 잘됐네, 마음이 놓이는구나.
 교복도 굉장히 잘 어울려."
-90,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_005","에헤헤, 감사합니다!
+92,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_005","에헤헤, 감사합니다!
 여러분의 은혜에 보답하고 엄마에게 인정받기 위해서라도
 저는 반드시 이번 유학 중에 마법을 익혀서 돌아가겠어요!"
-91,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_006","……엄마에게?"
-92,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_007","우리 집안은 사베네어에서 대대로 연금술사였어요.
+93,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_006","……엄마에게?"
+94,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_007","우리 집안은 사베네어에서 대대로 연금술사였어요.
 특히 치료약 정제에 저희 일족은 심혈을 기울여왔죠.
 하지만……"
-93,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_008","그 종말 이후에…… 저는 생각이 완전히 바뀌었어요.
+95,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_008","그 종말 이후에…… 저는 생각이 완전히 바뀌었어요.
 약만으로는 구할 수 없는 목숨이 있다는 것……
 그 사실을 깨닫게 됐으니까요."
-94,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_009","그래서 저는 치유마법을 배우기 위해 샬레이안에 왔어요.
+96,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_009","그래서 저는 치유마법을 배우기 위해 샬레이안에 왔어요.
 사실 엄마는 심하게 반대하셨지만……
 최종적으로 아버지의 허가를 받아서 집을 뛰쳐나왔어요."
-95,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_010","그랬구나…….
+97,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_010","그랬구나…….
 어머님은 왜 반대를 하셨니?"
-96,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_011","아마도…… 일족의 치료약에 자긍심을 갖고 있기 때문일 거예요.
+98,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_011","아마도…… 일족의 치료약에 자긍심을 갖고 있기 때문일 거예요.
 제가 치유마법을 배우는 것이
 가업을 부정하는 것처럼 보였겠죠."
-97,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_012","저도 연금술은 자랑스럽게 생각해요. 하지만 약으로
+99,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_012","저도 연금술은 자랑스럽게 생각해요. 하지만 약으로
 구할 수 없는 생명을 구할 수 있다면 수단에 집착하고 싶지 않아요.
 그러니…… 무슨 일이 있어도 치유마법을 습득해서 돌아가고 싶어요!"
-98,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_013","말은 이렇게 하지만 사실 저는 마법 사용이 처음이라…….
+100,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_013","말은 이렇게 하지만 사실 저는 마법 사용이 처음이라…….
 대학에서 유학 허가가 떨어진 것이 믿기지 않을 정도예요."
-99,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_014","말해줘서 고마워, 밀라.
+101,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_014","말해줘서 고마워, 밀라.
 네가 이 유학에서 쌓게 될 경험이 네게 충분히 도움이 되도록
 우리도 전력을 다해 지원해줄게."
-100,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_015","고맙습니다!
+102,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_001_015","고맙습니다!
 빨리 다른 친구들을 쫓아갈 수 있도록 최선을 다할게요!"
-101,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_001","<Highlight>ObjectParameter(1)</Highlight> 씨, 안녕하세요!
+103,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_001","<Highlight>ObjectParameter(1)</Highlight> 씨, 안녕하세요!
 오셨군요!"
-102,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_002","우리를 위해서 멋진 물건들을 준비해 주셔서
+104,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_002","우리를 위해서 멋진 물건들을 준비해 주셔서
 정말 늘 감사히 생각하고 있어요!"
-103,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_003","그럼 전 이만……
+105,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_003","그럼 전 이만……
 치유마법 연습을 하러 다녀오겠습니다!"
-104,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_004","앗…… 잠깐만, 밀라!"
-105,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_005","평소에 비해 기운이 없어보이는데……
+106,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_004","앗…… 잠깐만, 밀라!"
+107,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_005","평소에 비해 기운이 없어보이는데……
 무슨 일 있었니?"
-106,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_006","네에……? 그래요……?
+108,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_006","네에……? 그래요……?
 다들 너무 잘해주셔서 기운이 넘치는데요?"
-107,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_007","정말이니? 다소 야윈 것 같아서."
-108,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_008","우리집 밥은 잘 먹고 있긴 한데……
+109,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_007","정말이니? 다소 야윈 것 같아서."
+110,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_008","우리집 밥은 잘 먹고 있긴 한데……
 대학에선 어떻게 하고 있니?"
-109,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_009","윽……."
-110,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_010","역시…… 달라진 게 없구나.
+111,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_009","윽……."
+112,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_010","역시…… 달라진 게 없구나.
 내가 학교에 다니던 시절에도 학생식당은 형편없었거든."
-111,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_011","신경 못 써줘서 미안해, 밀라.
+113,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_011","신경 못 써줘서 미안해, 밀라.
 다음부터는 도시락을 싸줄게!"
-112,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_012","네에!?
+114,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_012","네에!?
 아니에요…… 더 이상 수고를 끼칠 수는……!"
-113,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_013","괜찮아, 가족이잖니.
+115,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_013","괜찮아, 가족이잖니.
 정말로 편하게 생각해줘."
-114,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_014","그래!
+116,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_014","그래!
 나에게 사베네어 요리를 가르쳐주지 않을래?
 함께 만들어보는 거야!"
-115,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MERYLD_002_015","아, 아멜리앙스 님……!
+117,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MERYLD_002_015","아, 아멜리앙스 님……!
 요리는 저희가 하겠습니다!"
-116,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_016","괜찮아, 괜찮아!
+118,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_016","괜찮아, 괜찮아!
 학생 시절에도 주야장천 현인빵만 먹던 그이에게
 자주 도시락을 싸주곤 했었거든."
-117,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_017","그럼, 부엌으로 가볼까? 밀라!"
-118,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_018","아, 네……!"
-119,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MERYLD_002_019","아멜리앙스 님……!!!"
-120,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_000","아, 그래요, 당신에게 상담하고 싶은 일이 있어요."
-121,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_001","밀라에 관한 건데요……
+119,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_017","그럼, 부엌으로 가볼까? 밀라!"
+120,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_002_018","아, 네……!"
+121,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MERYLD_002_019","아멜리앙스 님……!!!"
+122,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_000","아, 그래요, 당신에게 상담하고 싶은 일이 있어요."
+123,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_001","밀라에 관한 건데요……
 그 아이, 마법 습득이 생각처럼 잘 안 되는 모양이에요."
-122,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_002","물론 하루아침에 잘 될리는 없겠죠.
+124,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_002","물론 하루아침에 잘 될리는 없겠죠.
 소질이 없다면 아무리 노력해도 익힐 수 없는 경우도 있어요."
-123,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_003","하지만 제가 보기엔 그 아이는 마력에 소질이 있어요.
+125,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_003","하지만 제가 보기엔 그 아이는 마력에 소질이 있어요.
 이론은 완벽하게 이해하고 있고 열정도 대단해요."
-124,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_004","그래서 그런지……
+126,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_004","그래서 그런지……
 날이 갈수록 귀가 시간이 늦어지는 것이 걱정이에요."
-125,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_005","물론 늦는 날엔 미리 말해주긴 해요.
+127,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_005","물론 늦는 날엔 미리 말해주긴 해요.
 오늘도 학교에서 연습하고 오겠다는 연락이 있었어요."
-126,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_006","하지만 지나치게 열심히 하다가 쓰러지면 큰일이잖아요?
+128,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_006","하지만 지나치게 열심히 하다가 쓰러지면 큰일이잖아요?
 그래서 지금 데리러 가려고 해요.
 직접 얼굴을 보고 말하고 싶어서요."
-127,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_007","지나친 간섭이라 생각할 수도 있지만,
+129,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_007","지나친 간섭이라 생각할 수도 있지만,
 그 아이의 호스트이자 친구로서……
 제동을 걸어야 하는 건 제 역할이에요."
-128,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_008","그런데 말이에요, 마법대학이 사실 엄청 크잖아요?
+130,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_008","그런데 말이에요, 마법대학이 사실 엄청 크잖아요?
 괜찮다면 함께 찾아주면 좋을 것 같은데……."
-129,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_009","아, 정말로 고마워요!
+131,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_003_009","아, 정말로 고마워요!
 출발 준비를 다 하면 말을 걸어줄래요?"
-130,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_000","아멜리앙스 씨, 메릴드 씨.
+132,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_000","아멜리앙스 씨, 메릴드 씨.
 그리고 <Highlight>ObjectParameter(1)</Highlight> 씨!
 짧은 기간이었지만 신세 많이 졌습니다……!"
-131,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_001","정말 눈 깜짝할 사이…….
+133,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_001","정말 눈 깜짝할 사이…….
 쓸쓸해지겠지만 부모님께서 귀국을 손꼽아 기다리고 계실 거야."
-132,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_002","정말로 감사했습니다.
+134,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_002","정말로 감사했습니다.
 저를 포함해서 지원이 없었다면 유학을 경험하지 못했을
 유학생이 적지 않았을 거예요."
-133,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_003","호스트 가족이 되어주신 르베유르 가 여러분과
+135,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_003","호스트 가족이 되어주신 르베유르 가 여러분과
 <Highlight>ObjectParameter(1)</Highlight> 씨가 구해서 갖다 주신
 멋진 물품들이 없었더라면 도저히……."
-134,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_004","그래서…… 감사 인사라고 하기엔 좀 그렇지만
+136,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_004","그래서…… 감사 인사라고 하기엔 좀 그렇지만
 두 분께 보여드리고 싶은 것이 있어요……!"
-135,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_005","갑니다……!"
-136,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_104_005","그대로 위를 보고 쓰러져……!"
-137,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_006","대단해…… 완벽하게 조작할 수 있게 됐구나!"
-138,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_007","아직이에요……!"
-139,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_008","밀라……
+137,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_005","갑니다……!"
+138,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_104_005","그대로 위를 보고 쓰러져……!"
+139,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_006","대단해…… 완벽하게 조작할 수 있게 됐구나!"
+140,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_007","아직이에요……!"
+141,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_008","밀라……
 어느새 치유마법을……!?"
-140,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_009","정말 열심히 노력했구나.
+142,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_009","정말 열심히 노력했구나.
 네가 진심으로 자랑스러워."
-141,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_010","에헤헤, 감사합니다.
+143,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_010","에헤헤, 감사합니다.
 <Highlight>ObjectParameter(1)</Highlight> 씨가 만들어준 인형과
 대학 교수님 그리고 아멜리앙스 씨의 지도 덕분이에요!"
-142,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_011","……저, 고향으로 돌아가면 연금술 수련에 들어가요."
-143,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_012","치유마법을 배운 덕에 마법과 연금술의 차이와
+144,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_011","……저, 고향으로 돌아가면 연금술 수련에 들어가요."
+145,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_012","치유마법을 배운 덕에 마법과 연금술의 차이와
 각각의 장단점을 알게 된 것 같아요."
-144,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_013","그 두 가지를 모두 완벽하게 익히면
+146,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_013","그 두 가지를 모두 완벽하게 익히면
 장점을 더하고 단점은 보완할 수 있을 거라는……
 그런 이미지가 떠올랐거든요!"
-145,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_014","그러니 아멜리앙스 씨.
+147,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_014","그러니 아멜리앙스 씨.
 연금술 수련을 끝낼 수 있다면
 반드시 올드 샬레이안에 돌아올게요!"
-146,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_015","그럼…… 또 만나러 와도 될까요?"
-147,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_016","밀라……!
+148,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_015","그럼…… 또 만나러 와도 될까요?"
+149,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_016","밀라……!
 그래, 그래, 물론이지!
 반드시 만나러 와줘, 약속이야."
-148,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_017","그리고 우리 르베유르 저택 사람들이 너에게 줄
+150,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_017","그리고 우리 르베유르 저택 사람들이 너에게 줄
 선물이 있는데…… 받아줄래?"
-149,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_018","와아, 너무나 멋진 의상이네요……!
+151,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_018","와아, 너무나 멋진 의상이네요……!
 기뻐요…… 여러분, 정말 고마워요!"
-150,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_019","어때요?
+152,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_019","어때요?
 저, 어울려요?"
-151,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_020","마음에 들어서 다행이야.
+153,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_020","마음에 들어서 다행이야.
 밀라의 인생이 반짝반짝 빛나길 바라는
 마음을 담아서 다 함께 만들었어."
-152,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_021","보물로 삼을게요!
+154,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_021","보물로 삼을게요!
 이 옷도, 이곳에서 했던 경험도
 앞으로 평생…… 제 인생의 보물이에요!"
-153,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MERYLD_004_022","밀라딘 님, 이제 출발하셔야 할 시간입니다."
-154,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_023","아아…… 어쩜, 이렇게 멋진 선물을 받으니
+155,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MERYLD_004_022","밀라딘 님, 이제 출발하셔야 할 시간입니다."
+156,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_023","아아…… 어쩜, 이렇게 멋진 선물을 받으니
 더 헤어지기가 아쉬워지네요."
-155,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_024","저, 여러분이 너무너무 좋아요……!
+157,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_024","저, 여러분이 너무너무 좋아요……!
 정말로…… 정말로…… 감사했습니다!"
-156,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_025","우리도 네가 좋단다.
+158,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_025","우리도 네가 좋단다.
 잘 다녀와, 밀라.
 네 인생의 여정이 멋진 웃음으로 넘쳐나길 바랄게."
-157,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_026","네!
+159,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_MILADEEN_004_026","네!
 다녀오겠습니다!"
-158,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_100","유학생 중에는 밀라처럼
+160,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_100","유학생 중에는 밀라처럼
 처음으로 마법 공부를 하는 학생도 적지 않을 거예요."
-159,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_101","그래서 부탁을 할까 하는데, 괜찮을까요?
+161,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_101","그래서 부탁을 할까 하는데, 괜찮을까요?
 마법을 다루기 위한 마법도구와 개구리를 준비해줬으면 해요.
 질이 좋으면 좋을수록 실력도 빨리 늘어요."
-160,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_102","고마워요, 얼마나 든든한지 몰라요.
+162,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_001_102","고마워요, 얼마나 든든한지 몰라요.
 잘 부탁해요!"
-161,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_100","하아…… 좀 더 빨리 신경 써 줬더라면 좋았을걸.
+163,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_100","하아…… 좀 더 빨리 신경 써 줬더라면 좋았을걸.
 안 그래도 고향의 맛이 그리울 텐데
 원래 샬레이안의 요리라는 게…… 좀 그렇잖아요?"
-162,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_101","밀라처럼 힘들어하는 아이가 또 있다면 큰일이에요.
+164,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_101","밀라처럼 힘들어하는 아이가 또 있다면 큰일이에요.
 다른 홈스테이 가정에도
 식사에 좀 더 신경을 쓰라고 말을 해야겠어요."
-163,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_102","그리고 당신이 구해다 줬으면 하는 것이 있어요.
+165,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_002_102","그리고 당신이 구해다 줬으면 하는 것이 있어요.
 오랫동안 들고 다녀도 상하지 않고 식지 않는
 마법 도시락을 준비해주면 좋겠어요!"
-164,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_100","이렇게 뒷모습을 보며 배웅하는 건
+166,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_100","이렇게 뒷모습을 보며 배웅하는 건
 몇 번을 경험해도 참 쓸쓸해요……."
-165,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_101","그나저나 다른 가정에서 지내고 있던 유학생들도
+167,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_101","그나저나 다른 가정에서 지내고 있던 유학생들도
 많은 것을 배우고 무사히 샬레이안을 떠났다는 보고가 있었어요.
 <Highlight>ObjectParameter(1)</Highlight> 씨 덕분이에요."
-166,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_102","이 성공을 계기로 지원의 폭을 더 넓힐 계획이에요.
+168,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_102","이 성공을 계기로 지원의 폭을 더 넓힐 계획이에요.
 올드 샬레이안에 유학생을 받아들이기만 할 뿐 아니라
 이국에서 학습하는 본국 학생들도 지원하려고 해요."
-167,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_103","물론 이 르베유르 저택에서도
+169,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_103","물론 이 르베유르 저택에서도
 계속해서 홈스테이를 받을 거예요."
-168,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_104","남편이나 애들이 집으로 돌아오면
+170,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_104","남편이나 애들이 집으로 돌아오면
 모르는 아이가 살고 있는 걸 보고 깜짝 놀라겠죠.
 ……그때까지는 비밀로 해둘까 봐요."
-169,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_105","아참, 밀라에게 선물한 의상 말인데요,
+171,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_105","아참, 밀라에게 선물한 의상 말인데요,
 사실은 당신 것도 준비하고 있어요."
-170,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_106","귀국 날짜가 다가와서 밀라에게 먼저 준 거랍니다.
+172,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_106","귀국 날짜가 다가와서 밀라에게 먼저 준 거랍니다.
 당신 것은 완성될 때까지 조금 더 기다려줬으면 해요."
-171,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_107","그리고 이것도 비밀로 해줬으면 하는데요……
+173,"TEXT_CTSSFSCHARACTER8_00773_LCUT_RANKUP_AMELIANCE_004_107","그리고 이것도 비밀로 해줬으면 하는데요……
 추천하고 싶은 의상이 있다면 빌려줄 수 있을까요?
 그이의 놀라는 얼굴을 보고 싶거든요!"
-172,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+174,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '르베유르 가의 협력자'로 여기게 되었습니다!"
-173,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+175,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '르베유르 가의 은인'으로 여기게 되었습니다!"
-174,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+176,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '르베유르 가의 영웅'으로 여기게 되었습니다!"
-175,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+177,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '르베유르 가의 가족'으로 여기게 되었습니다!"
-176,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_001_001","<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
+178,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_001_001","<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
 계속해서 당신의 도움이 필요한 듯합니다."
-177,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_001_002","<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
+179,"TEXT_CTSSFSCHARACTER8_00773_RANKUPINFO_001_002","<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
 당신에게 새로운 의뢰를 부탁하고 싶은 듯합니다."
-178,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
+180,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
 '의뢰물 건네주기'를 선택해 확인하세요."
-179,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_001_001","단골 거래 이야기 퀘스트를 진행할 수 있게 되었습니다.
+181,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_001_001","단골 거래 이야기 퀘스트를 진행할 수 있게 되었습니다.
 르베유르 저택에 있는 '아멜리앙스'에게서 퀘스트를 받을 수 있습니다.
 퀘스트를 완료하면 납품 목록이 갱신됩니다."
-180,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_001","앞으로 받을 의뢰는 일주일에 한 번
+182,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_001","앞으로 받을 의뢰는 일주일에 한 번
 지금까지 납품한 의뢰물 중에서 무작위로 선택됩니다."
-181,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
+183,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
 '의뢰물 건네주기'를 선택해 확인하세요."
-182,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_003","또한 '학습 지원 물품', '학습 지원 물품 소재',
+184,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_003","또한 '학습 지원 물품', '학습 지원 물품 소재',
 '회백산호'는 특히 많은 보상을 얻을 수 있습니다.
 목록에 포함되면 적극적으로 납품해 보세요."
-183,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_004","추가로, 이제 아멜리앙스에게
+185,"TEXT_CTSSFSCHARACTER8_00773_AFTRANKUP_002_004","추가로, 이제 아멜리앙스에게
 장비 투영을 할 수 있습니다."
-184,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_001_000","<Highlight>ObjectParameter(1)</Highlight> 씨.
+186,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_001_000","<Highlight>ObjectParameter(1)</Highlight> 씨.
 언제나 고마워요."
-185,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_001_001","신기하네요…… 아이들의 소중한 동료인 당신과
+187,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_001_001","신기하네요…… 아이들의 소중한 동료인 당신과
 이렇게 교류를 하게 되다니요.
 앞으로도 의지할 테니 잘 부탁해요."
-186,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_002_000","이번주도 물건을 많이 가져와줘서
+188,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_002_000","이번주도 물건을 많이 가져와줘서
 굉장히 도움이 됐어요!"
-187,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_002_001","만약 지금 그이가 돌아온다면
+189,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_002_001","만약 지금 그이가 돌아온다면
 당신과 제가 친하게 지내는 걸 보고 굉장히 놀라겠죠?
 ……후훗, 상상만 해도 재미있네요."
-188,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_003_000","언제나 고마워요, <Highlight>ObjectParameter(1)</Highlight> 씨!"
-189,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_003_001","후훗, 우리 고용인들 말이에요,
+190,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_003_000","언제나 고마워요, <Highlight>ObjectParameter(1)</Highlight> 씨!"
+191,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_003_001","후훗, 우리 고용인들 말이에요,
 당신이 우리집에 오면 얼마나 의욕적으로 일하는지 몰라요.
 물론 평소에도 열심히 일해주고 있지만요."
-190,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_003_002","제가 이 집에 시집왔을 때도 여러 가지 예법을 가르쳐 줬고
+192,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_003_002","제가 이 집에 시집왔을 때도 여러 가지 예법을 가르쳐 줬고
 알피노와 알리제도 정말 잘 보살펴 줬어요.
 모두가 자랑스럽고 소중한 가족이에요."
-191,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_004_000","<Highlight>ObjectParameter(1)</Highlight> 씨, 좀 들어줄래요?"
-192,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_004_001","배달부 모그리가 알피노의 편지를 배달해 주었는데요,
+193,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_004_000","<Highlight>ObjectParameter(1)</Highlight> 씨, 좀 들어줄래요?"
+194,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_004_001","배달부 모그리가 알피노의 편지를 배달해 주었는데요,
 당신과 일하고 있는 것을 답장에 쓸지 말지 고민돼서요."
-193,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_004_002","비밀로 한 다음에 놀래 줄까 싶기도 했는데…….
+195,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_004_002","비밀로 한 다음에 놀래 줄까 싶기도 했는데…….
 알리제에게는 빨리 알려주는 게 나을지도 몰라요.
 후후후, 어떻게 생각해요?"
-194,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_005_000","<Highlight>ObjectParameter(1)</Highlight> 씨,
+196,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_005_000","<Highlight>ObjectParameter(1)</Highlight> 씨,
 오늘도 와줘서 기뻐요!"
-195,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_005_001","처음에는 이 사업이 잘될지 불안했었어요.
+197,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_005_001","처음에는 이 사업이 잘될지 불안했었어요.
 하지만 당신이 와서 협력해주겠다고 말해줘서
 불안함이 순식간에 날아가 버렸지 뭐예요."
-196,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_005_002","이제 알피노와 알리제의 마음이 이해가 되네요.
+198,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_005_002","이제 알피노와 알리제의 마음이 이해가 되네요.
 당신과 함께라면 어디서든 무엇이든 할 수 있을 것 같거든요.
 후훗, 앞으로도 잘 부탁해요!"
-197,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_000","<Highlight>ObjectParameter(1)</Highlight> 씨.
+199,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_000","<Highlight>ObjectParameter(1)</Highlight> 씨.
 지금 시간 좀 괜찮아요?
 다시 정식으로 감사 인사를 하고 싶어서요."
-198,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_001","단골 거래를 통해 이렇게 친분을 쌓게 된 것도
+200,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_001","단골 거래를 통해 이렇게 친분을 쌓게 된 것도
 물론 진심으로 감사하게 생각하지만요……
 알피노와 알리제, 그리고 남편도요."
-199,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_002","저의 소중한 사람들을 지켜줘서 고마워요.
+201,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_002","저의 소중한 사람들을 지켜줘서 고마워요.
 ……반드시 돌아올 거라 믿게 해준 것도요."
-200,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_003","그리고 지금은 당신도 소중한 존재랍니다.
+202,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_003","그리고 지금은 당신도 소중한 존재랍니다.
 동료나 지키고 싶은 것을 위해 무모한 일을 하지 말라곤 안 해요.
 하지만 대모험이 끝난 후엔 들러줘요, 그럼 안심이 될 것 같아요."
-201,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_004","후후, 앞으로도 잘 부탁해요!"
-202,"TEXT_CTSSFSCHARACTER8_00773_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
+203,"TEXT_CTSSFSCHARACTER8_00773_RANKUP_AMELIANCE_006_004","후후, 앞으로도 잘 부탁해요!"
+204,"TEXT_CTSSFSCHARACTER8_00773_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
 현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
 다시 납품할 수 있습니다."
-203,"TEXT_CTSSFSCHARACTER8_00773_AMELIANCE_000_000","당신이 함께 가준다면 든든할 것 같아요.
+205,"TEXT_CTSSFSCHARACTER8_00773_AMELIANCE_000_000","당신이 함께 가준다면 든든할 것 같아요.
 출발 준비가 끝나면 가르쳐줘요."
-204,"TEXT_CTSSFSCHARACTER8_00773_QUEST_SYSTEM_000_002","단골 거래 이야기 퀘스트를 진행하기 위해서는
+206,"TEXT_CTSSFSCHARACTER8_00773_QUEST_SYSTEM_000_002","단골 거래 이야기 퀘스트를 진행하기 위해서는
 현재 클래스가 채집가 또는 제작자여야 합니다."

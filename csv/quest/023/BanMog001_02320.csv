@@ -34,7 +34,7 @@ int32,str,str
 24,"TEXT_BANMOG001_02320_TODO_00","모그쿨과 대화"
 25,"TEXT_BANMOG001_02320_TODO_01","신전기사단 본부에서 앙델루와 대화"
 26,"TEXT_BANMOG001_02320_TODO_02","보석홀장 거리에서 타레송과 대화"
-27,"TEXT_BANMOG001_02320_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,15720,0)/> 제작<Else/>타레송에게 <Sheet(Item,15720,0)/> 납품</If>"
+27,"TEXT_BANMOG001_02320_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트:<Sheet(Item,15720,0)/> 제작<Else/>타레송에게 <Sheet(Item,15720,0)/> 납품</If>"
 28,"TEXT_BANMOG001_02320_TODO_04","바르 레스 광장에서 타레송과 대화"
 29,"TEXT_BANMOG001_02320_TODO_05","하얀 궁전 부근에서 단장 모그진 찾기"
 30,"TEXT_BANMOG001_02320_TODO_06","타레송과 대화"

@@ -17,6 +17,9 @@ int32,str,str
 6,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED","<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지 추첨에 참가했습니다.
 추첨번호는 <Value>IntegerParameter(4)</Value>번입니다.
 결과는 <Time(IntegerParameter(5))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue> 이후에 확인할 수 있습니다."
-7,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL","길이 반환된 경우, 소지금이 보유 한도를 초과하기 때문에
+7,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED_2","또한 주 메뉴 '임무 정보 목록'의
+'하우징' 탭에서
+신청한 토지, 추첨번호, 토지 용도를 확인할 수 있습니다."
+8,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL","길이 반환된 경우, 소지금이 보유 한도를 초과하기 때문에
 반환되지 않았습니다.
 소지금을 줄인 후 다시 시도하십시오."

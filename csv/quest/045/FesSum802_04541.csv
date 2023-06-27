@@ -56,12 +56,12 @@ int32,str,str
 45,"TEXT_FESSUM802_04541_TODO_21",""
 46,"TEXT_FESSUM802_04541_TODO_22",""
 47,"TEXT_FESSUM802_04541_TODO_23",""
-48,"TEXT_FESSUM802_04541_RMAJHA_100_002","<If(PlayerParameter(4))>언니<Else/>오빠</If>, 오빠와 대화해주세요!
+48,"TEXT_FESSUM802_04541_RMAJHA_100_002","<If(PlayerParameter(4))>언니<Else/>오빠</If>, 우리 오빠와 대화해주세요!
 우울해하고 있다면 격려해주셨으면 해요!"
 49,"TEXT_FESSUM802_04541_RFHULTIA_000_000","어, 어째서…….
 내가 뭘 잘못했지……."
 50,"TEXT_FESSUM802_04541_RMAJHA_000_001","음, 대화만으로는 안 될지도……."
-51,"TEXT_FESSUM802_04541_RMAJHA_100_001","<If(PlayerParameter(4))>언니<Else/>오빠</If>, 오빠를 '위로'해주세요!
+51,"TEXT_FESSUM802_04541_RMAJHA_100_001","<If(PlayerParameter(4))>언니<Else/>오빠</If>, 우리 오빠를 '위로'해주세요!
 존경하는 <If(PlayerParameter(4))>언니<Else/>오빠</If>가 위로해준다면 다시 일어날 거예요!"
 52,"TEXT_FESSUM802_04541_RMAJHA_000_002","오빠를 '위로'해 주세요!"
 53,"TEXT_FESSUM802_04541_RFHULTIA_000_010","왜…… 어째서…… 으으으……."
@@ -81,21 +81,21 @@ int32,str,str
 62,"TEXT_FESSUM802_04541_A1_000_003","실패를 은닉하려고 했기 때문에"
 63,"TEXT_FESSUM802_04541_RMAJHA_000_014","그렇긴 한데, 그렇지 않아!
 오빠가 진심으로 하지 않아서 그래!"
-64,"TEXT_FESSUM802_04541_RMAJHA_000_015","그래, <If(PlayerParameter(4))>언니<Else/>오빠</If> 말이 맞아!
+64,"TEXT_FESSUM802_04541_RMAJHA_000_015","그래, 모험가 <If(PlayerParameter(4))>언니<Else/>오빠</If> 말이 맞아!
 오빠, 진심으로 하지 않았잖아!"
 65,"TEXT_FESSUM802_04541_RMAJHA_000_016","은닉……이 뭔진 모르겠지만, 아마 그럴 거야!
-오빠는 진심으로 싸우는 것처럼 보이지 않았어!"
+오빠는 진심처럼 보이지 않았어!"
 66,"TEXT_FESSUM802_04541_RFHULTIA_000_017","지, 진심이라고……?
-누가 촌스럽게 진심으로 싸워.
+누가 촌스럽게 이런 걸 진심으로 해.
 난 후배들에게 그저 여유롭고 멋있는 모습을 보이려고……."
 67,"TEXT_FESSUM802_04541_RMAJHA_000_018","오빠 바보!
-진심으로 싸우지 않는 오빠는 하나도 안 멋있어!
+진심이 아닌 오빠는 하나도 안 멋있어!
 촌스럽더라도 진심을 다하는 오빠가 훨씬 더 멋있단 말이야!"
 68,"TEXT_FESSUM802_04541_RMAJHA_100_018","그런 것도 모르다니 실망이야!
 이렇게 된 거, 내가 마법성을 공략해서
 진심이 뭔지 보여줄 테야!"
 69,"TEXT_FESSUM802_04541_BEAUDEFOIN_000_019","(-???-)오, 이런이런, 꼬마 아가씨!
-그 각오는 훌륭합니다만, 안전성 문제로
+그 각오는 훌륭합니다만, 안전 문제로
 어린이의 도전은 안 받고 있답니다!"
 70,"TEXT_FESSUM802_04541_BEAUDEFOIN_000_020","(-보드푸앙-)이야기는 다 들었는데 말이지……
 르풀 티아, 너,
@@ -111,7 +111,7 @@ int32,str,str
 네가 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13> 동경했던 이유를."
 74,"TEXT_FESSUM802_04541_RFHULTIA_000_024","그래…… 난, 잘못 생각하고 있었어…….
 후배들에게 멋있는 모습을 보여주려고
-온통 그것만 신경 쓰느라 진심으로 싸우려 하지 않았어……."
+온통 그것만 신경 쓰느라 진심을 다하지 않았어……."
 75,"TEXT_FESSUM802_04541_RFHULTIA_000_025","젠장, 난 후배들의 믿음을 배신한 거야……!
 이래서는 어엿한 모험가라 할 자격이 없어.
 후배들에게 어떻게 사과해야 하지……."
@@ -138,7 +138,7 @@ int32,str,str
 데려가 주세요!"
 85,"TEXT_FESSUM802_04541_RFHULTIA_000_032","감사합니다, <Highlight>ObjectParameter(1)</Highlight> 님!
 저, 전력을 다해 당신의 뒤를 따라갈게요!"
-86,"TEXT_FESSUM802_04541_RMAJHA_000_033","<If(PlayerParameter(4))>언니<Else/>오빠</If>, 힘내!"
+86,"TEXT_FESSUM802_04541_RMAJHA_000_033","모험가 <If(PlayerParameter(4))>언니<Else/>오빠</If>, 힘내!"
 87,"TEXT_FESSUM802_04541_RFHULTIA_000_034","당신의 뒤를 따라가면 저도 진심을 다할 수 있을 거예요.
 그러니 저보다 앞서 마법성을 공략해 주세요.
 잘 부탁드립니다!"
@@ -239,7 +239,7 @@ int32,str,str
 당신은 제가 존경하는 모험가예요!"
 129,"TEXT_FESSUM802_04541_ADVENTURERA04541_000_084","당신은 형님의 <If(PlayerParameter(4))>누님<Else/>형님</If>이니……
 그 말인즉슨, <Highlight>ObjectParameter(1)</Highlight> 큰 <If(PlayerParameter(4))>누님<Else/>형님</If>!!
-헤헤, 큰 <If(PlayerParameter(4))>누님<Else/>형님</If>을 알게 된 건 내 평생의 보물이야!"
+헤헤, 큰 <If(PlayerParameter(4))>누님<Else/>형님</If>을 알게 된 건 제 평생의 보물입니다!"
 130,"TEXT_FESSUM802_04541_ADVENTURERB04541_000_085","전 차가운 성격이라는 말을 많이 듣는데,
 선배와 당신을 보니 가슴이 뜨거워졌어요.
 목표로 삼아야 할 모험가의 모습이 이런 거로군요."

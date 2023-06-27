@@ -36,7 +36,7 @@ int32,str,str
 24,"TEXT_BANIXA104_01497_TODO_00","대화창에 '말하기' 방식으로 ""바람처럼!""이라고 입력하여
  정령 깃든 어린나무에 있는 비행단 운반책에게 암구호 대기"
 25,"TEXT_BANIXA104_01497_TODO_01","소근소근 조련소에서 넬몽에게 <Sheet(EventItem,2001380,0)/> 전달"
-26,"TEXT_BANIXA104_01497_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트 레벨 1：<Sheet(Item,　8094,0)/> 제작<Else/>직공 야젤 아후아탄에게 <Sheet(Item,　8094,0)/> 납품</If>"
+26,"TEXT_BANIXA104_01497_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 야만족 퀘스트 레벨 1：<Sheet(Item,　8094,0)/> 제작<Else/>직공 야젤 아후아탄에게 <Sheet(Item,　8094,0)/> 납품</If>"
 27,"TEXT_BANIXA104_01497_TODO_03",""
 28,"TEXT_BANIXA104_01497_TODO_04",""
 29,"TEXT_BANIXA104_01497_TODO_05",""

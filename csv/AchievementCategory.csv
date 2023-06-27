@@ -37,9 +37,9 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 33,"원예가",5,True,False,11
 34,"어부",5,True,False,12
 35,"일반",8,True,False,1
-36,"의뢰",8,True,False,2
-37,"우호부족 퀘스트",8,True,False,3
-38,"기간 한정 이벤트",8,True,True,4
+36,"의뢰",8,True,False,4
+37,"우호부족 퀘스트",8,True,False,5
+38,"기간 한정 이벤트",8,True,True,99
 39,"탐험수첩",11,True,False,1
 40,"라노시아",11,True,False,2
 41,"검은장막 숲",11,True,False,3
@@ -77,3 +77,6 @@ int32,str,AchievementKind,bit&01,bit&02,byte
 73,"일사바드",11,True,False,13
 74,"기타",11,True,False,99
 75,"맨더빌 웨폰",4,True,False,12
+76,"주요 퀘스트",8,True,False,2
+77,"잡/역할 퀘스트",8,True,False,3
+78,"",0,False,False,0

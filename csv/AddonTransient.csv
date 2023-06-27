@@ -501,7 +501,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 337,"<CommandIcon(10)/>세부 메뉴"
 338,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>선택"
 339,"<CommandIcon(11)/>적용"
-340,"<CommandIcon(10)/>세부 메뉴"
+340,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
 341,"<CommandIcon(10)/>세부 메뉴"
 342,"<CommandIcon(9)/>퍼즐 더미로 돌아가기"
 343,"<CommandIcon(9)/>닫기 버튼으로"
@@ -816,12 +816,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 471,""
 472,""
 473,""
-474,""
-475,""
-476,""
-477,""
-478,""
-479,""
+474,"<CommandIcon(11)/>탐색지 결정"
+475,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
+476,"<CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
+477,"<CommandIcon(8)/>대표적인 어장 표시"
+478,"<CommandIcon(10)/>세부 메뉴"
+479,"<CommandIcon(10)/>세부 메뉴"
 480,""
 481,""
 482,""
@@ -1221,8 +1221,15 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 
 플레이어의 획득력이 높을수록
 무정형성 소장품이 승화할 확률이 증가합니다."
-1047,""
-1048,""
+1047,"소장 가치"
+1048,"소장 가치란, 소장품의 가치를 수치로 나타낸 것입니다.
+
+소장품을 채집할 때, 납품에 필요한 소장 가치가
+'요구 소장 가치'로 표시됩니다.
+이 수치를 참고하여 소장 가치를 올린 다음, 채집을 실행하세요.
+
+※ 소장품 정제로 크리스탈이 아닌 아이템을 얻으려면
+'요구 소장 가치'를 충족해야 합니다."
 1049,""
 1050,"특수 던전 탐색 방법"
 1051,"전담 NPC와 대화하거나 주 메뉴 '임무 정보'에 있는

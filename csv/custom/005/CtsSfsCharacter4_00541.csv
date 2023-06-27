@@ -51,419 +51,425 @@ int32,str,str
 26,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_002_002","광부 및 원예가의 채집 소장품은 의뢰 목록에서
 세부 메뉴 '채집 방법 검색'을 선택하면
 채집수첩에서 채집 장소가 표시됩니다."
-27,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_002_003","어부의 채집 소장품은 의뢰 목록의
-아이템 툴팁에 낚시 장소에 대한 힌트가 나옵니다."
-28,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_002_004","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
+27,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_002_003","'어부'의 채집 소장품은 목록에서 세부 메뉴를 열어
+'획득 장소 표시'를 선택하면
+해당 물고기를 잡을 수 있는 낚시터 또는 어장이 표시됩니다."
+28,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_102_003","또한, 낚시를 할 때는
+미끼로 '<Sheet(Item,28634,0)/>' 사용을 추천합니다."
+29,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_002_004","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
 '제작자'와 '광부 및 원예가', '어부' 세 종류로 나뉘며,
 모두 '소장품'이어야 합니다."
-29,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_003_000","의뢰물 제작에 필요한 재료는
+30,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_003_000","의뢰물 제작에 필요한 재료는
 이딜샤이어 '자유시장'에 있는
 '재료 상인'에게서 구입할 수 있습니다."
-30,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_000","제작 물품의 '소장 가치'는
+31,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_000","제작 물품의 '소장 가치'는
 제작 시에 '품질'을 높이면 상승합니다.
 최대한 품질을 높여서 완성시키는 것이 중요합니다."
-31,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_002","품질이 높아지는 기술에 성공하면
+32,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_002","품질이 높아지는 기술에 성공하면
 자신에게 '정신 집중'이 부여됩니다."
-32,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_003","（★未使用／削除予定★）"
-33,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_004","최대한 수많은 정신 집중을 축적해 놓고
+33,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_003","（★未使用／削除予定★）"
+34,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_004","최대한 수많은 정신 집중을 축적해 놓고
 마지막에 '비레고의 축복' 등으로
 단숨에 품질을 올려 완성해 보세요."
-34,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_005","그 외에도 품질을 높이는 기술이 여럿 존재합니다.
+35,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_005","그 외에도 품질을 높이는 기술이 여럿 존재합니다.
 익숙해지면 다양하게 시도하여 자기만의 제작법을 찾아봅시다."
-35,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_005_000","소장품 채집 아이템을 선택하면 특수 창이 표시됩니다.
+36,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_005_000","소장품 채집 아이템을 선택하면 특수 창이 표시됩니다.
 소장품 채집용 기술을 사용해
 '소장 가치'를 올린 다음 아이템을 채집합니다."
-36,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_005_001","'광부'와 '원예가'로 소장 가치를 올리려면
+37,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_005_001","'광부'와 '원예가'로 소장 가치를 올리려면
 기술 '집중 검사'를 사용한 다음 '순화'를 사용합니다.
 이를 반복하여 소장품을 채집해보세요."
-37,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_005_002","소장 가치를 더 높이고 싶은 경우에는
+38,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_005_002","소장 가치를 더 높이고 싶은 경우에는
 장비를 갖추고 '획득력'과 '기술력'을 높여보세요.
 소장품 채집용 기술의 효과가 높아집니다."
-38,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_005_003","'GP'가 부족하다면 장비를 갖추고
+39,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_005_003","'GP'가 부족하다면 장비를 갖추고
 '최대 GP'를 높여보세요."
-39,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_006_000","수산물은 낚은 '물고기의 크기'가
+40,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_006_000","수산물은 낚은 '물고기의 크기'가
 그대로 '소장 가치'가 됩니다."
-40,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_006_001","소장품 목록에 있는 물고기가 낚이는 낚시터로 가서
+41,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_006_001","소장품 목록에 있는 물고기가 낚이는 낚시터로 가서
 기술 '소장품 채집'을 사용하고 낚시를 시작하세요."
-41,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_006_002","기술 '인내 2'를 사용한 뒤
+42,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_006_002","기술 '인내 2'를 사용한 뒤
 적절한 낚아채기 기술을 사용하면
 큰 물고기를 낚을 수 있습니다."
-42,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_006_003","크기가 생각만큼 크지 않을 때에는 '기술력'이 올라가는
+43,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_006_003","크기가 생각만큼 크지 않을 때에는 '기술력'이 올라가는
 장비를 갖추어 봅시다."
-43,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
+44,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 납품할 수 있는 아이템은
 '제작자'와 '광부 및 원예가', '어부' 세 종류로 나뉘며,
 모두 '소장품'이어야 합니다."
-44,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_008","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
+45,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_008","납품은 아이템의 종류에 맞는 클래스가 된 상태에서
 해당 클래스 레벨이 66 이상일 때 가능합니다."
-45,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_009","납품 시 클래스 레벨이 89 이하인 경우는
+46,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_009","납품 시 클래스 레벨이 89 이하인 경우는
 레벨 90이 되면 받을 수 있는 화폐 보상 대신
 경험치 보상을 얻을 수 있습니다."
-46,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_001","각 소장품의 입수 방법은
+47,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_001","각 소장품의 입수 방법은
 다음과 같이 확인하실 수 있습니다."
-47,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_002","제작 소장품은 의뢰 목록의 세부 메뉴에서
+48,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_002","제작 소장품은 의뢰 목록의 세부 메뉴에서
 '제작법 검색'을 선택하면
 제작수첩에서 제작법이 표시됩니다."
-48,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_003","의뢰물 제작에 필요한 재료는
+49,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_003","의뢰물 제작에 필요한 재료는
 이딜샤이어 '자유시장'에 있는
 '재료 상인'에게서 구입할 수 있습니다."
-49,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_004","광부 및 원예가의 채집 소장품은 의뢰 목록에서
+50,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_004","광부 및 원예가의 채집 소장품은 의뢰 목록에서
 세부 메뉴 '채집 방법 검색'을 선택하면
 채집수첩에서 채집 장소가 표시됩니다."
-50,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_005","어부의 채집 소장품은 의뢰 목록의
-아이템 툴팁에 낚시 장소에 대한 힌트가 나옵니다."
-51,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_006","'소장 가치'가 높을수록
+51,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_005","'어부'의 채집 소장품은 목록에서 세부 메뉴를 열어
+'획득 장소 표시'를 선택하면
+해당 물고기를 잡을 수 있는 낚시터 또는 어장이 표시됩니다."
+52,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_100_005","또한, 낚시를 할 때는
+미끼로 '<Sheet(Item,28634,0)/>' 사용을 추천합니다."
+53,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_006","'소장 가치'가 높을수록
 납품 시에 더 많은 보상을 받을 수 있습니다."
-52,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_007","소장 가치를 올리는 방법이 궁금하면
+54,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_000_007","소장 가치를 올리는 방법이 궁금하면
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 걸어
 '단골 거래에 대해 물어보기'를 선택하세요."
-53,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_001_000","의뢰물을 납품함으로써
+55,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_001_000","의뢰물을 납품함으로써
 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EAB080FF04EC9DB4</13> 당신을 신뢰하게 되었습니다."
-54,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
+56,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
 '신뢰 단계'가 상승하며, <Sheet(ENpcResident,IntegerParameter(1),0)/>의
 새로운 이야기를 볼 수 있습니다."
-55,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
+57,"TEXT_CTSSFSCHARACTER4_00541_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
 적극적으로 소장품을 납품하여 신뢰도를 올리세요!"
-56,"TEXT_CTSSFSCHARACTER4_00541_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
+58,"TEXT_CTSSFSCHARACTER4_00541_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
 현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
 다시 납품할 수 있습니다."
-57,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_001_000","이슈가르드라고 하면 상당히 딱딱한 이미지가 있는데,
+59,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_001_000","이슈가르드라고 하면 상당히 딱딱한 이미지가 있는데,
 전통과 격식이 있는 그 나라의 요리에 어울리는 물건이야.
 아름다운 장식도 있어서 한층 요리가 돋보이겠어!"
-58,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_001_001","흠…… 정말로 향기가 좋네.
+60,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_001_001","흠…… 정말로 향기가 좋네.
 이 땅의 곡물과 물을 세련된 소재로 증류시킨 증류주는
 숙취가 남지 않아서 단골 손님들한테도 인기가 있겠어!"
-59,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_001_002","좋은 만두를 만들기 위해선 좋은 소재가 필요해.
+61,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_001_002","좋은 만두를 만들기 위해선 좋은 소재가 필요해.
 이 소재가 있으면 우리 고향 만두에 견주어도 손색이 없는,
 육즙 가득하고 따끈따끈 쫄깃한 만두를 만들 수 있을 거야!"
-60,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_001_003","우리 가게 분위기와 잘 어울리게 만들어주었구나.
+62,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_001_003","우리 가게 분위기와 잘 어울리게 만들어주었구나.
 통일된 느낌의 비품이 있으면 그 공간에서 편안함을 느낄 수 있어.
 하루를 마칠 때 오고 싶은 가게, 벼랑 끝 주점에 딱 어울려!"
-61,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_001_004","우리 고향의 아르히는 발효된 가축의 젖을 증류시켜 만든 술이야.
+63,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_001_004","우리 고향의 아르히는 발효된 가축의 젖을 증류시켜 만든 술이야.
 알코올 도수는 높지만 경사스러운 행사엔 절대 빠지지 않지.
 이 멋진 소재로 만든 아르히를 어서 한잔 쭉 들이키고 싶어!"
-62,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_002_000","이슈가르드는 추운 땅이다 보니, 주로 난로 위에 냄비를 올려
+64,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_002_000","이슈가르드는 추운 땅이다 보니, 주로 난로 위에 냄비를 올려
 오랜 시간 동안 천천히 끓여먹는 요리가 많아. 이제 이게 있으니 
 적절한 화력으로 본격 이슈가르드 요리를 만들 수 있겠어! "
-63,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_002_001","흠, 열전도율이 높은 이 소재를 이용하면
+65,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_002_001","흠, 열전도율이 높은 이 소재를 이용하면
 숙성 과정에서 훌륭한 향을 이끌어낼 수 있겠어.
 벌써부터 완성이 기대되는걸!"
-64,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_002_002","우리 고향에서는 향신료는 거의 사용하지 않지만,
+66,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_002_002","우리 고향에서는 향신료는 거의 사용하지 않지만,
 이딜샤이어를 찾아오는 수많은 손님의 입맛에 맞춰야 하거든.
 이 상품은 만두와도 잘 어울리고, 음식을 더 맛있게 해줄 거야!"
-65,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_002_003","자네 정도 되는 일류 장인은
+67,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_002_003","자네 정도 되는 일류 장인은
 비품에 사용할 소재 하나도 허투루 만들지 않는구나.
 이 몸도 벼랑 끝 주점의 만족도 향상을 위해 노력해야겠어!"
-66,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_002_004","흠…… 정말로 품질이 좋아. 
+68,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_002_004","흠…… 정말로 품질이 좋아. 
 아르히는 질 좋은 소재로 만든 나무통을 사용해서 제조하거든.
 수고스럽긴 하지만, 그만큼 완성도는 보장할 수 있어!"
-67,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_003_000","음……정말로 신선한 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC95BCFF07EC9DB4EC95BC</13>!
+69,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_003_000","음……정말로 신선한 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC95BCFF07EC9DB4EC95BC</13>!
 손만 대도 살이 탱탱하게 차 있다는 걸 알 수 있을 정도군.
 이렇게 신선할 때 어서 손님한테 제공해야겠어!"
-68,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_003_001","호오…… 해조주의 소재구나!
+70,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_003_001","호오…… 해조주의 소재구나!
 특이하긴 하지만, 개성파 주점인 벼랑 끝 주점엔 딱이야.
 노련한 손님을 위해서 비장의 술을 담궈야겠어!"
-69,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_003_002","참으로 싱싱한 '<Sheet(Item,IntegerParameter(1),0)/>'……!
+71,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_003_002","참으로 싱싱한 '<Sheet(Item,IntegerParameter(1),0)/>'……!
 이 몸이 있을 땐 긴털들소 고기를 사용하는 경우가 많았지만,
 이것도 손질을 잘해서 구우면 그에 못지않은 식감을 느낄 수 있어!"
-70,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_003_003","오호라, 이건 정말 희귀한 건데!
+72,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_003_003","오호라, 이건 정말 희귀한 건데!
 특유의 냄새가 없는 '<Sheet(Item,IntegerParameter(1),0)/>' 기름은 연료로도 좋아.
 게다가 살도 남김없이 요리에 쓸 수 있지…… 아주 경제적인 재료랄까!"
-71,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_003_004","호오…… 아주 훌륭한 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF07EC9E96EC9584FF0AEC9DB4EC9E96EC9584</13>!
+73,"TEXT_CTSSFSCHARACTER4_00541_KNOWLEDGE_ADKIRAGH_003_004","호오…… 아주 훌륭한 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF07EC9E96EC9584FF0AEC9DB4EC9E96EC9584</13>!
 도수 높은 아르히를 마시면서 이걸로 만든 안주를 한 입……!
 회로 칠까…… 아니야, 소금구이도 괜찮겠어……!"
-72,"TEXT_CTSSFSCHARACTER4_00541_JUDGEMENT_ADKIRAGH_000_000","그럼, 납품물을 확인해볼게.
+74,"TEXT_CTSSFSCHARACTER4_00541_JUDGEMENT_ADKIRAGH_000_000","그럼, 납품물을 확인해볼게.
 음…… 빈틈없이 튼튼한 품질, 아주 좋아!
 우리 가게를 찾는 손님도 만족하겠어!"
-73,"TEXT_CTSSFSCHARACTER4_00541_JUDGEMENT_ADKIRAGH_000_001","그럼, 납품물을 확인해볼게.
+75,"TEXT_CTSSFSCHARACTER4_00541_JUDGEMENT_ADKIRAGH_000_001","그럼, 납품물을 확인해볼게.
 이, 이건……더할 나위 없는 엑설런트한 품질!
 자네 실력에는 매번 놀라게 된다니까!"
-74,"TEXT_CTSSFSCHARACTER4_00541_JUDGEMENT_ADKIRAGH_000_002","그럼, 납품물을 확인해볼게.
+76,"TEXT_CTSSFSCHARACTER4_00541_JUDGEMENT_ADKIRAGH_000_002","그럼, 납품물을 확인해볼게.
 크헉…… 자네는 천재야……!?
 이건 그야말로 이 몸이 원하던 최고의 품질이야!"
-75,"TEXT_CTSSFSCHARACTER4_00541_JUDGEMENT_ADKIRAGH_000_003","그럼, 납품물을 확인해볼게.
+77,"TEXT_CTSSFSCHARACTER4_00541_JUDGEMENT_ADKIRAGH_000_003","그럼, 납품물을 확인해볼게.
 오오오…… 역시 끝내주는 품질, 정말로 훌륭해!
 이제 우리 가게는 보다 럭셔리한 주점으로 다시 태어날 거야!"
-76,"TEXT_CTSSFSCHARACTER4_00541_JUDGEMENT_ADKIRAGH_000_004","그럼, 납품물을 확인해볼게.
+78,"TEXT_CTSSFSCHARACTER4_00541_JUDGEMENT_ADKIRAGH_000_004","그럼, 납품물을 확인해볼게.
 크……큭큭큭! 역시 대단해!
 이 정도 물건이면 주민들은 아주 기뻐하겠어!"
-77,"TEXT_CTSSFSCHARACTER4_00541_FULLBAG_000_000","소지품에 공간이 부족하여
+79,"TEXT_CTSSFSCHARACTER4_00541_FULLBAG_000_000","소지품에 공간이 부족하여
 신뢰도 상승 보상을 받을 수 없습니다."
-78,"TEXT_CTSSFSCHARACTER4_00541_FULLBAG_000_001","소지품을 정리한 뒤,
+80,"TEXT_CTSSFSCHARACTER4_00541_FULLBAG_000_001","소지품을 정리한 뒤,
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 다시 말을 거십시오."
-79,"TEXT_CTSSFSCHARACTER4_00541_BEFRANKUP_ADKIRAGH_000_000","자네 덕분에 필요한 물건은 다 갖추게 되었어.
+81,"TEXT_CTSSFSCHARACTER4_00541_BEFRANKUP_ADKIRAGH_000_000","자네 덕분에 필요한 물건은 다 갖추게 되었어.
 이젠 우리가 실력을 발휘할 때야.
 가게의 사활을 걸고 신메뉴를 반드시 성공시키겠어!"
-80,"TEXT_CTSSFSCHARACTER4_00541_BEFRANKUP_ADKIRAGH_001_000","자네 덕분에 우리 가게 오리지널 증류주를 만들 수 있었어!
+82,"TEXT_CTSSFSCHARACTER4_00541_BEFRANKUP_ADKIRAGH_001_000","자네 덕분에 우리 가게 오리지널 증류주를 만들 수 있었어!
 마치 아들을 전쟁에 처음 보내는 부모의 심정이랄까.
 훗………………이 몸한테 아들은 없지만 말이야!"
-81,"TEXT_CTSSFSCHARACTER4_00541_BEFRANKUP_ADKIRAGH_002_000","자네 덕분에 특제 만두 판매 준비를 마쳤어!
+83,"TEXT_CTSSFSCHARACTER4_00541_BEFRANKUP_ADKIRAGH_002_000","자네 덕분에 특제 만두 판매 준비를 마쳤어!
 만두는 원래 팔았었지만, 이번엔 새로운 재료를 써서 평판이 좋을 거야.
 그나저나 만두소에 메기 고기를 넣다니 몰족의 발상은 정말 놀라워……."
-82,"TEXT_CTSSFSCHARACTER4_00541_BEFRANKUP_ADKIRAGH_003_000","자네 덕분에 멋진 비품을 모두 갖추게 되었어!
+84,"TEXT_CTSSFSCHARACTER4_00541_BEFRANKUP_ADKIRAGH_003_000","자네 덕분에 멋진 비품을 모두 갖추게 되었어!
 사소한 부분에서 손님들을 실망시키기고 싶지 않거든!
 우리 가게는 늘 럭셔리하고 아름다워야 하니까!"
-83,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_000","자네가 도와준 '이슈가르드 요리' 말인데,
+85,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_000","자네가 도와준 '이슈가르드 요리' 말인데,
 단골손님들이 정말 맛있다면서 멀리 나갈 땐 홍보해주겠대!
 조금씩이지만 손님들도 돌아오고 있어!"
-84,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MELODIE_001_001","감사합니다.
+86,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MELODIE_001_001","감사합니다.
 다음에 또 오세요!"
-85,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_002","이제 일이 익숙해졌구나!
+87,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_002","이제 일이 익숙해졌구나!
 그런데 이제 좀 그 옷 좀 벗는 게……
 아, 점장님부터 저러시니까 할 말이 없네."
-86,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MELODIE_001_003","후훗.
+88,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MELODIE_001_003","후훗.
 절 쫓는 자들이 오면 언제든지 변장할 수 있잖아요.
 게다가 점장님하고도 세트라서 저는 마음에 들어요!"
-87,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_004","나, 나도 점장님이랑 세트로 입고 싶어……!"
-88,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MELODIE_001_005","그러고 보니 마포포 씨는 언제부터 이 가게에 있는 거예요?"
-89,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_006","후후훗.
+89,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_004","나, 나도 점장님이랑 세트로 입고 싶어……!"
+90,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MELODIE_001_005","그러고 보니 마포포 씨는 언제부터 이 가게에 있는 거예요?"
+91,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_006","후후훗.
 언제부터고 뭐고…… 이 벼랑 끝 주점의 창업 전부터
 계속 점장님을 돕고 있어!"
-90,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_007","원래는 보물 사냥꾼이었는데,
+92,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_007","원래는 보물 사냥꾼이었는데,
 내가 진짜 무서운 마물한테 공격당하고 있을 때,
 우연히 사냥 나온 점장님이 날 구해주셨거든."
-91,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_008","그때부터 계속 이어온 인연이야.
+93,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_008","그때부터 계속 이어온 인연이야.
 ……그, 그러니까 내가 점장님하고 가장 오래된 사이라고!"
-92,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MELODIE_001_009","어머!
+94,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MELODIE_001_009","어머!
 점장님은 전투도 잘하시나 보네요!"
-93,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_010","괜히 대부족의 족장 후보였겠나!
+95,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_010","괜히 대부족의 족장 후보였겠나!
 여자하곤 인연이 없는 저 어딘가의
 족장한테도 절대 지지 않을걸!"
-94,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MELODIE_001_011","……대부족?
+96,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MELODIE_001_011","……대부족?
 조, 족장 후보……?"
-95,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_012","아아, 아니!
+97,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_012","아아, 아니!
 지금 말한 건 그냥 혼잣말이니 신경 쓰지 마!"
-96,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_013","그 화제만 나오면 늘 얼버무린다니까요.
+98,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_013","그 화제만 나오면 늘 얼버무린다니까요.
 이상한 점장님!"
-97,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_014","윽……!
+99,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_014","윽……!
 쓸데없는 얘기는 관두고, 어서 일이나 하자고!"
-98,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_000","자네의 협력 덕분에 벼랑 끝 증류주의 평판이 아주 좋아!
+100,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_000","자네의 협력 덕분에 벼랑 끝 증류주의 평판이 아주 좋아!
 마포포도 기뻐하고 있어!"
-99,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_001","(-어찌할 바를 모르는 아우라족-)형님은 대체
+101,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_001","(-어찌할 바를 모르는 아우라족-)형님은 대체
 우릴 두고 어디로 가신 거냐고!"
-100,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_002","(-피곤해 보이는 아우라족-)이딜샤이어는 여기가 틀림없슴다……!
+102,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_002","(-피곤해 보이는 아우라족-)이딜샤이어는 여기가 틀림없슴다……!
 목숨 걸고 간신히 고향을 뛰쳐나왔으니,
 무슨 일이 있어도 형님을 찾아야 함다~! "
-101,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_003","알구…… 텔레보게……!
+103,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_003","알구…… 텔레보게……!
 너희들이 어떻게 여길…………!?"
-102,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_004","이 목소리는……!"
-103,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_005","아드키라 형님~~!??"
-104,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_006","으음…….
+104,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_004","이 목소리는……!"
+105,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_005","아드키라 형님~~!??"
+106,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_006","으음…….
 <Highlight>ObjectParameter(1)</Highlight>에게는 진실을 말해도 되겠지……."
-105,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_007","듣고 놀라지나 말라고!
+107,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_007","듣고 놀라지나 말라고!
 형님은 동방의 대초원 아짐 대초원 중에서도
 최대 규모를 자랑하는 아다르킴족의 족장 후보였어!"
-106,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_008","하지만 차기 족장 자리를 둘러싼 권력 싸움에 휘말리는 바람에
+108,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_008","하지만 차기 족장 자리를 둘러싼 권력 싸움에 휘말리는 바람에
 8번의 암살 미수와 4번의 결혼 사기를 당한  끝에 실종되셨었슴다…….
 대부족의 족장 후보 자리도 참 쉬운게 아님다."
-107,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_009","하지만 우리는 어렸을 때부터 형님께 충성을 맹세한 몸.
+109,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_009","하지만 우리는 어렸을 때부터 형님께 충성을 맹세한 몸.
 사라진 형님을 찾아서 초원 동서쪽을 헤매다
 탈주, 밀항, 표류 등등 온갖 대모험을 거쳐 이 땅에 오게 된 거야!"
-108,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_010","아니…… 자네, 이 몸의 비밀을 듣고도 놀라지 않다니!
+110,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_010","아니…… 자네, 이 몸의 비밀을 듣고도 놀라지 않다니!
 마치 원래부터 알고 있었던 것 같은 반응이잖아!?"
-109,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_Q1_002_000","뭐라고 대답하시겠습니까?"
-110,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_A1_002_001","아짐 대초원에서 동생과 만났다"
-111,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_A1_002_002","과거를 캐물을 생각은 없다"
-112,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_011","뭣이라!?
+111,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_Q1_002_000","뭐라고 대답하시겠습니까?"
+112,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_A1_002_001","아짐 대초원에서 동생과 만났다"
+113,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_A1_002_002","과거를 캐물을 생각은 없다"
+114,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_011","뭣이라!?
 이 몸의 동생과 만난 적이 있단 말이야?
 ……게다가 이 몸을 찾고 있었다니."
-113,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_012","흐음, 음…… 괜히 방랑하는 모험가가 아니군.
+115,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_012","흐음, 음…… 괜히 방랑하는 모험가가 아니군.
 이딜샤이어의 주민이 과거에 연연하지 않는다니
 그것 참 다행이야."
-114,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_013","……그런데 이 몸이 여기 있는 건 어떻게 알았어?"
-115,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_014","최근 재회시장에 모험가가 들어왔는데,
+116,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_013","……그런데 이 몸이 여기 있는 건 어떻게 알았어?"
+117,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_014","최근 재회시장에 모험가가 들어왔는데,
 그 녀석이 벼랑 끝 주점과
 그곳의 점주 '아드키라'에 대해 말해줬습니다."
-116,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_015","으윽…….
+118,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_015","으윽…….
 아무리 그래도 비겁한 암살자들이
 이 땅까지 쫓아오지는 않겠지……."
-117,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_016","그런데 설마 쫓기는 입장이신 형님이
+119,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_016","그런데 설마 쫓기는 입장이신 형님이
 얼굴은 가렸다고 해도 일부러 본명을 쓸 리가 없다고
 생각했었는데…… 말임다……"
-118,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_017","정말로 형님 본인이실 줄이야
+120,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_017","정말로 형님 본인이실 줄이야
 오히려 뒤통수를 맞았슴다……."
-119,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_018","아, 아무튼 말이지!
+121,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_018","아, 아무튼 말이지!
 다른 녀석들에겐 말하지 않는 게 좋겠어.
 쓸데없는 걱정을 살 수도 있으니까."
-120,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_003_000","신메뉴인 특제 만두가 소문이 나서 멀리서도 손님이 오고 있어!
+122,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_003_000","신메뉴인 특제 만두가 소문이 나서 멀리서도 손님이 오고 있어!
 이게 다 필수품을 구해다준 자네 덕분이야.
 우리도 요리 실력이 녹슬지 않게 더 열심히 노력해야겠어!"
-121,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_003_001","그런데 조금 신경 쓰이는 일이 생겼어.
+123,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_003_001","그런데 조금 신경 쓰이는 일이 생겼어.
 멜로디가 마을에서 아우라족 남성을 봤다는 거야.
 모험가로는 보이지 않았다고 하는데……."
-122,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_003_002","상당~~~히 안 좋은 예감이 들어!
+124,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_003_002","상당~~~히 안 좋은 예감이 들어!
 '멜로디'한테 좀 자세히 물어봐주지 않겠어?
 난 요리 주문이 들어와서 바쁘거든."
-123,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_003_003","이런 일을 부탁할 사람은 <Highlight>ObjectParameter(1)</Highlight>뿐이야.
+125,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_003_003","이런 일을 부탁할 사람은 <Highlight>ObjectParameter(1)</Highlight>뿐이야.
 어쩌면 벼랑 끝 주점의 최대 위기가 될지도 몰라.
 주점이 문을 닫는 일만큼은 무슨 일이 있어도 막고 싶어……!"
-124,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_000","자네가 구해다준 '벼랑 끝 주점의 비품' 덕분에
+126,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_000","자네가 구해다준 '벼랑 끝 주점의 비품' 덕분에
 요리나 음식이 아닌 부분에서도
 우리 가게 인기가 상당히 좋아졌어!"
-125,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_001","그리고 <Highlight>ObjectParameter(1)</Highlight>, 
+127,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_001","그리고 <Highlight>ObjectParameter(1)</Highlight>, 
 하나 더 중요한 소식이 있어."
-126,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_002","……드디어 재정 상황이 흑자로 돌아섰어!
+128,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_002","……드디어 재정 상황이 흑자로 돌아섰어!
 자네 덕분에 벼랑 끝 주점은 위기에서 벗어난 거야!
 역시 이 몸이 보는 눈이 있다니까!"
-127,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ZHLOEALIAPOH_004_003","아드키라 님!
+129,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ZHLOEALIAPOH_004_003","아드키라 님!
 제가 <Highlight>ObjectParameter(1)</Highlight> 님의 첫 번째 '단골손님'이거든요!"
-128,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ZHLOEALIAPOH_004_004","……헤헤, 농담이에요, 하지만 정말로 감사드려요!
+130,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ZHLOEALIAPOH_004_004","……헤헤, 농담이에요, 하지만 정말로 감사드려요!
 혹시 아이들이 사는 집이 없어지면 어쩌나 두려워서……
 잠이 안 오는 밤엔 늘 남은 납작빵의 개수를 세곤 했어요!"
-129,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ZHLOEALIAPOH_004_005","저도 아드키라 님한테 질 수는 없어요!
+131,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ZHLOEALIAPOH_004_005","저도 아드키라 님한테 질 수는 없어요!
 아이들을 위해서라도 더 열심히 노력할 거예요!
 앞으로도 자주 이용해주세요!"
-130,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_GEIMLONA_004_006","저도 감사 인사를 드리고 싶습니다.
+132,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_GEIMLONA_004_006","저도 감사 인사를 드리고 싶습니다.
 벼랑 끝 주점의 장사가 잘 되면서
 이딜샤이어의 마을에도 모험가들이 돌아오고 있답니다."
-131,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_GEIMLONA_004_007","로웨나 상회는 물론 이딜샤이어의 주민으로서도
+133,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_GEIMLONA_004_007","로웨나 상회는 물론 이딜샤이어의 주민으로서도
 당신에게는 진심으로 감사드리고 있습니다.
 정말로 고맙습니다."
-132,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_008","정식으로 감사 인사를 할게.
+134,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_008","정식으로 감사 인사를 할게.
 ……수없이 많은 고난을 경험해온 이 몸이지만,
 이번만큼은 자네의 도움이 없었다면 해결할 수 없었을 거야."
-133,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_009","지금 이 벼랑 끝 주점은
+135,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_009","지금 이 벼랑 끝 주점은
 고아원 아이들에겐 돌아올 집이기도 하고
 꿈을 쫓는 자들에겐 얘기를 나누며 피로를 푸는 곳이기도 해."
-134,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_010","이런 소중한 일상을 지킬 수 있었던 것도
+136,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_010","이런 소중한 일상을 지킬 수 있었던 것도
 자네와 동료들이 이 귀엽고 깜찍한 아기돼지에게
 손을 내밀어준 덕분이야……."
-135,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_011","<Highlight>ObjectParameter(1)</Highlight>,
+137,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_011","<Highlight>ObjectParameter(1)</Highlight>,
 앞으로도 많이 의지할게!"
-136,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_100","<Highlight>ObjectParameter(1)</Highlight> 님, 어서 와!"
-137,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_101","맞다!
+138,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_100","<Highlight>ObjectParameter(1)</Highlight> 님, 어서 와!"
+139,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_101","맞다!
 <Highlight>ObjectParameter(1)</Highlight> 님과 점장님한테 할 얘기가 있어."
-138,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_102","사실은 멜로디가 온 뒤로 좀 여유가 생겨서
+140,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_102","사실은 멜로디가 온 뒤로 좀 여유가 생겨서
 공방의 고블린들에게 연금술을 배우고 있어!
 그래서 간단한 증류기를 만들 수 있게 되었는데……"
-139,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_103","이 가게의 오리지널 증류주를 만들어서
+141,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_MAPOPO_001_103","이 가게의 오리지널 증류주를 만들어서
 가게 메뉴로 내보면 어떨까?"
-140,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_104","벼랑 끝 주점에서만 파는 술이라, 해볼 만하겠군…….
+142,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_104","벼랑 끝 주점에서만 파는 술이라, 해볼 만하겠군…….
 음, 무슨 일이든 도전해보지 않으면
 현재 상황을 바꿀 수 없으니 말이야!
 "
-141,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_105","또다시 자네 협력을 구하고 싶어.
+143,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_105","또다시 자네 협력을 구하고 싶어.
 '벼랑 끝 증류주 필수품'을 구해다 줄 수 있겠어?"
-142,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_106","고마워.
+144,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_001_106","고마워.
  <Highlight>ObjectParameter(1)</Highlight>, 부탁할게!"
-143,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_100","그나저나 넌 상당히 형님의 신뢰를 얻고 있는 것 같아.
+145,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_100","그나저나 넌 상당히 형님의 신뢰를 얻고 있는 것 같아.
 형님은 걱정이 많은 성격이라 다른 사람한테 본인 얘길
 잘 안 하거든. 예전부터 족장 후보라는 건 숨기고 싶어했고."
-144,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_101","<Highlight>ObjectParameter(1)</Highlight> 덕분에 지금의 우리 가게가 있는 거다.
+146,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_101","<Highlight>ObjectParameter(1)</Highlight> 덕분에 지금의 우리 가게가 있는 거다.
 너희들도 이 가게에 계속 있을 생각이라면
 뭔가 좀 돕는 게 어때!"
-145,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_102","그렇다면 저한테 좋은 생각이 있습니다, 형님!
+147,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ALGHU_002_102","그렇다면 저한테 좋은 생각이 있습니다, 형님!
 우리 고향의 전통 음식인 만두를 우리에게 맡겨주십시오!
 최근 몰족을 중심으로 유행하는 새로운 만두를 만들어보겠습니다!"
-146,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_103","우리는 잠시 재료를 구하러 다녀오겠슴다!
+148,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_103","우리는 잠시 재료를 구하러 다녀오겠슴다!
 <Highlight>ObjectParameter(1)</Highlight>도 우릴 도와줬음 함다!"
-147,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_104","괜찮슴다, 일족 누군가한테 들키는 실수는
+149,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_TELEBOGE_002_104","괜찮슴다, 일족 누군가한테 들키는 실수는
 절대로 안 할 검다~!"
-148,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_105","……저 녀석들만으론 도저히 못 미더워.
+150,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_105","……저 녀석들만으론 도저히 못 미더워.
 <Highlight>ObjectParameter(1)</Highlight>, 자네의 실력을 믿고 부탁하는데,
 또다시 이 몸을 도와줬으면 해."
-149,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_106","음, 좋아!
+151,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_002_106","음, 좋아!
 벼랑 끝 주점이 흑자로 돌아설 날이 얼마 안 남았어.
 '벼랑 끝 만두 필수품'을 부탁해!"
-150,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_100","그런데, 다음 거래 전에 자네에게 말해두고 싶은 게 있어."
-151,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_101","……이딜샤이어의 이 마을은
+152,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_100","그런데, 다음 거래 전에 자네에게 말해두고 싶은 게 있어."
+153,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_101","……이딜샤이어의 이 마을은
 갈 곳 없는 이 몸을 받아들여준 유일한 곳이야."
-152,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_102","이슈가르드의 녀석들은 이 몸을 보자마자 문전 박대했다고!
+154,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_102","이슈가르드의 녀석들은 이 몸을 보자마자 문전 박대했다고!
 사람을 겉모습으로 판단하다니, 지금이 어떤 시대인데!
 흠흠…… 아무튼 그건 그렇고."
-153,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_103","아다르킴족은 내부 항쟁이 끊이지 않는 부족이야.
+155,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_103","아다르킴족은 내부 항쟁이 끊이지 않는 부족이야.
 같은 부족이지만 내심 지긋지긋했다고.
 ……그에 비해 이 마을은 어떤지 알아?"
-154,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_104","서로 다른 종족끼리 협력하면서 도시를 형성하고 있어.
+156,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_104","서로 다른 종족끼리 협력하면서 도시를 형성하고 있어.
 이 몸이 이 가게를 열려고 할 때도 부탁도 안 했는데,
 오지랖 넓은 녀석들이 계속 와서 도와주더라니까!"
-155,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_105","크크큭…… 그렇지만!
+157,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_105","크크큭…… 그렇지만!
 이번엔 이 몸이 오지랖을 발휘해줄 차례야!"
-156,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_106","이 '벼랑 끝 주점'에서 손님들의 수다도 다 들어주고,
+158,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_106","이 '벼랑 끝 주점'에서 손님들의 수다도 다 들어주고,
 주문이 들어오면 최고의 재료로 최고의 요리를 만들어줄 거야.
 그리고 언젠가 우리 고향의 술을 모두에게 나누어줄 줄 알라고……."
-157,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_107","（★未使用／削除予定★）"
-158,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_108","（★未使用／削除予定★）"
-159,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_109","그러니 자넨 앞으로도
+159,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_107","（★未使用／削除予定★）"
+160,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_108","（★未使用／削除予定★）"
+161,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_109","그러니 자넨 앞으로도
 벼랑 끝 주점과 이 마을을 위해 힘을 빌려줬으면 해."
-160,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_110","……응?
+162,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_110","……응?
 이제 숨을 필요가 없는데 왜 아직도 변장을 하고 있냐고?
 이제 이 모습은 이 몸의 정체성이야, 쉽게 그만둘 순 없어."
-161,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_111","……하지만 장사꾼으로서 최첨단 유행을 아는 것도 중요하긴 해.
+163,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_111","……하지만 장사꾼으로서 최첨단 유행을 아는 것도 중요하긴 해.
 늘어난 종업원들을 먹여 살리기도 해야 하니,
 사업의 폭을 넓히는 것도 염두에 두고 있어."
-162,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_112","'환상의 프리즘'으로 장비에 환영을 투영하는 기술이 있지?
+164,"TEXT_CTSSFSCHARACTER4_00541_LCUT_RANKUP_ADKIRAGH_004_112","'환상의 프리즘'으로 장비에 환영을 투영하는 기술이 있지?
 그 기술로 나한테 의상을 입혀줘도 돼!
 자네의 넘치는 센스로 이 몸을 귀엽고 깜찍하게 변신시켜줘!"
-163,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+165,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '벼랑 끝의 협력자'로 여기게 되었습니다!"
-164,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+166,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '벼랑 끝의 이해자'로 여기게 되었습니다!"
-165,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+167,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '벼랑 끝의 수호자'로 여기게 되었습니다!"
-166,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+168,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
 당신을 '벼랑 끝의 구세주'로 여기게 되었습니다!"
-167,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_001_001","'벼랑 끝 주점' 창업 이래 최대 위기에 직면한 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
+169,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_001_001","'벼랑 끝 주점' 창업 이래 최대 위기에 직면한 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
 앞으로 어떤 물건을 의뢰할지 생각하는 듯합니다."
-168,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_001_002","'벼랑 끝 주점'의 안정된 경영이 목표인 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
+170,"TEXT_CTSSFSCHARACTER4_00541_RANKUPINFO_001_002","'벼랑 끝 주점'의 안정된 경영이 목표인 <Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
 당신에게 새로운 의뢰를 부탁하고 싶은 듯합니다."
-169,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
+171,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
 <Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
 '의뢰물 건네주기'를 선택해 확인하세요."
-170,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_001_001","단골 거래 이야기 퀘스트를 진행할 수 있게 되었습니다.
+172,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_001_001","단골 거래 이야기 퀘스트를 진행할 수 있게 되었습니다.
 벼랑 끝 주점에 있는 '멜로디'에게서 퀘스트를 받을 수 있습니다.
 퀘스트를 완료하면 납품 목록이 갱신됩니다."
-171,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_001","앞으로 받을 의뢰는 일주일에 한 번
+173,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_001","앞으로 받을 의뢰는 일주일에 한 번
 지금까지 납품한 의뢰물 중에서 무작위로 선택됩니다."
-172,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
+174,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
 '의뢰물 건네주기'를 선택해 확인하세요."
-173,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_003","또한 '아르히 주조 필수품' '양조 도구 재료'
+175,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_003","또한 '아르히 주조 필수품' '양조 도구 재료'
 '오사드 연어'는 특히 많은 보상을 얻을 수 있습니다.
 목록에 포함되면 적극적으로 납품해 보세요."
-174,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_004","추가로, 이제 아드키라에게 장비 투영을 할 수 있습니다."
-175,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_001_000","납품 많이 해줘서 고마워!"
-176,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_001_001","역시 이 몸과 시로 아가씨가 인정한 장인,
+176,"TEXT_CTSSFSCHARACTER4_00541_AFTRANKUP_002_004","추가로, 이제 아드키라에게 장비 투영을 할 수 있습니다."
+177,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_001_000","납품 많이 해줘서 고마워!"
+178,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_001_001","역시 이 몸과 시로 아가씨가 인정한 장인,
 실력도 확실한 것 같군!"
-177,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_002_000","이번 주도 납품을 많이 해줘서 아주 고마워!"
-178,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_002_001","가게에 오는 손님도 예전과는 비교도 안 될 정도로 늘었어.
+179,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_002_000","이번 주도 납품을 많이 해줘서 아주 고마워!"
+180,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_002_001","가게에 오는 손님도 예전과는 비교도 안 될 정도로 늘었어.
 이게 다 자네의 노력과 헌신 덕분이라 할 수 있어!"
-179,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_003_000","자네 덕분에 벼랑 끝 주점엔 오늘도 손님이 넘쳐나고 있어!"
-180,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_003_001","그렇지만 자네는 이 몸을 돕는 것 말고도 해야 할 일이 있지 않아?
+181,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_003_000","자네 덕분에 벼랑 끝 주점엔 오늘도 손님이 넘쳐나고 있어!"
+182,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_003_001","그렇지만 자네는 이 몸을 돕는 것 말고도 해야 할 일이 있지 않아?
 아짐 대초원의 무공도 전해 들었어!"
-181,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_003_002","혹시라도 과혹한 운명 때문에 심신이 지칠 때는
+183,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_003_002","혹시라도 과혹한 운명 때문에 심신이 지칠 때는
 이 벼랑 끝 주점에서 얼마든지 쉬었다 가도록 해.
 힐링의 아이콘, 이 아드키라가 언제든지 환영해줄게!"
-182,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_004_000","이번에도 자네의 납품 덕을 많이 봤어."
-183,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_004_001","……응?
+184,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_004_000","이번에도 자네의 납품 덕을 많이 봤어."
+185,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_004_001","……응?
 자네, 이 몸의 복장이 마음에 들어서 견딜 수 없는 눈치인데?
 특별히 이 몸과 아기돼지 의상의 만남에 대해 얘기해주지."
-184,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_004_002","골드 소서라고, 이 몸처럼 호화로운 장소가 있는데,
+186,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_004_002","골드 소서라고, 이 몸처럼 호화로운 장소가 있는데,
 이곳에 오기 전에 거길 매일 출퇴근하다시피 했거든……
 거기 여직원이 굉장히 잘 어울린다면서 추천해준 거야!"
-185,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_005_000","음, 오늘도 납품 고마워."
-186,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_005_001","……응?
+187,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_005_000","음, 오늘도 납품 고마워."
+188,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_005_001","……응?
 이 몸이 이 가게의 창업 자금을 어떻게 마련했는지
 궁금해서 견딜 수가 없는 모양이구나?"
-187,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_005_002","이래 봬도 이 몸은 사냥에 자신이 있거든.
+189,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_005_002","이래 봬도 이 몸은 사냥에 자신이 있거든.
 큭큭…… 이 부근의 마물 따위는 상대조차 되지 않지! 
 재료 조달부터 어르신 호위까지 닥치는 대로 일해서 조금씩 모았어!"
-188,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_000","늘 자네가 많이 도와줘서 우리 직원들이 모두 감사하고 있어."
-189,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_001","생각해 보니, 이 벼랑 끝 주점의 위기가 없었다면
+190,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_000","늘 자네가 많이 도와줘서 우리 직원들이 모두 감사하고 있어."
+191,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_001","생각해 보니, 이 벼랑 끝 주점의 위기가 없었다면
 자네와 이렇게 얘기할 기회가 없었을지도 모르겠어.
 인생 참, 무슨 일이 일어날지 알 수 없다니까!"
-190,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_002","<Highlight>ObjectParameter(1)</Highlight>, 
+192,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_002","<Highlight>ObjectParameter(1)</Highlight>, 
 자네가 구해다준 물건으로 
 손님들이 만족하는 모습을 보는 게 즐거워."
-191,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_003","자네와 2인3각으로 이 마을을 부흥시키고 있는 느낌이야……."
-192,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_004","…………아, 아니, 지금 얘긴 아니야!
+193,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_003","자네와 2인3각으로 이 마을을 부흥시키고 있는 느낌이야……."
+194,"TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_004","…………아, 아니, 지금 얘긴 아니야!
 고고한 아기돼지, 아드키라가 어찌!
 후……하하하하!"
-193,"TEXT_CTSSFSCHARACTER4_00541_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
+195,"TEXT_CTSSFSCHARACTER4_00541_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
 현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
 다시 납품할 수 있습니다."
-194,"TEXT_CTSSFSCHARACTER4_00541_QUEST_ADKIRAGH_000_000","자칫하면 벼랑 끝 주점의 최대 위기가 될 거야…….
+196,"TEXT_CTSSFSCHARACTER4_00541_QUEST_ADKIRAGH_000_000","자칫하면 벼랑 끝 주점의 최대 위기가 될 거야…….
 '멜로디'에게 자세한 내용을 들어주지 않겠어?"
-195,"TEXT_CTSSFSCHARACTER4_00541_QUEST_SYSTEM_000_001","단골 거래 이야기 퀘스트를 진행하기 위해서는
+197,"TEXT_CTSSFSCHARACTER4_00541_QUEST_SYSTEM_000_001","단골 거래 이야기 퀘스트를 진행하기 위해서는
 현재 클래스가 채집가 또는 제작자여야 합니다.
 벼랑 끝 주점에 있는 '멜로디'와 대화하자."
-196,"TEXT_CTSSFSCHARACTER4_00541_QUEST_ADKIRAGH_000_010","곤란한데, 상당히 곤란한데……."
-197,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_001","（★未使用／削除予定★）"
+198,"TEXT_CTSSFSCHARACTER4_00541_QUEST_ADKIRAGH_000_010","곤란한데, 상당히 곤란한데……."
+199,"TEXT_CTSSFSCHARACTER4_00541_GUIDE_004_001","（★未使用／削除予定★）"
