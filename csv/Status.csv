@@ -3647,39 +3647,39 @@ HP가 서서히 줄어든다.",17611,0,8,1,2,17,402,False,False,False,False,Fals
 3421,"구속","행동이 불가능한 상태.",15545,0,0,1,2,17,0,True,False,True,True,False,False,False,True,False,100,0,False,False,0,4,False,0,False,0,False,3,0,0,False
 3422,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3423,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3424,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3425,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3426,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3427,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3428,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3429,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3430,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3431,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3432,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3433,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3434,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3435,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3436,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3437,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3438,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3439,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3440,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3441,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3442,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3443,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3444,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3424,"유도 미사일 P","유도 미사일 P에 조준된 상태. 지속시간이 끝나면 특정 공격이 발동한다.",15126,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3425,"저격식 파동포","표적이 된 상태. 지속시간이 끝나면 저격식 파동포가 발동한다.",15127,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3426,"저격식 고출력 파동포","표적이 된 상태. 지속시간이 끝나면 저격식 고출력 파동포가 발동한다.",15128,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3427,"_rsv_3427_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3427_-1_6_1_0_S74CFC3B0_E74CFC3B0",15129,0,0,1,2,17,533,False,False,False,False,False,False,False,False,False,150,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3428,"_rsv_3428_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3428_-1_6_1_0_S74CFC3B0_E74CFC3B0",15130,0,0,1,2,17,532,False,False,False,False,False,False,False,False,False,150,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3429,"_rsv_3429_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3429_-1_6_1_0_S74CFC3B0_E74CFC3B0",15131,0,0,1,2,17,557,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3430,"오류 수정: 분배","치명적 오류: 분배를 무효화하는 상태.",15918,0,0,1,2,16,0,False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,True,0,False,0,False,0,0,0,False
+3431,"오류 수정: 광역","치명적 오류: 광역을 무효화하는 상태.",15919,0,0,1,2,16,0,False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,True,0,False,0,False,0,0,0,False
+3432,"오류 수정: 전이","치명적 오류: 전이를 무효화하는 상태.",15920,0,0,1,2,16,0,False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,True,0,False,0,False,0,0,0,False
+3433,"_rsv_3433_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3433_-1_6_1_0_S74CFC3B0_E74CFC3B0",15132,0,0,1,2,16,0,False,False,False,False,False,False,False,True,False,199,0,False,False,0,0,True,0,False,0,False,0,0,0,False
+3434,"잠재적 오류: 분배","잠재적 오류에 감염된 상태. 지속시간이 끝나면 폭발을 일으킨다. 특정 공격을 받으면 해제된다.",15133,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,220,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3435,"_rsv_3435_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3435_-1_6_1_0_S74CFC3B0_E74CFC3B0",15134,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3436,"오류 징후: 분배","잠재적 오류가 존재하는 징후. 효과가 끝나면 치명적 오류: 분배 상태가 된다.",15135,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3437,"오류 징후: 광역","잠재적 오류가 존재하는 징후. 효과가 끝나면 치명적 오류: 광역 상태가 된다.",15136,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3438,"오류 징후: 전이","잠재적 오류가 존재하는 징후. 효과가 끝나면 치명적 오류: 전이 상태가 된다.",15137,0,0,1,2,17,556,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3439,"_rsv_3439_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3439_-1_6_1_0_S74CFC3B0_E74CFC3B0",15138,0,0,1,2,17,557,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3440,"오류 징후: 근거리","연쇄적 오류가 존재하는 징후. 효과가 끝나면 연쇄 오류: 근거리 상태가 된다.",15139,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3441,"오류 징후: 원거리","연쇄적 오류가 존재하는 징후. 효과가 끝나면 연쇄 오류: 원거리 상태가 된다.",15140,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,230,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3442,"_rsv_3442_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3442_-1_6_1_0_S74CFC3B0_E74CFC3B0",15141,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3443,"_rsv_3443_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3443_-1_6_1_0_S74CFC3B0_E74CFC3B0",15142,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3444,"_rsv_3444_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3444_-1_6_1_0_S74CFC3B0_E74CFC3B0",19657,0,3,1,1,16,0,False,False,False,False,False,False,False,True,True,255,0,False,False,0,0,True,0,False,0,False,0,0,0,False
 3445,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3446,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3447,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3448,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3449,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3450,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3451,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3452,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3453,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3454,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3455,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3456,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3446,"_rsv_3446_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3446_-1_6_1_0_S74CFC3B0_E74CFC3B0",15143,0,0,1,1,29,0,False,False,False,False,False,False,False,True,True,240,0,False,False,0,0,True,0,False,0,False,0,0,0,False
+3447,"_rsv_3447_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3447_-1_6_1_0_S74CFC3B0_E74CFC3B0",15144,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3448,"_rsv_3448_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3448_-1_6_1_0_S74CFC3B0_E74CFC3B0",15145,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,240,0,False,False,0,0,True,0,False,0,False,0,0,0,False
+3449,"오메가","해석할 수 없는 존재.",15909,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3450,"한계 초월","한계를 초월해서 가동하는 상태.",15910,0,0,1,1,0,0,False,False,False,False,False,False,False,True,True,199,0,False,False,10,0,False,0,False,0,False,0,0,0,False
+3451,"네 번째 표적","네 번째 표적이 된 상태.",15118,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,250,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3452,"_rsv_3452_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3452_-1_6_1_0_S74CFC3B0_E74CFC3B0",15146,0,0,1,2,16,534,False,False,False,False,False,False,False,True,True,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3453,"_rsv_3453_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3453_-1_6_1_0_S74CFC3B0_E74CFC3B0",15146,0,0,1,2,16,535,False,False,False,False,False,False,False,True,True,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3454,"오메가 M","오메가가 남성으로 변한 상태.",15925,69,0,1,1,16,0,False,False,False,False,True,False,False,True,True,0,0,False,False,0,2,False,0,False,0,False,0,0,0,False
+3455,"액체화","액체화한 상태.",15927,69,0,1,1,16,0,False,False,False,False,False,False,False,True,True,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3456,"순환 프로그램","오메가의 순환 프로그램에 오염된 상태.",15892,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False
 3457,"속박","이동이 불가능한 상태.",15003,3,0,1,2,12,530,False,True,False,False,False,False,False,False,False,100,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3458,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3459,"푸른꽃의 가호","푸른꽃의 마력에 저항력이 생긴 상태.",15124,0,0,1,1,16,0,False,False,False,False,False,False,False,True,True,200,0,False,False,0,0,True,0,False,0,False,0,0,0,False
@@ -3718,28 +3718,28 @@ HP가 서서히 줄어든다.",17611,0,8,1,2,17,402,False,False,False,False,Fals
 3492,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3493,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3494,"실명","어둠에 사로잡혀 명중률이 떨어진 상태.",15012,4,0,1,2,10,0,False,False,False,False,False,False,True,False,False,50,0,False,False,-10,0,False,0,False,0,False,0,0,0,False
-3495,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3496,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3497,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3495,"유도 미사일 P","유도 미사일 P에 조준된 상태. 지속시간이 끝나면 특정 공격이 발동한다.",15126,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3496,"유도 미사일 P","유도 미사일 P에 조준된 상태. 지속시간이 끝나면 특정 공격이 발동한다.",15126,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3497,"유도 미사일 P","유도 미사일 P에 조준된 상태. 지속시간이 끝나면 특정 공격이 발동한다.",15126,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3498,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,True,True,0,0,True,False,0,14,True,0,False,0,False,0,0,0,False
-3499,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3500,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3499,"방어 프로그램 M","방어 프로그램 M을 기동한 상태. 오메가 M에게 공격이 통하지 않는다.",15911,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3500,"방어 프로그램 F","방어 프로그램 F를 기동한 상태. 오메가 F에게 공격이 통하지 않는다.",15912,0,0,1,2,17,0,False,False,False,False,False,False,False,True,True,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3501,"넉다운","넉다운된 상태. 이동하거나 기술을 실행할 수 없다.",15044,0,0,1,2,3,0,True,False,True,True,False,False,False,False,False,100,0,False,False,0,4,False,0,False,0,False,0,0,0,False
 3502,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3503,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3504,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3503,"오류 징후: 근거리","연쇄적 오류가 존재하는 징후. 효과가 끝나면 연쇄 오류: 근거리 상태가 된다.",15139,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3504,"오류 징후: 원거리","연쇄적 오류가 존재하는 징후. 효과가 끝나면 연쇄 오류: 원거리 상태가 된다.",15140,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3505,"화염사슬 저주","화염사슬 저주에 걸린 상태. 효과가 끝날 때 다른 플레이어와 화염 사슬로 연결된다.",15170,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False
 3506,"고대의 서리","빙결 마력을 띤 상태. 효과가 끝날 때 고대의 서리가 발동된다.",15168,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,23,0,False
-3507,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3508,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3509,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3510,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3507,"고출력 파동포 P","표적이 된 상태. 지속시간이 끝나면 고출력 파동포 P가 발동한다.",15026,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3508,"고출력 파동포 P","표적이 된 상태. 지속시간이 끝나면 고출력 파동포 P가 발동한다.",15026,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3509,"고출력 파동포 P","표적이 된 상태. 지속시간이 끝나면 고출력 파동포 P가 발동한다.",15026,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3510,"고출력 파동포 P","표적이 된 상태. 지속시간이 끝나면 고출력 파동포 P가 발동한다.",15026,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3511,"인형의 석화 저주","갈라테아의 저주에 걸린 상태. 효과가 끝날 때 전체 범위 안의 대상을 석화시킨다.",15986,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3512,"달빛홀씨","달빛홀씨를 들이마셔 이동 속도가 향상된 상태.",15169,0,0,1,1,16,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,18,False,0,False,0,False,0,6,0,False
 3513,"뇌진탕","뇌진탕으로 행동불능이 된 상태. 받는 피해량이 증가한다.",15712,0,0,1,2,17,0,True,False,True,True,False,False,True,False,False,100,0,False,False,100,11,False,0,False,0,False,0,0,0,False
 3514,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3515,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3516,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3516,"받는 마법 피해량 증가","마법 공격으로 받는 피해량이 증가하는 상태.",18021,38,16,1,2,17,0,False,False,False,False,False,False,False,False,False,200,0,False,False,10,0,False,0,False,0,False,0,0,0,False
 3517,"","",0,0,0,1,2,0,0,False,False,False,False,False,False,False,False,False,0,0,True,False,0,0,False,0,False,0,False,0,0,0,False
 3518,"미니멈","몸집이 줄어든 상태.
 적에게 주는 피해량과 이동 속도가 감소하고, 받는 피해량은 증가한다.",15581,0,0,1,2,17,0,False,False,False,False,True,False,False,False,False,200,0,False,False,-50,38,True,0,False,0,False,0,8,0,False
@@ -3748,15 +3748,15 @@ HP가 서서히 줄어든다.",17611,0,8,1,2,17,402,False,False,False,False,Fals
 3521,"타박상","타격속성 피해로 HP가 서서히 줄어드는 상태.",15523,0,0,1,2,17,0,False,False,False,False,False,False,True,False,False,10,0,False,False,10,0,False,0,False,3,False,0,0,0,False
 3522,"열병","몸이 극도로 뜨거워진 상태. 행동을 할 때마다 불속성 피해를 받는다.",15647,0,0,1,2,17,559,False,False,False,False,False,False,False,False,False,99,0,False,False,100,0,False,0,False,0,False,0,23,0,False
 3523,"냉각","냉각되고 있는 상태. 효과가 끝날 때까지 계속 움직이지 않으면 빙결 상태가 된다.",15355,0,0,1,2,17,560,False,False,False,False,False,False,False,False,False,99,0,False,False,0,0,True,0,False,0,False,0,23,0,False
-3524,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3525,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3526,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3527,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3528,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3529,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3530,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3524,"치명적 오류: 분배","치명적인 오류에 감염된 상태. 지속시간이 끝나면 감염 폭발을 일으킨다.",15915,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3525,"치명적 오류: 광역","치명적인 오류에 감염된 상태. 지속시간이 끝나면 감염 폭발을 일으킨다.",15916,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3526,"치명적 오류: 전이","치명적인 오류에 감염된 상태. 다른 플레이어와 접촉하면 감염된다. 또한 지속시간이 끝나면 폭발을 일으킨다.",15917,0,0,1,2,17,556,False,False,False,False,False,False,False,False,False,200,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3527,"잠재적 오류","잠재적 오류에 감염된 상태. 지속시간이 끝나면 폭발을 일으킨다. 특정 공격을 받으면 해제된다.",15921,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,210,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3528,"잠재적 오류: 전이","잠재적 오류에 감염된 상태. 지속시간이 끝나면 폭발을 일으킨다. 특정 공격을 받으면 해제된다.",15922,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,199,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3529,"연쇄 오류: 근거리","연쇄 오류에 감염된 상태. 지속시간이 끝나거나, 연쇄 오류: 근거리 상태의 플레이어에게 너무 가까이 접근하면 대폭발을 일으킨다.",15923,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3530,"연쇄 오류: 원거리","연쇄 오류에 감염된 상태. 지속시간이 끝나거나, 연쇄 오류: 원거리 상태의 플레이어와 너무 멀리 떨어지면 대폭발을 일으킨다.",15924,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,230,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3531,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
-3532,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
+3532,"_rsv_3532_-1_6_0_0_S74CFC3B0_E74CFC3B0","_rsv_3532_-1_6_1_0_S74CFC3B0_E74CFC3B0",15171,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,240,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3533,"","",0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,0,0,False
 3534,"고대의 고리","어둠의 마력을 띤 상태. 지속시간이 끝나면 고대의 고리가 발동한다.",15770,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,23,0,False
 3535,"어둠불 저주","어둠불 저주에 걸린 상태. 효과가 끝날 때 어둠속성 공격을 실행한다.",15305,0,0,1,2,17,0,False,False,False,False,False,False,False,False,False,0,0,False,False,0,0,False,0,False,0,False,0,23,0,False
