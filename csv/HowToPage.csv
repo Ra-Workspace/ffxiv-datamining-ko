@@ -249,20 +249,24 @@ int32,byte,byte,Image,byte,str,str,str
 110,1,0,150111,0,"클래스에 따라 장비할 수 있는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>주 무기<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 종류가 다릅니다.
 
 바꾸고 싶은 클래스가 쓰는 주 무기를 장비하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>클래스 체인지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 할 수 있습니다.","",""
-111,0,0,0,0,"","",""
+111,1,0,150112,0,"새로운 클래스를 습득하면
+잊지 말고 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>장비세트<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 등록하세요.
+
+장비세트를 이용하면 미리 등록해둔 장비들을 즉시 장비할 수 있습니다.","",""
 112,0,0,0,0,"","",""
 113,0,0,0,0,"","",""
 114,0,0,0,0,"","",""
-115,1,0,150391,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>장비세트<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용할 수 있게 되었습니다.
+115,1,0,150101,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>클래스 체인지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 할 수 있게 되었습니다.
 
-장비세트를 이용하면 미리 등록해둔 아이템들을 즉시 장비할 수 있습니다.
+다른 클래스의 길드를 찾아가 접수원에게 말을 걸면
+새로운 클래스를 배우기 위한 퀘스트를 받을 수 있습니다.","",""
+116,1,0,150102,0,"에오르제아에서는 전투 클래스뿐만 아니라
+아이템을 만드는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>제작자 클래스<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나
+필드에서 생산 재료를 입수하는
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>채집가 클래스<UIGlow>01</UIGlow><UIForeground>01</UIForeground>도 있습니다.
 
-클래스 체인지를 할 때는 장비세트를 활용해보세요.","",""
-116,1,0,150392,0,"아이템을 장비세트에 등록하려면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>캐릭터<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 메뉴를 이용하세요.
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>+<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 버튼을 선택하면 현재 장비 상태가 장비세트로 등록됩니다.
-
-클래스별 또는 멋내기용 등 여러 가지 목적에 활용해보세요.","",""
+우선 현재 배우고 있는 클래스를 숙지하고
+다른 클래스를 배우면, 이해도가 높아질 것입니다.","",""
 117,0,0,0,0,"","",""
 118,0,0,0,0,"","",""
 119,0,0,0,0,"","",""
@@ -522,12 +526,13 @@ int32,byte,byte,Image,byte,str,str,str
 
 소울 크리스탈은 클래스에서 좀 더 특화된 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>잡<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 직업을 변경할 수 있는 아이템입니다.
 
-필요한 소울 크리스탈은 잡마다 서로 다르며, 장비하면 해당 잡으로 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>잡 체인지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 할 수 있습니다.","",""
-261,1,0,150992,0,"직업이 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>잡<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 되면 클래스 기술 외에도<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>잡 전용 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 익히고 사용할 수 있습니다.","",""
-262,1,0,150993,0,"'잡'은 바탕이 되는 클래스와 레벨 및 경험치를 공유합니다.
-클래스 레벨이 오르면 잡 레벨도 같이 오르며, 그 반대도 마찬가지입니다.
-
-클래스와 잡을 상황에 맞게 사용하며 전투를 유리하게 이끌어보세요!","",""
+각 잡에 해당하는 무기와 소울 크리스탈을 장비하면,
+해당 잡으로 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>잡 체인지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 할 수 있습니다.","",""
+261,1,0,150992,0,"직업이 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>잡<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 되면 클래스 기술 외에도 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>잡 전용 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 익히고 사용할 수 있습니다.","",""
+262,1,0,150993,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>잡<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은 바탕이 되는 클래스가 있는 경우
+해당 클래스와 레벨 및 경험치를 공유합니다.
+바탕이 되는 클래스가 없는 경우
+특정 레벨에서 시작하게 됩니다.","",""
 263,0,0,0,0,"","",""
 264,0,0,0,0,"","",""
 265,0,0,0,0,"","",""
@@ -3378,9 +3383,9 @@ RP는 다른 모험가와 대결했을 때의 승패에 따라 변화합니다.
 ·4등급 수조: 7칸
 
 수조에서 사육할 수 있는 물고기는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>사육 어류 목록<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서 확인 가능합니다.","",""
-2260,1,0,152451,0,"소환사가 불러내는 카벙클과 에기의 외형을 변경할 수 있게 되었습니다!
+2260,1,0,152451,0,"소환사가 불러내는 카벙클과 에기, 학자가 불러내는 요정의 외형을 변경할 수 있게 되었습니다!
 
-소환수의 외형을 변경하려면, 전용 명령어를 실행한 다음 소환수를 다시 불러내야 합니다.","",""
+이들의 외형을 변경하려면, 전용 명령어를 실행한 다음 소환수를 다시 불러내야 합니다.","",""
 2261,1,0,152452,0,"명령어는
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>/소환수외형 ""소환수 이름"" ""외형 이름""<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 입니다.
@@ -3830,7 +3835,11 @@ RP는 다른 모험가와 대결했을 때의 승패에 따라 변화합니다.
 기술 목록의 왼쪽에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>채집가 역할 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 항목을 확인할 수 있습니다.
 
 채집가 역할 기술을 단축바에 등록하고, 채집 장소를 쉽게 찾아 보세요!","",""
-2573,0,0,0,0,"","",""
+2573,1,0,152454,0,"소환사의 소환수는
+퀘스트 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>모습을 바꾸는 에기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를
+학자의 요정은
+퀘스트 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>모습을 바꾸는 요정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 완료하면
+외형을 바꿀 수 있게 됩니다.","",""
 2574,0,0,0,0,"","",""
 2575,0,0,0,0,"","",""
 2576,0,0,0,0,"","",""

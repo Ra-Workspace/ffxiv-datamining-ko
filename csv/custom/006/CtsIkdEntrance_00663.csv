@@ -10,39 +10,45 @@ int32,str,str
 3,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_010","승선 접수 시간이 아닙니다
 다음 접수 시작: <If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value>시간 <If(GreaterThan(IntegerParameter(3),1))><Value>IntegerParameter(3)</Value>분<Else/></If> 후<Else/><If(GreaterThan(IntegerParameter(3),1))><Value>IntegerParameter(3)</Value>분 후<Else/>1분 이내</If></If>"
 4,"TEXT_CTSIKDENTRANCE_00663_Q1_000_000","'승선 접수' 하기"
-5,"TEXT_CTSIKDENTRANCE_00663_Q1_000_001","'성취호 운행 시간표' 보기"
+5,"TEXT_CTSIKDENTRANCE_00663_Q1_000_001","'운항 시간표' 보기"
 6,"TEXT_CTSIKDENTRANCE_00663_Q1_000_002","'먼바다 낚시'의 상세 내용 확인하기"
 7,"TEXT_CTSIKDENTRANCE_00663_Q1_000_003","취소"
-8,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020","'<Sheet(IKDRoute,IntegerParameter(1),8)/>'에 승선하시겠습니까?"
-9,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_200","앗, 낚싯대를 어디서 잃어버리셨나요?
+8,"TEXT_CTSIKDENTRANCE_00663_STM_TITLE","어느 항로로 승선하시겠습니까?"
+9,"TEXT_CTSIKDENTRANCE_00663_STM_001","'<Sheet(IKDRoute,IntegerParameter(1),11)/>'에 승선하기"
+10,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_020","'<Sheet(IKDRoute,IntegerParameter(1),11)/>'에 승선하시겠습니까?"
+11,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_025","'<Sheet(IKDRoute,IntegerParameter(1),11)/>'에 승선하시겠습니까?
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 주요 퀘스트 '홍련의 해방자'를
+　완료하지 않은 파티원이 있는 경우,
+　이 항로에는 승선하실 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+12,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_200","앗, 낚싯대를 어디서 잃어버리셨나요?
 성취호는 어부 전용 대형 어선이니
 반드시 어부로 참가해 주세요!"
-10,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_205","성취호에는 어부만 승선할 수 있습니다.
+13,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_205","성취호에는 어부만 승선할 수 있습니다.
 '승선 접수'를 하고 싶은 경우에는 어부가 된 상태에서
 드뤼스크토타에게 다시 말을 걸어 주십시오."
-11,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_300","죄송합니다! 승선 접수 시간이 지나서……
+14,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_300","죄송합니다! 승선 접수 시간이 지나서……
 이미 어선은 출항했습니다.
 괜찮으시다면 다음 항해에 참가해 주세요."
-12,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_305","'승선 접수'의 접수 시간이 종료되어
+15,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_305","'승선 접수'의 접수 시간이 종료되어
 승선할 수 없습니다."
-13,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_500","지금은 접수 시간이 아닙니다.
+16,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_500","지금은 접수 시간이 아닙니다.
 다음 항해의 접수 시간을 기다려 주십시오."
-14,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_505","'승선 접수' 시간이 아니므로 접수되지 않았습니다.
+17,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_505","'승선 접수' 시간이 아니므로 접수되지 않았습니다.
 다음 접수 시작 시각은
-'성취호 운행 시간표'에서 확인할 수 있습니다."
-15,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_600","죄송합니다!
+'운항 시간표'에서 확인할 수 있습니다."
+18,"TEXT_CTSIKDENTRANCE_00663_DRYSKTHOTA_000_600","죄송합니다!
 조건이 맞지 않아 승선할 수 없습니다.
 괜찮으시다면 다음 항해에 참가해 주세요."
-16,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_605","지난번 먼바다 낚시에서 도중에 퇴장했기 때문에
+19,"TEXT_CTSIKDENTRANCE_00663_SYSTEM_000_605","지난번 먼바다 낚시에서 도중에 퇴장했기 때문에
 접수하지 못했습니다. 다음 접수 시작 시각은
-'성취호 운행 시간표'에서 확인할 수 있습니다."
-17,"TEXT_CTSIKDENTRANCE_00663_TALK_ACTOR","（★未使用／削除予定★）"
-18,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_005","（★未使用／削除予定★）"
-19,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_010","（★未使用／削除予定★）"
-20,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_000","（★未使用／削除予定★）"
-21,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_001","（★未使用／削除予定★）"
-22,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_002","（★未使用／削除予定★）"
-23,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_010","（★未使用／削除予定★）"
-24,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_001","（★未使用／削除予定★）"
-25,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_000","승선 접수 시간이 아닙니다
+'운항 시간표'에서 확인할 수 있습니다."
+20,"TEXT_CTSIKDENTRANCE_00663_TALK_ACTOR","（★未使用／削除予定★）"
+21,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_005","（★未使用／削除予定★）"
+22,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_010","（★未使用／削除予定★）"
+23,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_000","（★未使用／削除予定★）"
+24,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_001","（★未使用／削除予定★）"
+25,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_002","（★未使用／削除予定★）"
+26,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_Q1_010","（★未使用／削除予定★）"
+27,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_001","（★未使用／削除予定★）"
+28,"TEXT_CTSIKDENTRANCE_00663_PROG_TEST_000","승선 접수 시간이 아닙니다
 다음 접수 시작: <Value>IntegerParameter(1)</Value>s"

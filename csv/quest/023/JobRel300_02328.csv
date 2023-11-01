@@ -236,10 +236,10 @@ int32,str,str
 <If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>의 '초전도 아니마 웨폰'을
 집사에게 맡기는 등, 장비 및 소지품에서 제외해야 합니다."
 117,"TEXT_JOBREL300_02328_ULAN_000_050","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 장비해.
-그 다음에 인조 정령을 성장시키자!"
+그다음에 인조 정령을 성장시키자!"
 118,"TEXT_JOBREL300_02328_ULAN_100_050","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 장비해.
-그 다음에 인조 정령을 성장시키자!"
+그다음에 인조 정령을 성장시키자!"
 119,"TEXT_JOBREL300_02328_Q1_000_010","무엇을 하시겠습니까?"
 120,"TEXT_JOBREL300_02328_A1_000_010","인조 정령 성장시키기"
 121,"TEXT_JOBREL300_02328_A2_000_011","<Sheet(Item,15841,0)/> 교환"

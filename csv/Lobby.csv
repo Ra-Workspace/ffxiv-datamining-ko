@@ -1067,10 +1067,15 @@ int32,uint32,uint32,uint32,str,str,str
 파이널판타지14를 친구와 함께 즐기고 싶으시다면
 같은 서버에 캐릭터를 생성하는 것이 좋습니다.
 
-서버는 총 5개 중에서 하나를 선택하실 수 있습니다.<If(GreaterThan(IntegerParameter(2),0))>
+서버는 총 5개 중에서 하나를 선택하실 수 있습니다.<If(Equal(IntegerParameter(2),1))>
 
 <Gui(99)/><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>현재 선택된 서버에서 캐릭터를 생성하여 플레이하면
-경험치 증가 효과 등의 우대 혜택을 받을 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>","",""
+경험치 증가 효과 등의 우대 혜택을 받을 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><If(Equal(IntegerParameter(2),2))>
+
+<UIForeground>F201FE</UIForeground><UIGlow>F201FF</UIGlow>현재 선택된 서버에서는 신규 캐릭터를 생성할 수 없습니다.
+생성 제한이 풀릴 때까지 기다리거나 다른 서버를 선택하십시오.
+다른 서버에서 캐릭터를 생성한 후 게임에 접속하여,
+해당 서버로 이동해 게임을 플레이할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>","",""
 821,0,0,0,"(건너뜀)","",""
 822,0,0,0,"<Switch(IntegerParameter(2))><Case(1)><Sheet(Tribe,IntegerParameter(1),0)/> 남자</Case><Case(2)><Sheet(Tribe,IntegerParameter(1),1)/> 여자</Case></Switch>의 외모, 직업, 이름 등의 캐릭터 생성 정보를 <Value>IntegerParameter(3)</Value>번째 칸에 저장합니다.","",""
 823,0,0,0,"<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>에 저장한 <Value>IntegerParameter(2)</Value>번 칸의 <Switch(IntegerParameter(4))><Case(1)><Sheet(Tribe,IntegerParameter(3),0)/> 남자</Case><Case(2)><Sheet(Tribe,IntegerParameter(3),1)/> 여자</Case></Switch> 캐릭터 생성 정보를 불러옵니다.","",""
@@ -1566,9 +1571,11 @@ int32,uint32,uint32,uint32,str,str,str
 접속하면 시작 도시의 에테라이트 광장으로 이동합니다.","",""
 1232,0,0,0,"쾌적한 서버로 이동하려면, 먼저 고향 서버로 돌아가 이름을 변경해야 합니다.","",""
 1233,0,0,0,"쾌적한 서버로 이동하려면, 먼저 고향 서버로 돌아가 집사 이름을 변경해야 합니다.","",""
-1234,0,0,0,"","",""
-1235,0,0,0,"","",""
-1236,0,0,0,"","",""
+1234,0,0,0,"<Highlight>StringParameter(1)</Highlight> 서버가 있는 <Highlight>StringParameter(2)</Highlight>에 접속한 이력이 없어 데이터 센터를 방문할 수 없습니다.
+타이틀 화면의 테이터 센터 메뉴에서 <Highlight>StringParameter(2)</Highlight>에 있는 데이터 센터 중 하나를 선택한 후 캐릭터 선택 화면으로 돌아오면, 해당 지역에 있는 데이터 센터로 이동할 수 있게 됩니다.","",""
+1235,0,0,0,"이동하려는 <Highlight>StringParameter(1)</Highlight> 서버에 더 이상 캐릭터를 생성할 수 없습니다.
+고향 서버가 아닌 다른 서버로 이동하려면, 해당 서버에 최소 하나 이상의 캐릭터를 생성할 수 있어야만 합니다. 사전에 <Highlight>StringParameter(1)</Highlight> 서버에 있는 캐릭터 수를 조정하십시오.","",""
+1236,0,0,0,"이 캐릭터는 아직 이전 로그아웃 처리가 완료되지 않았습니다. 잠시 후 세부 메뉴를 다시 선택하십시오.","",""
 1237,0,0,0,"","",""
 1238,0,0,0,"","",""
 1239,0,0,0,"","",""
@@ -2134,8 +2141,8 @@ int32,uint32,uint32,uint32,str,str,str
 1799,0,0,0,"","",""
 1800,0,0,0,"로그인 처리를 중단하시겠습니까?","",""
 1801,0,0,0,"일정 시간 동안 조작하지 않아 자동으로 접속이 종료되었습니다.","",""
-1802,0,0,0,"","",""
-1803,0,0,0,"","",""
+1802,0,0,0,"<UIForeground>F201FE</UIForeground><UIGlow>F201FF</UIGlow>이 종족을 선택하려면 확장팩 '<Sheet(ExVersion,IntegerParameter(1),0)/>'<13>FF1302280FFF0A457856657273696F6EE8020103FF04EBA5BCFF04EC9D84</13> 설치해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+1803,0,0,0,"RGB: <Value>IntegerParameter(1)</Value>,<Value>IntegerParameter(2)</Value>,<Value>IntegerParameter(3)</Value>","",""
 1804,0,0,0,"","",""
 1805,0,0,0,"","",""
 1806,0,0,0,"","",""
@@ -2286,8 +2293,12 @@ int32,uint32,uint32,uint32,str,str,str
 1951,0,0,0,"생성할 캐릭터의 부족을 선택하십시오.","",""
 1952,0,0,0,"캐릭터의 성별을 선택하십시오.","",""
 1953,0,0,0,"캐릭터의 외모를 결정하십시오.","",""
-1954,0,0,0,"캐릭터의 생일을 에오르제아 날짜로 결정하십시오.","",""
-1955,0,0,0,"캐릭터의 수호신을 선택하십시오.","",""
+1954,0,0,0,"캐릭터의 생일을 에오르제아 날짜로 결정하십시오.
+
+<UIForeground>02</UIForeground><UIGlow>25</UIGlow>생일은 게임 플레이에 영향을 주지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
+1955,0,0,0,"캐릭터의 수호신을 선택하십시오.
+
+<UIForeground>02</UIForeground><UIGlow>25</UIGlow>수호신은 게임 플레이에 영향을 주지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 1956,0,0,0,"초기 전투 클래스를 선택하십시오.","",""
 1957,0,0,0,"캐릭터를 생성할 서버를 선택하십시오.","",""
 1958,0,0,0,"캐릭터 이름을 결정하십시오.","",""
@@ -2530,7 +2541,9 @@ int32,uint32,uint32,uint32,str,str,str
 2173,0,0,0,"<Time(IntegerParameter(1))/> <Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value>에 저장됨","",""
 2174,0,0,0,"저장 칸 <Value>IntegerParameter(1)</Value>번","",""
 2175,0,0,0,"<Switch(IntegerParameter(2))><Case(1)><Sheet(Tribe,IntegerParameter(1),0)/> 남자</Case><Case(2)><Sheet(Tribe,IntegerParameter(1),1)/> 여자</Case></Switch>","",""
-2176,0,0,0,"지금까지 편집한 외모 정보를 저장하시겠습니까?","",""
+2176,0,0,0,"지금까지 편집한 외모 정보를 저장하시겠습니까?
+외모 정보를 저장해 두면, 다른 캐릭터를 생성할 때
+저장한 정보를 불러와 이어서 편집할 수 있습니다.","",""
 2177,0,0,0,"예","",""
 2178,0,0,0,"아니요","",""
 2179,0,0,0,"파일 형식이 잘못되었거나 파일이 손상되었습니다.

@@ -9,65 +9,67 @@ int32,str,str
 5,"TEXT_AETHERYTE_REGISTER_HOME_POINT","<Gui(69)/> 귀환 지점 설정"
 6,"TEXT_AETHERYTE_REGISTER_FAVORITE_CHECKED","<Gui(68)/> 즐겨찾기 설정"
 7,"TEXT_AETHERYTE_REGISTER_FAVORITE","<Gui(69)/> 즐겨찾기 설정"
-8,"TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE_CHECKED","<Gui(67)/> 즐겨찾기(무료) 설정"
-9,"TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE","<Gui(69)/> 즐겨찾기(무료) 설정"
-10,"TEXT_AETHERYTE_MOVE_INSTANCE","<Gui(69)/> 인스턴스 지역으로 이동"
-11,"TEXT_AETHERYTE_MENU_CANCEL","<Gui(69)/> 취소"
-12,"TEXT_AETHERYTE_AETHERNET_MENU_TITLE","목적지를 선택하십시오.
+8,"TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE_CHECKED","<If(PlayerParameter(103))><Gui(67)/><Else/><Gui(120)/></If> 무료 즐겨찾기 설정"
+9,"TEXT_AETHERYTE_REGISTER_TOKEN_FAVORITE","<Gui(69)/> 무료 즐겨찾기 설정"
+10,"TEXT_AETHERYTE_REGISTER_PSPLUS_FAVORITE_CHECKED","<If(PlayerParameter(104))><If(Equal(PlayerParameter(78),99))><Gui(123)/><Else/><Gui(121)/></If><Else/><If(Equal(PlayerParameter(78),99))><Gui(63)/><Else/><Gui(122)/></If></If> 무료 즐겨찾기 <If(Equal(PlayerParameter(78),99))>PS Plus<Else/></If> 설정"
+11,"TEXT_AETHERYTE_REGISTER_PSPLUS_FAVORITE","<If(Equal(PlayerParameter(78),99))><Gui(123)/><Else/><Gui(121)/></If> 무료 즐겨찾기 <If(Equal(PlayerParameter(78),99))>PS Plus<Else/></If> 설정"
+12,"TEXT_AETHERYTE_MOVE_INSTANCE","<Gui(69)/> 인스턴스 지역으로 이동"
+13,"TEXT_AETHERYTE_MENU_CANCEL","<Gui(69)/> 취소"
+14,"TEXT_AETHERYTE_AETHERNET_MENU_TITLE","목적지를 선택하십시오.
 현재 위치: <Highlight>StringParameter(1)</Highlight>"
-13,"TEXT_AETHERYTE_AETHERNET_MENU_TITLE_NONE_MESSAGE","
+15,"TEXT_AETHERYTE_AETHERNET_MENU_TITLE_NONE_MESSAGE","
 
 이동할 수 있는 도시 내 에테라이트가 없습니다.
 
 "
-14,"TEXT_AETHERYTE_AETHERNET_DEST_NAME","<Sheet(PlaceName,IntegerParameter(1),0)/>"
-15,"TEXT_AETHERYTE_AETHERNET_MENU_CANCEL","취소"
-16,"TEXT_AETHERYTE_MOVE_INSTANCE_MENU_CANCEL","<Sheet(Addon,102345,0)/>"
-17,"TEXT_AETHERYTE_FIRST_OPEN_01","'도시 내 에테라이트'를 개방했습니다."
-18,"TEXT_AETHERYTE_FIRST_OPEN_02","'도시 내 에테라이트'에 접촉하면
+16,"TEXT_AETHERYTE_AETHERNET_DEST_NAME","<Sheet(PlaceName,IntegerParameter(1),0)/>"
+17,"TEXT_AETHERYTE_AETHERNET_MENU_CANCEL","취소"
+18,"TEXT_AETHERYTE_MOVE_INSTANCE_MENU_CANCEL","<Sheet(Addon,102345,0)/>"
+19,"TEXT_AETHERYTE_FIRST_OPEN_01","'도시 내 에테라이트'를 개방했습니다."
+20,"TEXT_AETHERYTE_FIRST_OPEN_02","'도시 내 에테라이트'에 접촉하면
 도시 내 에테라이트 사이를 자유롭게 이동할 수 있습니다."
-19,"TEXT_AETHERYTE_FULL_OPEN_FST","그리다니아의 '도시 내 에테라이트'를 모두 개방했습니다.
+21,"TEXT_AETHERYTE_FULL_OPEN_FST","그리다니아의 '도시 내 에테라이트'를 모두 개방했습니다.
 '푸른 오소리 관문'과 '노란 뱀 관문',
 '그리다니아 비공정 승강장'으로도 이동할 수 있게 되었습니다."
-20,"TEXT_AETHERYTE_FULL_OPEN_FST_WITH_WHITE_WOLF_GATE","그리다니아의 '도시 내 에테라이트'를 모두 개방했습니다.
+22,"TEXT_AETHERYTE_FULL_OPEN_FST_WITH_WHITE_WOLF_GATE","그리다니아의 '도시 내 에테라이트'를 모두 개방했습니다.
 '푸른 오소리 관문'과 '노란 뱀 관문', '하얀 늑대 관문',
 '그리다니아 비공정 승강장'으로도 이동할 수 있게 되었습니다."
-21,"TEXT_AETHERYTE_FULL_OPEN_SEA","림사 로민사의 '도시 내 에테라이트'를 모두 개방했습니다.
+23,"TEXT_AETHERYTE_FULL_OPEN_SEA","림사 로민사의 '도시 내 에테라이트'를 모두 개방했습니다.
 '산들바람 관문'과 '폭풍 관문',
 '림사 로민사 비공정 승강장'으로도 이동할 수 있게 되었습니다."
-22,"TEXT_AETHERYTE_FULL_OPEN_WIL","울다하의 '도시 내 에테라이트'를 모두 개방했습니다.
+24,"TEXT_AETHERYTE_FULL_OPEN_WIL","울다하의 '도시 내 에테라이트'를 모두 개방했습니다.
 '날 관문'과 '달 관문', '나나모 관문',
 '울다하 비공정 승강장'으로도 이동할 수 있게 되었습니다."
-23,"TEXT_AETHERYTE_FULL_OPEN_GOLDSAUCER","골드 소서 안의 '도시 내 에테라이트'를 모두 개방했습니다."
-24,"TEXT_AETHERYTE_FULL_OPEN_TOWN_ROC","이슈가르드의 '도시 내 에테라이트'를 모두 개방했습니다.
+25,"TEXT_AETHERYTE_FULL_OPEN_GOLDSAUCER","골드 소서 안의 '도시 내 에테라이트'를 모두 개방했습니다."
+26,"TEXT_AETHERYTE_FULL_OPEN_TOWN_ROC","이슈가르드의 '도시 내 에테라이트'를 모두 개방했습니다.
 이제 '성도의 문'으로도 이동할 수 있게 되었습니다."
-25,"TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE","이딜샤이어의 '도시 내 에테라이트'를 모두 개방했습니다.
+27,"TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE","이딜샤이어의 '도시 내 에테라이트'를 모두 개방했습니다.
 '뒤표지문'으로도 이동할 수 있게 되었습니다."
-26,"TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE_WITH_QUESTCOMP","이딜샤이어의 '도시 내 에테라이트'를 모두 개방했습니다.
+28,"TEXT_AETHERYTE_FULL_OPEN_TOWN_IDYLLSHIRE_WITH_QUESTCOMP","이딜샤이어의 '도시 내 에테라이트'를 모두 개방했습니다.
 '뒤표지문'과 '앞표지문'으로도 이동할 수 있게 되었습니다."
-27,"TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE","쿠가네의 '도시 내 에테라이트'를 모두 개방했습니다.
+29,"TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE","쿠가네의 '도시 내 에테라이트'를 모두 개방했습니다.
 '쿠가네 비공정 승강장'으로도 이동할 수 있게 되었습니다."
-28,"TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE_WITH_QUESTCOMP","쿠가네의 '도시 내 에테라이트'를 모두 개방했습니다.
+30,"TEXT_AETHERYTE_FULL_OPEN_TOWN_KUGANE_WITH_QUESTCOMP","쿠가네의 '도시 내 에테라이트'를 모두 개방했습니다.
 '홍옥해'와 '쿠가네 비공정 승강장'으로도
 이동할 수 있게 되었습니다."
-29,"TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH","랄거의 손길의 '도시 내 에테라이트'를 모두 개방했습니다.
+31,"TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH","랄거의 손길의 '도시 내 에테라이트'를 모두 개방했습니다.
 '변방지대'로도 이동할 수 있게 되었습니다. "
-30,"TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH_WITH_QUESTCOMP","랄거의 손길의 '도시 내 에테라이트'를 모두 개방했습니다.
+32,"TEXT_AETHERYTE_FULL_OPEN_TOWN_RHALGRS_REACH_WITH_QUESTCOMP","랄거의 손길의 '도시 내 에테라이트'를 모두 개방했습니다.
 '변방지대'와 '산악지대'로도 이동할 수 있게 되었습니다!"
-31,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE","도마 도읍지의 '도시 내 에테라이트'를 모두 개방했습니다!
+33,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE","도마 도읍지의 '도시 내 에테라이트'를 모두 개방했습니다!
 '무이강 유역(얀샤 방면)'으로도 이동할 수 있게 되었습니다!"
-32,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE_WITH_QUESTCOMP","도마 도읍지의 '도시 내 에테라이트'를 모두 개방했습니다!
+34,"TEXT_AETHERYTE_FULL_OPEN_DOMAN_ENCLAVE_WITH_QUESTCOMP","도마 도읍지의 '도시 내 에테라이트'를 모두 개방했습니다!
 '무이강 유역(얀샤 방면)'과
 '강고스'로도 이동할 수 있게 되었습니다!"
-33,"TEXT_AETHERYTE_FULL_OPEN_CRYSTALIUM","크리스타리움의 '도시 내 에테라이트'를 모두 개방했습니다!
+35,"TEXT_AETHERYTE_FULL_OPEN_CRYSTALIUM","크리스타리움의 '도시 내 에테라이트'를 모두 개방했습니다!
 '레이크랜드'로도 이동할 수 있게 되었습니다!"
-34,"TEXT_AETHERYTE_FULL_OPEN_EURMORE","율모어의 '도시 내 에테라이트'를 모두 개방했습니다!
+36,"TEXT_AETHERYTE_FULL_OPEN_EURMORE","율모어의 '도시 내 에테라이트'를 모두 개방했습니다!
 '콜루시아 섬'으로도 이동할 수 있게 되었습니다!"
-35,"TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN","올드 샬레이안의 '도시 내 에테라이트'를
+37,"TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN","올드 샬레이안의 '도시 내 에테라이트'를
 모두 개방했습니다!"
-36,"TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN_WITH_QUESTCOMP","올드 샬레이안의 '도시 내 에테라이트'를
+38,"TEXT_AETHERYTE_FULL_OPEN_OLD_SHARLAYAN_WITH_QUESTCOMP","올드 샬레이안의 '도시 내 에테라이트'를
 모두 개방했습니다!
 '라비린토스'로도 이동할 수 있게 되었습니다!"
-37,"TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN","라자한의 '도시 내 에테라이트'를 모두 개방했습니다!"
-38,"TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN_WITH_QUESTCOMP","라자한의 '도시 내 에테라이트'를 모두 개방했습니다!
+39,"TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN","라자한의 '도시 내 에테라이트'를 모두 개방했습니다!"
+40,"TEXT_AETHERYTE_FULL_OPEN_RADZ_AT_HAN_WITH_QUESTCOMP","라자한의 '도시 내 에테라이트'를 모두 개방했습니다!
 '사베네어 섬'으로도 이동할 수 있게 되었습니다!"
