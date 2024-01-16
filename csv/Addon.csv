@@ -7666,7 +7666,7 @@ PvP 시스템이나 대결 규칙에 대해서는
 7954,"유형 2"
 7955,"24시간 표기"
 7956,"12시간 표기"
-7957,"※ PvP에서는 임무에 따라 표시가 번경됩니다."
+7957,"※ PvP에서는 임무에 따라 표시가 변경됩니다."
 7960,"장비 시에만 장비함의 장비 불가 아이템을 어둡게 표시"
 7961,"아이템 입수 시 맨 뒤부터 넣기"
 7962,"세부 메뉴 사용자 설정"
@@ -14429,7 +14429,8 @@ PvP 임무 '크리스탈라인 컨플릭트'에서
 
 완성된 초상화는 임무용 초상화로서
 PvP '크리스탈라인 컨플릭트'나
-골드 소서 '작패유희' 등을 시작할 때참가자 소개용으로 사용됩니다.
+골드 소서 '작패유희' 등을 시작할 때
+참가자 소개용으로 사용됩니다.
 
 다양한 설정 항목을 활용하여
 멋진 초상화를 만들어 보세요.
@@ -15352,6 +15353,9 @@ PvP '크리스탈라인 컨플릭트'나
 15701," 훌륭한 맨더빌 웨폰[강화]"
 15702," 성실한 개량 계획[1차 개량]"
 15703," 마음을 전하는 개량 계획[2차 개량]"
+15704," 당당한 맨더빌 웨폰[개량]"
+15705," 매력적인 개량 계획[3차 개량]"
+15706," 이름에 걸맞은 개량 계획[4차 개량] "
 15730,"설정 안 함"
 15731,"민물"
 15732,"바닷물"
@@ -15398,6 +15402,28 @@ PvP '크리스탈라인 컨플릭트'나
 15834,"서버"
 15835,"서버"
 15836,"서버"
+15840,"부여할 능력치를 3종류 선택하십시오.
+능력치 3의 수치는 가장 낮게 조정됩니다."
+15842,"(<Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>)"
+15843,"선택 안 함"
+15844,"부여"
+15845,"취소"
+15846,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Item,IntegerParameter(1),0)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 능력치를 변경합니다."
+15847,"능력치 비교"
+15848,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Item,IntegerParameter(1),0)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> <Value>IntegerParameter(2)</Value>개 소비하여 능력치를 확정하시겠습니까?
+ (보유 수: <Value>IntegerParameter(3)</Value>개)"
+15849,"능력치 조정을 중지하시겠습니까?"
+15850,"능력치를 확정하고
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Sheet(Item,IntegerParameter(1),0)/><UIGlow>01</UIGlow><UIForeground>01</UIForeground><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 받으시겠습니까?"
+15851,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><Highlight>StringParameter(1)</Highlight><UIGlow>01</UIGlow><UIForeground>01</UIForeground>의
+능력치 조정을 완료하시겠습니까?"
+15852,"극대화"
+15853,"직격"
+15854,"기술 시전 속도"
+15855,"마법 시전 속도"
+15856,"불굴"
+15857,"의지력"
+15858,"신앙"
 101000,"<CommandIcon(10)/>세부 메뉴"
 101001,"<CommandIcon(11)/>"
 101002,"<CommandIcon(19)/>선택"

@@ -69,12 +69,12 @@ int32,str,str
 퀘스트를 완료하거나 포기할 때까지
 다른 직업으로 '성실한 개량 계획'을 수락할 수 없습니다."
 53,"TEXT_AKTKCT102_04731_SYSTEM_000_005","개량하고 싶은 모웬 도구에 맞는 클래스로 변경한 뒤
-다시 초라 조이에게 말을 걸어주십시오."
+다시 초라 조이에게 말을 거십시오."
 54,"TEXT_AKTKCT102_04731_SYSTEM_000_003","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
 소지하거나 장비하지 않으면
 퀘스트 '성실한 개량 계획'을 수락할 수 없습니다."
 55,"TEXT_AKTKCT102_04731_SYSTEM_100_004","이미 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
-다른 클래스로 변경한 후 다시 초라 조이에게 말을 걸어주십시오."
+다른 클래스로 변경한 후 다시 초라 조이에게 말을 거십시오."
 56,"TEXT_AKTKCT102_04731_CHORAZOI_000_007","제가 드린 도구는 확인하셨나요?
 이제 그 도구를 '모웬 도구'로 개량하기에 앞서
 그레놀트 님의 설계도를 확인하는 중이었어요!"
@@ -105,7 +105,7 @@ int32,str,str
 '<Sheet(Item,IntegerParameter(1),0)/>'입니다!"
 67,"TEXT_AKTKCT102_04731_CHORAZOI_100_018","그리고 상회로부터 희귀 재료를 제공받기 위해
 거래 자본으로 쓰일 물품 제작을 부탁드려요.
-<If(Equal(IntegerParameter(1),1))><Sheet(ItemMP,38756,0)/><13>FF1102280DFF074974656D4D50F297640103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),2))><Sheet(ItemMP,38757,0)/><13>FF1102280DFF074974656D4D50F297650103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),3))><Sheet(ItemMP,38758,0)/><13>FF1102280DFF074974656D4D50F297660103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),4))><Sheet(ItemMP,38759,0)/><13>FF1102280DFF074974656D4D50F297670103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),5))><Sheet(ItemMP,38760,0)/><13>FF1102280DFF074974656D4D50F297680103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),6))><Sheet(ItemMP,38761,0)/><13>FF1102280DFF074974656D4D50F297690103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),7))><Sheet(ItemMP,38762,0)/><13>FF1102280DFF074974656D4D50F2976A0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),8))><Sheet(ItemMP,38763,0)/><13>FF1102280DFF074974656D4D50F2976B0103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If> 만들어주시면 돼요!"
+<If(Equal(IntegerParameter(1),1))>'<Sheet(ItemMP,38756,0)/>'<13>FF1102280DFF074974656D4D50F297640103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),2))>'<Sheet(ItemMP,38757,0)/>'<13>FF1102280DFF074974656D4D50F297650103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),3))>'<Sheet(ItemMP,38758,0)/>'<13>FF1102280DFF074974656D4D50F297660103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),4))>'<Sheet(ItemMP,38759,0)/>'<13>FF1102280DFF074974656D4D50F297670103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),5))>'<Sheet(ItemMP,38760,0)/>'<13>FF1102280DFF074974656D4D50F297680103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),6))>'<Sheet(ItemMP,38761,0)/>'<13>FF1102280DFF074974656D4D50F297690103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),7))>'<Sheet(ItemMP,38762,0)/>'<13>FF1102280DFF074974656D4D50F2976A0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),8))>'<Sheet(ItemMP,38763,0)/>'<13>FF1102280DFF074974656D4D50F2976B0103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If> 만들어주시면 돼요!"
 68,"TEXT_AKTKCT102_04731_CHORAZOI_000_020","그레놀트 님이 말했듯이 작업할 때는
 반드시 개량할 '모웬 도구'를 사용해 주세요!"
 69,"TEXT_AKTKCT102_04731_CHORAZOI_000_021","그리고 완성되면 저쪽에 있는 '키나나' 씨에게 납품하세요!
@@ -116,7 +116,7 @@ int32,str,str
 '<Sheet(Item,IntegerParameter(2),0)/>'입니다!"
 71,"TEXT_AKTKCT102_04731_CHORAZOI_100_019","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13>
 상회를 통해서 제공받기로 했으니, 교환용 거래 자본으로 쓰일
-<If(Equal(IntegerParameter(2),9))><Sheet(ItemMP,38790,0)/><13>FF1102280DFF074974656D4D50F297860103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(2),10))><Sheet(ItemMP,38788,0)/><13>FF1102280DFF074974656D4D50F297840103FF04EBA5BCFF04EC9D84</13><Else/></If></If> 구해주시면 됩니다!"
+<If(Equal(IntegerParameter(2),9))>'<Sheet(ItemMP,38790,0)/>'<13>FF1102280DFF074974656D4D50F297860103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(2),10))>'<Sheet(ItemMP,38788,0)/>'<13>FF1102280DFF074974656D4D50F297840103FF04EBA5BCFF04EC9D84</13><Else/></If></If> 구해주시면 됩니다!"
 72,"TEXT_AKTKCT102_04731_CHORAZOI_100_020","그레놀트 님이 말씀하신 대로 채집할 때는
 반드시 개량할 '모웬 도구'를 사용해 주셔야 해요!"
 73,"TEXT_AKTKCT102_04731_CHORAZOI_100_021","그리고 준비되셨으면 저쪽에 있는 '키나나' 씨에게 납품하세요!
@@ -191,7 +191,7 @@ int32,str,str
 소지품 또는 장비함에 넣어 주세요."
 98,"TEXT_AKTKCT102_04731_CHORAZOI_000_050","<Highlight>ObjectParameter(1)</Highlight> 님, 감사합니다!
 필요한 희귀 재료를 다 갖고 오신 것 같으니
-개량할 도구와 함께 저에게 주세요!"
+개량할 도구와 함께 제게 주세요!"
 99,"TEXT_AKTKCT102_04731_CHORAZOI_000_051","희귀 재료를 구하느라 고생 많으셨습니다…….
 이제 제가 아주 멋진 도구를 만들어 보겠습니다!"
 100,"TEXT_AKTKCT102_04731_GRENOLDT_000_052","거래 자본을 만들어준 <Highlight>ObjectParameter(1)</Highlight> 공과

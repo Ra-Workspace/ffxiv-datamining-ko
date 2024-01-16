@@ -522,23 +522,103 @@ int32,byte,Image,str,str,byte,Row,Quest,Quest,bit&01,bit&02,bit&04,bit&08,bit&10
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★★
 ","츠쿠요미의 주특기.
 살의를 품은 마력을 꽃 모양으로 엮어 폭발시킨다. 1년에 한 번 피는 월하미인을 자신의 장송용 꽃으로 빗대는 각오가 이 마법에 힘을 주는 모양이다.",4,537,0,0,True,False,False,False,False,False,False,False,False,False,False,False
-105,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-106,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-107,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-108,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-109,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-110,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-111,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-112,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-113,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-114,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-115,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-116,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-117,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-118,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-119,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-120,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-121,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-122,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-123,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
-124,0,0,"","",0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False
+105,105,72306,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물리(타격)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★
+","홉고블린의 주특기.
+마구잡이로 주먹질을 하는 야만스러운 기술. 청마법에서는 마력으로 주먹을 감싸 위력을 높이는데, 이때 적과 정면으로 맞서 싸울 각오를 한다면 더욱 강한 힘이 깃든다고 한다.",1,2954,70310,70309,True,False,False,False,False,False,False,False,False,False,False,False
+106,106,72307,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물리(타격)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★
+","거대 아르마딜로의 특수 공격.
+끝이 세 갈래로 갈라진 꼬리로 돌을 잡아 휘두르는 동작을 마법으로 재현했다. 마력으로 만들어낸 바윗덩어리를 고속으로 회전시켜, 다가오는 모든 것을 날려버린다.",4,656,0,0,True,True,False,False,False,False,False,False,False,False,False,False
+107,107,72308,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★
+","일부 아르마딜로가 사용하는 청마법.
+마력을 흘려보내 외피를 단단하게 만들어 충격에 대비한다. 물리적인 충격을 튕겨내지만, 통증을 줄여주지는 않는다.",1,2955,70311,70310,False,True,False,False,False,False,False,False,False,False,False,False
+108,108,72309,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★
+","일부 아르마딜로가 사용하는 청마법.
+공기 중의 수분을 모아 몸을 촉촉하게 만들어 상처를 치유한다. 건조함과 스트레스는 피부의 적이라는 것을 명심하자.",1,2955,70312,70311,False,True,False,False,False,False,False,False,False,False,False,False
+109,109,72310,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","신대륙의 대형 갑각류가 사용하는 청마법.
+여러 속성의 에테르를 섞어 단숨에 뿜어낸다. 이 방법으로 체내 생명 에테르의 속성 균형을 무너뜨려 안쪽부터 피해를 입힌다고 한다.",2,0,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+110,110,72311,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물리(타격)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★
+","환상빛의 광전사의 필살기.
+분노에 몸을 맡기고 영혼을 일깨워, 파괴의 파동을 방출한다. 그러나 분노는 양날의 검이기도 하기에, 위력은 뛰어나지만 시전자의 체력 소모가 매우 크다.",4,737,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+111,111,72312,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 땅
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★
+","진흙인간의 주특기.
+땅속성 에테르를 조작해서 만든 거대한 진흙공을 상대에게 던진다. 잘 지지 않는 진흙때가 묻으면, 상대는 서서히 정신적 피해를 입는다고 한다.",4,746,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+112,112,72313,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물리(타격)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","궁전의 은자의 특기.
+마법 빗자루를 소환해 쓱싹쓱싹 청소한다. 청마법으로 재현한 빗자루로 진흙때를 닦으면 닦을수록 자존감이 올라가고, 개운해져서 심신에 좋은 영향을 준다고 한다.",4,692,0,0,True,True,False,False,False,False,False,False,False,False,False,False
+113,113,72314,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물리(베기)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★
+","루비 웨폰의 기술을 모방한 청마법.
+원래는 내장된 원동기에서 발생시킨 에너지를 손톱 형태로 만들어 적을 공격하는 기술이지만, 이를 에테르를 이용하여 마법적으로 재현했다.",4,717,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+114,114,72315,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★
+","티타니아가 즐겨 사용하는 룬.
+마법 주문의 요소를 지닌 요정어 '룬'을 기점으로 에테르 파동을 발사한다. 이 파동을 맞은 자가 공진 현상에 의해 방출한 에테르를 흡수하는 마법이다.",4,657,0,0,True,True,False,False,False,False,False,False,False,False,False,False
+115,115,72316,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★
+","에덴 프라임의 주특기.
+주변의 차원을 전환해 급격한 에테르 반발을 일으킨다. 막대한 피해를 줄 수 있지만, 시전자를 위한 방벽도 구축해야만 하므로 시전에 시간이 걸린다.",4,653,0,0,True,False,False,False,False,False,False,False,False,False,False,True
+116,116,72317,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","면죄된 외설의 주특기.
+빛속성 에테르를 끈 모양으로 뻗어 공격한다. 어디까지나 마법적인 재현에 지나지 않아 상대를 죄식자로 만들 정도의 힘은 없다.",4,659,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+117,117,72318,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","세피로트의 주특기.
+원래 역장은 적을 가둔 후 나쁜 영향을 주는 기술이지만, 이를 반전시켜 방어 기술로 이용하게 되었다. 그러나 이 역장은 불안정한 부분이 있어, 물리 현상과 마법 현상 중 하나에만 효과가 발휘되는 듯하다.",2,0,0,0,False,True,False,False,False,False,False,False,False,False,False,False
+118,118,72319,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물리(찌르기)
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","이노센스의 주특기.
+수많은 빛의 검을 만들어 하늘에서 쏟아붓는다. 일설에 따르면 돈 바우스리는 이 기술로 죄식자를 처리하여 메올로 만들었다고 한다. 따라서 사용할수록 전능자에 가까워진다고 한다.",4,666,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+119,119,72320,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","에덴의 약속의 주특기.
+안구를 마법진처럼 사용하는 원리는 괴이한 광선과 동일하지만, 에테르가 대량으로 모이기 때문에 착탄 시에는 폭풍까지 생긴다고 한다. 눈이 건조해지는 것이 단점이다.",4,758,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+120,120,72321,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★
+","눈이 예쁜 잉크 돈의 주특기.
+사탕 여러 개를 머리 위로 떨어트려, 달콤한 충격으로 육체적인 피해를 준다. 이름과 달리 막대 모양이 아닌 사탕도 섞여 있는데, 이건 '덤'이라고 한다.",4,649,0,0,True,True,False,False,False,False,False,False,False,False,False,False
+121,121,72322,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 불
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★
+","루구스의 필살기.
+대상이 완전히 타버릴 때까지 꺼지지 않는 불을 내뿜는다. 청마법으로 재현하기에 앞서 자칫하면 도시를 멸망시킬 수도 있다는 위험성이 제기되어 청마도사 길드가 개입해 마무리 조정을 했다. 그 후 약불로 천천히 굽는 정도의 화력이 되었다.",4,692,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+122,122,72323,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 물
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★★
+","뇌켄의 필살기.
+대량의 물을 빙그르르 회전시킨 뒤, 퐁당 소리와 함께 흩뿌린다. 이 기술을 쓰는 사역마는 아동용 '장난감'으로 만들어졌기 때문에 본래 용도는 '물놀이'이지만 그런 것치고는 위력이 너무 세다.",4,746,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+123,123,72324,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★★
+","메가테리온의 특수 공격.
+'묵시'라는 이름대로 말이나 문자가 아닌 마음의 힘으로 파멸을 초래한다. 모든 것을 끝내버리겠다는 의지만 있으면 반영구적으로 발사할 수도 있는 듯하다.",4,652,0,0,True,False,False,False,False,False,False,False,False,False,False,False
+124,124,72325,"<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 유형<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 마법
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>공격 속성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 없음
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>등급<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: ★★★★★
+","티타니아의 필살기.
+룬을 겹겹이 엮어서 마력 소용돌이를 만든다. 덧붙여 요정어로 '죽어야 할 운명'이란, 수명이 있는 인간을 업신여기는 한편 동정하고 연민하는 상반된 뜻이 포함된 복잡한 말인 듯하다.",4,657,0,0,True,False,False,False,False,False,False,False,False,False,False,False

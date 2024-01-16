@@ -65,7 +65,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 61,0,False,False,False,3,5,False,False,1,25,"음, 잘했다……!"
 62,0,False,False,False,3,5,False,False,1,25,"젠장, 수가 너무 많아!"
 63,0,False,False,False,3,5,False,False,1,25,"밀렵꾼! 용서하지 않겠다!"
-64,0,False,False,False,3,5,False,False,1,25,"모험가 주제에 잘난 척 하지 말라고"
+64,0,False,False,False,3,5,False,False,1,25,"모험가 주제에 잘난 척하지 말라고"
 65,0,False,False,False,3,5,False,False,1,25,"비, 빌어먹을, 이대로는……"
 66,0,False,False,False,3,5,False,False,1,25,"너희 뭐냐 가까이 오지 마라~"
 67,0,False,False,False,3,3,False,False,1,25,"던져라 폭탄 저리로 던져라"
@@ -12224,7 +12224,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 9206,0,False,False,False,3,4,False,False,1,25,"사역마가 되어
 지금도 방황하고 있을지도…"
 9207,0,False,False,False,3,4,False,False,1,25,"그러고 보니
-요즘 나바스의 절벽에서…"
+요즘 나바스의 단절에서…"
 9208,0,False,False,False,3,4,False,False,1,25,"거대한 무기마를
 봤다는 소문이…"
 9209,0,False,False,False,3,4,False,False,1,25,"그거네!"
@@ -20666,7 +20666,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 14908,0,False,False,False,2,3,False,False,1,25,"아아, 불타는구나…!"
 14909,0,False,False,False,2,3,False,False,1,25,"도약!"
 14910,0,False,False,False,2,3,False,False,1,25,"까악깍깍!"
-14911,0,False,False,False,0,0,False,False,0,0,""
+14911,0,False,False,False,2,3,False,False,1,25,"코요코요코요…"
 14912,0,False,False,False,2,3,False,False,1,25,"아아, 싫다…"
 14913,0,False,False,False,2,3,False,False,1,25,"야옹야옹♪"
 14914,0,False,False,False,2,3,False,False,1,25,"◎※★△…"
@@ -21715,79 +21715,125 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 15687,0,False,False,False,2,5,False,False,1,25,"그르르릉…!"
 15688,0,False,False,False,2,5,False,False,1,25,"으르릉… 크허어어엉!"
 15689,0,False,False,False,2,5,False,False,1,25,"크르르르르릉!"
-15690,0,False,False,False,0,0,False,False,0,0,""
-15691,0,False,False,False,0,0,False,False,0,0,""
-15692,0,False,False,False,0,0,False,False,0,0,""
-15693,0,False,False,False,0,0,False,False,0,0,""
-15694,0,False,False,False,0,0,False,False,0,0,""
-15695,0,False,False,False,0,0,False,False,0,0,""
-15696,0,False,False,False,0,0,False,False,0,0,""
-15697,0,False,False,False,0,0,False,False,0,0,""
-15698,0,False,False,False,0,0,False,False,0,0,""
-15699,0,False,False,False,0,0,False,False,0,0,""
-15700,0,False,False,False,0,0,False,False,0,0,""
-15701,0,False,False,False,0,0,False,False,0,0,""
-15702,0,False,False,False,0,0,False,False,0,0,""
-15703,0,False,False,False,0,0,False,False,0,0,""
-15704,0,False,False,False,0,0,False,False,0,0,""
-15705,0,False,False,False,0,0,False,False,0,0,""
+15690,0,False,False,False,2,3,False,False,1,25,"끼끽…!"
+15691,0,False,False,False,2,3,False,False,1,25,"크르르르…"
+15692,0,False,False,False,2,3,False,False,1,25,"크어어엉…!"
+15693,0,False,False,False,2,3,False,False,1,25,"슈르륵…"
+15694,0,False,False,False,2,3,False,False,1,25,"샤악…!"
+15695,0,False,False,False,2,3,False,False,1,25,"가루로 만들어주마…!"
+15696,0,False,False,False,2,3,False,False,1,25,"가루로 만들어주마…!"
+15697,0,False,False,False,2,3,False,False,1,25,"연기에 괴로워해라…!"
+15698,0,False,False,False,2,3,False,False,1,25,"연기에 괴로워해라…!"
+15699,0,False,False,False,2,3,False,False,1,25,"뼈까지 부숴버리겠다…!"
+15700,0,False,False,False,2,3,False,False,1,25,"뼈까지 부숴버리겠다…!"
+15701,0,False,False,False,2,3,False,False,1,25,"끝장내주마…!"
+15702,0,False,False,False,2,3,False,False,1,25,"끝장내주마…!"
+15703,0,False,False,False,3,4,False,False,1,25,"제가 고른다면…"
+15704,0,False,False,False,3,4,False,False,1,25,"이쪽입니다!"
+15705,0,False,False,False,3,3,False,False,1,25,"음양사님
+부탁드려도 될까요?"
 15706,0,False,False,False,0,0,False,False,0,0,""
-15707,0,False,False,False,0,0,False,False,0,0,""
-15708,0,False,False,False,0,0,False,False,0,0,""
-15709,0,False,False,False,0,0,False,False,0,0,""
-15710,0,False,False,False,0,0,False,False,0,0,""
-15711,0,False,False,False,0,0,False,False,0,0,""
-15712,0,False,False,False,0,0,False,False,0,0,""
-15713,0,False,False,False,0,0,False,False,0,0,""
-15714,0,False,False,False,0,0,False,False,0,0,""
-15715,0,False,False,False,0,0,False,False,0,0,""
-15716,0,False,False,False,0,0,False,False,0,0,""
-15717,0,False,False,False,0,0,False,False,0,0,""
-15718,0,False,False,False,0,0,False,False,0,0,""
-15719,0,False,False,False,0,0,False,False,0,0,""
-15720,0,False,False,False,0,0,False,False,0,0,""
-15721,0,False,False,False,0,0,False,False,0,0,""
-15722,0,False,False,False,0,0,False,False,0,0,""
-15723,0,False,False,False,0,0,False,False,0,0,""
-15724,0,False,False,False,0,0,False,False,0,0,""
+15707,0,False,False,False,3,3,False,False,1,25,"결계여, 문을 열어라!
+하아앗!"
+15708,0,False,False,False,3,2,False,False,1,25,"자, 갑시다!"
+15709,0,False,False,False,3,4,False,False,1,25,"이게 그 요괴로군요!"
+15710,0,False,False,False,3,4,False,False,1,25,"역시 실력이
+출중하십니다!"
+15711,0,False,False,False,3,4,False,False,1,25,"또 요괴가…!"
+15712,0,False,False,False,3,4,False,False,1,25,"사방이 요괴로군요
+산을 봉쇄한 건 올바른 판단이에요"
+15713,0,False,False,False,3,4,False,False,1,25,"갑자기 장대비가 쏟아지면
+곤란한데요~!"
+15714,0,False,False,False,3,4,False,False,1,25,"갑자기 바람이
+강해졌네요…"
+15715,0,False,False,False,3,4,False,False,1,25,"실내에도
+요괴가 있다니…"
+15716,0,False,False,False,3,4,False,False,1,25,"여기에도 요괴가
+우글거립니다~!"
+15717,0,False,False,False,3,4,False,False,1,25,"이것도
+수상하군요~"
+15718,0,False,False,False,3,4,False,False,1,25,"이상한 기운이
+사라졌습니다!"
+15719,0,False,False,False,3,4,False,False,1,25,"어이쿠
+막다른 길인가요?"
+15720,0,False,False,False,3,4,False,False,1,25,"지붕으로 가시려고요…?
+장난이 지나치십니다~!"
+15721,0,False,False,False,3,4,False,False,1,25,"이런 곳까지
+요괴 소굴이 되다니…"
+15722,0,False,False,False,3,4,False,False,1,25,"여기서 안으로
+다시 들어가죠!"
+15723,0,False,False,False,3,4,False,False,1,25,"싸우는 바람에
+불이 꺼져버렸네요…"
+15724,0,False,False,False,3,4,False,False,1,25,"더 위로 올라가 볼까요!"
 15725,0,False,False,False,0,0,False,False,0,0,""
-15726,0,False,False,False,0,0,False,False,0,0,""
-15727,0,False,False,False,0,0,False,False,0,0,""
-15728,0,False,False,False,0,0,False,False,0,0,""
-15729,0,False,False,False,0,0,False,False,0,0,""
-15730,0,False,False,False,0,0,False,False,0,0,""
-15731,0,False,False,False,0,0,False,False,0,0,""
-15732,0,False,False,False,0,0,False,False,0,0,""
-15733,0,False,False,False,0,0,False,False,0,0,""
-15734,0,False,False,False,0,0,False,False,0,0,""
-15735,0,False,False,False,0,0,False,False,0,0,""
-15736,0,False,False,False,0,0,False,False,0,0,""
-15737,0,False,False,False,0,0,False,False,0,0,""
+15726,0,False,False,False,3,4,False,False,1,25,"요괴 퇴치는
+당신께 맡기겠습니다!"
+15727,0,False,False,False,3,4,False,False,1,25,"건물이
+보이는군요…"
+15728,0,False,False,False,3,4,False,False,1,25,"또 요괴가 있어요!"
+15729,0,False,False,False,3,4,False,False,1,25,"수명이 깎이는
+느낌이었어요…"
+15730,0,False,False,False,3,4,False,False,1,25,"여기도
+절경이군요!"
+15731,0,False,False,False,3,4,False,False,1,25,"이쪽 요괴도
+쓰러트려 주세요~!"
+15732,0,False,False,False,3,4,False,False,1,25,"인, 인간!?"
+15733,0,False,False,False,3,3,False,False,1,25,"히익!
+목숨만은…!"
+15734,0,False,False,False,3,4,False,False,1,25,"아, 알았어…!"
+15735,0,False,False,False,3,4,False,False,1,25,"젠장…
+두고 봐라~!"
+15736,0,False,False,False,3,4,False,False,1,25,"오~오
+잽싸게도 도망치는군요…"
+15737,0,False,False,False,3,4,False,False,1,25,"캿캿!
+어리석은 인간놈!"
 15738,0,False,False,False,0,0,False,False,0,0,""
-15739,0,False,False,False,0,0,False,False,0,0,""
-15740,0,False,False,False,0,0,False,False,0,0,""
-15741,0,False,False,False,0,0,False,False,0,0,""
-15742,0,False,False,False,0,0,False,False,0,0,""
-15743,0,False,False,False,0,0,False,False,0,0,""
-15744,0,False,False,False,0,0,False,False,0,0,""
-15745,0,False,False,False,0,0,False,False,0,0,""
-15746,0,False,False,False,0,0,False,False,0,0,""
-15747,0,False,False,False,0,0,False,False,0,0,""
-15748,0,False,False,False,0,0,False,False,0,0,""
-15749,0,False,False,False,0,0,False,False,0,0,""
-15750,0,False,False,False,0,0,False,False,0,0,""
-15751,0,False,False,False,0,0,False,False,0,0,""
-15752,0,False,False,False,0,0,False,False,0,0,""
-15753,0,False,False,False,0,0,False,False,0,0,""
-15754,0,False,False,False,0,0,False,False,0,0,""
-15755,0,False,False,False,0,0,False,False,0,0,""
-15756,0,False,False,False,0,0,False,False,0,0,""
-15757,0,False,False,False,0,0,False,False,0,0,""
-15758,0,False,False,False,0,0,False,False,0,0,""
-15759,0,False,False,False,0,0,False,False,0,0,""
-15760,0,False,False,False,0,0,False,False,0,0,""
-15761,0,False,False,False,0,0,False,False,0,0,""
-15762,0,False,False,False,0,0,False,False,0,0,""
+15739,0,False,False,False,3,4,False,False,1,25,"이거다 싶은 건
+보이지 않네요"
+15740,0,False,False,False,3,4,False,False,1,25,"요괴 등장입니다~!"
+15741,0,False,False,False,3,4,False,True,1,25,"아무것도 없다니
+김이 빠지네요…"
+15742,0,False,False,False,3,4,False,True,1,25,"어쨌든…
+안쪽으로 들어가 볼까요"
+15743,0,False,False,False,3,4,False,False,1,25,"역시
+곰방대가 있었습니다!"
+15744,0,False,False,False,2,3,False,False,1,25,"오~오
+적이 너무 가까운데요!?"
+15745,0,False,False,False,2,3,False,False,1,25,"저를 끌어들이지
+말아 주세요~!"
+15746,0,False,False,False,3,4,False,False,1,25,"요괴가 아니라
+식물형 마물이군요…"
+15747,0,False,False,False,3,4,False,False,1,25,"조심해서
+나아갑시다"
+15748,0,False,False,False,3,4,False,False,1,25,"오~오
+요괴도 나타났습니다!"
+15749,0,False,False,False,3,4,False,False,1,25,"곁눈질할 여유도
+없네요~"
+15750,0,False,False,False,3,4,False,False,1,25,"저 요괴들도
+부탁합니다~!"
+15751,0,False,False,False,3,4,False,False,1,25,"이 길 끝에는
+무엇이 있을까요…"
+15752,0,False,False,False,3,4,False,False,1,25,"이번에는
+야생 짐승까지…"
+15753,0,False,False,False,3,4,False,False,1,25,"요괴가 경치를
+다 버렸네요~"
+15754,0,False,False,False,3,4,False,False,1,25,"후우~
+끝이 없군요"
+15755,0,False,False,False,3,4,False,False,1,25,"길이 도중에
+끊겨버렸네요…"
+15756,0,False,False,False,3,2,False,False,1,25,"히익…!"
+15757,0,False,False,False,3,4,False,False,1,25,"끝도 없이 나오니
+정신이 없습니다~"
+15758,0,False,False,False,3,4,False,False,1,25,"모험은 참으로
+고된 일이로군요…"
+15759,0,False,False,False,3,4,False,False,1,25,"사당의 문이
+열렸습니다!"
+15760,0,False,False,False,3,4,False,False,1,25,"땅이 갈라지기라도
+한 걸까요?"
+15761,0,False,False,False,3,4,False,False,1,25,"이런 곳에 닌자가…
+상태가 조금 이상하군요"
+15762,0,False,False,False,3,4,False,False,1,25,"어마어마한 석상이군요…
+몸통에 뭔가 꽂혀 있습니다"
 15763,0,False,False,False,0,0,False,False,0,0,""
 15764,0,False,False,False,0,0,False,False,0,0,""
 15765,0,False,False,False,0,0,False,False,0,0,""
@@ -22228,17 +22274,17 @@ int32,uint32,bit&01,bit&02,bit&04,byte,single,bit&08,bit&10,byte,byte,str
 알라미고를 해방하겠어!"
 16076,0,False,False,False,2,3,False,False,1,25,"꽤액~"
 16077,0,False,False,False,2,3,False,False,1,25,"모사모사…"
-16078,0,False,False,False,0,0,False,False,0,0,""
+16078,0,False,False,False,2,3,False,False,1,25,"널름널름~"
 16079,0,False,False,False,2,3,False,False,1,25,"치이익!"
 16080,0,False,False,False,2,3,False,False,1,25,"쿠웅…"
 16081,0,False,False,False,2,3,False,False,1,25,"우끼끼~!"
 16082,0,False,False,False,2,3,False,False,1,25,"3, 2, 1…"
 16083,0,False,False,False,2,3,False,False,1,25,"타앗!"
-16084,0,False,False,False,0,0,False,False,0,0,""
+16084,0,False,False,False,2,3,False,False,1,25,"왈왈"
 16085,0,False,False,False,2,3,False,False,1,25,"더 자세히 보여줘…!"
 16086,0,False,False,False,2,3,False,False,1,25,"이야아아아아압!"
 16087,0,False,False,False,2,3,False,False,1,25,"토우~"
-16088,0,False,False,False,0,0,False,False,0,0,""
+16088,0,False,False,False,2,3,False,False,1,25,"크왕~♪"
 16089,0,False,False,False,0,0,False,False,0,0,""
 16090,0,False,False,False,0,0,False,False,0,0,""
 16091,0,False,False,False,0,0,False,False,0,0,""
