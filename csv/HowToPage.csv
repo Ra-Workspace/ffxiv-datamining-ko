@@ -395,7 +395,7 @@ int32,byte,byte,Image,byte,str,str,str
 
 자, 그러면 우선 반갑게 인사해보세요!","",""
 185,1,0,150902,0,"파티에 참가하면 화면 왼쪽 위에 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파티 목록<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 표시됩니다.
-파티 목록에서는 파티원의 현재 상태를 확인할 수 있으며, 위아래 방향키를 조작하여 파티원을 대상으로 선택할 수 있습니다.
+파티 목록에서는 파티원의 현재 상태를 확인할 수 있으며, <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If>를 위아래로 조작하여 파티원을 대상으로 선택할 수 있습니다.
 회복 마법 등의 재빠른 조작이 필요할 때 이용해보세요.","",""
 186,0,0,0,0,"","",""
 187,0,0,0,0,"","",""
@@ -409,7 +409,7 @@ int32,byte,byte,Image,byte,str,str,str
 191,1,0,150932,0,"기술을 사용하면 전투를 더욱 효율적으로 진행할 수 있습니다.
 
 기술을 실행할 때는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>십자 단축바<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용하세요.","",""
-192,1,0,150933,0,"십자 단축바를 이용할 때는 <Gui(14)/> 또는 <Gui(15)/> 버튼을 누른 상태로 방향키나 <Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/> 버튼 중 하나를 누르면 해당 버튼에 등록된 기술을 실행할 수 있습니다.
+192,1,0,150933,0,"십자 단축바를 이용할 때는 <Gui(14)/> 또는 <Gui(15)/> 버튼을 누른 상태로 <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If>나 <Gui(11)/><Gui(8)/><Gui(9)/><Gui(10)/> 버튼 중 하나를 누르면 해당 버튼에 등록된 기술을 실행할 수 있습니다.
 
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 새로 익힌 기술은 자동으로 단축바에 추가됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>","",""
 193,1,0,150934,0,"기술을 실행하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>MP<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 등의 자원을 소비합니다.
@@ -2121,7 +2121,7 @@ HQ 아이템은 품질이 좋은 아이템을 뜻하며, 보통 아이템보다 
 세부 메뉴에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무용 아이템 사용<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택할 수 있습니다.","",""
 1273,1,0,151502,0,"또는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>할 일 목록<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서도 임무용 아이템을 사용할 수 있습니다.
 
-적을 대상으로 선택한 상태에서 <CommandIcon(19)/> 버튼으로 할 일 목록으로 이동한 후, 방향키로 임무용 아이템의 아이콘을 골라 <CommandIcon(8)/> 버튼을 누르면 임무용 아이템을 사용할 수 있습니다.","",""
+적을 대상으로 선택한 상태에서 <CommandIcon(19)/> 버튼으로 할 일 목록으로 이동한 후, <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If>로 임무용 아이템의 아이콘을 골라 <CommandIcon(8)/> 버튼을 누르면 임무용 아이템을 사용할 수 있습니다.","",""
 1274,0,0,0,0,"","",""
 1275,0,0,0,0,"","",""
 1276,0,0,0,0,"","",""
@@ -2149,7 +2149,7 @@ HQ 아이템은 품질이 좋은 아이템을 뜻하며, 보통 아이템보다 
 마우스를 움직여 범위 지정 표시를 원하는 위치로 움직인 다음 왼쪽 클릭하세요.","",""
 1291,1,0,151472,0,"이 퀘스트에서는 임무용 아이템을 사용할 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>범위를 지정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>해야 합니다.
 
-<CommandIcon(19)/> 버튼을 눌러 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>할 일 목록<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택한 다음 방향키로 아이템 아이콘을 골라<CommandIcon(8)/> 버튼을 누르면 아이템을 사용할 범위를 지면 위에 지정할 수 있습니다.
+<CommandIcon(19)/> 버튼을 눌러 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>할 일 목록<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택한 다음 <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If>로 아이템 아이콘을 골라<CommandIcon(8)/> 버튼을 누르면 아이템을 사용할 범위를 지면 위에 지정할 수 있습니다.
 
 범위 지정 표시를 원하는 위치로 움직인 다음 <CommandIcon(8)/> 버튼을 누르세요.","",""
 1292,0,0,0,0,"","",""

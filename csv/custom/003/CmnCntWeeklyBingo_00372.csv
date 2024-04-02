@@ -91,52 +91,61 @@ int32,str,str
 37,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_100_182","아줌마한테 받은 새로운 상품도 준비돼 있으니까
 공상 수첩에 많~이많이 적어줘!
 기대하고 있을게!"
-38,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_190","공상 수첩에 대해 궁금한 게 있어?
+38,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_200_001","……어라라, 갖고 있는 공상 수첩의 보상은 아직 안 줬는데?
+정당한 보상이니까 꼭 받도록 해!
+새로운 공상 수첩은 그 다음에 줄게!"
+39,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_200_002","보상을 얻을 수 있는 공상 수첩을 가지고 있는 경우,
+새로운 공상 수첩은 받을 수 없습니다.
+'공상 수첩을 건넨다'를 선택해서 보상을 받으세요."
+40,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_200_003","……어라라, 좀 오래된 공상 수첩을 아직 갖고 있나 봐!
+미안하지만 그러면 보상을 줄 수 없으니까
+새로운 것과 교환해도 될까?"
+41,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_190","공상 수첩에 대해 궁금한 게 있어?
 뭐든지 물어봐, 다 대답해줄게!"
-39,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_Q3_000_000","무엇을 물어보시겠습니까?"
-40,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_A3_000_001","공상 수첩에 대해서"
-41,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_A3_000_002","공상 수첩을 받는 방법에 대해서"
-42,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_A3_000_003","상품을 받는 방법에 대해서"
-43,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_A3_000_004","유효기한에 대해서"
-44,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_A3_000_005","취소"
-45,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_200","공상 수첩이란 내가 만든 비밀 수첩이야!
+42,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_Q3_000_000","무엇을 물어보시겠습니까?"
+43,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_A3_000_001","공상 수첩에 대해서"
+44,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_A3_000_002","공상 수첩을 받는 방법에 대해서"
+45,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_A3_000_003","상품을 받는 방법에 대해서"
+46,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_A3_000_004","유효기한에 대해서"
+47,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_A3_000_005","취소"
+48,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_200","공상 수첩이란 내가 만든 비밀 수첩이야!
 지금까지 겪은 모험 이야기를 열심히 떠올려서
 이 수첩에 적어줘!"
-46,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_201","공상 수첩에 적힌 모험담을 연결해서
+49,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_201","공상 수첩에 적힌 모험담을 연결해서
 친구한테 들려줄 새로운 소설을 쓰려고 해!
 그러니까 잘 부탁할게, <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>!"
-47,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_202","'쿠로의 공상 수첩'에서는 지정된 16가지 임무 중
+50,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_202","'쿠로의 공상 수첩'에서는 지정된 16가지 임무 중
 원하는 임무를 완료하여
 다양한 보상 획득을 노릴 수 있습니다."
-48,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_210","공상 수첩을 받고 싶으면 나한테 말해.
+51,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_210","공상 수첩을 받고 싶으면 나한테 말해.
 근데 한 번에 한 권만 줄 수 있어!"
-49,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_211","그리고 새 공상 수첩을 받고 싶으면 조금만 기다려줘.
+52,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_211","그리고 새 공상 수첩을 받고 싶으면 조금만 기다려줘.
 공상 수첩을 만들려면 시간이 걸리거든…….
 미안해, <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>."
-50,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_212","공상 수첩은 '쿠로 알리아포'에게 받을 수 있습니다.
+53,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_212","공상 수첩은 '쿠로 알리아포'에게 받을 수 있습니다.
 새로운 공상 수첩을 얻으려면 현실 시간으로
 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시 이후에 말을 걸어보세요."
-51,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_220","소설 소재를 알려주면 상품을 줄게!
+54,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_220","소설 소재를 알려주면 상품을 줄게!
 그러니까 공상 수첩에 이야기를 잔~뜩 써서
 나한테 건네줘!"
-52,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_221","이야기가 깔끔하게 이어졌을 때는
+55,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_221","이야기가 깔끔하게 이어졌을 때는
 상품을 더 많이 줄 거야!
 잘 부탁해, <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>!"
-53,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_222","참, 그런데 한꺼번에 너무 많이 알려주면
+56,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_222","참, 그런데 한꺼번에 너무 많이 알려주면
 머리가 복잡해서 이야기를 정리하기 힘들어.
 그러니까 모험 얘기는 9개만 적어주면 돼!"
-54,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_223","공상 수첩에 지정된 16가지 임무 중
+57,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_223","공상 수첩에 지정된 16가지 임무 중
 원하는 임무를 완료하면
 4×4 크기의 16개 칸 중 최대 9칸까지 스티커를 붙일 수 있습니다."
-55,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_224","'스티커 9장 붙이기', '스티커 한 줄 채우기' 등,
+58,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_224","'스티커 9장 붙이기', '스티커 한 줄 채우기' 등,
 특정 조건을 충족하고 '쿠로 알리아포'에게
 공상 수첩을 건네면 보상을 받을 수 있습니다."
-56,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_225","또, 임무용 아이템 '쿠로의 공상 수첩'을 사용하면
+59,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_225","또, 임무용 아이템 '쿠로의 공상 수첩'을 사용하면
 스티커 부착 현황을 언제든지 확인할 수 있습니다."
-57,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_230","있잖아, 내가 소설을 쓰는 건 친구를 위해서거든.
+60,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_230","있잖아, 내가 소설을 쓰는 건 친구를 위해서거든.
 그런데 그 친구를 기다리게 할 수는 없잖아……?"
-58,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_231","그러니까 이것도 '의뢰'로서 기한을 둘 거야.
+61,"TEXT_CMNCNTWEEKLYBINGO_00372_KHLOEALIAPOF_000_231","그러니까 이것도 '의뢰'로서 기한을 둘 거야.
 로웨나 아줌마가 의뢰에는 기한이 있어야 한다고 했어.
 미안하지만 그렇게 하자!"
-59,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_232","공상 수첩에는 유효기간이 적혀 있습니다.
+62,"TEXT_CMNCNTWEEKLYBINGO_00372_SYSTEM_000_232","공상 수첩에는 유효기간이 적혀 있습니다.
 기한이 지나면 보상을 받을 수 없으니 주의하세요."

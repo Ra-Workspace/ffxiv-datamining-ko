@@ -66,7 +66,7 @@ int32,uint32,uint32,uint32,str,str,str
 53,0,0,0,"<Switch(IntegerParameter(2))><Case(1)>별빛1월</Case><Case(2)>그림자1월</Case><Case(3)>별빛2월</Case><Case(4)>그림자2월</Case><Case(5)>별빛3월</Case><Case(6)>그림자3월</Case><Case(7)>별빛4월</Case><Case(8)>그림자4월</Case><Case(9)>별빛5월</Case><Case(10)>그림자5월</Case><Case(11)>별빛6월</Case><Case(12)>그림자6월</Case></Switch> <Value>IntegerParameter(3)</Value>일","",""
 54,0,0,0,"","",""
 55,0,0,0,"","",""
-56,0,0,0,"<Highlight>StringParameter(1)</Highlight><Switch(IntegerParameter(2))><Case(1)></Case><Case(2)>(구 버전)</Case><Case(3)></Case><Case(4)>(구 버전)</Case><Case(5)>(유럽)</Case><Case(6)>(구 버전/유럽)</Case><Case(7)>(오세아니아)</Case><Case(8)>(구 버전/오세아니아)</Case></Switch>","",""
+56,0,0,0,"<Highlight>StringParameter(1)</Highlight><Switch(IntegerParameter(2))><Case(1)></Case><Case(2)>(구 버전)</Case><Case(3)></Case><Case(4)>(구 버전)</Case><Case(5)>(유럽)</Case><Case(6)>(구 버전/유럽)</Case><Case(7)>(오세아니아)</Case><Case(8)>(구 버전/오세아니아)</Case><Case(9)></Case></Switch>","",""
 57,0,0,0,"서버 목록을 불러옵니다.","",""
 58,0,0,0,"서버 목록을 불러오지 못했습니다.","",""
 59,0,0,0,"각 서버의 상황을 최신으로 갱신합니다. 갱신 후 <Value>IntegerParameter(1)</Value>분 동안은 다시 갱신할 수 없습니다.","",""
@@ -848,7 +848,9 @@ int32,uint32,uint32,uint32,str,str,str
 618,0,0,0,"계정 유효 기간이 <Value>IntegerParameter(1)</Value>일 남았습니다.
 기간을 연장하시려면 공식 웹사이트에서 결제하십시오.","",""
 619,0,0,0,"무료 플레이 기간이 <Value>IntegerParameter(1)</Value>일 남았습니다.
-정식 버전으로 업그레이드하시려면 공식 웹사이트를 방문하십시오.","",""
+무료 플레이 기간이 끝난 후에도 계속해서 플레이를 하시려면, 공식 홈페이지를 방문하여 이용권을 구입하시기 바랍니다.
+URL:
+http://ff14.co.kr","",""
 620,0,0,0,"","",""
 621,0,0,0,"집사의 외모를 확정하시겠습니까?","",""
 622,0,0,0,"집사의 외모 편집을 중단합니다.","",""
@@ -1040,16 +1042,18 @@ int32,uint32,uint32,uint32,str,str,str
 803,0,0,0,"정보","",""
 804,0,0,0,"서버","",""
 805,0,0,0,"(임시) <Switch(IntegerParameter(1))><Case(1)>한국 1=가칭</Case><Case(2)>한국 2=가칭</Case><Case(3)>한국 3=가칭</Case></Switch>","",""
-806,0,0,0,"파이널판타지14를 플레이하는 동안에는 여러 서버가 묶인 '데이터센터'와의 통신이 이루어집니다.
-거주 지역에서 가장 가까운 데이터센터를 선택하시길 권장합니다.
+806,0,0,0,"파이널판타지14를 플레이하는 동안에는 여러 서버가 묶인 '데이터 센터'와 통신이 이루어집니다.
+거주 지역에서 가장 가까운 데이터 센터를 선택하시길 권장합니다.
 <If(GreaterThan(IntegerParameter(1),0))>
-현재 선택된 데이터 센터는 <Switch(IntegerParameter(1))><Case(1)>일본</Case><Case(2)>북미</Case><Case(3)>유럽</Case><Case(4)>오세아니아</Case></Switch>에 거주하는 분께 권장합니다.
-
-데이터센터에는 여러 서버가 속해 있습니다.
-이미 플레이할 서버를 고르셨다면 해당 서버가 속한 데이터센터를 선택하세요.<Else/>
-먼저 지역을 선택하고, 선택한 지역에 데이터센터가 여러 개 있을 경우 데이터센터도 선택하세요.
-지역이 같다면 어느 데이터센터를 선택하든 똑같이 플레이할 수 있습니다.</If>","",""
-807,0,0,0,"<Highlight>StringParameter(1)</Highlight><Switch(IntegerParameter(2))><Case(1)></Case><Case(2)>(구 버전)</Case><Case(3)></Case><Case(4)>(구 버전)</Case><Case(5)>(유럽)</Case><Case(6)>(구 버전/유럽)</Case><Case(7)>(오세아니아)</Case><Case(8)>(구 버전/오세아니아)</Case></Switch>","",""
+현재 선택된 데이터 센터는 <Switch(IntegerParameter(1))><Case(1)>일본</Case><Case(2)>북미</Case><Case(3)>유럽</Case><Case(4)>오세아니아</Case><Case(5)></Case><Case(6)></Case><Case(7)>북미</Case></Switch>에 거주하는 분께 권장합니다.
+<If(Equal(IntegerParameter(1),7))><UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>이 데이터 센터는 클라우드 데이터 센터 공개 부하 테스트용 데이터 센터입니다.
+클라우드 데이터 센터 공개 부하 테스트 기간에만 접속할 수 있습니다.
+<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If>
+데이터 센터에는 여러 서버가 속해 있습니다.
+이미 플레이할 서버를 고르셨다면 해당 서버가 속한 데이터 센터를 선택하세요.<Else/>
+먼저 지역을 선택하고, 선택한 지역에 데이터 센터가 여러 개 있을 경우 데이터 센터도 선택하세요.
+지역이 같다면 어느 데이터 센터를 선택하든 똑같이 플레이할 수 있습니다.</If>","",""
+807,0,0,0,"<Highlight>StringParameter(1)</Highlight><Switch(IntegerParameter(2))><Case(1)></Case><Case(2)>(구 버전)</Case><Case(3)></Case><Case(4)>(구 버전)</Case><Case(5)>(유럽)</Case><Case(6)>(구 버전/유럽)</Case><Case(7)>(오세아니아)</Case><Case(8)>(구 버전/오세아니아)</Case><Case(9)></Case></Switch>","",""
 808,0,0,0,"데이터 센터에 접속합니다.","",""
 809,0,0,0,"데이터 센터에서 캐릭터 목록을 불러옵니다.","",""
 810,0,0,0,"확인","",""
@@ -1058,7 +1062,7 @@ int32,uint32,uint32,uint32,str,str,str
 813,0,0,0,"북미 데이터 센터","",""
 814,0,0,0,"유럽 데이터 센터","",""
 815,0,0,0,"오세아니아 데이터 센터","",""
-816,0,0,0,"","",""
+816,0,0,0,"북미 클라우드 데이터 센터(베타)","",""
 817,0,0,0,"","",""
 818,0,0,0,"","",""
 819,0,0,0,"","",""
@@ -1079,7 +1083,8 @@ int32,uint32,uint32,uint32,str,str,str
 821,0,0,0,"(건너뜀)","",""
 822,0,0,0,"<Switch(IntegerParameter(2))><Case(1)><Sheet(Tribe,IntegerParameter(1),0)/> 남자</Case><Case(2)><Sheet(Tribe,IntegerParameter(1),1)/> 여자</Case></Switch>의 외모, 직업, 이름 등의 캐릭터 생성 정보를 <Value>IntegerParameter(3)</Value>번째 칸에 저장합니다.","",""
 823,0,0,0,"<Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>에 저장한 <Value>IntegerParameter(2)</Value>번 칸의 <Switch(IntegerParameter(4))><Case(1)><Sheet(Tribe,IntegerParameter(3),0)/> 남자</Case><Case(2)><Sheet(Tribe,IntegerParameter(3),1)/> 여자</Case></Switch> 캐릭터 생성 정보를 불러옵니다.","",""
-824,0,0,0,"FINAL FANTASY XIV 폴더에서 아래의 캐릭터 생성 정보를 발견했습니다. 불러올 데이터를 선택하여 캐릭터 생성 마지막 단계로 이동하십시오.","",""
+824,0,0,0,"파이널판타지14 저장 데이터에서 아래의 캐릭터 외모 정보를 발견했습니다.
+불러올 데이터를 선택하여 캐릭터 생성 마지막 단계로 이동하십시오.","",""
 825,0,0,0,"캐릭터 생성 정보를 저장했습니다. 패치가 완료될 때까지 기다려 주십시오.
 응용 프로그램을 종료하면 런처로 돌아갑니다.","",""
 826,0,0,0,"캐릭터 생성 정보를 저장했습니다. 패치가 완료되어 게임을 시작할 수 있습니다.
@@ -1138,7 +1143,7 @@ int32,uint32,uint32,uint32,str,str,str
 867,0,0,0,"최신 백업 캐릭터","",""
 868,0,0,0,"데이터 없음","",""
 869,0,0,0,"백업 일시: <Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>","",""
-870,0,0,0,"[<Switch(IntegerParameter(1))><Case(1)>Win</Case><Case(2)>PS4</Case><Case(3)>Mac</Case><Case(4)>PS5</Case></Switch>]","",""
+870,0,0,0,"[<Switch(IntegerParameter(1))><Case(1)>Win</Case><Case(2)>PS4</Case><Case(3)>Mac</Case><Case(4)>PS5</Case><Case(5)>Xbox</Case></Switch>]","",""
 871,0,0,0,"백업 준비가 완료되었습니다.","",""
 872,0,0,0,"다운로드 준비가 완료되었습니다.","",""
 873,0,0,0,"다른 캐릭터의 <UIForeground>F20239</UIForeground><UIGlow>F2023A</UIGlow>캐릭터 설정 데이터<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 적용합니다.","",""
@@ -1189,13 +1194,13 @@ int32,uint32,uint32,uint32,str,str,str
 900,0,1,0,"UI 표시 크기나 프레임 속도 제한 등의 정보가 저장됩니다.
 ※ 화면 해상도를 비롯하여, 플레이 환경에 의존하는 설정은 저장되지 않습니다.","화면 설정",""
 901,0,11,0,"음량, 음소거 등 각종 설정이 저장됩니다.","소리 설정",""
-902,0,41,0,"<If(GreaterThan(PlayerParameter(75),0))>무선 컨트롤러 또는 마우스<Else/>마우스 또는 게임패드</If> 관련 설정이 저장됩니다.
+902,0,41,0,"<If(Equal(PlayerParameter(75),0))>마우스 또는 게임패드<Else/><If(Equal(PlayerParameter(78),99))>무선 컨트롤러<Else/>컨트롤러</If> 또는 마우스</If> 관련 설정이 저장됩니다.
 ※ 입력 장치에 의존하는 설정은 저장되지 않습니다.","입력 장치 설정",""
 903,0,181,0,"인터페이스 창의 색상 테마를 저장합니다.","테마 설정",""
 904,0,51,0,"동영상 및 음성 언어 설정 등이 저장됩니다.
 ※ 플레이 환경에 의존하는 설정은 저장되지 않습니다.","기타 설정",""
-905,0,61,0,"시각적 음향 표현, 색각 보정 설정이 저장됩니다.<If(Equal(PlayerParameter(78),99))>
-※ <If(GreaterThan(PlayerParameter(75),0))><Switch(PlayerParameter(75))><Case(1)>PlayStation®3</Case><Case(2)>PlayStation®4</Case><Case(3)>PlayStation®4</Case><Case(4)>PlayStation®5</Case></Switch><Else/></If>에서는 적용되지 않습니다.<Else/></If>","접근성 설정",""
+905,0,61,0,"시각적 음향 표현, 색각 보정 설정이 저장됩니다.<If(Equal(PlayerParameter(75),0))><Else/>
+※ <If(GreaterThan(PlayerParameter(75),0))><Switch(PlayerParameter(75))><Case(1)>PlayStation®3</Case><Case(2)>PlayStation®4</Case><Case(3)>PlayStation®4</Case><Case(4)>PlayStation®5</Case><Case(5)>Xbox Series X</Case><Case(6)>Xbox Series S</Case></Switch><Else/></If>에서는 적용되지 않습니다.</If>","접근성 설정",""
 906,0,161,0,"모든 캐릭터 공용 매크로가 저장됩니다.
 ※ 캐릭터 전용 매크로는 캐릭터 설정 백업 시에 저장됩니다.","공용 매크로",""
 907,0,0,0,"","",""
@@ -1233,15 +1238,16 @@ int32,uint32,uint32,uint32,str,str,str
 938,0,0,0,"","",""
 939,0,0,0,"","",""
 940,0,0,0,"복원","",""
-941,0,0,0,"<If(Equal(PlayerParameter(78),99))>설정<Else/>매크로</If> 복원","",""
+941,0,0,0,"<If(Equal(PlayerParameter(75),0))>매크로<Else/>설정</If> 복원","",""
 942,0,0,0,"설정 복원","",""
-943,0,0,0,"<If(Equal(PlayerParameter(78),99))>클라이언트 설정<Else/>공용 매크로</If> 복원","",""
+943,0,0,0,"<If(Equal(PlayerParameter(75),0))>공용 매크로<Else/>클라이언트 설정</If> 복원","",""
 944,0,0,0,"","",""
-945,0,0,0,"복원 대상: 클라이언트 설정 데이터<If(Equal(PlayerParameter(78),99))><Else/> 중 공용 매크로 100개</If>","",""
+945,0,0,0,"복원 대상: 클라이언트 설정 데이터<If(Equal(PlayerParameter(75),0))> 중 공용 매크로 100개<Else/></If>","",""
 946,0,0,0,"클라이언트 설정 데이터 다운로드 중에 문제가 발생한 경우,
-<If(Equal(PlayerParameter(78),99))><Else/>공용 매크로 설정 데이터를 </If>다운로드 전의 데이터로 복원할 수 있습니다.
+<If(Equal(PlayerParameter(75),0))>공용 매크로 설정 데이터를 <Else/></If>다운로드 전의 데이터로 복원할 수 있습니다.
 복원할 데이터를 선택하십시오.","",""
-947,0,0,0,"서버에 백업된 데이터를 다운로드할 경우, 자동으로 복원용 데이터가 최대 10개까지 생성됩니다.
+947,0,0,0,"서버에 백업된 데이터를 다운로드할 경우,
+자동으로 복원용 데이터가 최대 10개까지 생성됩니다.
 현재 복원용 데이터가 없습니다.","",""
 948,0,0,0,"복원 지점: <Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>","",""
 949,0,0,0,"캐릭터 설정 복원","",""
@@ -1252,10 +1258,10 @@ int32,uint32,uint32,uint32,str,str,str
 복원할 데이터를 선택하십시오.","",""
 953,0,0,0,"서버에 백업된 데이터를 다운로드할 경우, 자동으로 복원용 데이터가 최대 10개까지 생성됩니다.
 현재 복원용 데이터가 없습니다.","",""
-954,0,0,0,"<If(Equal(PlayerParameter(78),99))>클라이언트 설정을<Else/>공용 매크로를</If> <Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>의 데이터로 복원하시겠습니까?","",""
+954,0,0,0,"<If(Equal(PlayerParameter(75),0))>공용 매크로를<Else/>클라이언트 설정을</If> <Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>의 데이터로 복원하시겠습니까?","",""
 955,0,0,0,"캐릭터 설정을 <Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>의 데이터로 복원하시겠습니까?","",""
-956,0,0,0,"<If(Equal(PlayerParameter(78),99))>클라이언트 설정을<Else/>공용 매크로를</If> 복원했습니다.","",""
-957,0,0,0,"<If(Equal(PlayerParameter(78),99))>클라이언트 설정을<Else/>공용 매크로를</If> 복원하지 못했습니다.","",""
+956,0,0,0,"<If(Equal(PlayerParameter(75),0))>공용 매크로를<Else/>클라이언트 설정을</If> 복원했습니다.","",""
+957,0,0,0,"<If(Equal(PlayerParameter(75),0))>공용 매크로를<Else/>클라이언트 설정을</If> 복원하지 못했습니다.","",""
 958,0,0,0,"캐릭터 설정을 복원했습니다.","",""
 959,0,0,0,"캐릭터 설정을 복원하지 못했습니다.","",""
 960,0,0,0,"백업된 데이터에 문제가 있어 다운로드할 수 없습니다.","",""
@@ -1416,7 +1422,8 @@ int32,uint32,uint32,uint32,str,str,str
 1108,0,0,0,"일정 시간이 경과하기 전에는 다시 실행할 수 없습니다.","",""
 1109,0,0,0,"이동하려면 먼저 세부 메뉴에서 '이름 변경'을 눌러 캐릭터 이름을 변경하십시오.","",""
 1110,0,0,0,"이동하려면 먼저 세부 메뉴에서 '집사 이름 변경'을 눌러 집사의 이름을 변경하십시오.","",""
-1111,0,0,0,"임무 중에 접속이 종료되어 <If(GreaterThan(IntegerParameter(1),0))>고향 서버로 돌아갈 수 없습니다.<Else/>쾌적한 서버로 이동할 수 없습니다.</If>","",""
+1111,0,0,0,"임무 중에 접속이 종료되어 <If(GreaterThan(IntegerParameter(1),0))>고향 서버로 돌아갈 수 없습니다.<Else/>쾌적한 서버로 이동할 수 없습니다.</If>
+다시 접속한 후에 실행하시기 바랍니다.","",""
 1112,0,0,0,"게임 시작 이벤트를 완료하지 않은 캐릭터는 이동할 수 없습니다.","",""
 1113,0,0,0,"현재 '모르디온 감옥'에 구속된 캐릭터는 <If(GreaterThan(IntegerParameter(1),0))>고향 서버로 돌아갈 수 없습니다.<Else/>쾌적한 서버로 이동할 수 없습니다.</If>","",""
 1114,0,0,0,"현재 '쾌적한 서버로 이동' 기능을 일시적으로 이용할 수 없습니다.","",""
@@ -1470,8 +1477,10 @@ int32,uint32,uint32,uint32,str,str,str
 1159,0,0,0,"취소","",""
 1160,0,0,0,"","",""
 1161,0,0,0,"닫기","",""
-1162,0,0,0,"방문할 데이터 센터와 서버를 선택하세요.","",""
-1163,0,0,0,"고향 데이터 센터의 고향 서버로 돌아갑니다.","",""
+1162,0,0,0,"방문할 데이터 센터와 서버를 선택하세요.
+예상 소요 시간: <If(LessThan(IntegerParameter(1),60))>1분 미만<Else/><If(LessThan(IntegerParameter(1),300))>5분 미만<Else/><If(LessThan(IntegerParameter(1),600))>10분 미만<Else/><If(LessThan(IntegerParameter(1),1200))>20분 미만<Else/>서버가 혼잡하여 장시간 소요 예상</If></If></If></If>","",""
+1163,0,0,0,"고향 데이터 센터의 고향 서버로 돌아갑니다.
+예상 소요 시간: <If(LessThan(IntegerParameter(1),60))>1분 미만<Else/><If(LessThan(IntegerParameter(1),300))>5분 미만<Else/><If(LessThan(IntegerParameter(1),600))>10분 미만<Else/><If(LessThan(IntegerParameter(1),1200))>20분 미만<Else/>서버가 혼잡하여 장시간 소요 예상</If></If></If></If>","",""
 1164,0,0,0,"데이터 센터","",""
 1165,0,0,0,"서버","",""
 1166,0,0,0,"결정","",""
@@ -1480,6 +1489,7 @@ int32,uint32,uint32,uint32,str,str,str
 1169,0,0,0,"서버 정보를 불러오고 있습니다.","",""
 1170,0,0,0,"'<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>' 캐릭터를
 '<Highlight>StringParameter(3)</Highlight>' 데이터 센터의 '<Highlight>StringParameter(4)</Highlight>' 서버로 이동시킵니다.
+예상 소요 시간: <If(LessThan(IntegerParameter(1),60))>1분 미만<Else/><If(LessThan(IntegerParameter(1),300))>5분 미만<Else/><If(LessThan(IntegerParameter(1),600))>10분 미만<Else/><If(LessThan(IntegerParameter(1),1200))>20분 미만<Else/>서버가 혼잡하여 장시간 소요 예상</If></If></If></If>
 
 <UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>캐릭터 이동 시 유의 사항
 ・이동 처리에는 수십 초에서 수 분이 걸립니다.
@@ -1491,7 +1501,7 @@ int32,uint32,uint32,uint32,str,str,str
 1172,0,0,0,"이전 단계","",""
 1173,0,0,0,"캐릭터가 데이터 센터를 이동하고 있습니다.
 처리가 완료될 때까지 기다려 주십시오.
-※ 혼잡 시에는 처리에 걸리는 시간이 길어질 수 있습니다.","",""
+예상 소요 시간: <If(LessThan(IntegerParameter(1),60))>1분 미만<Else/><If(LessThan(IntegerParameter(1),300))>5분 미만<Else/><If(LessThan(IntegerParameter(1),600))>10분 미만<Else/><If(LessThan(IntegerParameter(1),1200))>20분 미만<Else/>서버가 혼잡하여 장시간 소요 예상</If></If></If></If>","",""
 1174,0,0,0,"'<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>' 캐릭터가
 '<Highlight>StringParameter(3)</Highlight>' 데이터 센터의 '<Highlight>StringParameter(4)</Highlight>' 서버로 이동되었습니다!","",""
 1175,0,0,0,"이 캐릭터는 현재 다른 데이터 센터(<Highlight>StringParameter(1)</Highlight>)에 있습니다.","",""
@@ -1514,6 +1524,7 @@ int32,uint32,uint32,uint32,str,str,str
 1190,0,0,0,"실행","",""
 1191,0,0,0,"'<Highlight>StringParameter(1)</Highlight><Gui(88)/><Highlight>StringParameter(2)</Highlight>' 캐릭터를
 고향인 '<Highlight>StringParameter(3)</Highlight>' 데이터 센터의 '<Highlight>StringParameter(4)</Highlight>' 서버로 돌려보냅니다.
+예상 소요 시간: <If(LessThan(IntegerParameter(1),60))>1분 미만<Else/><If(LessThan(IntegerParameter(1),300))>5분 미만<Else/><If(LessThan(IntegerParameter(1),600))>10분 미만<Else/><If(LessThan(IntegerParameter(1),1200))>20분 미만<Else/>서버가 혼잡하여 장시간 소요 예상</If></If></If></If>
 
 <UIForeground>F20237</UIForeground><UIGlow>F20238</UIGlow>캐릭터 이동 시 유의 사항
 ・이동 처리에는 수십 초에서 수 분이 걸립니다.
@@ -1546,7 +1557,8 @@ int32,uint32,uint32,uint32,str,str,str
 [<Value>IntegerParameter(1)</Value>]<Else/></If>","",""
 1210,0,0,0,"'<If(GreaterThan(IntegerParameter(2),0))>고향 서버로 돌아가기<Else/>다른 데이터 센터 방문</If>' 처리에 실패했습니다.<If(GreaterThan(IntegerParameter(1),0))>
 [<Value>IntegerParameter(1)</Value>]<Else/></If>","",""
-1211,0,0,0,"임무 중에 접속이 종료되어 '<If(GreaterThan(IntegerParameter(1),0))>고향 서버로 돌아가기<Else/>다른 데이터 센터 방문</If>' 기능을 이용할 수 없습니다.","",""
+1211,0,0,0,"임무 중에 접속이 종료되어 <If(GreaterThan(IntegerParameter(1),0))>고향 서버로 돌아갈 수 없습니다.<Else/>다른 데이터 센터를 방문할 수 없습니다.</If>
+다시 접속한 후에 실행하시기 바랍니다.","",""
 1212,0,0,0,"<Highlight>StringParameter(1)</Highlight> 서버에 캐릭터를 최대 한도까지 생성했기에 이동할 수 없습니다.","",""
 1213,0,0,0,"'다른 데이터 센터 방문'를 실행하려면 고향 데이터 센터에 있어야 합니다.","",""
 1214,0,0,0,"<Highlight>StringParameter(1)</Highlight> 서버는 이 캐릭터의 고향 서버가 아닙니다.","",""
@@ -1578,12 +1590,19 @@ int32,uint32,uint32,uint32,str,str,str
 1235,0,0,0,"이동하려는 <Highlight>StringParameter(1)</Highlight> 서버에 더 이상 캐릭터를 생성할 수 없습니다.
 고향 서버가 아닌 다른 서버로 이동하려면, 해당 서버에 최소 하나 이상의 캐릭터를 생성할 수 있어야만 합니다. 사전에 <Highlight>StringParameter(1)</Highlight> 서버에 있는 캐릭터 수를 조정하십시오.","",""
 1236,0,0,0,"이 캐릭터는 아직 이전 로그아웃 처리가 완료되지 않았습니다. 잠시 후 세부 메뉴를 다시 선택하십시오.","",""
-1237,0,0,0,"","",""
-1238,0,0,0,"","",""
-1239,0,0,0,"","",""
-1240,0,0,0,"","",""
-1241,0,0,0,"","",""
-1242,0,0,0,"","",""
+1237,0,0,0,"사용 중인 플레이 환경에서 마지막으로 접속 종료한 캐릭터를 현재 접속 중인 데이터 센터에서 찾지 못했습니다.
+데이터 센터 선택 화면에서 다른 데이터 센터로 접속하여 확인하십시오.","",""
+1238,0,0,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>현재 서버가 혼잡하여 고향 서버가 아닌 캐릭터는 로그인할 수 없어, 진행 중인 임무에 복귀할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+임무에서 퇴장하면 '고향 서버로 돌아가기'를 실행할 수 있게 되어 고향 서버에서 로그인할 수 있습니다.
+임무에서 퇴장하시겠습니까?","",""
+1239,0,0,0,"임무에서 퇴장합니다.
+준비가 완료될 때까지 잠시만 기다려 주십시오.","",""
+1240,0,0,0,"임무에서 퇴장했습니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>약 5분 뒤에 퇴장 처리가 완료됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+잠시 후 다른 서버로 이동해 주십시오.","",""
+1241,0,0,0,"아직 퇴장 처리가 완료되지 않았습니다.
+잠시 후 다시 시도하십시오.","",""
+1242,0,0,0,"확인했습니다","",""
 1243,0,0,0,"","",""
 1244,0,0,0,"","",""
 1245,0,0,0,"","",""
@@ -1591,7 +1610,7 @@ int32,uint32,uint32,uint32,str,str,str
 1247,0,0,0,"","",""
 1248,0,0,0,"","",""
 1249,0,0,0,"","",""
-1250,0,0,0,"","",""
+1250,0,0,0,"클라우드 데이터 센터의 서버는 클라우드 데이터 센터 공개 부하 테스트 종료 시 완전히 폐쇄되며, 생성한 모든 캐릭터 및 집사 데이터도 삭제됩니다. 미리 양해 부탁드립니다.","",""
 1251,0,0,0,"","",""
 1252,0,0,0,"","",""
 1253,0,0,0,"","",""
@@ -2484,7 +2503,7 @@ int32,uint32,uint32,uint32,str,str,str
 2114,0,0,0,"통신 상태","",""
 2115,0,0,0,"매우 좋음","",""
 2116,0,0,0,"좋음","",""
-2117,0,0,0,"좋지 않음","",""
+2117,0,0,0,"----","",""
 2118,0,0,0,"신호 없음","",""
 2119,0,0,0,"","",""
 2120,0,0,0,"변경 전","",""
@@ -2508,7 +2527,8 @@ int32,uint32,uint32,uint32,str,str,str
 2138,0,0,0,"","",""
 2139,0,0,0,"","",""
 2140,0,0,0,"캐릭터 외모 정보 불러오기","",""
-2141,0,0,0,"FINAL FANTASY XIV 폴더에서 다음 데이터가 검색되었습니다. 불러올 외모 정보를 선택하십시오.","",""
+2141,0,0,0,"파이널판타지14 저장 데이터에서 아래의 캐릭터 외모 정보를 발견했습니다.
+불러올 외모 정보를 선택하십시오.","",""
 2142,0,0,0,"저장 날짜","",""
 2143,0,0,0,"저장 칸","",""
 2144,0,0,0,"부족 및 성별","",""
@@ -2564,7 +2584,7 @@ int32,uint32,uint32,uint32,str,str,str
 2190,0,0,0,"동영상 보기","",""
 2191,0,0,0,"신생 에오르제아","",""
 2192,0,0,0,"창천의 이슈가르드","",""
-2193,0,0,0,"","",""
+2193,0,0,0,"홍련의 해방자","",""
 2194,0,0,0,"","",""
 2195,0,0,0,"","",""
 2196,0,0,0,"","",""
