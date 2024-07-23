@@ -1,170 +1,189 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_000","（★未使用／削除予定★）"
-1,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_000","아, 너 왔구나…….
+0,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_000","아, 너 왔구나…….
 '요괴메달'이랑 요괴 꼬마 친구를 교환하려고?
 아니면 또 다른 걸 찾고 있니?"
-2,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_100_000","오, 무기 수집가가 왔네!
+1,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_100_000","오, 무기 수집가가 왔네!
 오늘은 날 만나러 온 거야?
 아니면 원하는 물건이 또 있어?"
-3,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_001","（★未使用／削除予定★）"
-4,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_001","（★未使用／削除予定★）"
-5,"TEXT_FESYKWMEDALEXCHANGE_00348_Q4_000_001","（★未使用／削除予定★）"
-6,"TEXT_FESYKWMEDALEXCHANGE_00348_A4_000_001","（★未使用／削除予定★）"
-7,"TEXT_FESYKWMEDALEXCHANGE_00348_A4_000_002","（★未使用／削除予定★）"
-8,"TEXT_FESYKWMEDALEXCHANGE_00348_Q1_000_001","무엇을 하시겠습니까?"
-9,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_001","꼬마 친구 교환"
-10,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_002","무기 교환"
-11,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_003","설명 듣기"
-12,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_004","취소"
-13,"TEXT_FESYKWMEDALEXCHANGE_00348_Q2_000_001","어느 꼬마 친구를 받으시겠습니까?
+2,"TEXT_FESYKWMEDALEXCHANGE_00348_Q1_000_001","무엇을 하시겠습니까?"
+3,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_001","꼬마 친구 교환"
+4,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_002","무기 교환"
+5,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_003","설명 듣기"
+6,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_004","취소"
+7,"TEXT_FESYKWMEDALEXCHANGE_00348_Q2_000_001","어느 꼬마 친구를 받으시겠습니까?
 (필요한 요괴메달: <Value>IntegerParameter(1)</Value>  보유 수: <Format(<Value>IntegerParameter(2)</Value>,FF022C)/>)"
-14,"TEXT_FESYKWMEDALEXCHANGE_00348_A2_000_001","<Sheet(Companion,IntegerParameter(1),0)/>"
-15,"TEXT_FESYKWMEDALEXCHANGE_00348_A2_000_002","취소"
-16,"TEXT_FESYKWMEDALEXCHANGE_00348_Q6_000_001","<Sheet(Companion,IntegerParameter(1),0)/><14>FF1302280FFF0A436F6D70616E696F6EE8020103FF04EBA19CFF07EC9CBCEBA19C</14> 교환하시겠습니까?"
-17,"TEXT_FESYKWMEDALEXCHANGE_00348_A6_000_001","예"
-18,"TEXT_FESYKWMEDALEXCHANGE_00348_A6_000_002","아니요"
-19,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_002","（★未使用／削除予定★）"
-20,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_002","벌써 모든 요괴와 친구가 되었나 보네.
+8,"TEXT_FESYKWMEDALEXCHANGE_00348_A2_000_001","<Sheet(Companion,IntegerParameter(1),0)/>"
+9,"TEXT_FESYKWMEDALEXCHANGE_00348_A2_000_002","취소"
+10,"TEXT_FESYKWMEDALEXCHANGE_00348_Q6_000_001","<Sheet(Companion,IntegerParameter(1),0)/><14>FF1302280FFF0A436F6D70616E696F6EE8020103FF04EBA19CFF07EC9CBCEBA19C</14> 교환하시겠습니까?"
+11,"TEXT_FESYKWMEDALEXCHANGE_00348_A6_000_001","예"
+12,"TEXT_FESYKWMEDALEXCHANGE_00348_A6_000_002","아니요"
+13,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_002","벌써 모든 요괴와 친구가 되었나 보네.
 만약 더 많은 요괴를 만나고 싶다면……
 내 고향에 놀러 오는 게 어때?"
-21,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_003","（★未使用／削除予定★）"
-22,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_003","이런, '요괴메달'이 모자란 것 같은데.
+14,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_003","이런, '요괴메달'이 모자란 것 같은데.
 더 많이 모아서 와줄래?"
-23,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_003","'요괴메달'은 '요괴워치'를 장비한 상태로
+15,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_003","'요괴메달'은 '요괴워치'를 장비한 상태로
 각지에서 발생하는 돌발 임무를 완료하면 획득할 수 있습니다."
-24,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_200_003","획득 가능한 지역은 중부 라노시아, 저지 라노시아,
+16,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_200_003","획득 가능한 지역은 중부 라노시아, 저지 라노시아,
 서부 라노시아, 고지 라노시아, 외지 라노시아,
 검은장막 숲 중부삼림, 동부삼림, 남부삼림, 북부삼림,"
-25,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_300_003","서부 다날란, 중부 다날란, 동부 다날란,
+17,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_300_003","서부 다날란, 중부 다날란, 동부 다날란,
 남부 다날란, 커르다스 서부고지, 아발라시아 구름바다,
 고지 드라바니아, 드라바니아 구름바다, 저지 드라바니아,"
-26,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_400_003","마대륙 아지스 라, 기라바니아 변방지대, 기라바니아 산악지대,
+18,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_400_003","마대륙 아지스 라, 기라바니아 변방지대, 기라바니아 산악지대,
 기라바니아 호반지대, 홍옥해, 얀샤, 아짐 대초원입니다.
 돌발임무에 적극 참가하여 메달을 모으세요."
-27,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_004","（★未使用／削除予定★）"
-28,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_004","소지품에 공간이 부족하거나 이미 소지하고 있어
+19,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_004","소지품에 공간이 부족하거나 이미 소지하고 있어
 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득하지 못했습니다."
-29,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_100_004","（★未使用／削除予定★）"
-30,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_100_004","그럼 소개하지…….
+20,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_100_004","그럼 소개하지…….
 새로운 네 친구 <Sheet(Companion,IntegerParameter(1),0)/><14>FF1302280FFF0A436F6D70616E696F6EE8020103FF04EC95BCFF07EC9DB4EC95BC</14>!
 친하게 잘 지내렴!"
-31,"TEXT_FESYKWMEDALEXCHANGE_00348_Q3_000_001","어느 무기로 교환하시겠습니까?"
-32,"TEXT_FESYKWMEDALEXCHANGE_00348_A3_000_001","<Sheet(Item,IntegerParameter(3),0)/>: <Format(<Value>IntegerParameter(4)</Value>,FF022C)/>/<Value>IntegerParameter(5)</Value>(<If(Equal(IntegerParameter(1),15208))>한손검<Else/><If(Equal(IntegerParameter(1),15209))>격투무기<Else/><If(Equal(IntegerParameter(1),15210))>양손도끼<Else/><If(Equal(IntegerParameter(1),15211))>양손창<Else/><If(Equal(IntegerParameter(1),15212))>활<Else/><If(Equal(IntegerParameter(1),15213))>쌍검<Else/><If(Equal(IntegerParameter(1),15214))>양손검<Else/><If(Equal(IntegerParameter(1),15215))>총<Else/><If(Equal(IntegerParameter(1),15216))>양손 환술도구<Else/><If(Equal(IntegerParameter(1),15217))>양손 주술도구<Else/><If(Equal(IntegerParameter(1),15218))>마도서: 소환사<Else/><If(Equal(IntegerParameter(1),15219))>마도서: 학자<Else/><If(Equal(IntegerParameter(1),15220))>천구의<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If><If(Equal(IntegerParameter(2),0))><Else/> 및 방패</If>)"
-33,"TEXT_FESYKWMEDALEXCHANGE_00348_A3_000_002","취소"
-34,"TEXT_FESYKWMEDALEXCHANGE_00348_Q5_000_001","<Sheet(Item,IntegerParameter(3),0)/> <Value>IntegerParameter(5)</Value>개로
+21,"TEXT_FESYKWMEDALEXCHANGE_00348_Q3_000_001","어느 무기로 교환하시겠습니까?"
+22,"TEXT_FESYKWMEDALEXCHANGE_00348_A3_000_001","<Sheet(Item,IntegerParameter(3),0)/>: <Format(<Value>IntegerParameter(4)</Value>,FF022C)/>/<Value>IntegerParameter(5)</Value>(<If(Equal(IntegerParameter(1),15208))>한손검<Else/><If(Equal(IntegerParameter(1),15209))>격투무기<Else/><If(Equal(IntegerParameter(1),15210))>양손도끼<Else/><If(Equal(IntegerParameter(1),15211))>양손창<Else/><If(Equal(IntegerParameter(1),15212))>활<Else/><If(Equal(IntegerParameter(1),15213))>쌍검<Else/><If(Equal(IntegerParameter(1),15214))>양손검<Else/><If(Equal(IntegerParameter(1),15215))>총<Else/><If(Equal(IntegerParameter(1),15216))>양손 환술도구<Else/><If(Equal(IntegerParameter(1),15217))>양손 주술도구<Else/><If(Equal(IntegerParameter(1),15218))>마도서: 소환사<Else/><If(Equal(IntegerParameter(1),15219))>마도서: 학자<Else/><If(Equal(IntegerParameter(1),15220))>천구의<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If><If(Equal(IntegerParameter(2),0))><Else/> 및 방패</If>)"
+23,"TEXT_FESYKWMEDALEXCHANGE_00348_A3_000_002","취소"
+24,"TEXT_FESYKWMEDALEXCHANGE_00348_Q5_000_001","<Sheet(Item,IntegerParameter(3),0)/> <Value>IntegerParameter(5)</Value>개로
 다음 무기를 획득하시겠습니까?
 <Sheet(Item,IntegerParameter(1),0)/><If(Equal(IntegerParameter(2),0))><Else/> 및 <Sheet(Item,IntegerParameter(2),0)/></If>"
-35,"TEXT_FESYKWMEDALEXCHANGE_00348_A5_000_001","예"
-36,"TEXT_FESYKWMEDALEXCHANGE_00348_A5_000_002","아니요"
-37,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_005","（★未使用／削除予定★）"
-38,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_005","<Sheet(Item,IntegerParameter(1),ITEM_SGL)/><13>FF17022813FF054974656DE802FF094954454D5F53474C03FF04EAB080FF04EC9DB4</13> 부족한 것 같네.
+25,"TEXT_FESYKWMEDALEXCHANGE_00348_A5_000_001","예"
+26,"TEXT_FESYKWMEDALEXCHANGE_00348_A5_000_002","아니요"
+27,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_005","<Sheet(Item,IntegerParameter(1),ITEM_SGL)/><13>FF17022813FF054974656DE802FF094954454D5F53474C03FF04EAB080FF04EC9DB4</13> 부족한 것 같네.
 귀한 물건이라 찾기 힘들겠지만……
 너라면 꼭 찾을 수 있을 거야!"
-39,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_005","'레전드 요괴메달'은 요괴 꼬마 친구를 불러낸 상태로
+28,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_005","'레전드 요괴메달'은 요괴 꼬마 친구를 불러낸 상태로
 특정 지역의 돌발 임무를 완료하면 드물게 얻을 수 있습니다.
 '요괴대사전'에서 해당 지역을 확인한 다음 도전하세요."
-40,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_006","（★未使用／削除予定★）"
-41,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_006","소지품에 공간이 부족하거나 이미 소지하고 있어
+29,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_006","소지품에 공간이 부족하거나 이미 소지하고 있어
 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13> <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 획득하지 못했습니다."
-42,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_006","소지품에 공간이 부족하거나 이미 소지하고 있어
+30,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_006","소지품에 공간이 부족하거나 이미 소지하고 있어
 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득하지 못했습니다."
-43,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_007","（★未使用／削除予定★）"
-44,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_007","검과 방패를 고르다니 나랑 성격이 잘 맞는군!
+31,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_007","검과 방패를 고르다니 나랑 성격이 잘 맞는군!
 자, 이게 네 새로운 무기 <Sheet(Item,IntegerParameter(1),0)/>……
 그리고 <Sheet(Item,IntegerParameter(2),0)/><13>FF0E02280AFF054974656DE8030103FF04EC95BCFF07EC9DB4EC95BC</13>!"
-45,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_008","（★未使用／削除予定★）"
-46,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_008","어때, 멋지지?
+32,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_008","어때, 멋지지?
 이게 네 새로운 무기 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EC95BCFF07EC9DB4EC95BC</13>!"
-47,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_009","요괴 무기 교환에 필요한
+33,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_009","요괴 무기 교환에 필요한
 '레전드 요괴메달' 개수가 증가했습니다.
 돌발 임무에 적극 참가하여 메달을 모으세요."
-48,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_030","（★未使用／削除予定★）"
-49,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_031","에오르제아에는 뭘 하러 왔냐고?
+34,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_031","에오르제아에는 뭘 하러 왔냐고?
 사실은 친한 친구를 만나러 왔어.
 찰랑거리는 은 장신구를 하고 다니는 녀석인데……."
-50,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_032","그런데 오다가 길을 헤매는 바람에
+35,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_032","그런데 오다가 길을 헤매는 바람에
 가지고 있던 메달을 떨어뜨렸단 말이지.
 모아서 가져다주면 사례할게…… 부탁해!"
-51,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_033","'요괴메달'은 '요괴워치'를 장비한 상태로
+36,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_033","'요괴메달'은 '요괴워치'를 장비한 상태로
 각지에서 발생하는 돌발 임무를 완료하면 획득할 수 있습니다."
-52,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_033","획득 가능한 지역은 중부 라노시아, 저지 라노시아,
+37,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_033","획득 가능한 지역은 중부 라노시아, 저지 라노시아,
 서부 라노시아, 고지 라노시아, 외지 라노시아,
 검은장막 숲 중부삼림, 동부삼림, 남부삼림, 북부삼림,"
-53,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_200_033","서부 다날란, 중부 다날란, 동부 다날란,
+38,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_200_033","서부 다날란, 중부 다날란, 동부 다날란,
 남부 다날란, 커르다스 서부고지, 아발라시아 구름바다,
 고지 드라바니아, 드라바니아 구름바다, 저지 드라바니아,"
-54,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_300_033","마대륙 아지스 라, 기라바니아 변방지대, 기라바니아 산악지대,
+39,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_300_033","마대륙 아지스 라, 기라바니아 변방지대, 기라바니아 산악지대,
 기라바니아 호반지대, 홍옥해, 얀샤, 아짐 대초원입니다.
 돌발임무에 적극 참가하여 메달을 모으세요."
-55,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_034","또 '레전드 요괴메달'은 요괴 꼬마 친구를 불러낸 상태로
+40,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_034","또 '레전드 요괴메달'은 요괴 꼬마 친구를 불러낸 상태로
 특정 지역의 돌발 임무를 완료하면 드물게 얻을 수 있습니다.
 '요괴대사전'에서 해당 지역을 확인한 다음 도전하세요."
-56,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_034","'요괴대사전'은
+41,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_100_034","'요괴대사전'은
 '중요 아이템' 또는 '꼬마 친구 목록'에서
 열어볼 수 있습니다."
-57,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_035","（★未使用／削除予定★）"
-58,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_040","오, 무기를 13종류나 모았나 보네.
+42,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_040","오, 무기를 13종류나 모았나 보네.
 정말 대단한 노력이야. 축하한다!"
-59,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_041","어? 저기…….
+43,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_041","어? 저기…….
 내 친구가 오고 있군그래."
-60,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_042","안녕, 무슨 이야기를 그렇게 재미있게 해?"
-61,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_043","마침 잘 왔어.
+44,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_042","안녕, 무슨 이야기를 그렇게 재미있게 해?"
+45,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_043","마침 잘 왔어.
 이 모험가가 달성한 위업을 축하하던 중이었지.
-글쎄, 13종류나 되는 무기를 다 모았다니까."
-62,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_044","아니…… 그거 대단한데!
+글쎄, 무기를 13종류나 모았다니까."
+46,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_044","아니…… 그거 대단한데!
 나도 축하해야겠군!"
-63,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_045","나도 전투사자를 얻으려고
+47,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_045","나도 전투사자를 얻으려고
 고생했던 게 생각나네."
-64,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_100_045","역시 모험가에겐 도전심을 자극하는 목표와
+48,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_100_045","역시 모험가에겐 도전심을 자극하는 목표와
 그에 걸맞은 보상이 필요한 법!
 이 점에 관해 할 말이 좀 있는데 말야……."
-65,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_200_045","지, 진정해…….
+49,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_200_045","지, 진정해…….
 자세한 이야기는 나중에 천천히 하자고.
 그보다 지금은 모험가의 위업을……."
-66,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_046","그래…… 다시 한번 축하한다.
+50,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_046","그래…… 다시 한번 축하한다.
 너같이 훌륭한 모험가를 만나게 되어
 에오르제아에 여행 온 보람이 있었어."
-67,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_100_046","………………좋아, 이 틈에……."
-68,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_200_046","이봐!
+51,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_100_046","………………좋아, 이 틈에……."
+52,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_200_046","이봐!
 아직 이야기 안 끝났어!!"
-69,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_300_046","……쳇…… 정말 약삭빠른 녀석이라니까.
+53,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_300_046","……쳇…… 정말 약삭빠른 녀석이라니까.
 아무튼 어딘가에서 다시 만나면
 그땐 같이 모험하자고. 친구로서 말야!"
-70,"TEXT_FESYKWMEDALEXCHANGE_00348_PROG_DUMMY_001","무기 교환(투사)"
-71,"TEXT_FESYKWMEDALEXCHANGE_00348_PROG_DUMMY_002","무기 교환(마법사)"
-72,"TEXT_FESYKWMEDALEXCHANGE_00348_PROG_DUMMY_003","<Sheet(Item,IntegerParameter(3),0)/>:<Format(<Value>IntegerParameter(4)</Value>,FF022C)/>/<Value>IntegerParameter(5)</Value>(<If(Equal(IntegerParameter(1),15208))>한손검<Else/><If(Equal(IntegerParameter(1),15209))>격투무기<Else/><If(Equal(IntegerParameter(1),15210))>양손도끼<Else/><If(Equal(IntegerParameter(1),15211))>양손창<Else/><If(Equal(IntegerParameter(1),15212))>활<Else/><If(Equal(IntegerParameter(1),15213))>쌍검<Else/><If(Equal(IntegerParameter(1),15214))>양손검<Else/><If(Equal(IntegerParameter(1),15215))>총<Else/><If(Equal(IntegerParameter(1),15216))>양손 환술도구<Else/><If(Equal(IntegerParameter(1),15217))>양손 주술도구<Else/><If(Equal(IntegerParameter(1),15218))>마도서: 소환사<Else/><If(Equal(IntegerParameter(1),15219))>마도서: 학자<Else/><If(Equal(IntegerParameter(1),15220))>천구의<Else/><If(Equal(IntegerParameter(1),30807))>외날검<Else/><If(Equal(IntegerParameter(1),30808))>세검<Else/><If(Equal(IntegerParameter(1),30809))>건블레이드<Else/><If(Equal(IntegerParameter(1),30810))>투척무기<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If><If(Equal(IntegerParameter(2),0))><Else/> 및 방패</If>)"
-73,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_061","이거 놀랐는걸, 모든 무기를 다 모으다니!
+54,"TEXT_FESYKWMEDALEXCHANGE_00348_PROG_DUMMY_001","무기 교환(투사)"
+55,"TEXT_FESYKWMEDALEXCHANGE_00348_PROG_DUMMY_002","무기 교환(마법사)"
+56,"TEXT_FESYKWMEDALEXCHANGE_00348_PROG_DUMMY_003","<Sheet(Item,IntegerParameter(3),0)/>:<Format(<Value>IntegerParameter(4)</Value>,FF022C)/>/<Value>IntegerParameter(5)</Value>(<If(Equal(IntegerParameter(1),15208))>한손검<Else/><If(Equal(IntegerParameter(1),15209))>격투무기<Else/><If(Equal(IntegerParameter(1),15210))>양손도끼<Else/><If(Equal(IntegerParameter(1),15211))>양손창<Else/><If(Equal(IntegerParameter(1),15212))>활<Else/><If(Equal(IntegerParameter(1),15213))>쌍검<Else/><If(Equal(IntegerParameter(1),15214))>양손검<Else/><If(Equal(IntegerParameter(1),15215))>총<Else/><If(Equal(IntegerParameter(1),15216))>양손 환술도구<Else/><If(Equal(IntegerParameter(1),15217))>양손 주술도구<Else/><If(Equal(IntegerParameter(1),15218))>마도서: 소환사<Else/><If(Equal(IntegerParameter(1),15219))>마도서: 학자<Else/><If(Equal(IntegerParameter(1),15220))>천구의<Else/><If(Equal(IntegerParameter(1),30807))>외날검<Else/><If(Equal(IntegerParameter(1),30808))>세검<Else/><If(Equal(IntegerParameter(1),30809))>건블레이드<Else/><If(Equal(IntegerParameter(1),30810))>투척무기<Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If><If(Equal(IntegerParameter(2),0))><Else/> 및 방패</If>)"
+57,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_061","이거 놀랐는걸, 모든 무기를 다 모으다니!
 너의 수집가 정신은 정말 대단하구나.
 축하한다!"
-74,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_062","음, 그건…….
+58,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_062","음, 그건…….
 한 번 도망친 내 친구가 돌아온 것 같은데?"
-75,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_063","마침 네 모습이 보이길래 와봤어.
+59,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_063","마침 네 모습이 보이길래 와봤어.
 보아하니 드디어 모든 무기를 다 모은 모양이지?
 나도 축하를 하고 싶군."
-76,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_064","이런 제한된 기간 동안 17종류를 다 모으다니.
+60,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_064","이런 제한된 기간 동안 17종류를 다 모으다니.
 ……메달을 좀 더 많이 모으라고 했어야 하나?"
-77,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_065","무, 무슨…… 아무튼 그 건에 대해서는
+61,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_065","무, 무슨…… 아무튼 그 건에 대해서는
 고기를 먹으면서 충분히 이야기했잖나!"
-78,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_066","넌 어떻게 생각하지?
+62,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_066","넌 어떻게 생각하지?
 위업을 달성한 자의 입장에서
 이번 시련을 어떻게 느꼈는지 들려줘!"
-79,"TEXT_FESYKWMEDALEXCHANGE_00348_Q7_000_067","뭐라고 말씀하시겠습니까?"
-80,"TEXT_FESYKWMEDALEXCHANGE_00348_A7_000_068","너무 쉬웠어!"
-81,"TEXT_FESYKWMEDALEXCHANGE_00348_A7_000_069","난이도 밸런스가 절묘했어!"
-82,"TEXT_FESYKWMEDALEXCHANGE_00348_A7_000_070","너무 힘들었어……"
-83,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_071","역시 역전의 모험가로군!
+63,"TEXT_FESYKWMEDALEXCHANGE_00348_Q7_000_067","뭐라고 말씀하시겠습니까?"
+64,"TEXT_FESYKWMEDALEXCHANGE_00348_A7_000_068","너무 쉬웠어!"
+65,"TEXT_FESYKWMEDALEXCHANGE_00348_A7_000_069","난이도 밸런스가 절묘했어!"
+66,"TEXT_FESYKWMEDALEXCHANGE_00348_A7_000_070","너무 힘들었어……"
+67,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_071","역시 역전의 모험가로군!
 그 끓어오르는 도전 정신에 경의를 표하도록 하지!"
-84,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_072","흠…… 그렇군, 네 발언은 설득력이 있어.
+68,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_072","흠…… 그렇군, 네 발언은 설득력이 있어.
 이번에는 올바른 판단이었다고 생각할게."
-85,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_073","뭐라고……!?
+69,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_073","뭐라고……!?
 늘 최첨단을 달리던 너답지 않군!
 아니, 시대가 변했다는 뜻인가……?"
-86,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_074","그럼 모험가의 귀중한 의견도 들었으니
+70,"TEXT_FESYKWMEDALEXCHANGE_00348_WANDERINGMINSTREL_000_074","그럼 모험가의 귀중한 의견도 들었으니
 난 이만 실례할게.
 신작 모험담을 생각해야 하는 일이 남아 있거든!"
-87,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_075","쯧쯧, 정말 바쁜 사람이라니까……."
-88,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_076","그나저나 너에게도 새로운 모험이 기다리고 있겠지.
+71,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_075","쯧쯧, 정말 바쁜 사람이라니까……."
+72,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_076","그나저나 너에게도 새로운 모험이 기다리고 있겠지.
 만약 또 어디선가 나와 만나면
 그때는 같이 모험하는 거다? 우린 친구니까!"
+73,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_005","초상화 교환"
+74,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_077","'<Sheet(Item,41797,0)/>' 교환을 하려면
+<Format(<Value>IntegerParameter(1)</Value>,FF022C)/>MGP가 필요합니다."
+75,"TEXT_FESYKWMEDALEXCHANGE_00348_Q8_000_001","정말로 '<Sheet(Item,41797,0)/>'<14>FF0F02280BFF054974656DF2A3450103FF04EBA19CFF07EC9CBCEBA19C</14> 교환하시겠습니까?
+[필요 MGP: <Format(<Value>IntegerParameter(1)</Value>,FF022C)/>]
+[소지 MGP: <Format(<Value>IntegerParameter(2)</Value>,FF022C)/>]"
+76,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_078","이미 습득했기 때문에
+<Sheet(Item,41797,0)/><13>FF0F02280BFF054974656DF2A3450103FF04EBA5BCFF04EC9D84</13> 입수할 수 없습니다."
+77,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_079","소지품에 공간이 부족하거나 이미 소지하고 있어
+'<Sheet(Item,41797,0)/>'<13>FF0F02280BFF054974656DF2A3450103FF04EBA5BCFF04EC9D84</13> 입수할 수 없습니다."
+78,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_080","어이쿠…… 미안.
+이건 모든 요괴와 친구가 된 사람에 주는 포상이야.
+먼저 '요괴메달'을 모아서 친구를 늘려봐!"
+79,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_081","모든 요괴와 친구가 된 증표로……
+'<Sheet(Item,41797,0)/>'<13>FF0F02280BFF054974656DF2A3450103FF04EBA5BCFF04EC9D84</13> 받아줘!
+최고로 멋있으니까 너도 마음에 들 거야!"
+80,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_082","MGP가 부족합니다.
+교환하려면 '<Format(<Value>IntegerParameter(1)</Value>,FF022C)/>MGP'가 필요합니다."
+81,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_000","（★未使用／削除予定★）"
+82,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_001","（★未使用／削除予定★）"
+83,"TEXT_FESYKWMEDALEXCHANGE_00348_HINOSHIN_000_001","（★未使用／削除予定★）"
+84,"TEXT_FESYKWMEDALEXCHANGE_00348_Q4_000_001","（★未使用／削除予定★）"
+85,"TEXT_FESYKWMEDALEXCHANGE_00348_A4_000_001","（★未使用／削除予定★）"
+86,"TEXT_FESYKWMEDALEXCHANGE_00348_A4_000_002","（★未使用／削除予定★）"
+87,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_002","（★未使用／削除予定★）"
+88,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_003","（★未使用／削除予定★）"
+89,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_004","（★未使用／削除予定★）"
+90,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_100_004","（★未使用／削除予定★）"
+91,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_005","（★未使用／削除予定★）"
+92,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_006","（★未使用／削除予定★）"
+93,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_007","（★未使用／削除予定★）"
+94,"TEXT_FESYKWMEDALEXCHANGE_00348_ACTOR_000_008","（★未使用／削除予定★）"
+95,"TEXT_FESYKWMEDALEXCHANGE_00348_A1_000_030","（★未使用／削除予定★）"
+96,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_035","（★未使用／削除予定★）"
+97,"TEXT_FESYKWMEDALEXCHANGE_00348_SYSTEM_000_080","（★未使用／削除予定★）"
