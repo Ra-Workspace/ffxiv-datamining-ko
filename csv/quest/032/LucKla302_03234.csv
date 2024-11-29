@@ -28,7 +28,7 @@ int32,str,str
 24,"TEXT_LUCKLA302_03234_TODO_00","성스러운 군생지 목장에 있는 스킵과 대화"
 25,"TEXT_LUCKLA302_03234_TODO_01","대화창에서 대화 방식을 '말하기'로 한 다음
 ""옳지 옳지""를 포함한 문장을 입력해 스킵을 안심시킨다"
-26,"TEXT_LUCKLA302_03234_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 중용의 공예관 퀘스트：<Sheet(ItemHQ,27253,0)/> 제작<Else/>베스릭에게 <Sheet(ItemHQ,27253,0)/> 납품</If>"
+26,"TEXT_LUCKLA302_03234_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 중용의 공예관 거래:<Sheet(ItemHQ,27253,0)/> 제작<Else/>베스릭에게 <Sheet(ItemHQ,27253,0)/> 납품</If>"
 27,"TEXT_LUCKLA302_03234_TODO_03","리다 란에 있는 베스릭과 대화"
 28,"TEXT_LUCKLA302_03234_TODO_04","볼레크도르프에 있는 베스릭과 대화"
 29,"TEXT_LUCKLA302_03234_TODO_05","중용의 공예관에 있는 베스릭과 대화"
@@ -222,7 +222,7 @@ int32,str,str
 고맙네, 친절한 인간들이여."
 123,"TEXT_LUCKLA302_03234_SKIP_000_089","……………………."
 124,"TEXT_LUCKLA302_03234_BETHRIC_000_090","흑흑…… 스킵…… 또 만나러 올게.
-다른 아마로랑 사이 좋게 잘 지내야 해.
+다른 아마로랑 사이좋게 잘 지내야 해.
 여기라면 나쁜 인간의 공격을 받을 걱정도 없을 거야……."
 125,"TEXT_LUCKLA302_03234_BETHRIC_000_091","자, <Highlight>ObjectParameter(1)</Highlight> 님!
 이 아이를 맡기고 '중용의 공예관'으로 돌아가요……!

@@ -27,7 +27,7 @@ int32,str,str
 21,"TEXT_AKTKLA107_04138_SEQ_21",""
 22,"TEXT_AKTKLA107_04138_SEQ_22",""
 23,"TEXT_AKTKLA107_04138_SEQ_23",""
-24,"TEXT_AKTKLA107_04138_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 샬레이안 마법대학 퀘스트:<Sheet(ItemHQ,35838,0)/> 제작<Else/>루루샤에게 <Sheet(ItemHQ,35838,0)/> 납품</If>"
+24,"TEXT_AKTKLA107_04138_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 마법대학 거래:<Sheet(ItemHQ,35838,0)/> 제작<Else/>루루샤에게 <Sheet(ItemHQ,35838,0)/> 납품</If>"
 25,"TEXT_AKTKLA107_04138_TODO_01","나모노 타야모노와 대화"
 26,"TEXT_AKTKLA107_04138_TODO_02","루루샤와 대화"
 27,"TEXT_AKTKLA107_04138_TODO_03",""
