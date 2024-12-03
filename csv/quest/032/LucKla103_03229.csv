@@ -28,7 +28,7 @@ int32,str,str
 22,"TEXT_LUCKLA103_03229_SEQ_22",""
 23,"TEXT_LUCKLA103_03229_SEQ_23",""
 24,"TEXT_LUCKLA103_03229_TODO_00","헤매는 계단 식당의 에이스몽과 대화"
-25,"TEXT_LUCKLA103_03229_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 중용의 공예관 퀘스트：<Sheet(ItemHQ,27239,0)/> 제작<Else/>에이스몽에게 <Sheet(ItemHQ,27239,0)/> 납품</If>"
+25,"TEXT_LUCKLA103_03229_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 중용의 공예관 거래:<Sheet(ItemHQ,27239,0)/> 제작<Else/>에이스몽에게 <Sheet(ItemHQ,27239,0)/> 납품</If>"
 26,"TEXT_LUCKLA103_03229_TODO_02","왈덴과 대화"
 27,"TEXT_LUCKLA103_03229_TODO_03","헤매는 계단 식당의 에이스몽과 대화"
 28,"TEXT_LUCKLA103_03229_TODO_04","중용의 공예관의 이올라와 대화"

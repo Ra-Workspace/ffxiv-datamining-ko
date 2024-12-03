@@ -13,3 +13,13 @@ int32,str,str
 현재, 노르브란트의 일기예보는 중지 중입니다……."
 4,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_300","죄송합니다.
 현재, 해당 지역의 일기예보는 중지 중입니다……."
+5,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_400","죄송합니다.
+현재, 해당 지역의 일기예보는 중지 중입니다……."
+6,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_000","이곳은 기상 관측 시스템입니다.
+여러분에게 도움을 드리기 위해
+기상 정보를 제공하고 있습니다."
+7,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_050","<Sheet(WeatherPlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/>의 현재 날씨는 '<Sheet(Weather,IntegerParameter(2),1)/>'입니다.
+이 시간 이후로 <If(Equal(IntegerParameter(3),IntegerParameter(4)))>한동안 <Sheet(Weather,IntegerParameter(3),3)/><Else/><Sheet(Weather,IntegerParameter(3),4)/> <Sheet(Weather,IntegerParameter(4),5)/></If>
+내일 이 시간에는 <Sheet(Weather,IntegerParameter(5),2)/>."
+8,"TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_100","기상 관측 실행 중에 예기치 못한 오류가 발생하여
+현재, 해당 지역의 일기예보는 중지 중입니다."

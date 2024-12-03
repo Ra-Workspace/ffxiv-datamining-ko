@@ -27,7 +27,7 @@ int32,str,str
 23,"TEXT_AKTKLA105_04136_SEQ_23",""
 24,"TEXT_AKTKLA105_04136_TODO_00","매입 담당 상인과 대화"
 25,"TEXT_AKTKLA105_04136_TODO_01","루루샤와 대화"
-26,"TEXT_AKTKLA105_04136_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 샬레이안 마법대학 퀘스트:<Sheet(ItemHQ,35836,0)/> 제작<Else/>루루샤에게 <Sheet(ItemHQ,35836,0)/> 납품</If>"
+26,"TEXT_AKTKLA105_04136_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 마법대학 거래:<Sheet(ItemHQ,35836,0)/> 제작<Else/>루루샤에게 <Sheet(ItemHQ,35836,0)/> 납품</If>"
 27,"TEXT_AKTKLA105_04136_TODO_03",""
 28,"TEXT_AKTKLA105_04136_TODO_04",""
 29,"TEXT_AKTKLA105_04136_TODO_05",""
@@ -185,7 +185,7 @@ int32,str,str
 일단 해체해 보고 다시 원인을 찾을 수밖에 없겠어."
 108,"TEXT_AKTKLA105_04136_RURUSHA_000_068","잠깐만 시간을 줄래?
 할 수 있는 일이 더 없는지 내가 조사해 볼게."
-109,"TEXT_AKTKLA105_04136_SYSTEM_000_069","다음 납품 의뢰는
+109,"TEXT_AKTKLA105_04136_SYSTEM_000_069","다음 퀘스트는
 '대장장이/갑주제작사/보석공예가' 중 하나의 레벨이 88 이상 되면
 예술의 전당에 있는 '루루샤'에게 받을 수 있습니다."
 110,"TEXT_AKTKLA105_04136_SYSTEM_100_070","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
