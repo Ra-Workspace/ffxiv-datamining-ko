@@ -31345,7 +31345,6 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 지속시간이 끝날 때 대상의 HP를 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 500"
 25874,"자신을 중심으로 주위 적에게 무속성 범위 마법 공격을 가합니다.
-실행 시 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소우주<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <If(Equal(PlayerParameter(68),33))><If(GreaterThanOrEqualTo(PlayerParameter(72),94))>270<Else/>250</If><Else/>250</If>
 2번째 대상부터는 위력이 40% 감소합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 15초 동안 자신과 주위 파티원에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>대우주<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다.
@@ -36516,7 +36515,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 16000
 고유 재사용 대기 시간이 적용됩니다."
 29658,""
-29659,"대상과 그 주위 적에게 3초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow> 서서히 수면<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
+29659,"대상과 그 주위 적에게 3초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>서서히 수면<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>서서히 수면<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 지속시간이 끝나면 3초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>수면<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태가 됩니다. 이때 대상을 공격하면 수면이 해제되며, 추가 피해를 줍니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 8000"
 29660,"파티원 또는 적 대상의 위치로 즉시 이동합니다.
@@ -44706,7 +44705,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.
 ※ 발동 조건이 갖춰지면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초의 해방<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초의 격진<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-36925,"자신을 중심으로 주위 적에게 범위 물리 공격을 가합니다.
+36925,"대상과 그 주위 적에게 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 780
 2번째 대상부터는 위력이 70% 감소합니다.
 이 기술은 반드시 극대화 직격으로 적중합니다.
@@ -44714,7 +44713,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초적 파멸 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.
-발동 조건이 갖춰지면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초적 분쇄<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초적 파멸<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+※ 발동 조건이 갖춰지면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초적 분쇄<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>원초적 파멸<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 36926,"대상으로 지정한 적의 위치로 즉시 이동합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 적개심 상승
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2
@@ -47630,7 +47629,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>조상령의 송곳니 4<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 명중
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-39183,"발동 조건이 갖춰지면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>뱀꼬리 일격<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>쌍아연격<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>날뱀 연미격<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>조상령의 뱀 1<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>조상령의 뱀 2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>조상령의 뱀 3<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>조상령의 뱀 4<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 중 하나로 변화합니다."
+39183,"발동 조건이 갖춰지면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>뱀꼬리 일격<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>쌍아연격<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>쌍아난격<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>날뱀 연미격<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>조상령의 뱀 1<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>조상령의 뱀 2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>조상령의 뱀 3<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>조상령의 뱀 4<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 중 하나로 변화합니다."
 39184,"대상 적 또는 파티원의 위치로 즉시 이동합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 10초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>뱀걸음<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>뱀걸음<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 다음 1회의 무기 기술로 주는 피해량이 25% 증가합니다.
