@@ -45041,7 +45041,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 520
 2번째 대상부터는 위력이 50% 감소합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마지막 춤 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-36984,"대상과 그 주위 적에게 범위 물리 공격을 가합니다.
+36984,"자신을 중심으로 주위 적에게 범위 물리 공격을 가합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 850
 2번째 대상부터는 위력이 75% 감소합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60초 동안 자신과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마주서기 상대<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>정석 마무리<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 및 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에스프리<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과 부여
@@ -45203,7 +45203,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>고무격려책<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>현시<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>의기왕성책<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>강림<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 변화합니다.
 실행 시 응급전술의 재사용 대기 시간이 초기화되며, 재사용 대기 시간이 1초로 단축됩니다.
 에테르 전환과 동시에 사용할 수 없습니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 요정 생존 및 전투 중"
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 요정 또는 세라핌 생존 및 전투 중"
 37015,"대상의 HP를 회복하고, 회복량의 180%만큼 피해를 막아주는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>고무<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 효과를 부여합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 360
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>극대화 시 추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>격려<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여
