@@ -3,7 +3,7 @@
 int32,str,str
 0,"TEXT_FESANV2018GUIDE_00508_Q1_000_000","어떤 말씀을 나누시겠습니까?"
 1,"TEXT_FESANV2018GUIDE_00508_A1_000_002","'신생제'에 대해서 물어본다"
-2,"TEXT_FESANV2018GUIDE_00508_A1_000_003","'<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>'에 대해서 물어본다"
+2,"TEXT_FESANV2018GUIDE_00508_A1_000_003","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에 대해서 물어본다"
 3,"TEXT_FESANV2018GUIDE_00508_A1_000_004","취소"
 4,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_000","'신생제'란 과거에 에오르제아 전역을 덮쳤던 비극인
 '제7재해' 때 희생된 분들을 애도하고
@@ -21,21 +21,21 @@ int32,str,str
 모험가분들의 참가 접수도 받고 있습니다.
 부디 참가해 주시기 바랍니다."
 9,"TEXT_FESANV2018GUIDE_00508_Q2_000_000","무엇을 물어보시겠습니까?"
-10,"TEXT_FESANV2018GUIDE_00508_A2_000_001","'<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>'에 대해서"
-11,"TEXT_FESANV2018GUIDE_00508_A2_100_001","'<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>' 참가 방법에 대해서"
+10,"TEXT_FESANV2018GUIDE_00508_A2_000_001","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에 대해서"
+11,"TEXT_FESANV2018GUIDE_00508_A2_100_001","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>' 참가 방법에 대해서"
 12,"TEXT_FESANV2018GUIDE_00508_A2_000_002","돌발 임무에 대해서"
 13,"TEXT_FESANV2018GUIDE_00508_A2_000_003","파티 기능에 대해서"
 14,"TEXT_FESANV2018GUIDE_00508_A2_000_004","뒤로"
 15,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_040","이 훈련은 제국군이나 요마가 도시를 공격했다는 가정하에
 울다하 일부를 봉쇄하고 실시됩니다."
-16,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_041","<Sheet(ContentFinderCondition,IntegerParameter(1),42)/><13>FF2002281CFF17436F6E74656E7446696E646572436F6E646974696F6EE8022B03FF04EB8A94FF04EC9D80</13>
+16,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_041","<Sheet(ContentFinderCondition,IntegerParameter(1),43)/><13>FF2002281CFF17436F6E74656E7446696E646572436F6E646974696F6EE8022C03FF04EB8A94FF04EC9D80</13>
 1인부터 대규모 파티(8인)까지 임의의 인원수로
 불멸대 시가지 훈련을 공략하는 기간 한정 이벤트 임무입니다."
 17,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_042","레벨 30 이상인 투사 또는 마법사로만
 참가할 수 있습니다."
-18,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_043","또한, '<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>'에서는
+18,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_043","또한, '<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에서는
 캐릭터 레벨이 50이 되도록 레벨 조율이 설정되어 있습니다."
-19,"TEXT_FESANV2018GUIDE_00508_SYSTEM_100_043","또한, '<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>'에서는
+19,"TEXT_FESANV2018GUIDE_00508_SYSTEM_100_043","또한, '<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에서는
 아이템 레벨도 조율되도록 설정되어 있으며 장비의 성능은
 '아이템 레벨: 110' 이하가 되도록 설정됩니다."
 20,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_044","그리고 일반적인 인스턴스 임무와는 달리
@@ -43,16 +43,16 @@ int32,str,str
 다른 플레이어와 협력하면서 공략해 보시기 바랍니다!"
 21,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_045","이 훈련은 신생제 기간 동안 부정기적으로 열립니다.
 실시 기간 중에 접수원에게 참가 신청을 하시기 바랍니다."
-22,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_046","'<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>'<13>FF2002281CFF17436F6E74656E7446696E646572436F6E646974696F6EE8022B03FF04EB8A94FF04EC9D80</13>
+22,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_046","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'<13>FF2002281CFF17436F6E74656E7446696E646572436F6E646974696F6EE8022C03FF04EB8A94FF04EC9D80</13>
 기간 한정 이벤트 개최 중의 특정 기간 동안에만
 참가할 수 있습니다."
-23,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_047","또한, '<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>'에는
+23,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_047","또한, '<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에는
 입장 가능한 기간 동안에만 나타나는 '시가지 훈련 안내 담당'에게
 말을 걸어 참가할 수 있습니다."
 24,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_050","훈련은 돌발적으로 발생하는 상황에
 참가자들의 힘을 합쳐 대처하는 방식으로 진행됩니다.
 상황을 확인하고, 대항하는 부대를 격파하시기 바랍니다."
-25,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_051","'<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>'에서는
+25,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_051","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에서는
 일반적인 인스턴스 임무와는 달리
 돌발 임무가 발생합니다."
 26,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_052","돌발 임무를 완료하면
@@ -60,7 +60,7 @@ int32,str,str
 '<Sheet(Item,23381,0)/>'<13>FF0F02280BFF054974656DF25B550103FF04EBA5BCFF04EC9D84</13> 입수할 수 있습니다."
 27,"TEXT_FESANV2018GUIDE_00508_ANVGUIDE00508_000_060","훈련에서 지시하는 상황에 혼자서 대처하기는 어렵습니다.
 다른 참가자와 연계하여 대항하는 부대를 격파하시기 바랍니다."
-28,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_061","'<Sheet(ContentFinderCondition,IntegerParameter(1),42)/>'에서는
+28,"TEXT_FESANV2018GUIDE_00508_SYSTEM_000_061","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에서는
 일반 인스턴스 임무와는 달리
 파티 참가 및 권유, 탈퇴, 해산 등의 기능을 사용할 수 있습니다."
 29,"TEXT_FESANV2018GUIDE_00508_A1_000_001",""

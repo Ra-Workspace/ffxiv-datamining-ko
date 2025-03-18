@@ -107,3 +107,5 @@ int32,str,byte,byte,byte,FCActivityCategory,sbyte
 103,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If> 님의 메시지를 삭제했습니다.",16,23,0,5,11
 104,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 방명록 설정을 변경했습니다.",16,0,0,5,11
 105,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 주택 활동 목적을 설정했습니다.",16,0,0,5,11
+106,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <If(PlayerParameter(8))><Sheet(ObjStr,PlayerParameter(8),0)/><Else/>ObjectParameter(3)</If>의 내장 스타일을 변경했습니다.",16,15,0,5,11
+107,"",0,0,0,0,0

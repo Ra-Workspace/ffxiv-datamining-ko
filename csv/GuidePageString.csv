@@ -147,9 +147,9 @@ int32,str
 얼어붙은 마음은 천상의 화염에 의한 MP 소비량 증가 효과를 억제해주며, 파이어 계열 마법을 실행할 때 1개씩 소비됩니다."
 68,"천사의 언어를 30초 이상 유지하면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>금지된 언어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행할 수 있습니다.
 천사의 언어 지속시간은 게이지 우측 하단에서 확인할 수 있습니다. 금지된 언어를 실행할 수 있게 되면 게이지 하단의 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>크리스탈(언어 통달)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 불이 들어옵니다."
-69,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>언어 통달 효과 향상<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득했습니다. 이제 언어 통달이 2단계까지 누적됩니다.
-천사의 언어를 30초 이상 유지하면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>금지된 언어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행할 수 있습니다.
-천사의 언어 지속시간은 게이지 우측 하단에서 확인할 수 있습니다. 금지된 언어를 실행할 수 있게 되면 게이지 하단의 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>크리스탈(언어 통달)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 불이 들어옵니다."
+69,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>언어 통달 효과 향상<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득했습니다. 이제 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>언어 통달<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 2단계까지 누적됩니다.
+천사의 언어를 30초 이상 유지하면 게이지 하단의 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>크리스탈(언어 통달)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 불이 들어오며, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>금지된 언어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>미지의 언어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행할 수 있습니다.
+천사의 언어 지속시간은 게이지 우측 하단에서 확인할 수 있습니다."
 70,"에테르 순환"
 71,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>생명력 흡수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 습득했습니다.
 현재 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>에테르 순환<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 단계를 그림과 같이 확인하실 수 있습니다.
@@ -242,7 +242,7 @@ int32,str
 109,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>극성 숙련 5<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 습득하였습니다.
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>역설<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 부여되면 그림과 같이 화면에 표시됩니다.
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>천상의 화염<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 최대 단계이거나 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>저승의 냉기 및 얼어붙은 마음<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 최대 단계일 때, 반대 속성으로 전환하면 왼쪽에 역설 표시가 나타나며 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>역설<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행할 수 있습니다."
-110,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일 충전 효과 향상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>특성을 습득하여, 소일이 최대 3개까지 축적됩니다.
+110,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일 충전 효과 향상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>특성을 습득하여, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 최대 3개까지 축적됩니다.
 소일은 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>곧은 총열<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>악마의 살육<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 콤보로 명중시키면 1개씩 축적되며, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>파열격<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이나 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>난폭한 송곳니<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하면 1개씩 소비됩니다."
 111,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>영혼<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득하여, 화면에 영혼 축적 상황을 나타내는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>영혼 게이지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 표시됩니다.
 특정 무기 기술을 실행하거나, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>죽음의 그림자<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 부여한 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>죽음 설계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 지속시간 안에 대상이 쓰러지면 영혼이 축적됩니다.
@@ -281,9 +281,9 @@ int32,str
 127,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>창 숙련 3<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득했습니다.
 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용안뇌전<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>용안창궁<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행하면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>천룡의 눈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 부여됩니다.
 천룡의 눈이 최대로 부여되면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>천룡점정<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 기술을 실행할 수 있습니다."
-128,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>언어 통달 효과 향상 2<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득하여, 언어 통달이 3단계까지 누적됩니다.
-천사의 언어를 30초 이상 유지하면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>금지된 언어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행할 수 있습니다.
-천사의 언어 지속시간은 게이지 우측 하단에서 확인할 수 있습니다. 금지된 언어를 실행할 수 있게 되면 게이지 하단의 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>크리스탈(언어 통달)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 불이 들어옵니다."
+128,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>언어 통달 효과 향상 2<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득했습니다. 이제 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>언어 통달<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 3단계까지 누적됩니다.
+천사의 언어를 30초 이상 유지하면 게이지 하단의 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>크리스탈(언어 통달)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 불이 들어오며, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>금지된 언어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>미지의 언어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행할 수 있습니다.
+천사의 언어 지속시간은 게이지 우측 하단에서 확인할 수 있습니다."
 129,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>천상의 화염 효과 향상<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득하여, 화면에서 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>타오르는 영혼<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 누적 단계를 확인할 수 있게 되었습니다.
 타오르는 영혼은 천상의 화염 효과 중에 '파이쟈' 또는 '플레어'를 실행하면 부여되며, 최대 단계까지 누적되면 강력한 기술인 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>타오르는 별<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행할 수 있습니다."
 130,"타오르는 영혼"
@@ -303,7 +303,11 @@ int32,str
 '송곳니 셋'은 다수의 기술이 있으며, 그중 하나를 실행하면, 다른 '송곳니 셋' 기술의 위력이 증가하는 효과가 부여됩니다.
 효과가 부여된 송곳니 셋 기술을 실행하려면 특정 콤보를 성공시켜야만 합니다.
 
-쌍송곳니의 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>칼날 강조 표현<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은 단축바의 콤보 기술 강조 표현에 대응하므로, 칼날 강조 표현에 맞춰 기술을 사용하면 추가 효과가 부여된 '송곳니 셋' 콤보로 이을 수 있습니다."
+쌍송곳니의 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>칼날 강조 표현<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은 단축바의 콤보 기술 강조 표현에 대응합니다.
+예를 들어 '송곳니 하나: 교상'에 강조 표시가 되면 왼쪽 칼날이, '송곳니 하나: 열상'에 강조 표시가 되면 오른쪽 칼날이 깜박입니다.
+또한 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>칼날 강조 표현 색깔<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>칼날 안쪽 게이지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>는 콤보 단계를 나타냅니다.
+
+'쌍송곳니'에 따라 콤보를 이어가며 싸웁시다."
 136,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>날뱀의 영혼<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>날뱀의 영혼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 화면에 표시됩니다.
 날뱀의 영혼은 특정 무기 기술을 실행하면 최대 2단계까지 부여되며, 이를 소비하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>날뱀의 꼬리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행할 수 있습니다."
 137,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>날뱀의 영혼 효과 향상<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>날뱀의 영혼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 최대 3단계까지 부여됩니다.
@@ -359,7 +363,9 @@ int32,str
 보이드 영혼을 소비하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>레무르 낫질<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이나 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>레무르의 낫<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행할 수 있습니다."
 153,"레무르 상태 지속시간과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>레무르 영혼<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 축적 상황을 확인할 수 있게 되었습니다.
 레무르 영혼을 소비하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>보이드 리퍼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나 레벨 90에 습득하는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>합일<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 등의 기술을 실행할 수 있습니다."
-154,""
+154,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>얼어붙은 영혼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 습득했습니다.
+저승의 냉기 효과 중에 얼어붙은 영혼을 실행하면 지속시간이 정지됩니다.
+얼어붙은 영혼 이외의 다른 기술을 실행해 저승의 냉기가 다시 부여되거나, 반대 속성인 천상의 화염 상태가 되면 지속시간이 재개됩니다."
 155,""
 156,""
 157,""

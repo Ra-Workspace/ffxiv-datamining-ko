@@ -553,9 +553,9 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 389,"<CommandIcon(10)/>세부 메뉴"
 390,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(10)/>세부 메뉴"
 391,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택  <CommandIcon(8)/>지도 열기"
-392,"<CommandIcon(5)/>에테라이트 선택 <CommandIcon(8)/>이동 <CommandIcon(23)/>맵 조작"
-393,"<CommandIcon(23)/>스크롤 <CommandIcon(7)/>목록 조작"
-394,"<CommandIcon(23)/>스크롤 <CommandIcon(8)/>이동 <CommandIcon(7)/>목록 조작"
+392,"<CommandIcon(5)/>에테라이트 선택 <CommandIcon(8)/>이동 <CommandIcon(11)/>직전 이동 지점 <CommandIcon(23)/>맵 조작"
+393,"<CommandIcon(23)/>스크롤 <CommandIcon(7)/>목록 조작 <CommandIcon(11)/>직전 이동 지점"
+394,"<CommandIcon(23)/>스크롤 <CommandIcon(8)/>이동 <CommandIcon(11)/>직전 이동 지점 <CommandIcon(7)/>목록 조작"
 395,"<CommandIcon(10)/>역할 변경  <CommandIcon(8)/>특정 직업 지정  <CommandIcon(11)/>이 조건으로 검색"
 396,"<CommandIcon(10)/>전체 선택/해제  <CommandIcon(11)/>이 조건으로 검색"
 397,"<CommandIcon(10)/>역할/개별 직업 선택 전환"
@@ -813,19 +813,19 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 470,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(24)/>상세 정보 스크롤"
 471,"<CommandIcon(11)/>보상 수령<CommandIcon(10)/>세부 메뉴 <CommandIcon(24)/>상세 정보 스크롤"
 472,"<CommandIcon(10)/>세부 메뉴"
-473,""
+473,"<CommandIcon(10)/>세부 메뉴"
 474,"<CommandIcon(11)/>탐색지 결정"
 475,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
 476,"<CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
 477,"<CommandIcon(8)/>대표적인 어장 표시"
 478,"<CommandIcon(10)/>세부 메뉴"
 479,"<CommandIcon(10)/>세부 메뉴"
-480,""
+480,"<CommandIcon(10)/>세부 메뉴"
 481,"<CommandIcon(18)/>무인도 조경물 투영 설치 종료"
 482,"<Gui(13)/>＋<Gui(20)/>이동 <CommandIcon(14)/><CommandIcon(15)/>회전 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
 483,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>무인도 조경물 목록"
 484,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>소지품<If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/>등록/투영 설치 목록 전환<Else/></If>"
-485,""
+485,"<CommandIcon(11)/>적용"
 486,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
 487,"<CommandIcon(10)/>세부 메뉴"
 488,"<CommandIcon(18)/>조경물 염색 종료"
@@ -1223,12 +1223,40 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 ・ 주 권한자
 ・ 자유부대 주택: 소속 부대원
 ・ 개인 주택: 동거인"
-1072,""
-1073,""
-1074,""
-1075,""
-1076,""
-1077,""
+1072,"내장 스타일 변경 설명"
+1073,"'내장 스타일 변경' 기능은
+주택의 내부 디자인을 변경하는 기능입니다.
+
+주 메뉴 '플레이어 간 교류'의 '하우징'에 있는
+'내장 스타일 변경'을 선택하면 표시되는 창에서
+원하는 스타일을 골라 실행할 수 있습니다.
+
+'내장 스타일 변경'에서는
+내벽, 바닥, 천장 조명을 제외한 전체적인 디자인이 변경됩니다.
+계단 위치나 바닥 모양이 변경되는 경우도 있습니다."
+1074,"내장 스타일 변경 이용 조건"
+1075,"'내장 스타일 변경'은 소형, 중형, 대형 토지에서 이용할 수 있습니다.
+개인실 및 아파트에서는 이용할 수 없습니다.
+
+또한, '내장 스타일 변경'은 디자인이 크게 변경되므로
+설치된 가구는 모두 창고에 수납됩니다.
+따라서 창고에 공간이 부족한 경우에는
+'내장 스타일 변경'을 실행할 수 없습니다.
+
+덧붙여 주택의 자동 철거일까지 15일 이하로 남은 경우에도
+실행할 수 없습니다."
+1076,"내장 스타일 변경 이용 권한"
+1077,"'내장 스타일 변경'은
+해당 주택의 내장 스타일 변경 권한을 가진 캐릭터만 실행할 수 있습니다.
+
+자유부대 주택의 경우
+'외장 및 내장 변경' 권한 및 
+'소품 추가, 제거, 배치 가능' 권한을
+모두 가지고 있는 부대원만 실행할 수 있습니다.
+
+개인 주택의 경우 주택 소유자 외에
+'외장, 내장, 소품 추가/제거/배치/염색' 권한을 가진
+동거인이 실행할 수 있습니다."
 1078,""
 1079,""
 1080,""
