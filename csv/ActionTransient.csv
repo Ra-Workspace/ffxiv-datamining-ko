@@ -8672,7 +8672,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 7379,""
 7380,""
 7381,"자신을 중심으로 주위 적에게 범위 물리 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력:<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 100
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 100
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 적개심 상승"
 7382,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>충의 50<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여 <If(Equal(PlayerParameter(68),19))><If(GreaterThanOrEqualTo(PlayerParameter(72),82))>8<Else/>6</If><Else/>6</If>초 동안 파티원 1명이 받는 피해량을 10% 감소시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>철벽 방어<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),19))><If(GreaterThanOrEqualTo(PlayerParameter(72),92))>극한 방어<Else/>경계</If><Else/>경계</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 적용되는 동안에 사용하면, 효과량이 10% 증가합니다.<If(Equal(PlayerParameter(68),19))><If(GreaterThanOrEqualTo(PlayerParameter(72),82))>
@@ -18995,7 +18995,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 16151,"18초 동안 대상의 HP를 지속적으로 회복합니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300<If(Equal(PlayerParameter(68),37))><If(GreaterThanOrEqualTo(PlayerParameter(72),84))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2<Else/></If><Else/></If>"
-16152,"자신의 HP를 최대 HP의 50%로 만들고, 10초 동안 일부를 제외한 대부분의 피해를 무효화합니다."
+16152,"자신의 HP가 최대 HP의 50%로 감소하고, 10초 동안 일부를 제외한 대부분의 피해를 무효화합니다."
 16153,"대상에게 물리 공격을 가하고 30초 동안 지속 피해를 줍니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 300
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60
@@ -50451,7 +50451,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>여왕의 날개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 점지
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-41505,"대상과 그 주위 적에게 범위 마법 공격을 가하고, 10초 동안 대상이 받는 피해량을 10% 증가시킵니다.
+41505,"자신을 중심으로 주위 적에게 범위 마법 공격을 가하고, 10초 동안 대상이 받는 피해량을 10% 증가시킵니다.
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 6000
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>왕의 검<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 점지
 
