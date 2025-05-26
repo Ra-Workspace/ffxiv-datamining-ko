@@ -8133,7 +8133,7 @@ int32,byte,byte,bit&01,byte,byte,byte,str,byte,WeaponTimeline,byte,byte,byte,uin
 8129,0,0,True,0,0,2,"emote_sp/sp61_loop",0,2,1,2,0,0,True,True,0,False,False,True,0,0,False
 8130,0,1,False,0,0,3,"emote_sp/sp46_start",6,2,1,2,0,0,True,True,0,False,False,True,0,0,False
 8131,0,0,True,0,0,3,"emote_sp/sp46_loop",6,2,1,2,0,0,True,True,0,False,False,True,0,0,False
-8132,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
+8132,0,1,False,0,0,3,"emote/act_emot38",0,2,1,2,0,0,True,True,0,False,False,True,0,0,False
 8133,0,1,False,0,0,2,"emote_sp/sp62_start",0,2,1,2,0,0,True,True,0,False,False,True,0,0,False
 8134,0,0,True,0,0,2,"emote_sp/sp62_loop",0,2,1,2,0,0,True,True,0,False,False,True,0,0,False
 8135,0,1,False,0,0,1,"emote_sp/sp63",0,2,1,2,0,0,True,True,0,False,False,True,0,0,False
@@ -8152,11 +8152,11 @@ int32,byte,byte,bit&01,byte,byte,byte,str,byte,WeaponTimeline,byte,byte,byte,uin
 8148,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
 8149,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
 8150,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
-8151,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
-8152,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
+8151,0,1,False,0,0,1,"emote_sp/sp69",0,2,1,2,0,0,True,True,0,False,False,True,0,0,False
+8152,0,1,False,0,1,1,"emote_sp/u_sp69",0,2,1,2,0,0,True,False,0,False,False,True,0,0,False
 8153,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
-8154,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
-8155,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
+8154,0,1,False,0,0,1,"emote_sp/sp69_high",0,2,1,2,0,0,True,True,0,False,False,True,0,0,False
+8155,0,1,False,0,0,1,"emote_sp/sp69_low",0,2,1,2,0,0,True,True,0,False,False,True,0,0,False
 8156,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
 8157,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False
 8158,0,0,False,0,0,0,"",0,0,0,0,0,0,False,False,0,False,False,False,0,0,False

@@ -12501,21 +12501,8 @@ PvP팀 등록에 동의하십니까?"
 12511,""
 12512,"나의 고향 서버"
 12513,"방문 가능한 서버"
-12514,"<If(Equal(IntegerParameter(1),2))><UIForeground>F20202</UIForeground>《데이터 센터 여행》<UIForeground>01</UIForeground>
-고향 서버와 다른 데이터 센터에 소속된 서버로 이동하는 일종의 서버 텔레포입니다. 서버 텔레포보다 제한되는 기능이 더 많으니 이용 시 주의하시기 바랍니다.
-
-<UIForeground>F20202</UIForeground>《다른 데이터 센터로 이동 시 주의 사항》<UIForeground>01</UIForeground>
-　・원래 있던 서버에 표시되는 캐릭터는 데이터 센터 여행을 마칠 때까지
-　 로그인 및 기타 조작을 할 수 없습니다.
-　・데이터 센터 여행 중에는 또 다른 데이터 센터로 직접 이동할 수 없습니다.
-　 고향 데이터 센터로 돌아간 다음, 이동할 데이터 센터를 다시 선택해야 합니다.
-　・다른 서버로 이동하여 접속을 종료한 채 30일이 지나면,
-　 자동으로 고향 서버로 돌아갑니다.
-　 단, 마지막으로 접속을 종료한 타이밍에 따라서 30일보다 더 지나고
-　 돌아가는 경우도 있습니다.
-
-<Else/></If><If(LessThan(IntegerParameter(1),2))><UIForeground>F20202</UIForeground>《서버 텔레포》<UIForeground>01</UIForeground>
-<If(Equal(IntegerParameter(1),0))>당신의 고향 서버<Else/>당신이 현재 있는 서버</If>에서 다른 서버를 방문할 수 있습니다.
+12514,"<UIForeground>F20202</UIForeground>《서버 텔레포》<UIForeground>01</UIForeground>
+당신의 고향 서버에서 다른 서버를 방문할 수 있습니다.
 방문한 서버에서는 친구와 파티를 맺거나 물건을 사는 등 평소처럼 게임을 즐길 수 있습니다.
 
 <UIForeground>F20202</UIForeground>《신청 시 주의 사항》<UIForeground>01</UIForeground>
@@ -12526,39 +12513,22 @@ PvP팀 등록에 동의하십니까?"
 　 단, 마지막으로 접속을 종료한 타이밍에 따라서 30일보다 더 지나고
 　 돌아가는 경우도 있습니다.
 
+<UIForeground>F20202</UIForeground>《다른 서버에서 제한》<UIForeground>01</UIForeground>
+다른 서버 방문 중에는 아래와 같은 기능이 제한되니 주의하십시오.
 
-<Else/></If><UIForeground>F20202</UIForeground><If(GreaterThan(IntegerParameter(1),0))>《다른 데이터센터<Else/>《다른 서버</If>에서 제한》<UIForeground>01</UIForeground>
-<If(Equal(IntegerParameter(1),1))>당신은 현재 고향 서버와는 다른 데이터 센터에 있습니다.<Else/></If><If(GreaterThan(IntegerParameter(1),0))>다른 데이터 센터<Else/>다른 서버</If> 방문 중에는 아래와 같은 기능이 제한되니 주의하십시오.
-
-<If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20202</UIForeground>친구 목록<UIForeground>01</UIForeground>
-　・다른 데이터센터에 있는 친구와 대화할 수 없습니다.
-　・다른 데이터센터에 있는 친구와 파티를 맺을 수 없습니다.
-
-<Else/></If><UIForeground>F20202</UIForeground>자유부대<UIForeground>01</UIForeground>
+<UIForeground>F20202</UIForeground>자유부대<UIForeground>01</UIForeground>
 　・자유부대를 결성하거나 자유부대에 가입할 수 없습니다.
 　・소속된 자유부대의 정보를 확인할 수 없습니다.
 　・다른 서버에서 활동하면 부대 명성이 증가하지 않습니다.
 　・자유부대 부대장이 고향 서버를 떠난 후로 35일이 지나면,
 　 부대장 권한이 다른 부대원에게 양도됩니다.
 
-<If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20202</UIForeground>서버 초월 링크셸<UIForeground>01</UIForeground>
-　・서버 초월 링크셸을 새로 결성할 수 없습니다.
-　・서버 초월 링크셸의 마스터가 될 수 없습니다.
-
-<Else/></If><UIForeground>F20202</UIForeground>링크셸<UIForeground>01</UIForeground>
+<UIForeground>F20202</UIForeground>링크셸<UIForeground>01</UIForeground>
 　・링크셸을 이용할 수 없습니다.
 　・링크셸 정보를 확인할 수 없습니다.
 　・링크셸을 결성하거나 링크셸에 가입할 수 없습니다.
 
-<If(GreaterThan(IntegerParameter(1),0))><UIForeground>F20202</UIForeground>PvP팀<UIForeground>01</UIForeground>
-　・PvP팀을 이용할 수 없습니다.
-　・PvP팀 정보를 확인할 수 없습니다.
-　・PvP팀을 결성하거나 PvP팀에 가입할 수 없습니다.
-
-<UIForeground>F20202</UIForeground>동아리<UIForeground>01</UIForeground>
-　・동아리 모집 검색 이외의 기능을 이용할 수 없습니다.
-
-<Else/></If><UIForeground>F20202</UIForeground>집사<UIForeground>01</UIForeground>
+<UIForeground>F20202</UIForeground>집사<UIForeground>01</UIForeground>
 　・집사를 불러내거나 고용 또는 해고할 수 없습니다.
 　・장터에 출품할 수 없습니다.(장터에서 구입할 수는 있습니다.)
 
@@ -12572,16 +12542,14 @@ PvP팀 등록에 동의하십니까?"
 　・다른 서버의 플레이어에게 언약식 청첩장을 줄 수 없습니다.
 
 <UIForeground>F20202</UIForeground>임무 및 기능<UIForeground>01</UIForeground>
-<If(GreaterThan(IntegerParameter(1),0))>　・'크리스탈라인 컨플릭트' 등급전에 참가할 수 없습니다.
-<Else/></If>　・'꼬마 친구 공방전' 대회에 참가할 수 없습니다.
+　・'꼬마 친구 공방전' 대회에 참가할 수 없습니다.
 　・'트리플 트라이어드' 대회에 참가할 수 없습니다.
 　・'주간 복권'을 구입하거나 교환할 수 없습니다.
 　・'모그레터'를 이용할 수 없습니다.
 　・'딥 던전' 점수가 랭킹 대상에서 제외됩니다.
 　・'언약의 반지' 및 '에테라이트 진자'의 텔레포 기능은
     서로 같은 서버에 있을 때에만 실행할 수 있습니다.
-　・광부 및 원예가로 미지 혹은 전설의 채집터를 발견할 수 없습니다.
-"
+　・광부 및 원예가로 미지 혹은 전설의 채집터를 발견할 수 없습니다."
 12515,"고향 서버"
 12516,"현재 서버"
 12517,"선택할 수 없는 서버입니다."
@@ -16333,8 +16301,13 @@ WQHD
 16456,"<If(IntegerParameter(1))> <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><Value>IntegerParameter(2)</Value><UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><Value>IntegerParameter(2)</Value></If>/<Value>IntegerParameter(3)</Value>"
 16459,"내장 스타일 변경 도움말"
 16460,""
+16461,"※ 연합 파티의 경우 각 파티 1명 이상, 총 <Value>IntegerParameter(1)</Value>명 이상으로 신청할 수 있습니다. 규정 인원수(24명) 미만인 연합 파티로 신청하는 경우 매칭되지 않습니다."
 16462,"※ 연합 파티의 경우 규정 인원수(24명)로 신청할 수 있습니다."
+16464,"제한 시간 보너스"
+16465,"임무를 완료했을 때 나타나는 보물상자에서
+특정 아이템이 나올 확률이 증가합니다."
 16466,"고향 서버의 물리 데이터 센터에서 참가 신청"
+16467,""
 16481,"현재 직업으로는 이 훈련에 도전할 수 없습니다."
 101000,"<CommandIcon(10)/>세부 메뉴"
 101001,"<CommandIcon(11)/>"
