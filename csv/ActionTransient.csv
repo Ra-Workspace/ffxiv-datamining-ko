@@ -349,7 +349,7 @@ int32,str
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과(발동률 20%)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>매의 눈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여<Else/><If(Equal(PlayerParameter(68),23))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과(발동률 20%)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>매의 눈<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 부여<Else/></If></If><Else/></If>"
 107,"10초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),70))>찬란한 화살<Else/>직선 사격</If><Else/>직선 사격</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>그림자 화살<Else/>일제 사격</If><Else/>일제 사격</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행할 수 있습니다.
-또한 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),70))>찬란한 화살<Else/>직선 사격</If><Else/>직선 사격</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행하면 무기 기술이 3발 발사되며, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>그림자 화살<Else/>일제 사격</If><Else/>일제 사격</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행하면 위력이 <If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>300<Else/>220</If><Else/>220</If>으로 증가합니다.<If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),96))>
+또한 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),70))>찬란한 화살<Else/>직선 사격</If><Else/>직선 사격</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행하면 무기 기술이 3발 발사되며, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>그림자 화살<Else/>일제 사격</If><Else/>일제 사격</If><UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행하면 위력이 <If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),72))>280<Else/>220</If><Else/>220</If>으로 증가합니다.<If(Equal(PlayerParameter(68),23))><If(GreaterThanOrEqualTo(PlayerParameter(72),96))>
 <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>공명 화살 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/></If><Else/></If>"
 108,"10초 동안 대상을 속박하여 움직이지 못하게 합니다.
 실행 후 자동 공격이 정지됩니다."
@@ -42545,7 +42545,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 34735,""
 34736,""
 34737,""
-34738,""
+34738,"재탄생의 광채로 반짝이는 불꽃을 내뿜습니다.
+※ 전투 효과는 없습니다."
 34739,""
 34740,""
 34741,""
@@ -49945,7 +49946,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 41266,""
 41267,""
 41268,""
-41269,""
+41269,"45초 동안 제작 상태가 '고품질', '견고', '안정', '고효율', '장기 지속', '빠른 진행' 중에서만 변화합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[우주 임무 전용]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 41270,""
 41271,""
 41272,""
@@ -49954,7 +49956,9 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 41275,""
 41276,""
 41277,""
-41278,""
+41278,"화려한 낚싯대 기술을 발휘하여 '낚아채기 성공률 감소' 효과를 무시하고 물고기를 낚아챕니다.
+물고기를 상처 없이 낚음으로써 높은 평가를 받을 수 있습니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[우주 임무 전용]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 41279,""
 41280,""
 41281,""
@@ -49983,7 +49987,9 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 41304,""
 41305,""
 41306,""
-41307,""
+41307,"다음에 사용하는 대담한 순화의 소장 가치 상승량이 반드시 최대로 증가합니다.
+다음에 사용하는 신중한 순화의 내구도를 소비하지 않을 확률이 40% 증가합니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>[우주 임무 전용]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 41308,""
 41309,""
 41310,""
@@ -51057,8 +51063,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 42033,""
 42034,""
 42035,""
-42036,""
-42037,""
+42036,"당근 입자탄을 세 번 연속으로 발사합니다.
+대상 자동 선택 기능을 켜면, 대상을 자동으로 선택할 수 있습니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과(발동 확률 10%)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>출력 강화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 부여합니다."
+42037,"거대 편속성 크리스탈을 한 번에 파괴할 수 있는 고출력 당근 입자탄을 발사합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>출력 강화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 42038,""
 42039,""
 42040,""
@@ -51093,7 +51102,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 42068,""
 42069,""
 42070,""
-42071,""
+42071,"전방으로 돌진하며, 로더 앞쪽에 달린 칼날로 범위 안에 있는 변이 버섯을 분쇄합니다."
 42072,""
 42073,""
 42074,""
@@ -51171,9 +51180,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 42146,""
 42147,""
 42148,""
-42149,""
-42150,""
-42151,""
+42149,"현재 있는 탐색 필드의 중앙 크리스탈로 순간이동합니다."
+42150,"루나아다만 드릴로 전방에 있는 편속성 크리스탈을 부숩니다.
+단, 거대 편속성 크리스탈에는 효과가 없습니다."
+42151,"행복 입자가 든 신호탄을 발사합니다.
+※ 전투 효과는 없습니다."
 42152,""
 42153,""
 42154,""
@@ -51286,10 +51297,11 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 42255,""
 42256,""
 42257,""
-42258,""
+42258,"액체 연료를 이용한 화염 방사기로 전방 부채꼴 범위 안에 있는 작은 변이 버섯을 소각합니다.
+단, 거대한 버섯에는 효과가 없습니다."
 42259,""
 42260,""
-42261,""
+42261,"바람속성 충격파를 발생시켜 로더 주변에 있는 변이 버섯을 파괴합니다."
 42262,""
 42263,""
 42264,""
@@ -52400,7 +52412,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 43354,""
 43355,""
 43356,""
-43357,""
+43357,"자신의 이동 속도가 50% 향상됩니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속시간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 해제 시까지"
 43358,""
 43359,""
 43360,""
@@ -52408,8 +52421,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 43362,""
 43363,""
 43364,""
-43365,""
-43366,""
+43365,"당근총의 대상 자동 선택 기능을 켭니다."
+43366,"당근총의 대상 자동 선택 기능을 끕니다."
 43367,""
 43368,""
 43369,""

@@ -25531,8 +25531,10 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18226,0,False,False,False,2,0,3,False,False,1,25,"아파히가
 타고 있던 짐승…!?"
 18227,0,False,False,False,2,0,3,False,False,1,25,"하늘에서도 공격이…!"
-18228,0,False,False,False,0,0,0,False,False,0,0,""
-18229,0,False,False,False,0,0,0,False,False,0,0,""
+18228,13859,False,False,False,4,0,1,False,False,10,25,"좋아, 너희가 활약해준 덕에 계획대로 끝날 것 같다!
+작업을 마친 사람부터 푹 쉬어!"
+18229,13859,False,False,False,4,0,1,False,False,10,25,"이봐, 진척률이 이래서야 우주 개척은 꿈도 못 꾸지 않겠어!?
+일단 작업을 중지하고 계획을 다시 세워야 하나……."
 18230,0,False,False,False,1,0,1,False,False,1,25,"0"
 18231,0,False,False,False,2,0,3,False,False,1,25,"아앗…!"
 18232,0,False,False,False,2,0,4,False,False,1,25,"대단해
@@ -25958,31 +25960,52 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18540,0,False,False,False,0,0,0,False,False,0,0,""
 18541,0,False,False,False,0,0,0,False,False,0,0,""
 18542,0,False,False,False,0,0,0,False,False,0,0,""
-18543,0,False,False,False,0,0,0,False,False,0,0,""
-18544,0,False,False,False,0,0,0,False,False,0,0,""
-18545,0,False,False,False,0,0,0,False,False,0,0,""
-18546,0,False,False,False,0,0,0,False,False,0,0,""
-18547,0,False,False,False,0,0,0,False,False,0,0,""
-18548,0,False,False,False,0,0,0,False,False,0,0,""
-18549,0,False,False,False,0,0,0,False,False,0,0,""
-18550,0,False,False,False,0,0,0,False,False,0,0,""
-18551,0,False,False,False,0,0,0,False,False,0,0,""
-18552,0,False,False,False,0,0,0,False,False,0,0,""
-18553,0,False,False,False,0,0,0,False,False,0,0,""
-18554,0,False,False,False,0,0,0,False,False,0,0,""
-18555,0,False,False,False,0,0,0,False,False,0,0,""
-18556,0,False,False,False,0,0,0,False,False,0,0,""
-18557,0,False,False,False,0,0,0,False,False,0,0,""
-18558,0,False,False,False,0,0,0,False,False,0,0,""
-18559,0,False,False,False,0,0,0,False,False,0,0,""
-18560,0,False,False,False,0,0,0,False,False,0,0,""
-18561,0,False,False,False,0,0,0,False,False,0,0,""
-18562,0,False,False,False,0,0,0,False,False,0,0,""
+18543,13859,False,False,False,4,0,1,False,False,10,25,"모두 잘 들어라……
+지금은 상상이 안 가겠지만, 여기에 엄청나게 큰 기지를 만들 거다!"
+18544,13859,False,False,False,4,0,1,False,False,10,25,"장애물을 치우고 땅을 고르면서
+그때그때 시공 작업도 진행해 다오!"
+18545,13859,False,False,False,4,0,1,False,False,10,25,"흠, 토대에 문제는 없어 보이는군……
+드디어 이동 설비 '우주 라이너'를 건설한다!"
+18546,13859,False,False,False,4,0,1,False,False,10,25,"너희에겐 꼬마 로더 정비를 맡기겠다!
+에너지를 충전해 다오!"
+18547,13859,False,False,False,4,0,1,False,False,10,25,"자, 준비는 다 됐겠지?
+지금부터 '거주 모듈'을 건설한다!"
+18548,13859,False,False,False,4,0,1,False,False,10,25,"꼬마 로더를 투입한다!
+너희에겐 에너지 충전 작업을 부탁하마!"
+18549,13859,False,False,False,4,0,1,False,False,10,25,"잘 들어라, 여기 세울 것은 바로 '우주 공항'……
+우주선이 이착륙할 시설이다!"
+18550,13859,False,False,False,4,0,1,False,False,10,25,"꼬마 로더가 쌩쌩하게 잘 굴러갈 수 있게
+에너지를 충전해 다오!"
+18551,13859,False,False,False,4,0,1,False,False,10,25,"자, 지금부터 이 녀석을
+우주에서 최고로 멋지게 고쳐 보자!"
+18552,13859,False,False,False,4,0,1,False,False,10,25,"카고에서 부품을 찾아서 일시 작업장에서 조립해 다오!
+최고로 멋진 마무리를 부탁한다!"
+18553,13859,False,False,False,4,0,1,False,False,10,25,"지금부터 여기에 터널을 뚫는다!
+힘든 작업인 건 잘 알고 있다!"
+18554,13859,False,False,False,4,0,1,False,False,10,25,"하지만 장인에게는 해야만 하는 때가 있는 법.
+다들 정신 바짝 차리자!"
+18555,13859,False,False,False,4,0,1,False,False,10,25,"승강기 건설을 위한 땅 고르기에 착수한다!
+파내고, 주워다, 옮긴다. 이것만 반복해!"
+18556,13859,False,False,False,4,0,1,False,False,10,25,"끝이 보이지 않는 작업이지만 힘을 합치면 할 수 있다!
+다들 정신 바짝 차리자!"
+18557,13859,False,False,False,4,0,1,False,False,10,25,"자, 에너지 설비를 확충한다!
+너희에겐 꼬마 로더 정비를 맡기겠다!"
+18558,13859,False,False,False,4,0,1,False,False,10,25,"텅 빈 에너지 탱크를 발견하면
+충전해서 다시 갖다 놓으면 된다!"
+18559,13859,False,False,False,4,0,1,False,False,10,25,"다음 일은 급수 설비를 정비한다!
+그러려면 꼬마 로더가 잘 굴러가 줘야 하지!"
+18560,13859,False,False,False,4,0,1,False,False,10,25,"하지만 에너지가 없으면 로더도 무용지물인 법……
+꼼꼼하게 정비해 다오!"
+18561,13859,False,False,False,4,0,1,False,False,10,25,"거의 다 왔다, 조금만 더 힘내자!
+작업 개시다!"
+18562,13859,False,False,False,4,0,1,False,False,10,25,"시공 작업도 거의 다 끝나간다!"
 18563,0,False,False,False,3,0,5,False,False,1,25,"타우루스형 요마다~!"
 18564,0,False,False,False,3,0,5,False,False,1,25,"쓰러뜨려야만
 앞으로 갈 수 있겠어"
-18565,0,False,False,False,0,0,0,False,False,0,0,""
-18566,0,False,False,False,0,0,0,False,False,0,0,""
+18565,13859,False,False,False,4,0,1,False,False,10,25,"자, 지금부터 기지의 토대를
+우주에서 최고로 멋지게 만들어 보자!"
+18566,13859,False,False,False,4,0,1,False,False,10,25,"장애물을 치우고 땅을 고르면서
+그때그때 시공 작업도 진행하며 완성해 다오!"
 18567,0,False,False,False,0,0,0,False,False,0,0,""
 18568,0,False,False,False,0,0,0,False,False,0,0,""
 18569,0,False,False,False,0,0,0,False,False,0,0,""
@@ -26016,7 +26039,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,single,bit&08,bit&10,byte,byte,str
 18597,0,False,False,False,2,0,3,False,False,1,25,"슈우우!"
 18598,0,False,False,False,0,0,0,False,False,0,0,""
 18599,0,False,False,False,0,0,0,False,False,0,0,""
-18600,0,False,False,False,0,0,0,False,False,0,0,""
+18600,0,False,False,False,2,0,3,False,False,1,25,"위~잉, 철컥~"
 18601,0,False,False,False,0,0,0,False,False,0,0,""
 18602,0,False,False,False,2,0,3,False,False,1,25,"캉~"
 18603,0,False,False,False,0,0,0,False,False,0,0,""
