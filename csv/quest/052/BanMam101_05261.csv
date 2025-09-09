@@ -1,68 +1,98 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
-1,"",""
-2,"",""
-3,"",""
-4,"",""
-5,"",""
-6,"",""
-7,"",""
-8,"",""
-9,"",""
-10,"",""
-11,"",""
-12,"",""
-13,"",""
-14,"",""
-15,"",""
-16,"",""
-17,"",""
-18,"",""
-19,"",""
-20,"",""
-21,"",""
-22,"",""
-23,"",""
-24,"",""
-25,"",""
-26,"",""
-27,"",""
-28,"",""
-29,"",""
-30,"",""
-31,"",""
-32,"",""
-33,"",""
-34,"",""
-35,"",""
-36,"",""
-37,"",""
-38,"",""
-39,"",""
-40,"",""
-41,"",""
-42,"",""
-43,"",""
-44,"",""
-45,"",""
-46,"",""
-47,"",""
-48,"",""
-49,"",""
-50,"",""
-51,"",""
-52,"",""
-53,"",""
-54,"",""
-55,"",""
-56,"",""
-57,"",""
-58,"",""
-59,"",""
-60,"",""
-61,"",""
-62,"",""
-63,"",""
-64,"",""
+0,"TEXT_BANMAM101_05261_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
+
+고크골마 농원에 있는 카게쟈는 제초제의 재료를 구하고 싶은 모양이다."
+1,"TEXT_BANMAM101_05261_SEQ_01","카게쟈에게 의뢰받은 물품 납품"
+2,"TEXT_BANMAM101_05261_SEQ_02",""
+3,"TEXT_BANMAM101_05261_SEQ_03",""
+4,"TEXT_BANMAM101_05261_SEQ_04",""
+5,"TEXT_BANMAM101_05261_SEQ_05",""
+6,"TEXT_BANMAM101_05261_SEQ_06",""
+7,"TEXT_BANMAM101_05261_SEQ_07",""
+8,"TEXT_BANMAM101_05261_SEQ_08",""
+9,"TEXT_BANMAM101_05261_SEQ_09",""
+10,"TEXT_BANMAM101_05261_SEQ_10",""
+11,"TEXT_BANMAM101_05261_SEQ_11",""
+12,"TEXT_BANMAM101_05261_SEQ_12",""
+13,"TEXT_BANMAM101_05261_SEQ_13",""
+14,"TEXT_BANMAM101_05261_SEQ_14",""
+15,"TEXT_BANMAM101_05261_SEQ_15",""
+16,"TEXT_BANMAM101_05261_SEQ_16",""
+17,"TEXT_BANMAM101_05261_SEQ_17",""
+18,"TEXT_BANMAM101_05261_SEQ_18",""
+19,"TEXT_BANMAM101_05261_SEQ_19",""
+20,"TEXT_BANMAM101_05261_SEQ_20",""
+21,"TEXT_BANMAM101_05261_SEQ_21",""
+22,"TEXT_BANMAM101_05261_SEQ_22",""
+23,"TEXT_BANMAM101_05261_SEQ_23",""
+24,"TEXT_BANMAM101_05261_TODO_00","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>세노테 네요조테 부근의 광맥에서
+ <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>카게쟈에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>세노테 네요조테 부근의 성목에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>카게쟈에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>세노테 모슈투랄에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>카게쟈에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
+25,"TEXT_BANMAM101_05261_TODO_01",""
+26,"TEXT_BANMAM101_05261_TODO_02",""
+27,"TEXT_BANMAM101_05261_TODO_03",""
+28,"TEXT_BANMAM101_05261_TODO_04",""
+29,"TEXT_BANMAM101_05261_TODO_05",""
+30,"TEXT_BANMAM101_05261_TODO_06",""
+31,"TEXT_BANMAM101_05261_TODO_07",""
+32,"TEXT_BANMAM101_05261_TODO_08",""
+33,"TEXT_BANMAM101_05261_TODO_09",""
+34,"TEXT_BANMAM101_05261_TODO_10",""
+35,"TEXT_BANMAM101_05261_TODO_11",""
+36,"TEXT_BANMAM101_05261_TODO_12",""
+37,"TEXT_BANMAM101_05261_TODO_13",""
+38,"TEXT_BANMAM101_05261_TODO_14",""
+39,"TEXT_BANMAM101_05261_TODO_15",""
+40,"TEXT_BANMAM101_05261_TODO_16",""
+41,"TEXT_BANMAM101_05261_TODO_17",""
+42,"TEXT_BANMAM101_05261_TODO_18",""
+43,"TEXT_BANMAM101_05261_TODO_19",""
+44,"TEXT_BANMAM101_05261_TODO_20",""
+45,"TEXT_BANMAM101_05261_TODO_21",""
+46,"TEXT_BANMAM101_05261_TODO_22",""
+47,"TEXT_BANMAM101_05261_TODO_23",""
+48,"TEXT_BANMAM101_05261_KAGEELJA_000_000","모종은 순조롭게 자라고 있지만
+흙이 좋은 덕분인지 잡초도 덩달아 마구 자라고 있어.
+손으로 일일이 뽑기엔 한계가 있어서 곤란한 상황이야……."
+49,"TEXT_BANMAM101_05261_KAGEELJA_000_001","그래서 앙기르 씨에게 전수받은 제초제를 시험해 볼까 해.
+혹시 괜찮다면 필요한 재료를 구해 와 줄 수 있을까?"
+50,"TEXT_BANMAM101_05261_KAGEELJA_000_002","앙기르 씨의 제초제는 효과가 뛰어나서 큰 도움이 돼.
+하지만 잡초는 제거해도 계속 자라니까
+정기적으로 사용해야만 하지."
+51,"TEXT_BANMAM101_05261_KAGEELJA_000_003","매번 미안하지만 제초제 재료를
+한 번만 더 구해 와 주면 안 될까?"
+52,"TEXT_BANMAM101_05261_KAGEELJA_000_005","부탁할 재료는 '<Sheet(Item,48024,0)/>'<13>FF0F02280BFF054974656DF2BB980103FF04EC95BCFF07EC9DB4EC95BC</13>.
+세노테 네요조테 부근에서 구할 수 있는데
+그 일대는 어두우니까 길을 헤매지 않도록 조심해."
+53,"TEXT_BANMAM101_05261_KAGEELJA_000_006","부탁할 재료는 '<Sheet(Item,48025,0)/>'<13>FF0F02280BFF054974656DF2BB990103FF04EC95BCFF07EC9DB4EC95BC</13>.
+세노테 네요조테 부근에서 구할 수 있는데
+그 일대는 어두우니까 길을 헤매지 않도록 조심해."
+54,"TEXT_BANMAM101_05261_KAGEELJA_000_007","부탁할 재료는 '<Sheet(Item,48026,0)/>'<13>FF0F02280BFF054974656DF2BB9A0103FF04EC95BCFF07EC9DB4EC95BC</13>.
+세노테 모슈투랄 근처에서 낚을 수 있는데
+그 부근은 어두우니까 길을 헤매지 않도록 조심해."
+55,"TEXT_BANMAM101_05261_KAGEELJA_000_008","참, 낚을 때는 '<Sheet(Item,43849,0)/>'<13>FF0F02280BFF054974656DF2AB490103FF04EBA5BCFF04EC9D84</13> 쓰면 좋대."
+56,"TEXT_BANMAM101_05261_KAGEELJA_000_010","제초제 재료인
+'<Sheet(Item,48024,0)/>'<13>FF0F02280BFF054974656DF2BB980103FF04EBA5BCFF04EC9D84</13> 조달해 줘.
+세노테 네요조테 부근에서 구할 수 있어."
+57,"TEXT_BANMAM101_05261_KAGEELJA_000_011","제초제 재료인
+'<Sheet(Item,48025,0)/>'<13>FF0F02280BFF054974656DF2BB990103FF04EBA5BCFF04EC9D84</13> 조달해 줘.
+세노테 네요조테 부근에서 구할 수 있어."
+58,"TEXT_BANMAM101_05261_KAGEELJA_000_012","세노테 모슈투랄에서
+제초제 재료인 '<Sheet(Item,48026,0)/>'<13>FF0F02280BFF054974656DF2BB9A0103FF04EBA5BCFF04EC9D84</13> 조달해 줘.
+'<Sheet(Item,43849,0)/>'<13>FF0F02280BFF054974656DF2AB490103FF04EBA5BCFF04EC9D84</13> 쓰면 낚을 수 있을 거야."
+59,"TEXT_BANMAM101_05261_KAGEELJA_000_015","제초제 재료는 발견했어?"
+60,"TEXT_BANMAM101_05261_KAGEELJA_000_016","고마워!
+이 정도 양이면 충분할 것 같아."
+61,"TEXT_BANMAM101_05261_KAGEELJA_000_017","지금까지 잡초는 손으로 뽑을 수 있는 정도였는데
+지금은 손댈 엄두도 안 날 만큼 넓게 퍼졌어.
+솔직히 말하면 즐거운 비명이라고나 할까?"
+62,"TEXT_BANMAM101_05261_KAGEELJA_000_018","그만큼 이곳의 생육 환경이 좋아졌다는 뜻이니까.
+우리 미래는 이 숲처럼 어둡기만 한 줄 알았는데……
+내 마음에도 희망의 싹이 서서히 움트는 기분이야."
+63,"TEXT_BANMAM101_05261_KAGEELJA_000_019","그나저나 토질을 개선하니 잡초까지 쑥쑥 자랄 줄이야.
+그만큼 생육 환경이 좋아졌다는 실감은 나지만,
+소중한 작물을 위해서 잡초는 제거해야지."
+64,"TEXT_BANMAM101_05261_KAGEELJA_000_020","당신이 구해 와 준 재료로 당장 제초제를 만들어 봐야겠어.
+아, 다음에 또 부탁해도 되지?"

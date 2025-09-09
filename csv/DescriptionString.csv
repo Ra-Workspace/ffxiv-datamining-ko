@@ -4111,7 +4111,6 @@ B51에서 입장하면 레벨 60으로 공략이 시작됩니다.
 전투를 통해 경험치를 획득하고 망자의 궁전 전용 레벨을 올리세요.
 
 망자의 궁전 전용 레벨은 퇴장 후에는 영향을 주지 않지만
-입장 시 클래스/잡 레벨이 90 미만이었다면
 공략을 완료한 층에 따라, 퇴장 시에 경험치를 얻을 수 있습니다."
 801,"기술 습득에 대해서"
 802,"망자의 궁전 안에서 전투로 레벨을 올리다 보면
@@ -4288,7 +4287,6 @@ B1~B50까지의 점수는 가산되지 않습니다.
 전투를 통해 경험치를 획득하고 천궁탑 전용 레벨을 올리세요.
 
 천궁탑 전용 레벨은 퇴장 후에는 영향을 주지 않지만
-입장 시 클래스/잡 레벨이 90 미만이었다면
 공략을 완료한 층에 따라, 퇴장 시에 경험치를 얻을 수 있습니다."
 842,"천궁탑 입장 시 주의점"
 843,"고난도 임무인 31층 이후부터는
@@ -4419,7 +4417,6 @@ B21에서 입장하면 레벨 90으로 공략이 시작됩니다.
 전투를 통해 경험치를 획득하고 에우레카 오르토스 전용 레벨을 올리세요.
 
 에우레카 오르토스 전용 레벨은 퇴장 후에는 영향을 주지 않지만
-입장 시 클래스/잡 레벨이 90 미만이었다면
 공략을 완료한 층에 따라, 퇴장 시에 경험치를 얻을 수 있습니다."
 864,"에우레카 오르토스 입장 시 주의점"
 865,"고난도 임무인 B31 이후부터는
@@ -5801,69 +5798,279 @@ HUD 왼쪽에 표시되는 아이콘으로 적개심을 확인할 수 있습니�
 적 이름 옆에 표시되는 '시전바'에서 시전 진행도를 확인할 수 있으며,
 게이지가 가득 차면 공격이 발동합니다."
 1172,"또한, 즉시 발동 공격은 '시전바'가 표시되지 않습니다."
-1199,""
-1200,""
-1201,""
-1202,""
-1203,""
-1204,""
-1205,""
-1206,""
-1207,""
-1208,""
-1209,""
-1210,""
-1211,""
-1212,""
-1213,""
-1214,""
-1215,""
-1216,""
-1217,""
-1218,""
-1219,""
-1220,""
-1221,""
-1222,""
-1223,""
-1224,""
-1225,""
-1226,""
-1227,""
-1228,""
+1199,"개요"
+1200,"지식 레벨"
+1201,"서포트 잡"
+1202,"임무 내 파티 기능"
+1203,"연속 처치 보너스"
+1204,"비상 조우"
+1205,"포크 타워"
+1206,"임무 내 전용 화폐"
+1207,"필드에서 발생하는 여러 요소"
+1208,"특수 장비"
+1209,"초승달 섬에 대해서"
+1210,"지식 레벨에 대해서"
+1211,"지식 레벨 상승"
+1212,"전투불능 시의 페널티에 대해서 "
+1213,"서포트 잡에 대해서"
+1214,"서포트 잡 육성과 서포트 기술 습득에 대해서"
+1215,"서포트 기술 사용법"
+1216,"서포트 특성에 대해서"
+1217,"새로운 서포트 잡 습득에 대해서"
+1218,"서포트 자유직에 대해서"
+1219,"적정 파티에 대해서"
+1220,"지식 레벨 조율에 대해서"
+1221,"연속 처치 보너스에 대해서"
+1222,"비상 조우에 대해서"
+1223,"참가 방법에 대해서"
+1224,"포크 타워에 대해서"
+1225,"포크 타워: 힘의 탑 참가에 대해서"
+1226,"임무 내 특수 화폐에 대해서"
+1227,"지식 크리스탈에 대해서"
+1228,"필드 내 보물상자에 대해서"
 1229,""
-1230,""
+1230,"특수 장비에 대해서"
 1231,""
-1232,""
-1233,""
-1234,""
-1235,""
-1236,""
-1237,""
-1238,""
-1239,""
-1240,""
-1241,""
-1242,""
-1243,""
-1244,""
-1245,""
-1246,""
-1247,""
-1248,""
-1249,""
-1250,""
-1251,""
-1252,""
-1253,""
-1254,""
-1255,""
-1256,""
-1257,""
-1258,""
-1259,""
+1232,"'초승달 섬'은
+죽음의 삼각해역에 존재하는 '초승달 섬'을 무대로
+전투와 탐색을 통해 섬에 숨겨진 수수께끼를 풀어나가는 임무입니다."
+1233,"■ 기본 정보
+이 임무는 개인, 파티, 또는 9~48명으로 이루어진 연합 파티로
+입장할 수 있습니다.
+개인으로 입장한 다음에 임무 안에서 파티에 참가할 수도 있습니다.
+
+■ 참가 조건
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>레벨 100 이상인 전투 직업<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로만 참가할 수 있습니다.
+또한 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>평균 아이템 레벨이 690 이상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이어야만 합니다.
+
+■ 임무 제약 사항
+레벨 100 이상인 전투 직업에 한해 어디서든 직업을 변경할 수 있습니다.
+단, '비상 조우' 같은 특수 전투에 참가하는 등,
+일부 상황에서는 직업을 변경할 수 없습니다.
+
+임무 중에는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>캐릭터 레벨 100, 아이템 레벨 700으로 레벨이 조율됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1234,"'초승달 섬'에서는
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>'지식 레벨'이라 불리는 독자적인 레벨이 적용되며
+레벨 1 상태에서 시작하게 됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+해당 임무에서의 전투는
+적과 아군의 레벨 차이에 따라 큰 영향을 받으므로
+자신보다 레벨이 높은 마물과 전투할 때는 주의해야 합니다."
+1235,"해당 임무에서는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>마물을 쓰러뜨리거나
+관련 퀘스트를 완료하여
+'지식'이라는 경험치를 얻을 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자신보다 '지식 레벨'이 높은 마물을 쓰러뜨리면
+평소보다 많은 지식을 얻을 수 있으므로<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+파티를 맺어
+혼자서는 이기지 못할 마물을 노려보는 것도 좋습니다.
+
+또한 해당 임무의 필드 곳곳에서 발생하는
+특수 전투인 '비상 조우' 또는 돌발 임무에 참여하여
+지식을 얻을 수도 있습니다.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지식 레벨 및 지식은 임무에서 퇴장한 후에도 보존되며
+재입장 시 지난번 수치를 이어받습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+지식 레벨이 오르면
+모험할 수 있는 범위가 점차 넓어집니다."
+1236,"'초승달 섬'에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>전투불능이 되었을 때
+부활하지 못한 채 거점으로 귀환하면,
+자신의 '지식 레벨'에 따라 일정량의 '지식'이 감소합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+전투불능 상태로 임무에서 퇴장할 때도 동일하게 지식이 감소합니다.
+
+또한 지식 레벨이 5 미만일 때는 지식이 감소하지 않지만
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지식 레벨이 5 이상일 때
+지식이 0 이하가 되면 지식 레벨이 감소합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1237,"'초승달 섬'에서는
+특이한 성능을 지닌 '서포트 잡'의 힘을 다룰 수 있습니다.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>서포트 잡을 설정하면
+다양한 효과가 있는 '서포트 기술'을 사용할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+서포트 잡은 한 번에 하나만 설정할 수 있지만,
+특정 상황을 제외하면 언제든지 변경할 수 있으니
+상황에 맞춰 적절하게 사용해 보세요.
+"
+1238,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>'서포트 잡'을 설정한 상태로 전투에서 승리하면 '서포트 경험치'를 획득하며
+일정 수준에 도달하면 서포트 잡 레벨이 오릅니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+서포트 잡 레벨이 오르면
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>공격, 회복, 보조 등 다양한 효과가 있는 서포트 기술을 습득합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+서포트 기술을 사용하면 임무 중에 전투를 유리하게 진행할 수 있으니
+서포트 잡을 적극적으로 육성해 보세요."
+1239,"습득한 서포트 기술은
+'초승달 섬' 임무 중에만 표시되는
+'서포트 기술 고리'에 등록됩니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ '임무용 기술 HUD'에 표시됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1240,"다음과 같은 방법으로 서포트 기술을 실행할 수 있습니다.
+
+<If(Equal(PlayerParameter(80),0))>■ 마우스 조작
+HUD에 표시된 서포트 기술을 직접 클릭하여 실행합니다.
+
+■ <If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 조작
+기존 임무용 기술과 마찬가지로
+십자 단축바를 실행한 상태에서 <Gui(17)/>버튼을 눌러
+사용할 기술을 '변경'하거나 '실행'합니다.
+<CommandIcon(14)/>+<Gui(17)/>: 서포트 기술 변경
+<CommandIcon(15)/>+<Gui(17)/>: 서포트 기술 실행
+<Else/>■ <If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 조작
+기존 임무용 기술과 마찬가지로
+십자 단축바를 실행한 상태에서 <Gui(17)/>버튼을 눌러
+사용할 기술을 '변경'하거나 '실행'합니다.
+<CommandIcon(14)/>+<Gui(17)/>: 서포트 기술 변경
+<CommandIcon(15)/>+<Gui(17)/>: 서포트 기술 실행
+
+■ 마우스 조작
+HUD에 표시된 서포트 기술을 직접 클릭하여 실행합니다.
+</If>
+■ 단축바/십자 단축바 등록 방법: 임무용 기술
+기술 목록에 있는 '임무' 항목에 등록된
+'임무용 기술 1~2'를 단축바에 등록하면
+임무 중에는 서포트 기술 변경 및 실행으로 자동 전환됩니다.
+따라서 일반 단축바처럼 조작할 수 있습니다.
+
+■ 단축바/십자 단축바 등록 방법: 서포트 기술
+기술 목록에 있는 '임무' 항목에 등록된
+'서포트 기술 1~5'를 단축바에 등록하면
+임무 중에는 서포트 잡에 해당하는 기술로 자동 전환됩니다.
+따라서 일반 단축바처럼 조작할 수 있으며
+각 기술을 직접 실행할 수 있습니다."
+1241,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>'서포트 잡' 레벨이 오르면
+서포트 잡에 맞는 '서포트 특성'을 습득할 때가 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+단독으로 사용할 수 있는 기술은 아니지만,
+서포트 기술 효과를 더욱 강화하거나
+특수한 기능을 습득하는 등, 공략에 요긴하게 활용할 수 있습니다.
+서포트 특성을 습득하면 우선 어떤 효과인지 확인해 보세요."
+1242,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>고대의 마법과 전투 기술 지식이 담긴 '소울 샤드'라는 아이템을 사용하면
+새로운 서포트 잡을 습득할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+소울 샤드는 상점에서 구입하거나 특정 비상 조우를 공략하는 등
+다양한 방법으로 얻을 수 있습니다.
+필드를 모험하며 모아 보세요!"
+1243,"처음부터 선택할 수 있는 직업인 '서포트 자유직'은
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>탐색에 유용한 기술을 습득할 수 있는 기초 서포트 잡입니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+이 서포트 잡은 '서포트 경험치'를 획득하지 않기 때문에
+일반적인 방법으로는 레벨을 올릴 수 없지만,
+그 대신 다른 서포트 잡에 통달하면
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>통달한 서포트 잡 하나당 레벨이 1씩 오릅니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> "
+1244,"'초승달 섬'에서 다른 플레이어와 파티를 맺었을 때,
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파티원의 '지식 레벨' 차이가 3 이하면
+'적정 파티'로 판정됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1245,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>적정 파티를 짜서 필드에 서식하는 마물을 쓰러뜨리면
+'서포트 경험치' 획득량이 10% 증가합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+적정 파티인 경우에는
+마물과 전투할 때 바탕이 되는 지식 레벨이
+자신의 레벨이 아닌, 파티원 전원의 평균치로 설정됩니다.
+지식 레벨이 높은 마물과 싸울 때는
+파티원 전원이 동일한 조건에서 전투할 수 있는 장점이 있으니
+적극적으로 적정 파티를 맺어 모험해 보세요."
+1246,"'적정 파티'가 아닌 경우에는
+전투 시에 바탕이 되는 '지식 레벨'이 각 파티원의 레벨로 설정되므로
+레벨 차이가 나는 적과 싸울 때, 파티 내 전력이 불균형해집니다.
+
+그런 상황을 피하려면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파티장이 현재 파티를 대상으로
+'지식 레벨 조율' 기능을 적용하면 됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+지식 레벨을 조율하면
+파티에서 가장 지식 레벨이 낮은 플레이어보다
+'3' 이상 높은 플레이어의 지식 레벨이 자동으로 조율됩니다.
+이 기능을 활용하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자동으로 적정 파티를 만들 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1247,"'초승달 섬'에서는
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>특정한 조건으로 마물을 쓰러뜨리면
+'연속 처치 보너스'가 발생하여 보상이 증가합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+연속 처치 보너스 발생 조건은 기본적으로
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자신이나 파티보다 '지식 레벨'이 높은 마물을 쓰러뜨리는 것<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이지만
+플레이어의 파티 구성에 따라 필요한 레벨 차이의 수치가 달라집니다.
+
+단독: 레벨 차이 2
+파티원 2인: 레벨 차이 3
+파티원 3~4인: 레벨 차이 4~5
+파티원 5~6인: 레벨 차이 6~7
+파티원 7~8인: 레벨 차이 7~8"
+1248,"또한 조건을 충족하는 마물을 규정된 시간 내에 잇달아 쓰러뜨리면
+연속 처치 보너스가 증가합니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>레벨 차이가 크면 클수록 연속 처치 보너스가 늘어나므로<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+파티를 짜서 더 많은 보상을 노려보세요."
+1249,"'비상 조우'란
+초승달 섬에 나타나는 강적에 맞서
+플레이어들이 하나가 되어 도전하는 특수한 전투입니다.
+전용 구역에서 벌어지는 이 전투에는 최대 72명이 참가할 수 있으며
+승리하면 많은 '지식'을 비롯하여 다양한 보상을 얻을 수 있습니다.
+
+비상 조우에서는
+필드에 있는 마물과 달리 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지식 레벨 차이에 영향을 받지 않으므로<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+레벨을 신경 쓰지 말고 적극적으로 참가해 보세요.
+
+또한 특수 조건을 만족한 상태로 비상 조우에서 승리하면
+자신을 크게 강화하는 특수 상태가 부여되기도 합니다."
+1250,"'비상 조우'는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>발생 지점에 가까이 가면 자동으로 참가할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+직접 현지에 가야 하므로
+위험한 마물이 있는 구역을 지나갈 때는 세심한 주의를 기울이세요."
+1251,"'포크 타워'란
+'초승달 섬'의 최고 난이도 레이드 임무입니다.
+
+참가 인원은 최대 48명으로
+타워 안에는 강력한 마물과 여러 장치들이 기다리고 있습니다.
+
+참가자끼리 협력하고, 서포트 잡의 힘도 마음껏 발휘하여
+완료해 보시기 바랍니다!"
+1252,"'포크 타워: 힘의 탑'에 도전하려면
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>'지식 레벨'이 '20' 이상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이어야 합니다.
+
+또한 포크 타워: 힘의 탑으로 가는 전송 마법문양을 기동해야 하며
+전송 마법문양을 기동하려면 '마법문양 기동증: 힘의 탑'을 사용해야 합니다.
+※ 일부 UI에서는 '기동증: 힘의 탑' 또는 '기동증'으로 표기되는 경우도 있습니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>'마법문양 기동증: 힘의 탑'은
+거점에 있는 '탐사대 동전 감정사'에게 구입할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1253,"전송 마법문양은 초기에는 힘을 잃은 상태지만
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>일정 시간 안에 최소 16명의 플레이어가
+전송 마법문양 기동등에 마법문양 기동증: 힘의 탑을 사용하면
+활성화됩니다.
+이때 전송 마법문양에 기동증을 사용한 최대 48명의 플레이어에게는
+'우선 입장: 포크 타워'가 부여됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+전송 마법문양이 활성화되고 일정 시간이 경과하면
+전송 마법문양 위에 있는 최대 48명의 플레이어가
+포크 타워: 힘의 탑으로 전송됩니다.
+
+48명 이상의 플레이어가 전송 마법문양 위에 있는 경우
+기동증을 많이 사용한 플레이어일수록 참가자로 선발될 확률이 높으므로
+반드시 입장하고 싶다면 기동증을 더 많이 사용해보세요."
+1254,"'초승달 섬'에는
+'열두 도시 은화'와 '열두 도시 금화' 이렇게 두 종류의 화폐가 존재합니다."
+1255,"■ 열두 도시 은화
+주로 비상 조우 또는 돌발 임무를 공략하여 얻을 수 있습니다.
+
+■ 열두 도시 금화
+주로 필드의 마물을 토벌하여 얻을 수 있습니다.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>두 화폐 모두 거점의 '탐사대 동전 감정사'에게 건네면 다양한 아이템과 교환할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1256,"'초승달 섬'에는
+'지식 크리스탈'이라고 불리는 유적이 존재합니다."
+1257,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지식 크리스탈은 특정 서포트 기술에 반응하여
+파티원에게 여러 가지 혜택을 줍니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+지식 크리스탈을 잘 이용하여 유리하게 공략해 보세요."
+1258,"'초승달 섬'에서는
+다양한 장소에서 보물상자를 발견할 수 있습니다."
+1259,"이 보물상자는 다른 플레이어의 눈에는 보이지 않고
+오로지 자신만이 획득할 수 있는 보물상자입니다.
+모험 중 보물상자를 찾으면 적극적으로 열어 보세요."
 1260,""
-1261,""
+1261,"'초승달 섬'에서는
+전용 상점에서 특수 장비를 입수할 수 있습니다.
+
+그 특수 장비 중에는 임무 내에서만 효력이 있는
+뛰어난 효과를 가진 장비도 있습니다.
+
+특히 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>'특수 보정'이라는 능력치가 증가하면
+서포트 기술이 주는 피해량이 증가합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+또한 거점의 '탐사대 의복 담당'에게 의뢰하면
+다양한 아이템과 교환하여 장비를 강화할 수 있습니다."
 1262,""
 1263,"병기 전송장치"
 1264,"전투가 시작되고 시간이 흐르면, '병기 전송장치' 이벤트가 발생합니다.
@@ -6134,12 +6341,12 @@ NPC '알레롯'에게 말을 걸어 달 화폐와 교환할 수 있습니다.
 자세한 내용은 '우주 임무 특수 규칙' 항목을 확인하세요."
 1345,"우주 개척 계획 기구에서는
 일정 기간마다 계획에 공헌한 참가자의 활동 데이터를 수집합니다.
-수집한 데이터를 수치로 나타낸 것을 ‘계획 공헌도’라고 합니다.
+수집한 데이터를 수치로 나타낸 것을 '계획 공헌도'라고 합니다.
 
 기간 중 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>서버 내에서 계획 공헌도가 가장 높은 플레이어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를
 계획 기구에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>최우수 공헌자<UIGlow>01</UIGlow><UIForeground>01</UIForeground>로 선정합니다.
 
-집계 대상인 ‘데이터 수집 기간’은 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><ResetTime>13</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시(현실 시간)부터 다음 날 <ResetTime>13</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시까지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이며,
+집계 대상인 '데이터 수집 기간'은 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><ResetTime>13</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시(현실 시간)부터 다음 날 <ResetTime>13</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시까지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이며,
 데이터 수집 기간이 끝난 뒤 24시간이 지나면
 다음 데이터 수집 기간이 시작됩니다.
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 점검 등으로 플레이할 수 없는 시간이 있는 경우에는
@@ -6551,17 +6758,49 @@ C급 이상 임무의 개방 조건은 임무 선택 목록에서 확인할 수 
 개척 단말기에 있는 '클래스 기술 점수 확인'을 선택하면
 기술 점수 획득량을 확인할 수 있습니다."
 1405,""
-1406,""
-1407,""
-1408,""
-1409,""
-1410,""
-1411,""
+1406,"서포트 잡 변경과 상세 정보 확인"
+1407,"촉매 아이템이 필요한 서포트 기술에 대해서"
+1408,"행운토끼에 대해서"
+1409,"마법 항아리에 대해서"
+1410,"서포트 잡의 기술과 특성은
+전용 HUD에 있는 캐릭터 아이콘을 선택하면 표시되는
+서포트 잡 창에서 확인할 수 있습니다."
+1411,"또, 서포트 잡 창에 있는 캐릭터 아이콘을 선택하면
+습득한 서포트 잡 목록이 표시되며,
+각 아이콘을 클릭하면 서포트 잡을 변경할 수 있습니다."
 1412,""
-1413,""
-1414,""
-1415,""
-1416,""
-1417,""
-1418,""
-1419,""
+1413,"서포트 약사가 사용하는 서포트 기술 '마기 포션'이나
+서포트 사무라이가 사용하는 서포트 기술 '돈 던지기' 같은
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>일부 서포트 기술은 사용할 때마다 전용 아이템이 소비됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+사용에 필요한 아이템은
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>'탐사대 보급 담당'과 '탐사대 동전 감정사'에게서
+길 또는 임무 내 특수 화폐로 구매할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1414,"'초승달 섬'에서는
+필드에 있는 보물상자에서 '재물당근'이라는 아이템을 얻을 수 있습니다.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>재물당근을 가지고 있으면
+초승달 섬 곳곳에서 발견할 수 있는 '행운토끼의 흔적'에서 사용하여
+'행운토끼'를 불러낼 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1415,"나타난 행운토끼는 재물당근에 대한 답례로 보물상자를 남깁니다.
+재물당근을 얻으면 행운토끼의 흔적을 찾아보세요."
+1416,"'초승달 섬'에서는
+이따금 마법 항아리가 섬에 있는 마물에게 공격당하는 돌발 임무가 발생합니다."
+1417,"이 돌발 임무를 완료하면
+일정 공헌도를 획득한 플레이어 중 추첨을 통해 20명에게 마법 엘릭서를 부여합니다.
+그리고 엘릭서를 달라고 조르는 '떼쟁이 항아리'가 뒤를 따라오게 됩니다.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>떼쟁이 항아리는 땅속에 묻혀 있는 보물의 위치를 알고 있으며
+마법 엘릭서를 사용할 때마다 답례로 방향과 거리를 알려줍니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+반복하여 안내를 받으며 보물을 찾아보세요.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 비상 조우 등에 참가할 경우
+뒤를 따라오던 떼쟁이 항아리는 사라지므로
+주의하시길 바랍니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+1418,"서포트 잡 통달에 대해서"
+1419,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>서포트 잡 레벨을 최대로 올리면 '통달'하게 되고
+강화 상태인 '서포트 잡 통달'이 부여되어
+주는 피해량 증가 등의 유리한 효과를 받을 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+강화 상태는 서포트 잡을 변경해도 사라지지 않고
+통달한 서포트 잡의 숫자만큼 효과가 강해지므로
+레벨을 적극적으로 올려 보세요."
