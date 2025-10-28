@@ -49,11 +49,26 @@ int32,str,str
 앞으로도 꾸준한 활약을 기대할게요!"
 20,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_080","보아하니 이번에는 아직 활동 데이터가 없나 보네요.
 계속해서 계획에 협력을 부탁드릴게요."
-21,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_000","제 임무는 협력자 여러분의 활동을 기록하는 일이에요.
+21,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_090","세상에, 이게 누구야…… 최우수 공헌자이신
+<Highlight>ObjectParameter(1)</Highlight> 님 아니세요!
+계속해서 계획에 협력을 부탁드릴게요!"
+22,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_100","세상에, 이게 누구야…… 최우수 공헌자이신
+<Highlight>ObjectParameter(1)</Highlight> 님 아니세요!"
+23,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_110","이번 데이터 수집 기간부터
+다시 최우수 공헌자 선정 대상으로 등록해 드리겠습니다.
+계속해서 계획에 협력을 부탁드릴게요!"
+24,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_120","앗 이런, 죄송해요……
+이번 기간에 수집한 공헌도를 확인하신다고 하셨죠?
+어디 보자…… 자, 데이터 조회에 성공했어요!"
+25,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_010","최우수 공헌자로 선정되신 기간 동안에는
+중복으로 선정 대상에 포함되지 않습니다."
+26,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_020","현실 시간으로 <Time(IntegerParameter(1))/><Value>TopLevelParameter(221)</Value>월 <Value>TopLevelParameter(219)</Value>일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터 시작된 데이터 수집 기간부터
+다시 최우수 공헌자 선정 대상에 포함됩니다."
+27,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_000","제 임무는 협력자 여러분의 활동을 기록하는 일이에요.
 수집한 데이터를 계획 효율화에 이용하는 건 물론이고
 여러분의 공헌을 정확하게 파악하고 보상을 드리기 위해서죠."
-22,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_010","예를 들면 기간 안에 가장 크게 활약하신 분을
+28,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_010","예를 들면 기간 안에 가장 크게 활약하신 분을
 최우수 공헌자로 선정해 상을 드리기도 하죠.
 당신이 뽑히는 날이 올지도 몰라요!"
-23,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_020","혹시 궁금한 게 있으시면
+29,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_020","혹시 궁금한 게 있으시면
 개척 단말기를 확인해 보세요!"

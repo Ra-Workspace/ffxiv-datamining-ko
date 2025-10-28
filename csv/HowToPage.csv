@@ -358,7 +358,7 @@ int32,byte,byte,Image,byte,str,str,str
 168,0,0,0,0,"","",""
 169,0,0,0,0,"","",""
 170,1,0,150361,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>휴식 지역<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 들어왔습니다!
-휴식 지역에 들어오면 경험치바 밑에 아이콘이 생깁니다.
+휴식 지역에 들어오면 경험치바 오른쪽에 아이콘이 생깁니다.
 
 휴식 지역에 머무는 동안에는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>휴식 보너스<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 쌓이며, 휴식 지역에서 접속을 종료한 동안에도 보너스가 쌓입니다.","",""
 171,1,0,150362,0,"휴식 보너스가 쌓이면 전투, 제작, 채집으로 얻는 경험치가 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>50%<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 추가됩니다.","",""
@@ -3683,8 +3683,14 @@ RP는 다른 모험가와 대결했을 때의 승패에 따라 변화합니다.
 '고품질', '최고품질' 등과는 다른
 여러 상태로 변화할 때가 있습니다.
 
-상태 변화를 잘 살피며 적절한 기술을 실행해서
-높은 품질로 제작해 보세요!","",""
+상태 변화를 잘 살피며 적절한 기술을 실행해보세요!","",""
+2521,1,0,152822,0,"고난도 제작법으로 제작하는 동안 변화하는
+상태의 종류는 제작법마다 다릅니다.
+
+제작수첩 제작법의 세부 메뉴에서
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>제작 시 발생하는 상태 확인<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을
+선택하면, 변화할 가능성이 있는 상태를
+확인할 수 있습니다.","",""
 2530,1,0,152831,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>인내<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 배웠습니다!
 
 어부 기술인 인내를 사용하면
@@ -3834,9 +3840,49 @@ RP는 다른 모험가와 대결했을 때의 승패에 따라 변화합니다.
 
 <CommandIcon(14)/>+<Gui(17)/>버튼: 기술 선택
 <CommandIcon(15)/>+<Gui(17)/>버튼: 기술 실행","",""
-2585,0,0,0,0,"","",""
-2586,0,0,0,0,"","",""
-2587,0,0,0,0,"","",""
-2588,0,0,0,0,"","",""
-2589,0,0,0,0,"","",""
-2590,0,0,0,0,"","",""
+2585,1,0,151011,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>보물고 볼트 오네이론<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 입장했습니다!
+
+이 시설에서는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꿈 오락기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 조작하면, 보물을 지키는 마물이 나타납니다.
+
+마물을 쓰러뜨리면 보물을 손에 넣을 수 있습니다.","",""
+2586,1,0,151012,0,"꿈 오락기는 지도 주인만 만질 수 있으며 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>최대 5번<UIGlow>01</UIGlow><UIForeground>01</UIForeground>까지 도전할 수 있습니다.
+
+꿈 오락기에 표시된 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>그림<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 따라 다른 마물이 나타납니다.
+
+강한 마물이 나타날수록 쓰러뜨렸을 때 더 큰 보상을 얻을 수 있습니다.","",""
+2587,1,0,151013,0,"같은 그림이 3개 모이면 아래처럼 마물이 소환됩니다.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>작은 다이아몬드<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 하급 마물
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다이아몬드 3개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 중급 마물
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>큰 다이아몬드<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 상급 마물
+
+같은 그림이 모이지 않아도 계속 도전할 수 있지만 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>깨진 다이아몬드<UIGlow>01</UIGlow><UIForeground>01</UIForeground>그림이 3개 모이면 보물고에서 쫓겨납니다.","",""
+2588,1,0,151014,0,"그림 중에는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>특별한 놀이<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 발생하는 것도
+있지만, 어떤 놀이일지는 모험가 여러분이 직접 확인하시기 바랍니다.
+
+어떤 그림이 모일지는 여러분의 운에 달려 있습니다!
+동료와 함께 숨겨진 보물을 손에 넣읍시다!","",""
+2589,1,0,150911,0,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>피닉스의 꼬리<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 손에 넣었습니다.
+
+피닉스의 꼬리를 사용하면
+전투불능 상태인 플레이어를
+부활시킬 수 있습니다.","",""
+2590,1,0,150912,0,"피닉스의 꼬리는 던전 공략 같은
+파티 플레이를 할 때 도움이 되는 아이템입니다.
+
+특히 부활 마법 사용자가 전투불능이 되어도
+파티를 재정비할 수 있는 기회를 만들 수 있습니다.","",""
+2591,1,0,150913,0,"또한 임무 찾기의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>정보란<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>피닉스의 꼬리 사용 불가<UIGlow>01</UIGlow><UIForeground>01</UIForeground>라고 표시된 임무에서는
+피닉스의 꼬리를 사용할 수 없습니다.","",""
+2592,1,0,150914,0,"피닉스의 꼬리는
+퀘스트 완료 보상으로 획득하거나
+'약품 상인'이나 '만물상' 같은 상인에게서
+구입할 수 있습니다.","",""
+2593,0,0,0,0,"","",""
+2594,0,0,0,0,"","",""
+2595,0,0,0,0,"","",""
+2596,0,0,0,0,"","",""
+2597,0,0,0,0,"","",""
+2598,0,0,0,0,"","",""
+2599,0,0,0,0,"","",""
+2600,0,0,0,0,"","",""

@@ -1,5 +1,5 @@
 ﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,Image,FontColor,,,,UnlockCondition,,,,,SortKey,Name
+#,Image,FontColor,,,,UnlockCondition,,,,SortKey,Name,
 int32,Image,byte,bool,bool,byte,BannerCondition,uint16,uint16,uint16,byte,uint16,str
 0,0,0,True,True,0,0,0,0,0,0,0,"없음"
 1,0,0,False,False,0,0,0,0,0,0,0,""
@@ -80,8 +80,8 @@ int32,Image,byte,bool,bool,byte,BannerCondition,uint16,uint16,uint16,byte,uint16
 76,193961,1,True,True,0,526,0,0,0,3,2310,"나마즈오족 '큰메기 대제전 실행위원회'"
 77,193715,1,True,True,0,527,0,0,0,3,2250,"시대의 종언"
 78,193716,1,True,True,0,523,0,0,0,7,3950,"10주년 기념"
-79,193717,1,True,True,0,529,0,0,0,8,2343,"세계를 낚는 자"
-80,193718,1,True,True,0,530,0,0,0,8,2344,"강태공이 되는 길"
+79,193717,1,True,True,0,529,0,0,0,8,2345,"세계를 낚는 자"
+80,193718,1,True,True,0,530,0,0,0,8,2346,"강태공이 되는 길"
 81,193719,1,True,True,0,531,0,0,0,8,2350,"월하의 작패꾼"
 82,193956,1,True,True,0,567,0,0,0,3,2305,"바누바누족 '유려한 군두'"
 83,193957,1,True,True,0,568,0,0,0,3,2306,"그나스족 '끊어진 자들'"
@@ -138,7 +138,17 @@ int32,Image,byte,bool,bool,byte,BannerCondition,uint16,uint16,uint16,byte,uint16
 134,193708,1,True,True,0,876,0,0,0,4,2356,"딥 던전: 천궁탑 1"
 135,193709,1,True,True,0,877,0,0,0,4,2357,"딥 던전: 천궁탑 2"
 136,193740,1,True,True,0,879,0,0,0,4,2403,"초승달 섬"
-137,193741,1,True,True,0,878,0,0,0,8,2342,"우주 개척"
+137,193741,1,True,True,0,878,0,0,0,8,2343,"우주 개척 1"
 138,0,0,False,False,0,0,0,0,0,0,0,""
 139,0,0,False,False,0,0,0,0,0,0,0,""
 140,0,0,False,False,0,0,0,0,0,0,0,""
+141,0,0,False,False,0,0,0,0,0,0,0,""
+142,0,0,False,False,0,0,0,0,0,0,0,""
+143,0,0,False,False,0,0,0,0,0,0,0,""
+144,193747,2,True,True,0,939,0,0,0,8,2342,"무인도 개척 3"
+145,0,0,False,False,0,0,0,0,0,0,0,""
+146,0,0,False,False,0,0,0,0,0,0,0,""
+147,0,0,False,False,0,0,0,0,0,0,0,""
+148,0,0,False,False,0,0,0,0,0,0,0,""
+149,0,0,False,False,0,0,0,0,0,0,0,""
+150,0,0,False,False,0,0,0,0,0,0,0,""
