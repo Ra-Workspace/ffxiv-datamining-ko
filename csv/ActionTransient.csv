@@ -42406,7 +42406,7 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 이 기술은 단축바에 등록할 수 없습니다.
 ※ 발동 조건이 갖춰지면 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>동물 구현<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>송곳니 구현<UIGlow>01</UIGlow><UIForeground>01</UIForeground>으로 변화합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 34674,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>망치 그림<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 구현하여, 자신에게 30초 동안 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>망치 콤보 시전 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 3중첩을 부여합니다.
-<If(Equal(PlayerParameter(68),42))><If(GreaterThanOrEqualTo(PlayerParameter(72),86))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적 수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2
+<If(Equal(PlayerParameter(68),42))><If(GreaterThanOrEqualTo(PlayerParameter(72),86))><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>최대 누적수<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 2
 <Else/></If><Else/></If><UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 무기 캔버스에 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>망치 그림<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 그려진 상태
 전투 중에만 사용할 수 있습니다.
 
@@ -51291,7 +51291,8 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 단, 거대 편속성 크리스탈에는 효과가 없습니다."
 42151,"행복 입자가 든 신호탄을 발사합니다.
 ※ 전투 효과는 없습니다."
-42152,""
+42152,"작업등을 켭니다.
+※ 전투 효과는 없습니다."
 42153,""
 42154,""
 42155,""
@@ -54085,13 +54086,16 @@ HQ 획득률이 1% 이상인 아이템이 없을 경우 사용할 수 없습니�
 44917,""
 44918,""
 44919,""
-44920,""
-44921,""
-44922,""
-44923,""
-44924,""
-44925,""
-44926,""
+44920,"자신의 전방 부채꼴 범위 안에 있는 번개 이온 파워를 빨아들여 기체에 에너지로 저장합니다."
+44921,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>번개 이온 파워 10<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여, 부유 마법의 원리로 지하에 있는 파엔나이트를 지상으로 끌어 올립니다. 모래늪 구멍에 사용할 수 있습니다."
+44922,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>번개 이온 파워 10<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 소비하여, 부유 마법의 원리로 지하에 있는 파엔나이트를 지상으로 끌어 올립니다. 모래늪 구멍에 사용할 수 있습니다."
+44923,"전방으로 돌진하며, 로더 앞쪽에 달린 칼날로 범위 안에 있는 유리 덩어리를 분쇄합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 칼날 충전(최대 6중첩)"
+44924,"바람속성 충격파를 발생시키면서 전방으로 돌진하며, 로더 앞쪽에 달린 칼날로 범위 안에 있는 유리 덩어리를 분쇄합니다.
+<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>발동 조건<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>칼날 충전 3<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+44925,"루나아다만 드릴로 지면을 파서 땅속에 있는 소형 파엔나이트를 채굴합니다."
+44926,"바람속성을 이용한 흡인기로 전방 부채꼴 범위 안에 있는 유리 조각을 빨아들입니다.
+단, 거대한 유리 덩어리에는 효과가 없습니다."
 44927,""
 44928,""
 44929,""

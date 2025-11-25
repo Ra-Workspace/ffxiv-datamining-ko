@@ -2173,7 +2173,8 @@ int32,str
 2085,"미습득/미등록만 표시"
 2086,"이 페이지에는 미습득/미등록 아이템이 없습니다."
 2087,"합계 가격에 수수료를 합산하여 표시"
-2090,"<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/> 지역은 혼잡을 줄이고자 여러 개의 인스턴스로 나뉘어 있습니다.
+2090,"<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/> 지역은 혼잡을 줄이고자
+여러 개의 인스턴스로 나뉘어 있습니다.
 이동할 인스턴스를 선택하십시오.
 인스턴스 내용에는 차이가 없습니다."
 2091,"자동 선택"
@@ -12707,9 +12708,9 @@ PvP팀 등록에 동의하십니까?"
 12616,"일반 임무"
 12617,"저장"
 12618,"불러오기"
-12624,"'<Highlight>StringParameter(1)</Highlight>'<14>FF07022903EA0203FF04EBA19CFF07EC9CBCEBA19C</14> 이동하시겠습니까?
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>같은 서버에 파티원이 있으면 이 기능을 이용할 수 없습니다.
-단독, 파티 모집 중, 서버 초월 파티 상태로만 이동할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+12624,"<Highlight>StringParameter(1)</Highlight> 서버에 방문하시겠습니까?
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>서버 내 한정 파티 상태로는 이동할 수 없습니다.
+단독 또는 서버 초월 파티 상태로만 이동할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 12625,"여행자"
 12626,"고향 서버가 속한 데이터 센터를 벗어나면 모그레터 알림을 받을 수 없습니다."
 12627,"항해자"
@@ -16429,6 +16430,13 @@ WQHD
 16467,""
 16481,"현재 직업으로는 이 훈련에 도전할 수 없습니다."
 16482,"시전"
+16551,"초록색 마도 구슬"
+16552,"빨간색 마도 구슬"
+16553,"파란색 마도 구슬"
+16554,"노란색 마도 구슬"
+16555,"마구반"
+16556,""
+16557,"<Sheet(ContentRoulette,IntegerParameter(1),0)/>"
 16580,"<Sheet(MKDSupportJob,IntegerParameter(1),1)/>"
 16581,""
 16582,"<Sheet(MKDSupportJob,IntegerParameter(1),0)/>"
@@ -16744,6 +16752,7 @@ WQHD
 16877,"탐색의 발자취"
 16878,""
 16879,"월면 기지 정비 계획"
+16880,"행성 파엔나 탐색 계획"
 16883,"작업 진행도: '<Highlight>StringParameter(1)</Highlight>' 진행 중, 우주 임무 등에 참가해서 공헌합시다"
 16884,"작업 진행도: '공동 시공 작업' 준비 중, 협력자 모집 예정"
 16885,"작업 진행도: '기지 시설' 시공 중"
@@ -16768,6 +16777,7 @@ WQHD
 16901,"실버 등급 조건: 남은 시간 [<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>]"
 16902,"골드 등급 조건: 남은 시간 [<TwoDigitValue>IntegerParameter(1)</TwoDigitValue>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>]"
 16903,"???"
+16904,"행성 파엔나"
 16907,"평균 아이템 레벨: <Value>IntegerParameter(1)</Value> 이상"
 16908,"지급품"
 16909,"소장 가치:"
@@ -16817,7 +16827,9 @@ WQHD
 16950,"최대치"
 16951,"동경의 만"
 16952,"초급 계획 공헌"
+16953,"중급 계획 공헌"
 16956,"월면 기지 정비 계획"
+16957,"행성 파엔나 탐색 계획"
 16960,"탐색의 발자취란?"
 16961,"기술 점수 설명 보기"
 16962,"받을 수 있는 임무가 없습니다."
@@ -16837,6 +16849,7 @@ WQHD
 진행도 <Value>IntegerParameter(3)</Value>%</If>"
 16976,"완료 시간"
 16977," <Value>IntegerParameter(1)</Value>:<TwoDigitValue>IntegerParameter(2)</TwoDigitValue>"
+16978,"행성 파엔나"
 16981,"기체 탑승 시에 획득할 수 있는 특별한 보상입니다."
 16982,"출격 준비"
 16983,"기체 작전"
@@ -16873,10 +16886,10 @@ WQHD
 
 상세 설명 페이지를 보시겠습니까?"
 16998,"선택한 임무에서 권장하는 평균 아이템 레벨보다 낮아
-높은 평가로 임무를 달성하기 어려울 수 있습니다.
+고평가로 임무를 달성하기 어려울 수 있습니다.
 
-높은 평가로 달성하려면 달 관문 기지에 있는
-고드기스에게 필요한 장비를 구입하여
+고평가로 달성하려면 <Sheet(PlaceName,IntegerParameter(1),0)/>에 있는
+<Sheet(ENpcResident,IntegerParameter(2),0)/>에게 필요한 장비를 구입하여
 평균 아이템 레벨을 높입시다."
 16999,"접속 중에는 다시 표시하지 않음"
 17000,"평가 납품 개수: <Value>IntegerParameter(1)</Value>"
@@ -16884,10 +16897,23 @@ WQHD
 17002,"D급 임무"
 17003,"C급 임무"
 17004,"B급 임무"
+17005,"목적지 선택"
+17006,""
+17007,"이동하기"
+17008,"자동 선택된 인스턴스로 이동하기"
+17009,"지정한 인스턴스로 이동하기"
+17010,"알림"
 17011,"평가:"
 17012," <If(GreaterThan(IntegerParameter(2),0))>NQ<Else/>HQ</If> = <Value>IntegerParameter(1)</Value>점"
 17013," <If(GreaterThan(IntegerParameter(2),0))>보통 크기<Else/>월척</If> = <Value>IntegerParameter(1)</Value>점"
 17014,"남은 수락 가능 시간:  <If(GreaterThan(IntegerParameter(1),0))><Value>IntegerParameter(1)</Value>분 <Else/></If><Value>IntegerParameter(2)</Value>초"
+17015,"선택한 목적지로 이동하시겠습니까?"
+17016,"선택한 목적지는 혼잡을 줄이고자
+여러 개의 인스턴스로 나뉘어 있습니다.
+자동 선택된 인스턴스로 이동하시겠습니까?
+
+※ 인스턴스 내용에는 차이가 없습니다."
+17017,"다른 탐색 필드의 임무 정보는 표시할 수 없습니다."
 17018,"설정 열기"
 17019,"우주 개척 계획 기구에서 보낸 알림"
 17020,"닫기"

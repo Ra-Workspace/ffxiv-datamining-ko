@@ -25536,7 +25536,8 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 작업을 마친 사람부터 푹 쉬어!",0
 18229,13859,False,False,False,4,0,0,0,1,False,False,10,25,"이런, 이건…… 일단 작업을 중지하고 재정비할까…….
 계획을 다시 세울 테니 나중에 협력해 다오!",0
-18230,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18230,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이런, 이건…… 일단 작업을 중지하고 재정비할까…….
+계획을 다시 세울 테니 나중에 협력해 다오!",0
 18231,0,False,False,False,2,0,0,0,3,False,False,1,25,"아앗…!",0
 18232,0,False,False,False,2,0,0,0,4,False,False,1,25,"대단해
 쿠이키!",0
@@ -25991,7 +25992,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 에너지를 충전해 다오!",0
 18551,13859,False,False,False,4,0,0,0,1,False,False,10,25,"자, 지금부터 이 녀석을
 우주에서 최고로 멋지게 고쳐 보자!",0
-18552,13859,False,False,False,4,0,0,0,1,False,False,10,25,"카고에서 부품을 찾아서 일시 작업장에서 조립해 다오!
+18552,13859,False,False,False,4,0,0,0,1,False,False,10,25,"카고에서 부품을 찾아서 임시 작업장에서 조립해 다오!
 최고로 멋진 마무리를 부탁한다!",0
 18553,13859,False,False,False,4,0,0,0,1,False,False,10,25,"지금부터 여기에 터널을 뚫는다!
 힘든 작업인 건 잘 알고 있다!",0
@@ -26004,7 +26005,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 18557,13859,False,False,False,4,0,0,0,1,False,False,10,25,"자, 에너지 설비를 확충한다!
 너희에겐 꼬마 로더 정비를 맡기겠다!",0
 18558,13859,False,False,False,4,0,0,0,1,False,False,10,25,"텅 빈 에너지 탱크를 발견하면
-충전해서 다시 갖다 놓으면 된다!",0
+충전해서 다시 갖다 놓아 다오!",0
 18559,13859,False,False,False,4,0,0,0,1,False,False,10,25,"다음 일은 급수 설비를 정비한다!
 그러려면 꼬마 로더가 잘 굴러가 줘야 하지!",0
 18560,13859,False,False,False,4,0,0,0,1,False,False,10,25,"하지만 에너지가 없으면 로더도 무용지물인 법……
@@ -26360,33 +26361,57 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 18818,0,False,False,False,3,0,0,0,4,False,False,1,25,"이 기술로 놀아볼까",0
 18819,0,False,False,False,3,0,0,0,3,False,False,1,25,"꺼져 버려",0
 18820,0,False,False,False,3,0,0,0,4,False,False,1,25,"내가, 답을 알려줄게",0
-18821,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18822,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18823,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18824,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18825,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18826,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18827,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18828,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18829,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18830,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18831,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18832,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18833,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18834,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18835,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18836,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18837,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18838,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18839,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18840,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18841,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18842,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18843,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18844,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18821,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"오, 왔구나!
+이 별에서도 문제없이 활동할 수 있도록 근사한 기지를 완성해 나가자!",18822
+18822,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"유리 지면에 튼튼하게 시설을 짓기 위한 기초 공사를 진행한다.
+작업 중에 나온 유리 분진도 빨아들여 다오!",19043
+18823,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이동 설비 '우주 라이너'를 건설한다!
+연구팀의 이동이 편해지면 탐색도 부쩍 진전되겠지!",18824
+18824,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"복잡한 조립과 용접은 꼬마 로더에 맡겼다.
+우주 라이너용 자재를 완성하자!",19044
+18825,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"'거주 모듈'을 건설해서
+계획 참가자들을 받아들일 만반의 준비를 하자!",18826
+18826,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"거주 모듈 골격과 바닥재를 조립한다!
+복잡한 조립과 용접은 꼬마 로더가 대신 해 줄 거다!",19045
+18827,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"앞으로의 탐색에 필요한 뇌력을 얻기 위해 에너지 설비를 만든다!
+환경 에테르를 변환해서 번개를 모을 수 있게 될 거다!",18828
+18828,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"너희에게는 꼬마 로더 정비를 맡기겠다!
+설비가 위험한 곳의 작업은 이 녀석들에게 맡기면 된다!",19046
+18829,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"인간에게는 '물'이 필요하니, 급수 설비를 정비한다!
+근처 수맥에서 퍼 올린 물을 안전하게 정수하는 거다!",18830
+18830,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"정수 기구에는 에테르 전도성이 높은 섬세한 부품도 많다.
+그래서 꼬마 로더가 활약하지!",19047
+18831,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"자, 이 기지 일대의 도로를 근사하게 포장해서
+더욱 안전하고 우주에서 최고로 멋지게 마무리하자!",18832
+18832,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"꼼꼼하게 유리 암반을 고르면서
+그때그때 시공 작업도 진행해 다오!",0
+18833,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"여기에 기중기를 건설해 통로를 매달아서
+구덩이를 탐색할 길을 만든다!",18834
+18834,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"유리 강이 흘러드는 바닥에는 전혀 다른 환경이 펼쳐져 있지……
+탐색 활동도 무지막지하게 흥미진진해지겠군!",19049
+18835,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"'우주 공항'을 개량해 성능을 끌어올린다!
+우주선을 더욱 먼 곳으로 보낼 시설이지!",18836
+18836,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"전용 에너지 설비를 증설해서 강화한다!
+우주선 왕복이 더욱 원활해지겠지!",19051
+18837,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"자, 소중한 기체들을 점검하기 위한 격납고를
+우주에서 최고로 멋지게 고쳐 보자!",18838
+18838,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"대기 중인 기계를 이 별의 날씨로부터 지켜야 한다!
+정비 환경도 강화해서 더욱더 활약하게 만들자!",19048
+18839,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"오! 왔구나!
+여기에 행성 에너지를 모으는 뇌력판을 만들 거다!",18840
+18840,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"대기 중에 떠도는 광선을 모아서 뇌력으로 변환하는 시설이다!
+뇌력판이 완성되면 기지의 에너지 부족 문제가 개선되겠지!",19052
+18841,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"너희가 걸을 수 있도록, 순회 중인 무인 냉각기가
+이 일대의 녹은 유리 전체를 식히고 있다!",18842
+18842,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"하지만 제일 뜨거운 지점을 파악해 접근하는 것은
+너희가 아니면 할 수 없는 작업이다!",19054
+18843,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"행성 파엔나의 공동 시공 작업도 이것으로 막바지다!
+이번 작업의 가장 큰 목표는…… 천체망원경 건설이다!",18844
+18844,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이 녀석을 완성하면 더욱 먼 별로 갈 수 있다!
+천체망원경을 지탱할 수 있도록 기지의 토대부터 손보자!",0
 18845,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18846,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18847,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18847,0,False,False,False,2,0,0,0,3,False,False,1,25,"파워~",0
 18848,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18849,0,False,False,False,2,0,0,0,3,False,False,1,25,"고고고브",0
 18850,0,False,False,False,2,0,0,0,3,False,False,1,25,"고브브브",0
@@ -26586,65 +26611,124 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 18991,0,False,False,False,3,0,0,0,4,False,False,1,25,"거대한 팔도 조심해!",0
 18992,0,False,False,False,3,0,0,0,4,False,False,1,25,"또 이 공격이야…!?",0
 18993,0,False,False,False,3,0,0,0,4,False,False,1,25,"침착하게 대처하죠",0
-18994,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18995,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18996,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18997,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18994,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"좋아, 이번 시공 작업도 반환점에 다다랐다!
+다들 더욱더 열심히 작업해라!!",0
+18995,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"자, 완공이 코앞이다!!
+가장 중요한 단계니, 남은 힘을 쥐어짜 보라고!",0
+18996,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"모여줘서 고맙다!
+여기에 녹은 유리를 냉각하기 위한 시설을 만들 거다!",18997
+18997,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이 거점에서 무인기를 날려 냉각제를 뿌리는 거다!
+분화구 지대의 탐색이 한층 진전될 거다!",19053
 18998,0,False,False,False,3,0,0,0,4,False,True,1,25,"간신히 살았군…",0
-18999,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19000,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19001,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19002,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19003,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19004,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19005,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19006,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19007,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19008,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19009,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19010,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19011,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19012,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19013,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19014,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19015,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19016,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19017,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19018,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19019,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19020,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19021,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19022,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19023,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19024,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19025,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19026,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19027,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19028,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19029,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19030,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19031,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19032,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19033,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19034,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19035,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19036,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19037,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19038,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19039,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19040,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18999,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이번에 기중기를 건설해 통로를 연장하면
+드디어 구덩이를 탐색할 수 있게 된다!",19000
+19000,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"카고에서 부품을 꺼내 임시 작업장에서 가공해 다오!
+높은 곳이니 발밑을 조심해라!",0
+19001,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"열심히 활약하는 기체와 조종사들에게 감사를 담아
+최고급 격납고를 완성해 보자!",19002
+19002,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이 행성의 유리 자재를 붙이면
+설비가 증강되어 에너지 충전에도 도움이 될 거다!",19050
+19003,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"첫 번째 시설은 순조롭게 가동하고 있지.
+이 기세로 뇌력을 모으기 위한 뇌력판을 하나 더 만들 거다!",19004
+19004,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"너희에겐 꼬마 로더 정비를 맡기겠다!
+정밀 작업을 할 수 있도록 에너지 탱크를 충전해 다오!",0
+19005,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"자, 녹은 유리 냉각 작전도 마무리 단계다!
+냉각 기계의 출력을 최대로 올려뒀다!",19006
+19006,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"뜨거운 녹은 유리를 차갑게 식혀서 굳힐 거다!
+이 열기와도 작별이다!",0
+19007,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"좋아, 너희 덕분에 견고한 시설이 될 것 같다.
+참가해 줘서 고맙다!",19008
+19008,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"작업을 마친 사람부터 푹 쉬어!
+다음 공동 시공 작업에도 참가해야 하니까!",0
+19009,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이걸로 '우주 라이너'도 무사히 개통되었다!
+아직 예정 구간의 초입에 불과하지만 말이다.",19010
+19010,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"갈 길은 멀지만, 앞으로도 잘 부탁한다!
+작업을 마친 사람부터 푹 쉬어!",0
+19011,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"좋아, 인간들의 만족스러운 얼굴이 눈에 선하군!
+'거주 모듈'이 완성되면 보러 가봐라!",19012
+19012,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"제대로 된 잠자리가 얼마나 중요한지는 너희도 알지?
+그럼 작업을 마친 사람부터 푹 쉬어!",0
+19013,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"출력 시험도 예상했던 수치라 안심했다!
+이 녀석이 있으면 탐색도 지금보다 더 진척될 거다!",19014
+19014,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"다음은 바로 옆에 급수장을 건설하는 작업을 계획하고 있다!
+작업을 마친 사람부터 쉬고, 다음 작업에도 참가해 다오!",0
+19015,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"좋았어, 예정대로 시공 작업이 완료될 것 같다!
+이걸로 안전한 물을 충분히 확보할 수 있겠군!",19016
+19016,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이 기지 주변도 제법 설비가 갖춰졌군!
+작업을 마친 사람부터 푹 쉬어!",0
+19017,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이게 완성되면 기체 보급과 정비도 수월해질 거다!
+알레롯 녀석도 한숨 돌리겠군!",19018
+19018,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"작업을 마친 사람부터 쉬고
+앞으로 있을 기체 작전에도 협력해 다오!",0
+19019,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"좋아, 기중기도 발판도 충분히 튼튼하군!
+드디어 이 녀석을 움직일 수 있겠어!",19020
+19020,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이 기중기로 매달아 만든 통로 끝에
+더 아래로 내려갈 수 있는 기중기와 통로를 증설할 계획이다!",19055
+19021,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"오오! 너희의 꼼꼼한 작업에 감격했다!
+그 제작 실력이 이 녀석들이 얼마나 튼튼한지 보증해 주겠지!",19022
+19022,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"드디어 구덩이 내부에 도달할 수 있겠군……!
+작업을 마친 사람부터 쉬고, 앞으로 있을 탐색을 준비해 다오!",0
+19023,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"좋았어! 이 정도면 충분히 도로를 완성할 수 있겠어!
+협력해 줘서 진심으로 고맙다!",19024
+19024,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"시공 작업을 거쳐 기지가 멋지게 완성되어가니 정말 기쁘군…….
+작업을 마친 사람부터 쉬고, 완성된 모습을 기대해주길 바란다!",0
+19025,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"유리 소재를 활용한 기능미가 빛날 거다!
+너희의 시공 작업을 향한 열정에 감사한다!",19026
+19026,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"기체 작전도 지금까지보다 더 뛰어난 성과를 올리게 되겠지!
+작업을 마친 사람부터 쉬고, 완성된 모습을 봐다오!",0
+19027,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"오오, 이걸로 우주선 발착도 더욱 순조로워지겠어!
+다음에 향할 행성은 어떤 곳일지 가슴이 뛰는군!",19028
+19028,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"하지만 아직 행성 파엔나에도 탐사할 곳이 잔뜩 남아 있다.
+작업을 마친 사람부터 쉬고, 완성을 지켜봐 다오!",0
+19029,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"뇌력판은 안전성 시험도 문제가 없는 것 같다!
+설계자들의 노고가 느껴지는군!",19030
+19030,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"첫 번째 시설이 완성되면 바로 두 번째 시설을 작업할 예정이다.
+작업을 마친 사람부터 쉬고, 다음 작업을 준비해 다오!",0
+19031,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"두 번째 시설도 차질없이 완성될 듯하군!
+너희처럼 숙련된 사람들이 참가해 줘서 고마울 따름이다!",19032
+19032,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이 녀석들을 가동하면 뇌력 걱정은 없을 거다.
+자, 작업을 마친 사람부터 안심하고 쉬어라!",0
+19033,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"좋아, 여기까지 진행됐으니 완성이 코앞이군!
+여기서 출격할 무인 냉각기도 속속 들여올 예정이다!",19034
+19034,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"다음 작전부터는 바로 무인기가 활약할 예정이다.
+작업을 마친 사람부터 쉬고, 완성을 지켜봐 다오!",0
+19035,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"녹은 유리도 제법 식은 모양이다!
+곧 굳어서 겉모습과 색에도 변화가 생길 거다!",19036
+19036,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"예정된 작전을 마친 사람은 쉬어라.
+다음에는 더 먼 곳에 있는, 뜨거운 녹은 유리를 다룰 거다!",0
+19037,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이어서 무인 냉각기가 마무리를 해줄 테니 충분할 거다.
+좋아, 시설 건설부터 시작했던 냉각 작전은 이걸로 완전히 끝났다!",19038
+19038,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이걸로 구석구석까지 탐색할 수 있게 됐군!
+덥고 뜨거웠으니 작업을 마친 사람부터 쉬어라!",0
+19039,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"행성 파엔나의 길었던 공동 시공 작업도 드디어 이걸로 마지막이다!
+너희가 도와주지 않았다면 여기까지 도달할 수 없었을 거다!",19040
+19040,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"작업을 마친 사람부터 푹 쉬어라!
+우리가 완성한 천체망원경의 활약…… 기대되는군!",0
 19041,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19042,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19043,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19044,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19045,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19046,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19047,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19048,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19049,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19050,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19051,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19052,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19053,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19054,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-19055,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19043,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"우리라면 유리 암반도 감당할 수 있다!
+그때그때 시공 작업도 진행하겠다!",0
+19044,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"너희에겐 그 꼬마 로더의 정비를 맡기겠다!
+에너지 탱크를 충전해 다오!",0
+19045,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"꼬마 로더는 일솜씨가 좋은 만큼 에너지 소비가 극심하다.
+너희에겐 에너지 탱크 충전 작업을 맡기겠다!",0
+19046,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"텅 빈 에너지 탱크를 발견하면
+충전해서 다시 갖다 놓아 다오!",0
+19047,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"하지만 에너지 탱크가 비면 로더도 무용지물이다……
+책임지고 정비해 다오!",0
+19048,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"카고에서 자재를 꺼내서 임시 작업장에서 가공해 다오!
+최고로 멋진 마무리를 부탁한다!",0
+19049,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"참 고된 일이지…… 그래도 장인에게는 해야만 하는 때가 있는 법.
+다들 정신 바짝 차리자!",0
+19050,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"카고에서 자재를 꺼내서 임시 작업장에서 가공해 다오!
+기체도 조종사도 뛸 듯이 기뻐할 품질로 부탁한다!",0
+19051,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"카고에서 자재를 꺼내서 임시 작업장에서 가공해 다오!
+최고로 멋진 마무리를 부탁한다!",0
+19052,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"너희에겐 꼬마 로더 정비를 맡기겠다!
+정밀 작업을 할 수 있도록 에너지 탱크를 충전해 다오!",0
+19053,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"너희에겐 꼬마 로더 정비를 맡기겠다!
+조립 작업을 할 수 있도록 에너지를 충전해 다오!",0
+19054,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"아주 뜨거운 녹은 유리를 차갑게 식혀 굳혀 버려라!
+위험한 작업이지만, 무인기와 힘을 합치면 해낼 수 있다!",0
+19055,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"구덩이 바닥으로 내려갈 수 있도록 곧바로 다음 작업에 들어간다!
+작업을 마친 사람부터 쉬고, 다음 작업을 준비해 다오!",0
