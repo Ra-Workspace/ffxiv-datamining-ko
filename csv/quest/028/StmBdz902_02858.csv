@@ -54,7 +54,7 @@ int32,str,str
 부탁 좀 들어주면 안 될까?"
 49,"TEXT_STMBDZ902_02858_PAPIN_000_001","마을 북쪽에 마을 사람은 당해낼 수 없는, 강한 마물이 있거든.
 그런데 그 고기가 반드시 필요해!"
-50,"TEXT_STMBDZ902_02858_PAPIN_000_002","부탁이야, <If(PlayerParameter(4))> 누나<Else/>형</If>.
+50,"TEXT_STMBDZ902_02858_PAPIN_000_002","부탁이야, <If(PlayerParameter(4))>누나<Else/>형</If>.
 '<Sheet(BNpcName,5711,0)/>'<13>FF1302280FFF09424E70634E616D65F2164F0103FF04EBA5BCFF04EC9D84</13> 쓰러뜨리고
 '<Sheet(EventItem,2002357,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8DB50103FF04EBA5BCFF04EC9D84</13> 갖고 와줘!"
 51,"TEXT_STMBDZ902_02858_PAPIN_000_003","부탁이야, <If(PlayerParameter(4))>누나<Else/>형</If>.
@@ -68,6 +68,6 @@ int32,str,str
 55,"TEXT_STMBDZ902_02858_PAPIN_000_013","아버지도 드시면 좋을 텐데.
 일 때문에 멀리 나가 계시는데,
 최근엔 편지도 안 와. 빨리 오셨음 좋겠는데."
-56,"TEXT_STMBDZ902_02858_PAPIN_000_014","그때까지 <If(PlayerParameter(4))> 누나<Else/>형</If>처럼 강해져서
+56,"TEXT_STMBDZ902_02858_PAPIN_000_014","그때까지 <If(PlayerParameter(4))>누나<Else/>형</If>처럼 강해져서
 가족 모두가 고기를 배불리 먹을 수 있도록 할 거야!
 고마워, 또 놀러 와줘!"

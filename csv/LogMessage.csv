@@ -11537,7 +11537,7 @@ PvP 대결이 가능한 직업인 경우, 능력치와 기술, 단축바 등이 
 최신 우주 개척 탐색 필드로 이동한 다음 사용하십시오."
 11184,60,8,0,0,False,"현재 지역과 다른 지역을 선택하십시오."
 11185,57,17,0,0,False,"인양 광선을 사용할 수 있습니다!"
-11186,57,17,0,0,False,"플라스마 칼날 돌진을 사용할 수 있습니다!"
+11186,57,17,0,0,False,"플라스마 삽날 돌진을 사용할 수 있습니다!"
 11187,57,1,0,0,False,"<If(GreaterThan(IntegerParameter(1),0))>탐색의 발자취에 새로운 기사 '<65>FF13574B5350696F6E656572696E67547261696CE803E80404FF19574B5350696F6E656572696E67547261696C537472696E6702</65>' 및 기타 <Value>IntegerParameter(1)</Value>건이 추가되었습니다.<Else/>탐색의 발자취에 새로운 기사 '<65>FF13574B5350696F6E656572696E67547261696CE803E80404FF19574B5350696F6E656572696E67547261696C537472696E6702</65>'<13>FF39024135FF13574B5350696F6E656572696E67547261696CE803E80404FF19574B5350696F6E656572696E67547261696C537472696E670203FF04EAB080FF04EC9DB4</13> 추가되었습니다.</If>"
 11188,57,17,0,0,False,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(EventItem,IntegerParameter(1),0)/><13>FF1302280FFF0A4576656E744974656DE8020103FF04EBA5BCFF04EC9D84</13> 떼어 냈습니다!"
 11189,57,17,0,0,False,"<If(PlayerParameter(7))><Sheet(ObjStr,PlayerParameter(7),0)/><Else/>ObjectParameter(2)</If> 님이 <Sheet(EventItem,IntegerParameter(1),0)/>에 에너지를 가득 충전했습니다!"
