@@ -1,24 +1,30 @@
-# [![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/Ra-Workspace/ffxiv-datamining-ko.svg?color=%23B61D4B&label=Patch&style=flat-square)](https://github.com/Ra-Workspace/ffxiv-datamining-ko/releases) Datamining of Final Fantasy XIV Korea
+# [![latest](https://img.shields.io/github/tag-date/Ra-Workspace/ffxiv-datamining-ko.svg?color=%23B61D4B&label=Patch&style=flat-square)](https://github.com/Ra-Workspace/ffxiv-datamining-ko/releases) Datamining of Final Fantasy XIV Korea
 
-* This repository is to serve as a place to share data mining information related to Final Fantasy XIV in Korean.
+This repository serves as a hub for sharing datamined information from the Korean version of Final Fantasy XIV.
 
-* If you want to know datamining, go [xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining) and [xivapi/SaintCoinach](https://github.com/xivapi/SaintCoinach).
+## Tools & Resources
 
-* You can access data for each patch version using [tags](https://github.com/Ra-Workspace/ffxiv-datamining-ko/releases).
+* **Extraction Tool**: This project uses [xiv-data-oxidizer](https://github.com/mattantonelli/xiv-data-oxidizer) (powered by [ironworks](https://github.com/ackwell/ironworks)) for robust and efficient data extraction.
+* **Schema Definitions**: Data structures are aligned with [EXDSchema](https://github.com/xivdev/EXDSchema).
+* **Reference**: For general datamining information, visit [xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining).
 
 ---
 
 ## [csv/](https://github.com/Ra-Workspace/ffxiv-datamining-ko/tree/master/csv)
 
-* This repository keeps a record of CSV's extracted via [SaintCoinach](https://github.com/xivapi/SaintCoinach/releases) using the command `rawexd`, this is so they can be easily linked and referenced when datamining, so we have a git history of changes and just to make life easier in some cases :)
+This directory contains CSV files extracted from the game data.
+* **Version History**: Access specific data for each patch version via [Releases/Tags](https://github.com/Ra-Workspace/ffxiv-datamining-ko/releases).
 
-## [Ra-Workspace/ffxiv-datamining-ko-ui](https://github.com/Ra-Workspace/ffxiv-datamining-ko-ui)
+---
 
-* All images of icon, map, and ULD are in [this repository](https://github.com/Ra-Workspace/ffxiv-datamining-ko-ui). The size is very heavy, so it has been separated.
+## Other Languages
 
-## Other language
+* **Global Version**
+  * [English](https://github.com/xivapi/ffxiv-datamining)
+  * [Japanese](https://github.com/a1hena/ffxiv-datamining-jp)
 
-* Global Version
-  * [English](https://github.com/xivapi/ffxiv-datamining/tree/master/csv)
-  * [Japanese](https://github.com/MansonGit/ffxiv-datamining-jp)
-* [Chinese Version](https://github.com/thewakingsands/ffxiv-datamining-cn)
+* **Chinese Version (Simplified Chinese)**
+  * [Chinese](https://github.com/thewakingsands/ffxiv-datamining-cn)
+
+* **Taiwan Version (Traditional Chinese)**
+  * [Taiwan](https://github.com/thewakingsands/ffxiv-datamining-tc)
