@@ -1,69 +1,67 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_000","'마물 수배 게시판'에 실려 있는 토벌 대상은
+#,Unknown0,Unknown1
+0,TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_000,"'마물 수배 게시판'에 실려 있는 토벌 대상은
 하나같이 매우 위험한 존재이기 때문에
 실력이 뛰어난 장병만이 임무를 받을 수 있습니다."
-1,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_001","수고 많으십니다.
+1,TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_001,"수고 많으십니다.
 '마물 사냥'에 관해 자세한 설명이 필요하시면
 언제든지 제게 물어보십시오."
-2,"TEXT_COMDEFMOBOFFICER_00180_Q1_000_000","무엇을 물어보시겠습니까?"
-3,"TEXT_COMDEFMOBOFFICER_00180_A1_000_001","'마물 수배서'에 대해서"
-4,"TEXT_COMDEFMOBOFFICER_00180_A1_100_002","'정예 마물'에 대해서"
-5,"TEXT_COMDEFMOBOFFICER_00180_A1_000_002","'정예 마물 수배서'에 대해서"
-6,"TEXT_COMDEFMOBOFFICER_00180_A1_000_003","'동맹 휘장'에 대해서"
-7,"TEXT_COMDEFMOBOFFICER_00180_A1_000_004","취소"
-8,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_002","'마물 사냥'에 관해 자세한 설명이 필요하시면
+2,TEXT_COMDEFMOBOFFICER_00180_Q1_000_000,무엇을 물어보시겠습니까?
+3,TEXT_COMDEFMOBOFFICER_00180_A1_000_001,'마물 수배서'에 대해서
+4,TEXT_COMDEFMOBOFFICER_00180_A1_100_002,'정예 마물'에 대해서
+5,TEXT_COMDEFMOBOFFICER_00180_A1_000_002,'정예 마물 수배서'에 대해서
+6,TEXT_COMDEFMOBOFFICER_00180_A1_000_003,'동맹 휘장'에 대해서
+7,TEXT_COMDEFMOBOFFICER_00180_A1_000_004,취소
+8,TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_002,"'마물 사냥'에 관해 자세한 설명이 필요하시면
 소속 총사령부의 '마물 사냥 담당관'에게
 문의하시기 바랍니다."
-9,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_010","'마물 수배 게시판'에 실려 있는 수배전단 중 하나입니다.
+9,TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_010,"'마물 수배 게시판'에 실려 있는 수배전단 중 하나입니다.
 각지에 서식하는 마물 중에서
 특히 문제가 되는 마물을 토벌 대상으로 지정하고 있습니다."
-10,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_011","마물 수배 게시판에서 얻은 '마물 수배서'는
+10,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_011,"마물 수배 게시판에서 얻은 '마물 수배서'는
 임무용 아이템 칸에 들어갑니다."
-11,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_012","'마물 수배서'는 현실 시간으로 매일 <ResetTime>01</ResetTime><If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신되지만,
+11,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_012,"'마물 수배서'는 현실 시간으로 매일 오전 0시에 갱신되지만,
 갱신 시간이 지난 후에도 이전 수배서를 가지고 있을 경우
 가지고 있는 수배서의 마물을 처치하면 보상이 주어집니다."
-12,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_013","수배서는 파기할 수도 있으며,
+12,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_013,"수배서는 파기할 수도 있으며,
 '마물 수배 게시판'이 새로 갱신되기 전이라면
 같은 수배서를 다시 받을 수 있습니다."
-13,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_014","수배서 보상으로 받는 '동맹 휘장'은
+13,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_014,"수배서 보상으로 받는 '동맹 휘장'은
 토벌 목표를 달성한 시점에 지급됩니다."
-14,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_020","마물 중에서도 특히 위험하고 악명 높은 존재를
+14,TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_020,"마물 중에서도 특히 위험하고 악명 높은 존재를
 '정예 마물'로 지정하여 특별 수배하고 있습니다."
-15,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_021","'정예 마물'은 위험도에 따라 각각 등급이 있으며
+15,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_021,"'정예 마물'은 위험도에 따라 각각 등급이 있으며
 정해진 지역에 항상 나타나는 'B급' 및
 일정 조건이 충족돼야 나타나는 'A급', 'S급'이 있습니다."
-16,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_022","매우 강력한 '정예 마물'인 'A급'과 'S급'을 처치하면
+16,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_022,"매우 강력한 '정예 마물'인 'A급'과 'S급'을 처치하면
 '동맹 휘장' 등의 보상을 얻을 수 있습니다.
 보상은 공헌도에 따라 달라집니다."
-17,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_023","한편 'B급'은 토벌 보상을 항상 받을 수 있는 것은 아니나
+17,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_023,"한편 'B급'은 토벌 보상을 항상 받을 수 있는 것은 아니나
 '정예 마물 수배서'의 대상으로서
 수배서를 소지한 상태로 처치하면 보상이 지급됩니다."
-18,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_026","또한 정예 마물에 대한 자세한 정보를 알고 있는
+18,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_026,"또한 정예 마물에 대한 자세한 정보를 알고 있는
 '마물 사냥꾼'이 각 마을에 머물고 있습니다.
 토벌에 도전하기 전에 이들에게 정보를 확인해보세요."
-19,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_025","'마물 수배 게시판'에 실린 수배서 중 하나입니다.
+19,TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_025,"'마물 수배 게시판'에 실린 수배서 중 하나입니다.
 마물 중에서도 특히 위험하고 악명 높은 존재를
 토벌 대상으로 지정하고 있습니다."
-20,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_100_030","마물 수배 게시판에서 얻은 '정예 마물 수배서'는
+20,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_100_030,"마물 수배 게시판에서 얻은 '정예 마물 수배서'는
 임무용 아이템 칸에 들어갑니다."
-21,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_025","기본적으로 '마물 수배서'와 동일하나
+21,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_025,"기본적으로 '마물 수배서'와 동일하나
 갱신 시기가 다르며 현실 시간으로 일주일에 1회,
-매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신됩니다."
-22,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_101_030","토벌 대상은 'B급 정예 마물'입니다.
+매주 화요일 오후 5시에 갱신됩니다."
+22,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_101_030,"토벌 대상은 'B급 정예 마물'입니다.
 'B급'은 특정 지역에서 항상 찾아볼 수 있으며
 그냥 처치하는 것으로는 보상을 받을 수 없습니다."
-23,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_102_030","단, '정예 마물 수배서'를 소지한 상태로 처치하면
+23,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_102_030,"단, '정예 마물 수배서'를 소지한 상태로 처치하면
 수배서에 적힌 대로 보상이 지급됩니다."
-24,"TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_030","에오르제아 도시군사동맹이 수여하는 일종의 훈장입니다.
+24,TEXT_COMDEFMOBOFFICER_00180_MOBOFFICER_000_030,"에오르제아 도시군사동맹이 수여하는 일종의 훈장입니다.
 아이템과 교환하려면 제게 말씀하십시오."
-25,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_031","'동맹 휘장'을 얻으려면
+25,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_031,"'동맹 휘장'을 얻으려면
 'A급' 또는 'S급'으로 지정된 '정예 마물'을 처치하거나
 수배서에 적힌 토벌 대상을 쓰러뜨려야 합니다."
-26,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_032","각 도시에 있는 '마물 사냥 담당관'을 통해서
+26,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_032,"각 도시에 있는 '마물 사냥 담당관'을 통해서
 다양한 아이템으로 교환할 수 있으니 적극적으로 모아보세요.
 참고로, 교환 가능한 아이템은 각 총사령부마다 약간씩 다릅니다."
-27,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_033","'동맹 휘장'은 총사령부를 옮길 때에도
+27,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_033,"'동맹 휘장'은 총사령부를 옮길 때에도
 그대로 가지고 갈 수 있습니다."
-28,"TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_024","（★未使用／削除予定★）"
+28,TEXT_COMDEFMOBOFFICER_00180_SYSTEM_000_024,（★未使用／削除予定★）

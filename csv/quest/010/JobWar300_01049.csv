@@ -1,150 +1,148 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBWAR300_01049_SEQ_00","도끼술사 길드마스터 뷔른쵠은 신뢰할 수 있는 모험가에게 다소 위험한 의뢰를 부탁하고 싶은 듯하다."
-1,"TEXT_JOBWAR300_01049_SEQ_01","뷔른쵠이 일을 맡겼다. 동부 라노시아 '코스타 델 솔'에 있는 '졸크위브'와 대화하자."
-2,"TEXT_JOBWAR300_01049_SEQ_02","졸크위브와 대화했다. 동부 라노시아 '코스타 델 솔' 북쪽 해안에서 이상한 점이 있는지 조사하자."
-3,"TEXT_JOBWAR300_01049_SEQ_03","수상한 마인이 불러들인 마물을 '호기심 많은 산골짜기'와 함께 물리쳤다. 코스타 델 솔에 있는 '졸크위브'와 호기심 많은 산골짜기에 대해 이야기해보자."
-4,"TEXT_JOBWAR300_01049_SEQ_04","호기심 많은 산골짜기는 해산된 바다영웅단에서 큰 공적을 남겨 소문이 자자했던 신입이었던 것 같다. 전사의 기술을 배우기 위해, 숨겨진 폭포에 있는 '호기심 많은 산골짜기'에게 말을 걸어 보자."
-5,"TEXT_JOBWAR300_01049_SEQ_05","모험가는 호기심 많은 산골짜기에게 <Sheet(Item,　4544,0)/><13>FF15022811FF054974656DFF08E38080343534340103FF04EBA5BCFF04EC9D84</13> 받아 전사가 되었다. 전사란 스스로의 내면에 잠들어있는 '원초의 혼'을 일깨워, 거기에서 오는 강대한 힘으로 싸우는 자라고 한다. 호기심 많은 산골짜기가 옛 문서에서 새로운 기술을 알아낼 때까지 '원초의 혼'을 일깨우며 전사의 기술을 익혀놓자.
+#,Unknown0,Unknown1
+0,TEXT_JOBWAR300_01049_SEQ_00,도끼술사 길드마스터 뷔른쵠은 신뢰할 수 있는 모험가에게 다소 위험한 의뢰를 부탁하고 싶은 듯하다.
+1,TEXT_JOBWAR300_01049_SEQ_01,뷔른쵠이 일을 맡겼다. 동부 라노시아 '코스타 델 솔'에 있는 '졸크위브'와 대화하자.
+2,TEXT_JOBWAR300_01049_SEQ_02,졸크위브와 대화했다. 동부 라노시아 '코스타 델 솔' 북쪽 해안에서 이상한 점이 있는지 조사하자.
+3,TEXT_JOBWAR300_01049_SEQ_03,수상한 마인이 불러들인 마물을 '호기심 많은 산골짜기'와 함께 물리쳤다. 코스타 델 솔에 있는 '졸크위브'와 호기심 많은 산골짜기에 대해 이야기해보자.
+4,TEXT_JOBWAR300_01049_SEQ_04,"호기심 많은 산골짜기는 해산된 바다영웅단에서 큰 공적을 남겨 소문이 자자했던 신입이었던 것 같다. 전사의 기술을 배우기 위해, 숨겨진 폭포에 있는 '호기심 많은 산골짜기'에게 말을 걸어 보자."
+5,TEXT_JOBWAR300_01049_SEQ_05,"모험가는 호기심 많은 산골짜기에게  받아 전사가 되었다. 전사란 스스로의 내면에 잠들어있는 '원초의 혼'을 일깨워, 거기에서 오는 강대한 힘으로 싸우는 자라고 한다. 호기심 많은 산골짜기가 옛 문서에서 새로운 기술을 알아낼 때까지 '원초의 혼'을 일깨우며 전사의 기술을 익혀놓자.
 
 ※ 전사 레벨이 35 이상 되면 호기심 많은 산골짜기에게 다음 전사 퀘스트를 받을 수 있습니다."
-6,"TEXT_JOBWAR300_01049_SEQ_06",""
-7,"TEXT_JOBWAR300_01049_SEQ_07",""
-8,"TEXT_JOBWAR300_01049_SEQ_08",""
-9,"TEXT_JOBWAR300_01049_SEQ_09",""
-10,"TEXT_JOBWAR300_01049_SEQ_10",""
-11,"TEXT_JOBWAR300_01049_SEQ_11",""
-12,"TEXT_JOBWAR300_01049_SEQ_12",""
-13,"TEXT_JOBWAR300_01049_SEQ_13",""
-14,"TEXT_JOBWAR300_01049_SEQ_14",""
-15,"TEXT_JOBWAR300_01049_SEQ_15",""
-16,"TEXT_JOBWAR300_01049_SEQ_16",""
-17,"TEXT_JOBWAR300_01049_SEQ_17",""
-18,"TEXT_JOBWAR300_01049_SEQ_18",""
-19,"TEXT_JOBWAR300_01049_SEQ_19",""
-20,"TEXT_JOBWAR300_01049_SEQ_20",""
-21,"TEXT_JOBWAR300_01049_SEQ_21",""
-22,"TEXT_JOBWAR300_01049_SEQ_22",""
-23,"TEXT_JOBWAR300_01049_SEQ_23",""
-24,"TEXT_JOBWAR300_01049_TODO_00","코스타 델 솔에서 졸크위브와 대화"
-25,"TEXT_JOBWAR300_01049_TODO_01","북쪽 해안에서 이상한 점 조사"
-26,"TEXT_JOBWAR300_01049_TODO_02","졸크위브와 대화"
-27,"TEXT_JOBWAR300_01049_TODO_03","호기심 많은 산골짜기와 대화"
-28,"TEXT_JOBWAR300_01049_TODO_04",""
-29,"TEXT_JOBWAR300_01049_TODO_05",""
-30,"TEXT_JOBWAR300_01049_TODO_06",""
-31,"TEXT_JOBWAR300_01049_TODO_07",""
-32,"TEXT_JOBWAR300_01049_TODO_08",""
-33,"TEXT_JOBWAR300_01049_TODO_09",""
-34,"TEXT_JOBWAR300_01049_TODO_10",""
-35,"TEXT_JOBWAR300_01049_TODO_11",""
-36,"TEXT_JOBWAR300_01049_TODO_12",""
-37,"TEXT_JOBWAR300_01049_TODO_13",""
-38,"TEXT_JOBWAR300_01049_TODO_14",""
-39,"TEXT_JOBWAR300_01049_TODO_15",""
-40,"TEXT_JOBWAR300_01049_TODO_16",""
-41,"TEXT_JOBWAR300_01049_TODO_17",""
-42,"TEXT_JOBWAR300_01049_TODO_18",""
-43,"TEXT_JOBWAR300_01049_TODO_19",""
-44,"TEXT_JOBWAR300_01049_TODO_20",""
-45,"TEXT_JOBWAR300_01049_TODO_21",""
-46,"TEXT_JOBWAR300_01049_TODO_22",""
-47,"TEXT_JOBWAR300_01049_TODO_23",""
-48,"TEXT_JOBWAR300_01049_WYRNZOEN_000","<Highlight>ObjectParameter(1)</Highlight>, 이제는 도끼술사 길드에서
+6,TEXT_JOBWAR300_01049_SEQ_06,
+7,TEXT_JOBWAR300_01049_SEQ_07,
+8,TEXT_JOBWAR300_01049_SEQ_08,
+9,TEXT_JOBWAR300_01049_SEQ_09,
+10,TEXT_JOBWAR300_01049_SEQ_10,
+11,TEXT_JOBWAR300_01049_SEQ_11,
+12,TEXT_JOBWAR300_01049_SEQ_12,
+13,TEXT_JOBWAR300_01049_SEQ_13,
+14,TEXT_JOBWAR300_01049_SEQ_14,
+15,TEXT_JOBWAR300_01049_SEQ_15,
+16,TEXT_JOBWAR300_01049_SEQ_16,
+17,TEXT_JOBWAR300_01049_SEQ_17,
+18,TEXT_JOBWAR300_01049_SEQ_18,
+19,TEXT_JOBWAR300_01049_SEQ_19,
+20,TEXT_JOBWAR300_01049_SEQ_20,
+21,TEXT_JOBWAR300_01049_SEQ_21,
+22,TEXT_JOBWAR300_01049_SEQ_22,
+23,TEXT_JOBWAR300_01049_SEQ_23,
+24,TEXT_JOBWAR300_01049_TODO_00,코스타 델 솔에서 졸크위브와 대화
+25,TEXT_JOBWAR300_01049_TODO_01,북쪽 해안에서 이상한 점 조사
+26,TEXT_JOBWAR300_01049_TODO_02,졸크위브와 대화
+27,TEXT_JOBWAR300_01049_TODO_03,호기심 많은 산골짜기와 대화
+28,TEXT_JOBWAR300_01049_TODO_04,
+29,TEXT_JOBWAR300_01049_TODO_05,
+30,TEXT_JOBWAR300_01049_TODO_06,
+31,TEXT_JOBWAR300_01049_TODO_07,
+32,TEXT_JOBWAR300_01049_TODO_08,
+33,TEXT_JOBWAR300_01049_TODO_09,
+34,TEXT_JOBWAR300_01049_TODO_10,
+35,TEXT_JOBWAR300_01049_TODO_11,
+36,TEXT_JOBWAR300_01049_TODO_12,
+37,TEXT_JOBWAR300_01049_TODO_13,
+38,TEXT_JOBWAR300_01049_TODO_14,
+39,TEXT_JOBWAR300_01049_TODO_15,
+40,TEXT_JOBWAR300_01049_TODO_16,
+41,TEXT_JOBWAR300_01049_TODO_17,
+42,TEXT_JOBWAR300_01049_TODO_18,
+43,TEXT_JOBWAR300_01049_TODO_19,
+44,TEXT_JOBWAR300_01049_TODO_20,
+45,TEXT_JOBWAR300_01049_TODO_21,
+46,TEXT_JOBWAR300_01049_TODO_22,
+47,TEXT_JOBWAR300_01049_TODO_23,
+48,TEXT_JOBWAR300_01049_WYRNZOEN_000,"Player Player, 이제는 도끼술사 길드에서
 그 솜씨를 견줄 자가 없는 자여…….
 자네가 아니면 안 되는 부탁이 하나 있다네."
-49,"TEXT_JOBWAR300_01049_WYRNZOEN_000_001","코스타 델 솔에서 경호를 맡고 있는
+49,TEXT_JOBWAR300_01049_WYRNZOEN_000_001,"코스타 델 솔에서 경호를 맡고 있는
 내 옛 친구로부터 긴급 지원이 왔어."
-50,"TEXT_JOBWAR300_01049_WYRNZOEN_000_002","그들은 땅 주인 게게루주가 비싼 돈을 들여 고용한 정예부대지.
+50,TEXT_JOBWAR300_01049_WYRNZOEN_000_002,"그들은 땅 주인 게게루주가 비싼 돈을 들여 고용한 정예부대지.
 그런 그들조차 감당 못 할 정도로 위험한 일인 것 같더군.
 이런 일을 자네 말고 달리 누구에게 믿고 맡길 수 있겠나?"
-51,"TEXT_JOBWAR300_01049_WYRNZOEN_000_003","미리 졸크위브를 보내두었으니, 회복 마법으로 도움을 받게.
+51,TEXT_JOBWAR300_01049_WYRNZOEN_000_003,"미리 졸크위브를 보내두었으니, 회복 마법으로 도움을 받게.
 좀 더 자세한 얘기는 동부 라노시아의 '코스타 델 솔'에 있는
 '졸크위브'에게 가서 들어줘."
-52,"TEXT_JOBWAR300_01049_SOLKWYB_000_010","어어, 왔나.
+52,TEXT_JOBWAR300_01049_SOLKWYB_000_010,"어어, 왔나.
 요즘 이 근처에 사납고 위험한 마물이 갑자기 늘고 있다는군.
 나름 솜씨 좋다는 경호원들도 애를 먹는 모양이야."
-53,"TEXT_JOBWAR300_01049_SOLKWYB_000_011","우선 수비가 허술한 북쪽 해안을 따라서 돌아볼까.
+53,TEXT_JOBWAR300_01049_SOLKWYB_000_011,"우선 수비가 허술한 북쪽 해안을 따라서 돌아볼까.
 마물이 갑자기 늘어난 데는 반드시 무슨 원인이 있을 테니
 조금이라도 이상한 점이 있으면 일단 그걸 조사해줘."
-54,"TEXT_JOBWAR300_01049_SOLKWYB_000_020","칫, <Highlight>ObjectParameter(1)</Highlight>!
+54,TEXT_JOBWAR300_01049_SOLKWYB_000_020,"칫, Player Player!
 이 망할 거북이들부터 처리해야겠어!"
-55,"TEXT_JOBWAR300_01049_SOLKWYB_000_021","큭, 이 이상은…… 힘들어!
-<Highlight>ObjectParameter(1)</Highlight>, 일단 물러나자!"
-56,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_022","(-???-)내가 잡으마!
+55,TEXT_JOBWAR300_01049_SOLKWYB_000_021,"큭, 이 이상은…… 힘들어!
+Player Player, 일단 물러나자!"
+56,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_022,"(-???-)내가 잡으마!
 너희도 옆에서 도와다오!"
-57,"TEXT_JOBWAR300_01049_SOLKWYB_000_023","그 도끼는…… 당신, 좀 전에 사라진 마인이야……?"
-58,"TEXT_JOBWAR300_01049_SOLKWYB_000_024","아니, 지금 그런 걸 따질 때가 아니지.
-<Highlight>ObjectParameter(1)</Highlight>, 우리도 도와주러 가자!"
-59,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_030","이쯤 혼쭐을 냈으면 이제 안 오겄지.
+57,TEXT_JOBWAR300_01049_SOLKWYB_000_023,"그 도끼는…… 당신, 좀 전에 사라진 마인이야……?"
+58,TEXT_JOBWAR300_01049_SOLKWYB_000_024,"아니, 지금 그런 걸 따질 때가 아니지.
+Player Player, 우리도 도와주러 가자!"
+59,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_030,"이쯤 혼쭐을 냈으면 이제 안 오겄지.
 나는 '호기심 많은 산골짜기'라고 한다.
 너흰 코스타 델 솔에 있는 경호원인가?"
-60,"TEXT_JOBWAR300_01049_SOLKWYB_000_031","아니, 우린 지원 요청을 받고 도끼술사 길드에서 나왔어.
+60,TEXT_JOBWAR300_01049_SOLKWYB_000_031,"아니, 우린 지원 요청을 받고 도끼술사 길드에서 나왔어.
 나는 졸크위브.
-이쪽이 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8BA4FF07EC9DB4EB8BA4</13>."
-61,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_032","그라믄, 나랑 똑같구만!
-그건 그렇다 치고, <Highlight>ObjectParameter(1)</Highlight>……
+이쪽이 Player Player."
+61,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_032,"그라믄, 나랑 똑같구만!
+그건 그렇다 치고, Player Player……
 너, 겁나 강하더라!"
-62,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_033","넌 '전사'가 될 그릇이여!
+62,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_033,"넌 '전사'가 될 그릇이여!
 너, 나랑 같이 '전사'가 되자고!"
-63,"TEXT_JOBWAR300_01049_SOLKWYB_000_034","'전사'라니……!?
+63,TEXT_JOBWAR300_01049_SOLKWYB_000_034,"'전사'라니……!?
 아까 네가 쓰던 처음 보는 낯선 기술들……
 그게 벌써 오래전에 맥이 끊겼다는 전사의 기술이었어?"
-64,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_035","말을 그렇게 하면 안 되지, 끊기긴 뭐가 끊겨!
+64,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_035,"말을 그렇게 하면 안 되지, 끊기긴 뭐가 끊겨!
 울 고향에선 여태껏 전사가 이어져 내려오고 있다고!
 난 그 전사의 기술을 널리 알리려고 고향을 나왔지."
-65,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_036","여봐, <Highlight>ObjectParameter(1)</Highlight>.
+65,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_036,"여봐, Player Player.
 너, 전사가 될라믄 나한테 와라.
 요 앞 '숨겨진 폭포'에서 수련하고 있으니까, 그리로 와."
-66,"TEXT_JOBWAR300_01049_SOLKWYB_000_040","사라진 줄 알았던 '전사'라니…….
+66,TEXT_JOBWAR300_01049_SOLKWYB_000_040,"사라진 줄 알았던 '전사'라니…….
 그러고 보니 바다영웅단의 해산 직전에 '전사'의 기술을 쓰는
 대단한 신입이 들어왔다는 소문이 있었지……."
-67,"TEXT_JOBWAR300_01049_SOLKWYB_000_041","저 녀석을 말하는 거였나……?
+67,TEXT_JOBWAR300_01049_SOLKWYB_000_041,"저 녀석을 말하는 거였나……?
 호기심 많은 산골짜기…… 아까 보니 정말 강하기도 했고
 허튼 소리 할 놈으로는 안 보이는데."
-68,"TEXT_JOBWAR300_01049_SOLKWYB_000_042","<Highlight>ObjectParameter(1)</Highlight>, 이게 진짜라면 아주 좋은 기회야!
+68,TEXT_JOBWAR300_01049_SOLKWYB_000_042,"Player Player, 이게 진짜라면 아주 좋은 기회야!
 '숨겨진 폭포'로 가서 '호기심 많은 산골짜기'한테
 일단 말이라도 듣고 와보는 게 어때?"
-69,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_050","그래, 참 잘 왔어!
+69,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_050,"그래, 참 잘 왔어!
 '전사'란 자기 안에 잠들어있는 '원초의 혼'을
 일깨워서 생기는 무지막지한 힘으로 싸우는 자야."
-70,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_051","그 센 힘을 버틸만한 큰 산 같은 뚝심이 필요한데
+70,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_051,"그 센 힘을 버틸만한 큰 산 같은 뚝심이 필요한데
 너만한 솜씨면 기막힌 전사가 될 수 있다고!"
-71,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_052","그럼 먼저 울 고향 관습에 따라
-<Sheet(Item,　4544,0)/>, 이놈을 받어!"
-72,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_053","이 크리스탈에는 역대 전사들이 남긴 기억이
+71,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_052,"그럼 먼저 울 고향 관습에 따라
+, 이놈을 받어!"
+72,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_053,"이 크리스탈에는 역대 전사들이 남긴 기억이
 새겨져 있다는구만."
-73,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_54","센 놈하고 싸우든가 해서 네 안의 '원초의 혼'을 일깨울수록
-<Sheet(Item,　4544,0)/>에 새겨진 '고대 전사의 기억'이 네 영혼과 공명해서
+73,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_54,"센 놈하고 싸우든가 해서 네 안의 '원초의 혼'을 일깨울수록
+에 새겨진 '고대 전사의 기억'이 네 영혼과 공명해서
 널 훨~ 높은 경지로 데려다줄 거여."
-74,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_55","나랑 함께 '전사'의 기술을 배워보자고!
+74,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_55,"나랑 함께 '전사'의 기술을 배워보자고!
 근데…… '전사'의 기술이란 게, 이게 아주 오래된 거라
 울 고향에서도 해마다 이어받는 사람이 줄고 있어."
-75,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_56","나도 울 집안에 내려오는 '전사기술 계승문서'라는
+75,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_56,"나도 울 집안에 내려오는 '전사기술 계승문서'라는
 어려운 옛날 책을 읽고 '전사'가 가진 역사와 기술을
 이래저래 배운 정도야."
-76,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_57","아, 그 옛날 책을 읽어준 건 2살 위인 울 형이야.
+76,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_57,"아, 그 옛날 책을 읽어준 건 2살 위인 울 형이야.
 근데 형은 고향을 뜨고 말았어…….
 '전사의 기술을 널리 알리겠다'면서."
-77,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_58","그래서 나도 허겁지겁 형을 쫓아 나온 거여.
+77,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_58,"그래서 나도 허겁지겁 형을 쫓아 나온 거여.
 ……그 옛날 책을 가지고서 말이지."
-78,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_59","그러니까 우선 옛날 책에 뭐라고 써있는지 알아내야
+78,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_59,"그러니까 우선 옛날 책에 뭐라고 써있는지 알아내야
 너한테도 가르쳐줄 거리도 나온단 이 소리야.
 미안하구만!"
-79,"TEXT_JOBWAR300_01049_CURIOUSGORGE_000_60","형한테 기대기만 해서 책 읽는 건 아직 까막눈이지만……
+79,TEXT_JOBWAR300_01049_CURIOUSGORGE_000_60,"형한테 기대기만 해서 책 읽는 건 아직 까막눈이지만……
 내가 널 위해서 열심히 읽을 테니까 좀만 시간을 줘.
 넌 그동안 수련에 힘써서 새로운 기술을 익힐 수 있게 해둬!"
-80,"TEXT_JOBWAR300_01049_SYSTEM_000_61","（★未使用／削除予定★）"
-81,"TEXT_JOBWAR300_01049_SYSTEM_000_62","'전사' 잡 퀘스트를 시작했습니다.
+80,TEXT_JOBWAR300_01049_SYSTEM_000_61,（★未使用／削除予定★）
+81,TEXT_JOBWAR300_01049_SYSTEM_000_62,"'전사' 잡 퀘스트를 시작했습니다.
 다음 퀘스트는 레벨이 35 이상 되면 받을 수 있습니다."
-82,"TEXT_JOBWAR300_01049_QIB_001_TODO_1","몰려드는 광포한 원시거북 무리를 소탕하라!"
-83,"TEXT_JOBWAR300_01049_QIB_001_SOLKWYB_BATTLETALK_01","이, 이런…… 별 도움이 못되어서…… 미안해."
-84,"TEXT_JOBWAR300_01049_SYSTEM_000_70","신규 잡을 습득했습니다!
+82,TEXT_JOBWAR300_01049_QIB_001_TODO_1,몰려드는 광포한 원시거북 무리를 소탕하라!
+83,TEXT_JOBWAR300_01049_QIB_001_SOLKWYB_BATTLETALK_01,"이, 이런…… 별 도움이 못되어서…… 미안해."
+84,TEXT_JOBWAR300_01049_SYSTEM_000_70,"신규 잡을 습득했습니다!
 받은 소울 크리스탈을 장비하면
 잡 체인지를 할 수 있습니다."
-85,"TEXT_JOBWAR300_01049_SYSTEM_000_71","잡 체인지를 한 다음에는
+85,TEXT_JOBWAR300_01049_SYSTEM_000_71,"잡 체인지를 한 다음에는
 '장비세트'를 등록해 보세요!
 현재의 장비가 기록되고 바로 갈아입을 수 있게 됩니다."
-86,"TEXT_JOBWAR300_01049_SYSTEM_000_72","'장비세트' 등록은
+86,TEXT_JOBWAR300_01049_SYSTEM_000_72,"'장비세트' 등록은
 장비 변경과 마찬가지로 '내 캐릭터' 화면에서 실행할 수 있습니다."

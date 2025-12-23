@@ -1,97 +1,95 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBDRG520_01690_SEQ_00","아도넬 점성대의 알베리크는 우스티엔을 걱정하고 있는 듯하다."
-1,"TEXT_JOBDRG520_01690_SEQ_01","알베리크가 우스티엔이 훈련하는 것을 봐달라고 부탁했다. 커르다스 서부고지 '할드라스 상' 부근에 있는 '우스티엔'과 대화하자."
-2,"TEXT_JOBDRG520_01690_SEQ_02","쓰러진 우스티엔을 공격하려는 적을 처치했다. 할드라스 상 부근에 있는 '우스티엔'을 구조하자."
-3,"TEXT_JOBDRG520_01690_SEQ_03","구조된 우스티엔이 모험가에게 시범을 보여달라고 부탁했다. 커르다스 서부고지 '흑철교' 서쪽에 있는 <Sheet(EObj,2006182,0)/>에서 주위을 둘러보고, 용의 졸개가 나타나면 처치하자."
-4,"TEXT_JOBDRG520_01690_SEQ_04","나타난 용의 졸개를 처치하여 우스티엔에게 시범을 보였다. 흑철교 서쪽에 있는 '우스티엔'과 대화하자."
-5,"TEXT_JOBDRG520_01690_SEQ_05","우스티엔과 대화했다. 용기사로서 어떻게 싸울지 설명하기 위해 자신을 성찰한 결과, 새로운 기술을 창안하는 데 성공했다. 우스티엔에게도 이를 설명해주자."
-6,"TEXT_JOBDRG520_01690_SEQ_06",""
-7,"TEXT_JOBDRG520_01690_SEQ_07",""
-8,"TEXT_JOBDRG520_01690_SEQ_08",""
-9,"TEXT_JOBDRG520_01690_SEQ_09",""
-10,"TEXT_JOBDRG520_01690_SEQ_10",""
-11,"TEXT_JOBDRG520_01690_SEQ_11",""
-12,"TEXT_JOBDRG520_01690_SEQ_12",""
-13,"TEXT_JOBDRG520_01690_SEQ_13",""
-14,"TEXT_JOBDRG520_01690_SEQ_14",""
-15,"TEXT_JOBDRG520_01690_SEQ_15",""
-16,"TEXT_JOBDRG520_01690_SEQ_16",""
-17,"TEXT_JOBDRG520_01690_SEQ_17",""
-18,"TEXT_JOBDRG520_01690_SEQ_18",""
-19,"TEXT_JOBDRG520_01690_SEQ_19",""
-20,"TEXT_JOBDRG520_01690_SEQ_20",""
-21,"TEXT_JOBDRG520_01690_SEQ_21",""
-22,"TEXT_JOBDRG520_01690_SEQ_22",""
-23,"TEXT_JOBDRG520_01690_SEQ_23",""
-24,"TEXT_JOBDRG520_01690_TODO_00","할드라스 상 부근에서 우스티엔과 합류"
-25,"TEXT_JOBDRG520_01690_TODO_01","우스티엔 구조"
-26,"TEXT_JOBDRG520_01690_TODO_02","<Sheet(EObj,2006182,0)/>에서 주위를 둘러본 후 나타난 용의 졸개 처치"
-27,"TEXT_JOBDRG520_01690_TODO_03","우스티엔과 대화"
-28,"TEXT_JOBDRG520_01690_TODO_04",""
-29,"TEXT_JOBDRG520_01690_TODO_05",""
-30,"TEXT_JOBDRG520_01690_TODO_06",""
-31,"TEXT_JOBDRG520_01690_TODO_07",""
-32,"TEXT_JOBDRG520_01690_TODO_08",""
-33,"TEXT_JOBDRG520_01690_TODO_09",""
-34,"TEXT_JOBDRG520_01690_TODO_10",""
-35,"TEXT_JOBDRG520_01690_TODO_11",""
-36,"TEXT_JOBDRG520_01690_TODO_12",""
-37,"TEXT_JOBDRG520_01690_TODO_13",""
-38,"TEXT_JOBDRG520_01690_TODO_14",""
-39,"TEXT_JOBDRG520_01690_TODO_15",""
-40,"TEXT_JOBDRG520_01690_TODO_16",""
-41,"TEXT_JOBDRG520_01690_TODO_17",""
-42,"TEXT_JOBDRG520_01690_TODO_18",""
-43,"TEXT_JOBDRG520_01690_TODO_19",""
-44,"TEXT_JOBDRG520_01690_TODO_20",""
-45,"TEXT_JOBDRG520_01690_TODO_21",""
-46,"TEXT_JOBDRG520_01690_TODO_22",""
-47,"TEXT_JOBDRG520_01690_TODO_23",""
-48,"TEXT_JOBDRG520_01690_ALBERIC_000_000","마음의 준비가 된 모양이군, <Highlight>ObjectParameter(1)</Highlight>.
+#,Unknown0,Unknown1
+0,TEXT_JOBDRG520_01690_SEQ_00,아도넬 점성대의 알베리크는 우스티엔을 걱정하고 있는 듯하다.
+1,TEXT_JOBDRG520_01690_SEQ_01,알베리크가 우스티엔이 훈련하는 것을 봐달라고 부탁했다. 커르다스 서부고지 '할드라스 상' 부근에 있는 '우스티엔'과 대화하자.
+2,TEXT_JOBDRG520_01690_SEQ_02,쓰러진 우스티엔을 공격하려는 적을 처치했다. 할드라스 상 부근에 있는 '우스티엔'을 구조하자.
+3,TEXT_JOBDRG520_01690_SEQ_03,"구조된 우스티엔이 모험가에게 시범을 보여달라고 부탁했다. 커르다스 서부고지 '흑철교' 서쪽에 있는 에서 주위을 둘러보고, 용의 졸개가 나타나면 처치하자."
+4,TEXT_JOBDRG520_01690_SEQ_04,나타난 용의 졸개를 처치하여 우스티엔에게 시범을 보였다. 흑철교 서쪽에 있는 '우스티엔'과 대화하자.
+5,TEXT_JOBDRG520_01690_SEQ_05,"우스티엔과 대화했다. 용기사로서 어떻게 싸울지 설명하기 위해 자신을 성찰한 결과, 새로운 기술을 창안하는 데 성공했다. 우스티엔에게도 이를 설명해주자."
+6,TEXT_JOBDRG520_01690_SEQ_06,
+7,TEXT_JOBDRG520_01690_SEQ_07,
+8,TEXT_JOBDRG520_01690_SEQ_08,
+9,TEXT_JOBDRG520_01690_SEQ_09,
+10,TEXT_JOBDRG520_01690_SEQ_10,
+11,TEXT_JOBDRG520_01690_SEQ_11,
+12,TEXT_JOBDRG520_01690_SEQ_12,
+13,TEXT_JOBDRG520_01690_SEQ_13,
+14,TEXT_JOBDRG520_01690_SEQ_14,
+15,TEXT_JOBDRG520_01690_SEQ_15,
+16,TEXT_JOBDRG520_01690_SEQ_16,
+17,TEXT_JOBDRG520_01690_SEQ_17,
+18,TEXT_JOBDRG520_01690_SEQ_18,
+19,TEXT_JOBDRG520_01690_SEQ_19,
+20,TEXT_JOBDRG520_01690_SEQ_20,
+21,TEXT_JOBDRG520_01690_SEQ_21,
+22,TEXT_JOBDRG520_01690_SEQ_22,
+23,TEXT_JOBDRG520_01690_SEQ_23,
+24,TEXT_JOBDRG520_01690_TODO_00,할드라스 상 부근에서 우스티엔과 합류
+25,TEXT_JOBDRG520_01690_TODO_01,우스티엔 구조
+26,TEXT_JOBDRG520_01690_TODO_02,에서 주위를 둘러본 후 나타난 용의 졸개 처치
+27,TEXT_JOBDRG520_01690_TODO_03,우스티엔과 대화
+28,TEXT_JOBDRG520_01690_TODO_04,
+29,TEXT_JOBDRG520_01690_TODO_05,
+30,TEXT_JOBDRG520_01690_TODO_06,
+31,TEXT_JOBDRG520_01690_TODO_07,
+32,TEXT_JOBDRG520_01690_TODO_08,
+33,TEXT_JOBDRG520_01690_TODO_09,
+34,TEXT_JOBDRG520_01690_TODO_10,
+35,TEXT_JOBDRG520_01690_TODO_11,
+36,TEXT_JOBDRG520_01690_TODO_12,
+37,TEXT_JOBDRG520_01690_TODO_13,
+38,TEXT_JOBDRG520_01690_TODO_14,
+39,TEXT_JOBDRG520_01690_TODO_15,
+40,TEXT_JOBDRG520_01690_TODO_16,
+41,TEXT_JOBDRG520_01690_TODO_17,
+42,TEXT_JOBDRG520_01690_TODO_18,
+43,TEXT_JOBDRG520_01690_TODO_19,
+44,TEXT_JOBDRG520_01690_TODO_20,
+45,TEXT_JOBDRG520_01690_TODO_21,
+46,TEXT_JOBDRG520_01690_TODO_22,
+47,TEXT_JOBDRG520_01690_TODO_23,
+48,TEXT_JOBDRG520_01690_ALBERIC_000_000,"마음의 준비가 된 모양이군, Player Player.
 지도하는 입장에 서면
 용기사의 새로운 일면을 발견할 수 있을 것이다."
-49,"TEXT_JOBDRG520_01690_ALBERIC_000_001","단, 조급하게 생각하진 마.
+49,TEXT_JOBDRG520_01690_ALBERIC_000_001,"단, 조급하게 생각하진 마.
 그녀 역시 일류의 기사이니 나름 자존심도 있을 거다.
 오랫동안 몸에 익은 스타일을 바꾼다는 건 보통 일이 아니지."
-50,"TEXT_JOBDRG520_01690_ALBERIC_000_002","자, 그럼 이제 '우스티엔'을 잘 지도해주라고.
+50,TEXT_JOBDRG520_01690_ALBERIC_000_002,"자, 그럼 이제 '우스티엔'을 잘 지도해주라고.
 그녀는 커르다스 서부고지의 '할드라스 상' 부근에서
 수련을 겸해서 용의 졸개를 사냥하고 있을 거다."
-51,"TEXT_JOBDRG520_01690_ALBERIC_000_003","그녀는 절대 타협하지 않는 성격이라
+51,TEXT_JOBDRG520_01690_ALBERIC_000_003,"그녀는 절대 타협하지 않는 성격이라
 혹시라도 무리하진 않을지 걱정이 되는군…….
 아무쪼록 그녀를 잘 부탁한다."
-52,"TEXT_JOBDRG520_01690_ALBERIC_000_005","우스티엔을 잘 지도해줘."
-53,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_007","여기서 기술을 연마하고 있었소만……
+52,TEXT_JOBDRG520_01690_ALBERIC_000_005,우스티엔을 잘 지도해줘.
+53,TEXT_JOBDRG520_01690_HEUSTIENNE_000_007,"여기서 기술을 연마하고 있었소만……
 적이 너무 많아…… 큭, 또 나타났군!"
-54,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_010","고맙소…… 이거 꼴사나운 모습을 보였군.
+54,TEXT_JOBDRG520_01690_HEUSTIENNE_000_010,"고맙소…… 이거 꼴사나운 모습을 보였군.
 전에 봤던 그대의 창술을 재현하고자 했으나……
 역시 눈동냥으로 배우기엔 한계가 있소."
-55,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_011","……물론 지금까지 연습해온 기술을 사용하면
+55,TEXT_JOBDRG520_01690_HEUSTIENNE_000_011,"……물론 지금까지 연습해온 기술을 사용하면
 이런 졸개야 내 상대가 안 되지만, 그래선 아무 의미가 없지.
 그대의 기술을 익혀야만 강해질 수 있으니 말이오……."
-56,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_012","어렵고 힘든 전투를 거듭 겪으면서
+56,TEXT_JOBDRG520_01690_HEUSTIENNE_000_012,"어렵고 힘든 전투를 거듭 겪으면서
 '용기사단'은 하나둘씩 인재를 잃고 남은 자들도 지쳐가고 있소.
 ……희생을 줄이려면 내가 강해지는 수밖에!"
-57,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_013","<Highlight>ObjectParameter(1)</Highlight>…… 부디 다시 한 번
+57,TEXT_JOBDRG520_01690_HEUSTIENNE_000_013,"Player Player…… 부디 다시 한 번
 그대가 싸우는 모습을 보여주지 않겠소?
 반드시 그대의 창술을 내 것으로 만들고 싶소……!"
-58,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_014","……고맙소. 이 은혜는 잊지 않겠소.
+58,TEXT_JOBDRG520_01690_HEUSTIENNE_000_014,"……고맙소. 이 은혜는 잊지 않겠소.
 마침 흑철교 서쪽에서도 적이 발견되었으니
 그곳 드래곤족도 물리치는 것을 보고 싶소."
-59,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_019","이 근처에서 주위를 둘러보면
+59,TEXT_JOBDRG520_01690_HEUSTIENNE_000_019,"이 근처에서 주위를 둘러보면
 우리가 온 것을 감지한 용의 졸개가 나타날 것이오……."
-60,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_020","으음…… 쓰는 기술은 나와 크게 다르지 않음에도 불구하고
+60,TEXT_JOBDRG520_01690_HEUSTIENNE_000_020,"으음…… 쓰는 기술은 나와 크게 다르지 않음에도 불구하고
 그대는 졸개들을 압도하고 손쉽게 물리쳤소.
 그 힘의 본질을 알 것 같으면서도 모르겠군……."
-61,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_022","전투에 있어서 그대와 나의 결정적인 차이가 무엇인지……
+61,TEXT_JOBDRG520_01690_HEUSTIENNE_000_022,"전투에 있어서 그대와 나의 결정적인 차이가 무엇인지……
 뭔가 짐작되는 바가 없는가?
 어떤 사소한 점이라도 좋으니 가르쳐주시오!"
-62,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_023","그럴 수가……
+62,TEXT_JOBDRG520_01690_HEUSTIENNE_000_023,"그럴 수가……
 별다른 차이를 느끼지 못하겠다고……?"
-63,"TEXT_JOBDRG520_01690_HEUSTIENNE_000_024","……날 지도하기 위해 스스로의 전투를 되돌아보는 과정에서
+63,TEXT_JOBDRG520_01690_HEUSTIENNE_000_024,"……날 지도하기 위해 스스로의 전투를 되돌아보는 과정에서
 그대는 새로운 기술의 실마리를 얻었단 말이오!?
 그대와 나의 차이는 도대체 무엇이기에……."
-64,"TEXT_JOBDRG520_01690_Q1_000_000","（★未使用／削除予定★）"
-65,"TEXT_JOBDRG520_01690_A1_000_001","（★未使用／削除予定★）"
-66,"TEXT_JOBDRG520_01690_A1_000_002","（★未使用／削除予定★）"
+64,TEXT_JOBDRG520_01690_Q1_000_000,（★未使用／削除予定★）
+65,TEXT_JOBDRG520_01690_A1_000_001,（★未使用／削除予定★）
+66,TEXT_JOBDRG520_01690_A1_000_002,（★未使用／削除予定★）

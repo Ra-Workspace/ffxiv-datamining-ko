@@ -1,41 +1,39 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CTSFCKATTENDANT_00454_TALK_ACTOR","안녕하세요. 질문 있으세요?"
-1,"TEXT_CTSFCKATTENDANT_00454_TALK_QUEST_INCOMPLETE","저는 장미 가면 님의 조수인 카스미라고 해요!
+#,Unknown0,Unknown1
+0,TEXT_CTSFCKATTENDANT_00454_TALK_ACTOR,안녕하세요. 질문 있으세요?
+1,TEXT_CTSFCKATTENDANT_00454_TALK_QUEST_INCOMPLETE,"저는 장미 가면 님의 조수인 카스미라고 해요!
 패션 체크에 관심이 있으시면
 먼저 '장미 가면'님과 말씀을 나눠보세요~!"
-2,"TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_000_000","무엇을 물어보시겠습니까?"
-3,"TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_001_000","패션 체크에 대해서"
-4,"TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_002_000","채점에 대해서"
-5,"TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_003_000","보상에 대해서"
-6,"TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_CANCEL","취소"
-7,"TEXT_CTSFCKATTENDANT_00454_GUIDE_001_000","장미 가면님이 제시한 테마에 맞게
+2,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_000_000,무엇을 물어보시겠습니까?
+3,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_001_000,패션 체크에 대해서
+4,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_002_000,채점에 대해서
+5,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_003_000,보상에 대해서
+6,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_CANCEL,취소
+7,TEXT_CTSFCKATTENDANT_00454_GUIDE_001_000,"장미 가면님이 제시한 테마에 맞게
 참가자가 옷을 갖춰 입고 채점을 받는 것…….
 그것이 바로 '패션 체크'랍니다!"
-8,"TEXT_CTSFCKATTENDANT_00454_GUIDE_001_001","장미 가면님은 일류 패션 평론가답게
+8,TEXT_CTSFCKATTENDANT_00454_GUIDE_001_001,"장미 가면님은 일류 패션 평론가답게
 실은 점수가 굉장히 짜답니다……!
 그러니 가장 자신 있는 복장으로 도전하실 것을 추천드려요~!"
-9,"TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_002","패션 체크의 테마는
-현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신됩니다."
-10,"TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_003","또한 패션 체크의 채점은
-현실 시간으로 매주 <ResetTime>1206</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시 이후부터
-다음 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시까지 기간 중, 총 4번 도전할 수 있습니다."
-11,"TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_004","그리고 현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
-<ResetTime>1206</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시까지는 준비 기간이므로
+9,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_002,"패션 체크의 테마는
+현실 시간으로 매주 화요일 오후 5시에 갱신됩니다."
+10,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_003,"또한 패션 체크의 채점은
+현실 시간으로 매주 금요일 오후 5시 이후부터
+다음 화요일 오후 5시까지 기간 중, 총 4번 도전할 수 있습니다."
+11,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_004,"그리고 현실 시간으로 매주 화요일 오후 5시부터
+금요일 오후 5시까지는 준비 기간이므로
 패션 체크에 도전할 수 없습니다."
-12,"TEXT_CTSFCKATTENDANT_00454_GUIDE_002_000","채점은 100점 만점으로 평가됩니다!
+12,TEXT_CTSFCKATTENDANT_00454_GUIDE_002_000,"채점은 100점 만점으로 평가됩니다!
 한 테마당 최대 4번까지 도전할 수 있으니
 좋은 점수를 못 받더라도 좌절하지 말고 꾸준히 도전해보세요~!"
-13,"TEXT_CTSFCKATTENDANT_00454_SYSTEM_002_001","패션 체크의 채점은
+13,TEXT_CTSFCKATTENDANT_00454_SYSTEM_002_001,"패션 체크의 채점은
 장비 투영 중일 경우, 투영 후 모습의 장비로 채점됩니다.
 머리 장비를 숨기기로 설정한 경우에도 채점 대상에 포함됩니다."
-14,"TEXT_CTSFCKATTENDANT_00454_GUIDE_003_000","한 테마당 한 번이라도 패션 체크에 참가하면
+14,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_000,"한 테마당 한 번이라도 패션 체크에 참가하면
 도전해주신 보상으로
 MGP를 선물로 드립니다!"
-15,"TEXT_CTSFCKATTENDANT_00454_GUIDE_003_001","또한 80점 이상을 획득하시면
+15,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_001,"또한 80점 이상을 획득하시면
 보너스로 MGP를 엄청 많이 드립니다!
 고득점을 받기 위해서 노력해주세요~!"
-16,"TEXT_CTSFCKATTENDANT_00454_GUIDE_003_002","그리고 패션 체크에 자주 참가해주시는 분은
+16,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_002,"그리고 패션 체크에 자주 참가해주시는 분은
 특별한 경품을 교환할 수 있게 됩니다~!
 그러니 팍팍 도전해주세요!"

@@ -1,161 +1,159 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANNAM607_03129_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANNAM607_03129_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 도로 일로에 있는 광풍원 세이게츠는 새로운 별난 제전을 개최하고 싶은 듯하다."
-1,"TEXT_BANNAM607_03129_SEQ_01","쿌 엔에 있는 채집 중인 나마즈오와 대화하자."
-2,"TEXT_BANNAM607_03129_SEQ_02","채집 중인 나마즈오와 대화했다.
+1,TEXT_BANNAM607_03129_SEQ_01,쿌 엔에 있는 채집 중인 나마즈오와 대화하자.
+2,TEXT_BANNAM607_03129_SEQ_02,"채집 중인 나마즈오와 대화했다.
 교카에게 의뢰받은 물건을 납품하자."
-3,"TEXT_BANNAM607_03129_SEQ_03","광풍원 세이게츠에게 보고하자."
-4,"TEXT_BANNAM607_03129_SEQ_04",""
-5,"TEXT_BANNAM607_03129_SEQ_05",""
-6,"TEXT_BANNAM607_03129_SEQ_06",""
-7,"TEXT_BANNAM607_03129_SEQ_07",""
-8,"TEXT_BANNAM607_03129_SEQ_08",""
-9,"TEXT_BANNAM607_03129_SEQ_09",""
-10,"TEXT_BANNAM607_03129_SEQ_10",""
-11,"TEXT_BANNAM607_03129_SEQ_11",""
-12,"TEXT_BANNAM607_03129_SEQ_12",""
-13,"TEXT_BANNAM607_03129_SEQ_13",""
-14,"TEXT_BANNAM607_03129_SEQ_14",""
-15,"TEXT_BANNAM607_03129_SEQ_15",""
-16,"TEXT_BANNAM607_03129_SEQ_16",""
-17,"TEXT_BANNAM607_03129_SEQ_17",""
-18,"TEXT_BANNAM607_03129_SEQ_18",""
-19,"TEXT_BANNAM607_03129_SEQ_19",""
-20,"TEXT_BANNAM607_03129_SEQ_20",""
-21,"TEXT_BANNAM607_03129_SEQ_21",""
-22,"TEXT_BANNAM607_03129_SEQ_22",""
-23,"TEXT_BANNAM607_03129_SEQ_23",""
-24,"TEXT_BANNAM607_03129_TODO_00","쿌 엔에 있는 채집 중인 나마즈오와 대화"
-25,"TEXT_BANNAM607_03129_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>쿌 엔 서쪽 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>쿌 엔 서쪽 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>도탈 카에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>도로 일로에 있는 교카에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANNAM607_03129_TODO_02","광풍원 세이게츠에게 보고"
-27,"TEXT_BANNAM607_03129_TODO_03",""
-28,"TEXT_BANNAM607_03129_TODO_04",""
-29,"TEXT_BANNAM607_03129_TODO_05",""
-30,"TEXT_BANNAM607_03129_TODO_06",""
-31,"TEXT_BANNAM607_03129_TODO_07",""
-32,"TEXT_BANNAM607_03129_TODO_08",""
-33,"TEXT_BANNAM607_03129_TODO_09",""
-34,"TEXT_BANNAM607_03129_TODO_10",""
-35,"TEXT_BANNAM607_03129_TODO_11",""
-36,"TEXT_BANNAM607_03129_TODO_12",""
-37,"TEXT_BANNAM607_03129_TODO_13",""
-38,"TEXT_BANNAM607_03129_TODO_14",""
-39,"TEXT_BANNAM607_03129_TODO_15",""
-40,"TEXT_BANNAM607_03129_TODO_16",""
-41,"TEXT_BANNAM607_03129_TODO_17",""
-42,"TEXT_BANNAM607_03129_TODO_18",""
-43,"TEXT_BANNAM607_03129_TODO_19",""
-44,"TEXT_BANNAM607_03129_TODO_20",""
-45,"TEXT_BANNAM607_03129_TODO_21",""
-46,"TEXT_BANNAM607_03129_TODO_22",""
-47,"TEXT_BANNAM607_03129_TODO_23",""
-48,"TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_000","오노루아 반라르두아가 쓴 '구름바다 기행'에 따르면
+3,TEXT_BANNAM607_03129_SEQ_03,광풍원 세이게츠에게 보고하자.
+4,TEXT_BANNAM607_03129_SEQ_04,
+5,TEXT_BANNAM607_03129_SEQ_05,
+6,TEXT_BANNAM607_03129_SEQ_06,
+7,TEXT_BANNAM607_03129_SEQ_07,
+8,TEXT_BANNAM607_03129_SEQ_08,
+9,TEXT_BANNAM607_03129_SEQ_09,
+10,TEXT_BANNAM607_03129_SEQ_10,
+11,TEXT_BANNAM607_03129_SEQ_11,
+12,TEXT_BANNAM607_03129_SEQ_12,
+13,TEXT_BANNAM607_03129_SEQ_13,
+14,TEXT_BANNAM607_03129_SEQ_14,
+15,TEXT_BANNAM607_03129_SEQ_15,
+16,TEXT_BANNAM607_03129_SEQ_16,
+17,TEXT_BANNAM607_03129_SEQ_17,
+18,TEXT_BANNAM607_03129_SEQ_18,
+19,TEXT_BANNAM607_03129_SEQ_19,
+20,TEXT_BANNAM607_03129_SEQ_20,
+21,TEXT_BANNAM607_03129_SEQ_21,
+22,TEXT_BANNAM607_03129_SEQ_22,
+23,TEXT_BANNAM607_03129_SEQ_23,
+24,TEXT_BANNAM607_03129_TODO_00,쿌 엔에 있는 채집 중인 나마즈오와 대화
+25,TEXT_BANNAM607_03129_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANNAM607_03129_TODO_02,광풍원 세이게츠에게 보고
+27,TEXT_BANNAM607_03129_TODO_03,
+28,TEXT_BANNAM607_03129_TODO_04,
+29,TEXT_BANNAM607_03129_TODO_05,
+30,TEXT_BANNAM607_03129_TODO_06,
+31,TEXT_BANNAM607_03129_TODO_07,
+32,TEXT_BANNAM607_03129_TODO_08,
+33,TEXT_BANNAM607_03129_TODO_09,
+34,TEXT_BANNAM607_03129_TODO_10,
+35,TEXT_BANNAM607_03129_TODO_11,
+36,TEXT_BANNAM607_03129_TODO_12,
+37,TEXT_BANNAM607_03129_TODO_13,
+38,TEXT_BANNAM607_03129_TODO_14,
+39,TEXT_BANNAM607_03129_TODO_15,
+40,TEXT_BANNAM607_03129_TODO_16,
+41,TEXT_BANNAM607_03129_TODO_17,
+42,TEXT_BANNAM607_03129_TODO_18,
+43,TEXT_BANNAM607_03129_TODO_19,
+44,TEXT_BANNAM607_03129_TODO_20,
+45,TEXT_BANNAM607_03129_TODO_21,
+46,TEXT_BANNAM607_03129_TODO_22,
+47,TEXT_BANNAM607_03129_TODO_23,
+48,TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_000,"오노루아 반라르두아가 쓴 '구름바다 기행'에 따르면
 서방의 수인 바누바누족은
 '파이싸 싸움'이라는 별난 제전을 연다고 한다."
-49,"TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_001","그래서 우리도 따라해보려고 쿠가네에서 새원숭이를 공수해왔다.
+49,TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_001,"그래서 우리도 따라해보려고 쿠가네에서 새원숭이를 공수해왔다.
 그런데 문제가 생겼다……."
-50,"TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_002","이 새원숭이들은
+50,TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_002,"이 새원숭이들은
 마음이 안 내키면 오두막에 틀어박혀 꼼짝도 하지 않는다.
 이래서야 파이싸 싸움이 아니라 파이싸 장식이 아닌가."
-51,"TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_003","그래서 녀석들이 관심을 가질 만한 물건을 눈앞에서 흔들어
+51,TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_003,"그래서 녀석들이 관심을 가질 만한 물건을 눈앞에서 흔들어
 투쟁심을 부추겨 볼까 한다."
-52,"TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_004","듣자하니 귀군도 구름바다에 가본 적이 있다지 않은가.
+52,TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_004,"듣자하니 귀군도 구름바다에 가본 적이 있다지 않은가.
 꼭 좀 '채집 중인 나마즈오'를 도와주기 바란다.
 '쿌 엔'에서 물건 준비를 하고 있을 거다."
-53,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_010","파이싸 싸움 준비를 도와줄거얌메?
+53,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_010,"파이싸 싸움 준비를 도와줄거얌메?
 그것 참 고맙담메."
-54,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_011","파이싸들이 관심을 가질 만한 게 뭔지 모르니까
+54,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_011,"파이싸들이 관심을 가질 만한 게 뭔지 모르니까
 이것저것 만들라고 해서 곤란하던 참이었담메.
 그중에는 나 혼자서는 준비할 수 없는 것도 있담메."
-55,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_012","（★未使用／削除予定★）"
-56,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_013","장인님한테는 정교한 '<Sheet(ItemHQ,22745,0)/>' 제작을 부탁할겜메.
+55,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_012,（★未使用／削除予定★）
+56,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_013,"장인님한테는 정교한 '' 제작을 부탁할겜메.
 옆에 있는 광풍원 세이게츠가 준 상자 안에
 쓸 만한 금속 재료가 들어 있을 거얌메."
-57,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_014","장인님한테는 정교한 '<Sheet(ItemHQ,22745,0)/>' 제작을 부탁할겜메.
+57,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_014,"장인님한테는 정교한 '' 제작을 부탁할겜메.
 옆에 있는 광풍원 세이게츠가 준 상자 안에
 쓸 만한 금속 재료가 들어 있을 거얌메."
-58,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_015","장인님한테는 정교한 '<Sheet(ItemHQ,22745,0)/>' 제작을 부탁할겜메.
+58,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_015,"장인님한테는 정교한 '' 제작을 부탁할겜메.
 옆에 있는 광풍원 세이게츠가 준 상자 안에
 쓸 만한 금속 재료가 들어 있을 거얌메."
-59,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_016","광부님한테는
-반짝반짝한 '<Sheet(Item,22641,0)/>'<13>FF0F02280BFF054974656DF258710103FF04EBA5BCFF04EC9D84</13> 부탁할겜메.
+59,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_016,"광부님한테는
+반짝반짝한 '' 부탁할겜메.
 쿌 엔 서쪽에서 캘 수 있을 거얌메."
-60,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_017","원예가님한테는
-매혹적인 '<Sheet(Item,22667,0)/>'<13>FF0F02280BFF054974656DF2588B0103FF04EBA5BCFF04EC9D84</13> 부탁할겜메.
+60,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_017,"원예가님한테는
+매혹적인 '' 부탁할겜메.
 쿌 엔 서쪽에서 채집할 수 있을 거얌메."
-61,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_018","어부님한테는
-눈길을 끌 수 있을 '<Sheet(Item,22693,0)/>'<13>FF0F02280BFF054974656DF258A50103FF04EBA5BCFF04EC9D84</13> 부탁할겜메.
-'<Sheet(Item,20613,0)/>' 같은 걸 쓰면 '도탈 카'에서 잡을 수 있을 거얌메."
-62,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_019","부탁한 것을 다 모으면 도로 일로에 있는
+61,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_018,"어부님한테는
+눈길을 끌 수 있을 '' 부탁할겜메.
+'' 같은 걸 쓰면 '도탈 카'에서 잡을 수 있을 거얌메."
+62,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_019,"부탁한 것을 다 모으면 도로 일로에 있는
 '교카'에게 전달해줬으면 좋겠담메.
 걔가 파이싸 싸움을 담당하고 있을 거담메!"
-63,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_020","혹시 재료가 부족하냠메?
+63,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_020,"혹시 재료가 부족하냠메?
 옆에 있는 상자에 들어 있으니까
 필요한 만큼 가져가도 된담메."
-64,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_021","혹시 재료가 부족하냠메?
+64,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_021,"혹시 재료가 부족하냠메?
 옆에 있는 상자에 들어 있으니까
 필요한 만큼 가져가도 된담메."
-65,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_022","혹시 재료가 부족하냠메?
+65,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_022,"혹시 재료가 부족하냠메?
 옆에 있는 상자에 들어 있으니까
 필요한 만큼 가져가도 된담메."
-66,"TEXT_BANNAM607_03129_SYSTEM_000_023","재료가 들어있는 상자가 있다.
+66,TEXT_BANNAM607_03129_SYSTEM_000_023,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-67,"TEXT_BANNAM607_03129_SYSTEM_000_024","재료가 들어있는 상자가 있다.
+67,TEXT_BANNAM607_03129_SYSTEM_000_024,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-68,"TEXT_BANNAM607_03129_SYSTEM_000_025","재료가 들어있는 상자가 있다.
+68,TEXT_BANNAM607_03129_SYSTEM_000_025,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-69,"TEXT_BANNAM607_03129_SYSTEM_000_026","재료가 들어있는 상자가 있다.
+69,TEXT_BANNAM607_03129_SYSTEM_000_026,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-70,"TEXT_BANNAM607_03129_SYSTEM_000_027","상자에서 필요한 재료를 꺼냈다!"
-71,"TEXT_BANNAM607_03129_SYSTEM_000_028","상자에서 필요한 재료를 꺼냈다!"
-72,"TEXT_BANNAM607_03129_SYSTEM_000_029","상자에서 필요한 재료를 꺼냈다!"
-73,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_030","재료는 내가 말한 근처에서 구할 수 있을 거담메.
+70,TEXT_BANNAM607_03129_SYSTEM_000_027,상자에서 필요한 재료를 꺼냈다!
+71,TEXT_BANNAM607_03129_SYSTEM_000_028,상자에서 필요한 재료를 꺼냈다!
+72,TEXT_BANNAM607_03129_SYSTEM_000_029,상자에서 필요한 재료를 꺼냈다!
+73,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_030,"재료는 내가 말한 근처에서 구할 수 있을 거담메.
 재료가 준비되면 도로 일로에 있는
 '교카'라는 애한테 전달해주길 바람메."
-74,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_031","재료는 내가 말한 근처에서 구할 수 있을 거담메.
+74,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_031,"재료는 내가 말한 근처에서 구할 수 있을 거담메.
 재료가 준비되면 도로 일로에 있는
 '교카'라는 애한테 전달해주길 바람메."
-75,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_032","재료는 내가 말한 근처에서 구할 수 있을 거담메.
+75,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_032,"재료는 내가 말한 근처에서 구할 수 있을 거담메.
 재료가 준비되면 도로 일로에 있는
 '교카'라는 애한테 전달해주길 바람메."
-76,"TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_033","부탁한 건 벌써 다 준비된 모양이구남메!
+76,TEXT_BANNAM607_03129_DAILYNAMAZUO03129_000_033,"부탁한 건 벌써 다 준비된 모양이구남메!
 그걸 도로 일로에 있는
 '교카'라는 애한테 전달하기 바란담메."
-77,"TEXT_BANNAM607_03129_GYOKA_000_034","으음, 파이싸 싸움 담당이 된 건 좋은데,
+77,TEXT_BANNAM607_03129_GYOKA_000_034,"으음, 파이싸 싸움 담당이 된 건 좋은데,
 파이싸가 의욕이 없어서 아주 곤란하담메.
 광풍원 세이게츠한테 상담하러 왔는데 소식이 없담메……."
-78,"TEXT_BANNAM607_03129_GYOKA_000_040","나마즈오 중 가장 귀여운 눈동자를 가진 자는 바로 나얌메!
+78,TEXT_BANNAM607_03129_GYOKA_000_040,"나마즈오 중 가장 귀여운 눈동자를 가진 자는 바로 나얌메!
 눈이 좋다고 파이싸 싸움 심판을 맡게 되었담메."
-79,"TEXT_BANNAM607_03129_GYOKA_000_041","하지만 파이싸가 너무 안 움직여서 어쩔 줄 모르고 있었담메.
+79,TEXT_BANNAM607_03129_GYOKA_000_041,"하지만 파이싸가 너무 안 움직여서 어쩔 줄 모르고 있었담메.
 당신은 차림새로 봐서 장인 같은데
 혹시 광풍원 세이게츠가 도움을 요청했다는 사람이얌메?"
-80,"TEXT_BANNAM607_03129_GYOKA_000_042","파이싸들의 의욕을 생기게 하는 건
+80,TEXT_BANNAM607_03129_GYOKA_000_042,"파이싸들의 의욕을 생기게 하는 건
 굉장히 힘들구남메……."
-81,"TEXT_BANNAM607_03129_GYOKA_000_043","아! 예전에도 파이싸를 위한 물건을 준 사람이잖암메!
+81,TEXT_BANNAM607_03129_GYOKA_000_043,"아! 예전에도 파이싸를 위한 물건을 준 사람이잖암메!
 혹시 이번에도 광풍원 세이게츠한테 부탁받고
 파이싸의 투쟁심을 불러일으킬 만한 물건을 갖고 왔냠메?"
-82,"TEXT_BANNAM607_03129_GYOKA_000_044","고맙담메!
+82,TEXT_BANNAM607_03129_GYOKA_000_044,"고맙담메!
 파이싸가 관심을 가질 만한 물건인 것 같담메!"
-83,"TEXT_BANNAM607_03129_GYOKA_000_045","나는 파이싸들한테 이걸 보여볼 테니까
+83,TEXT_BANNAM607_03129_GYOKA_000_045,"나는 파이싸들한테 이걸 보여볼 테니까
 '광풍원 세이게츠'한테도 고맙다는 말을 전해줘람메.
 그 후에라도 파이싸 싸움을 보러 와주면 좋겠담메!"
-84,"TEXT_BANNAM607_03129_GYOKA_000_046","（★未使用／削除予定★）"
-85,"TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_0050","파이싸 싸움을 위한 물건을 교카에게 전달해준 모양이군.
+84,TEXT_BANNAM607_03129_GYOKA_000_046,（★未使用／削除予定★）
+85,TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_0050,"파이싸 싸움을 위한 물건을 교카에게 전달해준 모양이군.
 여기서 다 보고 있었다, 수고했다."
-86,"TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_0051","덕분에 파이싸 싸움을 열 수 있을 것 같다.
+86,TEXT_BANNAM607_03129_KOFUINSEIGETSU_000_0051,"덕분에 파이싸 싸움을 열 수 있을 것 같다.
 상당히 첨예한 의식이라고 하니 귀군도 시간이 나면
 교카에게 말을 걸어서 보러 가게."
-87,"TEXT_BANNAM607_03129_SYSTEM_000_055","모험가의 도움으로 파이싸들의 투지가 타오른 것 같습니다!
+87,TEXT_BANNAM607_03129_SYSTEM_000_055,"모험가의 도움으로 파이싸들의 투지가 타오른 것 같습니다!
 앞으로 도로 일로에 있는 '교카'에게 말을 걸면
 파이싸 싸움을 관전할 수 있습니다."
-88,"TEXT_BANNAM607_03129_SYSTEM_000_056","（★未使用／削除予定★）"
-89,"TEXT_BANNAM607_03129_SYSTEM_000_060","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+88,TEXT_BANNAM607_03129_SYSTEM_000_056,（★未使用／削除予定★）
+89,TEXT_BANNAM607_03129_SYSTEM_000_060,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."
-90,"TEXT_BANNAM607_03129_SYSTEM_000_061","퀘스트 수행 중에 일반 품질 아이템이 채집되었습니다.
+90,TEXT_BANNAM607_03129_SYSTEM_000_061,"퀘스트 수행 중에 일반 품질 아이템이 채집되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."

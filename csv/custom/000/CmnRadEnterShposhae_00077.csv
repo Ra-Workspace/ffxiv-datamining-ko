@@ -1,33 +1,31 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_1","이곳 '사스타샤 침식 동굴'은
+#,Unknown0,Unknown1
+0,TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_1,"이곳 '사스타샤 침식 동굴'은
 노란셔츠 제4상륙부대가 관할하는 구역이다."
-1,"TEXT_CMNRADENTERSHPOSHAE_00077_Q1_1","무슨 일로 왔습니까?"
-2,"TEXT_CMNRADENTERSHPOSHAE_00077_A1_1","'사스타샤 침식 동굴' 시작 조건 묻기"
-3,"TEXT_CMNRADENTERSHPOSHAE_00077_A1_2","'사스타샤 침식 동굴' 시작"
-4,"TEXT_CMNRADENTERSHPOSHAE_00077_A1_3","취소"
-5,"TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_5","'사스타샤 침식 동굴'은 특별 위험구역으로 지정되어 있다.
+1,TEXT_CMNRADENTERSHPOSHAE_00077_Q1_1,무슨 일로 왔습니까?
+2,TEXT_CMNRADENTERSHPOSHAE_00077_A1_1,'사스타샤 침식 동굴' 시작 조건 묻기
+3,TEXT_CMNRADENTERSHPOSHAE_00077_A1_2,'사스타샤 침식 동굴' 시작
+4,TEXT_CMNRADENTERSHPOSHAE_00077_A1_3,취소
+5,TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_5,"'사스타샤 침식 동굴'은 특별 위험구역으로 지정되어 있다.
 인원수와 참가 자격에 제한이 있으니 주의하도록."
-6,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_6","'사스타샤 침식 동굴'을 시작하려면
+6,TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_6,"'사스타샤 침식 동굴'을 시작하려면
 투사 또는 마법사 레벨 15 이상인 플레이어 4명이
 파티를 맺어야 합니다."
-7,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_7","(현실 시간) 90분이 경과하면
+7,TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_7,"(현실 시간) 90분이 경과하면
 '사스타샤 침식 동굴'이 강제로 종료됩니다."
-8,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_8","또한, 퀘스트 '사스타샤에 도전하는 자'를 받아서
+8,TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_8,"또한, 퀘스트 '사스타샤에 도전하는 자'를 받아서
 일정 단계 이상 진행해놓아야 합니다.
 그리고 레벨이 19 이상이면 공략 중에는 레벨 18로 조율됩니다."
-9,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_9","전리품이 남은 상태에서 다른 파티원이 모두 퇴장하면
+9,TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_9,"전리품이 남은 상태에서 다른 파티원이 모두 퇴장하면
 전리품 목록에 있는 모든 아이템을 자동으로 획득합니다.
 획득하지 못한 아이템은 파기되므로 주의하십시오."
-10,"TEXT_CMNRADENTERSHPOSHAE_00077_Q2_1","'사스타샤 침식 동굴'을 시작하시겠습니까?"
-11,"TEXT_CMNRADENTERSHPOSHAE_00077_A2_1","예"
-12,"TEXT_CMNRADENTERSHPOSHAE_00077_A2_2","아니요"
-13,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_10","<Sheet(InstanceContentTextData,IntegerParameter(1),0)/><Sheet(InstanceContent,IntegerParameter(2),3)/><13>FF3902281DFF18496E7374616E6365436F6E74656E745465787444617461E8020103022815FF10496E7374616E6365436F6E74656E74E8030403FF04EBA5BCFF04EC9D84</13> 시작하지 못했습니다.
+10,TEXT_CMNRADENTERSHPOSHAE_00077_Q2_1,'사스타샤 침식 동굴'을 시작하시겠습니까?
+11,TEXT_CMNRADENTERSHPOSHAE_00077_A2_1,예
+12,TEXT_CMNRADENTERSHPOSHAE_00077_A2_2,아니요
+13,TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_10," 시작하지 못했습니다.
 시작 조건을 확인하십시오."
-14,"TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_20","이 앞에 있는 '사스타샤 침식 동굴'은
+14,TEXT_CMNRADENTERSHPOSHAE_00077_DPERJHA_20,"이 앞에 있는 '사스타샤 침식 동굴'은
 노란셔츠 제4상륙부대가 관할하는 구역이다.
 자격이 없는 자를 들여보낼 순 없다."
-15,"TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_20","'사스타샤 침식 동굴'에 도전할 자격을 얻으려면
+15,TEXT_CMNRADENTERSHPOSHAE_00077_SYSTEM_20,"'사스타샤 침식 동굴'에 도전할 자격을 얻으려면
 퀘스트 '사스타샤에 도전하는 자'를 받아서
 일정 단계 이상 진행해놓아야 합니다."

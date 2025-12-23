@@ -1,189 +1,187 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_FESNYR301_01549_SEQ_00","※ 이 퀘스트는 기간 한정 퀘스트입니다.
+#,Unknown0,Unknown1
+0,TEXT_FESNYR301_01549_SEQ_00,"※ 이 퀘스트는 기간 한정 퀘스트입니다.
 
 림사 로민사의 닭 사또는 모험가에게 부탁하고 싶은 일이 있는 듯하다."
-1,"TEXT_FESNYR301_01549_SEQ_01","※ 이 퀘스트는 기간 한정 이벤트 개최 기간에만
+1,TEXT_FESNYR301_01549_SEQ_01,"※ 이 퀘스트는 기간 한정 이벤트 개최 기간에만
    진행하실 수 있습니다.
    개최 기간이 끝나면 진행하실 수 없으니 주의하십시오.
    자세한 사항은 공식 홈페이지를 참조하시기 바랍니다.
 
 '강신제'를 축하하기 위해 동쪽 나라에서 온 닭 사또가 기념행사에 많은 사람이 와줬으면 한다며 도와달라고 했다. 림사 로민사의 하층 갑판에 있는 사람들에게 말을 걸어, 닭 사또 일행이 준비하고 있는 행사를 홍보하자."
-2,"TEXT_FESNYR301_01549_SEQ_02","림사 로민사 '하층 갑판'에서 행사를 홍보했다. 뱃고물 광장에 있는 '닭 사또'에게 보고하자."
-3,"TEXT_FESNYR301_01549_SEQ_03","닭 사또에게 보고하던 중, 떡 종사관이 나타났다. 행사에 필요한 강신떡을 회수하지 못해 곤경에 처한 모양이다. 중부 라노시아 '산들바람 관문' 남동쪽과 저지 라노시아 '소금기둥 해변' 동쪽에서 발생하는 돌발 임무 ""찰진 떡을 가지고 도망가라!""에 참가하여 강신떡 회수를 돕자."
-4,"TEXT_FESNYR301_01549_SEQ_04","강신떡 회수를 도왔다. 림사 로민사 '뱃고물 광장'에 있는 '닭 사또'에게 보고하자."
-5,"TEXT_FESNYR301_01549_SEQ_05","닭 사또에게 보고했다. 모험가의 활약 덕분에 행사를 무사히 치를 수 있었다. '강신제' 기간 동안 행사를 계속하겠다고 하니, 다음에 또 떡 찧기 행사를 발견하면 떡 회수를 도와주자."
-6,"TEXT_FESNYR301_01549_SEQ_06",""
-7,"TEXT_FESNYR301_01549_SEQ_07",""
-8,"TEXT_FESNYR301_01549_SEQ_08",""
-9,"TEXT_FESNYR301_01549_SEQ_09",""
-10,"TEXT_FESNYR301_01549_SEQ_10",""
-11,"TEXT_FESNYR301_01549_SEQ_11",""
-12,"TEXT_FESNYR301_01549_SEQ_12",""
-13,"TEXT_FESNYR301_01549_SEQ_13",""
-14,"TEXT_FESNYR301_01549_SEQ_14",""
-15,"TEXT_FESNYR301_01549_SEQ_15",""
-16,"TEXT_FESNYR301_01549_SEQ_16",""
-17,"TEXT_FESNYR301_01549_SEQ_17",""
-18,"TEXT_FESNYR301_01549_SEQ_18",""
-19,"TEXT_FESNYR301_01549_SEQ_19",""
-20,"TEXT_FESNYR301_01549_SEQ_20",""
-21,"TEXT_FESNYR301_01549_SEQ_21",""
-22,"TEXT_FESNYR301_01549_SEQ_22",""
-23,"TEXT_FESNYR301_01549_SEQ_23",""
-24,"TEXT_FESNYR301_01549_TODO_00","하층 갑판에서 시민들에게 홍보"
-25,"TEXT_FESNYR301_01549_TODO_01","닭 사또에게 보고"
-26,"TEXT_FESNYR301_01549_TODO_02","에오르제아 각지에서 돌발 임무 달성"
-27,"TEXT_FESNYR301_01549_TODO_03","림사 로민사에서 닭 사또에게 보고"
-28,"TEXT_FESNYR301_01549_TODO_04",""
-29,"TEXT_FESNYR301_01549_TODO_05",""
-30,"TEXT_FESNYR301_01549_TODO_06",""
-31,"TEXT_FESNYR301_01549_TODO_07",""
-32,"TEXT_FESNYR301_01549_TODO_08",""
-33,"TEXT_FESNYR301_01549_TODO_09",""
-34,"TEXT_FESNYR301_01549_TODO_10",""
-35,"TEXT_FESNYR301_01549_TODO_11",""
-36,"TEXT_FESNYR301_01549_TODO_12",""
-37,"TEXT_FESNYR301_01549_TODO_13",""
-38,"TEXT_FESNYR301_01549_TODO_14",""
-39,"TEXT_FESNYR301_01549_TODO_15",""
-40,"TEXT_FESNYR301_01549_TODO_16",""
-41,"TEXT_FESNYR301_01549_TODO_17",""
-42,"TEXT_FESNYR301_01549_TODO_18",""
-43,"TEXT_FESNYR301_01549_TODO_19",""
-44,"TEXT_FESNYR301_01549_TODO_20",""
-45,"TEXT_FESNYR301_01549_TODO_21",""
-46,"TEXT_FESNYR301_01549_TODO_22",""
-47,"TEXT_FESNYR301_01549_TODO_23",""
-48,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_000","실례합니다, 거기 가는 <If(PlayerParameter(4))>여자분<Else/>남자분</If>!
+2,TEXT_FESNYR301_01549_SEQ_02,림사 로민사 '하층 갑판'에서 행사를 홍보했다. 뱃고물 광장에 있는 '닭 사또'에게 보고하자.
+3,TEXT_FESNYR301_01549_SEQ_03,"닭 사또에게 보고하던 중, 떡 종사관이 나타났다. 행사에 필요한 강신떡을 회수하지 못해 곤경에 처한 모양이다. 중부 라노시아 '산들바람 관문' 남동쪽과 저지 라노시아 '소금기둥 해변' 동쪽에서 발생하는 돌발 임무 ""찰진 떡을 가지고 도망가라!""에 참가하여 강신떡 회수를 돕자."
+4,TEXT_FESNYR301_01549_SEQ_04,강신떡 회수를 도왔다. 림사 로민사 '뱃고물 광장'에 있는 '닭 사또'에게 보고하자.
+5,TEXT_FESNYR301_01549_SEQ_05,"닭 사또에게 보고했다. 모험가의 활약 덕분에 행사를 무사히 치를 수 있었다. '강신제' 기간 동안 행사를 계속하겠다고 하니, 다음에 또 떡 찧기 행사를 발견하면 떡 회수를 도와주자."
+6,TEXT_FESNYR301_01549_SEQ_06,
+7,TEXT_FESNYR301_01549_SEQ_07,
+8,TEXT_FESNYR301_01549_SEQ_08,
+9,TEXT_FESNYR301_01549_SEQ_09,
+10,TEXT_FESNYR301_01549_SEQ_10,
+11,TEXT_FESNYR301_01549_SEQ_11,
+12,TEXT_FESNYR301_01549_SEQ_12,
+13,TEXT_FESNYR301_01549_SEQ_13,
+14,TEXT_FESNYR301_01549_SEQ_14,
+15,TEXT_FESNYR301_01549_SEQ_15,
+16,TEXT_FESNYR301_01549_SEQ_16,
+17,TEXT_FESNYR301_01549_SEQ_17,
+18,TEXT_FESNYR301_01549_SEQ_18,
+19,TEXT_FESNYR301_01549_SEQ_19,
+20,TEXT_FESNYR301_01549_SEQ_20,
+21,TEXT_FESNYR301_01549_SEQ_21,
+22,TEXT_FESNYR301_01549_SEQ_22,
+23,TEXT_FESNYR301_01549_SEQ_23,
+24,TEXT_FESNYR301_01549_TODO_00,하층 갑판에서 시민들에게 홍보
+25,TEXT_FESNYR301_01549_TODO_01,닭 사또에게 보고
+26,TEXT_FESNYR301_01549_TODO_02,에오르제아 각지에서 돌발 임무 달성
+27,TEXT_FESNYR301_01549_TODO_03,림사 로민사에서 닭 사또에게 보고
+28,TEXT_FESNYR301_01549_TODO_04,
+29,TEXT_FESNYR301_01549_TODO_05,
+30,TEXT_FESNYR301_01549_TODO_06,
+31,TEXT_FESNYR301_01549_TODO_07,
+32,TEXT_FESNYR301_01549_TODO_08,
+33,TEXT_FESNYR301_01549_TODO_09,
+34,TEXT_FESNYR301_01549_TODO_10,
+35,TEXT_FESNYR301_01549_TODO_11,
+36,TEXT_FESNYR301_01549_TODO_12,
+37,TEXT_FESNYR301_01549_TODO_13,
+38,TEXT_FESNYR301_01549_TODO_14,
+39,TEXT_FESNYR301_01549_TODO_15,
+40,TEXT_FESNYR301_01549_TODO_16,
+41,TEXT_FESNYR301_01549_TODO_17,
+42,TEXT_FESNYR301_01549_TODO_18,
+43,TEXT_FESNYR301_01549_TODO_19,
+44,TEXT_FESNYR301_01549_TODO_20,
+45,TEXT_FESNYR301_01549_TODO_21,
+46,TEXT_FESNYR301_01549_TODO_22,
+47,TEXT_FESNYR301_01549_TODO_23,
+48,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_000,"실례합니다, 거기 가는 여자분!
 그 차림새와 행동거지는…… 이른바 모험가가 아니신가요?
 그러시다면 잠시만 제 이야기를 들어주지 않겠습니까?"
-49,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_001","아, 그리 오래 걸리진 않을 겁니다.
+49,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_001,"아, 그리 오래 걸리진 않을 겁니다.
 저로 말하자면 '닭 사또'라고 하는 자이온데
 '강신제' 축하사절단을 이끌고 동방에서 왔답니다!"
-50,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_002","에오르제아에서는 강신제의 계절이 찾아오면
+50,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_002,"에오르제아에서는 강신제의 계절이 찾아오면
 열두 신 중에서 새로운 주신이 정해진다고 하는데……
 동방에서는 열두 동물이 돌아가면서 새로운 상징으로 정해지죠."
-51,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_003","이번 상징은 '새'라서 이렇게 제가 오게 된 것이고요.
+51,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_003,"이번 상징은 '새'라서 이렇게 제가 오게 된 것이고요.
 '새'라고 하면 동방에서는 닭을 먼저 떠올리지만,
 에오르제아에서는 초코보가 가장 사랑받는 새라지요?"
-52,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_004","그래서 여러분이 애착을 느끼시도록
+52,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_004,"그래서 여러분이 애착을 느끼시도록
 이런 투구를 준비해 왔답니다!"
-53,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_005","어떻습니까?!
+53,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_005,"어떻습니까?!
 사랑스러운 데다 눈에 띄기까지. 정말 최고 아닙니까?
 이걸 드릴 테니 부디 절 좀 도와주셨으면 합니다."
-54,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_006","……그런데 모험가 <If(PlayerParameter(4))>낭자<Else/>도령</If>께서는
+54,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_006,"……그런데 모험가 낭자께서는
 '떡 찧기'에 대해 아시나요?"
-55,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_007","（★未使用／削除予定★）"
-56,"TEXT_FESNYR301_01549_CHOICE1Q1_000_000","'떡 찧기'를 아십니까?"
-57,"TEXT_FESNYR301_01549_CHOICE1A1_001_001","알고 있다!"
-58,"TEXT_FESNYR301_01549_CHOICE1A2_002_002","잘 모르겠다……."
-59,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_008","'떡 찧기'가 복을 부른다는 사실을 알고 계신 데다,
+55,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_007,（★未使用／削除予定★）
+56,TEXT_FESNYR301_01549_CHOICE1Q1_000_000,'떡 찧기'를 아십니까?
+57,TEXT_FESNYR301_01549_CHOICE1A1_001_001,알고 있다!
+58,TEXT_FESNYR301_01549_CHOICE1A2_002_002,잘 모르겠다…….
+59,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_008,"'떡 찧기'가 복을 부른다는 사실을 알고 계신 데다,
 예전에 원숭이 사또가 방문했을 때 도와주셨던 분이라니!
 이야, 하늘이 도우셨군요!"
-60,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_009","이거 놀랍군요, '떡 찧기'가 동쪽 나라에서는
+60,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_009,"이거 놀랍군요, '떡 찧기'가 동쪽 나라에서는
 복을 부르는 행위라는 사실을 알고 계시다니!
 전 정말 운이 좋군요!"
-61,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_010","커다란 절구에 떡쌀을 넣은 다음, 절굿공이로 빻아
+61,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_010,"커다란 절구에 떡쌀을 넣은 다음, 절굿공이로 빻아
 떡을 만드는 행위…… 이것이 바로 '떡 찧기'입니다.
 동쪽 나라에서는 복이 오기를 빌며 떡을 찧는답니다."
-62,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_011","지난번에 호평을 받아서 이번에도 떡을 나눠드리면서
+62,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_011,"지난번에 호평을 받아서 이번에도 떡을 나눠드리면서
 에오르제아 분들과 친목을 다지려고요.
 그리고 이왕이면 더 많은 분과 함께 즐기고 싶습니다!"
-63,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_012","막 찧은 떡을 나눠드리며
+63,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_012,"막 찧은 떡을 나눠드리며
 에오르제아 분들과 친목을 다지려고 합니다.
 하지만 이왕이면 많은 분들과 함께 즐기고 싶습니다!"
-64,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_013","그래서 에오르제아 분들과도 안면이 있고,
+64,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_013,"그래서 에오르제아 분들과도 안면이 있고,
 절 도와주실 만한 분을 찾고 있었답니다!
 이것도 인연이니, 좀 도와주시지 않겠습니까?"
-65,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_014","감사합니다, 정말 다행입니다!
+65,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_014,"감사합니다, 정말 다행입니다!
 그럼, 저는 상층 갑판을 한 바퀴 둘러보고 올 테니,
-<If(PlayerParameter(4))>낭자<Else/>도령</If>께서는 하층 갑판을 돌며 홍보해 주시겠습니까?"
-66,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_015","떡 준비는 여기 계신 '떡 종사관'이
+낭자께서는 하층 갑판을 돌며 홍보해 주시겠습니까?"
+66,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_015,"떡 준비는 여기 계신 '떡 종사관'이
 알아서 척척 해주실 테니 걱정 마시고요!"
-67,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_016","오~ 오랜만이군!
+67,TEXT_FESNYR301_01549_RICECAKEREEVE_000_016,"오~ 오랜만이군!
 저번에는 정말 고마웠어!"
-68,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_017","네가 홍보하는 동안 떡을 준비해두지!
+68,TEXT_FESNYR301_01549_RICECAKEREEVE_000_017,"네가 홍보하는 동안 떡을 준비해두지!
 뭐, 이번에는 사이클롭스를 길들여놨으니 문제없을 거야!
 그럼 나중에 봐!"
-69,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_018","오냐, 내가 바로 '떡 종사관'이시다!
+69,TEXT_FESNYR301_01549_RICECAKEREEVE_000_018,"오냐, 내가 바로 '떡 종사관'이시다!
 '떡 찧기'라면 내게 맡겨두라고!"
-70,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_019","네가 홍보하는 동안 떡을 준비해두지!
+70,TEXT_FESNYR301_01549_RICECAKEREEVE_000_019,"네가 홍보하는 동안 떡을 준비해두지!
 힘센 사이클롭스가 있는 힘껏 떡을 찧을 예정이거든!
 그럼 나중에 봐!"
-71,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_020","그럼, 림사 로민사 분들께 잘 말해주세요.
+71,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_020,"그럼, 림사 로민사 분들께 잘 말해주세요.
 잘 부탁드립니다!"
-72,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_021","저는 상층 갑판을 한 바퀴 둘러보고 올 테니,
-<If(PlayerParameter(4))>낭자<Else/>도령</If>께서는 하층 갑판을 돌며 홍보해 주시겠습니까?아무쪼록 잘 부탁드립니다!"
-73,"TEXT_FESNYR301_01549_RYSSFLOH_000_030","왜, 무슨 일이야?"
-74,"TEXT_FESNYR301_01549_RYSSFLOH_000_031","동쪽 나라에서 온 사절이 떡을 나눠준다고?
+72,TEXT_FESNYR301_01549_RICECAKEREEVE_000_021,"저는 상층 갑판을 한 바퀴 둘러보고 올 테니,
+낭자께서는 하층 갑판을 돌며 홍보해 주시겠습니까?아무쪼록 잘 부탁드립니다!"
+73,TEXT_FESNYR301_01549_RYSSFLOH_000_030,"왜, 무슨 일이야?"
+74,TEXT_FESNYR301_01549_RYSSFLOH_000_031,"동쪽 나라에서 온 사절이 떡을 나눠준다고?
 그거 재미있을 것 같군, 나중에 들러볼게!"
-75,"TEXT_FESNYR301_01549_SWOZBLAET_000_032","어서 옵쇼!
+75,TEXT_FESNYR301_01549_SWOZBLAET_000_032,"어서 옵쇼!
 뭐야, 뭐 찾는 거라도 있어?"
-76,"TEXT_FESNYR301_01549_SWOZBLAET_000_033","강신제를 축하하기 위해 온 사절단이 떡을 준다고?
+76,TEXT_FESNYR301_01549_SWOZBLAET_000_033,"강신제를 축하하기 위해 온 사절단이 떡을 준다고?
 그거 고맙군!
 이 거리에 있는 녀석들과 함께 가봐야겠어!"
-77,"TEXT_FESNYR301_01549_RBAHARRA_000_034","무슨 일이시죠?
+77,TEXT_FESNYR301_01549_RBAHARRA_000_034,"무슨 일이시죠?
 멜반 세관공사에 용건이 있으신가요?"
-78,"TEXT_FESNYR301_01549_RBAHARRA_000_035","동방에서 오신 분들이 떡을 나눠주신다고요?
+78,TEXT_FESNYR301_01549_RBAHARRA_000_035,"동방에서 오신 분들이 떡을 나눠주신다고요?
 그것참 흥미로운데요!
 얼른 일을 끝마치고 가봐야겠네요!"
-79,"TEXT_FESNYR301_01549_RYSSFLOH_000_036","동쪽 나라에서 온 사절이 떡을 나눠준다면서?
+79,TEXT_FESNYR301_01549_RYSSFLOH_000_036,"동쪽 나라에서 온 사절이 떡을 나눠준다면서?
 재미있을 것 같으니 나중에 들러볼게!"
-80,"TEXT_FESNYR301_01549_SWOZBLAET_000_037","강신제를 축하하기 위해 온 사절단이
+80,TEXT_FESNYR301_01549_SWOZBLAET_000_037,"강신제를 축하하기 위해 온 사절단이
 떡까지 나눠주다니, 이렇게 고마울 수가.
 동네 애들이랑 함께 가봐야겠어!"
-81,"TEXT_FESNYR301_01549_RBAHARRA_000_038","동방에서 오신 분들이 떡을 나눠준다고 하셨죠?
+81,TEXT_FESNYR301_01549_RBAHARRA_000_038,"동방에서 오신 분들이 떡을 나눠준다고 하셨죠?
 일을 얼른 끝마치고 가봐야겠네요!"
-82,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_050","<If(PlayerParameter(4))>낭자<Else/>도령</If>, 홍보는 잘 되었습니까!?"
-83,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_051","아주 좋아요, 많은 분이 모여주실 것 같군요!
+82,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_050,"낭자, 홍보는 잘 되었습니까!?"
+83,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_051,"아주 좋아요, 많은 분이 모여주실 것 같군요!
 떡 종사관께서도 슬슬 돌아올 때가 되었는데……
 호랑이도 제 말한다면 온다더니, 오셨네요!"
-84,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_052","헉, 헉…… 젠장. 일 났다, 일 났어!
+84,TEXT_FESNYR301_01549_RICECAKEREEVE_000_052,"헉, 헉…… 젠장. 일 났다, 일 났어!
 떡쌀을 노리고 온 건지
 어디선가 '새'들이 몰려오는 바람에 난리가 났어!"
-85,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_053","그, 그게 정말입니까!?"
-86,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_054","일부러 여기까지 뛰어와서 거짓말을 왜 하겠냐!
+85,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_053,"그, 그게 정말입니까!?"
+86,TEXT_FESNYR301_01549_RICECAKEREEVE_000_054,"일부러 여기까지 뛰어와서 거짓말을 왜 하겠냐!
 아무튼, 이래선 겨우 준비한 떡을 전부 빼앗기겠어!"
-87,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_055","……그렇지, 떡 모으는 것 좀 도와주지 않을래!?
+87,TEXT_FESNYR301_01549_RICECAKEREEVE_000_055,"……그렇지, 떡 모으는 것 좀 도와주지 않을래!?
 모험가라면 새들이 날뛰는 와중에도 떡을 모아올 수 있겠지!"
-88,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_056","응? 갑자기 왜 그러니?
+88,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_056,"응? 갑자기 왜 그러니?
 …………설마, 너도 같이 가고 싶어!?"
-89,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_057","오오, 우리를 도와주겠다고? 그것참 고맙군!
+89,TEXT_FESNYR301_01549_RICECAKEREEVE_000_057,"오오, 우리를 도와주겠다고? 그것참 고맙군!
 …………맞다, '그 녀석'한테도 도와달라고 해볼까?"
-90,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_058","저번에 떡 모으는 걸 도와준 '지로마루'를 기억해?
+90,TEXT_FESNYR301_01549_RICECAKEREEVE_000_058,"저번에 떡 모으는 걸 도와준 '지로마루'를 기억해?
 그 녀석이라면 이 일에 익숙할 테니 마침 잘 됐군!"
-91,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_059","저번에 떡 모으는 걸 도와준
+91,TEXT_FESNYR301_01549_RICECAKEREEVE_000_059,"저번에 떡 모으는 걸 도와준
 '지로마루'라는 파이싸가 있어.
 그 녀석이라면 이 일에 익숙할 테니 마침 잘 됐군!"
-92,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_060","……응? 새가 아니지 않냐고?
+92,TEXT_FESNYR301_01549_RICECAKEREEVE_000_060,"……응? 새가 아니지 않냐고?
 동쪽 나라에서는 파이싸를 '새원숭이'라고 부르지.
 새처럼 생긴 원숭이니까 괜찮아!"
-93,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_061","원숭이처럼 생긴 새인 건지, 사실 나도 잘 모르지만……
+93,TEXT_FESNYR301_01549_RICECAKEREEVE_000_061,"원숭이처럼 생긴 새인 건지, 사실 나도 잘 모르지만……
 뭐, 사소한 건 아무렴 어때!"
-94,"TEXT_FESNYR301_01549_RICECAKEREEVE_000_062","자, 그럼 가볼까!
+94,TEXT_FESNYR301_01549_RICECAKEREEVE_000_062,"자, 그럼 가볼까!
 난 지로마루를 데려갈 테니, 넌 바로 현장으로 가!"
-95,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_063","이러다간 찾아주신 손님들을 빈손으로 돌려보내게 생겼네요……!
+95,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_063,"이러다간 찾아주신 손님들을 빈손으로 돌려보내게 생겼네요……!
 무사히 떡을 나눠드릴 수 있도록 부디 잘 부탁드립니다!"
-96,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_070","기다리고 있었습니다!
-<If(PlayerParameter(4))>낭자<Else/>도령</If> 덕분에 무사히 떡을 돌릴 수 있었습니다.
+96,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_070,"기다리고 있었습니다!
+낭자 덕분에 무사히 떡을 돌릴 수 있었습니다.
 손님 여러분들이 기뻐하는 모습을 보세요!"
-97,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_071","떡 종사관도 이런 때를 대비해
+97,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_071,"떡 종사관도 이런 때를 대비해
 사이클롭스에게 '떡 찧기'를 열심히 가르치셨죠.
 맹훈련이 결실을 맺게 되어 정말 다행이에요!"
-98,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_072","게다가 지로마루뿐만 아니라,
+98,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_072,"게다가 지로마루뿐만 아니라,
 에오르제아에서 빌린 초코보도 저흴 도와줬답니다!
 이렇게 기쁜 일이 또 있을까요!?"
-99,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_073","에오르제아 분들과 초코보의 끈끈한 인연을
+99,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_073,"에오르제아 분들과 초코보의 끈끈한 인연을
 엿볼 수 있는 좋은 기회가 되었습니다!"
-100,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_074","다사다난했지만, 어쨌든 '강신제'는 대성공입니다!
+100,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_074,"다사다난했지만, 어쨌든 '강신제'는 대성공입니다!
 도와주셔서 정말 감사합니다!
 약속대로 이 특별한 투구를 드릴게요!"
-101,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_075","（★未使用／削除予定★）"
-102,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_076","그야말로 동방과 서방의 친목을 상징하는 증표……
+101,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_075,（★未使用／削除予定★）
+102,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_076,"그야말로 동방과 서방의 친목을 상징하는 증표……
 최고의 길조인 초코보를 머리에 쓰고
-<If(PlayerParameter(4))>낭자<Else/>도령</If>도 사람들의 이목을 끌어보세요!"
-103,"TEXT_FESNYR301_01549_BIRDMISSIONARY_000_077","아, 그리고…… 인기에 힘입어
+낭자도 사람들의 이목을 끌어보세요!"
+103,TEXT_FESNYR301_01549_BIRDMISSIONARY_000_077,"아, 그리고…… 인기에 힘입어
 '강신제' 기간 중에는 계속 떡을 돌릴 예정이에요.
 괜찮으시다면 또 도와주세요!"

@@ -1,154 +1,152 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_KINGZC202_05082_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_KINGZC202_05082_SEQ_00,"**특수 규칙:  레벨 보정**
 오크 하누에 있는 라누하누는 깃털 가공 작업을 시작하고 싶은 듯하다."
-1,"TEXT_KINGZC202_05082_SEQ_01","※ 이 퀘스트에는 '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정'<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+1,TEXT_KINGZC202_05082_SEQ_01,"※ 이 퀘스트에는 '**** 레벨 보정'
 　적용됩니다.
 
 라누하누가 가공에 사용할 염료와 기름을 가져와 달라고 부탁했다. 코자말루 카의 오크 벡크베에서 '하누하누족 창고지기'와 대화하자."
-2,"TEXT_KINGZC202_05082_SEQ_02","하누하누족 창고지기와 대화했다. 오크 벡크베의 '<Sheet(EObj,2014281,0)/>'<13>FF1002280CFF05454F626AF61EBC490103FF04EBA5BCFF04EC9D84</13> 들자."
-3,"TEXT_KINGZC202_05082_SEQ_03","<Sheet(EObj,2014281,0)/><13>FF1002280CFF05454F626AF61EBC490103FF04EBA5BCFF04EC9D84</13> 들었다. 오크 하누의 '<Sheet(EObj,2014284,0)/>'까지 운반하자.
+2,TEXT_KINGZC202_05082_SEQ_02,하누하누족 창고지기와 대화했다. 오크 벡크베의 '' 들자.
+3,TEXT_KINGZC202_05082_SEQ_03," 들었다. 오크 하누의 ''까지 운반하자.
 
 ※ 운반 상태는 일정 시간이 지나면 효과가 사라집니다."
-4,"TEXT_KINGZC202_05082_SEQ_04","기름과 염료가 담긴 상자를 운반했다. 오크 하누에 있는 '라누하누'와 대화하자."
-5,"TEXT_KINGZC202_05082_SEQ_05","깃털 가공 작업을 하면서 나한셰의 생각도 서서히 바뀌고 있는 듯하다. 오크 하누에 있는 '나한셰'와 대화하자."
-6,"TEXT_KINGZC202_05082_SEQ_06","나한셰와 함께 라누하누에게 다음으로 도울 일은 무엇인지 들었다. 케츠할리의 장식을 이용하기에 앞서 어떤 의식을 치른다고 한다."
-7,"TEXT_KINGZC202_05082_SEQ_07",""
-8,"TEXT_KINGZC202_05082_SEQ_08",""
-9,"TEXT_KINGZC202_05082_SEQ_09",""
-10,"TEXT_KINGZC202_05082_SEQ_10",""
-11,"TEXT_KINGZC202_05082_SEQ_11",""
-12,"TEXT_KINGZC202_05082_SEQ_12",""
-13,"TEXT_KINGZC202_05082_SEQ_13",""
-14,"TEXT_KINGZC202_05082_SEQ_14",""
-15,"TEXT_KINGZC202_05082_SEQ_15",""
-16,"TEXT_KINGZC202_05082_SEQ_16",""
-17,"TEXT_KINGZC202_05082_SEQ_17",""
-18,"TEXT_KINGZC202_05082_SEQ_18",""
-19,"TEXT_KINGZC202_05082_SEQ_19",""
-20,"TEXT_KINGZC202_05082_SEQ_20",""
-21,"TEXT_KINGZC202_05082_SEQ_21",""
-22,"TEXT_KINGZC202_05082_SEQ_22",""
-23,"TEXT_KINGZC202_05082_SEQ_23",""
-24,"TEXT_KINGZC202_05082_TODO_00","하누하누족 창고지기와 대화"
-25,"TEXT_KINGZC202_05082_TODO_01","<Sheet(EObj,2014281,0)/> 들기"
-26,"TEXT_KINGZC202_05082_TODO_02","기름과 염료가 담긴 상자를 <Sheet(EObj,2014284,0)/>까지 운반"
-27,"TEXT_KINGZC202_05082_TODO_03","라누하누와 대화"
-28,"TEXT_KINGZC202_05082_TODO_04","나한셰와 대화"
-29,"TEXT_KINGZC202_05082_TODO_05",""
-30,"TEXT_KINGZC202_05082_TODO_06",""
-31,"TEXT_KINGZC202_05082_TODO_07",""
-32,"TEXT_KINGZC202_05082_TODO_08",""
-33,"TEXT_KINGZC202_05082_TODO_09",""
-34,"TEXT_KINGZC202_05082_TODO_10",""
-35,"TEXT_KINGZC202_05082_TODO_11",""
-36,"TEXT_KINGZC202_05082_TODO_12",""
-37,"TEXT_KINGZC202_05082_TODO_13",""
-38,"TEXT_KINGZC202_05082_TODO_14",""
-39,"TEXT_KINGZC202_05082_TODO_15",""
-40,"TEXT_KINGZC202_05082_TODO_16",""
-41,"TEXT_KINGZC202_05082_TODO_17",""
-42,"TEXT_KINGZC202_05082_TODO_18",""
-43,"TEXT_KINGZC202_05082_TODO_19",""
-44,"TEXT_KINGZC202_05082_TODO_20",""
-45,"TEXT_KINGZC202_05082_TODO_21",""
-46,"TEXT_KINGZC202_05082_TODO_22",""
-47,"TEXT_KINGZC202_05082_TODO_23",""
-48,"TEXT_KINGZC202_05082_NAHANSHE_000_000","돕는 게 빨리 끝나면 좋겠는데……."
-49,"TEXT_KINGZC202_05082_LANUHANU_000_000","그럼 두 사람 모두, 잘 부탁해!
+4,TEXT_KINGZC202_05082_SEQ_04,기름과 염료가 담긴 상자를 운반했다. 오크 하누에 있는 '라누하누'와 대화하자.
+5,TEXT_KINGZC202_05082_SEQ_05,깃털 가공 작업을 하면서 나한셰의 생각도 서서히 바뀌고 있는 듯하다. 오크 하누에 있는 '나한셰'와 대화하자.
+6,TEXT_KINGZC202_05082_SEQ_06,나한셰와 함께 라누하누에게 다음으로 도울 일은 무엇인지 들었다. 케츠할리의 장식을 이용하기에 앞서 어떤 의식을 치른다고 한다.
+7,TEXT_KINGZC202_05082_SEQ_07,
+8,TEXT_KINGZC202_05082_SEQ_08,
+9,TEXT_KINGZC202_05082_SEQ_09,
+10,TEXT_KINGZC202_05082_SEQ_10,
+11,TEXT_KINGZC202_05082_SEQ_11,
+12,TEXT_KINGZC202_05082_SEQ_12,
+13,TEXT_KINGZC202_05082_SEQ_13,
+14,TEXT_KINGZC202_05082_SEQ_14,
+15,TEXT_KINGZC202_05082_SEQ_15,
+16,TEXT_KINGZC202_05082_SEQ_16,
+17,TEXT_KINGZC202_05082_SEQ_17,
+18,TEXT_KINGZC202_05082_SEQ_18,
+19,TEXT_KINGZC202_05082_SEQ_19,
+20,TEXT_KINGZC202_05082_SEQ_20,
+21,TEXT_KINGZC202_05082_SEQ_21,
+22,TEXT_KINGZC202_05082_SEQ_22,
+23,TEXT_KINGZC202_05082_SEQ_23,
+24,TEXT_KINGZC202_05082_TODO_00,하누하누족 창고지기와 대화
+25,TEXT_KINGZC202_05082_TODO_01, 들기
+26,TEXT_KINGZC202_05082_TODO_02,기름과 염료가 담긴 상자를 까지 운반
+27,TEXT_KINGZC202_05082_TODO_03,라누하누와 대화
+28,TEXT_KINGZC202_05082_TODO_04,나한셰와 대화
+29,TEXT_KINGZC202_05082_TODO_05,
+30,TEXT_KINGZC202_05082_TODO_06,
+31,TEXT_KINGZC202_05082_TODO_07,
+32,TEXT_KINGZC202_05082_TODO_08,
+33,TEXT_KINGZC202_05082_TODO_09,
+34,TEXT_KINGZC202_05082_TODO_10,
+35,TEXT_KINGZC202_05082_TODO_11,
+36,TEXT_KINGZC202_05082_TODO_12,
+37,TEXT_KINGZC202_05082_TODO_13,
+38,TEXT_KINGZC202_05082_TODO_14,
+39,TEXT_KINGZC202_05082_TODO_15,
+40,TEXT_KINGZC202_05082_TODO_16,
+41,TEXT_KINGZC202_05082_TODO_17,
+42,TEXT_KINGZC202_05082_TODO_18,
+43,TEXT_KINGZC202_05082_TODO_19,
+44,TEXT_KINGZC202_05082_TODO_20,
+45,TEXT_KINGZC202_05082_TODO_21,
+46,TEXT_KINGZC202_05082_TODO_22,
+47,TEXT_KINGZC202_05082_TODO_23,
+48,TEXT_KINGZC202_05082_NAHANSHE_000_000,돕는 게 빨리 끝나면 좋겠는데…….
+49,TEXT_KINGZC202_05082_LANUHANU_000_000,"그럼 두 사람 모두, 잘 부탁해!
 용연대 장비에 쓸 수 있도록 깃털을 가공하자!"
-50,"TEXT_KINGZC202_05082_LANUHANU_000_001","우선, 우선, 필요한 건 '염료'와 '기름'이야.
+50,TEXT_KINGZC202_05082_LANUHANU_000_001,"우선, 우선, 필요한 건 '염료'와 '기름'이야.
 염료는 각 장비의 장식에 맞춘 색을 입힐 때 사용해.
 그리고 기름에 대해서 말인데……"
-51,"TEXT_KINGZC202_05082_LANUHANU_000_002","우리의 깃털에는 오염 방지와 깨끗한 상태를 유지하는 효과가 있어.
+51,TEXT_KINGZC202_05082_LANUHANU_000_002,"우리의 깃털에는 오염 방지와 깨끗한 상태를 유지하는 효과가 있어.
 하누하누족의 몸에서 분비되는 기름 성분이
 깃털의 표면을 뒤덮고 있어서 그렇다더라고."
-52,"TEXT_KINGZC202_05082_LANUHANU_000_003","제공하는 깃털은 빠진 후에 시간이 지나 오래됐기 때문에
+52,TEXT_KINGZC202_05082_LANUHANU_000_003,"제공하는 깃털은 빠진 후에 시간이 지나 오래됐기 때문에
 당연히 기름 성분의 효과도 사라져 버렸지…….
 그래서 제공하기 전에 다시 기름을 발라야 해."
-53,"TEXT_KINGZC202_05082_LANUHANU_000_004","<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> '오크 벡크베'로 가서
+53,TEXT_KINGZC202_05082_LANUHANU_000_004,"Player Player '오크 벡크베'로 가서
 염료와 기름이 담긴 상자를 가져와 줄래?
 그동안 나한셰는 깃털을 가지고 와 줄 거야!"
-54,"TEXT_KINGZC202_05082_NAHANSHE_000_010","물론 저희도 장비 손질을 게을리하지 않아요.
+54,TEXT_KINGZC202_05082_NAHANSHE_000_010,"물론 저희도 장비 손질을 게을리하지 않아요.
 하지만 깃털을 깨끗하게 유지하는 기름이 하누하누족의 몸에서
 분비되는 기름 성분에 바탕을 두고 있다는 건 몰랐어요."
-55,"TEXT_KINGZC202_05082_LANUHANU_000_015","기름과 염료는 펠루펠루족과 무역하는 품목이기도 해.
+55,TEXT_KINGZC202_05082_LANUHANU_000_015,"기름과 염료는 펠루펠루족과 무역하는 품목이기도 해.
 그래서 평소에는 그들과 거래를 하는
 '오크 벡크베'에 보관하고 있어."
-56,"TEXT_KINGZC202_05082_HANUHANUFOREMAN05082_000_030","어서 와, 어서 와, 깃털 가공에 쓸 염료와 기름 말이지?
+56,TEXT_KINGZC202_05082_HANUHANUFOREMAN05082_000_030,"어서 와, 어서 와, 깃털 가공에 쓸 염료와 기름 말이지?
 미리 상자 하나에 담아 뒀어!
 무게가 제법 나가니까 각오해……!"
-57,"TEXT_KINGZC202_05082_HANUHANUFOREMAN05082_000_031","가공은 염료 하나만 해도 아주 많은 종류가 필요해.
+57,TEXT_KINGZC202_05082_HANUHANUFOREMAN05082_000_031,"가공은 염료 하나만 해도 아주 많은 종류가 필요해.
 듣기로는 당시에 장식을 고안한 장인의 고집 때문에
 장비마다 깃털의 색을 다르게 하기로 했다나……."
-58,"TEXT_KINGZC202_05082_HANUHANUFOREMAN05082_000_032","용연대가 몇 년, 몇십 년 동안 애용하는 장비니까
+58,TEXT_KINGZC202_05082_HANUHANUFOREMAN05082_000_032,"용연대가 몇 년, 몇십 년 동안 애용하는 장비니까
 세세한 부분도 대충 만들고 싶지 않았을 거야.
 그럼 조심해서 라누하누한테 가져다줘!"
-59,"TEXT_KINGZC202_05082_HANUHANUFOREMAN05082_000_040","염료랑 기름은 이 상자에 담아 뒀어!
+59,TEXT_KINGZC202_05082_HANUHANUFOREMAN05082_000_040,"염료랑 기름은 이 상자에 담아 뒀어!
 라누하누한테 가져다줘!"
-60,"TEXT_KINGZC202_05082_SYSTEM_000_050","'기름과 염료가 담긴 상자'를 제한 시간 안에
-'오크 하누'의 <Sheet(EObj,2014284,0)/>까지 운반하세요."
-61,"TEXT_KINGZC202_05082_SYSTEM_000_051","운반 상태는 '180초' 동안 지속됩니다.
+60,TEXT_KINGZC202_05082_SYSTEM_000_050,"'기름과 염료가 담긴 상자'를 제한 시간 안에
+'오크 하누'의 까지 운반하세요."
+61,TEXT_KINGZC202_05082_SYSTEM_000_051,"운반 상태는 '180초' 동안 지속됩니다.
 시간이 다 지나면 운반은 실패하지만
 시작 지점에서 다시 도전할 수 있습니다."
-62,"TEXT_KINGZC202_05082_SYSTEM_000_052","공격을 받으면 지속 시간이 줄어듭니다.
+62,TEXT_KINGZC202_05082_SYSTEM_000_052,"공격을 받으면 지속 시간이 줄어듭니다.
 되도록 공격을 받지 않도록 조심하면서
 화물을 운반하세요."
-63,"TEXT_KINGZC202_05082_SYSTEM_100_055","오크 벡크베에서 '<Sheet(EObj,2014281,0)/>'<13>FF1002280CFF05454F626AF61EBC490103FF04EBA5BCFF04EC9D84</13> 운반하자."
-64,"TEXT_KINGZC202_05082_NAHANSHE_000_060","깃털인데 이렇게 무겁다니…….
+63,TEXT_KINGZC202_05082_SYSTEM_100_055,오크 벡크베에서 '' 운반하자.
+64,TEXT_KINGZC202_05082_NAHANSHE_000_060,"깃털인데 이렇게 무겁다니…….
 대체 몇백 개…… 아니지, 몇천 개……?"
-65,"TEXT_KINGZC202_05082_LANUHANU_000_065","깃털은 방금 받았어!"
-66,"TEXT_KINGZC202_05082_LANUHANU_000_080","자, 자…… 운반은 무사히 끝났지만
+65,TEXT_KINGZC202_05082_LANUHANU_000_065,깃털은 방금 받았어!
+66,TEXT_KINGZC202_05082_LANUHANU_000_080,"자, 자…… 운반은 무사히 끝났지만
 나한셰는 조금 휴식이 필요할 것 같네."
-67,"TEXT_KINGZC202_05082_NAHANSHE_000_081","이 무게…… 대체 깃털이 몇 개나 든 거야…….
+67,TEXT_KINGZC202_05082_NAHANSHE_000_081,"이 무게…… 대체 깃털이 몇 개나 든 거야…….
 그런데 기름과 염료는…… 무게가 어떻게……?"
-68,"TEXT_KINGZC202_05082_LANUHANU_000_082","기름과 염료가 깃털보다 압도적으로 무겁지!
-게다가 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13>
+68,TEXT_KINGZC202_05082_LANUHANU_000_082,"기름과 염료가 깃털보다 압도적으로 무겁지!
+게다가 Player Player
 더 먼 거리를 운반했고."
-69,"TEXT_KINGZC202_05082_NAHANSHE_000_083","이럴 수가…… 내가 내세울 거라곤 힘뿐인데…….
+69,TEXT_KINGZC202_05082_NAHANSHE_000_083,"이럴 수가…… 내가 내세울 거라곤 힘뿐인데…….
 내가 오히려 걸림돌 같잖아……!"
-70,"TEXT_KINGZC202_05082_NAHANSHE_000_084","……휴우, 이 정도 일에 휴식은 필요 없어요.
+70,TEXT_KINGZC202_05082_NAHANSHE_000_084,"……휴우, 이 정도 일에 휴식은 필요 없어요.
 자, 다음 작업 가시죠!"
-71,"TEXT_KINGZC202_05082_LANUHANU_000_085","그럼, 그럼, 드디어 가공을 시작해 볼까.
+71,TEXT_KINGZC202_05082_LANUHANU_000_085,"그럼, 그럼, 드디어 가공을 시작해 볼까.
 이번에는 염료로 깃털을 하나씩 하나씩 물들일 건데
 장비에 따라 색상별로 필요한 개수도 다르니까 조심해."
-72,"TEXT_KINGZC202_05082_LANUHANU_000_086","공격 측 장비용 깃털에는 검은색 염료를,
+72,TEXT_KINGZC202_05082_LANUHANU_000_086,"공격 측 장비용 깃털에는 검은색 염료를,
 방어 측 장비용 깃털에는 기존의 초록색을 살리기 위해 기름만……."
-73,"TEXT_KINGZC202_05082_NAHANSHE_000_087","자, 잠깐만요!
+73,TEXT_KINGZC202_05082_NAHANSHE_000_087,"자, 잠깐만요!
 이렇게 많은 양을 그렇게 하나씩 염색하면
 시간이 대체 얼마나 걸린다는……!?"
-74,"TEXT_KINGZC202_05082_NAHANSHE_000_088","몇십 개씩 한꺼번에 담가 놓는다든가
+74,TEXT_KINGZC202_05082_NAHANSHE_000_088,"몇십 개씩 한꺼번에 담가 놓는다든가
 좀 더 편한 방법은 없어요……?"
-75,"TEXT_KINGZC202_05082_LANUHANU_000_089","여러 개를 한꺼번에 담그면 깃털이 고르게 염색되지 않아.
+75,TEXT_KINGZC202_05082_LANUHANU_000_089,"여러 개를 한꺼번에 담그면 깃털이 고르게 염색되지 않아.
 기름을 꼼꼼하게 바르지 않으면 금방 망가지지…….
 그렇게 되면 곤란한 건 너희 용연대야."
-76,"TEXT_KINGZC202_05082_NAHANSHE_000_090","그, 그건…… 맞는 말이네요."
-77,"TEXT_KINGZC202_05082_LANUHANU_000_091","끈기가 필요한 일이지만 셋이 분담해서 힘내 보자!
+76,TEXT_KINGZC202_05082_NAHANSHE_000_090,"그, 그건…… 맞는 말이네요."
+77,TEXT_KINGZC202_05082_LANUHANU_000_091,"끈기가 필요한 일이지만 셋이 분담해서 힘내 보자!
 작업 순서에 대해서도 잘 지시해 줄게."
-78,"TEXT_KINGZC202_05082_NAHANSHE_000_092","……네에, 그렇게까지 정성을 들여서 가공하는 줄은
+78,TEXT_KINGZC202_05082_NAHANSHE_000_092,"……네에, 그렇게까지 정성을 들여서 가공하는 줄은
 솔직히 몰랐어요."
-79,"TEXT_KINGZC202_05082_LANUHANU_000_093","물론, 물론, 너희를 위한 일이기도 하지만……
+79,TEXT_KINGZC202_05082_LANUHANU_000_093,"물론, 물론, 너희를 위한 일이기도 하지만……
 하누하누족에게도 깃털 제공은 명예로운 일이니까."
-80,"TEXT_KINGZC202_05082_LANUHANU_000_094","바람의 선택을 받은 자가 되면
+80,TEXT_KINGZC202_05082_LANUHANU_000_094,"바람의 선택을 받은 자가 되면
 자신의 깃털이 케츠할리 님을 구성하는 일부가 되지…….
 이건 그 무엇과도 바꿀 수 없는 영광이야."
-81,"TEXT_KINGZC202_05082_LANUHANU_000_095","게다가, 게다가, 그 장식이 용연대의 장비에 쓰이다니!
+81,TEXT_KINGZC202_05082_LANUHANU_000_095,"게다가, 게다가, 그 장식이 용연대의 장비에 쓰이다니!
 이 나라에 사는 백성으로서 엄청난 명예인 만큼
 실수가 없도록 하겠다고 굳게 맹세했어."
-82,"TEXT_KINGZC202_05082_NAHANSHE_000_096","그런 마음이…… 이 장비에……."
-83,"TEXT_KINGZC202_05082_NAHANSHE_000_097","……죄송해요, 아까는 실례했습니다.
+82,TEXT_KINGZC202_05082_NAHANSHE_000_096,그런 마음이…… 이 장비에…….
+83,TEXT_KINGZC202_05082_NAHANSHE_000_097,"……죄송해요, 아까는 실례했습니다.
 어떤 작업이든 전부 이유가 있는 거였군요."
-84,"TEXT_KINGZC202_05082_NAHANSHE_000_098","그렇다면…… 여전히 귀찮기는 하지만
+84,TEXT_KINGZC202_05082_NAHANSHE_000_098,"그렇다면…… 여전히 귀찮기는 하지만
 깃털 염색 작업을 바로 시작하죠.
-<Highlight>ObjectParameter(1)</Highlight> 씨도 잘 부탁해요."
-85,"TEXT_KINGZC202_05082_LANUHANU_000_110","<Highlight>ObjectParameter(1)</Highlight>도 수고 많았어!
+Player Player 씨도 잘 부탁해요."
+85,TEXT_KINGZC202_05082_LANUHANU_000_110,"Player Player도 수고 많았어!
 자, 다음은……."
-86,"TEXT_KINGZC202_05082_NAHANSHE_000_130","휴우…… 손톱 밑에 염료가 잔뜩 끼었지만
+86,TEXT_KINGZC202_05082_NAHANSHE_000_130,"휴우…… 손톱 밑에 염료가 잔뜩 끼었지만
 덕분에 모든 깃털을 다 물들였어요.
 이제 툴라이욜라까지 운반만 하면 되겠네요."
-87,"TEXT_KINGZC202_05082_LANUHANU_000_132","아니, 아니, 가장 귀찮은 공정은 끝났지만
+87,TEXT_KINGZC202_05082_LANUHANU_000_132,"아니, 아니, 가장 귀찮은 공정은 끝났지만
 도와줬으면 하는 일이 조금 더 있어."
-88,"TEXT_KINGZC202_05082_LANUHANU_000_133","앞서 말했다시피 장비의 장식에 사용되는
+88,TEXT_KINGZC202_05082_LANUHANU_000_133,"앞서 말했다시피 장비의 장식에 사용되는
 케츠할리는 우리에게 소중한 신…….
 장식을 사용하기 전에 어떤 의식이 남아 있어."

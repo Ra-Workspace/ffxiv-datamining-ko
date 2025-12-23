@@ -1,215 +1,211 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_AKTKCT102_04731_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙： 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_AKTKCT102_04731_SEQ_00,"**특수 규칙： 직업 고정**
 중용의 공예관 앞에 있는 초라 조이는 '모웬 도구'의 개량을 시작하고 싶은 듯하다."
-1,"TEXT_AKTKCT102_04731_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+1,TEXT_AKTKCT102_04731_SEQ_01,"※ 이 퀘스트에는 ** 직업 고정**이 적용됩니다.
    퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
 
 '모웬 도구'의 개량에 필요한 재료는 중용의 공예관 앞에 있는 '키나나'에게 거래 자본을 건네면 교환해준다고 한다. 중용의 공예관 앞에 있는 '초라 조이'에게 소지품 또는 장비함에 있는 개량할 '모웬 도구'와 재료를 주고 다음 단계로 개량해 달라고 하자."
-2,"TEXT_AKTKCT102_04731_SEQ_02","'모웬 도구'는 모험가의 손에 익도록 무사히 '2단계'로 개량되었다. 성능을 더 향상시키고자 하는 초라 조이와 협력해서 '모웬 도구'를 개량하자."
-3,"TEXT_AKTKCT102_04731_SEQ_03",""
-4,"TEXT_AKTKCT102_04731_SEQ_04",""
-5,"TEXT_AKTKCT102_04731_SEQ_05",""
-6,"TEXT_AKTKCT102_04731_SEQ_06",""
-7,"TEXT_AKTKCT102_04731_SEQ_07",""
-8,"TEXT_AKTKCT102_04731_SEQ_08",""
-9,"TEXT_AKTKCT102_04731_SEQ_09",""
-10,"TEXT_AKTKCT102_04731_SEQ_10",""
-11,"TEXT_AKTKCT102_04731_SEQ_11",""
-12,"TEXT_AKTKCT102_04731_SEQ_12",""
-13,"TEXT_AKTKCT102_04731_SEQ_13",""
-14,"TEXT_AKTKCT102_04731_SEQ_14",""
-15,"TEXT_AKTKCT102_04731_SEQ_15",""
-16,"TEXT_AKTKCT102_04731_SEQ_16",""
-17,"TEXT_AKTKCT102_04731_SEQ_17",""
-18,"TEXT_AKTKCT102_04731_SEQ_18",""
-19,"TEXT_AKTKCT102_04731_SEQ_19",""
-20,"TEXT_AKTKCT102_04731_SEQ_20",""
-21,"TEXT_AKTKCT102_04731_SEQ_21",""
-22,"TEXT_AKTKCT102_04731_SEQ_22",""
-23,"TEXT_AKTKCT102_04731_SEQ_23",""
-24,"TEXT_AKTKCT102_04731_TODO_00","<If(Equal(IntegerParameter(4),8))><Sheet(Item,38715,0)/><13>FF0F02280BFF054974656DF2973B0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),9))><Sheet(Item,38716,0)/><13>FF0F02280BFF054974656DF2973C0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),10))><Sheet(Item,38717,0)/><13>FF0F02280BFF054974656DF2973D0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),11))><Sheet(Item,38718,0)/><13>FF0F02280BFF054974656DF2973E0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),12))><Sheet(Item,38719,0)/><13>FF0F02280BFF054974656DF2973F0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),13))><Sheet(Item,38720,0)/><13>FF0F02280BFF054974656DF297400103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),14))><Sheet(Item,38721,0)/><13>FF0F02280BFF054974656DF297410103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),15))><Sheet(Item,38722,0)/><13>FF0F02280BFF054974656DF297420103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),16))><Sheet(Item,38723,0)/><13>FF0F02280BFF054974656DF297430103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),17))><Sheet(Item,38724,0)/><13>FF0F02280BFF054974656DF297440103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),18))><Sheet(Item,38725,0)/><13>FF0F02280BFF054974656DF297450103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If></If></If></If> 장비에서 해제하고 소지한 상태로
-<If(Equal(IntegerParameter(4),8))><Sheet(Item,38772,0)/><13>FF0F02280BFF054974656DF297740103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),9))><Sheet(Item,38773,0)/><13>FF0F02280BFF054974656DF297750103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),10))><Sheet(Item,38774,0)/><13>FF0F02280BFF054974656DF297760103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),11))><Sheet(Item,38775,0)/><13>FF0F02280BFF054974656DF297770103FF04EBA5BCFF04EC9D84</13><UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),12))><Sheet(Item,38776,0)/><13>FF0F02280BFF054974656DF297780103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>모아서<Else/><If(Equal(IntegerParameter(4),13))><Sheet(Item,38777,0)/><13>FF0F02280BFF054974656DF297790103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),14))><Sheet(Item,38778,0)/><13>FF0F02280BFF054974656DF2977A0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),15))><Sheet(Item,38779,0)/><13>FF0F02280BFF054974656DF2977B0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),16))><Sheet(Item,38801,0)/> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>180개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와<Else/><If(Equal(IntegerParameter(4),17))><Sheet(Item,38800,0)/> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>180개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와<Else/><If(Equal(IntegerParameter(4),18))><Sheet(Item,38802,0)/> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와<Else/></If></If></If></If></If></If></If></If></If></If></If>
-<If(Equal(IntegerParameter(4),16))><Sheet(Item,38791,0)/><13>FF0F02280BFF054974656DF297870103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>180개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서
-<Else/><If(Equal(IntegerParameter(4),17))><Sheet(Item,38789,0)/><13>FF0F02280BFF054974656DF297850103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>180개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서
-<Else/><If(Equal(IntegerParameter(4),18))><Sheet(Item,38803,0)/><13>FF0F02280BFF054974656DF297930103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서
-<Else/></If></If></If>중용의 공예관 앞에 있는 초라 조이에게 전달"
-25,"TEXT_AKTKCT102_04731_TODO_01",""
-26,"TEXT_AKTKCT102_04731_TODO_02",""
-27,"TEXT_AKTKCT102_04731_TODO_03",""
-28,"TEXT_AKTKCT102_04731_TODO_04",""
-29,"TEXT_AKTKCT102_04731_TODO_05",""
-30,"TEXT_AKTKCT102_04731_TODO_06",""
-31,"TEXT_AKTKCT102_04731_TODO_07",""
-32,"TEXT_AKTKCT102_04731_TODO_08",""
-33,"TEXT_AKTKCT102_04731_TODO_09",""
-34,"TEXT_AKTKCT102_04731_TODO_10",""
-35,"TEXT_AKTKCT102_04731_TODO_11",""
-36,"TEXT_AKTKCT102_04731_TODO_12",""
-37,"TEXT_AKTKCT102_04731_TODO_13",""
-38,"TEXT_AKTKCT102_04731_TODO_14",""
-39,"TEXT_AKTKCT102_04731_TODO_15",""
-40,"TEXT_AKTKCT102_04731_TODO_16",""
-41,"TEXT_AKTKCT102_04731_TODO_17",""
-42,"TEXT_AKTKCT102_04731_TODO_18",""
-43,"TEXT_AKTKCT102_04731_TODO_19",""
-44,"TEXT_AKTKCT102_04731_TODO_20",""
-45,"TEXT_AKTKCT102_04731_TODO_21",""
-46,"TEXT_AKTKCT102_04731_TODO_22",""
-47,"TEXT_AKTKCT102_04731_TODO_23",""
-48,"TEXT_AKTKCT102_04731_SYSTEM_000_001","퀘스트 '성실한 개량 계획'에서 획득할 수 있는 주 도구는
-현재 클래스인 '<Sheet(ClassJob,PlayerParameter(68),0)/>'의 모웬 도구입니다.
-'성실한 개량 계획'을 '<Sheet(ClassJob,PlayerParameter(68),0)/>'<14>FF1202280EFF09436C6173734A6F62E9450103FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
-49,"TEXT_AKTKCT102_04731_Q1_000_000","<Sheet(ClassJob,PlayerParameter(68),0)/> 전용 모웬 도구를 개량하시겠습니까?"
-50,"TEXT_AKTKCT102_04731_A1_000_001","조금 더 고민해본다"
-51,"TEXT_AKTKCT102_04731_A1_000_002","<Sheet(ClassJob,PlayerParameter(68),0)/> 전용 모웬 도구를 개량한다"
-52,"TEXT_AKTKCT102_04731_SYSTEM_000_004","퀘스트 '성실한 개량 계획'을 수락하면
+2,TEXT_AKTKCT102_04731_SEQ_02,'모웬 도구'는 모험가의 손에 익도록 무사히 '2단계'로 개량되었다. 성능을 더 향상시키고자 하는 초라 조이와 협력해서 '모웬 도구'를 개량하자.
+3,TEXT_AKTKCT102_04731_SEQ_03,
+4,TEXT_AKTKCT102_04731_SEQ_04,
+5,TEXT_AKTKCT102_04731_SEQ_05,
+6,TEXT_AKTKCT102_04731_SEQ_06,
+7,TEXT_AKTKCT102_04731_SEQ_07,
+8,TEXT_AKTKCT102_04731_SEQ_08,
+9,TEXT_AKTKCT102_04731_SEQ_09,
+10,TEXT_AKTKCT102_04731_SEQ_10,
+11,TEXT_AKTKCT102_04731_SEQ_11,
+12,TEXT_AKTKCT102_04731_SEQ_12,
+13,TEXT_AKTKCT102_04731_SEQ_13,
+14,TEXT_AKTKCT102_04731_SEQ_14,
+15,TEXT_AKTKCT102_04731_SEQ_15,
+16,TEXT_AKTKCT102_04731_SEQ_16,
+17,TEXT_AKTKCT102_04731_SEQ_17,
+18,TEXT_AKTKCT102_04731_SEQ_18,
+19,TEXT_AKTKCT102_04731_SEQ_19,
+20,TEXT_AKTKCT102_04731_SEQ_20,
+21,TEXT_AKTKCT102_04731_SEQ_21,
+22,TEXT_AKTKCT102_04731_SEQ_22,
+23,TEXT_AKTKCT102_04731_SEQ_23,
+24,TEXT_AKTKCT102_04731_TODO_00," 장비에서 해제하고 소지한 상태로
+ **60개** 모아서
+ **180개** 모아서
+중용의 공예관 앞에 있는 초라 조이에게 전달"
+25,TEXT_AKTKCT102_04731_TODO_01,
+26,TEXT_AKTKCT102_04731_TODO_02,
+27,TEXT_AKTKCT102_04731_TODO_03,
+28,TEXT_AKTKCT102_04731_TODO_04,
+29,TEXT_AKTKCT102_04731_TODO_05,
+30,TEXT_AKTKCT102_04731_TODO_06,
+31,TEXT_AKTKCT102_04731_TODO_07,
+32,TEXT_AKTKCT102_04731_TODO_08,
+33,TEXT_AKTKCT102_04731_TODO_09,
+34,TEXT_AKTKCT102_04731_TODO_10,
+35,TEXT_AKTKCT102_04731_TODO_11,
+36,TEXT_AKTKCT102_04731_TODO_12,
+37,TEXT_AKTKCT102_04731_TODO_13,
+38,TEXT_AKTKCT102_04731_TODO_14,
+39,TEXT_AKTKCT102_04731_TODO_15,
+40,TEXT_AKTKCT102_04731_TODO_16,
+41,TEXT_AKTKCT102_04731_TODO_17,
+42,TEXT_AKTKCT102_04731_TODO_18,
+43,TEXT_AKTKCT102_04731_TODO_19,
+44,TEXT_AKTKCT102_04731_TODO_20,
+45,TEXT_AKTKCT102_04731_TODO_21,
+46,TEXT_AKTKCT102_04731_TODO_22,
+47,TEXT_AKTKCT102_04731_TODO_23,
+48,TEXT_AKTKCT102_04731_SYSTEM_000_001,"퀘스트 '성실한 개량 계획'에서 획득할 수 있는 주 도구는
+현재 클래스인 ''의 모웬 도구입니다.
+'성실한 개량 계획'을 '' 수락하시겠습니까?"
+49,TEXT_AKTKCT102_04731_Q1_000_000, 전용 모웬 도구를 개량하시겠습니까?
+50,TEXT_AKTKCT102_04731_A1_000_001,조금 더 고민해본다
+51,TEXT_AKTKCT102_04731_A1_000_002, 전용 모웬 도구를 개량한다
+52,TEXT_AKTKCT102_04731_SYSTEM_000_004,"퀘스트 '성실한 개량 계획'을 수락하면
 퀘스트를 완료하거나 포기할 때까지
 다른 직업으로 '성실한 개량 계획'을 수락할 수 없습니다."
-53,"TEXT_AKTKCT102_04731_SYSTEM_000_005","개량하고 싶은 모웬 도구에 맞는 클래스로 변경한 뒤
+53,TEXT_AKTKCT102_04731_SYSTEM_000_005,"개량하고 싶은 모웬 도구에 맞는 클래스로 변경한 뒤
 다시 초라 조이에게 말을 거십시오."
-54,"TEXT_AKTKCT102_04731_SYSTEM_000_003","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
+54,TEXT_AKTKCT102_04731_SYSTEM_000_003,"''
 소지하거나 장비하지 않으면
 퀘스트 '성실한 개량 계획'을 수락할 수 없습니다."
-55,"TEXT_AKTKCT102_04731_SYSTEM_100_004","이미 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
+55,TEXT_AKTKCT102_04731_SYSTEM_100_004,"이미 '' 획득했습니다.
 다른 클래스로 변경한 후 다시 초라 조이에게 말을 거십시오."
-56,"TEXT_AKTKCT102_04731_CHORAZOI_000_007","제가 드린 도구는 확인하셨나요?
+56,TEXT_AKTKCT102_04731_CHORAZOI_000_007,"제가 드린 도구는 확인하셨나요?
 이제 그 도구를 '모웬 도구'로 개량하기에 앞서
 그레놀트 님의 설계도를 확인하는 중이었어요!"
-57,"TEXT_AKTKCT102_04731_CHORAZOI_000_008","그레놀트 님의 플랜은 정말 대단해요!
+57,TEXT_AKTKCT102_04731_CHORAZOI_000_008,"그레놀트 님의 플랜은 정말 대단해요!
 이미 완성되어 있는 도구에다 여러 단계의 연마를 거쳐
 마치 진화를 시키는 것처럼…… 이얍!"
-58,"TEXT_AKTKCT102_04731_GRENOLDT_000_009","도면만 보고 내 의도를 정확히 파악하다니 정말 놀랍군.
+58,TEXT_AKTKCT102_04731_GRENOLDT_000_009,"도면만 보고 내 의도를 정확히 파악하다니 정말 놀랍군.
 그럼 지금 당장 개량 계획에 착수하도록 하자!"
-59,"TEXT_AKTKCT102_04731_CHORAZOI_000_010","네? 지금 당장이요?
+59,TEXT_AKTKCT102_04731_CHORAZOI_000_010,"네? 지금 당장이요?
 여여여, 열심히 하겠습니다……!!"
-60,"TEXT_AKTKCT102_04731_GRENOLDT_000_011","일단 재료를 모아야 해.
+60,TEXT_AKTKCT102_04731_GRENOLDT_000_011,"일단 재료를 모아야 해.
 필요한 것은 모웬 상회가 준비해준다고는 하지만,
 희귀한 재료는 구하기가 쉽지 않겠지."
-61,"TEXT_AKTKCT102_04731_GRENOLDT_000_012","그래서 귀공의 실력을 빌리고 싶은 거야.
+61,TEXT_AKTKCT102_04731_GRENOLDT_000_012,"그래서 귀공의 실력을 빌리고 싶은 거야.
 모웬 상회에 대가로 납품할 거래 자본을 만들어줬으면 해.
 그것도 이번에 개량할 '모웬 도구'를 사용해서."
-62,"TEXT_AKTKCT102_04731_GRENOLDT_000_013","토대가 되는 도구를 잘 활용해서 충분한 장래성을 보여주면
+62,TEXT_AKTKCT102_04731_GRENOLDT_000_013,"토대가 되는 도구를 잘 활용해서 충분한 장래성을 보여주면
 개량의 방향이 맞는지 아닌지, 판단할 수 있겠지.
 이런 일은 뛰어난 장인이기도 한 귀공에게 부탁하고 싶어."
-63,"TEXT_AKTKCT102_04731_CHORAZOI_000_015","저도 희귀한 재료를 낭비하지 않도록
+63,TEXT_AKTKCT102_04731_CHORAZOI_000_015,"저도 희귀한 재료를 낭비하지 않도록
 작업 공정을 다시 검토하고 연습도 미리 해둬야겠어요……!"
-64,"TEXT_AKTKCT102_04731_GRENOLDT_000_016","음, 좋은 자세로군.
-우리도 <Highlight>ObjectParameter(1)</Highlight> 공의 조력에 부끄럽지 않도록
+64,TEXT_AKTKCT102_04731_GRENOLDT_000_016,"음, 좋은 자세로군.
+우리도 Player Player 공의 조력에 부끄럽지 않도록
 성심성의껏 작업에 열중하자."
-65,"TEXT_AKTKCT102_04731_CHORAZOI_000_017","또 개량에 협력해주실 건가요!?
+65,TEXT_AKTKCT102_04731_CHORAZOI_000_017,"또 개량에 협력해주실 건가요!?
 앗싸! 새로운 '모웬 도구'를 만들게 되는 거군요!"
-66,"TEXT_AKTKCT102_04731_CHORAZOI_000_018","어디 보자…… 이번에 필요한 희귀 재료는
-'<Sheet(Item,IntegerParameter(1),0)/>'입니다!"
-67,"TEXT_AKTKCT102_04731_CHORAZOI_100_018","그리고 상회로부터 희귀 재료를 제공받기 위해
+66,TEXT_AKTKCT102_04731_CHORAZOI_000_018,"어디 보자…… 이번에 필요한 희귀 재료는
+''입니다!"
+67,TEXT_AKTKCT102_04731_CHORAZOI_100_018,"그리고 상회로부터 희귀 재료를 제공받기 위해
 거래 자본으로 쓰일 물품 제작을 부탁드려요.
-<If(Equal(IntegerParameter(1),1))>'<Sheet(ItemMP,38756,0)/>'<13>FF1102280DFF074974656D4D50F297640103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),2))>'<Sheet(ItemMP,38757,0)/>'<13>FF1102280DFF074974656D4D50F297650103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),3))>'<Sheet(ItemMP,38758,0)/>'<13>FF1102280DFF074974656D4D50F297660103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),4))>'<Sheet(ItemMP,38759,0)/>'<13>FF1102280DFF074974656D4D50F297670103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),5))>'<Sheet(ItemMP,38760,0)/>'<13>FF1102280DFF074974656D4D50F297680103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),6))>'<Sheet(ItemMP,38761,0)/>'<13>FF1102280DFF074974656D4D50F297690103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),7))>'<Sheet(ItemMP,38762,0)/>'<13>FF1102280DFF074974656D4D50F2976A0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(1),8))>'<Sheet(ItemMP,38763,0)/>'<13>FF1102280DFF074974656D4D50F2976B0103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If> 만들어주시면 돼요!"
-68,"TEXT_AKTKCT102_04731_CHORAZOI_000_020","그레놀트 님이 말했듯이 작업할 때는
+'' 만들어주시면 돼요!"
+68,TEXT_AKTKCT102_04731_CHORAZOI_000_020,"그레놀트 님이 말했듯이 작업할 때는
 반드시 개량할 '모웬 도구'를 사용해 주세요!"
-69,"TEXT_AKTKCT102_04731_CHORAZOI_000_021","그리고 완성되면 저쪽에 있는 '키나나' 씨에게 납품하세요!
+69,TEXT_AKTKCT102_04731_CHORAZOI_000_021,"그리고 완성되면 저쪽에 있는 '키나나' 씨에게 납품하세요!
 상회가 모은 희귀 재료와 교환해줄 거예요.
 만약 순서가 헷갈린다면 그레놀트 님께 물어보세요!"
-70,"TEXT_AKTKCT102_04731_CHORAZOI_000_019","어디 보자, 그럼…… 이번에 필요한 희귀 재료는
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
-'<Sheet(Item,IntegerParameter(2),0)/>'입니다!"
-71,"TEXT_AKTKCT102_04731_CHORAZOI_100_019","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8A94FF04EC9D80</13>
+70,TEXT_AKTKCT102_04731_CHORAZOI_000_019,"어디 보자, 그럼…… 이번에 필요한 희귀 재료는
+''
+''입니다!"
+71,TEXT_AKTKCT102_04731_CHORAZOI_100_019,"''
 상회를 통해서 제공받기로 했으니, 교환용 거래 자본으로 쓰일
-<If(Equal(IntegerParameter(2),9))>'<Sheet(ItemMP,38790,0)/>'<13>FF1102280DFF074974656D4D50F297860103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(2),10))>'<Sheet(ItemMP,38788,0)/>'<13>FF1102280DFF074974656D4D50F297840103FF04EBA5BCFF04EC9D84</13><Else/></If></If> 구해주시면 됩니다!"
-72,"TEXT_AKTKCT102_04731_CHORAZOI_100_020","그레놀트 님이 말씀하신 대로 채집할 때는
+'' 구해주시면 됩니다!"
+72,TEXT_AKTKCT102_04731_CHORAZOI_100_020,"그레놀트 님이 말씀하신 대로 채집할 때는
 반드시 개량할 '모웬 도구'를 사용해 주셔야 해요!"
-73,"TEXT_AKTKCT102_04731_CHORAZOI_100_021","그리고 준비되셨으면 저쪽에 있는 '키나나' 씨에게 납품하세요!
+73,TEXT_AKTKCT102_04731_CHORAZOI_100_021,"그리고 준비되셨으면 저쪽에 있는 '키나나' 씨에게 납품하세요!
 상회가 모은 희귀 재료와 교환해줄 거예요.
 만약 순서가 헷갈린다면 그레놀트 님께 물어보세요!"
-74,"TEXT_AKTKCT102_04731_CHORAZOI_200_019","어디 보자, 그럼…… 이번에 필요한 희귀 재료는
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
-'<Sheet(Item,IntegerParameter(2),0)/>'입니다!"
-75,"TEXT_AKTKCT102_04731_CHORAZOI_300_019","그리고 상회가 제공해주는 희귀 재료를 받기 위해서
-거래 자본으로 쓰일 '<Sheet(ItemMP,38792,0)/>'<13>FF1102280DFF074974656D4D50F297880103FF04EC9980FF04EAB3BC</13>
-'<Sheet(ItemMP,38793,0)/>'<13>FF1102280DFF074974656D4D50F297890103FF04EBA5BCFF04EC9D84</13> 가지고 와주시면 됩니다!"
-76,"TEXT_AKTKCT102_04731_CHORAZOI_200_020","그레놀트 님도 말했듯이 낚시를 할 때는
+74,TEXT_AKTKCT102_04731_CHORAZOI_200_019,"어디 보자, 그럼…… 이번에 필요한 희귀 재료는
+''
+''입니다!"
+75,TEXT_AKTKCT102_04731_CHORAZOI_300_019,"그리고 상회가 제공해주는 희귀 재료를 받기 위해서
+거래 자본으로 쓰일 ''
+'' 가지고 와주시면 됩니다!"
+76,TEXT_AKTKCT102_04731_CHORAZOI_200_020,"그레놀트 님도 말했듯이 낚시를 할 때는
 반드시 개량할 '모웬 도구'를 사용해주세요!"
-77,"TEXT_AKTKCT102_04731_CHORAZOI_200_021","그리고 준비되셨으면 저쪽에 있는 '키나나' 씨에게 납품하세요!
+77,TEXT_AKTKCT102_04731_CHORAZOI_200_021,"그리고 준비되셨으면 저쪽에 있는 '키나나' 씨에게 납품하세요!
 상회가 모은 희귀 재료와 교환해줄 거예요.
 만약 순서가 헷갈린다면 그레놀트 님께 물어보세요!"
-78,"TEXT_AKTKCT102_04731_SYSTEM_000_022","중용의 공예관 앞에 있는 '초라 조이'에게
+78,TEXT_AKTKCT102_04731_SYSTEM_000_022,"중용의 공예관 앞에 있는 '초라 조이'에게
 주 도구와 개량에 필요한 희귀 재료를 건네면
 개량된 도구를 획득할 수 있습니다."
-79,"TEXT_AKTKCT102_04731_SYSTEM_000_023","또한 희귀 재료는
+79,TEXT_AKTKCT102_04731_SYSTEM_000_023,"또한 희귀 재료는
 중용의 공예관 앞에 있는 '키나나'에게
 거래 자본으로 쓰일 아이템을 납품하면 입수할 수 있습니다."
-80,"TEXT_AKTKCT102_04731_SYSTEM_000_024","거래 자본은
+80,TEXT_AKTKCT102_04731_SYSTEM_000_024,"거래 자본은
 제작수첩의 '특수 제작법'에서
 '모웬 도구' 항목을 선택하면 제작할 수 있습니다. "
-81,"TEXT_AKTKCT102_04731_SYSTEM_000_025","또한 거래 자본을 제작할 때는
+81,TEXT_AKTKCT102_04731_SYSTEM_000_025,"또한 거래 자본을 제작할 때는
 개량할 '모웬 도구'를 장비해야 합니다.
 또한 일부 희귀 재료는 '화폐'로 입수할 수 있습니다."
-82,"TEXT_AKTKCT102_04731_SYSTEM_000_026","거래 자본은
+82,TEXT_AKTKCT102_04731_SYSTEM_000_026,"거래 자본은
 채집수첩의 '모웬 도구' 항목을 선택하면
 채집 장소를 확인할 수 있습니다."
-83,"TEXT_AKTKCT102_04731_SYSTEM_000_027","또한 거래 자본을 채집할 때에는
+83,TEXT_AKTKCT102_04731_SYSTEM_000_027,"또한 거래 자본을 채집할 때에는
 개량할 '모웬 도구'를 장비해야 합니다."
-84,"TEXT_AKTKCT102_04731_SYSTEM_000_028","거래 자본으로 쓰일 물고기는
+84,TEXT_AKTKCT102_04731_SYSTEM_000_028,"거래 자본으로 쓰일 물고기는
 전용 미끼가 필요합니다.
 미끼도 마찬가지로 '키나나'를 통해 입수할 수 있습니다."
-85,"TEXT_AKTKCT102_04731_SYSTEM_000_029","또한 거래 자본으로 쓰일 물고기를 낚을 때는
+85,TEXT_AKTKCT102_04731_SYSTEM_000_029,"또한 거래 자본으로 쓰일 물고기를 낚을 때는
 개량할 '모웬 도구'를 장비해야 합니다."
-86,"TEXT_AKTKCT102_04731_SYSTEM_000_030","이 퀘스트를 완료할 때에는
+86,TEXT_AKTKCT102_04731_SYSTEM_000_030,"이 퀘스트를 완료할 때에는
 개량할 '모웬 도구'를 장비하지 말고
 소지품 또는 장비함에 넣어 주세요."
-87,"TEXT_AKTKCT102_04731_GRENOLDT_000_031","순서를 잘 모르겠다고?
+87,TEXT_AKTKCT102_04731_GRENOLDT_000_031,"순서를 잘 모르겠다고?
 먼저 그대는 거래 자본으로 쓰일 물자를 마련해야 해.
 개량할 '모웬 도구'를 사용해서 말이지."
-88,"TEXT_AKTKCT102_04731_GRENOLDT_000_032","마련한 거래 자본을 '키나나'에게 주면
+88,TEXT_AKTKCT102_04731_GRENOLDT_000_032,"마련한 거래 자본을 '키나나'에게 주면
 상회가 취급하는 희귀 재료로 교환해주기로 했어.
 필요한 것이 다 모이면 초라 조이에게 말을 걸도록 해."
-89,"TEXT_AKTKCT102_04731_SYSTEM_000_034","중용의 공예관 앞에 있는 '초라 조이'에게
+89,TEXT_AKTKCT102_04731_SYSTEM_000_034,"중용의 공예관 앞에 있는 '초라 조이'에게
 주 도구와 개량에 필요한 희귀 재료를 건네면
 개량된 도구를 획득할 수 있습니다."
-90,"TEXT_AKTKCT102_04731_SYSTEM_000_035","또한 희귀 재료는
+90,TEXT_AKTKCT102_04731_SYSTEM_000_035,"또한 희귀 재료는
 중용의 공예관 앞에 있는 '키나나'에게
 거래 자본으로 쓰일 아이템을 납품하면 입수할 수 있습니다."
-91,"TEXT_AKTKCT102_04731_SYSTEM_000_036","희귀 재료 교환에 필요한 거래 자본은
+91,TEXT_AKTKCT102_04731_SYSTEM_000_036,"희귀 재료 교환에 필요한 거래 자본은
 제작수첩의 '특수 제작법'에서
 '모웬 도구' 항목을 선택하면 제작할 수 있습니다."
-92,"TEXT_AKTKCT102_04731_SYSTEM_000_037","또한 거래 자본을 제작할 때는
+92,TEXT_AKTKCT102_04731_SYSTEM_000_037,"또한 거래 자본을 제작할 때는
 '모웬 도구'를 장비해야 합니다.
 또한 일부 희귀 재료는 '화폐'로 입수할 수 있습니다."
-93,"TEXT_AKTKCT102_04731_SYSTEM_000_038","재료의 교환이 필요한 거래 자본은
+93,TEXT_AKTKCT102_04731_SYSTEM_000_038,"재료의 교환이 필요한 거래 자본은
 채집수첩의 '모웬 도구' 항목을 선택하면
 채집 장소를 확인할 수 있습니다."
-94,"TEXT_AKTKCT102_04731_SYSTEM_000_039","또한 거래 자본을 채집할 때는
+94,TEXT_AKTKCT102_04731_SYSTEM_000_039,"또한 거래 자본을 채집할 때는
 개량할 '모웬 도구'를 장비해야 합니다."
-95,"TEXT_AKTKCT102_04731_SYSTEM_000_040","거래 자본으로 쓰일 물고기는
+95,TEXT_AKTKCT102_04731_SYSTEM_000_040,"거래 자본으로 쓰일 물고기는
 전용 미끼가 필요합니다.
 미끼도 마찬가지로 '키나나'를 통해 입수할 수 있습니다."
-96,"TEXT_AKTKCT102_04731_SYSTEM_000_041","또한 거래 자본으로 쓰일 물고기를 낚을 때는
+96,TEXT_AKTKCT102_04731_SYSTEM_000_041,"또한 거래 자본으로 쓰일 물고기를 낚을 때는
 개량할 '모웬 도구'를 장비해야 합니다."
-97,"TEXT_AKTKCT102_04731_SYSTEM_000_042","이 퀘스트를 완료할 때에는
+97,TEXT_AKTKCT102_04731_SYSTEM_000_042,"이 퀘스트를 완료할 때에는
 개량할 '모웬 도구'를 장비하지 말고
 소지품 또는 장비함에 넣어 주세요."
-98,"TEXT_AKTKCT102_04731_CHORAZOI_000_050","<Highlight>ObjectParameter(1)</Highlight> 님, 감사합니다!
+98,TEXT_AKTKCT102_04731_CHORAZOI_000_050,"Player Player 님, 감사합니다!
 필요한 희귀 재료를 다 갖고 오신 것 같으니
 개량할 도구와 함께 제게 주세요!"
-99,"TEXT_AKTKCT102_04731_CHORAZOI_000_051","희귀 재료를 구하느라 고생 많으셨습니다…….
+99,TEXT_AKTKCT102_04731_CHORAZOI_000_051,"희귀 재료를 구하느라 고생 많으셨습니다…….
 이제 제가 아주 멋진 도구를 만들어 보겠습니다!"
-100,"TEXT_AKTKCT102_04731_GRENOLDT_000_052","거래 자본을 만들어준 <Highlight>ObjectParameter(1)</Highlight> 공과
+100,TEXT_AKTKCT102_04731_GRENOLDT_000_052,"거래 자본을 만들어준 Player Player 공과
 독자적인 경로로 희귀 재료를 모아준 모웬 공……
 그 노력에 보답해야만 해."
-101,"TEXT_AKTKCT102_04731_CHORAZOI_000_053","그럼 연철과의 설비를 빌려서 이 도구를 개량해 올게요!
+101,TEXT_AKTKCT102_04731_CHORAZOI_000_053,"그럼 연철과의 설비를 빌려서 이 도구를 개량해 올게요!
 여기에서 잠시만 기다려 주세요!"
-102,"TEXT_AKTKCT102_04731_CHORAZOI_000_054","다녀왔습니다!
+102,TEXT_AKTKCT102_04731_CHORAZOI_000_054,"다녀왔습니다!
 희귀 재료를 사용하느라 긴장도 됐는데요,
 무사히 개량에 성공했어요!"
-103,"TEXT_AKTKCT102_04731_CHORAZOI_000_055","그레놀트 님의 설계도대로 만든 거니
+103,TEXT_AKTKCT102_04731_CHORAZOI_000_055,"그레놀트 님의 설계도대로 만든 거니
 기능은 확실할 거라 생각합니다!"
-104,"TEXT_AKTKCT102_04731_GRENOLDT_000_056","옆에서 보좌하며 지켜봤더니
+104,TEXT_AKTKCT102_04731_GRENOLDT_000_056,"옆에서 보좌하며 지켜봤더니
 초라 조이의 실력은 더할 나위가 없더군.
-안심하고 <Highlight>ObjectParameter(1)</Highlight> 공에게 줄 수 있겠어."
-105,"TEXT_AKTKCT102_04731_CHORAZOI_000_057","이번에도 무사히 개량 2단계를 완성했어요!
+안심하고 Player Player 공에게 줄 수 있겠어."
+105,TEXT_AKTKCT102_04731_CHORAZOI_000_057,"이번에도 무사히 개량 2단계를 완성했어요!
 새로운 도구를 연마하면서
 제 실력도 조금 더 좋아진 것 같아요!"
-106,"TEXT_AKTKCT102_04731_CHORAZOI_000_058","개량을 마친 '모웬 도구'
-'<Sheet(Item,IntegerParameter(1),0)/>'입니다!
+106,TEXT_AKTKCT102_04731_CHORAZOI_000_058,"개량을 마친 '모웬 도구'
+''입니다!
 자, 한번 들어보세요!"
-107,"TEXT_AKTKCT102_04731_SYSTEM_000_002","（★未使用／削除予定★）"
+107,TEXT_AKTKCT102_04731_SYSTEM_000_002,（★未使用／削除予定★）

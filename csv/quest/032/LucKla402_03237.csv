@@ -1,197 +1,195 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_LUCKLA402_03237_SEQ_00","중용의 공예관의 케시 레이는 시뮌에 대해 고찰하고자 하는 듯하다."
-1,"TEXT_LUCKLA402_03237_SEQ_01",""
-2,"TEXT_LUCKLA402_03237_SEQ_02",""
-3,"TEXT_LUCKLA402_03237_SEQ_03",""
-4,"TEXT_LUCKLA402_03237_SEQ_04",""
-5,"TEXT_LUCKLA402_03237_SEQ_05",""
-6,"TEXT_LUCKLA402_03237_SEQ_06",""
-7,"TEXT_LUCKLA402_03237_SEQ_07",""
-8,"TEXT_LUCKLA402_03237_SEQ_08",""
-9,"TEXT_LUCKLA402_03237_SEQ_09",""
-10,"TEXT_LUCKLA402_03237_SEQ_10",""
-11,"TEXT_LUCKLA402_03237_SEQ_11",""
-12,"TEXT_LUCKLA402_03237_SEQ_12",""
-13,"TEXT_LUCKLA402_03237_SEQ_13",""
-14,"TEXT_LUCKLA402_03237_SEQ_14",""
-15,"TEXT_LUCKLA402_03237_SEQ_15",""
-16,"TEXT_LUCKLA402_03237_SEQ_16",""
-17,"TEXT_LUCKLA402_03237_SEQ_17",""
-18,"TEXT_LUCKLA402_03237_SEQ_18",""
-19,"TEXT_LUCKLA402_03237_SEQ_19",""
-20,"TEXT_LUCKLA402_03237_SEQ_20",""
-21,"TEXT_LUCKLA402_03237_SEQ_21",""
-22,"TEXT_LUCKLA402_03237_SEQ_22",""
-23,"TEXT_LUCKLA402_03237_SEQ_23",""
-24,"TEXT_LUCKLA402_03237_TODO_00","리다 란에서 마오 라드의 목격 정보 수집"
-25,"TEXT_LUCKLA402_03237_TODO_01","케시 레이와 대화"
-26,"TEXT_LUCKLA402_03237_TODO_02","마오 라드 찾기"
-27,"TEXT_LUCKLA402_03237_TODO_03","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>티므 귀스에서 <Sheet(Item,26756,0)/> 채집<Else/>케시 레이에게 <Sheet(Item,26756,0)/> 납품</If>"
-28,"TEXT_LUCKLA402_03237_TODO_04","중용의 공예관에서 케시 레이와 대화"
-29,"TEXT_LUCKLA402_03237_TODO_05",""
-30,"TEXT_LUCKLA402_03237_TODO_06",""
-31,"TEXT_LUCKLA402_03237_TODO_07",""
-32,"TEXT_LUCKLA402_03237_TODO_08",""
-33,"TEXT_LUCKLA402_03237_TODO_09",""
-34,"TEXT_LUCKLA402_03237_TODO_10",""
-35,"TEXT_LUCKLA402_03237_TODO_11",""
-36,"TEXT_LUCKLA402_03237_TODO_12",""
-37,"TEXT_LUCKLA402_03237_TODO_13",""
-38,"TEXT_LUCKLA402_03237_TODO_14",""
-39,"TEXT_LUCKLA402_03237_TODO_15",""
-40,"TEXT_LUCKLA402_03237_TODO_16",""
-41,"TEXT_LUCKLA402_03237_TODO_17",""
-42,"TEXT_LUCKLA402_03237_TODO_18",""
-43,"TEXT_LUCKLA402_03237_TODO_19",""
-44,"TEXT_LUCKLA402_03237_TODO_20",""
-45,"TEXT_LUCKLA402_03237_TODO_21",""
-46,"TEXT_LUCKLA402_03237_TODO_22",""
-47,"TEXT_LUCKLA402_03237_TODO_23",""
-48,"TEXT_LUCKLA402_03237_SYSTEM_000_900","이 퀘스트를 진행하려면
+#,Unknown0,Unknown1
+0,TEXT_LUCKLA402_03237_SEQ_00,중용의 공예관의 케시 레이는 시뮌에 대해 고찰하고자 하는 듯하다.
+1,TEXT_LUCKLA402_03237_SEQ_01,
+2,TEXT_LUCKLA402_03237_SEQ_02,
+3,TEXT_LUCKLA402_03237_SEQ_03,
+4,TEXT_LUCKLA402_03237_SEQ_04,
+5,TEXT_LUCKLA402_03237_SEQ_05,
+6,TEXT_LUCKLA402_03237_SEQ_06,
+7,TEXT_LUCKLA402_03237_SEQ_07,
+8,TEXT_LUCKLA402_03237_SEQ_08,
+9,TEXT_LUCKLA402_03237_SEQ_09,
+10,TEXT_LUCKLA402_03237_SEQ_10,
+11,TEXT_LUCKLA402_03237_SEQ_11,
+12,TEXT_LUCKLA402_03237_SEQ_12,
+13,TEXT_LUCKLA402_03237_SEQ_13,
+14,TEXT_LUCKLA402_03237_SEQ_14,
+15,TEXT_LUCKLA402_03237_SEQ_15,
+16,TEXT_LUCKLA402_03237_SEQ_16,
+17,TEXT_LUCKLA402_03237_SEQ_17,
+18,TEXT_LUCKLA402_03237_SEQ_18,
+19,TEXT_LUCKLA402_03237_SEQ_19,
+20,TEXT_LUCKLA402_03237_SEQ_20,
+21,TEXT_LUCKLA402_03237_SEQ_21,
+22,TEXT_LUCKLA402_03237_SEQ_22,
+23,TEXT_LUCKLA402_03237_SEQ_23,
+24,TEXT_LUCKLA402_03237_TODO_00,리다 란에서 마오 라드의 목격 정보 수집
+25,TEXT_LUCKLA402_03237_TODO_01,케시 레이와 대화
+26,TEXT_LUCKLA402_03237_TODO_02,마오 라드 찾기
+27,TEXT_LUCKLA402_03237_TODO_03,티므 귀스에서  채집
+28,TEXT_LUCKLA402_03237_TODO_04,중용의 공예관에서 케시 레이와 대화
+29,TEXT_LUCKLA402_03237_TODO_05,
+30,TEXT_LUCKLA402_03237_TODO_06,
+31,TEXT_LUCKLA402_03237_TODO_07,
+32,TEXT_LUCKLA402_03237_TODO_08,
+33,TEXT_LUCKLA402_03237_TODO_09,
+34,TEXT_LUCKLA402_03237_TODO_10,
+35,TEXT_LUCKLA402_03237_TODO_11,
+36,TEXT_LUCKLA402_03237_TODO_12,
+37,TEXT_LUCKLA402_03237_TODO_13,
+38,TEXT_LUCKLA402_03237_TODO_14,
+39,TEXT_LUCKLA402_03237_TODO_15,
+40,TEXT_LUCKLA402_03237_TODO_16,
+41,TEXT_LUCKLA402_03237_TODO_17,
+42,TEXT_LUCKLA402_03237_TODO_18,
+43,TEXT_LUCKLA402_03237_TODO_19,
+44,TEXT_LUCKLA402_03237_TODO_20,
+45,TEXT_LUCKLA402_03237_TODO_21,
+46,TEXT_LUCKLA402_03237_TODO_22,
+47,TEXT_LUCKLA402_03237_TODO_23,
+48,TEXT_LUCKLA402_03237_SYSTEM_000_900,"이 퀘스트를 진행하려면
 '주요 퀘스트: 칠흑의 반역자' 중
 '즐거운 축하연'을 완료해야 합니다."
-49,"TEXT_LUCKLA402_03237_QESHIRAE_000_000","좋아, 흔적은 순조롭게 모이고 있는데도
+49,TEXT_LUCKLA402_03237_QESHIRAE_000_000,"좋아, 흔적은 순조롭게 모이고 있는데도
 여전히 시뮌 본체가 오리무중인 이유에 대해
 다시 한번 생각해볼까!"
-50,"TEXT_LUCKLA402_03237_YALANA_000_001","헉, 헉…… 케, 케시 레이 과장님……!
+50,TEXT_LUCKLA402_03237_YALANA_000_001,"헉, 헉…… 케, 케시 레이 과장님……!
 큰일 났어요……!"
-51,"TEXT_LUCKLA402_03237_QESHIRAE_000_002","얄라나, 괜찮아……?
+51,TEXT_LUCKLA402_03237_QESHIRAE_000_002,"얄라나, 괜찮아……?
 두뇌 노동자가 전력 질주를 하다니, 자살 행위야……!"
-52,"TEXT_LUCKLA402_03237_YALANA_000_004","거, 거야 그렇지만…… 지금 그게 문제가 아니고요……!
+52,TEXT_LUCKLA402_03237_YALANA_000_004,"거, 거야 그렇지만…… 지금 그게 문제가 아니고요……!
 마오 라드가 혼자서 시뮌을 찾겠답시고
 일 메그로 가버렸다고요!"
-53,"TEXT_LUCKLA402_03237_QESHIRAE_000_005","뭐라고!?"
-54,"TEXT_LUCKLA402_03237_YALANA_000_006","다른 연구원이 마오한테
+53,TEXT_LUCKLA402_03237_QESHIRAE_000_005,뭐라고!?
+54,TEXT_LUCKLA402_03237_YALANA_000_006,"다른 연구원이 마오한테
 ""네가 시뮌 같은 비현실적인 망상을 퍼뜨리는 바람에
 케시 레이 과장님까지 멍청한 짓을 한다""고 했어요."
-55,"TEXT_LUCKLA402_03237_YALANA_000_007","그걸 들은 마오는 심하게 반발하며 뛰쳐나갔고요…….
+55,TEXT_LUCKLA402_03237_YALANA_000_007,"그걸 들은 마오는 심하게 반발하며 뛰쳐나갔고요…….
 하지만 자기 몸을 지킬 줄도 모르는 연구원이
 혼자서 밖으로 나가다니 너무 무모하잖아요……!"
-56,"TEXT_LUCKLA402_03237_QESHIRAE_000_008","하필이면 일 메그라니……!
+56,TEXT_LUCKLA402_03237_QESHIRAE_000_008,"하필이면 일 메그라니……!
 요정들에게 현혹되어 목숨을 잃을 위험까지 있는 곳인데!
 어서 찾으러 가야 해!"
-57,"TEXT_LUCKLA402_03237_YALANA_000_009","잠깐만요, 과장님!
+57,TEXT_LUCKLA402_03237_YALANA_000_009,"잠깐만요, 과장님!
 그랬다간 우리까지 요정한테 현혹될 가능성도……!"
-58,"TEXT_LUCKLA402_03237_QESHIRAE_000_010","<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 있으니까 괜찮아.
+58,TEXT_LUCKLA402_03237_QESHIRAE_000_010,"Player Player 있으니까 괜찮아.
 너, 일 메그의 요정이랑도 친하지?
 안내를 부탁해도 될까?"
-59,"TEXT_LUCKLA402_03237_YALANA_000_011","오오, 일 메그 남쪽의 마을
+59,TEXT_LUCKLA402_03237_YALANA_000_011,"오오, 일 메그 남쪽의 마을
 '리다 란'의 픽시들과 친분이 있으시다고요…….
 그럼 마오를 못 봤는지 물어봐주세요!"
-60,"TEXT_LUCKLA402_03237_QESHIRAE_000_012","그럼 우리는 일 메그 입구 부근에서 마오를 찾아볼게.
+60,TEXT_LUCKLA402_03237_QESHIRAE_000_012,"그럼 우리는 일 메그 입구 부근에서 마오를 찾아볼게.
 미안하지만 정보가 모이면 우리 쪽에 합류해줄래?
 마오의 목숨이 달린 일이라…… 부탁해!"
-61,"TEXT_LUCKLA402_03237_PIXIE03237A_000_020","귀가 큰 남자?
+61,TEXT_LUCKLA402_03237_PIXIE03237A_000_020,"귀가 큰 남자?
 아까 '거울 호수' 서쪽에서 봤는데
 놓쳐버렸어……."
-62,"TEXT_LUCKLA402_03237_PIXIE03237A_000_021","다음에 만나면
+62,TEXT_LUCKLA402_03237_PIXIE03237A_000_021,"다음에 만나면
 귀여운 풀인간으로 만들어야지~♪"
-63,"TEXT_LUCKLA402_03237_PIXIE03237B_000_022","응!? 인간이 놀러 왔다고? 몰랐어!
+63,TEXT_LUCKLA402_03237_PIXIE03237B_000_022,"응!? 인간이 놀러 왔다고? 몰랐어!
 너무해~! 인간 보고 싶다~! 놀고 싶다~!
 심심해~! 심심한 건 싫어~!"
-64,"TEXT_LUCKLA402_03237_PIXIE03237C_000_023","뭐어? 아까 그 인간, 네 친구였어?
+64,TEXT_LUCKLA402_03237_PIXIE03237C_000_023,"뭐어? 아까 그 인간, 네 친구였어?
 그럼 등을 퍽 밀어서 놀아줄걸 그랬네!
 '거울 호수' 부근을 걷고 있었으니까…… 후후후!"
-65,"TEXT_LUCKLA402_03237_SYSTEM_000_024","마오 라드는 '거울 호수' 부근에서 목격된 것 같다…….
+65,TEXT_LUCKLA402_03237_SYSTEM_000_024,"마오 라드는 '거울 호수' 부근에서 목격된 것 같다…….
 '티므 귀스' 입구 부근에 있는 케시 레이 일행에게도
 목격 정보를 전해주자."
-66,"TEXT_LUCKLA402_03237_QESHIRAE_000_025","일 메그에는 몇 번밖에 안 와봤지만……
+66,TEXT_LUCKLA402_03237_QESHIRAE_000_025,"일 메그에는 몇 번밖에 안 와봤지만……
 여전히 매력적이면서도 무시무시한 곳이네……."
-67,"TEXT_LUCKLA402_03237_YALANA_000_026","마오~! 어디 있어요~!
+67,TEXT_LUCKLA402_03237_YALANA_000_026,"마오~! 어디 있어요~!
 화 안 낼 테니까 어서 나와요~!"
-68,"TEXT_LUCKLA402_03237_PIXIE03237A_000_027","귀가 큰 남자?
+68,TEXT_LUCKLA402_03237_PIXIE03237A_000_027,"귀가 큰 남자?
 아까 '거울 호수' 서쪽에서 봤는데
 놓쳐버렸어……."
-69,"TEXT_LUCKLA402_03237_PIXIE03237A_000_028","다음에 만나면
+69,TEXT_LUCKLA402_03237_PIXIE03237A_000_028,"다음에 만나면
 귀여운 풀인간으로 만들어야지~♪"
-70,"TEXT_LUCKLA402_03237_PIXIE03237B_000_029","응!? 인간이 놀러 왔다고? 몰랐어!
+70,TEXT_LUCKLA402_03237_PIXIE03237B_000_029,"응!? 인간이 놀러 왔다고? 몰랐어!
 너무해~! 인간 보고 싶다~! 놀고 싶다~!
 심심해~! 심심한 건 싫어~!"
-71,"TEXT_LUCKLA402_03237_PIXIE03237C_100_029","뭐어? 아까 그 인간, 네 친구였어?
+71,TEXT_LUCKLA402_03237_PIXIE03237C_100_029,"뭐어? 아까 그 인간, 네 친구였어?
 그럼 등을 퍽 밀어서 놀아줄걸 그랬네!
 '거울 호수' 부근을 걷고 있었으니까…… 후후후!"
-72,"TEXT_LUCKLA402_03237_QESHIRAE_000_030","어서 와, 마오 행방에 대해
+72,TEXT_LUCKLA402_03237_QESHIRAE_000_030,"어서 와, 마오 행방에 대해
 뭐 알게 된 거라도 있어?"
-73,"TEXT_LUCKLA402_03237_QESHIRAE_000_031","오오!
+73,TEXT_LUCKLA402_03237_QESHIRAE_000_031,"오오!
 벌써 마오가 있는 곳을 알아냈다고!?
 역시 너한테 안내를 부탁하길 잘했어……!"
-74,"TEXT_LUCKLA402_03237_QESHIRAE_000_032","'거울 호수'라고 했나?
+74,TEXT_LUCKLA402_03237_QESHIRAE_000_032,"'거울 호수'라고 했나?
 좋아, 그럼 다 함께 그쪽으로 이동하자!
 요정의 습격을 받지 않도록 똘똘 뭉쳐서 가보자고!"
-75,"TEXT_LUCKLA402_03237_QESHIRAE_000_035","마오!
+75,TEXT_LUCKLA402_03237_QESHIRAE_000_035,"마오!
 다행이다, 무사했구나……!"
-76,"TEXT_LUCKLA402_03237_YALANA_000_036","이런 곳까지 혼자 오다니…….
+76,TEXT_LUCKLA402_03237_YALANA_000_036,"이런 곳까지 혼자 오다니…….
 기적적으로 무사했기에 천만다행이지만……."
-77,"TEXT_LUCKLA402_03237_MAOLADD_000_040","<Highlight>ObjectParameter(1)</Highlight> 님!
+77,TEXT_LUCKLA402_03237_MAOLADD_000_040,"Player Player 님!
 죄송합니다, 걱정을 끼쳐서……!"
-78,"TEXT_LUCKLA402_03237_YALANA_000_041","못 살아요, 진짜!
+78,TEXT_LUCKLA402_03237_YALANA_000_041,"못 살아요, 진짜!
 케시 레이 과장님에 당신까지 뛰쳐나가는 버릇이 생기면
 저 혼자서는 대처할 수가 없다고요!"
-79,"TEXT_LUCKLA402_03237_MAOLADD_000_042","하지만 다른 녀석들이
+79,TEXT_LUCKLA402_03237_MAOLADD_000_042,"하지만 다른 녀석들이
 케시 레이 과장님을 모욕한 기분이 들어서……
 참을 수가 없었단 말입니다."
-80,"TEXT_LUCKLA402_03237_MAOLADD_000_043","하지만 그 덕분에
+80,TEXT_LUCKLA402_03237_MAOLADD_000_043,"하지만 그 덕분에
 시뮌의 몸 일부로 추측되는 걸 찾았답니다!"
-81,"TEXT_LUCKLA402_03237_MAOLADD_000_044","그런데 제가 채집도구를 깜빡해서…….
-<Highlight>ObjectParameter(1)</Highlight> 님,
+81,TEXT_LUCKLA402_03237_MAOLADD_000_044,"그런데 제가 채집도구를 깜빡해서…….
+Player Player 님,
 저 대신 채집해 와주실 수 있을까요……?"
-82,"TEXT_LUCKLA402_03237_MAOLADD_000_045","이 주변 '티므 귀스'의 바위와 나무에
+82,TEXT_LUCKLA402_03237_MAOLADD_000_045,"이 주변 '티므 귀스'의 바위와 나무에
 몸을 비빈 듯한 흔적이 있었습니다!
-그 근처에서 '<Sheet(Item,26756,0)/>'의 채집을 부탁드립니다!"
-83,"TEXT_LUCKLA402_03237_MAOLADD_000_050","이 주변 '티므 귀스'의 바위와 나무에
+그 근처에서 ''의 채집을 부탁드립니다!"
+83,TEXT_LUCKLA402_03237_MAOLADD_000_050,"이 주변 '티므 귀스'의 바위와 나무에
 몸을 비빈 듯한 흔적이 있었습니다!
-그 근처에서 '<Sheet(Item,26756,0)/>'의 채집을 부탁드립니다!"
-84,"TEXT_LUCKLA402_03237_YALANA_000_052","정말로 시뮌의 몸 일부가 발견된다면……
+그 근처에서 ''의 채집을 부탁드립니다!"
+84,TEXT_LUCKLA402_03237_YALANA_000_052,"정말로 시뮌의 몸 일부가 발견된다면……
 특정 작업이 크게 진척되겠네요……!"
-85,"TEXT_LUCKLA402_03237_QESHIRAE_000_060","뭐야, 뭐야?
-<Sheet(Item,26756,0)/><13>FF0F02280BFF054974656DF268840103FF04EBA5BCFF04EC9D84</13> 찾았어!?"
-86,"TEXT_LUCKLA402_03237_QESHIRAE_000_061","흠흠, 이건……!
+85,TEXT_LUCKLA402_03237_QESHIRAE_000_060,"뭐야, 뭐야?
+ 찾았어!?"
+86,TEXT_LUCKLA402_03237_QESHIRAE_000_061,"흠흠, 이건……!
 피부 조각은 맞는 것 같지만 오래돼서 쭈그러들었네…….
 출혈의 흔적도 없는 걸 보니 탈피한 것으로 생각해도 되겠어."
-87,"TEXT_LUCKLA402_03237_YALANA_000_062","그렇다면 탈피하는 습성을 지닌 생물……!
+87,TEXT_LUCKLA402_03237_YALANA_000_062,"그렇다면 탈피하는 습성을 지닌 생물……!
 특정하는 데에도 큰 도움이 되겠는걸요!
 어서 갖고 돌아가서 분석하고 싶어요!"
-88,"TEXT_LUCKLA402_03237_MAOLADD_000_063","케시 레이 과장님, 얄라나 씨!!
+88,TEXT_LUCKLA402_03237_MAOLADD_000_063,"케시 레이 과장님, 얄라나 씨!!
 뒤, 뒤…… 뒤에 시뮌처럼 보이는 게……!!"
-89,"TEXT_LUCKLA402_03237_QESHIRAE_000_064","없는데?"
-90,"TEXT_LUCKLA402_03237_YALANA_000_065","없네요."
-91,"TEXT_LUCKLA402_03237_MAOLADD_000_066","어, 어라?
+89,TEXT_LUCKLA402_03237_QESHIRAE_000_064,없는데?
+90,TEXT_LUCKLA402_03237_YALANA_000_065,없네요.
+91,TEXT_LUCKLA402_03237_MAOLADD_000_066,"어, 어라?
 하지만 방금 전엔 분명히 있었다고요!
 아므 아랭에서 봤던 그림자와 똑같은 형태였어요!"
-92,"TEXT_LUCKLA402_03237_MAOLADD_000_067","하, 하지만 눈을 떼니까
+92,TEXT_LUCKLA402_03237_MAOLADD_000_067,"하, 하지만 눈을 떼니까
 순식간에 사라지다니……
 어디로 숨어버린 건지도 모르죠……."
-93,"TEXT_LUCKLA402_03237_MAOLADD_000_068","저, 거짓말한 거 아니죠!?
-<Highlight>ObjectParameter(1)</Highlight> 님,
+93,TEXT_LUCKLA402_03237_MAOLADD_000_068,"저, 거짓말한 거 아니죠!?
+Player Player 님,
 당신도 봤잖아요!?"
-94,"TEXT_LUCKLA402_03237_QESHIRAE_000_069","진짜야!? 으윽, 분하다!"
-95,"TEXT_LUCKLA402_03237_QESHIRAE_000_070","나도 보고 싶었단 말이야! 어떤 모습이었어!?
+94,TEXT_LUCKLA402_03237_QESHIRAE_000_069,"진짜야!? 으윽, 분하다!"
+95,TEXT_LUCKLA402_03237_QESHIRAE_000_070,"나도 보고 싶었단 말이야! 어떤 모습이었어!?
 이미 알려진 생물이랑 닮은 부분은 있어!?
 색깔은!? 냄새는!? 크기는!?"
-96,"TEXT_LUCKLA402_03237_YALANA_000_071","과장님, 그 얘기는 길어질 것 같으니까
+96,TEXT_LUCKLA402_03237_YALANA_000_071,"과장님, 그 얘기는 길어질 것 같으니까
 일단 여길 떠나죠…….
 어서 표본관으로 돌아가고 싶어요."
-97,"TEXT_LUCKLA402_03237_QESHIRAE_000_072","그래…… 힘들게 손에 넣은 흔적을
+97,TEXT_LUCKLA402_03237_QESHIRAE_000_072,"그래…… 힘들게 손에 넣은 흔적을
 요정의 장난으로 잃어버리면 큰일이니까!
 그럼 다 같이 '중용의 공예관'으로 돌아가자!"
-98,"TEXT_LUCKLA402_03237_YALANA_000_075","<Highlight>ObjectParameter(1)</Highlight> 님,
+98,TEXT_LUCKLA402_03237_YALANA_000_075,"Player Player 님,
 저희 연구원을 구해주셔서……
 정말 감사합니다!"
-99,"TEXT_LUCKLA402_03237_MAOLADD_000_076","분노에 몸을 맡기고 뛰쳐나간 것까진 좋았지만……
+99,TEXT_LUCKLA402_03237_MAOLADD_000_076,"분노에 몸을 맡기고 뛰쳐나간 것까진 좋았지만……
 일 메그에 혼자 있자니 정말 무섭더라고요…….
 구하러 와주셔서 감사했습니다……!!"
-100,"TEXT_LUCKLA402_03237_QESHIRAE_000_080","휴우~ 큰일 날 뻔했네!
+100,TEXT_LUCKLA402_03237_QESHIRAE_000_080,"휴우~ 큰일 날 뻔했네!
 하지만 마오를 찾아서 다행이었어!"
-101,"TEXT_LUCKLA402_03237_QESHIRAE_000_081","덕분에 유력한 검체도 손에 넣었고!
+101,TEXT_LUCKLA402_03237_QESHIRAE_000_081,"덕분에 유력한 검체도 손에 넣었고!
 관찰하다가 뺨에 비벼도 보고 냄새도 맡고 맛도 보려고 했지만……
 얄라나한테 몰수당했어."
-102,"TEXT_LUCKLA402_03237_QESHIRAE_000_082","지금은 얄라나가 분석 중이야.
+102,TEXT_LUCKLA402_03237_QESHIRAE_000_082,"지금은 얄라나가 분석 중이야.
 반드시 시뮌의 정체를 밝혀내고 말 테니까
 조금만 기다려줘……!"
-103,"TEXT_LUCKLA402_03237_SYSTEM_000_090","다음 납품 의뢰는
+103,TEXT_LUCKLA402_03237_SYSTEM_000_090,"다음 납품 의뢰는
 '광부/원예가' 중 하나의 레벨이 78 이상 되면
 중용의 공예관에 있는 '케시 레이'에게 받을 수 있습니다."
-104,"TEXT_LUCKLA402_03237_QESHIRAE_000_051","（★未使用／削除予定★）"
-105,"TEXT_LUCKLA402_03237_QESHIRAE_000_090","（★未使用／削除予定★）"
+104,TEXT_LUCKLA402_03237_QESHIRAE_000_051,（★未使用／削除予定★）
+105,TEXT_LUCKLA402_03237_QESHIRAE_000_090,（★未使用／削除予定★）

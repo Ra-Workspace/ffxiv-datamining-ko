@@ -1,432 +1,430 @@
-﻿key,0,1,2,3,4,5,6,7
-#,Label,Param,Platform,Required,Category,,,Text
-int32,str,byte,byte,bit&01,byte,uint16,byte,str
-0,"",255,255,False,0,0,0,""
-11,"MOVE_AND_STEER",255,255,False,1,1,0,"마우스 양버튼 클릭 이동"
-12,"MOVE_FORE",255,255,False,1,2,3,"전진 / 앞으로 이동"
-13,"MOVE_BACK",255,255,False,1,3,3,"후퇴 / 뒤로 이동"
-14,"MOVE_LEFT",255,255,False,1,4,3,"왼쪽으로 회전 / 왼쪽으로 이동"
-15,"MOVE_RIGHT",255,255,False,1,5,3,"오른쪽으로 회전 / 오른쪽으로 이동"
-16,"MOVE_STRIFE_L",255,255,False,1,6,3,"왼쪽으로 횡이동"
-17,"MOVE_STRIFE_R",255,255,False,1,7,3,"오른쪽으로 횡이동"
-18,"JUMP",255,255,False,1,8,3,"점프"
-19,"WALK",255,255,False,1,9,3,"걷기 전환"
-20,"AUTORUN_KEY",255,255,False,1,10,3,"자동 달리기 전환"
-21,"SWARD",255,255,False,1,11,3,"무기 넣기/꺼내기"
-22,"CAMERA_FOCUS",255,255,False,1,12,6,"대상 고정"
-23,"MOVE_DESCENT",255,255,False,1,13,3,"비행 / 잠수 조작: 하강"
-24,"MOVE_RETENTION",255,255,False,1,14,3,"비행 / 잠수 조작: 고도 유지"
-25,"MOVE_ANGLE_RISING",255,255,False,1,15,3,"비행 / 잠수 조작: 경사각 위로"
-26,"MOVE_ANGLE_DESCENT",255,255,False,1,16,3,"비행 / 잠수 조작: 경사각 아래로"
-51,"CAMERA_UP",255,255,False,1,17,6,"위로 시선 이동"
-52,"CAMERA_DOWN",255,255,False,1,18,6,"아래로 시선 이동"
-53,"CAMERA_LEFT",255,255,False,1,19,6,"왼쪽으로 시선 이동"
-54,"CAMERA_RIGHT",255,255,False,1,20,6,"오른쪽으로 시선 이동"
-55,"CAMERA_MODE",255,255,False,1,21,6,"1인칭/3인칭 시점 전환"
-56,"CAMERA_BACKWARD",255,255,False,1,22,6,"후방 카메라 표시"
-57,"CAMERA_ZOOMIN",255,255,False,1,23,6,"카메라 확대 / 페이지 전환: 역순으로"
-58,"CAMERA_ZOOMOUT",255,255,False,1,24,6,"카메라 축소 / 페이지 전환: 순서대로"
-59,"CAMERA_LOAD",255,255,False,1,25,6,"카메라 위치 초기화"
-60,"CAMERA_SAVE",255,255,False,1,26,6,"현재 카메라 위치 저장"
-61,"CAMERA_RESET",255,255,False,1,27,6,"카메라 위치 저장 초기화"
-62,"CAM_TILT_UP",255,255,False,1,28,6,"카메라 주시 각도 상승"
-63,"CAM_TILT_DOWN",255,255,False,1,29,6,"카메라 주시 각도 하강"
-64,"CAMERA_LOOKING",255,255,False,1,30,6,"캐릭터 시선을 카메라로 고정"
-65,"GROUP_POSE",255,255,False,1,32,1,"단체 자세"
-66,"IDLING_CAMERA",255,255,False,1,31,1,"경관 카메라"
-103,"TARGET_NEXT",255,255,False,2,1,2,"가장 가까운 적부터 지정: 순서대로"
-104,"TARGET_PREV",255,255,False,2,2,2,"가장 가까운 적부터 지정: 역순으로"
-105,"TARGET_P1",255,255,False,2,3,2,"1번째 파티원 지정"
-106,"TARGET_P2",255,255,False,2,4,2,"2번째 파티원 지정"
-107,"TARGET_P3",255,255,False,2,5,2,"3번째 파티원 지정"
-108,"TARGET_P4",255,255,False,2,6,2,"4번째 파티원 지정"
-109,"TARGET_P5",255,255,False,2,7,2,"5번째 파티원 지정"
-110,"TARGET_P6",255,255,False,2,8,2,"6번째 파티원 지정"
-111,"TARGET_P7",255,255,False,2,9,2,"7번째 파티원 지정"
-112,"TARGET_P8",255,255,False,2,10,2,"8번째 파티원 지정"
-113,"TARGET_PET",255,255,False,2,11,2,"내 소환수 지정"
-114,"TARGET_TTOT",255,255,False,2,13,2,"대상이 지정한 대상 지정하기 (조준 따라가기)"
-115,"TARGET_LASTTARGET",255,255,False,2,14,2,"마지막으로 지정한 대상 다시 지정"
-116,"TARGET_LASTENEMY",255,255,False,2,15,2,"마지막으로 지정한 적 다시 지정"
-117,"TARGET_LASTATTACKER",255,255,False,2,16,2,"나에게 적대 행동을 한 적 지정"
-118,"TARGET_CLOSEST_ENEMY",255,255,False,2,17,2,"가장 가까운 적 지정"
-119,"TARGET_CLOSEST_PC",255,255,False,2,18,2,"가장 가까운 플레이어 지정"
-120,"TARGET_CLOSEST_NPC",255,255,False,2,19,2,"가장 가까운 NPC/사물 지정"
-121,"TARGET_FOCUS",255,255,False,2,20,2,"주시 대상으로 지정"
-122,"TARGET_SELECT",255,255,False,2,21,2,"주시 대상을 현재 대상으로 지정"
-123,"FACE",255,255,False,2,22,2,"지정한 대상 바라보기 (정면으로 보기)"
-124,"CIRCLE_ALL",255,255,False,2,23,2,"대상 필터 사용자 설정: <CommandIcon(12)/>+<Gui(11)/>"
-125,"CIRCLE_ENEMY",255,255,False,2,24,2,"대상 필터 사용자 설정: <CommandIcon(12)/>+<Gui(8)/>"
-126,"CIRCLE_PARTY",255,255,False,2,25,2,"대상 필터 사용자 설정: <CommandIcon(12)/>+<Gui(9)/>"
-127,"CIRCLE_PC",255,255,False,2,26,2,"대상 필터 사용자 설정: <CommandIcon(12)/>+<Gui(10)/>"
-136,"TARGET_ENEMY_LIST_UP_KEY",255,255,False,2,27,2,"적대 목록에서 선택: 위로"
-137,"TARGET_ENEMY_LIST_DOWN_KEY",255,255,False,2,28,2,"적대 목록에서 선택: 아래로"
-138,"TARGET_ALLIANCE_NEXT_KEY",255,255,False,2,29,2,"연합 파티 목록에서 선택: 순서대로"
-139,"TARGET_ALLIANCE_PREV_KEY",255,255,False,2,30,2,"연합 파티 목록에서 선택: 역순으로"
-140,"TARGET_ALLIANCE1_NEXT",255,255,False,2,31,2,"연합 파티 목록 1 선택: 순서대로"
-141,"TARGET_ALLIANCE1_PREV",255,255,False,2,32,2,"연합 파티 목록 1 선택: 역순으로"
-142,"TARGET_ALLIANCE2_NEXT",255,255,False,2,33,2,"연합 파티 목록 2 선택: 순서대로"
-143,"TARGET_ALLIANCE2_PREV",255,255,False,2,34,2,"연합 파티 목록 2 선택: 역순으로"
-144,"TARGET_ALLIANCE1_1",255,255,False,2,35,2,"연합 파티원 1-1 지정"
-145,"TARGET_ALLIANCE1_2",255,255,False,2,36,2,"연합 파티원 1-2 지정"
-146,"TARGET_ALLIANCE1_3",255,255,False,2,37,2,"연합 파티원 1-3 지정"
-147,"TARGET_ALLIANCE1_4",255,255,False,2,38,2,"연합 파티원 1-4 지정"
-148,"TARGET_ALLIANCE1_5",255,255,False,2,39,2,"연합 파티원 1-5 지정"
-149,"TARGET_ALLIANCE1_6",255,255,False,2,40,2,"연합 파티원 1-6 지정"
-150,"TARGET_ALLIANCE1_7",255,255,False,2,41,2,"연합 파티원 1-7 지정"
-151,"TARGET_ALLIANCE1_8",255,255,False,2,42,2,"연합 파티원 1-8 지정"
-152,"TARGET_ALLIANCE2_1",255,255,False,2,43,2,"연합 파티원 2-1 지정"
-153,"TARGET_ALLIANCE2_2",255,255,False,2,44,2,"연합 파티원 2-2 지정"
-154,"TARGET_ALLIANCE2_3",255,255,False,2,45,2,"연합 파티원 2-3 지정"
-155,"TARGET_ALLIANCE2_4",255,255,False,2,46,2,"연합 파티원 2-4 지정"
-156,"TARGET_ALLIANCE2_5",255,255,False,2,47,2,"연합 파티원 2-5 지정"
-157,"TARGET_ALLIANCE2_6",255,255,False,2,48,2,"연합 파티원 2-6 지정"
-158,"TARGET_ALLIANCE2_7",255,255,False,2,49,2,"연합 파티원 2-7 지정"
-159,"TARGET_ALLIANCE2_8",255,255,False,2,50,2,"연합 파티원 2-8 지정"
-160,"BUDDY_TARGET",255,255,False,2,12,2,"내 버디 지정"
-161,"TARGET_PVP_OPP_P1",255,255,False,2,51,2,"크리스탈라인 컨플릭트: 적군 파티원 1 지정"
-162,"TARGET_PVP_OPP_P2",255,255,False,2,52,2,"크리스탈라인 컨플릭트: 적군 파티원 2 지정"
-163,"TARGET_PVP_OPP_P3",255,255,False,2,53,2,"크리스탈라인 컨플릭트: 적군 파티원 3 지정"
-164,"TARGET_PVP_OPP_P4",255,255,False,2,54,2,"크리스탈라인 컨플릭트: 적군 파티원 4 지정"
-165,"TARGET_PVP_OPP_P5",255,255,False,2,55,2,"크리스탈라인 컨플릭트: 적군 파티원 5 지정"
-171,"CMD_CHAT",255,255,False,4,1,5,"대화 입력 시작"
-172,"CMD_COMMAND",255,255,False,4,2,5,"명령어 입력 시작"
-173,"CMD_REPLY",255,255,False,4,3,5,"귓속말 일시 응답: 순서대로"
-174,"CMD_REPLY_REV",255,255,False,4,4,5,"귓속말 일시 응답: 역순으로"
-175,"CMD_SAY",255,255,False,4,5,5,"말하기 대화로 일시 전환"
-176,"CMD_YELL",255,255,False,4,6,5,"떠들기 대화로 일시 전환"
-177,"CMD_SHOUT",255,255,False,4,7,5,"외치기 대화로 일시 전환"
-178,"CMD_PARTY",255,255,False,4,8,5,"파티 대화로 일시 전환"
-179,"CMD_ALLIANCE",255,255,False,4,9,5,"연합 파티 대화로 일시 전환"
-180,"CMD_FREECOM",255,255,False,4,10,5,"자유부대 대화로 일시 전환"
-181,"CMD_LINKSHELL",255,255,False,4,22,5,"링크셸 대화로 일시 전환: 순서대로"
-182,"CMD_LINKSHELL_REV",255,255,False,4,23,5,"링크셸 대화로 일시 전환: 역순으로"
-183,"CMD_LINKSHELL_1",255,255,False,4,24,5,"링크셸 대화 [1]번으로 일시 전환"
-184,"CMD_LINKSHELL_2",255,255,False,4,25,5,"링크셸 대화 [2]번으로 일시 전환"
-185,"CMD_LINKSHELL_3",255,255,False,4,26,5,"링크셸 대화 [3]번으로 일시 전환"
-186,"CMD_LINKSHELL_4",255,255,False,4,27,5,"링크셸 대화 [4]번으로 일시 전환"
-187,"CMD_LINKSHELL_5",255,255,False,4,28,5,"링크셸 대화 [5]번으로 일시 전환"
-188,"CMD_LINKSHELL_6",255,255,False,4,29,5,"링크셸 대화 [6]번으로 일시 전환"
-189,"CMD_LINKSHELL_7",255,255,False,4,30,5,"링크셸 대화 [7]번으로 일시 전환"
-190,"CMD_LINKSHELL_8",255,255,False,4,31,5,"링크셸 대화 [8]번으로 일시 전환"
-191,"CMD_REPLY_ALWAYS",255,255,False,4,103,5,"귓속말 응답: 순서대로"
-192,"CMD_REPLY_REV_ALWAYS",255,255,False,4,104,5,"귓속말 응답: 역순으로"
-193,"CMD_SAY_ALWAYS",255,255,False,4,105,5,"말하기 대화로 전환"
-194,"CMD_YELL_ALWAYS",255,255,False,4,106,5,"떠들기 대화로 전환"
-196,"CMD_PARTY_ALWAYS",255,255,False,4,108,5,"파티 대화로 전환"
-197,"CMD_ALLIANCE_ALWAYS",255,255,False,4,109,5,"연합 파티 대화로 전환"
-198,"CMD_FREECOM_ALWAYS",255,255,False,4,110,5,"자유부대 대화로 전환"
-199,"CMD_LINKSHELL_ALWAYS",255,255,False,4,122,5,"링크셸 대화로 전환: 순서대로"
-200,"CMD_LINKSHELL_REV_ALWAYS",255,255,False,4,123,5,"링크셸 대화로 전환: 역순으로"
-201,"CMD_LINKSHELL_1_ALWAYS",255,255,False,4,124,5,"링크셸 대화 [1]번으로 전환"
-202,"CMD_LINKSHELL_2_ALWAYS",255,255,False,4,125,5,"링크셸 대화 [2]번으로 전환"
-203,"CMD_LINKSHELL_3_ALWAYS",255,255,False,4,126,5,"링크셸 대화 [3]번으로 전환"
-204,"CMD_LINKSHELL_4_ALWAYS",255,255,False,4,127,5,"링크셸 대화 [4]번으로 전환"
-205,"CMD_LINKSHELL_5_ALWAYS",255,255,False,4,128,5,"링크셸 대화 [5]번으로 전환"
-206,"CMD_LINKSHELL_6_ALWAYS",255,255,False,4,129,5,"링크셸 대화 [6]번으로 전환"
-207,"CMD_LINKSHELL_7_ALWAYS",255,255,False,4,130,5,"링크셸 대화 [7]번으로 전환"
-208,"CMD_LINKSHELL_8_ALWAYS",255,255,False,4,131,5,"링크셸 대화 [8]번으로 전환"
-211,"OK",255,255,True,5,1,1,"결정"
-212,"CANCEL",255,255,True,5,2,1,"취소"
-213,"ESC",255,255,True,5,3,1,"나가기"
-214,"PAD_MAINMENUFOCUS",255,255,True,5,4,1,"주 메뉴"
-215,"MENU",255,255,False,5,5,1,"단축 메뉴"
-216,"UP",255,255,False,5,6,1,"커서 / 파티 목록 위로 이동"
-217,"DOWN",255,255,False,5,7,1,"커서 / 파티 목록 아래로 이동"
-218,"LEFT",255,255,False,5,8,1,"커서 / 임시 대상 왼쪽 이동"
-219,"RIGHT",255,255,False,5,9,1,"커서 / 임시 대상 오른쪽 이동"
-220,"TAB_NEXT",255,255,False,5,10,1,"탭 전환: 순서대로"
-221,"TAB_PREV",255,255,False,5,11,1,"탭 전환: 역순으로"
-222,"HOTBAR_UP",255,253,False,5,12,1,"단축바 전환: 순서대로"
-223,"HOTBAR_DOWN",255,253,False,5,13,1,"단축바 전환: 역순으로"
-224,"KEY_SCREENSHOT",255,243,False,5,14,1,"스크린샷"
-225,"HIDE",255,255,False,5,15,1,"UI 표시 전환"
-226,"MENU_LAYOUT",255,255,False,5,16,1,"HUD 배열구성 설정"
-227,"PAD_HUDFOCUS",255,255,False,5,21,1,"HUD 선택: 순서대로"
-228,"PAD_HUDFOCUS_PREV",255,255,False,5,22,1,"HUD 선택: 역순으로"
-229,"TARGET_CLICK_FILTER",255,255,False,5,23,1,"조준 필터"
-230,"MENU_SCALE",255,255,False,5,24,1,"창 크기 확대/축소"
-231,"HOTBAR_SET_1",255,253,False,5,33,1,"단축바 전환: 1번 세트"
-232,"HOTBAR_SET_2",255,253,False,5,34,1,"단축바 전환: 2번 세트"
-233,"HOTBAR_SET_3",255,253,False,5,35,1,"단축바 전환: 3번 세트"
-234,"HOTBAR_SET_4",255,253,False,5,36,1,"단축바 전환: 4번 세트"
-235,"HOTBAR_SET_5",255,253,False,5,37,1,"단축바 전환: 5번 세트"
-236,"HOTBAR_SET_6",255,253,False,5,38,1,"단축바 전환: 6번 세트"
-237,"HOTBAR_SET_7",255,253,False,5,39,1,"단축바 전환: 7번 세트"
-238,"HOTBAR_SET_8",255,253,False,5,40,1,"단축바 전환: 8번 세트"
-239,"HOTBAR_SET_9",255,253,False,5,41,1,"단축바 전환: 9번 세트"
-240,"HOTBAR_SET_10",255,253,False,5,42,1,"단축바 전환: 10번 세트"
-241,"MACRO_FORCED_OUTAGE",255,255,False,5,26,1,"실행 중인 매크로 정지"
-242,"HOTBAR_SET_EX",255,253,False,5,43,1,"단축바 전환: 보조 단축바"
-243,"MOUSE_CURSOR_SONAR",255,253,False,5,27,1,"커서 위치 알림"
-244,"MASTER_VOLUME_MUTE",255,255,False,5,28,1,"주 음량 음소거"
-245,"MENU_CONTENTS_GENERAL",255,255,False,5,30,1,"임무 범용 키"
-246,"HUDLAYOUT_SET1",255,255,False,5,17,1,"HUD 배열 변경: 1번 배열"
-247,"HUDLAYOUT_SET2",255,255,False,5,18,1,"HUD 배열 변경: 2번 배열"
-248,"HUDLAYOUT_SET3",255,255,False,5,19,1,"HUD 배열 변경: 3번 배열"
-249,"HUDLAYOUT_SET4",255,255,False,5,20,1,"HUD 배열 변경: 4번 배열"
-251,"MENU_STATUS",255,255,False,3,1,0,"캐릭터"
-252,"MENU_BAG",255,255,False,3,6,0,"소지품"
-253,"MENU_ARMORY",255,255,False,3,7,0,"장비함"
-254,"MENU_EVENT_BAG",255,255,False,3,9,0,"임무용 아이템 목록"
-255,"MENU_MAP",255,255,False,3,11,0,"지도"
-256,"MENU_ACTION",255,255,False,3,12,0,"기술 목록"
-257,"MENU_EMOTE",255,255,False,3,13,0,"감정 표현"
-258,"MENU_MOUNT_NOTEBOOK",255,255,False,3,14,0,"탈것 목록"
-259,"MENU_MINION_NOTEBOOK",255,255,False,3,15,0,"꼬마 친구 목록"
-260,"MENU_PVP_PROFILE",255,255,False,3,19,0,"PvP 프로필"
-261,"MENU_SOCIAL",255,255,False,3,21,0,"교류"
-262,"MENU_PARTY_MEMBER",255,255,False,3,22,0,"파티원"
-263,"MENU_FRIEND_LIST",255,255,False,3,24,0,"친구 목록"
-264,"MENU_BLACK_LIST",255,255,False,3,26,0,"차단 목록"
-265,"MENU_PC_SEARCH",255,255,False,3,30,0,"플레이어 검색"
-266,"MENU_LFG",255,255,False,3,32,0,"파티 찾기"
-267,"MENU_READY_CHECK",255,255,False,3,33,0,"준비 확인"
-268,"MENU_FREECOM",255,255,False,3,36,0,"자유부대"
-269,"MENU_HOUSING",255,255,False,3,37,0,"하우징"
-270,"MENU_LINKSHELL",255,255,False,3,39,0,"링크셸"
-271,"MENU_CONTENT",255,255,False,3,41,0,"임무 찾기"
-272,"MENU_CONTENT_INFO",255,255,False,3,46,0,"임무 정보"
-273,"MENU_JOURNAL",255,255,False,3,47,0,"퀘스트"
-274,"MENU_CRAFT",255,255,False,3,51,0,"제작수첩"
-275,"MENU_GATHER",255,255,False,3,52,0,"채집수첩"
-276,"MENU_MONSTER",255,255,False,3,53,0,"토벌수첩"
-277,"MENU_FISH",255,255,False,3,54,0,"낚시수첩"
-278,"MENU_FISH_GUIDE",255,255,False,3,55,0,"어류도감"
-279,"MENU_CONTENTS_NOTEBOOK",255,255,False,3,57,0,"공략수첩"
-280,"MENU_ADVENTURE_NOTEBOOK",255,255,False,3,56,0,"탐험수첩"
-281,"MENU_MARK",255,255,False,3,59,0,"대상 지시 표식"
-282,"MENU_FIELD_MARK",255,255,False,3,60,0,"지면 표식"
-283,"MENU_BUDDY",255,255,False,3,62,0,"버디"
-284,"MENU_RETURN",255,255,False,3,61,0,"데존"
-285,"MENU_TELEPO",255,255,False,3,63,0,"텔레포"
-286,"MENU_ACHIVE",255,255,False,3,64,0,"업적"
-287,"MENU_SYSTEM",255,253,False,3,65,0,"시스템"
-288,"MENU_HOWTO",255,255,False,3,69,0,"도움말 목록"
-289,"MENU_RECOMMEND_LIST",255,255,False,3,70,0,"임무 추천"
-290,"MENU_MACRO",255,255,False,3,71,0,"매크로"
-292,"MENU_CONFIG",255,255,False,3,75,0,"캐릭터 설정"
-293,"MENU_SYSCONFIG",255,255,False,3,76,0,"시스템 설정"
-294,"MENU_LOGCOLOR",255,255,False,3,77,0,"대화창 글자 색상"
-295,"MENU_PADCUSTOMIZE",255,255,False,3,78,0,"버튼 설정"
-296,"MENU_GOLD_SAUCER",255,255,False,3,20,0,"골드 소서"
-297,"MENU_AETHER_CURRENT",255,255,False,3,66,0,"풍맥의 샘 교감 정보"
-298,"MENU_CURRENCY",255,255,False,3,3,0,"화폐 목록"
-299,"MENU_GEAR_SET",255,255,False,3,2,0,"장비세트"
-301,"HOTBAR_1_1",255,253,False,6,1,4,"1번 단축바: 1번 칸"
-302,"HOTBAR_1_2",255,253,False,6,2,4,"1번 단축바: 2번 칸"
-303,"HOTBAR_1_3",255,253,False,6,3,4,"1번 단축바: 3번 칸"
-304,"HOTBAR_1_4",255,253,False,6,4,4,"1번 단축바: 4번 칸"
-305,"HOTBAR_1_5",255,253,False,6,5,4,"1번 단축바: 5번 칸"
-306,"HOTBAR_1_6",255,253,False,6,6,4,"1번 단축바: 6번 칸"
-307,"HOTBAR_1_7",255,253,False,6,7,4,"1번 단축바: 7번 칸"
-308,"HOTBAR_1_8",255,253,False,6,8,4,"1번 단축바: 8번 칸"
-309,"HOTBAR_1_9",255,253,False,6,9,4,"1번 단축바: 9번 칸"
-310,"HOTBAR_1_0",255,253,False,6,10,4,"1번 단축바: 10번 칸"
-311,"HOTBAR_1_A",255,253,False,6,11,4,"1번 단축바: 11번 칸"
-312,"HOTBAR_1_B",255,253,False,6,12,4,"1번 단축바: 12번 칸"
-313,"HOTBAR_2_1",255,253,False,6,13,4,"2번 단축바: 1번 칸"
-314,"HOTBAR_2_2",255,253,False,6,14,4,"2번 단축바: 2번 칸"
-315,"HOTBAR_2_3",255,253,False,6,15,4,"2번 단축바: 3번 칸"
-316,"HOTBAR_2_4",255,253,False,6,16,4,"2번 단축바: 4번 칸"
-317,"HOTBAR_2_5",255,253,False,6,17,4,"2번 단축바: 5번 칸"
-318,"HOTBAR_2_6",255,253,False,6,18,4,"2번 단축바: 6번 칸"
-319,"HOTBAR_2_7",255,253,False,6,19,4,"2번 단축바: 7번 칸"
-320,"HOTBAR_2_8",255,253,False,6,20,4,"2번 단축바: 8번 칸"
-321,"HOTBAR_2_9",255,253,False,6,21,4,"2번 단축바: 9번 칸"
-322,"HOTBAR_2_0",255,253,False,6,22,4,"2번 단축바: 10번 칸"
-323,"HOTBAR_2_A",255,253,False,6,23,4,"2번 단축바: 11번 칸"
-324,"HOTBAR_2_B",255,253,False,6,24,4,"2번 단축바: 12번 칸"
-325,"HOTBAR_3_1",255,253,False,6,25,4,"3번 단축바: 1번 칸"
-326,"HOTBAR_3_2",255,253,False,6,26,4,"3번 단축바: 2번 칸"
-327,"HOTBAR_3_3",255,253,False,6,27,4,"3번 단축바: 3번 칸"
-328,"HOTBAR_3_4",255,253,False,6,28,4,"3번 단축바: 4번 칸"
-329,"HOTBAR_3_5",255,253,False,6,29,4,"3번 단축바: 5번 칸"
-330,"HOTBAR_3_6",255,253,False,6,30,4,"3번 단축바: 6번 칸"
-331,"HOTBAR_3_7",255,253,False,6,31,4,"3번 단축바: 7번 칸"
-332,"HOTBAR_3_8",255,253,False,6,32,4,"3번 단축바: 8번 칸"
-333,"HOTBAR_3_9",255,253,False,6,33,4,"3번 단축바: 9번 칸"
-334,"HOTBAR_3_0",255,253,False,6,34,4,"3번 단축바: 10번 칸"
-335,"HOTBAR_3_A",255,253,False,6,35,4,"3번 단축바: 11번 칸"
-336,"HOTBAR_3_B",255,253,False,6,36,4,"3번 단축바: 12번 칸"
-337,"HOTBAR_4_1",255,253,False,6,37,4,"4번 단축바: 1번 칸"
-338,"HOTBAR_4_2",255,253,False,6,38,4,"4번 단축바: 2번 칸"
-339,"HOTBAR_4_3",255,253,False,6,39,4,"4번 단축바: 3번 칸"
-340,"HOTBAR_4_4",255,253,False,6,40,4,"4번 단축바: 4번 칸"
-341,"HOTBAR_4_5",255,253,False,6,41,4,"4번 단축바: 5번 칸"
-342,"HOTBAR_4_6",255,253,False,6,42,4,"4번 단축바: 6번 칸"
-343,"HOTBAR_4_7",255,253,False,6,43,4,"4번 단축바: 7번 칸"
-344,"HOTBAR_4_8",255,253,False,6,44,4,"4번 단축바: 8번 칸"
-345,"HOTBAR_4_9",255,253,False,6,45,4,"4번 단축바: 9번 칸"
-346,"HOTBAR_4_0",255,253,False,6,46,4,"4번 단축바: 10번 칸"
-347,"HOTBAR_4_A",255,253,False,6,47,4,"4번 단축바: 11번 칸"
-348,"HOTBAR_4_B",255,253,False,6,48,4,"4번 단축바: 12번 칸"
-349,"HOTBAR_5_1",255,253,False,6,49,4,"5번 단축바: 1번 칸"
-350,"HOTBAR_5_2",255,253,False,6,50,4,"5번 단축바: 2번 칸"
-351,"HOTBAR_5_3",255,253,False,6,51,4,"5번 단축바: 3번 칸"
-352,"HOTBAR_5_4",255,253,False,6,52,4,"5번 단축바: 4번 칸"
-353,"HOTBAR_5_5",255,253,False,6,53,4,"5번 단축바: 5번 칸"
-354,"HOTBAR_5_6",255,253,False,6,54,4,"5번 단축바: 6번 칸"
-355,"HOTBAR_5_7",255,253,False,6,55,4,"5번 단축바: 7번 칸"
-356,"HOTBAR_5_8",255,253,False,6,56,4,"5번 단축바: 8번 칸"
-357,"HOTBAR_5_9",255,253,False,6,57,4,"5번 단축바: 9번 칸"
-358,"HOTBAR_5_0",255,253,False,6,58,4,"5번 단축바: 10번 칸"
-359,"HOTBAR_5_A",255,253,False,6,59,4,"5번 단축바: 11번 칸"
-360,"HOTBAR_5_B",255,253,False,6,60,4,"5번 단축바: 12번 칸"
-361,"HOTBAR_6_1",255,253,False,6,61,4,"6번 단축바: 1번 칸"
-362,"HOTBAR_6_2",255,253,False,6,62,4,"6번 단축바: 2번 칸"
-363,"HOTBAR_6_3",255,253,False,6,63,4,"6번 단축바: 3번 칸"
-364,"HOTBAR_6_4",255,253,False,6,64,4,"6번 단축바: 4번 칸"
-365,"HOTBAR_6_5",255,253,False,6,65,4,"6번 단축바: 5번 칸"
-366,"HOTBAR_6_6",255,253,False,6,66,4,"6번 단축바: 6번 칸"
-367,"HOTBAR_6_7",255,253,False,6,67,4,"6번 단축바: 7번 칸"
-368,"HOTBAR_6_8",255,253,False,6,68,4,"6번 단축바: 8번 칸"
-369,"HOTBAR_6_9",255,253,False,6,69,4,"6번 단축바: 9번 칸"
-370,"HOTBAR_6_0",255,253,False,6,70,4,"6번 단축바: 10번 칸"
-371,"HOTBAR_6_A",255,253,False,6,71,4,"6번 단축바: 11번 칸"
-372,"HOTBAR_6_B",255,253,False,6,72,4,"6번 단축바: 12번 칸"
-373,"HOTBAR_7_1",255,253,False,6,73,4,"7번 단축바: 1번 칸"
-374,"HOTBAR_7_2",255,253,False,6,74,4,"7번 단축바: 2번 칸"
-375,"HOTBAR_7_3",255,253,False,6,75,4,"7번 단축바: 3번 칸"
-376,"HOTBAR_7_4",255,253,False,6,76,4,"7번 단축바: 4번 칸"
-377,"HOTBAR_7_5",255,253,False,6,77,4,"7번 단축바: 5번 칸"
-378,"HOTBAR_7_6",255,253,False,6,78,4,"7번 단축바: 6번 칸"
-379,"HOTBAR_7_7",255,253,False,6,79,4,"7번 단축바: 7번 칸"
-380,"HOTBAR_7_8",255,253,False,6,80,4,"7번 단축바: 8번 칸"
-381,"HOTBAR_7_9",255,253,False,6,81,4,"7번 단축바: 9번 칸"
-382,"HOTBAR_7_0",255,253,False,6,82,4,"7번 단축바: 10번 칸"
-383,"HOTBAR_7_A",255,253,False,6,83,4,"7번 단축바: 11번 칸"
-384,"HOTBAR_7_B",255,253,False,6,84,4,"7번 단축바: 12번 칸"
-385,"HOTBAR_8_1",255,253,False,6,85,4,"8번 단축바: 1번 칸"
-386,"HOTBAR_8_2",255,253,False,6,86,4,"8번 단축바: 2번 칸"
-387,"HOTBAR_8_3",255,253,False,6,87,4,"8번 단축바: 3번 칸"
-388,"HOTBAR_8_4",255,253,False,6,88,4,"8번 단축바: 4번 칸"
-389,"HOTBAR_8_5",255,253,False,6,89,4,"8번 단축바: 5번 칸"
-390,"HOTBAR_8_6",255,253,False,6,90,4,"8번 단축바: 6번 칸"
-391,"HOTBAR_8_7",255,253,False,6,91,4,"8번 단축바: 7번 칸"
-392,"HOTBAR_8_8",255,253,False,6,92,4,"8번 단축바: 8번 칸"
-393,"HOTBAR_8_9",255,253,False,6,93,4,"8번 단축바: 9번 칸"
-394,"HOTBAR_8_0",255,253,False,6,94,4,"8번 단축바: 10번 칸"
-395,"HOTBAR_8_A",255,253,False,6,95,4,"8번 단축바: 11번 칸"
-396,"HOTBAR_8_B",255,253,False,6,96,4,"8번 단축바: 12번 칸"
-397,"HOTBAR_9_1",255,253,False,6,97,4,"9번 단축바: 1번 칸"
-398,"HOTBAR_9_2",255,253,False,6,98,4,"9번 단축바: 2번 칸"
-399,"HOTBAR_9_3",255,253,False,6,99,4,"9번 단축바: 3번 칸"
-400,"HOTBAR_9_4",255,253,False,6,100,4,"9번 단축바: 4번 칸"
-401,"HOTBAR_9_5",255,253,False,6,101,4,"9번 단축바: 5번 칸"
-402,"HOTBAR_9_6",255,253,False,6,102,4,"9번 단축바: 6번 칸"
-403,"HOTBAR_9_7",255,253,False,6,103,4,"9번 단축바: 7번 칸"
-404,"HOTBAR_9_8",255,253,False,6,104,4,"9번 단축바: 8번 칸"
-405,"HOTBAR_9_9",255,253,False,6,105,4,"9번 단축바: 9번 칸"
-406,"HOTBAR_9_0",255,253,False,6,106,4,"9번 단축바: 10번 칸"
-407,"HOTBAR_9_A",255,253,False,6,107,4,"9번 단축바: 11번 칸"
-408,"HOTBAR_9_B",255,253,False,6,108,4,"9번 단축바: 12번 칸"
-409,"HOTBAR_10_1",255,253,False,6,109,4,"10번 단축바: 1번 칸"
-410,"HOTBAR_10_2",255,253,False,6,110,4,"10번 단축바: 2번 칸"
-411,"HOTBAR_10_3",255,253,False,6,111,4,"10번 단축바: 3번 칸"
-412,"HOTBAR_10_4",255,253,False,6,112,4,"10번 단축바: 4번 칸"
-413,"HOTBAR_10_5",255,253,False,6,113,4,"10번 단축바: 5번 칸"
-414,"HOTBAR_10_6",255,253,False,6,114,4,"10번 단축바: 6번 칸"
-415,"HOTBAR_10_7",255,253,False,6,115,4,"10번 단축바: 7번 칸"
-416,"HOTBAR_10_8",255,253,False,6,116,4,"10번 단축바: 8번 칸"
-417,"HOTBAR_10_9",255,253,False,6,117,4,"10번 단축바: 9번 칸"
-418,"HOTBAR_10_0",255,253,False,6,118,4,"10번 단축바: 10번 칸"
-419,"HOTBAR_10_A",255,253,False,6,119,4,"10번 단축바: 11번 칸"
-420,"HOTBAR_10_B",255,253,False,6,120,4,"10번 단축바: 12번 칸"
-421,"HOTBAR_EX_1",255,253,False,6,121,4,"보조 단축바: 1번 칸"
-422,"HOTBAR_EX_2",255,253,False,6,122,4,"보조 단축바: 2번 칸"
-423,"HOTBAR_EX_3",255,253,False,6,123,4,"보조 단축바: 3번 칸"
-424,"HOTBAR_EX_4",255,253,False,6,124,4,"보조 단축바: 4번 칸"
-425,"HOTBAR_EX_5",255,253,False,6,125,4,"보조 단축바: 5번 칸"
-426,"HOTBAR_EX_6",255,253,False,6,126,4,"보조 단축바: 6번 칸"
-427,"HOTBAR_EX_7",255,253,False,6,127,4,"보조 단축바: 7번 칸"
-428,"HOTBAR_EX_8",255,253,False,6,128,4,"보조 단축바: 8번 칸"
-429,"HOTBAR_EX_9",255,253,False,6,129,4,"보조 단축바: 9번 칸"
-430,"HOTBAR_EX_0",255,253,False,6,130,4,"보조 단축바: 10번 칸"
-431,"HOTBAR_EX_A",255,253,False,6,131,4,"보조 단축바: 11번 칸"
-432,"HOTBAR_EX_B",255,253,False,6,132,4,"보조 단축바: 12번 칸"
-433,"HOTBAR_CONTENTS_ACT_L",255,253,False,6,134,4,"임무용 기술 2"
-434,"HOTBAR_CONTENTS_ACT_R",255,253,False,6,133,4,"임무용 기술 1"
-451,"VIRTUAL_PAD_UP",255,255,False,7,1,0,"<Gui(1)/> <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If> 위"
-452,"VIRTUAL_PAD_DOWN",255,255,False,7,2,0,"<Gui(2)/> <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If> 아래"
-453,"VIRTUAL_PAD_LEFT",255,255,False,7,3,0,"<Gui(3)/> <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If> 왼쪽"
-454,"VIRTUAL_PAD_RIGHT",255,255,False,7,4,0,"<Gui(4)/> <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If> 오른쪽"
-455,"VIRTUAL_PAD_TRIANGLE",255,255,False,7,5,0,"<Gui(11)/> <If(Equal(PlayerParameter(75),0))>Y 버튼<Else/><If(Equal(PlayerParameter(78),99))>△ 버튼<Else/>Y 버튼</If></If>"
-456,"VIRTUAL_PAD_CIRCLE",255,255,False,7,6,0,"<Gui(8)/> <If(Equal(PlayerParameter(75),0))>B 버튼<Else/><If(Equal(PlayerParameter(78),99))>◯ 버튼<Else/>B 버튼</If></If>"
-457,"VIRTUAL_PAD_CROSS",255,255,False,7,7,0,"<Gui(9)/> <If(Equal(PlayerParameter(75),0))>A 버튼<Else/><If(Equal(PlayerParameter(78),99))>× 버튼<Else/>A 버튼</If></If>"
-458,"VIRTUAL_PAD_SQUARE",255,255,False,7,8,0,"<Gui(10)/> <If(Equal(PlayerParameter(75),0))>X 버튼<Else/><If(Equal(PlayerParameter(78),99))>□ 버튼<Else/>X 버튼</If></If>"
-459,"VIRTUAL_PAD_START",255,255,False,7,9,0,"<Gui(18)/> <If(Equal(PlayerParameter(75),0))>START 버튼<Else/><If(Equal(PlayerParameter(78),99))>OPTIONS 버튼<Else/>메뉴 버튼</If></If>"
-460,"VIRTUAL_PAD_SELECT",255,255,False,7,10,0,"<Gui(19)/> <If(Equal(PlayerParameter(75),0))>BACK 버튼<Else/><If(Equal(PlayerParameter(78),99))>터치패드 버튼<Else/>뷰 버튼</If></If>"
-461,"VIRTUAL_PAD_L1",255,255,False,7,11,0,"<Gui(12)/> <If(Equal(PlayerParameter(75),0))>LB 버튼<Else/><If(Equal(PlayerParameter(78),99))>L1 버튼<Else/>L 버튼</If></If>"
-462,"VIRTUAL_PAD_L2",255,255,False,7,12,0,"<Gui(14)/> <If(Equal(PlayerParameter(75),0))>왼쪽 트리거<Else/><If(Equal(PlayerParameter(78),99))>L2 버튼<Else/>왼쪽 트리거</If></If>"
-463,"VIRTUAL_PAD_R1",255,255,False,7,13,0,"<Gui(13)/> <If(Equal(PlayerParameter(75),0))>RB 버튼<Else/><If(Equal(PlayerParameter(78),99))>R1 버튼<Else/>R 버튼</If></If>"
-464,"VIRTUAL_PAD_R2",255,255,False,7,14,0,"<Gui(15)/> <If(Equal(PlayerParameter(75),0))>오른쪽 트리거<Else/><If(Equal(PlayerParameter(78),99))>R2 버튼<Else/>오른쪽 트리거</If></If>"
-465,"VIRTUAL_PAD_L3",255,255,False,7,15,0,"<Gui(16)/> <If(Equal(PlayerParameter(75),0))>왼쪽 스틱 버튼<Else/><If(Equal(PlayerParameter(78),99))>L3 버튼<Else/>왼쪽 스틱 클릭</If></If>"
-466,"VIRTUAL_PAD_R3",255,255,False,7,16,0,"<Gui(17)/> <If(Equal(PlayerParameter(75),0))>오른쪽 스틱 버튼<Else/><If(Equal(PlayerParameter(78),99))>R3 버튼<Else/>오른쪽 스틱 클릭</If></If>"
-467,"VIRTUAL_PAD_LSTICK_UP",255,255,False,7,17,0,"<Gui(20)/> 왼쪽 스틱 위"
-468,"VIRTUAL_PAD_LSTICK_DOWN",255,255,False,7,18,0,"<Gui(20)/> 왼쪽 스틱 아래"
-469,"VIRTUAL_PAD_LSTICK_LEFT",255,255,False,7,19,0,"<Gui(20)/> 왼쪽 스틱 왼쪽"
-470,"VIRTUAL_PAD_LSTICK_RIGHT",255,255,False,7,20,0,"<Gui(20)/> 왼쪽 스틱 오른쪽"
-471,"VIRTUAL_PAD_RSTICK_UP",255,255,False,7,21,0,"<Gui(23)/> 오른쪽 스틱 위"
-472,"VIRTUAL_PAD_RSTICK_DOWN",255,255,False,7,22,0,"<Gui(23)/> 오른쪽 스틱 아래"
-473,"VIRTUAL_PAD_RSTICK_LEFT",255,255,False,7,23,0,"<Gui(23)/> 오른쪽 스틱 왼쪽"
-474,"VIRTUAL_PAD_RSTICK_RIGHT",255,255,False,7,24,0,"<Gui(23)/> 오른쪽 스틱 오른쪽"
-490,"MENU_PLAY_GUIDE",255,255,False,3,74,0,"공식 가이드"
-491,"MENU_SUBCOMMAND_CUSTOMIZE",255,255,False,3,79,0,"세부 메뉴 사용자 설정"
-492,"MENU_BEGINNER_CHANNEL_LIST",255,255,False,3,29,0,"초보자 채널 참가자 목록"
-493,"MENU_BEGINNERS_MANSION",255,255,False,3,50,0,"초보자의 집"
-494,"MENU_ORCHESTRION",255,255,False,3,58,0,"오케스트리온 악보집"
-495,"MENU_RAID_FINDER",255,255,False,3,42,0,"레이드 찾기"
-496,"MENU_COUNTDOWN",255,255,False,3,35,0,"전투 시작 초읽기"
-497,"MENU_CONTACTLIST",255,255,False,3,25,0,"최근 파티"
-498,"MENU_GROUND_MOUNT_SPEED",255,255,False,3,67,0,"탈것 속도"
-499,"MENU_BUDDY_BAG",255,255,False,3,10,0,"초코보 가방"
-500,"MENU_CONTENTS_REPLAY",255,255,False,3,48,0,"임무 다시보기"
-501,"MENU_REPLAY_READY_CHECK",255,255,False,3,34,0,"다시보기 준비 확인"
-502,"MENU_PVPTEAM_UI",255,255,False,3,38,0,"PvP팀"
-503,"MENU_CWLINKSHELL",255,255,False,3,40,0,"서버 초월 링크셸"
-504,"MENU_ALERM",255,255,False,3,80,0,"알람"
-505,"MENU_AOZ",255,255,False,3,18,0,"청마도서"
-506,"MENU_FAITH",255,255,False,3,45,0,"트러스트"
-507,"MENU_FATE_PROGRESS",255,255,False,3,68,0,"돌발 임무 달성도"
-508,"MENU_CIRCLE_LIST",255,255,False,3,23,0,"동아리"
-509,"MENU_CIRCLE_RECRUIT",255,255,False,3,31,0,"동아리 찾기"
-510,"MENU_MCGUFFIN",255,255,False,3,8,0,"중요 아이템"
-511,"MENU_QUEST_REPLAY",255,255,False,3,49,0,"임무 다시하기"
-512,"MENU_ORNAMENT_NOTEBOOK",255,255,False,3,17,0,"패션 소품"
-513,"WEBLINK",255,255,False,3,73,0,"공식 홈페이지"
-514,"MENU_BANNER_LIST",255,255,False,3,5,0,"초상화 목록"
-515,"MENU_SDS",255,255,False,3,44,0,"임무 지원"
-516,"MENU_CHARA_CARD",255,255,False,3,4,0,"모험가 카드"
-517,"MENU_VVD",255,255,False,3,43,0,"특수 던전 탐색"
-518,"MENU_FACE_ACCESSORY",255,255,False,3,16,0,"얼굴 소품"
-519,"MENU_MUTE_LIST",255,255,False,3,27,0,"대화 차단 목록"
-520,"TERM_FILTER",255,255,False,3,28,0,"단어 필터"
-550,"CMD_BEGINNER",255,255,False,4,32,5,"초보자 대화로 일시 전환"
-551,"CMD_BEGINNER_ALWAYS",255,255,False,4,132,5,"초보자 대화로 전환"
-552,"PVPTEAM_CHAT",255,255,False,4,11,5,"PvP팀 대화로 일시 전환"
-553,"PVPTEAM_CHAT_ALWAYS",255,255,False,4,111,5,"PvP팀 대화로 전환"
-554,"CMD_CWLINKSHELL",255,255,False,4,12,5,"서버 초월 링크셸 대화로 일시 전환: 순서대로"
-555,"CMD_CWLINKSHELL_ALWAYS",255,255,False,4,112,5,"서버 초월 링크셸 대화로 전환: 순서대로"
-556,"CMD_CWLINKSHELL_REV",255,255,False,4,13,5,"서버 초월 링크셸 대화로 일시 전환: 역순으로"
-557,"CMD_CWLINKSHELL_1",255,255,False,4,14,5,"서버 초월 링크셸 대화 [1]번으로 일시 전환"
-558,"CMD_CWLINKSHELL_2",255,255,False,4,15,5,"서버 초월 링크셸 대화 [2]번으로 일시 전환"
-559,"CMD_CWLINKSHELL_3",255,255,False,4,16,5,"서버 초월 링크셸 대화 [3]번으로 일시 전환"
-560,"CMD_CWLINKSHELL_4",255,255,False,4,17,5,"서버 초월 링크셸 대화 [4]번으로 일시 전환"
-561,"CMD_CWLINKSHELL_5",255,255,False,4,18,5,"서버 초월 링크셸 대화 [5]번으로 일시 전환"
-562,"CMD_CWLINKSHELL_6",255,255,False,4,19,5,"서버 초월 링크셸 대화 [6]번으로 일시 전환"
-563,"CMD_CWLINKSHELL_7",255,255,False,4,20,5,"서버 초월 링크셸 대화 [7]번으로 일시 전환"
-564,"CMD_CWLINKSHELL_8",255,255,False,4,21,5,"서버 초월 링크셸 대화 [8]번으로 일시 전환"
-565,"CMD_CWLINKSHELL_ALWAYS_REV",255,255,False,4,113,5,"서버 초월 링크셸 대화로 전환: 역순으로"
-566,"CMD_CWLINKSHELL_1_ALWAYS",255,255,False,4,114,5,"서버 초월 링크셸 대화 [1]번으로 전환"
-567,"CMD_CWLINKSHELL_2_ALWAYS",255,255,False,4,115,5,"서버 초월 링크셸 대화 [2]번으로 전환"
-568,"CMD_CWLINKSHELL_3_ALWAYS",255,255,False,4,116,5,"서버 초월 링크셸 대화 [3]번으로 전환"
-569,"CMD_CWLINKSHELL_4_ALWAYS",255,255,False,4,117,5,"서버 초월 링크셸 대화 [4]번으로 전환"
-570,"CMD_CWLINKSHELL_5_ALWAYS",255,255,False,4,118,5,"서버 초월 링크셸 대화 [5]번으로 전환"
-571,"CMD_CWLINKSHELL_6_ALWAYS",255,255,False,4,119,5,"서버 초월 링크셸 대화 [6]번으로 전환"
-572,"CMD_CWLINKSHELL_7_ALWAYS",255,255,False,4,120,5,"서버 초월 링크셸 대화 [7]번으로 전환"
-573,"CMD_CWLINKSHELL_8_ALWAYS",255,255,False,4,121,5,"서버 초월 링크셸 대화 [8]번으로 전환"
-591,"CHATLOG_VIEWERMODE",255,255,False,5,25,1,"로그창 확대"
-592,"MENU_SCENARIO_TREE",255,255,False,5,31,1,"퀘스트 가이드: 주요 퀘스트 표시"
-593,"MENU_SCENARIO_TREE_SUB",255,255,False,5,32,1,"퀘스트 가이드: 부가 퀘스트 표시"
-594,"ACCESSIBILITY_COLORBLIND",255,225,False,5,29,1,"색각 보정 활성화 / 비활성화"
+#,Text,Label,Unknown0,Param,Platform,Category,BacklightColor,Required
+0,,,0,255,255,0,0,False
+11,마우스 양버튼 클릭 이동,MOVE_AND_STEER,1,255,255,1,0,False
+12,전진 / 앞으로 이동,MOVE_FORE,2,255,255,1,3,False
+13,후퇴 / 뒤로 이동,MOVE_BACK,3,255,255,1,3,False
+14,왼쪽으로 회전 / 왼쪽으로 이동,MOVE_LEFT,4,255,255,1,3,False
+15,오른쪽으로 회전 / 오른쪽으로 이동,MOVE_RIGHT,5,255,255,1,3,False
+16,왼쪽으로 횡이동,MOVE_STRIFE_L,6,255,255,1,3,False
+17,오른쪽으로 횡이동,MOVE_STRIFE_R,7,255,255,1,3,False
+18,점프,JUMP,8,255,255,1,3,False
+19,걷기 전환,WALK,9,255,255,1,3,False
+20,자동 달리기 전환,AUTORUN_KEY,10,255,255,1,3,False
+21,무기 넣기/꺼내기,SWARD,11,255,255,1,3,False
+22,대상 고정,CAMERA_FOCUS,12,255,255,1,6,False
+23,비행 / 잠수 조작: 하강,MOVE_DESCENT,13,255,255,1,3,False
+24,비행 / 잠수 조작: 고도 유지,MOVE_RETENTION,14,255,255,1,3,False
+25,비행 / 잠수 조작: 경사각 위로,MOVE_ANGLE_RISING,15,255,255,1,3,False
+26,비행 / 잠수 조작: 경사각 아래로,MOVE_ANGLE_DESCENT,16,255,255,1,3,False
+51,위로 시선 이동,CAMERA_UP,17,255,255,1,6,False
+52,아래로 시선 이동,CAMERA_DOWN,18,255,255,1,6,False
+53,왼쪽으로 시선 이동,CAMERA_LEFT,19,255,255,1,6,False
+54,오른쪽으로 시선 이동,CAMERA_RIGHT,20,255,255,1,6,False
+55,1인칭/3인칭 시점 전환,CAMERA_MODE,21,255,255,1,6,False
+56,후방 카메라 표시,CAMERA_BACKWARD,22,255,255,1,6,False
+57,카메라 확대 / 페이지 전환: 역순으로,CAMERA_ZOOMIN,23,255,255,1,6,False
+58,카메라 축소 / 페이지 전환: 순서대로,CAMERA_ZOOMOUT,24,255,255,1,6,False
+59,카메라 위치 초기화,CAMERA_LOAD,25,255,255,1,6,False
+60,현재 카메라 위치 저장,CAMERA_SAVE,26,255,255,1,6,False
+61,카메라 위치 저장 초기화,CAMERA_RESET,27,255,255,1,6,False
+62,카메라 주시 각도 상승,CAM_TILT_UP,28,255,255,1,6,False
+63,카메라 주시 각도 하강,CAM_TILT_DOWN,29,255,255,1,6,False
+64,캐릭터 시선을 카메라로 고정,CAMERA_LOOKING,30,255,255,1,6,False
+65,단체 자세,GROUP_POSE,32,255,255,1,1,False
+66,경관 카메라,IDLING_CAMERA,31,255,255,1,1,False
+103,가장 가까운 적부터 지정: 순서대로,TARGET_NEXT,1,255,255,2,2,False
+104,가장 가까운 적부터 지정: 역순으로,TARGET_PREV,2,255,255,2,2,False
+105,1번째 파티원 지정,TARGET_P1,3,255,255,2,2,False
+106,2번째 파티원 지정,TARGET_P2,4,255,255,2,2,False
+107,3번째 파티원 지정,TARGET_P3,5,255,255,2,2,False
+108,4번째 파티원 지정,TARGET_P4,6,255,255,2,2,False
+109,5번째 파티원 지정,TARGET_P5,7,255,255,2,2,False
+110,6번째 파티원 지정,TARGET_P6,8,255,255,2,2,False
+111,7번째 파티원 지정,TARGET_P7,9,255,255,2,2,False
+112,8번째 파티원 지정,TARGET_P8,10,255,255,2,2,False
+113,내 소환수 지정,TARGET_PET,11,255,255,2,2,False
+114,대상이 지정한 대상 지정하기 (조준 따라가기),TARGET_TTOT,13,255,255,2,2,False
+115,마지막으로 지정한 대상 다시 지정,TARGET_LASTTARGET,14,255,255,2,2,False
+116,마지막으로 지정한 적 다시 지정,TARGET_LASTENEMY,15,255,255,2,2,False
+117,나에게 적대 행동을 한 적 지정,TARGET_LASTATTACKER,16,255,255,2,2,False
+118,가장 가까운 적 지정,TARGET_CLOSEST_ENEMY,17,255,255,2,2,False
+119,가장 가까운 플레이어 지정,TARGET_CLOSEST_PC,18,255,255,2,2,False
+120,가장 가까운 NPC/사물 지정,TARGET_CLOSEST_NPC,19,255,255,2,2,False
+121,주시 대상으로 지정,TARGET_FOCUS,20,255,255,2,2,False
+122,주시 대상을 현재 대상으로 지정,TARGET_SELECT,21,255,255,2,2,False
+123,지정한 대상 바라보기 (정면으로 보기),FACE,22,255,255,2,2,False
+124,대상 필터 사용자 설정: +,CIRCLE_ALL,23,255,255,2,2,False
+125,대상 필터 사용자 설정: +,CIRCLE_ENEMY,24,255,255,2,2,False
+126,대상 필터 사용자 설정: +,CIRCLE_PARTY,25,255,255,2,2,False
+127,대상 필터 사용자 설정: +,CIRCLE_PC,26,255,255,2,2,False
+136,적대 목록에서 선택: 위로,TARGET_ENEMY_LIST_UP_KEY,27,255,255,2,2,False
+137,적대 목록에서 선택: 아래로,TARGET_ENEMY_LIST_DOWN_KEY,28,255,255,2,2,False
+138,연합 파티 목록에서 선택: 순서대로,TARGET_ALLIANCE_NEXT_KEY,29,255,255,2,2,False
+139,연합 파티 목록에서 선택: 역순으로,TARGET_ALLIANCE_PREV_KEY,30,255,255,2,2,False
+140,연합 파티 목록 1 선택: 순서대로,TARGET_ALLIANCE1_NEXT,31,255,255,2,2,False
+141,연합 파티 목록 1 선택: 역순으로,TARGET_ALLIANCE1_PREV,32,255,255,2,2,False
+142,연합 파티 목록 2 선택: 순서대로,TARGET_ALLIANCE2_NEXT,33,255,255,2,2,False
+143,연합 파티 목록 2 선택: 역순으로,TARGET_ALLIANCE2_PREV,34,255,255,2,2,False
+144,연합 파티원 1-1 지정,TARGET_ALLIANCE1_1,35,255,255,2,2,False
+145,연합 파티원 1-2 지정,TARGET_ALLIANCE1_2,36,255,255,2,2,False
+146,연합 파티원 1-3 지정,TARGET_ALLIANCE1_3,37,255,255,2,2,False
+147,연합 파티원 1-4 지정,TARGET_ALLIANCE1_4,38,255,255,2,2,False
+148,연합 파티원 1-5 지정,TARGET_ALLIANCE1_5,39,255,255,2,2,False
+149,연합 파티원 1-6 지정,TARGET_ALLIANCE1_6,40,255,255,2,2,False
+150,연합 파티원 1-7 지정,TARGET_ALLIANCE1_7,41,255,255,2,2,False
+151,연합 파티원 1-8 지정,TARGET_ALLIANCE1_8,42,255,255,2,2,False
+152,연합 파티원 2-1 지정,TARGET_ALLIANCE2_1,43,255,255,2,2,False
+153,연합 파티원 2-2 지정,TARGET_ALLIANCE2_2,44,255,255,2,2,False
+154,연합 파티원 2-3 지정,TARGET_ALLIANCE2_3,45,255,255,2,2,False
+155,연합 파티원 2-4 지정,TARGET_ALLIANCE2_4,46,255,255,2,2,False
+156,연합 파티원 2-5 지정,TARGET_ALLIANCE2_5,47,255,255,2,2,False
+157,연합 파티원 2-6 지정,TARGET_ALLIANCE2_6,48,255,255,2,2,False
+158,연합 파티원 2-7 지정,TARGET_ALLIANCE2_7,49,255,255,2,2,False
+159,연합 파티원 2-8 지정,TARGET_ALLIANCE2_8,50,255,255,2,2,False
+160,내 버디 지정,BUDDY_TARGET,12,255,255,2,2,False
+161,크리스탈라인 컨플릭트: 적군 파티원 1 지정,TARGET_PVP_OPP_P1,51,255,255,2,2,False
+162,크리스탈라인 컨플릭트: 적군 파티원 2 지정,TARGET_PVP_OPP_P2,52,255,255,2,2,False
+163,크리스탈라인 컨플릭트: 적군 파티원 3 지정,TARGET_PVP_OPP_P3,53,255,255,2,2,False
+164,크리스탈라인 컨플릭트: 적군 파티원 4 지정,TARGET_PVP_OPP_P4,54,255,255,2,2,False
+165,크리스탈라인 컨플릭트: 적군 파티원 5 지정,TARGET_PVP_OPP_P5,55,255,255,2,2,False
+171,대화 입력 시작,CMD_CHAT,1,255,255,4,5,False
+172,명령어 입력 시작,CMD_COMMAND,2,255,255,4,5,False
+173,귓속말 일시 응답: 순서대로,CMD_REPLY,3,255,255,4,5,False
+174,귓속말 일시 응답: 역순으로,CMD_REPLY_REV,4,255,255,4,5,False
+175,말하기 대화로 일시 전환,CMD_SAY,5,255,255,4,5,False
+176,떠들기 대화로 일시 전환,CMD_YELL,6,255,255,4,5,False
+177,외치기 대화로 일시 전환,CMD_SHOUT,7,255,255,4,5,False
+178,파티 대화로 일시 전환,CMD_PARTY,8,255,255,4,5,False
+179,연합 파티 대화로 일시 전환,CMD_ALLIANCE,9,255,255,4,5,False
+180,자유부대 대화로 일시 전환,CMD_FREECOM,10,255,255,4,5,False
+181,링크셸 대화로 일시 전환: 순서대로,CMD_LINKSHELL,22,255,255,4,5,False
+182,링크셸 대화로 일시 전환: 역순으로,CMD_LINKSHELL_REV,23,255,255,4,5,False
+183,링크셸 대화 [1]번으로 일시 전환,CMD_LINKSHELL_1,24,255,255,4,5,False
+184,링크셸 대화 [2]번으로 일시 전환,CMD_LINKSHELL_2,25,255,255,4,5,False
+185,링크셸 대화 [3]번으로 일시 전환,CMD_LINKSHELL_3,26,255,255,4,5,False
+186,링크셸 대화 [4]번으로 일시 전환,CMD_LINKSHELL_4,27,255,255,4,5,False
+187,링크셸 대화 [5]번으로 일시 전환,CMD_LINKSHELL_5,28,255,255,4,5,False
+188,링크셸 대화 [6]번으로 일시 전환,CMD_LINKSHELL_6,29,255,255,4,5,False
+189,링크셸 대화 [7]번으로 일시 전환,CMD_LINKSHELL_7,30,255,255,4,5,False
+190,링크셸 대화 [8]번으로 일시 전환,CMD_LINKSHELL_8,31,255,255,4,5,False
+191,귓속말 응답: 순서대로,CMD_REPLY_ALWAYS,103,255,255,4,5,False
+192,귓속말 응답: 역순으로,CMD_REPLY_REV_ALWAYS,104,255,255,4,5,False
+193,말하기 대화로 전환,CMD_SAY_ALWAYS,105,255,255,4,5,False
+194,떠들기 대화로 전환,CMD_YELL_ALWAYS,106,255,255,4,5,False
+196,파티 대화로 전환,CMD_PARTY_ALWAYS,108,255,255,4,5,False
+197,연합 파티 대화로 전환,CMD_ALLIANCE_ALWAYS,109,255,255,4,5,False
+198,자유부대 대화로 전환,CMD_FREECOM_ALWAYS,110,255,255,4,5,False
+199,링크셸 대화로 전환: 순서대로,CMD_LINKSHELL_ALWAYS,122,255,255,4,5,False
+200,링크셸 대화로 전환: 역순으로,CMD_LINKSHELL_REV_ALWAYS,123,255,255,4,5,False
+201,링크셸 대화 [1]번으로 전환,CMD_LINKSHELL_1_ALWAYS,124,255,255,4,5,False
+202,링크셸 대화 [2]번으로 전환,CMD_LINKSHELL_2_ALWAYS,125,255,255,4,5,False
+203,링크셸 대화 [3]번으로 전환,CMD_LINKSHELL_3_ALWAYS,126,255,255,4,5,False
+204,링크셸 대화 [4]번으로 전환,CMD_LINKSHELL_4_ALWAYS,127,255,255,4,5,False
+205,링크셸 대화 [5]번으로 전환,CMD_LINKSHELL_5_ALWAYS,128,255,255,4,5,False
+206,링크셸 대화 [6]번으로 전환,CMD_LINKSHELL_6_ALWAYS,129,255,255,4,5,False
+207,링크셸 대화 [7]번으로 전환,CMD_LINKSHELL_7_ALWAYS,130,255,255,4,5,False
+208,링크셸 대화 [8]번으로 전환,CMD_LINKSHELL_8_ALWAYS,131,255,255,4,5,False
+211,결정,OK,1,255,255,5,1,True
+212,취소,CANCEL,2,255,255,5,1,True
+213,나가기,ESC,3,255,255,5,1,True
+214,주 메뉴,PAD_MAINMENUFOCUS,4,255,255,5,1,True
+215,단축 메뉴,MENU,5,255,255,5,1,False
+216,커서 / 파티 목록 위로 이동,UP,6,255,255,5,1,False
+217,커서 / 파티 목록 아래로 이동,DOWN,7,255,255,5,1,False
+218,커서 / 임시 대상 왼쪽 이동,LEFT,8,255,255,5,1,False
+219,커서 / 임시 대상 오른쪽 이동,RIGHT,9,255,255,5,1,False
+220,탭 전환: 순서대로,TAB_NEXT,10,255,255,5,1,False
+221,탭 전환: 역순으로,TAB_PREV,11,255,255,5,1,False
+222,단축바 전환: 순서대로,HOTBAR_UP,12,255,253,5,1,False
+223,단축바 전환: 역순으로,HOTBAR_DOWN,13,255,253,5,1,False
+224,스크린샷,KEY_SCREENSHOT,14,255,243,5,1,False
+225,UI 표시 전환,HIDE,15,255,255,5,1,False
+226,HUD 배열구성 설정,MENU_LAYOUT,16,255,255,5,1,False
+227,HUD 선택: 순서대로,PAD_HUDFOCUS,21,255,255,5,1,False
+228,HUD 선택: 역순으로,PAD_HUDFOCUS_PREV,22,255,255,5,1,False
+229,조준 필터,TARGET_CLICK_FILTER,23,255,255,5,1,False
+230,창 크기 확대/축소,MENU_SCALE,24,255,255,5,1,False
+231,단축바 전환: 1번 세트,HOTBAR_SET_1,33,255,253,5,1,False
+232,단축바 전환: 2번 세트,HOTBAR_SET_2,34,255,253,5,1,False
+233,단축바 전환: 3번 세트,HOTBAR_SET_3,35,255,253,5,1,False
+234,단축바 전환: 4번 세트,HOTBAR_SET_4,36,255,253,5,1,False
+235,단축바 전환: 5번 세트,HOTBAR_SET_5,37,255,253,5,1,False
+236,단축바 전환: 6번 세트,HOTBAR_SET_6,38,255,253,5,1,False
+237,단축바 전환: 7번 세트,HOTBAR_SET_7,39,255,253,5,1,False
+238,단축바 전환: 8번 세트,HOTBAR_SET_8,40,255,253,5,1,False
+239,단축바 전환: 9번 세트,HOTBAR_SET_9,41,255,253,5,1,False
+240,단축바 전환: 10번 세트,HOTBAR_SET_10,42,255,253,5,1,False
+241,실행 중인 매크로 정지,MACRO_FORCED_OUTAGE,26,255,255,5,1,False
+242,단축바 전환: 보조 단축바,HOTBAR_SET_EX,43,255,253,5,1,False
+243,커서 위치 알림,MOUSE_CURSOR_SONAR,27,255,253,5,1,False
+244,주 음량 음소거,MASTER_VOLUME_MUTE,28,255,255,5,1,False
+245,임무 범용 키,MENU_CONTENTS_GENERAL,30,255,255,5,1,False
+246,HUD 배열 변경: 1번 배열,HUDLAYOUT_SET1,17,255,255,5,1,False
+247,HUD 배열 변경: 2번 배열,HUDLAYOUT_SET2,18,255,255,5,1,False
+248,HUD 배열 변경: 3번 배열,HUDLAYOUT_SET3,19,255,255,5,1,False
+249,HUD 배열 변경: 4번 배열,HUDLAYOUT_SET4,20,255,255,5,1,False
+251,캐릭터,MENU_STATUS,1,255,255,3,0,False
+252,소지품,MENU_BAG,6,255,255,3,0,False
+253,장비함,MENU_ARMORY,7,255,255,3,0,False
+254,임무용 아이템 목록,MENU_EVENT_BAG,9,255,255,3,0,False
+255,지도,MENU_MAP,11,255,255,3,0,False
+256,기술 목록,MENU_ACTION,12,255,255,3,0,False
+257,감정 표현,MENU_EMOTE,13,255,255,3,0,False
+258,탈것 목록,MENU_MOUNT_NOTEBOOK,14,255,255,3,0,False
+259,꼬마 친구 목록,MENU_MINION_NOTEBOOK,15,255,255,3,0,False
+260,PvP 프로필,MENU_PVP_PROFILE,19,255,255,3,0,False
+261,교류,MENU_SOCIAL,21,255,255,3,0,False
+262,파티원,MENU_PARTY_MEMBER,22,255,255,3,0,False
+263,친구 목록,MENU_FRIEND_LIST,24,255,255,3,0,False
+264,차단 목록,MENU_BLACK_LIST,26,255,255,3,0,False
+265,플레이어 검색,MENU_PC_SEARCH,30,255,255,3,0,False
+266,파티 찾기,MENU_LFG,32,255,255,3,0,False
+267,준비 확인,MENU_READY_CHECK,33,255,255,3,0,False
+268,자유부대,MENU_FREECOM,36,255,255,3,0,False
+269,하우징,MENU_HOUSING,37,255,255,3,0,False
+270,링크셸,MENU_LINKSHELL,39,255,255,3,0,False
+271,임무 찾기,MENU_CONTENT,41,255,255,3,0,False
+272,임무 정보,MENU_CONTENT_INFO,46,255,255,3,0,False
+273,퀘스트,MENU_JOURNAL,47,255,255,3,0,False
+274,제작수첩,MENU_CRAFT,51,255,255,3,0,False
+275,채집수첩,MENU_GATHER,52,255,255,3,0,False
+276,토벌수첩,MENU_MONSTER,53,255,255,3,0,False
+277,낚시수첩,MENU_FISH,54,255,255,3,0,False
+278,어류도감,MENU_FISH_GUIDE,55,255,255,3,0,False
+279,공략수첩,MENU_CONTENTS_NOTEBOOK,57,255,255,3,0,False
+280,탐험수첩,MENU_ADVENTURE_NOTEBOOK,56,255,255,3,0,False
+281,대상 지시 표식,MENU_MARK,59,255,255,3,0,False
+282,지면 표식,MENU_FIELD_MARK,60,255,255,3,0,False
+283,버디,MENU_BUDDY,62,255,255,3,0,False
+284,데존,MENU_RETURN,61,255,255,3,0,False
+285,텔레포,MENU_TELEPO,63,255,255,3,0,False
+286,업적,MENU_ACHIVE,64,255,255,3,0,False
+287,시스템,MENU_SYSTEM,65,255,253,3,0,False
+288,도움말 목록,MENU_HOWTO,69,255,255,3,0,False
+289,임무 추천,MENU_RECOMMEND_LIST,70,255,255,3,0,False
+290,매크로,MENU_MACRO,71,255,255,3,0,False
+292,캐릭터 설정,MENU_CONFIG,75,255,255,3,0,False
+293,시스템 설정,MENU_SYSCONFIG,76,255,255,3,0,False
+294,대화창 글자 색상,MENU_LOGCOLOR,77,255,255,3,0,False
+295,버튼 설정,MENU_PADCUSTOMIZE,78,255,255,3,0,False
+296,골드 소서,MENU_GOLD_SAUCER,20,255,255,3,0,False
+297,풍맥의 샘 교감 정보,MENU_AETHER_CURRENT,66,255,255,3,0,False
+298,화폐 목록,MENU_CURRENCY,3,255,255,3,0,False
+299,장비세트,MENU_GEAR_SET,2,255,255,3,0,False
+301,1번 단축바: 1번 칸,HOTBAR_1_1,1,255,253,6,4,False
+302,1번 단축바: 2번 칸,HOTBAR_1_2,2,255,253,6,4,False
+303,1번 단축바: 3번 칸,HOTBAR_1_3,3,255,253,6,4,False
+304,1번 단축바: 4번 칸,HOTBAR_1_4,4,255,253,6,4,False
+305,1번 단축바: 5번 칸,HOTBAR_1_5,5,255,253,6,4,False
+306,1번 단축바: 6번 칸,HOTBAR_1_6,6,255,253,6,4,False
+307,1번 단축바: 7번 칸,HOTBAR_1_7,7,255,253,6,4,False
+308,1번 단축바: 8번 칸,HOTBAR_1_8,8,255,253,6,4,False
+309,1번 단축바: 9번 칸,HOTBAR_1_9,9,255,253,6,4,False
+310,1번 단축바: 10번 칸,HOTBAR_1_0,10,255,253,6,4,False
+311,1번 단축바: 11번 칸,HOTBAR_1_A,11,255,253,6,4,False
+312,1번 단축바: 12번 칸,HOTBAR_1_B,12,255,253,6,4,False
+313,2번 단축바: 1번 칸,HOTBAR_2_1,13,255,253,6,4,False
+314,2번 단축바: 2번 칸,HOTBAR_2_2,14,255,253,6,4,False
+315,2번 단축바: 3번 칸,HOTBAR_2_3,15,255,253,6,4,False
+316,2번 단축바: 4번 칸,HOTBAR_2_4,16,255,253,6,4,False
+317,2번 단축바: 5번 칸,HOTBAR_2_5,17,255,253,6,4,False
+318,2번 단축바: 6번 칸,HOTBAR_2_6,18,255,253,6,4,False
+319,2번 단축바: 7번 칸,HOTBAR_2_7,19,255,253,6,4,False
+320,2번 단축바: 8번 칸,HOTBAR_2_8,20,255,253,6,4,False
+321,2번 단축바: 9번 칸,HOTBAR_2_9,21,255,253,6,4,False
+322,2번 단축바: 10번 칸,HOTBAR_2_0,22,255,253,6,4,False
+323,2번 단축바: 11번 칸,HOTBAR_2_A,23,255,253,6,4,False
+324,2번 단축바: 12번 칸,HOTBAR_2_B,24,255,253,6,4,False
+325,3번 단축바: 1번 칸,HOTBAR_3_1,25,255,253,6,4,False
+326,3번 단축바: 2번 칸,HOTBAR_3_2,26,255,253,6,4,False
+327,3번 단축바: 3번 칸,HOTBAR_3_3,27,255,253,6,4,False
+328,3번 단축바: 4번 칸,HOTBAR_3_4,28,255,253,6,4,False
+329,3번 단축바: 5번 칸,HOTBAR_3_5,29,255,253,6,4,False
+330,3번 단축바: 6번 칸,HOTBAR_3_6,30,255,253,6,4,False
+331,3번 단축바: 7번 칸,HOTBAR_3_7,31,255,253,6,4,False
+332,3번 단축바: 8번 칸,HOTBAR_3_8,32,255,253,6,4,False
+333,3번 단축바: 9번 칸,HOTBAR_3_9,33,255,253,6,4,False
+334,3번 단축바: 10번 칸,HOTBAR_3_0,34,255,253,6,4,False
+335,3번 단축바: 11번 칸,HOTBAR_3_A,35,255,253,6,4,False
+336,3번 단축바: 12번 칸,HOTBAR_3_B,36,255,253,6,4,False
+337,4번 단축바: 1번 칸,HOTBAR_4_1,37,255,253,6,4,False
+338,4번 단축바: 2번 칸,HOTBAR_4_2,38,255,253,6,4,False
+339,4번 단축바: 3번 칸,HOTBAR_4_3,39,255,253,6,4,False
+340,4번 단축바: 4번 칸,HOTBAR_4_4,40,255,253,6,4,False
+341,4번 단축바: 5번 칸,HOTBAR_4_5,41,255,253,6,4,False
+342,4번 단축바: 6번 칸,HOTBAR_4_6,42,255,253,6,4,False
+343,4번 단축바: 7번 칸,HOTBAR_4_7,43,255,253,6,4,False
+344,4번 단축바: 8번 칸,HOTBAR_4_8,44,255,253,6,4,False
+345,4번 단축바: 9번 칸,HOTBAR_4_9,45,255,253,6,4,False
+346,4번 단축바: 10번 칸,HOTBAR_4_0,46,255,253,6,4,False
+347,4번 단축바: 11번 칸,HOTBAR_4_A,47,255,253,6,4,False
+348,4번 단축바: 12번 칸,HOTBAR_4_B,48,255,253,6,4,False
+349,5번 단축바: 1번 칸,HOTBAR_5_1,49,255,253,6,4,False
+350,5번 단축바: 2번 칸,HOTBAR_5_2,50,255,253,6,4,False
+351,5번 단축바: 3번 칸,HOTBAR_5_3,51,255,253,6,4,False
+352,5번 단축바: 4번 칸,HOTBAR_5_4,52,255,253,6,4,False
+353,5번 단축바: 5번 칸,HOTBAR_5_5,53,255,253,6,4,False
+354,5번 단축바: 6번 칸,HOTBAR_5_6,54,255,253,6,4,False
+355,5번 단축바: 7번 칸,HOTBAR_5_7,55,255,253,6,4,False
+356,5번 단축바: 8번 칸,HOTBAR_5_8,56,255,253,6,4,False
+357,5번 단축바: 9번 칸,HOTBAR_5_9,57,255,253,6,4,False
+358,5번 단축바: 10번 칸,HOTBAR_5_0,58,255,253,6,4,False
+359,5번 단축바: 11번 칸,HOTBAR_5_A,59,255,253,6,4,False
+360,5번 단축바: 12번 칸,HOTBAR_5_B,60,255,253,6,4,False
+361,6번 단축바: 1번 칸,HOTBAR_6_1,61,255,253,6,4,False
+362,6번 단축바: 2번 칸,HOTBAR_6_2,62,255,253,6,4,False
+363,6번 단축바: 3번 칸,HOTBAR_6_3,63,255,253,6,4,False
+364,6번 단축바: 4번 칸,HOTBAR_6_4,64,255,253,6,4,False
+365,6번 단축바: 5번 칸,HOTBAR_6_5,65,255,253,6,4,False
+366,6번 단축바: 6번 칸,HOTBAR_6_6,66,255,253,6,4,False
+367,6번 단축바: 7번 칸,HOTBAR_6_7,67,255,253,6,4,False
+368,6번 단축바: 8번 칸,HOTBAR_6_8,68,255,253,6,4,False
+369,6번 단축바: 9번 칸,HOTBAR_6_9,69,255,253,6,4,False
+370,6번 단축바: 10번 칸,HOTBAR_6_0,70,255,253,6,4,False
+371,6번 단축바: 11번 칸,HOTBAR_6_A,71,255,253,6,4,False
+372,6번 단축바: 12번 칸,HOTBAR_6_B,72,255,253,6,4,False
+373,7번 단축바: 1번 칸,HOTBAR_7_1,73,255,253,6,4,False
+374,7번 단축바: 2번 칸,HOTBAR_7_2,74,255,253,6,4,False
+375,7번 단축바: 3번 칸,HOTBAR_7_3,75,255,253,6,4,False
+376,7번 단축바: 4번 칸,HOTBAR_7_4,76,255,253,6,4,False
+377,7번 단축바: 5번 칸,HOTBAR_7_5,77,255,253,6,4,False
+378,7번 단축바: 6번 칸,HOTBAR_7_6,78,255,253,6,4,False
+379,7번 단축바: 7번 칸,HOTBAR_7_7,79,255,253,6,4,False
+380,7번 단축바: 8번 칸,HOTBAR_7_8,80,255,253,6,4,False
+381,7번 단축바: 9번 칸,HOTBAR_7_9,81,255,253,6,4,False
+382,7번 단축바: 10번 칸,HOTBAR_7_0,82,255,253,6,4,False
+383,7번 단축바: 11번 칸,HOTBAR_7_A,83,255,253,6,4,False
+384,7번 단축바: 12번 칸,HOTBAR_7_B,84,255,253,6,4,False
+385,8번 단축바: 1번 칸,HOTBAR_8_1,85,255,253,6,4,False
+386,8번 단축바: 2번 칸,HOTBAR_8_2,86,255,253,6,4,False
+387,8번 단축바: 3번 칸,HOTBAR_8_3,87,255,253,6,4,False
+388,8번 단축바: 4번 칸,HOTBAR_8_4,88,255,253,6,4,False
+389,8번 단축바: 5번 칸,HOTBAR_8_5,89,255,253,6,4,False
+390,8번 단축바: 6번 칸,HOTBAR_8_6,90,255,253,6,4,False
+391,8번 단축바: 7번 칸,HOTBAR_8_7,91,255,253,6,4,False
+392,8번 단축바: 8번 칸,HOTBAR_8_8,92,255,253,6,4,False
+393,8번 단축바: 9번 칸,HOTBAR_8_9,93,255,253,6,4,False
+394,8번 단축바: 10번 칸,HOTBAR_8_0,94,255,253,6,4,False
+395,8번 단축바: 11번 칸,HOTBAR_8_A,95,255,253,6,4,False
+396,8번 단축바: 12번 칸,HOTBAR_8_B,96,255,253,6,4,False
+397,9번 단축바: 1번 칸,HOTBAR_9_1,97,255,253,6,4,False
+398,9번 단축바: 2번 칸,HOTBAR_9_2,98,255,253,6,4,False
+399,9번 단축바: 3번 칸,HOTBAR_9_3,99,255,253,6,4,False
+400,9번 단축바: 4번 칸,HOTBAR_9_4,100,255,253,6,4,False
+401,9번 단축바: 5번 칸,HOTBAR_9_5,101,255,253,6,4,False
+402,9번 단축바: 6번 칸,HOTBAR_9_6,102,255,253,6,4,False
+403,9번 단축바: 7번 칸,HOTBAR_9_7,103,255,253,6,4,False
+404,9번 단축바: 8번 칸,HOTBAR_9_8,104,255,253,6,4,False
+405,9번 단축바: 9번 칸,HOTBAR_9_9,105,255,253,6,4,False
+406,9번 단축바: 10번 칸,HOTBAR_9_0,106,255,253,6,4,False
+407,9번 단축바: 11번 칸,HOTBAR_9_A,107,255,253,6,4,False
+408,9번 단축바: 12번 칸,HOTBAR_9_B,108,255,253,6,4,False
+409,10번 단축바: 1번 칸,HOTBAR_10_1,109,255,253,6,4,False
+410,10번 단축바: 2번 칸,HOTBAR_10_2,110,255,253,6,4,False
+411,10번 단축바: 3번 칸,HOTBAR_10_3,111,255,253,6,4,False
+412,10번 단축바: 4번 칸,HOTBAR_10_4,112,255,253,6,4,False
+413,10번 단축바: 5번 칸,HOTBAR_10_5,113,255,253,6,4,False
+414,10번 단축바: 6번 칸,HOTBAR_10_6,114,255,253,6,4,False
+415,10번 단축바: 7번 칸,HOTBAR_10_7,115,255,253,6,4,False
+416,10번 단축바: 8번 칸,HOTBAR_10_8,116,255,253,6,4,False
+417,10번 단축바: 9번 칸,HOTBAR_10_9,117,255,253,6,4,False
+418,10번 단축바: 10번 칸,HOTBAR_10_0,118,255,253,6,4,False
+419,10번 단축바: 11번 칸,HOTBAR_10_A,119,255,253,6,4,False
+420,10번 단축바: 12번 칸,HOTBAR_10_B,120,255,253,6,4,False
+421,보조 단축바: 1번 칸,HOTBAR_EX_1,121,255,253,6,4,False
+422,보조 단축바: 2번 칸,HOTBAR_EX_2,122,255,253,6,4,False
+423,보조 단축바: 3번 칸,HOTBAR_EX_3,123,255,253,6,4,False
+424,보조 단축바: 4번 칸,HOTBAR_EX_4,124,255,253,6,4,False
+425,보조 단축바: 5번 칸,HOTBAR_EX_5,125,255,253,6,4,False
+426,보조 단축바: 6번 칸,HOTBAR_EX_6,126,255,253,6,4,False
+427,보조 단축바: 7번 칸,HOTBAR_EX_7,127,255,253,6,4,False
+428,보조 단축바: 8번 칸,HOTBAR_EX_8,128,255,253,6,4,False
+429,보조 단축바: 9번 칸,HOTBAR_EX_9,129,255,253,6,4,False
+430,보조 단축바: 10번 칸,HOTBAR_EX_0,130,255,253,6,4,False
+431,보조 단축바: 11번 칸,HOTBAR_EX_A,131,255,253,6,4,False
+432,보조 단축바: 12번 칸,HOTBAR_EX_B,132,255,253,6,4,False
+433,임무용 기술 2,HOTBAR_CONTENTS_ACT_L,134,255,253,6,4,False
+434,임무용 기술 1,HOTBAR_CONTENTS_ACT_R,133,255,253,6,4,False
+451, 방향패드 위,VIRTUAL_PAD_UP,1,255,255,7,0,False
+452, 방향패드 아래,VIRTUAL_PAD_DOWN,2,255,255,7,0,False
+453, 방향패드 왼쪽,VIRTUAL_PAD_LEFT,3,255,255,7,0,False
+454, 방향패드 오른쪽,VIRTUAL_PAD_RIGHT,4,255,255,7,0,False
+455, Y 버튼,VIRTUAL_PAD_TRIANGLE,5,255,255,7,0,False
+456, B 버튼,VIRTUAL_PAD_CIRCLE,6,255,255,7,0,False
+457, A 버튼,VIRTUAL_PAD_CROSS,7,255,255,7,0,False
+458, X 버튼,VIRTUAL_PAD_SQUARE,8,255,255,7,0,False
+459, START 버튼,VIRTUAL_PAD_START,9,255,255,7,0,False
+460, BACK 버튼,VIRTUAL_PAD_SELECT,10,255,255,7,0,False
+461, LB 버튼,VIRTUAL_PAD_L1,11,255,255,7,0,False
+462, 왼쪽 트리거,VIRTUAL_PAD_L2,12,255,255,7,0,False
+463, RB 버튼,VIRTUAL_PAD_R1,13,255,255,7,0,False
+464, 오른쪽 트리거,VIRTUAL_PAD_R2,14,255,255,7,0,False
+465, 왼쪽 스틱 버튼,VIRTUAL_PAD_L3,15,255,255,7,0,False
+466, 오른쪽 스틱 버튼,VIRTUAL_PAD_R3,16,255,255,7,0,False
+467, 왼쪽 스틱 위,VIRTUAL_PAD_LSTICK_UP,17,255,255,7,0,False
+468, 왼쪽 스틱 아래,VIRTUAL_PAD_LSTICK_DOWN,18,255,255,7,0,False
+469, 왼쪽 스틱 왼쪽,VIRTUAL_PAD_LSTICK_LEFT,19,255,255,7,0,False
+470, 왼쪽 스틱 오른쪽,VIRTUAL_PAD_LSTICK_RIGHT,20,255,255,7,0,False
+471, 오른쪽 스틱 위,VIRTUAL_PAD_RSTICK_UP,21,255,255,7,0,False
+472, 오른쪽 스틱 아래,VIRTUAL_PAD_RSTICK_DOWN,22,255,255,7,0,False
+473, 오른쪽 스틱 왼쪽,VIRTUAL_PAD_RSTICK_LEFT,23,255,255,7,0,False
+474, 오른쪽 스틱 오른쪽,VIRTUAL_PAD_RSTICK_RIGHT,24,255,255,7,0,False
+490,공식 가이드,MENU_PLAY_GUIDE,74,255,255,3,0,False
+491,세부 메뉴 사용자 설정,MENU_SUBCOMMAND_CUSTOMIZE,79,255,255,3,0,False
+492,초보자 채널 참가자 목록,MENU_BEGINNER_CHANNEL_LIST,29,255,255,3,0,False
+493,초보자의 집,MENU_BEGINNERS_MANSION,50,255,255,3,0,False
+494,오케스트리온 악보집,MENU_ORCHESTRION,58,255,255,3,0,False
+495,레이드 찾기,MENU_RAID_FINDER,42,255,255,3,0,False
+496,전투 시작 초읽기,MENU_COUNTDOWN,35,255,255,3,0,False
+497,최근 파티,MENU_CONTACTLIST,25,255,255,3,0,False
+498,탈것 속도,MENU_GROUND_MOUNT_SPEED,67,255,255,3,0,False
+499,초코보 가방,MENU_BUDDY_BAG,10,255,255,3,0,False
+500,임무 다시보기,MENU_CONTENTS_REPLAY,48,255,255,3,0,False
+501,다시보기 준비 확인,MENU_REPLAY_READY_CHECK,34,255,255,3,0,False
+502,PvP팀,MENU_PVPTEAM_UI,38,255,255,3,0,False
+503,서버 초월 링크셸,MENU_CWLINKSHELL,40,255,255,3,0,False
+504,알람,MENU_ALERM,80,255,255,3,0,False
+505,청마도서,MENU_AOZ,18,255,255,3,0,False
+506,트러스트,MENU_FAITH,45,255,255,3,0,False
+507,돌발 임무 달성도,MENU_FATE_PROGRESS,68,255,255,3,0,False
+508,동아리,MENU_CIRCLE_LIST,23,255,255,3,0,False
+509,동아리 찾기,MENU_CIRCLE_RECRUIT,31,255,255,3,0,False
+510,중요 아이템,MENU_MCGUFFIN,8,255,255,3,0,False
+511,임무 다시하기,MENU_QUEST_REPLAY,49,255,255,3,0,False
+512,패션 소품,MENU_ORNAMENT_NOTEBOOK,17,255,255,3,0,False
+513,공식 홈페이지,WEBLINK,73,255,255,3,0,False
+514,초상화 목록,MENU_BANNER_LIST,5,255,255,3,0,False
+515,임무 지원,MENU_SDS,44,255,255,3,0,False
+516,모험가 카드,MENU_CHARA_CARD,4,255,255,3,0,False
+517,특수 던전 탐색,MENU_VVD,43,255,255,3,0,False
+518,얼굴 소품,MENU_FACE_ACCESSORY,16,255,255,3,0,False
+519,대화 차단 목록,MENU_MUTE_LIST,27,255,255,3,0,False
+520,단어 필터,TERM_FILTER,28,255,255,3,0,False
+550,초보자 대화로 일시 전환,CMD_BEGINNER,32,255,255,4,5,False
+551,초보자 대화로 전환,CMD_BEGINNER_ALWAYS,132,255,255,4,5,False
+552,PvP팀 대화로 일시 전환,PVPTEAM_CHAT,11,255,255,4,5,False
+553,PvP팀 대화로 전환,PVPTEAM_CHAT_ALWAYS,111,255,255,4,5,False
+554,서버 초월 링크셸 대화로 일시 전환: 순서대로,CMD_CWLINKSHELL,12,255,255,4,5,False
+555,서버 초월 링크셸 대화로 전환: 순서대로,CMD_CWLINKSHELL_ALWAYS,112,255,255,4,5,False
+556,서버 초월 링크셸 대화로 일시 전환: 역순으로,CMD_CWLINKSHELL_REV,13,255,255,4,5,False
+557,서버 초월 링크셸 대화 [1]번으로 일시 전환,CMD_CWLINKSHELL_1,14,255,255,4,5,False
+558,서버 초월 링크셸 대화 [2]번으로 일시 전환,CMD_CWLINKSHELL_2,15,255,255,4,5,False
+559,서버 초월 링크셸 대화 [3]번으로 일시 전환,CMD_CWLINKSHELL_3,16,255,255,4,5,False
+560,서버 초월 링크셸 대화 [4]번으로 일시 전환,CMD_CWLINKSHELL_4,17,255,255,4,5,False
+561,서버 초월 링크셸 대화 [5]번으로 일시 전환,CMD_CWLINKSHELL_5,18,255,255,4,5,False
+562,서버 초월 링크셸 대화 [6]번으로 일시 전환,CMD_CWLINKSHELL_6,19,255,255,4,5,False
+563,서버 초월 링크셸 대화 [7]번으로 일시 전환,CMD_CWLINKSHELL_7,20,255,255,4,5,False
+564,서버 초월 링크셸 대화 [8]번으로 일시 전환,CMD_CWLINKSHELL_8,21,255,255,4,5,False
+565,서버 초월 링크셸 대화로 전환: 역순으로,CMD_CWLINKSHELL_ALWAYS_REV,113,255,255,4,5,False
+566,서버 초월 링크셸 대화 [1]번으로 전환,CMD_CWLINKSHELL_1_ALWAYS,114,255,255,4,5,False
+567,서버 초월 링크셸 대화 [2]번으로 전환,CMD_CWLINKSHELL_2_ALWAYS,115,255,255,4,5,False
+568,서버 초월 링크셸 대화 [3]번으로 전환,CMD_CWLINKSHELL_3_ALWAYS,116,255,255,4,5,False
+569,서버 초월 링크셸 대화 [4]번으로 전환,CMD_CWLINKSHELL_4_ALWAYS,117,255,255,4,5,False
+570,서버 초월 링크셸 대화 [5]번으로 전환,CMD_CWLINKSHELL_5_ALWAYS,118,255,255,4,5,False
+571,서버 초월 링크셸 대화 [6]번으로 전환,CMD_CWLINKSHELL_6_ALWAYS,119,255,255,4,5,False
+572,서버 초월 링크셸 대화 [7]번으로 전환,CMD_CWLINKSHELL_7_ALWAYS,120,255,255,4,5,False
+573,서버 초월 링크셸 대화 [8]번으로 전환,CMD_CWLINKSHELL_8_ALWAYS,121,255,255,4,5,False
+591,로그창 확대,CHATLOG_VIEWERMODE,25,255,255,5,1,False
+592,퀘스트 가이드: 주요 퀘스트 표시,MENU_SCENARIO_TREE,31,255,255,5,1,False
+593,퀘스트 가이드: 부가 퀘스트 표시,MENU_SCENARIO_TREE_SUB,32,255,255,5,1,False
+594,색각 보정 활성화 / 비활성화,ACCESSIBILITY_COLORBLIND,29,255,225,5,1,False

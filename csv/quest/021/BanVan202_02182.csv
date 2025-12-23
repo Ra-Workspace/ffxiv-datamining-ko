@@ -1,93 +1,91 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANVAN202_02182_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANVAN202_02182_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 나키 섬의 무나바누는 날아다니는 벌레 때문에 신경이 곤두서 있다."
-1,"TEXT_BANVAN202_02182_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+1,TEXT_BANVAN202_02182_SEQ_01,"※ 이 퀘스트에는
+ '**** 레벨 보정(직업 변경 제한)' 적용됩니다.
    퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
 
 무나바누가 밭에 꼬인 날벌레를 퇴치하기 위해 고민하는 라누바리를 도와달라고 부탁했다. 나키 섬에 있는 '농사꾼 라누바리'와 대화하자."
-2,"TEXT_BANVAN202_02182_SEQ_02","라누바리가 날벌레떼를 사누와의 돌풍으로 날려 보내달라고 한다. 사누와에 타기 위해, 나키 섬에 있는 '상인 루나바누'와 대화하자."
-3,"TEXT_BANVAN202_02182_SEQ_03","상인 루나바누와 대화하여 사누와에 탑승했다. 사누와에 올라탄 상태로, 푸른하늘 창에 있는 '날벌레떼' 3마리에게 '돌풍'을 사용하자.
+2,TEXT_BANVAN202_02182_SEQ_02,"라누바리가 날벌레떼를 사누와의 돌풍으로 날려 보내달라고 한다. 사누와에 타기 위해, 나키 섬에 있는 '상인 루나바누'와 대화하자."
+3,TEXT_BANVAN202_02182_SEQ_03,"상인 루나바누와 대화하여 사누와에 탑승했다. 사누와에 올라탄 상태로, 푸른하늘 창에 있는 '날벌레떼' 3마리에게 '돌풍'을 사용하자.
 
 ※ 나키 섬에 있는 '상인 루나바누'에게 말을 걸면 '사누와'에 탑승할 수 있습니다."
-4,"TEXT_BANVAN202_02182_SEQ_04","날벌레떼를 날려 보냈다. 나키 섬에 있는 '농사꾼 라누바리'에게 보고하자."
-5,"TEXT_BANVAN202_02182_SEQ_05","라누바리에게 보고했다. 날벌레는 사누와를 무서워하기 때문에, 사누와의 돌풍을 맞으면 자연히 안 꼬이게 된다고 한다."
-6,"TEXT_BANVAN202_02182_SEQ_06",""
-7,"TEXT_BANVAN202_02182_SEQ_07",""
-8,"TEXT_BANVAN202_02182_SEQ_08",""
-9,"TEXT_BANVAN202_02182_SEQ_09",""
-10,"TEXT_BANVAN202_02182_SEQ_10",""
-11,"TEXT_BANVAN202_02182_SEQ_11",""
-12,"TEXT_BANVAN202_02182_SEQ_12",""
-13,"TEXT_BANVAN202_02182_SEQ_13",""
-14,"TEXT_BANVAN202_02182_SEQ_14",""
-15,"TEXT_BANVAN202_02182_SEQ_15",""
-16,"TEXT_BANVAN202_02182_SEQ_16",""
-17,"TEXT_BANVAN202_02182_SEQ_17",""
-18,"TEXT_BANVAN202_02182_SEQ_18",""
-19,"TEXT_BANVAN202_02182_SEQ_19",""
-20,"TEXT_BANVAN202_02182_SEQ_20",""
-21,"TEXT_BANVAN202_02182_SEQ_21",""
-22,"TEXT_BANVAN202_02182_SEQ_22",""
-23,"TEXT_BANVAN202_02182_SEQ_23",""
-24,"TEXT_BANVAN202_02182_TODO_00","농사꾼 라누바리와 대화"
-25,"TEXT_BANVAN202_02182_TODO_01","상인 루나바누와 대화"
-26,"TEXT_BANVAN202_02182_TODO_02","사누와에 탑승하여 날벌레떼에 돌풍 사용"
-27,"TEXT_BANVAN202_02182_TODO_03","농사꾼 라누바리에게 보고"
-28,"TEXT_BANVAN202_02182_TODO_04",""
-29,"TEXT_BANVAN202_02182_TODO_05",""
-30,"TEXT_BANVAN202_02182_TODO_06",""
-31,"TEXT_BANVAN202_02182_TODO_07",""
-32,"TEXT_BANVAN202_02182_TODO_08",""
-33,"TEXT_BANVAN202_02182_TODO_09",""
-34,"TEXT_BANVAN202_02182_TODO_10",""
-35,"TEXT_BANVAN202_02182_TODO_11",""
-36,"TEXT_BANVAN202_02182_TODO_12",""
-37,"TEXT_BANVAN202_02182_TODO_13",""
-38,"TEXT_BANVAN202_02182_TODO_14",""
-39,"TEXT_BANVAN202_02182_TODO_15",""
-40,"TEXT_BANVAN202_02182_TODO_16",""
-41,"TEXT_BANVAN202_02182_TODO_17",""
-42,"TEXT_BANVAN202_02182_TODO_18",""
-43,"TEXT_BANVAN202_02182_TODO_19",""
-44,"TEXT_BANVAN202_02182_TODO_20",""
-45,"TEXT_BANVAN202_02182_TODO_21",""
-46,"TEXT_BANVAN202_02182_TODO_22",""
-47,"TEXT_BANVAN202_02182_TODO_23",""
-48,"TEXT_BANVAN202_02182_MUNAVANU_000_000","윙윙, 윙윙, 시끄러운 날벌레 놈들!
+4,TEXT_BANVAN202_02182_SEQ_04,날벌레떼를 날려 보냈다. 나키 섬에 있는 '농사꾼 라누바리'에게 보고하자.
+5,TEXT_BANVAN202_02182_SEQ_05,"라누바리에게 보고했다. 날벌레는 사누와를 무서워하기 때문에, 사누와의 돌풍을 맞으면 자연히 안 꼬이게 된다고 한다."
+6,TEXT_BANVAN202_02182_SEQ_06,
+7,TEXT_BANVAN202_02182_SEQ_07,
+8,TEXT_BANVAN202_02182_SEQ_08,
+9,TEXT_BANVAN202_02182_SEQ_09,
+10,TEXT_BANVAN202_02182_SEQ_10,
+11,TEXT_BANVAN202_02182_SEQ_11,
+12,TEXT_BANVAN202_02182_SEQ_12,
+13,TEXT_BANVAN202_02182_SEQ_13,
+14,TEXT_BANVAN202_02182_SEQ_14,
+15,TEXT_BANVAN202_02182_SEQ_15,
+16,TEXT_BANVAN202_02182_SEQ_16,
+17,TEXT_BANVAN202_02182_SEQ_17,
+18,TEXT_BANVAN202_02182_SEQ_18,
+19,TEXT_BANVAN202_02182_SEQ_19,
+20,TEXT_BANVAN202_02182_SEQ_20,
+21,TEXT_BANVAN202_02182_SEQ_21,
+22,TEXT_BANVAN202_02182_SEQ_22,
+23,TEXT_BANVAN202_02182_SEQ_23,
+24,TEXT_BANVAN202_02182_TODO_00,농사꾼 라누바리와 대화
+25,TEXT_BANVAN202_02182_TODO_01,상인 루나바누와 대화
+26,TEXT_BANVAN202_02182_TODO_02,사누와에 탑승하여 날벌레떼에 돌풍 사용
+27,TEXT_BANVAN202_02182_TODO_03,농사꾼 라누바리에게 보고
+28,TEXT_BANVAN202_02182_TODO_04,
+29,TEXT_BANVAN202_02182_TODO_05,
+30,TEXT_BANVAN202_02182_TODO_06,
+31,TEXT_BANVAN202_02182_TODO_07,
+32,TEXT_BANVAN202_02182_TODO_08,
+33,TEXT_BANVAN202_02182_TODO_09,
+34,TEXT_BANVAN202_02182_TODO_10,
+35,TEXT_BANVAN202_02182_TODO_11,
+36,TEXT_BANVAN202_02182_TODO_12,
+37,TEXT_BANVAN202_02182_TODO_13,
+38,TEXT_BANVAN202_02182_TODO_14,
+39,TEXT_BANVAN202_02182_TODO_15,
+40,TEXT_BANVAN202_02182_TODO_16,
+41,TEXT_BANVAN202_02182_TODO_17,
+42,TEXT_BANVAN202_02182_TODO_18,
+43,TEXT_BANVAN202_02182_TODO_19,
+44,TEXT_BANVAN202_02182_TODO_20,
+45,TEXT_BANVAN202_02182_TODO_21,
+46,TEXT_BANVAN202_02182_TODO_22,
+47,TEXT_BANVAN202_02182_TODO_23,
+48,TEXT_BANVAN202_02182_MUNAVANU_000_000,"윙윙, 윙윙, 시끄러운 날벌레 놈들!
 ……앗, 제가 안 좋은 모습을 보여드렸군요.
 요즘, 요즘, 밭을 망치는 날벌레가 떼로 몰려들고 있습니다."
-49,"TEXT_BANVAN202_02182_MUNAVANU_000_001","밭을 관리하는 라누바리도 이 문제로 심히 고민하고 있다는군요.
+49,TEXT_BANVAN202_02182_MUNAVANU_000_001,"밭을 관리하는 라누바리도 이 문제로 심히 고민하고 있다는군요.
 부디, 부디, 그녀에게 힘을 빌려주시면 고맙겠습니다."
-50,"TEXT_BANVAN202_02182_RANUVALI_000_010","쫓아내도, 쫓아내도, 끝이 없네…….
-<Highlight>ObjectParameter(1)</Highlight> 님! 날벌레 퇴치를 도와주세요!"
-51,"TEXT_BANVAN202_02182_RANUVALI_000_011","아마도, 아마도, 날벌레는 '오크 준두' 주변에서
+50,TEXT_BANVAN202_02182_RANUVALI_000_010,"쫓아내도, 쫓아내도, 끝이 없네…….
+Player Player 님! 날벌레 퇴치를 도와주세요!"
+51,TEXT_BANVAN202_02182_RANUVALI_000_011,"아마도, 아마도, 날벌레는 '오크 준두' 주변에서
 날아오는 것 같습니다.
 날벌레떼를 발견하면 사누와의 '돌풍'으로 날려주세요!"
-52,"TEXT_BANVAN202_02182_RANUVALI_000_012","'상인 루나바누' 씨에게 사정을 설명하면
+52,TEXT_BANVAN202_02182_RANUVALI_000_012,"'상인 루나바누' 씨에게 사정을 설명하면
 흔쾌히 사누와를 빌려줄 거예요.
 돋아나는 잎처럼 화려한 솜씨를 발휘해주세요!"
-53,"TEXT_BANVAN202_02182_RANUVALI_000_013","'오크 준두' 주변에 있는 날벌레떼를
+53,TEXT_BANVAN202_02182_RANUVALI_000_013,"'오크 준두' 주변에 있는 날벌레떼를
 사누와의 '돌풍'으로 날려주세요!
 루나바누 씨에게 말하면 사누와를 빌려줄 거예요!"
-54,"TEXT_BANVAN202_02182_LUNAVANU_000_020","……제가 키운 사누와로 날벌레를 퇴치하겠다고요?
+54,TEXT_BANVAN202_02182_LUNAVANU_000_020,"……제가 키운 사누와로 날벌레를 퇴치하겠다고요?
 좋아요, 좋아요, 얼마든지 타고 가십시오!
 이 녀석 '돌풍'이면 날벌레를 쓸어내는 건 간단하죠!"
-55,"TEXT_BANVAN202_02182_LUNAVANU_000_021","다시 사누와에 타고 싶으시면 제게 말씀하십시오.
+55,TEXT_BANVAN202_02182_LUNAVANU_000_021,"다시 사누와에 타고 싶으시면 제게 말씀하십시오.
 '날벌레떼' 따위, 거목을 꺾는 폭풍처럼
 강력한 '돌풍'으로 날려 버리면 됩니다!"
-56,"TEXT_BANVAN202_02182_RANUVALI_000_022","'오크 준두' 주변에 있는 날벌레떼를
+56,TEXT_BANVAN202_02182_RANUVALI_000_022,"'오크 준두' 주변에 있는 날벌레떼를
 사누와의 '돌풍'으로 날려주세요!
 루나바누 씨에게 말하면 사누와를 빌려줄 거예요!"
-57,"TEXT_BANVAN202_02182_SYSTEM_000_025","날벌레가 떼를 짓고 있다…….
+57,TEXT_BANVAN202_02182_SYSTEM_000_025,"날벌레가 떼를 짓고 있다…….
 '상인 루나바누'에게 말을 걸어 사누와에 올라탄 다음
 '돌풍'을 사용해 날벌레떼를 날려 보내자."
-58,"TEXT_BANVAN202_02182_RANUVALI_000_030","벌써, 벌써, 벌레를 쫓아내고 오셨군요!
+58,TEXT_BANVAN202_02182_RANUVALI_000_030,"벌써, 벌써, 벌레를 쫓아내고 오셨군요!
 밭에 꼬이는 날벌레가 정말 지긋지긋했어요!"
-59,"TEXT_BANVAN202_02182_RANUVALI_000_031","그 해충은 구덩이에 고이는 빗물처럼 모여들어
+59,TEXT_BANVAN202_02182_RANUVALI_000_031,"그 해충은 구덩이에 고이는 빗물처럼 모여들어
 밭 한둘쯤은 순식간에 망쳐 놓고 간답니다.
 그래서 급히 '돌풍'으로 날려 보내야 했어요."
-60,"TEXT_BANVAN202_02182_RANUVALI_000_032","'돌풍'을 맞으면 날벌레가 사누와가 있다는 걸 알고
+60,TEXT_BANVAN202_02182_RANUVALI_000_032,"'돌풍'을 맞으면 날벌레가 사누와가 있다는 걸 알고
 무서워서 저절로 밭을 멀리하게 되죠!"

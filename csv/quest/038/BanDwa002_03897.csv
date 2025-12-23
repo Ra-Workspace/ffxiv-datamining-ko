@@ -1,228 +1,226 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANDWA002_03897_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANDWA002_03897_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 와츠의 망치 작업장에 있는 로니트는 의논하고 싶은 일이 있는 듯하다."
-1,"TEXT_BANDWA002_03897_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+1,TEXT_BANDWA002_03897_SEQ_01,"※ 이 퀘스트에는
+ '**** 레벨 보정(직업 변경 제한)' 적용됩니다.
   퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
 
 로니트 일행과 얘기하던 도중에 코그 일가의 오조그가 나타나 우연히 개발에 참여하게 되었다. 모험가는 양조 설비를 건설하기 위해 오조그에게 협력 요청을 받았다. 와츠의 망치 작업장에 있는 '오조그'와 대화하자."
-2,"TEXT_BANDWA002_03897_SEQ_02","오조그와 대화했다. 와츠의 망치 작업장에 있는 '재료 조달 자동인형'과 대화하고 필요한 재료를 입수하자."
-3,"TEXT_BANDWA002_03897_SEQ_03","재료 조달 자동인형에게 재료를 받았다. 양조 설비 건설에 필요한 것을 준비하여 와츠의 망치 작업장에 있는 '오조그'에게 납품하자."
-4,"TEXT_BANDWA002_03897_SEQ_04","양조 설비 건설에 필요한 것을 오조그에게 건네 거점에 양조 설비가 완성되었다. 와츠의 망치 작업장에 있는 '오조그'와 대화하자."
-5,"TEXT_BANDWA002_03897_SEQ_05","오조그는 양조 설비에 코그 일가 비전의 장비를 도입한 듯하다. 이렇게 오조그의 재량 덕분에 무사히 연료 문제가 해결되었다. 계속해서 드워프 전차 제조에 협력하도록 하자."
-6,"TEXT_BANDWA002_03897_SEQ_06",""
-7,"TEXT_BANDWA002_03897_SEQ_07",""
-8,"TEXT_BANDWA002_03897_SEQ_08",""
-9,"TEXT_BANDWA002_03897_SEQ_09",""
-10,"TEXT_BANDWA002_03897_SEQ_10",""
-11,"TEXT_BANDWA002_03897_SEQ_11",""
-12,"TEXT_BANDWA002_03897_SEQ_12",""
-13,"TEXT_BANDWA002_03897_SEQ_13",""
-14,"TEXT_BANDWA002_03897_SEQ_14",""
-15,"TEXT_BANDWA002_03897_SEQ_15",""
-16,"TEXT_BANDWA002_03897_SEQ_16",""
-17,"TEXT_BANDWA002_03897_SEQ_17",""
-18,"TEXT_BANDWA002_03897_SEQ_18",""
-19,"TEXT_BANDWA002_03897_SEQ_19",""
-20,"TEXT_BANDWA002_03897_SEQ_20",""
-21,"TEXT_BANDWA002_03897_SEQ_21",""
-22,"TEXT_BANDWA002_03897_SEQ_22",""
-23,"TEXT_BANDWA002_03897_SEQ_23",""
-24,"TEXT_BANDWA002_03897_TODO_00","오조그와 대화"
-25,"TEXT_BANDWA002_03897_TODO_01","재료 조달 자동인형과 대화"
-26,"TEXT_BANDWA002_03897_TODO_02","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오조그에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오조그에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오조그에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오조그에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오조그에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오조그에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오조그에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오조그에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-27,"TEXT_BANDWA002_03897_TODO_03","오조그와 대화"
-28,"TEXT_BANDWA002_03897_TODO_04",""
-29,"TEXT_BANDWA002_03897_TODO_05",""
-30,"TEXT_BANDWA002_03897_TODO_06",""
-31,"TEXT_BANDWA002_03897_TODO_07",""
-32,"TEXT_BANDWA002_03897_TODO_08",""
-33,"TEXT_BANDWA002_03897_TODO_09",""
-34,"TEXT_BANDWA002_03897_TODO_10",""
-35,"TEXT_BANDWA002_03897_TODO_11",""
-36,"TEXT_BANDWA002_03897_TODO_12",""
-37,"TEXT_BANDWA002_03897_TODO_13",""
-38,"TEXT_BANDWA002_03897_TODO_14",""
-39,"TEXT_BANDWA002_03897_TODO_15",""
-40,"TEXT_BANDWA002_03897_TODO_16",""
-41,"TEXT_BANDWA002_03897_TODO_17",""
-42,"TEXT_BANDWA002_03897_TODO_18",""
-43,"TEXT_BANDWA002_03897_TODO_19",""
-44,"TEXT_BANDWA002_03897_TODO_20",""
-45,"TEXT_BANDWA002_03897_TODO_21",""
-46,"TEXT_BANDWA002_03897_TODO_22",""
-47,"TEXT_BANDWA002_03897_TODO_23",""
-48,"TEXT_BANDWA002_03897_RONITT_000_000","우리끼리는 해낼 수 없던 일이
+2,TEXT_BANDWA002_03897_SEQ_02,오조그와 대화했다. 와츠의 망치 작업장에 있는 '재료 조달 자동인형'과 대화하고 필요한 재료를 입수하자.
+3,TEXT_BANDWA002_03897_SEQ_03,재료 조달 자동인형에게 재료를 받았다. 양조 설비 건설에 필요한 것을 준비하여 와츠의 망치 작업장에 있는 '오조그'에게 납품하자.
+4,TEXT_BANDWA002_03897_SEQ_04,양조 설비 건설에 필요한 것을 오조그에게 건네 거점에 양조 설비가 완성되었다. 와츠의 망치 작업장에 있는 '오조그'와 대화하자.
+5,TEXT_BANDWA002_03897_SEQ_05,오조그는 양조 설비에 코그 일가 비전의 장비를 도입한 듯하다. 이렇게 오조그의 재량 덕분에 무사히 연료 문제가 해결되었다. 계속해서 드워프 전차 제조에 협력하도록 하자.
+6,TEXT_BANDWA002_03897_SEQ_06,
+7,TEXT_BANDWA002_03897_SEQ_07,
+8,TEXT_BANDWA002_03897_SEQ_08,
+9,TEXT_BANDWA002_03897_SEQ_09,
+10,TEXT_BANDWA002_03897_SEQ_10,
+11,TEXT_BANDWA002_03897_SEQ_11,
+12,TEXT_BANDWA002_03897_SEQ_12,
+13,TEXT_BANDWA002_03897_SEQ_13,
+14,TEXT_BANDWA002_03897_SEQ_14,
+15,TEXT_BANDWA002_03897_SEQ_15,
+16,TEXT_BANDWA002_03897_SEQ_16,
+17,TEXT_BANDWA002_03897_SEQ_17,
+18,TEXT_BANDWA002_03897_SEQ_18,
+19,TEXT_BANDWA002_03897_SEQ_19,
+20,TEXT_BANDWA002_03897_SEQ_20,
+21,TEXT_BANDWA002_03897_SEQ_21,
+22,TEXT_BANDWA002_03897_SEQ_22,
+23,TEXT_BANDWA002_03897_SEQ_23,
+24,TEXT_BANDWA002_03897_TODO_00,오조그와 대화
+25,TEXT_BANDWA002_03897_TODO_01,재료 조달 자동인형과 대화
+26,TEXT_BANDWA002_03897_TODO_02,제작수첩 우호부족 퀘스트: 제작
+27,TEXT_BANDWA002_03897_TODO_03,오조그와 대화
+28,TEXT_BANDWA002_03897_TODO_04,
+29,TEXT_BANDWA002_03897_TODO_05,
+30,TEXT_BANDWA002_03897_TODO_06,
+31,TEXT_BANDWA002_03897_TODO_07,
+32,TEXT_BANDWA002_03897_TODO_08,
+33,TEXT_BANDWA002_03897_TODO_09,
+34,TEXT_BANDWA002_03897_TODO_10,
+35,TEXT_BANDWA002_03897_TODO_11,
+36,TEXT_BANDWA002_03897_TODO_12,
+37,TEXT_BANDWA002_03897_TODO_13,
+38,TEXT_BANDWA002_03897_TODO_14,
+39,TEXT_BANDWA002_03897_TODO_15,
+40,TEXT_BANDWA002_03897_TODO_16,
+41,TEXT_BANDWA002_03897_TODO_17,
+42,TEXT_BANDWA002_03897_TODO_18,
+43,TEXT_BANDWA002_03897_TODO_19,
+44,TEXT_BANDWA002_03897_TODO_20,
+45,TEXT_BANDWA002_03897_TODO_21,
+46,TEXT_BANDWA002_03897_TODO_22,
+47,TEXT_BANDWA002_03897_TODO_23,
+48,TEXT_BANDWA002_03897_RONITT_000_000,"우리끼리는 해낼 수 없던 일이
 네 덕분에 하나씩 해결되고 있는 중이야!
 역시 넌 엄청난 녀석이다! 고마워!"
-49,"TEXT_BANDWA002_03897_RONITT_000_001","이 몸도 차체, 발동기, 변속기 등등……
+49,TEXT_BANDWA002_03897_RONITT_000_001,"이 몸도 차체, 발동기, 변속기 등등……
 생각해야 하는 것들은 산더미처럼 쌓여 있지만,
 이것저것 시도해보면서 시행착오를 거듭하고 있는 중이야."
-50,"TEXT_BANDWA002_03897_RONITT_000_002","그런데 말이지, 무엇보다도 '연료'가 가장 큰 문제라서…….
+50,TEXT_BANDWA002_03897_RONITT_000_002,"그런데 말이지, 무엇보다도 '연료'가 가장 큰 문제라서…….
 마침 지금 다 같이 모여서 의논을 하려던 참이야.
 너도 우리 동료니까 회의에 참가해주면 좋을 것 같아!"
-51,"TEXT_BANDWA002_03897_RONITT_000_010","문제는 연료의 연소 효율이야.
+51,TEXT_BANDWA002_03897_RONITT_000_010,"문제는 연료의 연소 효율이야.
 자동인형의 연료로 사용되는 '청석탄'으로는
 무거운 전차를 움직일 수 없다는 계산 결과가 나왔거든."
-52,"TEXT_BANDWA002_03897_KARUTT_000_011","극적인 경량화는 어렵단 말이다니…….
+52,TEXT_BANDWA002_03897_KARUTT_000_011,"극적인 경량화는 어렵단 말이다니…….
 죄식자의 공격을 막기 위한 장갑, 적재 수하물의 중량……
 어느 것도 줄일 수가 없는데 말이다니!"
-53,"TEXT_BANDWA002_03897_KARUTT_000_012","그런데 말이야 아까부터……."
-54,"TEXT_BANDWA002_03897_REGITT_000_013","무슨 시선이 느껴져라리…….
+53,TEXT_BANDWA002_03897_KARUTT_000_012,그런데 말이야 아까부터…….
+54,TEXT_BANDWA002_03897_REGITT_000_013,"무슨 시선이 느껴져라리…….
 설마 좀도둑 '홉고블린'라리?"
-55,"TEXT_BANDWA002_03897_OZOGG_000_014","(-???-)누가 홉고블린이래!! 얍!!!"
-56,"TEXT_BANDWA002_03897_OZOGG_000_015","이봐, 이봐, 이봐! 로니트!
+55,TEXT_BANDWA002_03897_OZOGG_000_014,(-???-)누가 홉고블린이래!! 얍!!!
+56,TEXT_BANDWA002_03897_OZOGG_000_015,"이봐, 이봐, 이봐! 로니트!
 와츠 직계 후손인 나…… 코그 일가의 오조그와
 '와츠의 망치'를 걸고 한판 붙자!"
-57,"TEXT_BANDWA002_03897_RONITT_000_016","뭐어!?
+57,TEXT_BANDWA002_03897_RONITT_000_016,"뭐어!?
 가, 갑자기 누구냐, 넌!?
 와츠의 후손은 이 몸이란 말이다…… 으, 으럅!"
-58,"TEXT_BANDWA002_03897_RONITT_000_020","그리고 지금은 '드워프 전차' 개발 때문에 아주 바빠!
+58,TEXT_BANDWA002_03897_RONITT_000_020,"그리고 지금은 '드워프 전차' 개발 때문에 아주 바빠!
 뻣뻣한 수염을 상대할 시간이 없단 말이다!"
-59,"TEXT_BANDWA002_03897_OZOGG_000_021","앗…… 드워프 전차…………?
+59,TEXT_BANDWA002_03897_OZOGG_000_021,"앗…… 드워프 전차…………?
 뭐야, 그게? 재미있겠다!!!"
-60,"TEXT_BANDWA002_03897_OZOGG_000_022","아, 아냐, 아냐………… 현혹되면 안 돼!
+60,TEXT_BANDWA002_03897_OZOGG_000_022,"아, 아냐, 아냐………… 현혹되면 안 돼!
 아무튼 너도 와츠의 후손이라면
 도망치지 말고 정정당당히 붙어라!"
-61,"TEXT_BANDWA002_03897_RONITT_000_024","도망칠 생각은 없다.
+61,TEXT_BANDWA002_03897_RONITT_000_024,"도망칠 생각은 없다.
 ……뭐, 드워프 전차 개발이 '빨리 끝나면'
 그 대결을 받아줄 수도 있고."
-62,"TEXT_BANDWA002_03897_OZOGG_000_027","그…… 그렇구나, 아, 그래, 알았어."
-63,"TEXT_BANDWA002_03897_OZOGG_000_028","그러니까 결국 그거구나.
+62,TEXT_BANDWA002_03897_OZOGG_000_027,"그…… 그렇구나, 아, 그래, 알았어."
+63,TEXT_BANDWA002_03897_OZOGG_000_028,"그러니까 결국 그거구나.
 코그 일가의 실력 있는 장인인 내 도움이 필요하다 이거지?"
-64,"TEXT_BANDWA002_03897_OZOGG_000_029","어, 어, 어쩔 수 없지!
+64,TEXT_BANDWA002_03897_OZOGG_000_029,"어, 어, 어쩔 수 없지!
 그렇게까지 말한다면 너희들의 제작을 도와줄 수도 있어!
 재미있…… 아니, '와츠의 망치'를 위해 어쩔 수 없으니 말이야!"
-65,"TEXT_BANDWA002_03897_KARUTT_000_030","너무 쉬운 녀석이다다니……."
-66,"TEXT_BANDWA002_03897_RONITT_000_031","그래, 잘 부탁한다!
+65,TEXT_BANDWA002_03897_KARUTT_000_030,너무 쉬운 녀석이다다니…….
+66,TEXT_BANDWA002_03897_RONITT_000_031,"그래, 잘 부탁한다!
 그래서 넌 정말로 제작을 할 수 있기는 한 거야?"
-67,"TEXT_BANDWA002_03897_OZOGG_000_032","이봐, 이봐, 이봐, 코그 일가의 오조그 님을 얕보지 말라고!
+67,TEXT_BANDWA002_03897_OZOGG_000_032,"이봐, 이봐, 이봐, 코그 일가의 오조그 님을 얕보지 말라고!
 너희들 연료가 필요하지?"
-68,"TEXT_BANDWA002_03897_OZOGG_000_033","……하지만 나도 호락호락 기술을 제공할 정도로 바보는 아니야!
+68,TEXT_BANDWA002_03897_OZOGG_000_033,"……하지만 나도 호락호락 기술을 제공할 정도로 바보는 아니야!
 연료를 준비해줄 테니 그 대신 맛있는 술을 준비해라.
 이곳에는 드워프족의 건강의 원천인…… 술이 없으니까!"
-69,"TEXT_BANDWA002_03897_KARUTT_000_035","그건 확실히 일리가 있다니.
+69,TEXT_BANDWA002_03897_KARUTT_000_035,"그건 확실히 일리가 있다니.
 맛있는 술이 있으면 모두의 의욕이 100배로 오른다니!
 내가 술을 만들겠다니!"
-70,"TEXT_BANDWA002_03897_KARUTT_000_036","아…… 하지만 술을 만들 도구나 시설이 여기에는 없다니……."
-71,"TEXT_BANDWA002_03897_OZOGG_000_037","그건 나한테 맡겨, 꼬맹이!
+70,TEXT_BANDWA002_03897_KARUTT_000_036,아…… 하지만 술을 만들 도구나 시설이 여기에는 없다니…….
+71,TEXT_BANDWA002_03897_OZOGG_000_037,"그건 나한테 맡겨, 꼬맹이!
 비장의 술을 만들 수 있는 '양조 설비'를 설계해 주지!"
-72,"TEXT_BANDWA002_03897_OZOGG_000_038","어이, 거기 너도 좀 도와!"
-73,"TEXT_BANDWA002_03897_RONITT_000_039","이 일에 끌어들여서 미안하지만……
+72,TEXT_BANDWA002_03897_OZOGG_000_038,"어이, 거기 너도 좀 도와!"
+73,TEXT_BANDWA002_03897_RONITT_000_039,"이 일에 끌어들여서 미안하지만……
 '양조 설비'를 만드는 일에 협력해주길 바라.
 그동안 차체 개발을 진행하고 있을 테니까!"
-74,"TEXT_BANDWA002_03897_OZOGG_000_040","양조 설비는 저 계단 위에 만드는 게 좋겠지.
+74,TEXT_BANDWA002_03897_OZOGG_000_040,"양조 설비는 저 계단 위에 만드는 게 좋겠지.
 그럼 난 위에서 설계에 착수할 테니까
 준비가 되면 말을 걸어!"
-75,"TEXT_BANDWA002_03897_OZOGG_000_050","오, 왔군!
+75,TEXT_BANDWA002_03897_OZOGG_000_050,"오, 왔군!
 네가 일하는 모습을 몰래 감시하고 있었는데,
 상당히 실력이 좋길래 점찍어 놓고 있었다!"
-76,"TEXT_BANDWA002_03897_OZOGG_000_051","부디 양조 설비의 핵심 부품을 만들어줬으면 한다!
+76,TEXT_BANDWA002_03897_OZOGG_000_051,"부디 양조 설비의 핵심 부품을 만들어줬으면 한다!
 어설픈 녀석에게 맡기면 술도 맛이 없어지거든.
 설계는 내가 할 테니, 미안하지만 네 힘을 빌려줘야겠어!"
-77,"TEXT_BANDWA002_03897_OZOGG_000_052","그럼 <Sheet(ClassJob,PlayerParameter(68),0)/>인 너는 이것!
-술 제조에 반드시 필요한 '<Sheet(Item,31139,0)/>'<13>FF0F02280BFF054974656DF279A30103FF04EBA5BCFF04EC9D84</13> 만들어줬으면 한다!
+77,TEXT_BANDWA002_03897_OZOGG_000_052,"그럼 인 너는 이것!
+술 제조에 반드시 필요한 '' 만들어줬으면 한다!
 금속제 양조 탱크가 필요해!"
-78,"TEXT_BANDWA002_03897_OZOGG_000_053","그럼 <Sheet(ClassJob,PlayerParameter(68),0)/>인 너는 이것!
-술 제조에 반드시 필요한 '<Sheet(Item,31139,0)/>'<13>FF0F02280BFF054974656DF279A30103FF04EBA5BCFF04EC9D84</13> 만들어줬으면 한다!
+78,TEXT_BANDWA002_03897_OZOGG_000_053,"그럼 인 너는 이것!
+술 제조에 반드시 필요한 '' 만들어줬으면 한다!
 불순물을 제거해주는 여과기와 숙성에 쓸 통이 필요하다!"
-79,"TEXT_BANDWA002_03897_OZOGG_000_054","그럼 <Sheet(ClassJob,PlayerParameter(68),0)/>인 너는 이것!
-술 제조에 반드시 필요한 '<Sheet(Item,31139,0)/>'<13>FF0F02280BFF054974656DF279A30103FF04EBA5BCFF04EC9D84</13> 만들어주길 바란다!
+79,TEXT_BANDWA002_03897_OZOGG_000_054,"그럼 인 너는 이것!
+술 제조에 반드시 필요한 '' 만들어주길 바란다!
 특히 효모가 중요하니까 제대로 배양해라!"
-80,"TEXT_BANDWA002_03897_OZOGG_000_055","제작에 필요한 재료는 그러니까…………"
-81,"TEXT_BANDWA002_03897_KARUTT_000_056","아래쪽 자재 보관소에 있는
+80,TEXT_BANDWA002_03897_OZOGG_000_055,제작에 필요한 재료는 그러니까…………
+81,TEXT_BANDWA002_03897_KARUTT_000_056,"아래쪽 자재 보관소에 있는
 '재료 조달 자동인형'에서 꺼내쓰면 된다니……!
 재료가 부족해졌을 때도 자유롭게 사용하길 바란다니."
-82,"TEXT_BANDWA002_03897_OZOGG_000_057","자, 그럼 잘 부탁한다!
+82,TEXT_BANDWA002_03897_OZOGG_000_057,"자, 그럼 잘 부탁한다!
 엄청난 걸 만들어서 모두를 깜짝 놀라게 해주자!"
-83,"TEXT_BANDWA002_03897_KARUTT_000_058","나도 눈이 튀어나올 만큼 맛있는 술을 만들 거다니!
+83,TEXT_BANDWA002_03897_KARUTT_000_058,"나도 눈이 튀어나올 만큼 맛있는 술을 만들 거다니!
 같이 노력하자다니!"
-84,"TEXT_BANDWA002_03897_OZOGG_000_059","응, 재료가 필요하다고?
+84,TEXT_BANDWA002_03897_OZOGG_000_059,"응, 재료가 필요하다고?
 아래쪽 '재료 조달 자동인형'에서 꺼내 쓰면 되나 보던데?"
-85,"TEXT_BANDWA002_03897_OZOGG_000_060","응, 재료가 필요하다고?
+85,TEXT_BANDWA002_03897_OZOGG_000_060,"응, 재료가 필요하다고?
 아래쪽 '재료 조달 자동인형'에서 꺼내 쓰면 되나 보던데?"
-86,"TEXT_BANDWA002_03897_OZOGG_000_061","응, 재료가 필요하다고?
+86,TEXT_BANDWA002_03897_OZOGG_000_061,"응, 재료가 필요하다고?
 아래쪽 '재료 조달 자동인형'에서 꺼내 쓰면 되나 보던데?"
-87,"TEXT_BANDWA002_03897_KARUTT_000_062","나는 술 만드는 일이 제일 좋다니~!"
-88,"TEXT_BANDWA002_03897_AUTOMATON_000_070","삐삐……."
-89,"TEXT_BANDWA002_03897_AUTOMATON_000_071","삐삐……."
-90,"TEXT_BANDWA002_03897_AUTOMATON_000_072","삐삐……."
-91,"TEXT_BANDWA002_03897_AUTOMATON_000_073","삐삐…… 재료 필요해?
+87,TEXT_BANDWA002_03897_KARUTT_000_062,나는 술 만드는 일이 제일 좋다니~!
+88,TEXT_BANDWA002_03897_AUTOMATON_000_070,삐삐…….
+89,TEXT_BANDWA002_03897_AUTOMATON_000_071,삐삐…….
+90,TEXT_BANDWA002_03897_AUTOMATON_000_072,삐삐…….
+91,TEXT_BANDWA002_03897_AUTOMATON_000_073,"삐삐…… 재료 필요해?
 가져가ー."
-92,"TEXT_BANDWA002_03897_AUTOMATON_000_074","삐삐…… 재료 필요해?
+92,TEXT_BANDWA002_03897_AUTOMATON_000_074,"삐삐…… 재료 필요해?
 가져가ー."
-93,"TEXT_BANDWA002_03897_AUTOMATON_000_075","삐삐…… 재료 필요해?
+93,TEXT_BANDWA002_03897_AUTOMATON_000_075,"삐삐…… 재료 필요해?
 가져가ー."
-94,"TEXT_BANDWA002_03897_OZOGG_000_080","뭐야…… 부탁한 물건을 벌써 완성했나?"
-95,"TEXT_BANDWA002_03897_OZOGG_000_081","엄청나군…… 정말 놀라워!
+94,TEXT_BANDWA002_03897_OZOGG_000_080,뭐야…… 부탁한 물건을 벌써 완성했나?
+95,TEXT_BANDWA002_03897_OZOGG_000_081,"엄청나군…… 정말 놀라워!
 역시 내가 눈여겨본 인물답군!
 이게 있으면 최고의 양조 설비를 완성할 수 있어!"
-96,"TEXT_BANDWA002_03897_KARUTT_000_082","양조 설비를 완성하면
+96,TEXT_BANDWA002_03897_KARUTT_000_082,"양조 설비를 완성하면
 당장 내가 맛있는 술을 만들겠다니~!
 이 근처의 재료를 활용한 술 레시피도 생각해놨다니!"
-97,"TEXT_BANDWA002_03897_OZOGG_000_084","오오, 그거 좋군!
+97,TEXT_BANDWA002_03897_OZOGG_000_084,"오오, 그거 좋군!
 그럼 어서 공사를 시작하도록 하자!
 ……역시 제작은 최고로 즐거워!"
-98,"TEXT_BANDWA002_03897_OZOGG_000_085","（★未使用／削除予定★）"
-99,"TEXT_BANDWA002_03897_RONITT_000_091","（★未使用／削除予定★）"
-100,"TEXT_BANDWA002_03897_REGITT_000_100","(-레기트와 카루트-)건배, 라리호, 한 잔 더~♪"
-101,"TEXT_BANDWA002_03897_SYSTEM_000_101","코그 일가의 오조그의 감독과 설계하에
+98,TEXT_BANDWA002_03897_OZOGG_000_085,（★未使用／削除予定★）
+99,TEXT_BANDWA002_03897_RONITT_000_091,（★未使用／削除予定★）
+100,TEXT_BANDWA002_03897_REGITT_000_100,"(-레기트와 카루트-)건배, 라리호, 한 잔 더~♪"
+101,TEXT_BANDWA002_03897_SYSTEM_000_101,"코그 일가의 오조그의 감독과 설계하에
 '와츠의 망치 작업장'에 양조 설비가 증설되었다!"
-102,"TEXT_BANDWA002_03897_SYSTEM_000_102","로니트도 동료들이 즐겁게 떠들며 노는 모습을 지켜보면서
+102,TEXT_BANDWA002_03897_SYSTEM_000_102,"로니트도 동료들이 즐겁게 떠들며 노는 모습을 지켜보면서
 시제품 차량 개발을 진행하고 있었던 듯하다!
 남아 있는 문제는 연료와 엔진인데……."
-103,"TEXT_BANDWA002_03897_OZOGG_100_110","네 덕분에 훌륭한 양조 설비가 완성되었어!
+103,TEXT_BANDWA002_03897_OZOGG_100_110,"네 덕분에 훌륭한 양조 설비가 완성되었어!
 벌써 꼬맹이가 특별히 만들어준 술을 마시고 있지!"
-104,"TEXT_BANDWA002_03897_OZOGG_000_110","캬하~!
+104,TEXT_BANDWA002_03897_OZOGG_000_110,"캬하~!
 이 술, 맛이 아주 괜찮군♪
 솔직히 콤라 마을의 술보다 맛있을지도!"
-105,"TEXT_BANDWA002_03897_KARUTT_000_111","에헤헤, 정말이다니?
-이게 다 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EC9980FF04EAB3BC</13> 오조그가
+105,TEXT_BANDWA002_03897_KARUTT_000_111,"에헤헤, 정말이다니?
+이게 다 Player Player 오조그가
 양조 설비를 만들어준 덕분이다니!"
-106,"TEXT_BANDWA002_03897_RONITT_000_112","이봐, 너!
+106,TEXT_BANDWA002_03897_RONITT_000_112,"이봐, 너!
 정작 가장 중요한 연료 해결책은 정말로 있는 거야!?"
-107,"TEXT_BANDWA002_03897_OZOGG_000_113","그야, 당연하지!
+107,TEXT_BANDWA002_03897_OZOGG_000_113,"그야, 당연하지!
 이 양조 설비를 누가 설계했는데!
 잘 보고 있으라고!"
-108,"TEXT_BANDWA002_03897_REGITT_000_114","어랏?
+108,TEXT_BANDWA002_03897_REGITT_000_114,"어랏?
 그러고 보니 저 탱크, 대체 뭐에 사용하는 거야라리?"
-109,"TEXT_BANDWA002_03897_OZOGG_000_115","용케 발견했군!
+109,TEXT_BANDWA002_03897_OZOGG_000_115,"용케 발견했군!
 저것이야말로 우리 코그 일가가 개발한 최신식 연료,
 드워프 에탄올 정제 장치란 것!"
-110,"TEXT_BANDWA002_03897_OZOGG_000_116","마른풀 같은 걸 발효시켜서
+110,TEXT_BANDWA002_03897_OZOGG_000_116,"마른풀 같은 걸 발효시켜서
 저 특수한 장치로 증류를 반복하면
 연료로 이용 가능한 고순도 주정을 만들 수 있지!"
-111,"TEXT_BANDWA002_03897_OZOGG_000_117","어떠냐, 약하고 북실북실한 수염을 가진 토르 녀석들!
+111,TEXT_BANDWA002_03897_OZOGG_000_117,"어떠냐, 약하고 북실북실한 수염을 가진 토르 녀석들!
 다시 봤느냐!! 하하핫……"
-112,"TEXT_BANDWA002_03897_RONITT_000_118","너, 너어어ーーーー!!
+112,TEXT_BANDWA002_03897_RONITT_000_118,"너, 너어어ーーーー!!
 대단해애ーーーー!!
 처음부터 이걸 만들 생각이었구나!"
-113,"TEXT_BANDWA002_03897_REGITT_000_119","솔직히 이렇게까지 쓸모 있을 줄은 몰랐어라리….
+113,TEXT_BANDWA002_03897_REGITT_000_119,"솔직히 이렇게까지 쓸모 있을 줄은 몰랐어라리….
 코그 일가의 오조그…… 여간내기가 아니구나라리."
-114,"TEXT_BANDWA002_03897_OZOGG_000_120","뭐, 뭐야…… 쑥스럽잖아!
+114,TEXT_BANDWA002_03897_OZOGG_000_120,"뭐, 뭐야…… 쑥스럽잖아!
 하지만 말이지, 이거라면 청석탄보다 힘도 세고
 연소 효율도 좋다고!"
-115,"TEXT_BANDWA002_03897_RONITT_000_121","그래, 실제로 시험해보지 않으면 모르겠지만,
+115,TEXT_BANDWA002_03897_RONITT_000_121,"그래, 실제로 시험해보지 않으면 모르겠지만,
 잘만 하면 드워프 전차를 곧 실용화시킬 수 있겠어!
 고마워, 오조그!"
-116,"TEXT_BANDWA002_03897_OZOGG_000_122","감사 인사는 <Highlight>ObjectParameter(1)</Highlight>에게도 해줘.
+116,TEXT_BANDWA002_03897_OZOGG_000_122,"감사 인사는 Player Player에게도 해줘.
 이 녀석의 뛰어난 기술이 없었다면 절대로 완성할 수 없었을 거야."
-117,"TEXT_BANDWA002_03897_RONITT_000_123","헤헷, 물론이지!
+117,TEXT_BANDWA002_03897_RONITT_000_123,"헤헷, 물론이지!
 역시 넌 엄청 믿음직스러운 녀석이야!
-고마워, <Highlight>ObjectParameter(1)</Highlight>!"
-118,"TEXT_BANDWA002_03897_KARUTT_000_086","처음 와본 땅에서 만드는 술, 아이디어가 마구 샘솟는다니~!"
-119,"TEXT_BANDWA002_03897_OZOGG_000_087","（★未使用／削除予定★）"
-120,"TEXT_BANDWA002_03897_SYSTEM_000_130","'와츠의 망치 작업장'과의 우호 관계가 '신뢰'로 바뀌었습니다.
+고마워, Player Player!"
+118,TEXT_BANDWA002_03897_KARUTT_000_086,"처음 와본 땅에서 만드는 술, 아이디어가 마구 샘솟는다니~!"
+119,TEXT_BANDWA002_03897_OZOGG_000_087,（★未使用／削除予定★）
+120,TEXT_BANDWA002_03897_SYSTEM_000_130,"'와츠의 망치 작업장'과의 우호 관계가 '신뢰'로 바뀌었습니다.
 양조 설비 제작에 힘을 보탬으로써 신뢰를 얻은 듯합니다."
-121,"TEXT_BANDWA002_03897_SYSTEM_000_131","앞으로 와츠의 망치 작업장에 있는 '레기트'에게
+121,TEXT_BANDWA002_03897_SYSTEM_000_131,"앞으로 와츠의 망치 작업장에 있는 '레기트'에게
 새로운 '우호부족 일일 퀘스트'를 받을 수 있습니다."
-122,"TEXT_BANDWA002_03897_SYSTEM_000_132","또, 우호 단계가 상승한 당일에 한해
+122,TEXT_BANDWA002_03897_SYSTEM_000_132,"또, 우호 단계가 상승한 당일에 한해
 '레기트'에게 일일 퀘스트를 3회 더 받을 수 있습니다."
-123,"TEXT_BANDWA002_03897_SYSTEM_000_133","우호 단계가 상승하기 전에 발행된 일일 퀘스트를
+123,TEXT_BANDWA002_03897_SYSTEM_000_133,"우호 단계가 상승하기 전에 발행된 일일 퀘스트를
 모두 수주하면 추가분이 발행됩니다.
 수주권이 남아있으면 이를 수주할 수 있습니다."
-124,"TEXT_BANDWA002_03897_SYSTEM_000_134","또 '미주트'에게서 구입할 수 있는
+124,TEXT_BANDWA002_03897_SYSTEM_000_134,"또 '미주트'에게서 구입할 수 있는
 아이템이 늘어났습니다.
 앞으로 모험에 활용해보세요!"

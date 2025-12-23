@@ -1,106 +1,104 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANVAN105_02175_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANVAN105_02175_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 나키 섬의 무나바누는 모험가가 식량 조달을 도와주기 바라는 듯하다."
-1,"TEXT_BANVAN105_02175_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+1,TEXT_BANVAN105_02175_SEQ_01,"※ 이 퀘스트에는
+ '**** 레벨 보정(직업 변경 제한)' 적용됩니다.
    퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
 
 무나바누가 식량 조달을 도와달라고 부탁했다. 자세한 설명을 듣기 위해, 나키 섬에 있는 '상인 루나바누'와 대화하자."
-2,"TEXT_BANVAN105_02175_SEQ_02","루나바누에게 설명을 들었다. 사누와의 돌풍을 이용해 식용 벌레를 둥지 밖으로 유인해달라고 한다. 사누와에 올라탄 상태로 '수난의 섬'에 있는 <Sheet(EObj,2006655,0)/>에 '돌풍'을 사용하자.
+2,TEXT_BANVAN105_02175_SEQ_02,"루나바누에게 설명을 들었다. 사누와의 돌풍을 이용해 식용 벌레를 둥지 밖으로 유인해달라고 한다. 사누와에 올라탄 상태로 '수난의 섬'에 있는 에 '돌풍'을 사용하자.
 
 ※ 나키 섬에 있는 '상인 루나바누'에게 말을 걸면 '사누와'에 탑승할 수 있습니다."
-3,"TEXT_BANVAN105_02175_SEQ_03","사누와의 돌풍을 맞고 나온 식용 벌레를 루나바누가 포획했다. 사누와에 올라탄 상태로 다시 '수난의 섬'에 있는 <Sheet(EObj,2006656,0)/>에 '돌풍'을 사용하자.
+3,TEXT_BANVAN105_02175_SEQ_03,"사누와의 돌풍을 맞고 나온 식용 벌레를 루나바누가 포획했다. 사누와에 올라탄 상태로 다시 '수난의 섬'에 있는 에 '돌풍'을 사용하자.
 
 ※ 나키 섬에 있는 '상인 루나바누'에게 말을 걸면 '사누와'에 탑승할 수 있습니다."
-4,"TEXT_BANVAN105_02175_SEQ_04","사누와의 돌풍을 맞고 나온 식용 벌레를 다시 루나바누가 포획했다. 사누와에 올라탄 상태로 다시 한번 '수난의 섬'에 있는 <Sheet(EObj,2006657,0)/>에 '돌풍'을 사용하자.
+4,TEXT_BANVAN105_02175_SEQ_04,"사누와의 돌풍을 맞고 나온 식용 벌레를 다시 루나바누가 포획했다. 사누와에 올라탄 상태로 다시 한번 '수난의 섬'에 있는 에 '돌풍'을 사용하자.
 
 ※ 나키 섬에 있는 '상인 루나바누'에게 말을 걸면 '사누와'에 탑승할 수 있습니다."
-5,"TEXT_BANVAN105_02175_SEQ_05","사누와의 돌풍을 맞고 나온 식용 벌레를 다시 한번 루나바누가 포획했다. 나키 섬에 있는 '무나바누'에게 보고하자."
-6,"TEXT_BANVAN105_02175_SEQ_06","무나바누에게 보고했다. 이번에 포획한 벌레는 꿀처럼 달고 맛있었다고 한다. 그는 모험가에게 나눠주지 않고 다 먹어버린 것을 사과했다……."
-7,"TEXT_BANVAN105_02175_SEQ_07",""
-8,"TEXT_BANVAN105_02175_SEQ_08",""
-9,"TEXT_BANVAN105_02175_SEQ_09",""
-10,"TEXT_BANVAN105_02175_SEQ_10",""
-11,"TEXT_BANVAN105_02175_SEQ_11",""
-12,"TEXT_BANVAN105_02175_SEQ_12",""
-13,"TEXT_BANVAN105_02175_SEQ_13",""
-14,"TEXT_BANVAN105_02175_SEQ_14",""
-15,"TEXT_BANVAN105_02175_SEQ_15",""
-16,"TEXT_BANVAN105_02175_SEQ_16",""
-17,"TEXT_BANVAN105_02175_SEQ_17",""
-18,"TEXT_BANVAN105_02175_SEQ_18",""
-19,"TEXT_BANVAN105_02175_SEQ_19",""
-20,"TEXT_BANVAN105_02175_SEQ_20",""
-21,"TEXT_BANVAN105_02175_SEQ_21",""
-22,"TEXT_BANVAN105_02175_SEQ_22",""
-23,"TEXT_BANVAN105_02175_SEQ_23",""
-24,"TEXT_BANVAN105_02175_TODO_00","상인 루나바누와 대화"
-25,"TEXT_BANVAN105_02175_TODO_01","사누와에 탑승하여 <Sheet(EObj,2006655,0)/>에 돌풍 사용"
-26,"TEXT_BANVAN105_02175_TODO_02","사누와에 탑승하여 다시 <Sheet(EObj,2006656,0)/>에 돌풍 사용"
-27,"TEXT_BANVAN105_02175_TODO_03","사누와에 탑승하여 다시 한번 <Sheet(EObj,2006657,0)/>에 돌풍 사용"
-28,"TEXT_BANVAN105_02175_TODO_04","무나바누에게 보고"
-29,"TEXT_BANVAN105_02175_TODO_05",""
-30,"TEXT_BANVAN105_02175_TODO_06",""
-31,"TEXT_BANVAN105_02175_TODO_07",""
-32,"TEXT_BANVAN105_02175_TODO_08",""
-33,"TEXT_BANVAN105_02175_TODO_09",""
-34,"TEXT_BANVAN105_02175_TODO_10",""
-35,"TEXT_BANVAN105_02175_TODO_11",""
-36,"TEXT_BANVAN105_02175_TODO_12",""
-37,"TEXT_BANVAN105_02175_TODO_13",""
-38,"TEXT_BANVAN105_02175_TODO_14",""
-39,"TEXT_BANVAN105_02175_TODO_15",""
-40,"TEXT_BANVAN105_02175_TODO_16",""
-41,"TEXT_BANVAN105_02175_TODO_17",""
-42,"TEXT_BANVAN105_02175_TODO_18",""
-43,"TEXT_BANVAN105_02175_TODO_19",""
-44,"TEXT_BANVAN105_02175_TODO_20",""
-45,"TEXT_BANVAN105_02175_TODO_21",""
-46,"TEXT_BANVAN105_02175_TODO_22",""
-47,"TEXT_BANVAN105_02175_TODO_23",""
-48,"TEXT_BANVAN105_02175_MUNAVANU_000_000","<Highlight>ObjectParameter(1)</Highlight> 님, 잘 오셨습니다.
+5,TEXT_BANVAN105_02175_SEQ_05,사누와의 돌풍을 맞고 나온 식용 벌레를 다시 한번 루나바누가 포획했다. 나키 섬에 있는 '무나바누'에게 보고하자.
+6,TEXT_BANVAN105_02175_SEQ_06,무나바누에게 보고했다. 이번에 포획한 벌레는 꿀처럼 달고 맛있었다고 한다. 그는 모험가에게 나눠주지 않고 다 먹어버린 것을 사과했다…….
+7,TEXT_BANVAN105_02175_SEQ_07,
+8,TEXT_BANVAN105_02175_SEQ_08,
+9,TEXT_BANVAN105_02175_SEQ_09,
+10,TEXT_BANVAN105_02175_SEQ_10,
+11,TEXT_BANVAN105_02175_SEQ_11,
+12,TEXT_BANVAN105_02175_SEQ_12,
+13,TEXT_BANVAN105_02175_SEQ_13,
+14,TEXT_BANVAN105_02175_SEQ_14,
+15,TEXT_BANVAN105_02175_SEQ_15,
+16,TEXT_BANVAN105_02175_SEQ_16,
+17,TEXT_BANVAN105_02175_SEQ_17,
+18,TEXT_BANVAN105_02175_SEQ_18,
+19,TEXT_BANVAN105_02175_SEQ_19,
+20,TEXT_BANVAN105_02175_SEQ_20,
+21,TEXT_BANVAN105_02175_SEQ_21,
+22,TEXT_BANVAN105_02175_SEQ_22,
+23,TEXT_BANVAN105_02175_SEQ_23,
+24,TEXT_BANVAN105_02175_TODO_00,상인 루나바누와 대화
+25,TEXT_BANVAN105_02175_TODO_01,사누와에 탑승하여 에 돌풍 사용
+26,TEXT_BANVAN105_02175_TODO_02,사누와에 탑승하여 다시 에 돌풍 사용
+27,TEXT_BANVAN105_02175_TODO_03,사누와에 탑승하여 다시 한번 에 돌풍 사용
+28,TEXT_BANVAN105_02175_TODO_04,무나바누에게 보고
+29,TEXT_BANVAN105_02175_TODO_05,
+30,TEXT_BANVAN105_02175_TODO_06,
+31,TEXT_BANVAN105_02175_TODO_07,
+32,TEXT_BANVAN105_02175_TODO_08,
+33,TEXT_BANVAN105_02175_TODO_09,
+34,TEXT_BANVAN105_02175_TODO_10,
+35,TEXT_BANVAN105_02175_TODO_11,
+36,TEXT_BANVAN105_02175_TODO_12,
+37,TEXT_BANVAN105_02175_TODO_13,
+38,TEXT_BANVAN105_02175_TODO_14,
+39,TEXT_BANVAN105_02175_TODO_15,
+40,TEXT_BANVAN105_02175_TODO_16,
+41,TEXT_BANVAN105_02175_TODO_17,
+42,TEXT_BANVAN105_02175_TODO_18,
+43,TEXT_BANVAN105_02175_TODO_19,
+44,TEXT_BANVAN105_02175_TODO_20,
+45,TEXT_BANVAN105_02175_TODO_21,
+46,TEXT_BANVAN105_02175_TODO_22,
+47,TEXT_BANVAN105_02175_TODO_23,
+48,TEXT_BANVAN105_02175_MUNAVANU_000_000,"Player Player 님, 잘 오셨습니다.
 실은, 실은, 상인 루나바누가
 당신의 힘을 빌리고 싶다는군요."
-49,"TEXT_BANVAN105_02175_MUNAVANU_000_001","식량을 조달하는 데 도움이 필요한가 봅니다.
+49,TEXT_BANVAN105_02175_MUNAVANU_000_001,"식량을 조달하는 데 도움이 필요한가 봅니다.
 괜찮으시면, 루나바누의 부탁을 들어주시겠습니까?
 스쳐 지나가는 선선한 바람처럼 부탁드리겠습니다."
-50,"TEXT_BANVAN105_02175_LUNAVANU_000_010","정말로, 정말로, 도와주신단 말씀입니까?
+50,TEXT_BANVAN105_02175_LUNAVANU_000_010,"정말로, 정말로, 도와주신단 말씀입니까?
 풍성하게 열매를 맺은 나무처럼 감사드립니다!"
-51,"TEXT_BANVAN105_02175_LUNAVANU_000_011","그럼 식용 벌레를 잡는 일을 도와주셨으면 합니다.
+51,TEXT_BANVAN105_02175_LUNAVANU_000_011,"그럼 식용 벌레를 잡는 일을 도와주셨으면 합니다.
 이 벌레는 아주 맛있고 영양가도 높지만
 몰아치는 질풍처럼 빨리 움직여서 쉽게 잡을 수가 없습니다."
-52,"TEXT_BANVAN105_02175_LUNAVANU_000_012","그래서, 그래서, 작전을 생각했죠.
-당신이 사누와의 '돌풍'을 이용해 벌레를 <Sheet(EObj,2006655,0)/>
+52,TEXT_BANVAN105_02175_LUNAVANU_000_012,"그래서, 그래서, 작전을 생각했죠.
+당신이 사누와의 '돌풍'을 이용해 벌레를 
 밖으로 유인하면 제가 바로 잡는 겁니다."
-53,"TEXT_BANVAN105_02175_LUNAVANU_000_013","벌레가 사는 <Sheet(EObj,2006655,0)/><13>FF1002280CFF05454F626AF61E9E7F0103FF04EB8A94FF04EC9D80</13>
+53,TEXT_BANVAN105_02175_LUNAVANU_000_013,"벌레가 사는 
 인간들이 '수난의 섬'이라 부르는 장소에 세 군데 있습니다.
 자, 이 사누와를 타고 현장으로 가주세요!"
-54,"TEXT_BANVAN105_02175_LUNAVANU_000_022","다시 사누와에 타고 싶으실 때는 제게 말씀하십시오.
-'수난의 섬'에 있는 <Sheet(EObj,2006655,0)/>에
+54,TEXT_BANVAN105_02175_LUNAVANU_000_022,"다시 사누와에 타고 싶으실 때는 제게 말씀하십시오.
+'수난의 섬'에 있는 에
 사누와의 '돌풍'을 써서 벌레를 유인해 주시기 바랍니다!"
-55,"TEXT_BANVAN105_02175_SYSTEM_000_020","나무 구멍 안에 큰 벌레가 있는 것 같다…….
+55,TEXT_BANVAN105_02175_SYSTEM_000_020,"나무 구멍 안에 큰 벌레가 있는 것 같다…….
 '상인 루나바누'에게 말을 걸어 사누와에 올라탄 다음
 '돌풍'을 사용해 벌레를 밖으로 유인하자."
-56,"TEXT_BANVAN105_02175_LUNAVANU_000_021","이것 참, 이것 참, 큰놈이 잡혔군요!
+56,TEXT_BANVAN105_02175_LUNAVANU_000_021,"이것 참, 이것 참, 큰놈이 잡혔군요!
 남은 두 군데도 똑같이 부탁드립니다!"
-57,"TEXT_BANVAN105_02175_SYSTEM_000_030","나무 구멍 안에 큰 벌레가 있는 것 같다…….
+57,TEXT_BANVAN105_02175_SYSTEM_000_030,"나무 구멍 안에 큰 벌레가 있는 것 같다…….
 '상인 루나바누'에게 말을 걸어 사누와에 올라탄 다음
 '돌풍'을 사용해 벌레를 밖으로 유인하자."
-58,"TEXT_BANVAN105_02175_LUNAVANU_000_031","<Highlight>ObjectParameter(1)</Highlight> 님, 잡았습니다!
+58,TEXT_BANVAN105_02175_LUNAVANU_000_031,"Player Player 님, 잡았습니다!
 남은 한 군데도 이렇게만 부탁드립니다!"
-59,"TEXT_BANVAN105_02175_SYSTEM_000_040","나무 구멍 안에 큰 벌레가 있는 것 같다…….
+59,TEXT_BANVAN105_02175_SYSTEM_000_040,"나무 구멍 안에 큰 벌레가 있는 것 같다…….
 '상인 루나바누'에게 말을 걸어 사누와에 올라탄 다음
 '돌풍'을 사용해 벌레를 밖으로 유인하자."
-60,"TEXT_BANVAN105_02175_LUNAVANU_000_041","고생하셨습니다, <Highlight>ObjectParameter(1)</Highlight> 님!
+60,TEXT_BANVAN105_02175_LUNAVANU_000_041,"고생하셨습니다, Player Player 님!
 덕분에, 덕분에, 제가 노리던 벌레를 모두 잡았습니다!
 이제, 이제, 마을에 가서 무나바누 씨에게 보고해야겠군요!"
-61,"TEXT_BANVAN105_02175_MUNAVANU_000_050","돌아오셨군요, <Highlight>ObjectParameter(1)</Highlight> 님!
+61,TEXT_BANVAN105_02175_MUNAVANU_000_050,"돌아오셨군요, Player Player 님!
 결과는, 결과는, 루나바누에게 전해 들었습니다.
 당신 협조에 구름바다에 울리는 천둥과도 같이 심히 감사드립니다."
-62,"TEXT_BANVAN105_02175_MUNAVANU_000_051","이번에 잡아온 벌레는 마치 꿀처럼 달고 맛있더군요.
+62,TEXT_BANVAN105_02175_MUNAVANU_000_051,"이번에 잡아온 벌레는 마치 꿀처럼 달고 맛있더군요.
 좀 전에 다 같이 모여 순식간에 먹어 치웠습니다.
 ……죄송합니다. 한 마리는 당신 몫으로 남겼어야 하는데요."
-63,"TEXT_BANVAN105_02175_LUNAVANU_000_032","（★未使用／削除予定★）"
-64,"TEXT_BANVAN105_02175_LUNAVANU_000_042","（★未使用／削除予定★）"
+63,TEXT_BANVAN105_02175_LUNAVANU_000_032,（★未使用／削除予定★）
+64,TEXT_BANVAN105_02175_LUNAVANU_000_042,（★未使用／削除予定★）

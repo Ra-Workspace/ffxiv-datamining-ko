@@ -1,39 +1,37 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CTSETCAOZLATOOLJA_00652_Q1_000_000","무엇을 물어보시겠습니까?"
-1,"TEXT_CTSETCAOZLATOOLJA_00652_A1_000_001","'청마도사 임무'에 대해서"
-2,"TEXT_CTSETCAOZLATOOLJA_00652_A1_000_002","'주간 목표'에 대해서"
-3,"TEXT_CTSETCAOZLATOOLJA_00652_A1_000_003","취소"
-4,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_010","'청마도사 임무'란, 선생님께서 주장하, 시는
+#,Unknown0,Unknown1
+0,TEXT_CTSETCAOZLATOOLJA_00652_Q1_000_000,무엇을 물어보시겠습니까?
+1,TEXT_CTSETCAOZLATOOLJA_00652_A1_000_001,'청마도사 임무'에 대해서
+2,TEXT_CTSETCAOZLATOOLJA_00652_A1_000_002,'주간 목표'에 대해서
+3,TEXT_CTSETCAOZLATOOLJA_00652_A1_000_003,취소
+4,TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_010,"'청마도사 임무'란, 선생님께서 주장하, 시는
 '청마도사 만능설'을 증명하기 위, 한, 실증 연구 기록, 입니다."
-5,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_011","당신, 도, 청마도사만, 으로, 다양한 '위험지대'에 가서
+5,TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_011,"당신, 도, 청마도사만, 으로, 다양한 '위험지대'에 가서
 그, 기록, 을 해주셨으면, 합니, 다.
 물론, 보상은, 지불해, 드리겠습, 니다."
-6,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_012","당신, 이 갖고 있는 '청마도서'에 연구 대상인 '위험지대'가
+6,TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_012,"당신, 이 갖고 있는 '청마도서'에 연구 대상인 '위험지대'가
 정리되어, 있으, 니, 확인하신, 후에
 청마도사를, 모집하여, 들어가, 주십시오."
-7,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_020","'청마도사 임무'는 지정된 임무를
+7,TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_020,"'청마도사 임무'는 지정된 임무를
 청마도사만으로 파티를 구성해 공략하는 것이 목표입니다."
-8,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_021","조건을 충족했을 경우, 임무 공략 시에
+8,TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_021,"조건을 충족했을 경우, 임무 공략 시에
 보상으로 길, 동맹 휘장, 알라그 석판을 획득할 수 있으며
 첫 회에 한해 보너스로 더 많은 보상을 얻을 수 있습니다."
-9,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_022","주 메뉴의 '청마도서'에 있는 탭을 통해
+9,TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_022,"주 메뉴의 '청마도서'에 있는 탭을 통해
 '청마도사 임무' 메뉴를 열 수 있으며
 지정된 임무와 해당 공략 상황을 확인할 수 있습니다."
-10,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_023","또 '청마도사 임무' 메뉴에서 '파티 찾기'와
+10,TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_023,"또 '청마도사 임무' 메뉴에서 '파티 찾기'와
 '임무 찾기'를 열 수 있습니다.
 청마도사를 모집해 지정된 임무에 도전해 보십시오."
-11,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_024","청마도사 임무로 임무를 공략하기 위해서는
+11,TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_024,"청마도사 임무로 임무를 공략하기 위해서는
 인원수 제한을 해제하지 않고 미리 구성된 파티로 참가해 주십시오. "
-12,"TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_040","'청마도사 임무'는 '주간 목표'라고, 부르는,
+12,TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_040,"'청마도사 임무'는 '주간 목표'라고, 부르는,
 특별히, 기록이 필요, 한 '위험지대'를, 지정하고, 있습니다.
 다른 것보다, 도 보상이 푸짐하니까, 꼭, 도전해 주십, 시오."
-13,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_041","'주간 목표'는
+13,TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_041,"'주간 목표'는
 지정된 임무를 공략하면
 보너스로 더 많은 보상을 얻을 수 있습니다."
-14,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_042","또 고난이도 임무가 지정되는
+14,TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_042,"또 고난이도 임무가 지정되는
 '특별 임무'라는 것이 존재하며
 더 많은 보상을 얻을 수 있습니다. "
-15,"TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_100_043","대상 임무는 현실 시간으로
-매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 갱신됩니다."
+15,TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_100_043,"대상 임무는 현실 시간으로
+매주 화요일 오후 5시에 갱신됩니다."

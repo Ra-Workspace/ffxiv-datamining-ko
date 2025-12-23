@@ -1,203 +1,201 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_KINGLA505_05000_SEQ_00","와추메키메키 종합상가에 있는 도누하누는 파셰니네를 따스한 눈빛으로 보고 있다."
-1,"TEXT_KINGLA505_05000_SEQ_01","파셰니네는 시련에 도전하기 위해 코자말루 카로 떠났다. 코자말루 카 우유우브 부근의 '<Sheet(EObj,2013826,0)/>'에서 대기하자."
-2,"TEXT_KINGLA505_05000_SEQ_02","파셰니네는 시련의 성과를 보여 주었다. 마지막 시련에 도전하기 위한 생선을 잡아 주겠다며 사기가 하늘을 찌르는 '도누하누'를 야크텔 밀림의 자티카 중부삼림에서 찾자."
-3,"TEXT_KINGLA505_05000_SEQ_03","도누하누는 괴어에게 도전하다 부상을 입고 말았다. 그를 대신하여 '<Sheet(Item,43915,0)/>'<13>FF0F02280BFF054974656DF2AB8B0103FF04EBA5BCFF04EC9D84</13> 포획해서 도누하누에게 납품하자. '<Sheet(Item,43915,0)/>'<13>FF0F02280BFF054974656DF2AB8B0103FF04EB8A94FF04EC9D80</13> 야크텔 밀림의 쓴물 세노테에서 '미끼용 꿀벌'을 쓰면 낚을 수 있다."
-4,"TEXT_KINGLA505_05000_SEQ_04","도누하누에게 '<Sheet(Item,43915,0)/>'<13>FF0F02280BFF054974656DF2AB8B0103FF04EBA5BCFF04EC9D84</13> 납품했다. 툴라이욜라의 와추메키메키 종합상가로 돌아가서 '도누하누'와 대화하자."
-5,"TEXT_KINGLA505_05000_SEQ_05","도누하누와 대화했다. <Sheet(Item,43915,0)/><13>FF0F02280BFF054974656DF2AB8B0103FF04EBA5BCFF04EC9D84</13> 습득해서 마지막 시련에 도전하려는 파셰니네의 행보를 지켜보자."
-6,"TEXT_KINGLA505_05000_SEQ_06",""
-7,"TEXT_KINGLA505_05000_SEQ_07",""
-8,"TEXT_KINGLA505_05000_SEQ_08",""
-9,"TEXT_KINGLA505_05000_SEQ_09",""
-10,"TEXT_KINGLA505_05000_SEQ_10",""
-11,"TEXT_KINGLA505_05000_SEQ_11",""
-12,"TEXT_KINGLA505_05000_SEQ_12",""
-13,"TEXT_KINGLA505_05000_SEQ_13",""
-14,"TEXT_KINGLA505_05000_SEQ_14",""
-15,"TEXT_KINGLA505_05000_SEQ_15",""
-16,"TEXT_KINGLA505_05000_SEQ_16",""
-17,"TEXT_KINGLA505_05000_SEQ_17",""
-18,"TEXT_KINGLA505_05000_SEQ_18",""
-19,"TEXT_KINGLA505_05000_SEQ_19",""
-20,"TEXT_KINGLA505_05000_SEQ_20",""
-21,"TEXT_KINGLA505_05000_SEQ_21",""
-22,"TEXT_KINGLA505_05000_SEQ_22",""
-23,"TEXT_KINGLA505_05000_SEQ_23",""
-24,"TEXT_KINGLA505_05000_TODO_00","우유우브의 <Sheet(EObj,2013826,0)/>에서 대기"
-25,"TEXT_KINGLA505_05000_TODO_01","쓴물 세노테 부근에서 도누하누 찾기"
-26,"TEXT_KINGLA505_05000_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>쓴물 세노테 부근에서 <Sheet(Item,43915,0)/> 낚기<Else/>쓴물 세노테 부근에서 도누하누에게 <Sheet(Item,43915,0)/> 납품</If>"
-27,"TEXT_KINGLA505_05000_TODO_03","툴라이욜라에서 도누하누와 대화"
-28,"TEXT_KINGLA505_05000_TODO_04",""
-29,"TEXT_KINGLA505_05000_TODO_05",""
-30,"TEXT_KINGLA505_05000_TODO_06",""
-31,"TEXT_KINGLA505_05000_TODO_07",""
-32,"TEXT_KINGLA505_05000_TODO_08",""
-33,"TEXT_KINGLA505_05000_TODO_09",""
-34,"TEXT_KINGLA505_05000_TODO_10",""
-35,"TEXT_KINGLA505_05000_TODO_11",""
-36,"TEXT_KINGLA505_05000_TODO_12",""
-37,"TEXT_KINGLA505_05000_TODO_13",""
-38,"TEXT_KINGLA505_05000_TODO_14",""
-39,"TEXT_KINGLA505_05000_TODO_15",""
-40,"TEXT_KINGLA505_05000_TODO_16",""
-41,"TEXT_KINGLA505_05000_TODO_17",""
-42,"TEXT_KINGLA505_05000_TODO_18",""
-43,"TEXT_KINGLA505_05000_TODO_19",""
-44,"TEXT_KINGLA505_05000_TODO_20",""
-45,"TEXT_KINGLA505_05000_TODO_21",""
-46,"TEXT_KINGLA505_05000_TODO_22",""
-47,"TEXT_KINGLA505_05000_TODO_23",""
-48,"TEXT_KINGLA505_05000_SYSTEM_000_000","이 퀘스트를 진행하려면
+#,Unknown0,Unknown1
+0,TEXT_KINGLA505_05000_SEQ_00,와추메키메키 종합상가에 있는 도누하누는 파셰니네를 따스한 눈빛으로 보고 있다.
+1,TEXT_KINGLA505_05000_SEQ_01,파셰니네는 시련에 도전하기 위해 코자말루 카로 떠났다. 코자말루 카 우유우브 부근의 ''에서 대기하자.
+2,TEXT_KINGLA505_05000_SEQ_02,파셰니네는 시련의 성과를 보여 주었다. 마지막 시련에 도전하기 위한 생선을 잡아 주겠다며 사기가 하늘을 찌르는 '도누하누'를 야크텔 밀림의 자티카 중부삼림에서 찾자.
+3,TEXT_KINGLA505_05000_SEQ_03,도누하누는 괴어에게 도전하다 부상을 입고 말았다. 그를 대신하여 '' 포획해서 도누하누에게 납품하자. '' 야크텔 밀림의 쓴물 세노테에서 '미끼용 꿀벌'을 쓰면 낚을 수 있다.
+4,TEXT_KINGLA505_05000_SEQ_04,도누하누에게 '' 납품했다. 툴라이욜라의 와추메키메키 종합상가로 돌아가서 '도누하누'와 대화하자.
+5,TEXT_KINGLA505_05000_SEQ_05,도누하누와 대화했다.  습득해서 마지막 시련에 도전하려는 파셰니네의 행보를 지켜보자.
+6,TEXT_KINGLA505_05000_SEQ_06,
+7,TEXT_KINGLA505_05000_SEQ_07,
+8,TEXT_KINGLA505_05000_SEQ_08,
+9,TEXT_KINGLA505_05000_SEQ_09,
+10,TEXT_KINGLA505_05000_SEQ_10,
+11,TEXT_KINGLA505_05000_SEQ_11,
+12,TEXT_KINGLA505_05000_SEQ_12,
+13,TEXT_KINGLA505_05000_SEQ_13,
+14,TEXT_KINGLA505_05000_SEQ_14,
+15,TEXT_KINGLA505_05000_SEQ_15,
+16,TEXT_KINGLA505_05000_SEQ_16,
+17,TEXT_KINGLA505_05000_SEQ_17,
+18,TEXT_KINGLA505_05000_SEQ_18,
+19,TEXT_KINGLA505_05000_SEQ_19,
+20,TEXT_KINGLA505_05000_SEQ_20,
+21,TEXT_KINGLA505_05000_SEQ_21,
+22,TEXT_KINGLA505_05000_SEQ_22,
+23,TEXT_KINGLA505_05000_SEQ_23,
+24,TEXT_KINGLA505_05000_TODO_00,우유우브의 에서 대기
+25,TEXT_KINGLA505_05000_TODO_01,쓴물 세노테 부근에서 도누하누 찾기
+26,TEXT_KINGLA505_05000_TODO_02,쓴물 세노테 부근에서  낚기
+27,TEXT_KINGLA505_05000_TODO_03,툴라이욜라에서 도누하누와 대화
+28,TEXT_KINGLA505_05000_TODO_04,
+29,TEXT_KINGLA505_05000_TODO_05,
+30,TEXT_KINGLA505_05000_TODO_06,
+31,TEXT_KINGLA505_05000_TODO_07,
+32,TEXT_KINGLA505_05000_TODO_08,
+33,TEXT_KINGLA505_05000_TODO_09,
+34,TEXT_KINGLA505_05000_TODO_10,
+35,TEXT_KINGLA505_05000_TODO_11,
+36,TEXT_KINGLA505_05000_TODO_12,
+37,TEXT_KINGLA505_05000_TODO_13,
+38,TEXT_KINGLA505_05000_TODO_14,
+39,TEXT_KINGLA505_05000_TODO_15,
+40,TEXT_KINGLA505_05000_TODO_16,
+41,TEXT_KINGLA505_05000_TODO_17,
+42,TEXT_KINGLA505_05000_TODO_18,
+43,TEXT_KINGLA505_05000_TODO_19,
+44,TEXT_KINGLA505_05000_TODO_20,
+45,TEXT_KINGLA505_05000_TODO_21,
+46,TEXT_KINGLA505_05000_TODO_22,
+47,TEXT_KINGLA505_05000_TODO_23,
+48,TEXT_KINGLA505_05000_SYSTEM_000_000,"이 퀘스트를 진행하려면
 '주요 퀘스트: 황금의 유산' 중
 '친구의 시련'을 완료해야 합니다."
-49,"TEXT_KINGLA505_05000_PASHENINE_000_005","피라루쿠 쿼, 잘 먹었습니다……!
+49,TEXT_KINGLA505_05000_PASHENINE_000_005,"피라루쿠 쿼, 잘 먹었습니다……!
 역시 배가 정말 부르네요……!"
-50,"TEXT_KINGLA505_05000_DONUHANU_000_009","자, 피라루쿠 쿼도 다 먹었으니
+50,TEXT_KINGLA505_05000_DONUHANU_000_009,"자, 피라루쿠 쿼도 다 먹었으니
 슬슬 시련에 도전하러 갈 거냐?"
-51,"TEXT_KINGLA505_05000_PASHENINE_000_010","네, 마물과 대치할 생각에 긴장되지만……
+51,TEXT_KINGLA505_05000_PASHENINE_000_010,"네, 마물과 대치할 생각에 긴장되지만……
 어엿한 왈라키족으로 인정받기 위해 시련에 도전하겠습니다!"
-52,"TEXT_KINGLA505_05000_PASHENINE_000_011","도누하누 씨의 괴어에 관한 지식과
-<Highlight>ObjectParameter(1)</Highlight> 씨의 기술 덕분에……
+52,TEXT_KINGLA505_05000_PASHENINE_000_011,"도누하누 씨의 괴어에 관한 지식과
+Player Player 씨의 기술 덕분에……
 다양한 생선을 내놓을 수 있게 되었으니까요!"
-53,"TEXT_KINGLA505_05000_PASHENINE_000_012","시련에는 증인이 되어 줄 동포를 부를 예정인데
+53,TEXT_KINGLA505_05000_PASHENINE_000_012,"시련에는 증인이 되어 줄 동포를 부를 예정인데
 그동안 신세를 진 두 분께는 따로
 제 '환어술'의 성과를 보여 드리고 싶습니다."
-54,"TEXT_KINGLA505_05000_PASHENINE_000_013","그런데 사냥터를 세 곳이나 돌아야 해서……
+54,TEXT_KINGLA505_05000_PASHENINE_000_013,"그런데 사냥터를 세 곳이나 돌아야 해서……
 모든 시련이 끝나면 증거로, 쓰러뜨린 마물을 가져올게요!"
-55,"TEXT_KINGLA505_05000_PASHENINE_000_014","그러니까 괜찮으시면 코자말루 카의 '우유우브'에서
+55,TEXT_KINGLA505_05000_PASHENINE_000_014,"그러니까 괜찮으시면 코자말루 카의 '우유우브'에서
 기다려 주시겠어요?"
-56,"TEXT_KINGLA505_05000_DONUHANU_000_015","물론, 물론, 가야지.
+56,TEXT_KINGLA505_05000_DONUHANU_000_015,"물론, 물론, 가야지.
 나는 가게를 잠시 닫아야 하니까
-<Highlight>ObjectParameter(1)</Highlight>, 넌 먼저 출발해라."
-57,"TEXT_KINGLA505_05000_DONUHANU_000_020","넌 먼저 '우유우브'로 출발해라."
-58,"TEXT_KINGLA505_05000_DONUHANU_000_030","파셰니네는 아직인가 보군."
-59,"TEXT_KINGLA505_05000_DONUHANU_000_031","하긴, 하긴, 그렇겠지.
+Player Player, 넌 먼저 출발해라."
+57,TEXT_KINGLA505_05000_DONUHANU_000_020,넌 먼저 '우유우브'로 출발해라.
+58,TEXT_KINGLA505_05000_DONUHANU_000_030,파셰니네는 아직인가 보군.
+59,TEXT_KINGLA505_05000_DONUHANU_000_031,"하긴, 하긴, 그렇겠지.
 여러 마물을 사냥해야 하니까
 시간이 걸릴 거야……."
-60,"TEXT_KINGLA505_05000_PASHENINE_000_032","기다리시게 해서 죄송합니다!"
-61,"TEXT_KINGLA505_05000_PASHENINE_000_033","왕개구리는 왕복어로,
+60,TEXT_KINGLA505_05000_PASHENINE_000_032,기다리시게 해서 죄송합니다!
+61,TEXT_KINGLA505_05000_PASHENINE_000_033,"왕개구리는 왕복어로,
 왕거북은 요카후이 비파로,
 그리고 거대악어는 피라루쿠 쿼로 해치웠어요!"
-62,"TEXT_KINGLA505_05000_PASHENINE_000_034","동포도 증인이 되어 주었어요.
+62,TEXT_KINGLA505_05000_PASHENINE_000_034,"동포도 증인이 되어 주었어요.
 시련으로서 저와 싸워 준 마물들의 사체는
 마을에서 정중히 장례를 치르는 게 저희의 풍습이에요."
-63,"TEXT_KINGLA505_05000_DONUHANU_000_035","그 말은……
+63,TEXT_KINGLA505_05000_DONUHANU_000_035,"그 말은……
 드디어, 드디어, 고향으로 돌아가는 거냐?"
-64,"TEXT_KINGLA505_05000_PASHENINE_000_036","아뇨, 이 정도로는 아직
+64,TEXT_KINGLA505_05000_PASHENINE_000_036,"아뇨, 이 정도로는 아직
 어엿한 왈라키족으로 인정받지 못할 거예요."
-65,"TEXT_KINGLA505_05000_PASHENINE_000_037","이제, 저에게 주어진 시련 중에서도 최강의 존재인
+65,TEXT_KINGLA505_05000_PASHENINE_000_037,"이제, 저에게 주어진 시련 중에서도 최강의 존재인
 '짐승으로 둔갑한 거대육식나무'를 사냥해야죠!"
-66,"TEXT_KINGLA505_05000_PASHENINE_000_038","근데 지금까지 싸운 마물과는
+66,TEXT_KINGLA505_05000_PASHENINE_000_038,"근데 지금까지 싸운 마물과는
 비교도 안 될 만큼 강하다고 들었거든요……."
-67,"TEXT_KINGLA505_05000_PASHENINE_000_039","'환어술'밖에 쓸 줄 모르는 제가
+67,TEXT_KINGLA505_05000_PASHENINE_000_039,"'환어술'밖에 쓸 줄 모르는 제가
 정말로 쓰러뜨릴 수 있을지……."
-68,"TEXT_KINGLA505_05000_DONUHANU_000_040","기죽지 마라!"
-69,"TEXT_KINGLA505_05000_DONUHANU_000_041","왈라키족이 쓰는 마법에 대해서는 아는 게 없지만
+68,TEXT_KINGLA505_05000_DONUHANU_000_040,기죽지 마라!
+69,TEXT_KINGLA505_05000_DONUHANU_000_041,"왈라키족이 쓰는 마법에 대해서는 아는 게 없지만
 네가 스스로 할 수 있는 일을 얼마나 열심히 하는지는 잘 알아!
 그렇게 불안하다면 더 강한 생선을 준비해 주마!"
-70,"TEXT_KINGLA505_05000_DONUHANU_000_042","야크텔 밀림 자티카 중부삼림의 세노테에
+70,TEXT_KINGLA505_05000_DONUHANU_000_042,"야크텔 밀림 자티카 중부삼림의 세노테에
 그곳 태생이 아닌 무시무시한 생선이 나타났다더군.
 최근에 슈발라족 상인에게 들은 정보야!"
-71,"TEXT_KINGLA505_05000_DONUHANU_000_043","사실은, 사실은, 나도 어부 일을 하던 시절이 있거든.
+71,TEXT_KINGLA505_05000_DONUHANU_000_043,"사실은, 사실은, 나도 어부 일을 하던 시절이 있거든.
 한 마리쯤은 네 도움 없이도 낚을 수 있을 거다!"
-72,"TEXT_KINGLA505_05000_PASHENINE_000_044","앗, 하지만 무시무시한 생선이라면 위험할 텐데……!
+72,TEXT_KINGLA505_05000_PASHENINE_000_044,"앗, 하지만 무시무시한 생선이라면 위험할 텐데……!
 어떡하면 좋지……!"
-73,"TEXT_KINGLA505_05000_PASHENINE_000_045","죄송합니다. 저는 도누하누 씨를 쫓아갈게요!"
-74,"TEXT_KINGLA505_05000_WHALAQEEWOMAN05000_000_046","파셰니네는 솔직히 마법을 익히는 건 서툴지만
+73,TEXT_KINGLA505_05000_PASHENINE_000_045,죄송합니다. 저는 도누하누 씨를 쫓아갈게요!
+74,TEXT_KINGLA505_05000_WHALAQEEWOMAN05000_000_046,"파셰니네는 솔직히 마법을 익히는 건 서툴지만
 환어술만으로 시련을 극복하려는, 기개가 있는 아이예요."
-75,"TEXT_KINGLA505_05000_WHALAQEEWOMAN05000_100_046","한때는 스스로를 창피하게 여겼던 모양이지만……
+75,TEXT_KINGLA505_05000_WHALAQEEWOMAN05000_100_046,"한때는 스스로를 창피하게 여겼던 모양이지만……
 요즘 자신감이 조금씩 생기는 것 같더니,
 그게 다 여러분 덕분이었군요."
-76,"TEXT_KINGLA505_05000_WHALAQEEWOMAN05000_000_047","이 사체는 제가 맡을게요.
+76,TEXT_KINGLA505_05000_WHALAQEEWOMAN05000_000_047,"이 사체는 제가 맡을게요.
 야크텔 밀림의 '자티카 중부삼림'으로 간다고 했으니
 당신은 두 사람을 뒤따라가 주시면 좋겠어요."
-77,"TEXT_KINGLA505_05000_WHALAQEEWOMAN05000_000_050","마물들은 제가 저희 마을로 가져갈게요.
+77,TEXT_KINGLA505_05000_WHALAQEEWOMAN05000_000_050,"마물들은 제가 저희 마을로 가져갈게요.
 파셰니네가 돌아온 다음에 장례를 치를 생각이에요."
-78,"TEXT_KINGLA505_05000_WHALAQEEWOMAN05000_000_051","당신은 두 사람을 뒤따라가 보세요.
+78,TEXT_KINGLA505_05000_WHALAQEEWOMAN05000_000_051,"당신은 두 사람을 뒤따라가 보세요.
 야크텔 밀림의 '자티카 중부삼림'으로 간다고 했죠?"
-79,"TEXT_KINGLA505_05000_PASHENINE_000_055","도누하누 씨, 괜찮으세요!?"
-80,"TEXT_KINGLA505_05000_DONUHANU_000_060","으으, 아야야…….
+79,TEXT_KINGLA505_05000_PASHENINE_000_055,"도누하누 씨, 괜찮으세요!?"
+80,TEXT_KINGLA505_05000_DONUHANU_000_060,"으으, 아야야…….
 여기까지 오게 해서 미안하군."
-81,"TEXT_KINGLA505_05000_DONUHANU_000_061","한심해, 한심해,
+81,TEXT_KINGLA505_05000_DONUHANU_000_061,"한심해, 한심해,
 입질에 져서 낚싯줄이 끊어지는 바람에 뒤로 나동그라졌다."
-82,"TEXT_KINGLA505_05000_DONUHANU_000_062","그래도, 그래도, 낚싯대에 걸린 건
-틀림없는 '<Sheet(Item,43915,0)/>'<13>FF0F02280BFF054974656DF2AB8B0103FF04EC9880FF07EC9DB4EC9788</13>어.
+82,TEXT_KINGLA505_05000_DONUHANU_000_062,"그래도, 그래도, 낚싯대에 걸린 건
+틀림없는 ''어.
 원래는 바다에 사는 녀석인데 지하 수맥을 타고 올라왔겠지."
-83,"TEXT_KINGLA505_05000_DONUHANU_000_063","꽤 흥분한 것 같으니 저대로 놔둬서는 안 돼.
+83,TEXT_KINGLA505_05000_DONUHANU_000_063,"꽤 흥분한 것 같으니 저대로 놔둬서는 안 돼.
 이곳 사람들을 위해서도, 파셰니네를 위해서도
-<Highlight>ObjectParameter(1)</Highlight>, 꼭 낚아 다오……!"
-84,"TEXT_KINGLA505_05000_DONUHANU_000_064","'<Sheet(Item,43915,0)/>'<13>FF0F02280BFF054974656DF2AB8B0103FF04EB8A94FF04EC9D80</13>
+Player Player, 꼭 낚아 다오……!"
+84,TEXT_KINGLA505_05000_DONUHANU_000_064,"''
 아직 이곳 '쓴물 세노테'에 있을 거야……!
 '미끼용 꿀벌'로 잡을 수 있을 테니 부탁한다……!"
-85,"TEXT_KINGLA505_05000_PASHENINE_000_070","도누하누 씨의 곁에서 치료하고 있을게요.
+85,TEXT_KINGLA505_05000_PASHENINE_000_070,"도누하누 씨의 곁에서 치료하고 있을게요.
 따지고 보면 제 탓이니까요……!"
-86,"TEXT_KINGLA505_05000_DONUHANU_000_075","'<Sheet(Item,43915,0)/>'<13>FF0F02280BFF054974656DF2AB8B0103FF04EB8A94FF04EC9D80</13>
+86,TEXT_KINGLA505_05000_DONUHANU_000_075,"''
 아직 이곳 쓴물 세노테에 머무르고 있을 거야……!
 '미끼용 꿀벌'을 쓰면 잡을 수 있을 테니 부탁한다……!"
-87,"TEXT_KINGLA505_05000_DONUHANU_000_079","<Highlight>ObjectParameter(1)</Highlight>, 돌아왔구나!
+87,TEXT_KINGLA505_05000_DONUHANU_000_079,"Player Player, 돌아왔구나!
 어떻게 됐지……!?"
-88,"TEXT_KINGLA505_05000_DONUHANU_000_080","내 낚싯대에 걸렸을 때도 입질이 심상치 않았다만……
+88,TEXT_KINGLA505_05000_DONUHANU_000_080,"내 낚싯대에 걸렸을 때도 입질이 심상치 않았다만……
 설마, 설마, 이 정도의 월척이었을 줄이야!"
-89,"TEXT_KINGLA505_05000_DONUHANU_000_081","그걸 진짜로 낚는 데 성공하다니…….
-역시 <Highlight>ObjectParameter(1)</Highlight>!"
-90,"TEXT_KINGLA505_05000_PASHENINE_100_081","<Highlight>ObjectParameter(1)</Highlight> 씨, 도누하누 씨……!
+89,TEXT_KINGLA505_05000_DONUHANU_000_081,"그걸 진짜로 낚는 데 성공하다니…….
+역시 Player Player!"
+90,TEXT_KINGLA505_05000_PASHENINE_100_081,"Player Player 씨, 도누하누 씨……!
 이렇게 엄청난 생선을 낚아 주셔서 정말 감사합니다……!"
-91,"TEXT_KINGLA505_05000_DONUHANU_000_082","그래. 원래는 먼바다에 살고, 이렇게 골라서 잡기도 어렵지만……
+91,TEXT_KINGLA505_05000_DONUHANU_000_082,"그래. 원래는 먼바다에 살고, 이렇게 골라서 잡기도 어렵지만……
 이 녀석이라면 분명 도움이 될 거다."
-92,"TEXT_KINGLA505_05000_DONUHANU_000_083","일단, 일단,
+92,TEXT_KINGLA505_05000_DONUHANU_000_083,"일단, 일단,
 생선을 갖고 와추메키메키 종합상가의 우리 가게로 돌아가자.
 파셰니네가 보살펴 주긴 했지만 아직 몸이 말을 듣지 않는군."
-93,"TEXT_KINGLA505_05000_PASHENINE_000_090","그렇게 커다란 생선을 낚으시다니……!
+93,TEXT_KINGLA505_05000_PASHENINE_000_090,"그렇게 커다란 생선을 낚으시다니……!
 평소에는 낚으신 걸 받기만 했지만 이번에는
 당신의 낚시 기술이 얼마나 굉장한지 직접 볼 수 있었어요!"
-94,"TEXT_KINGLA505_05000_DONUHANU_000_100","드디어, 드디어, 돌아왔어.
+94,TEXT_KINGLA505_05000_DONUHANU_000_100,"드디어, 드디어, 돌아왔어.
 이제 다시 파셰니네가 시련에 도전할 수 있겠군."
-95,"TEXT_KINGLA505_05000_DONUHANU_000_101","바다에서 살며 사냥하는 세노테 상어는
+95,TEXT_KINGLA505_05000_DONUHANU_000_101,"바다에서 살며 사냥하는 세노테 상어는
 크기도 크고 속도도 빠른 데다 몸도 아주 유연해.
 너에게 강력한 아군이 되어 줄 거다."
-96,"TEXT_KINGLA505_05000_DONUHANU_100_101","다만, 곧 냄새가 나기 시작할 텐데 빨리 먹어 치우고
+96,TEXT_KINGLA505_05000_DONUHANU_100_101,"다만, 곧 냄새가 나기 시작할 텐데 빨리 먹어 치우고
 '짐승으로 둔갑한 거대육식나무'에 도전하는 게 좋지 않겠냐?"
-97,"TEXT_KINGLA505_05000_PASHENINE_000_102","감사한 말씀이지만 한 가지…….
+97,TEXT_KINGLA505_05000_PASHENINE_000_102,"감사한 말씀이지만 한 가지…….
 시련에 도전하기 전에
 도누하누 씨께 꼭 여쭤 보고 싶은 게 있어요."
-98,"TEXT_KINGLA505_05000_PASHENINE_000_103","이 가게는 다양한 특성을 가진 괴어를 취급하는,
+98,TEXT_KINGLA505_05000_PASHENINE_000_103,"이 가게는 다양한 특성을 가진 괴어를 취급하는,
 저에게는 꿈만 같은 곳이에요."
-99,"TEXT_KINGLA505_05000_PASHENINE_000_104","그것만으로도 감사한 일인데
+99,TEXT_KINGLA505_05000_PASHENINE_000_104,"그것만으로도 감사한 일인데
 왜 부상을 무릅쓰면서까지……
 이렇게 잘해 주시는 건가요?"
-100,"TEXT_KINGLA505_05000_DONUHANU_000_105","그건, 그건, 대답하기 좀 쑥스러운 질문이군.
-<Highlight>ObjectParameter(1)</Highlight>한테는 잠깐 얘기했다만……"
-101,"TEXT_KINGLA505_05000_DONUHANU_000_106","나는, 나는, 괴어가 좋아.
+100,TEXT_KINGLA505_05000_DONUHANU_000_105,"그건, 그건, 대답하기 좀 쑥스러운 질문이군.
+Player Player한테는 잠깐 얘기했다만……"
+101,TEXT_KINGLA505_05000_DONUHANU_000_106,"나는, 나는, 괴어가 좋아.
 이상할 정도로 크거나, 이해할 수 없는 형태를 가졌거나
 생전 처음 보는 녀석도 아직 많고…… 파도 파도 흥미로워!"
-102,"TEXT_KINGLA505_05000_DONUHANU_000_107","하지만 그런 특별한 개성이
+102,TEXT_KINGLA505_05000_DONUHANU_000_107,"하지만 그런 특별한 개성이
 누군가에게는 위험하거나 거북하게 느껴지기도 하지."
-103,"TEXT_KINGLA505_05000_DONUHANU_000_108","이런 상어가 인간의 생활권 근처에 나타났다가
+103,TEXT_KINGLA505_05000_DONUHANU_000_108,"이런 상어가 인간의 생활권 근처에 나타났다가
 위험하다는 이유로 제거당하는 일도 흔해…….
 우연히 그물에 걸렸는데 필요 없다며 버려지는 일도 많고."
-104,"TEXT_KINGLA505_05000_DONUHANU_000_109","그렇게 무의미하게 버려지는 건 용납할 수 없어.
+104,TEXT_KINGLA505_05000_DONUHANU_000_109,"그렇게 무의미하게 버려지는 건 용납할 수 없어.
 일단 붙잡은 이상, 괴어의 생명을 온전히 활용해서
 그들이 살았다는 증거를 남기고 싶어!"
-105,"TEXT_KINGLA505_05000_DONUHANU_000_110","하지만 내가 좋다고 남에게까지 강요할 수는 없지.
+105,TEXT_KINGLA505_05000_DONUHANU_000_110,"하지만 내가 좋다고 남에게까지 강요할 수는 없지.
 각각의 특성에 맞는 활용법을, 알기 쉽게 전할 수 있도록
 노력할 필요가 있다고 생각했다."
-106,"TEXT_KINGLA505_05000_DONUHANU_000_111","나는 그걸 파셰니네에게 배웠어.
+106,TEXT_KINGLA505_05000_DONUHANU_000_111,"나는 그걸 파셰니네에게 배웠어.
 네가 우리 가게의 가능성을 넓혀 준 거다!"
-107,"TEXT_KINGLA505_05000_DONUHANU_000_112","그래서 나는 너에게 받은 걸 돌려주고 있을 뿐이야.
+107,TEXT_KINGLA505_05000_DONUHANU_000_112,"그래서 나는 너에게 받은 걸 돌려주고 있을 뿐이야.
 어쨌든, 어쨌든, 너는 소중한 손님이니까
 네 생각만 하면 돼."
-108,"TEXT_KINGLA505_05000_DONUHANU_000_113","어엿한 왈라키족이 되고 싶다면서?
+108,TEXT_KINGLA505_05000_DONUHANU_000_113,"어엿한 왈라키족이 되고 싶다면서?
 얼른, 얼른, 그 생선을 먹고 시련에 도전해라!"
-109,"TEXT_KINGLA505_05000_PASHENINE_000_114","네!
+109,TEXT_KINGLA505_05000_PASHENINE_000_114,"네!
 감사합니다!"
-110,"TEXT_KINGLA505_05000_DONUHANU_000_115","<Highlight>ObjectParameter(1)</Highlight>, 너한테는
+110,TEXT_KINGLA505_05000_DONUHANU_000_115,"Player Player, 너한테는
 파셰니네가 돌아올 때쯤 다시 말을 걸도록 하마.
 끝까지 함께 해 다오."
-111,"TEXT_KINGLA505_05000_SYSTEM_000_120","'어부' 레벨이 98 이상 되면
+111,TEXT_KINGLA505_05000_SYSTEM_000_120,"'어부' 레벨이 98 이상 되면
 와추메키메키 종합상가에 있는 '도누하누'에게
 다음 퀘스트를 받을 수 있습니다."
-112,"TEXT_KINGLA505_05000_SYSTEM_000_121","다음 퀘스트를 진행하려면
+112,TEXT_KINGLA505_05000_SYSTEM_000_121,"다음 퀘스트를 진행하려면
 '주요 퀘스트: 황금의 유산' 중
 '사카 투랄로'를 완료해야 합니다."

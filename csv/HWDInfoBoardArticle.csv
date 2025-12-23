@@ -1,94 +1,92 @@
-﻿key,0,1,2,3,4
-#,Type,,,,Text
-int32,HWDInfoBoardArticleType,byte,uint16,bit&01,str
-0,0,0,0,False,""
-1,0,0,0,False,""
-2,0,0,0,False,""
-3,0,0,0,False,""
-4,0,0,0,False,""
-5,1,0,0,True,""
-6,1,0,0,True,""
-7,1,0,0,True,""
-8,1,0,0,True,""
-9,1,0,0,True,""
-10,1,0,0,True,""
-11,1,0,0,True,""
-12,2,1,1,True,"<Switch(IntegerParameter(1))><Case(1)>이름 없는 자들의 광장: 정비 계획 1단계</Case><Case(2)>제1보 이름 없는 자들의 광장: 정비 계획 1단계</Case></Switch>"
-13,2,1,2,False,"<Switch(IntegerParameter(1))><Case(1)>부흥 공동 작업 참가자 모집 중</Case><Case(2)>제2보 부흥 공동 작업 참가자 모집 중</Case></Switch> "
-14,2,4,3,True,"<Switch(IntegerParameter(1))><Case(1)>이름 없는 자들의 광장: 정비 계획 2단계</Case><Case(2)>제3보 이름 없는 자들의 광장: 정비 계획 2단계</Case></Switch>"
-15,2,4,4,False,"<Switch(IntegerParameter(1))><Case(1)>두 번째 부흥 공동 작업</Case><Case(2)>제4보 두 번째 부흥 공동 작업</Case></Switch>"
-16,2,7,5,True,"<Switch(IntegerParameter(1))><Case(1)>이름 없는 자들의 광장: 정비 계획 3단계</Case><Case(2)>제5보 이름 없는 자들의 광장: 정비 계획 3단계</Case></Switch>"
-17,2,7,6,False,"<Switch(IntegerParameter(1))><Case(1)>리즈베스의 계획에 협력해줘</Case><Case(2)>제6보 리즈베스의 계획에 협력해줘</Case></Switch> "
-18,2,10,7,True,"<Switch(IntegerParameter(1))><Case(1)>이름 없는 자들의 광장: 정비 완료</Case><Case(2)>제7보 이름 없는 자들의 광장: 정비 완료</Case></Switch>"
-19,3,1,2,True,"제작물 납품에 대하여"
-20,3,1,3,True,"부흥 공동 작업에 대하여"
-21,3,1,1,True,"'이슈가르드 부흥'이란"
-22,1,0,0,True,""
-23,1,0,0,True,""
-24,1,0,0,True,""
-25,1,0,0,True,""
-26,2,11,1,True,"<Switch(IntegerParameter(1))><Case(1)>곡괭이 거리 정비 계획</Case><Case(2)>제1보 곡괭이 거리 정비 계획</Case></Switch>"
-27,2,11,2,False,"<Switch(IntegerParameter(1))><Case(1)>부흥 작업의 새로운 첫걸음이다!</Case><Case(2)>제2보 부흥 작업의 새로운 첫걸음이다!</Case></Switch>"
-28,2,14,3,False,"<Switch(IntegerParameter(1))><Case(1)>곡괭이 거리 부흥 공동 작업이 진행됩니다!</Case><Case(2)>제3보 곡괭이 거리 부흥 공동 사업이 진행됩니다!</Case></Switch>"
-29,2,16,4,False,"<Switch(IntegerParameter(1))><Case(1)>곡괭이 거리 정비를 부탁드립니다!</Case><Case(2)>제4보 곡괭이 거리 정비를 부탁드립니다!</Case></Switch>"
-30,2,19,5,False,"<Switch(IntegerParameter(1))><Case(1)>분수를 건설하는 공동 작업이다!</Case><Case(2)>제5보 분수를 건설하는 공동 작업이다!</Case></Switch>"
-31,2,21,6,True,"<Switch(IntegerParameter(1))><Case(1)>성 로엘 광장 정비 계획</Case><Case(2)>제6보 성 로엘 광장 정비 계획</Case></Switch>"
-32,2,21,7,False,"<Switch(IntegerParameter(1))><Case(1)>새로운 길을 닦자!</Case><Case(2)>제7보 새로운 길을 닦자!</Case></Switch> "
-33,2,24,8,False,"<Switch(IntegerParameter(1))><Case(1)>여러분의 아름다운 작업 모습을 지켜보고 있답니다.</Case><Case(2)>제8보 여러분의 아름다운 작업 모습을 지켜보고 있답니다.</Case></Switch>"
-34,2,26,9,False,"<Switch(IntegerParameter(1))><Case(1)>청소 및 포장 작업원 모집!</Case><Case(2)>제9보 청소 및 포장 작업원 모집!</Case></Switch>"
-35,2,29,10,False,"<Switch(IntegerParameter(1))><Case(1)>부흥 공동 작업에서 장인의 솜씨를 보여줘!</Case><Case(2)>제10보 부흥 공동 작업에서 장인의 솜씨를 보여줘!</Case></Switch>"
-36,2,30,11,True,"<Switch(IntegerParameter(1))><Case(1)>새보금자리 거주구 정비 계획</Case><Case(2)>제11보 새보금자리 거주구 정비 계획</Case></Switch>"
-37,2,30,12,False,"<Switch(IntegerParameter(1))><Case(1)>드디어 거주구 예정지에서 부흥 공동 작업을 시작한다!</Case><Case(2)>제12보 드디어 거주구 예정지에서 부흥 공동 작업을 시작한다!</Case></Switch>"
-38,2,33,13,False,"<Switch(IntegerParameter(1))><Case(1)>부흥 공동 작업은 순조롭게 진행되고 있습니다!</Case><Case(2)>제13보 부흥 공동 작업은 순조롭게 진행되고 있습니다!</Case></Switch>"
-39,2,35,14,False,"<Switch(IntegerParameter(1))><Case(1)>이어서 잔해 제거 작업을 부탁드립니다!</Case><Case(2)>제14보 이어서 잔해 제거 작업을 부탁드립니다!</Case></Switch>"
-40,2,37,15,False,"<Switch(IntegerParameter(1))><Case(1)>기나긴 잔해 제거 작업을 하느라 수고 많았다!</Case><Case(2)>제15보 기나긴 잔해 제거 작업을 하느라 수고 많았다!</Case></Switch>"
-41,2,40,16,False,"<Switch(IntegerParameter(1))><Case(1)>드디어 주택 건설이다!</Case><Case(2)>제16보 드디어 주택 건설이다!</Case></Switch>"
-42,2,43,17,False,"<Switch(IntegerParameter(1))><Case(1)>주거지 건설이 쭉쭉 진행되고 있어요~!</Case><Case(2)>제17보 주거지 건설이 쭉쭉 진행되고 있어요~!</Case></Switch>"
-43,2,46,18,False,"<Switch(IntegerParameter(1))><Case(1)>이번 정비 계획의 마지막 공동 작업이다!</Case><Case(2)>제18보 이번 정비 계획의 마지막 공동 작업이다!</Case></Switch>"
-44,2,48,19,True,"<Switch(IntegerParameter(1))><Case(1)>새보금자리 거주구 정비 완료</Case><Case(2)>제19보 새보금자리 거주구 정비 완료</Case></Switch>"
-45,3,11,4,True,"쿠뽀 복권"
-46,3,11,5,True,"디아뎀 제도"
-47,1,0,0,True,""
-48,1,0,0,True,""
-49,1,0,0,True,""
-50,1,0,0,True,""
-51,2,49,1,True,"<Switch(IntegerParameter(1))><Case(1)>깃털비 상업구 정비 계획</Case><Case(2)>제1보 깃털비 상업구 정비 계획</Case></Switch>"
-52,2,50,2,False,"<Switch(IntegerParameter(1))><Case(1)>힘꾼들을 기다리마!</Case><Case(2)>제2보 힘꾼들을 기다리마!</Case></Switch>"
-53,2,52,3,False,"<Switch(IntegerParameter(1))><Case(1)>잔해를 치워주세요!</Case><Case(2)>제3보 잔해를 치워주세요!</Case></Switch>"
-54,2,54,4,False,"<Switch(IntegerParameter(1))><Case(1)>언제나 도와주셔서 감사합니다.</Case><Case(2)>제4보 언제나 도와주셔서 감사합니다.</Case></Switch>"
-55,2,56,5,False,"<Switch(IntegerParameter(1))><Case(1)>일손이 필요해요~!</Case><Case(2)>제5보 일손이 필요해요~!</Case></Switch>"
-56,2,59,6,False,"<Switch(IntegerParameter(1))><Case(1)>대규모 시설 건설이다!</Case><Case(2)>제6보 대규모 시설 건설이다!</Case></Switch>"
-57,2,62,7,False,"<Switch(IntegerParameter(1))><Case(1)>건축 공동 작업을 부탁드립니다!</Case><Case(2)>제7보 건축 공동 작업을 부탁드립니다!</Case></Switch>"
-58,2,65,8,False,"<Switch(IntegerParameter(1))><Case(1)>주택 건설이 잘되고 있습니다!</Case><Case(2)>제8보 주택 건설이 잘되고 있습니다!</Case></Switch>"
-59,2,67,9,True,"<Switch(IntegerParameter(1))><Case(1)>주판 거리 정비 계획</Case><Case(2)>제9보 주판 거리 정비 계획</Case></Switch>"
-60,2,68,10,False,"<Switch(IntegerParameter(1))><Case(1)>새로운 큰길을 정비하자!</Case><Case(2)>제10보 새로운 큰길을 정비하자!</Case></Switch>"
-61,2,70,11,False,"<Switch(IntegerParameter(1))><Case(1)>주판 거리 포장 작업입니다!</Case><Case(2)>제11보 주판 거리 포장 작업입니다!</Case></Switch>"
-62,2,73,12,False,"<Switch(IntegerParameter(1))><Case(1)>주판 거리에 아름다운 조각상을.</Case><Case(2)>제12보 주판 거리에 아름다운 조각상을.</Case></Switch>"
-63,2,74,13,True,"<Switch(IntegerParameter(1))><Case(1)>흰서리 관사 정비 계획</Case><Case(2)>제13보 흰서리 관사 정비 계획</Case></Switch>"
-64,2,75,14,False,"<Switch(IntegerParameter(1))><Case(1)>거대 시설 건축이다!</Case><Case(2)>제14보 거대 시설 건축이다!</Case></Switch>"
-65,2,79,15,True,"<Switch(IntegerParameter(1))><Case(1)>깃털비 상업구 정비 완료</Case><Case(2)>제15보 깃털비 상업구 정비 완료</Case></Switch>"
-66,1,0,0,True,""
-67,1,0,0,True,""
-68,1,0,0,True,""
-69,1,0,0,True,""
-70,1,0,0,True,""
-71,2,80,1,True,"<Switch(IntegerParameter(1))><Case(1)>부흥시 문화구 서쪽 정비 계획</Case><Case(2)>제1보 부흥시 문화구 서쪽 정비 계획</Case></Switch>"
-72,2,81,2,False,"<Switch(IntegerParameter(1))><Case(1)>부흥시 문화구 서쪽의 잔해를 제거하자!</Case><Case(2)>제2보 부흥시 문화구 서쪽의 잔해를 제거하자!</Case></Switch>"
-73,2,83,3,False,"<Switch(IntegerParameter(1))><Case(1)>도로 청소와 포장을 부탁드립니다</Case><Case(2)>제3보 도로 청소와 포장을 부탁드립니다</Case></Switch> "
-74,2,86,4,False,"<Switch(IntegerParameter(1))><Case(1)>문화구 서쪽에 주택을 건설하자!</Case><Case(2)>제4보 문화구 서쪽에 주택을 건설하자!</Case></Switch>"
-75,2,89,5,False,"<Switch(IntegerParameter(1))><Case(1)>부흥 공동 작업 시간입니다!</Case><Case(2)>제5보 부흥 공동 작업 시간입니다!</Case></Switch>"
-76,2,92,6,False,"<Switch(IntegerParameter(1))><Case(1)>문화구 서쪽 정비가 곧 끝납니다!</Case><Case(2)>제6보 문화구 서쪽 정비가 곧 끝납니다!</Case></Switch>"
-77,2,94,7,True,"<Switch(IntegerParameter(1))><Case(1)>시인의 문 정비 계획</Case><Case(2)>제7보 시인의 문 정비 계획</Case></Switch>"
-78,2,95,8,False,"<Switch(IntegerParameter(1))><Case(1)>시인의 문을 공사합니다!</Case><Case(2)>제8보 시인의 문을 공사합니다!</Case></Switch>"
-79,2,97,9,False,"<Switch(IntegerParameter(1))><Case(1)>부흥시 문화구 동쪽 정비 계획</Case><Case(2)>제9보 부흥시 문화구 동쪽 정비 계획</Case></Switch>"
-80,2,98,10,False,"<Switch(IntegerParameter(1))><Case(1)>마지막 잔해 제거 작업이다!</Case><Case(2)>제10보 마지막 잔해 제거 작업이다!</Case></Switch>"
-81,2,100,11,False,"<Switch(IntegerParameter(1))><Case(1)>청소와 포장 작업도 마지막입니다~!</Case><Case(2)>제11보 청소와 포장 작업도 마지막입니다~!</Case></Switch>"
-82,2,103,12,True,"<Switch(IntegerParameter(1))><Case(1)>새로운 주택 건설이 시작됩니다</Case><Case(2)>제12보 새로운 주택 건설이 시작됩니다</Case></Switch>"
-83,2,106,13,False,"<Switch(IntegerParameter(1))><Case(1)>주택 건설도 마무리 단계입니다!</Case><Case(2)>제13보 주택 건설도 마무리 단계입니다!</Case></Switch>"
-84,2,108,14,True,"<Switch(IntegerParameter(1))><Case(1)>설중탕 정비 계획</Case><Case(2)>제14보 설중탕 정비 계획</Case></Switch>"
-85,2,109,15,False,"<Switch(IntegerParameter(1))><Case(1)>설중탕 건설 중입니다</Case><Case(2)>제15보 설중탕 건설 중입니다</Case></Switch>"
-86,2,111,16,False,"<Switch(IntegerParameter(1))><Case(1)>특별한 기념비 건설을 도와다오!</Case><Case(2)>제16보 특별한 기념비 건설을 도와다오!</Case></Switch>"
-87,2,112,17,True,"<Switch(IntegerParameter(1))><Case(1)>창천 거리 부흥이 완료되었습니다</Case><Case(2)>제17보 창천 거리 부흥이 완료되었습니다</Case></Switch>"
-88,1,0,0,True,""
-89,2,113,1,True,"창천 거리 부흥 축제가 열립니다!"
-90,3,112,6,True,"'창천 운동회' 설명"
+#,Text,Unknown0,Type,Unknown1,Unknown2
+0,,0,0,0,False
+1,,0,0,0,False
+2,,0,0,0,False
+3,,0,0,0,False
+4,,0,0,0,False
+5,,0,1,0,True
+6,,0,1,0,True
+7,,0,1,0,True
+8,,0,1,0,True
+9,,0,1,0,True
+10,,0,1,0,True
+11,,0,1,0,True
+12,이름 없는 자들의 광장: 정비 계획 1단계,1,2,1,True
+13,부흥 공동 작업 참가자 모집 중 ,2,2,1,False
+14,이름 없는 자들의 광장: 정비 계획 2단계,3,2,4,True
+15,두 번째 부흥 공동 작업,4,2,4,False
+16,이름 없는 자들의 광장: 정비 계획 3단계,5,2,7,True
+17,리즈베스의 계획에 협력해줘 ,6,2,7,False
+18,이름 없는 자들의 광장: 정비 완료,7,2,10,True
+19,제작물 납품에 대하여,2,3,1,True
+20,부흥 공동 작업에 대하여,3,3,1,True
+21,'이슈가르드 부흥'이란,1,3,1,True
+22,,0,1,0,True
+23,,0,1,0,True
+24,,0,1,0,True
+25,,0,1,0,True
+26,곡괭이 거리 정비 계획,1,2,11,True
+27,부흥 작업의 새로운 첫걸음이다!,2,2,11,False
+28,곡괭이 거리 부흥 공동 작업이 진행됩니다!,3,2,14,False
+29,곡괭이 거리 정비를 부탁드립니다!,4,2,16,False
+30,분수를 건설하는 공동 작업이다!,5,2,19,False
+31,성 로엘 광장 정비 계획,6,2,21,True
+32,새로운 길을 닦자! ,7,2,21,False
+33,여러분의 아름다운 작업 모습을 지켜보고 있답니다.,8,2,24,False
+34,청소 및 포장 작업원 모집!,9,2,26,False
+35,부흥 공동 작업에서 장인의 솜씨를 보여줘!,10,2,29,False
+36,새보금자리 거주구 정비 계획,11,2,30,True
+37,드디어 거주구 예정지에서 부흥 공동 작업을 시작한다!,12,2,30,False
+38,부흥 공동 작업은 순조롭게 진행되고 있습니다!,13,2,33,False
+39,이어서 잔해 제거 작업을 부탁드립니다!,14,2,35,False
+40,기나긴 잔해 제거 작업을 하느라 수고 많았다!,15,2,37,False
+41,드디어 주택 건설이다!,16,2,40,False
+42,주거지 건설이 쭉쭉 진행되고 있어요~!,17,2,43,False
+43,이번 정비 계획의 마지막 공동 작업이다!,18,2,46,False
+44,새보금자리 거주구 정비 완료,19,2,48,True
+45,쿠뽀 복권,4,3,11,True
+46,디아뎀 제도,5,3,11,True
+47,,0,1,0,True
+48,,0,1,0,True
+49,,0,1,0,True
+50,,0,1,0,True
+51,깃털비 상업구 정비 계획,1,2,49,True
+52,힘꾼들을 기다리마!,2,2,50,False
+53,잔해를 치워주세요!,3,2,52,False
+54,언제나 도와주셔서 감사합니다.,4,2,54,False
+55,일손이 필요해요~!,5,2,56,False
+56,대규모 시설 건설이다!,6,2,59,False
+57,건축 공동 작업을 부탁드립니다!,7,2,62,False
+58,주택 건설이 잘되고 있습니다!,8,2,65,False
+59,주판 거리 정비 계획,9,2,67,True
+60,새로운 큰길을 정비하자!,10,2,68,False
+61,주판 거리 포장 작업입니다!,11,2,70,False
+62,주판 거리에 아름다운 조각상을.,12,2,73,False
+63,흰서리 관사 정비 계획,13,2,74,True
+64,거대 시설 건축이다!,14,2,75,False
+65,깃털비 상업구 정비 완료,15,2,79,True
+66,,0,1,0,True
+67,,0,1,0,True
+68,,0,1,0,True
+69,,0,1,0,True
+70,,0,1,0,True
+71,부흥시 문화구 서쪽 정비 계획,1,2,80,True
+72,부흥시 문화구 서쪽의 잔해를 제거하자!,2,2,81,False
+73,도로 청소와 포장을 부탁드립니다 ,3,2,83,False
+74,문화구 서쪽에 주택을 건설하자!,4,2,86,False
+75,부흥 공동 작업 시간입니다!,5,2,89,False
+76,문화구 서쪽 정비가 곧 끝납니다!,6,2,92,False
+77,시인의 문 정비 계획,7,2,94,True
+78,시인의 문을 공사합니다!,8,2,95,False
+79,부흥시 문화구 동쪽 정비 계획,9,2,97,False
+80,마지막 잔해 제거 작업이다!,10,2,98,False
+81,청소와 포장 작업도 마지막입니다~!,11,2,100,False
+82,새로운 주택 건설이 시작됩니다,12,2,103,True
+83,주택 건설도 마무리 단계입니다!,13,2,106,False
+84,설중탕 정비 계획,14,2,108,True
+85,설중탕 건설 중입니다,15,2,109,False
+86,특별한 기념비 건설을 도와다오!,16,2,111,False
+87,창천 거리 부흥이 완료되었습니다,17,2,112,True
+88,,0,1,0,True
+89,창천 거리 부흥 축제가 열립니다!,1,2,113,True
+90,'창천 운동회' 설명,6,3,112,True

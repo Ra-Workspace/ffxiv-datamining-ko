@@ -1,107 +1,105 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANVAN108_02178_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANVAN108_02178_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 나키 섬의 무나바누는 화가 머리끝까지 치민 듯하다."
-1,"TEXT_BANVAN108_02178_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+1,TEXT_BANVAN108_02178_SEQ_01,"※ 이 퀘스트에는
+ '**** 레벨 보정(직업 변경 제한)' 적용됩니다.
    퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
 
 무나바누가 오크 군두에서 술판을 벌이고 있는 분두족 젊은이를 사누와의 돌풍으로 쫓아달라고 부탁했다. 사누와에 타기 위해, 나키 섬에 있는 '상인 루나바누'와 대화하자."
-2,"TEXT_BANVAN108_02178_SEQ_02","상인 루나바누와 대화하여 사누와에 탑승했다. 사누와에 탑승한 상태로 오크 군두에 있는 '분두족 젊은이' 3명에게 '돌풍'을 사용하자.
+2,TEXT_BANVAN108_02178_SEQ_02,"상인 루나바누와 대화하여 사누와에 탑승했다. 사누와에 탑승한 상태로 오크 군두에 있는 '분두족 젊은이' 3명에게 '돌풍'을 사용하자.
 
 ※ 나키 섬에 있는 '상인 루나바누'에게 말을 걸면 '사누와'에 탑승할 수 있습니다."
-3,"TEXT_BANVAN108_02178_SEQ_03","사누와의 돌풍으로 오크 군두에서 분두족 젊은이들을 쫓아냈다. 나키 섬에 있는 '무나바누'에게 보고하자."
-4,"TEXT_BANVAN108_02178_SEQ_04","무나바누에게 보고했다. 사누와의 돌풍을 맞고 날아가는 것은 바누바누족에게 매우 굴욕적인 일이라고 한다. 혼쭐이 난 분두족 젊은이들이 다시는 오크 군두에서 술판을 벌이지 않았으면 좋겠는데……."
-5,"TEXT_BANVAN108_02178_SEQ_05",""
-6,"TEXT_BANVAN108_02178_SEQ_06",""
-7,"TEXT_BANVAN108_02178_SEQ_07",""
-8,"TEXT_BANVAN108_02178_SEQ_08",""
-9,"TEXT_BANVAN108_02178_SEQ_09",""
-10,"TEXT_BANVAN108_02178_SEQ_10",""
-11,"TEXT_BANVAN108_02178_SEQ_11",""
-12,"TEXT_BANVAN108_02178_SEQ_12",""
-13,"TEXT_BANVAN108_02178_SEQ_13",""
-14,"TEXT_BANVAN108_02178_SEQ_14",""
-15,"TEXT_BANVAN108_02178_SEQ_15",""
-16,"TEXT_BANVAN108_02178_SEQ_16",""
-17,"TEXT_BANVAN108_02178_SEQ_17",""
-18,"TEXT_BANVAN108_02178_SEQ_18",""
-19,"TEXT_BANVAN108_02178_SEQ_19",""
-20,"TEXT_BANVAN108_02178_SEQ_20",""
-21,"TEXT_BANVAN108_02178_SEQ_21",""
-22,"TEXT_BANVAN108_02178_SEQ_22",""
-23,"TEXT_BANVAN108_02178_SEQ_23",""
-24,"TEXT_BANVAN108_02178_TODO_00","상인 루나바누와 대화"
-25,"TEXT_BANVAN108_02178_TODO_01","사누와에 탑승하여 분두족 젊은이에게 돌풍 사용"
-26,"TEXT_BANVAN108_02178_TODO_02","무나바누에게 보고"
-27,"TEXT_BANVAN108_02178_TODO_03",""
-28,"TEXT_BANVAN108_02178_TODO_04",""
-29,"TEXT_BANVAN108_02178_TODO_05",""
-30,"TEXT_BANVAN108_02178_TODO_06",""
-31,"TEXT_BANVAN108_02178_TODO_07",""
-32,"TEXT_BANVAN108_02178_TODO_08",""
-33,"TEXT_BANVAN108_02178_TODO_09",""
-34,"TEXT_BANVAN108_02178_TODO_10",""
-35,"TEXT_BANVAN108_02178_TODO_11",""
-36,"TEXT_BANVAN108_02178_TODO_12",""
-37,"TEXT_BANVAN108_02178_TODO_13",""
-38,"TEXT_BANVAN108_02178_TODO_14",""
-39,"TEXT_BANVAN108_02178_TODO_15",""
-40,"TEXT_BANVAN108_02178_TODO_16",""
-41,"TEXT_BANVAN108_02178_TODO_17",""
-42,"TEXT_BANVAN108_02178_TODO_18",""
-43,"TEXT_BANVAN108_02178_TODO_19",""
-44,"TEXT_BANVAN108_02178_TODO_20",""
-45,"TEXT_BANVAN108_02178_TODO_21",""
-46,"TEXT_BANVAN108_02178_TODO_22",""
-47,"TEXT_BANVAN108_02178_TODO_23",""
-48,"TEXT_BANVAN108_02178_MUNAVANU_000_000","괘씸한 것들, 군두의 땅을 우습게 보는 것도 정도가 있지!
-오오, <Highlight>ObjectParameter(1)</Highlight> 님!
+3,TEXT_BANVAN108_02178_SEQ_03,사누와의 돌풍으로 오크 군두에서 분두족 젊은이들을 쫓아냈다. 나키 섬에 있는 '무나바누'에게 보고하자.
+4,TEXT_BANVAN108_02178_SEQ_04,무나바누에게 보고했다. 사누와의 돌풍을 맞고 날아가는 것은 바누바누족에게 매우 굴욕적인 일이라고 한다. 혼쭐이 난 분두족 젊은이들이 다시는 오크 군두에서 술판을 벌이지 않았으면 좋겠는데…….
+5,TEXT_BANVAN108_02178_SEQ_05,
+6,TEXT_BANVAN108_02178_SEQ_06,
+7,TEXT_BANVAN108_02178_SEQ_07,
+8,TEXT_BANVAN108_02178_SEQ_08,
+9,TEXT_BANVAN108_02178_SEQ_09,
+10,TEXT_BANVAN108_02178_SEQ_10,
+11,TEXT_BANVAN108_02178_SEQ_11,
+12,TEXT_BANVAN108_02178_SEQ_12,
+13,TEXT_BANVAN108_02178_SEQ_13,
+14,TEXT_BANVAN108_02178_SEQ_14,
+15,TEXT_BANVAN108_02178_SEQ_15,
+16,TEXT_BANVAN108_02178_SEQ_16,
+17,TEXT_BANVAN108_02178_SEQ_17,
+18,TEXT_BANVAN108_02178_SEQ_18,
+19,TEXT_BANVAN108_02178_SEQ_19,
+20,TEXT_BANVAN108_02178_SEQ_20,
+21,TEXT_BANVAN108_02178_SEQ_21,
+22,TEXT_BANVAN108_02178_SEQ_22,
+23,TEXT_BANVAN108_02178_SEQ_23,
+24,TEXT_BANVAN108_02178_TODO_00,상인 루나바누와 대화
+25,TEXT_BANVAN108_02178_TODO_01,사누와에 탑승하여 분두족 젊은이에게 돌풍 사용
+26,TEXT_BANVAN108_02178_TODO_02,무나바누에게 보고
+27,TEXT_BANVAN108_02178_TODO_03,
+28,TEXT_BANVAN108_02178_TODO_04,
+29,TEXT_BANVAN108_02178_TODO_05,
+30,TEXT_BANVAN108_02178_TODO_06,
+31,TEXT_BANVAN108_02178_TODO_07,
+32,TEXT_BANVAN108_02178_TODO_08,
+33,TEXT_BANVAN108_02178_TODO_09,
+34,TEXT_BANVAN108_02178_TODO_10,
+35,TEXT_BANVAN108_02178_TODO_11,
+36,TEXT_BANVAN108_02178_TODO_12,
+37,TEXT_BANVAN108_02178_TODO_13,
+38,TEXT_BANVAN108_02178_TODO_14,
+39,TEXT_BANVAN108_02178_TODO_15,
+40,TEXT_BANVAN108_02178_TODO_16,
+41,TEXT_BANVAN108_02178_TODO_17,
+42,TEXT_BANVAN108_02178_TODO_18,
+43,TEXT_BANVAN108_02178_TODO_19,
+44,TEXT_BANVAN108_02178_TODO_20,
+45,TEXT_BANVAN108_02178_TODO_21,
+46,TEXT_BANVAN108_02178_TODO_22,
+47,TEXT_BANVAN108_02178_TODO_23,
+48,TEXT_BANVAN108_02178_MUNAVANU_000_000,"괘씸한 것들, 군두의 땅을 우습게 보는 것도 정도가 있지!
+오오, Player Player 님!
 제 얘기 좀, 아니 부탁 좀 들어주십시오!"
-49,"TEXT_BANVAN108_02178_MUNAVANU_000_001","지금 분두족 젊은이가 오크 군두에서 술판을 벌이고 있습니다.
+49,TEXT_BANVAN108_02178_MUNAVANU_000_001,"지금 분두족 젊은이가 오크 군두에서 술판을 벌이고 있습니다.
 아마도, 아마도, 장로의 눈을 피해서 놀기 위해
 폐허가 된 땅에 찾아가 소란을 피우는 거겠지요."
-50,"TEXT_BANVAN108_02178_MUNAVANU_000_002","부디, 부디, 녀석들을 쫓아내 주실 수 있겠습니까?
+50,TEXT_BANVAN108_02178_MUNAVANU_000_002,"부디, 부디, 녀석들을 쫓아내 주실 수 있겠습니까?
 그 철없는 것들에게 사누와의 '돌풍' 맛을 보여주면
 물벼락을 맞은 게일리캣처럼 도망칠 겁니다."
-51,"TEXT_BANVAN108_02178_MUNAVANU_000_003","사누와는 준비되어 있으니, '오크 군두'로 가시기 전에
+51,TEXT_BANVAN108_02178_MUNAVANU_000_003,"사누와는 준비되어 있으니, '오크 군두'로 가시기 전에
 상인 루나바누에게 말씀하십시오.
 그럼 화창한 햇볕처럼 해결해주시기 바랍니다!"
-52,"TEXT_BANVAN108_02178_LUNAVANU_000_010","말씀 들었습니다, <Highlight>ObjectParameter(1)</Highlight> 님!
+52,TEXT_BANVAN108_02178_LUNAVANU_000_010,"말씀 들었습니다, Player Player 님!
 제가 키운 사누와의 '돌풍'으로
 저 '냉혹한 분두' 놈들의 궁둥이를 날려버리십시오!"
-53,"TEXT_BANVAN108_02178_LUNAVANU_000_011","사누와에 다시 타시려면 제게 말씀하십시오.
+53,TEXT_BANVAN108_02178_LUNAVANU_000_011,"사누와에 다시 타시려면 제게 말씀하십시오.
 '분두족 젊은이'를 '돌풍'으로 날려버리는 역할은
-<Highlight>ObjectParameter(1)</Highlight> 님께 맡기겠습니다!"
-54,"TEXT_BANVAN108_02178_YOUNGVANUA02178_000_020","따알~꾹…… 으흐흐…….
+Player Player 님께 맡기겠습니다!"
+54,TEXT_BANVAN108_02178_YOUNGVANUA02178_000_020,"따알~꾹…… 으흐흐…….
 잔소리 많은 장로님이 안 계시니
 갓 태어난 와무라 유충처럼 술맛이 좋구나!"
-55,"TEXT_BANVAN108_02178_YOUNGVANUA02178_000_021","으헉!? 사누와의 '돌풍'이잖아!
+55,TEXT_BANVAN108_02178_YOUNGVANUA02178_000_021,"으헉!? 사누와의 '돌풍'이잖아!
 젠장, 이 꼴을 보면 지나가던 새도 비웃겠군!
 장로님께 다 일러바칠 테니 두고 보자!"
-56,"TEXT_BANVAN108_02178_YOUNGVANUB02178_000_022","따알~꾹…… 넌 뭐야~?
+56,TEXT_BANVAN108_02178_YOUNGVANUB02178_000_022,"따알~꾹…… 넌 뭐야~?
 분두족이…… 아닌 것 같은데…….
 설마 비굴한 군두족의 망령……일 리가 없지!"
-57,"TEXT_BANVAN108_02178_YOUNGVANUB02178_000_023","으악! 어, 어떻게 된 거지!?
+57,TEXT_BANVAN108_02178_YOUNGVANUB02178_000_023,"으악! 어, 어떻게 된 거지!?
 왜 인간이 사누와를 타고 있는 거야!?
 서, 설마 저놈한테 군두족 망령이 쓰인 건가…… 히익~!"
-58,"TEXT_BANVAN108_02178_YOUNGVANUC02178_000_024","……쿠울.
+58,TEXT_BANVAN108_02178_YOUNGVANUC02178_000_024,"……쿠울.
 아이고 이런…… 너무 많이 마셨나?
 졸음이 폭풍 같이 몰려와서…… 견딜 수가…… 쿠울……."
-59,"TEXT_BANVAN108_02178_YOUNGVANUC02178_000_025","끄억!? 인간이 쳐들어왔나!
+59,TEXT_BANVAN108_02178_YOUNGVANUC02178_000_025,"끄억!? 인간이 쳐들어왔나!
 꿀맛 같은 잠결에 '돌풍'을 먹이다니, 비겁하다!
 하늘섬에서 구름바다로 떨어진 듯한 이 굴욕…… 꼭 갚아주마!"
-60,"TEXT_BANVAN108_02178_MUNAVANU_000_030","수고 많으셨습니다, <Highlight>ObjectParameter(1)</Highlight> 님.
+60,TEXT_BANVAN108_02178_MUNAVANU_000_030,"수고 많으셨습니다, Player Player 님.
 철없는 분두 놈들을 쫓아내고 오셨군요.
 당신께, 당신께, 녹음을 키우는 햇빛처럼 감사드립니다."
-61,"TEXT_BANVAN108_02178_MUNAVANU_000_031","그리고, 그리고, 죄송하다는 말씀도 드리고 싶습니다.
+61,TEXT_BANVAN108_02178_MUNAVANU_000_031,"그리고, 그리고, 죄송하다는 말씀도 드리고 싶습니다.
 당신 입장에서는 힘으로 쫓아내는 게 더 쉬웠겠지만
 많은 피가 흐른 저 땅을 더 이상 피로 더럽히긴 싫었습니다."
-62,"TEXT_BANVAN108_02178_MUNAVANU_000_032","어쨌든, 바누바누족이 사누와의 '돌풍'을 맞고 날아가는 건
+62,TEXT_BANVAN108_02178_MUNAVANU_000_032,"어쨌든, 바누바누족이 사누와의 '돌풍'을 맞고 날아가는 건
 파이싸가 하늘섬에서 떨어지는 것과도 같은 굴욕이니까요.
 혼쭐 난 녀석들이 다시는 나타나지 않았으면 좋겠군요……."
-63,"TEXT_BANVAN108_02178__YOUNGVANUA02178_000_021","（★未使用／削除予定★）"
-64,"TEXT_BANVAN108_02178__YOUNGVANUAB02178_000_022","（★未使用／削除予定★）"
-65,"TEXT_BANVAN108_02178__YOUNGVANUB02178_000_023","（★未使用／削除予定★）"
-66,"TEXT_BANVAN108_02178__YOUNGVANUC02178_000_024","（★未使用／削除予定★）"
+63,TEXT_BANVAN108_02178__YOUNGVANUA02178_000_021,（★未使用／削除予定★）
+64,TEXT_BANVAN108_02178__YOUNGVANUAB02178_000_022,（★未使用／削除予定★）
+65,TEXT_BANVAN108_02178__YOUNGVANUB02178_000_023,（★未使用／削除予定★）
+66,TEXT_BANVAN108_02178__YOUNGVANUC02178_000_024,（★未使用／削除予定★）

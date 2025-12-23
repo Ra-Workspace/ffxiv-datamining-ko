@@ -1,109 +1,107 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANDWA120_03921_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANDWA120_03921_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 와츠의 망치 작업장에 있는 레기트는 장갑 개발을 도와줬으면 하는 듯하다."
-1,"TEXT_BANDWA120_03921_SEQ_01","라디스카 망루 부근에 있는 장갑 개발 담당 드워프와 대화하기"
-2,"TEXT_BANDWA120_03921_SEQ_02","라디스카 망루 부근에 있는 장갑 개발 담당 드워프와 대화하고
+1,TEXT_BANDWA120_03921_SEQ_01,라디스카 망루 부근에 있는 장갑 개발 담당 드워프와 대화하기
+2,TEXT_BANDWA120_03921_SEQ_02,"라디스카 망루 부근에 있는 장갑 개발 담당 드워프와 대화하고
 레기트에게 의뢰받은 물품을 납품하기"
-3,"TEXT_BANDWA120_03921_SEQ_03",""
-4,"TEXT_BANDWA120_03921_SEQ_04",""
-5,"TEXT_BANDWA120_03921_SEQ_05",""
-6,"TEXT_BANDWA120_03921_SEQ_06",""
-7,"TEXT_BANDWA120_03921_SEQ_07",""
-8,"TEXT_BANDWA120_03921_SEQ_08",""
-9,"TEXT_BANDWA120_03921_SEQ_09",""
-10,"TEXT_BANDWA120_03921_SEQ_10",""
-11,"TEXT_BANDWA120_03921_SEQ_11",""
-12,"TEXT_BANDWA120_03921_SEQ_12",""
-13,"TEXT_BANDWA120_03921_SEQ_13",""
-14,"TEXT_BANDWA120_03921_SEQ_14",""
-15,"TEXT_BANDWA120_03921_SEQ_15",""
-16,"TEXT_BANDWA120_03921_SEQ_16",""
-17,"TEXT_BANDWA120_03921_SEQ_17",""
-18,"TEXT_BANDWA120_03921_SEQ_18",""
-19,"TEXT_BANDWA120_03921_SEQ_19",""
-20,"TEXT_BANDWA120_03921_SEQ_20",""
-21,"TEXT_BANDWA120_03921_SEQ_21",""
-22,"TEXT_BANDWA120_03921_SEQ_22",""
-23,"TEXT_BANDWA120_03921_SEQ_23",""
-24,"TEXT_BANDWA120_03921_TODO_00","라디스카 망루 부근에 있는 장갑 개발 담당 드워프와 대화"
-25,"TEXT_BANDWA120_03921_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANDWA120_03921_TODO_02",""
-27,"TEXT_BANDWA120_03921_TODO_03",""
-28,"TEXT_BANDWA120_03921_TODO_04",""
-29,"TEXT_BANDWA120_03921_TODO_05",""
-30,"TEXT_BANDWA120_03921_TODO_06",""
-31,"TEXT_BANDWA120_03921_TODO_07",""
-32,"TEXT_BANDWA120_03921_TODO_08",""
-33,"TEXT_BANDWA120_03921_TODO_09",""
-34,"TEXT_BANDWA120_03921_TODO_10",""
-35,"TEXT_BANDWA120_03921_TODO_11",""
-36,"TEXT_BANDWA120_03921_TODO_12",""
-37,"TEXT_BANDWA120_03921_TODO_13",""
-38,"TEXT_BANDWA120_03921_TODO_14",""
-39,"TEXT_BANDWA120_03921_TODO_15",""
-40,"TEXT_BANDWA120_03921_TODO_16",""
-41,"TEXT_BANDWA120_03921_TODO_17",""
-42,"TEXT_BANDWA120_03921_TODO_18",""
-43,"TEXT_BANDWA120_03921_TODO_19",""
-44,"TEXT_BANDWA120_03921_TODO_20",""
-45,"TEXT_BANDWA120_03921_TODO_21",""
-46,"TEXT_BANDWA120_03921_TODO_22",""
-47,"TEXT_BANDWA120_03921_TODO_23",""
-48,"TEXT_BANDWA120_03921_REGITT_000_000","드워프 전차는 떠돌이 죄식자로부터 상단을 보호하기 위한 것이라
+3,TEXT_BANDWA120_03921_SEQ_03,
+4,TEXT_BANDWA120_03921_SEQ_04,
+5,TEXT_BANDWA120_03921_SEQ_05,
+6,TEXT_BANDWA120_03921_SEQ_06,
+7,TEXT_BANDWA120_03921_SEQ_07,
+8,TEXT_BANDWA120_03921_SEQ_08,
+9,TEXT_BANDWA120_03921_SEQ_09,
+10,TEXT_BANDWA120_03921_SEQ_10,
+11,TEXT_BANDWA120_03921_SEQ_11,
+12,TEXT_BANDWA120_03921_SEQ_12,
+13,TEXT_BANDWA120_03921_SEQ_13,
+14,TEXT_BANDWA120_03921_SEQ_14,
+15,TEXT_BANDWA120_03921_SEQ_15,
+16,TEXT_BANDWA120_03921_SEQ_16,
+17,TEXT_BANDWA120_03921_SEQ_17,
+18,TEXT_BANDWA120_03921_SEQ_18,
+19,TEXT_BANDWA120_03921_SEQ_19,
+20,TEXT_BANDWA120_03921_SEQ_20,
+21,TEXT_BANDWA120_03921_SEQ_21,
+22,TEXT_BANDWA120_03921_SEQ_22,
+23,TEXT_BANDWA120_03921_SEQ_23,
+24,TEXT_BANDWA120_03921_TODO_00,라디스카 망루 부근에 있는 장갑 개발 담당 드워프와 대화
+25,TEXT_BANDWA120_03921_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANDWA120_03921_TODO_02,
+27,TEXT_BANDWA120_03921_TODO_03,
+28,TEXT_BANDWA120_03921_TODO_04,
+29,TEXT_BANDWA120_03921_TODO_05,
+30,TEXT_BANDWA120_03921_TODO_06,
+31,TEXT_BANDWA120_03921_TODO_07,
+32,TEXT_BANDWA120_03921_TODO_08,
+33,TEXT_BANDWA120_03921_TODO_09,
+34,TEXT_BANDWA120_03921_TODO_10,
+35,TEXT_BANDWA120_03921_TODO_11,
+36,TEXT_BANDWA120_03921_TODO_12,
+37,TEXT_BANDWA120_03921_TODO_13,
+38,TEXT_BANDWA120_03921_TODO_14,
+39,TEXT_BANDWA120_03921_TODO_15,
+40,TEXT_BANDWA120_03921_TODO_16,
+41,TEXT_BANDWA120_03921_TODO_17,
+42,TEXT_BANDWA120_03921_TODO_18,
+43,TEXT_BANDWA120_03921_TODO_19,
+44,TEXT_BANDWA120_03921_TODO_20,
+45,TEXT_BANDWA120_03921_TODO_21,
+46,TEXT_BANDWA120_03921_TODO_22,
+47,TEXT_BANDWA120_03921_TODO_23,
+48,TEXT_BANDWA120_03921_REGITT_000_000,"드워프 전차는 떠돌이 죄식자로부터 상단을 보호하기 위한 것이라
 약하고 비실비실하면 의미가 없어라리.
 무조건 단단하고 튼튼해야 해라리!"
-49,"TEXT_BANDWA120_03921_REGITT_000_001","그래서 더더욱 장갑을 강화하기 위해서
+49,TEXT_BANDWA120_03921_REGITT_000_001,"그래서 더더욱 장갑을 강화하기 위해서
 우리는 새로운 장갑 재질을 계속 개발하고 있어라리.
 너도 도와줬으면 좋겠어라리."
-50,"TEXT_BANDWA120_03921_REGITT_000_002","일단은 재료를 찾으러 간
+50,TEXT_BANDWA120_03921_REGITT_000_002,"일단은 재료를 찾으러 간
 '장갑 개발 담당 드워프'들과 합류해줘라리.
 라디스카 망루 부근에 있을 테니까 잘 부탁해라리~!"
-51,"TEXT_BANDWA120_03921_DWARF03921_000_010","라리호!
+51,TEXT_BANDWA120_03921_DWARF03921_000_010,"라리호!
 네가 장갑 재질 개발을 도와줄 장인이야라리?
 마침 아주 적당할 때 잘 와줬어라리!"
-52,"TEXT_BANDWA120_03921_DWARF03921_000_020","방금 전에 새로운 금속 배합 비율을 생각해 냈거든라리.
-넌 이걸 사용해서 '<Sheet(ItemHQ,31175,0)/>'<14>FF1102280DFF074974656D4851F279C70103FF07EBA19CEC8DA8FF0AEC9CBCEBA19CEC8DA8</14>
+52,TEXT_BANDWA120_03921_DWARF03921_000_020,"방금 전에 새로운 금속 배합 비율을 생각해 냈거든라리.
+넌 이걸 사용해서 ''
 합금 덩어리를 만들어줬으면 해라리!"
-53,"TEXT_BANDWA120_03921_DWARF03921_000_030","방금 전에 새로운 장갑판 구조를 생각해 냈거든라리.
-넌 이걸 사용해서 '<Sheet(ItemHQ,31175,0)/>'<14>FF1102280DFF074974656D4851F279C70103FF07EBA19CEC8DA8FF0AEC9CBCEBA19CEC8DA8</14>
+53,TEXT_BANDWA120_03921_DWARF03921_000_030,"방금 전에 새로운 장갑판 구조를 생각해 냈거든라리.
+넌 이걸 사용해서 ''
 충격흡수재를 만들어줬으면 해라리!"
-54,"TEXT_BANDWA120_03921_DWARF03921_000_040","방금 전에 새로운 장갑판 구조를 생각해 냈거든라리.
-넌 이걸 사용해서 '<Sheet(ItemHQ,31175,0)/>'<14>FF1102280DFF074974656D4851F279C70103FF07EBA19CEC8DA8FF0AEC9CBCEBA19CEC8DA8</14>
+54,TEXT_BANDWA120_03921_DWARF03921_000_040,"방금 전에 새로운 장갑판 구조를 생각해 냈거든라리.
+넌 이걸 사용해서 ''
 코팅제를 만들어줬으면 해라리!"
-55,"TEXT_BANDWA120_03921_DWARF03921_000_050","재료가 부족하면 주저 말고 나한테 말해라리.
+55,TEXT_BANDWA120_03921_DWARF03921_000_050,"재료가 부족하면 주저 말고 나한테 말해라리.
 그리고 완성하면 '레기트'에 납품해줬으면 해라리.
 잘 부탁해라리~! "
-56,"TEXT_BANDWA120_03921_DWARF03921_000_060","부재를 완성하면 '레기트'에 납품해줬으면 해라리.
+56,TEXT_BANDWA120_03921_DWARF03921_000_060,"부재를 완성하면 '레기트'에 납품해줬으면 해라리.
 잘 부탁해라리~!"
-57,"TEXT_BANDWA120_03921_DWARF03921_000_061","부재를 완성하면 '레기트'에게 납품해줬으면 해라리.
+57,TEXT_BANDWA120_03921_DWARF03921_000_061,"부재를 완성하면 '레기트'에게 납품해줬으면 해라리.
 잘 부탁해라리~!"
-58,"TEXT_BANDWA120_03921_DWARF03921_000_062","부재를 완성하면 '레기트'에게 납품해줬으면 해라리.
+58,TEXT_BANDWA120_03921_DWARF03921_000_062,"부재를 완성하면 '레기트'에게 납품해줬으면 해라리.
 잘 부탁해라리~!"
-59,"TEXT_BANDWA120_03921_DWARF03921_000_070","혹시 재료가 부족해라리?
+59,TEXT_BANDWA120_03921_DWARF03921_000_070,"혹시 재료가 부족해라리?
 안심해라리, 아직 많이 있으니까라리!
 자, 받아라리~!"
-60,"TEXT_BANDWA120_03921_DWARF03921_000_071","혹시 재료가 부족해라리?
+60,TEXT_BANDWA120_03921_DWARF03921_000_071,"혹시 재료가 부족해라리?
 안심해라리, 아직 많이 있으니까라리!
 자, 받아라리~!"
-61,"TEXT_BANDWA120_03921_DWARF03921_000_072","혹시 재료가 부족해라리?
+61,TEXT_BANDWA120_03921_DWARF03921_000_072,"혹시 재료가 부족해라리?
 안심해라리, 아직 많이 있으니까라리!
 자, 받아라리~!"
-62,"TEXT_BANDWA120_03921_REGITT_000_080","수고했어라리~.
+62,TEXT_BANDWA120_03921_REGITT_000_080,"수고했어라리~.
 장갑 개발은 어떻게 됐어라리?"
-63,"TEXT_BANDWA120_03921_REGITT_000_090","……오오!
+63,TEXT_BANDWA120_03921_REGITT_000_090,"……오오!
 이게 있으면 새로운 장갑 재질을 시험해 볼 수 있어라리!
 어서 준비를 해야지라리~!"
-64,"TEXT_BANDWA120_03921_REGITT_000_091","어떻게 시험할 거냐면…… 이 부재로 갑옷을 만든 후,
+64,TEXT_BANDWA120_03921_REGITT_000_091,"어떻게 시험할 거냐면…… 이 부재로 갑옷을 만든 후,
 건장한 갈젠트족에게 입혀서 도끼로 내려치는 거야라리!
 그 후에 총을 겨누고 타앙~!!"
-65,"TEXT_BANDWA120_03921_REGITT_000_092","……물론 그런 짓은 안 할 거거든라리?
+65,TEXT_BANDWA120_03921_REGITT_000_092,"……물론 그런 짓은 안 할 거거든라리?
 그런 무식한 방법을 시도할 사람은 아무도 없어라리!
 이번엔 여기까지…… 도와줘서 고마워라리!"
-66,"TEXT_BANDWA120_03921_SYSTEM_000_100","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+66,TEXT_BANDWA120_03921_SYSTEM_000_100,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."
-67,"TEXT_BANDWA120_03921_REGITT_000_100","（★未使用／削除予定★）"
+67,TEXT_BANDWA120_03921_REGITT_000_100,（★未使用／削除予定★）

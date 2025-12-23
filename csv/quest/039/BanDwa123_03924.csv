@@ -1,121 +1,119 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANDWA123_03924_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANDWA123_03924_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 와츠의 망치 작업장에 있는 레기트는 모두의 고민을 해결하고 싶은 듯하다."
-1,"TEXT_BANDWA123_03924_SEQ_01","와츠의 망치 작업장에 있는 시기트와 대화"
-2,"TEXT_BANDWA123_03924_SEQ_02","고문 감옥에 있는 꾸벅꾸벅 드워프에게 의뢰받은 물품을 납품"
-3,"TEXT_BANDWA123_03924_SEQ_03","레기트에게 보고"
-4,"TEXT_BANDWA123_03924_SEQ_04",""
-5,"TEXT_BANDWA123_03924_SEQ_05",""
-6,"TEXT_BANDWA123_03924_SEQ_06",""
-7,"TEXT_BANDWA123_03924_SEQ_07",""
-8,"TEXT_BANDWA123_03924_SEQ_08",""
-9,"TEXT_BANDWA123_03924_SEQ_09",""
-10,"TEXT_BANDWA123_03924_SEQ_10",""
-11,"TEXT_BANDWA123_03924_SEQ_11",""
-12,"TEXT_BANDWA123_03924_SEQ_12",""
-13,"TEXT_BANDWA123_03924_SEQ_13",""
-14,"TEXT_BANDWA123_03924_SEQ_14",""
-15,"TEXT_BANDWA123_03924_SEQ_15",""
-16,"TEXT_BANDWA123_03924_SEQ_16",""
-17,"TEXT_BANDWA123_03924_SEQ_17",""
-18,"TEXT_BANDWA123_03924_SEQ_18",""
-19,"TEXT_BANDWA123_03924_SEQ_19",""
-20,"TEXT_BANDWA123_03924_SEQ_20",""
-21,"TEXT_BANDWA123_03924_SEQ_21",""
-22,"TEXT_BANDWA123_03924_SEQ_22",""
-23,"TEXT_BANDWA123_03924_SEQ_23",""
-24,"TEXT_BANDWA123_03924_TODO_00","와츠의 망치 작업장에 있는 시기트와 대화"
-25,"TEXT_BANDWA123_03924_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>고문 감옥에 있는 꾸벅꾸벅 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>고문 감옥에 있는 꾸벅꾸벅 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>고문 감옥에 있는 꾸벅꾸벅 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>고문 감옥에 있는 꾸벅꾸벅 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>고문 감옥에 있는 꾸벅꾸벅 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>고문 감옥에 있는 꾸벅꾸벅 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>고문 감옥에 있는 꾸벅꾸벅 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>고문 감옥에 있는 꾸벅꾸벅 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANDWA123_03924_TODO_02","레기트에게 보고"
-27,"TEXT_BANDWA123_03924_TODO_03",""
-28,"TEXT_BANDWA123_03924_TODO_04",""
-29,"TEXT_BANDWA123_03924_TODO_05",""
-30,"TEXT_BANDWA123_03924_TODO_06",""
-31,"TEXT_BANDWA123_03924_TODO_07",""
-32,"TEXT_BANDWA123_03924_TODO_08",""
-33,"TEXT_BANDWA123_03924_TODO_09",""
-34,"TEXT_BANDWA123_03924_TODO_10",""
-35,"TEXT_BANDWA123_03924_TODO_11",""
-36,"TEXT_BANDWA123_03924_TODO_12",""
-37,"TEXT_BANDWA123_03924_TODO_13",""
-38,"TEXT_BANDWA123_03924_TODO_14",""
-39,"TEXT_BANDWA123_03924_TODO_15",""
-40,"TEXT_BANDWA123_03924_TODO_16",""
-41,"TEXT_BANDWA123_03924_TODO_17",""
-42,"TEXT_BANDWA123_03924_TODO_18",""
-43,"TEXT_BANDWA123_03924_TODO_19",""
-44,"TEXT_BANDWA123_03924_TODO_20",""
-45,"TEXT_BANDWA123_03924_TODO_21",""
-46,"TEXT_BANDWA123_03924_TODO_22",""
-47,"TEXT_BANDWA123_03924_TODO_23",""
-48,"TEXT_BANDWA123_03924_REGITT_000_000","후아암…… 다들 연이은 작업으로 아무래도 많이 졸린 듯해라리.
+1,TEXT_BANDWA123_03924_SEQ_01,와츠의 망치 작업장에 있는 시기트와 대화
+2,TEXT_BANDWA123_03924_SEQ_02,고문 감옥에 있는 꾸벅꾸벅 드워프에게 의뢰받은 물품을 납품
+3,TEXT_BANDWA123_03924_SEQ_03,레기트에게 보고
+4,TEXT_BANDWA123_03924_SEQ_04,
+5,TEXT_BANDWA123_03924_SEQ_05,
+6,TEXT_BANDWA123_03924_SEQ_06,
+7,TEXT_BANDWA123_03924_SEQ_07,
+8,TEXT_BANDWA123_03924_SEQ_08,
+9,TEXT_BANDWA123_03924_SEQ_09,
+10,TEXT_BANDWA123_03924_SEQ_10,
+11,TEXT_BANDWA123_03924_SEQ_11,
+12,TEXT_BANDWA123_03924_SEQ_12,
+13,TEXT_BANDWA123_03924_SEQ_13,
+14,TEXT_BANDWA123_03924_SEQ_14,
+15,TEXT_BANDWA123_03924_SEQ_15,
+16,TEXT_BANDWA123_03924_SEQ_16,
+17,TEXT_BANDWA123_03924_SEQ_17,
+18,TEXT_BANDWA123_03924_SEQ_18,
+19,TEXT_BANDWA123_03924_SEQ_19,
+20,TEXT_BANDWA123_03924_SEQ_20,
+21,TEXT_BANDWA123_03924_SEQ_21,
+22,TEXT_BANDWA123_03924_SEQ_22,
+23,TEXT_BANDWA123_03924_SEQ_23,
+24,TEXT_BANDWA123_03924_TODO_00,와츠의 망치 작업장에 있는 시기트와 대화
+25,TEXT_BANDWA123_03924_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANDWA123_03924_TODO_02,레기트에게 보고
+27,TEXT_BANDWA123_03924_TODO_03,
+28,TEXT_BANDWA123_03924_TODO_04,
+29,TEXT_BANDWA123_03924_TODO_05,
+30,TEXT_BANDWA123_03924_TODO_06,
+31,TEXT_BANDWA123_03924_TODO_07,
+32,TEXT_BANDWA123_03924_TODO_08,
+33,TEXT_BANDWA123_03924_TODO_09,
+34,TEXT_BANDWA123_03924_TODO_10,
+35,TEXT_BANDWA123_03924_TODO_11,
+36,TEXT_BANDWA123_03924_TODO_12,
+37,TEXT_BANDWA123_03924_TODO_13,
+38,TEXT_BANDWA123_03924_TODO_14,
+39,TEXT_BANDWA123_03924_TODO_15,
+40,TEXT_BANDWA123_03924_TODO_16,
+41,TEXT_BANDWA123_03924_TODO_17,
+42,TEXT_BANDWA123_03924_TODO_18,
+43,TEXT_BANDWA123_03924_TODO_19,
+44,TEXT_BANDWA123_03924_TODO_20,
+45,TEXT_BANDWA123_03924_TODO_21,
+46,TEXT_BANDWA123_03924_TODO_22,
+47,TEXT_BANDWA123_03924_TODO_23,
+48,TEXT_BANDWA123_03924_REGITT_000_000,"후아암…… 다들 연이은 작업으로 아무래도 많이 졸린 듯해라리.
 나도 잠 좀 깨려고 드워프 맥주를 단숨에 들이켰더니
 기분이 몽롱해져서 오히려 역효과였지 뭐야라리……."
-49,"TEXT_BANDWA123_03924_REGITT_000_001","그래서 로니트에게 의논했더니
+49,TEXT_BANDWA123_03924_REGITT_000_001,"그래서 로니트에게 의논했더니
 잠 깨기에 딱 좋은 비밀 도구를 생각해 주었어라리!
 그래서 모두의 고민을 해결하기 위해 그걸 제작하기로 했어라리."
-50,"TEXT_BANDWA123_03924_REGITT_000_002","네가 그 시제품을 만들어줬음 좋겠어라리.
+50,TEXT_BANDWA123_03924_REGITT_000_002,"네가 그 시제품을 만들어줬음 좋겠어라리.
 자세한 이야기는 '시기트'에게 들어줘라리.
 잘 부탁해라리~."
-51,"TEXT_BANDWA123_03924_SHIGITT_000_010","후아암…… 앗, 미안.
+51,TEXT_BANDWA123_03924_SHIGITT_000_010,"후아암…… 앗, 미안.
 나도 넋을 좀 놓고 있었던 것 같군.
-재료를 줄 테니 '<Sheet(ItemHQ,31177,0)/>'<13>FF1102280DFF074974656D4851F279C90103FF04EBA5BCFF04EC9D84</13> 만들어줘."
-52,"TEXT_BANDWA123_03924_SHIGITT_000_020","<Sheet(ClassJob,PlayerParameter(68),0)/>인 너에게는
+재료를 줄 테니 '' 만들어줘."
+52,TEXT_BANDWA123_03924_SHIGITT_000_020,"인 너에게는
 죽지 않을 정도로만 자극적인 뇌격 발생기 제작을 맡기고 싶다.
 재료가 부족하면 재료 조달 자동인형에게 받도록 해."
-53,"TEXT_BANDWA123_03924_SHIGITT_000_030","<Sheet(ClassJob,PlayerParameter(68),0)/>인 너에게는
+53,TEXT_BANDWA123_03924_SHIGITT_000_030,"인 너에게는
 아주 질긴 9개의 끈을 묶어 만든 채찍 제작을 맡기고 싶다.
 재료가 부족하면 재료 조달 자동인형에게 받도록 해."
-54,"TEXT_BANDWA123_03924_SHIGITT_000_040","<Sheet(ClassJob,PlayerParameter(68),0)/>인 너에게는
+54,TEXT_BANDWA123_03924_SHIGITT_000_040,"인 너에게는
 천연 향신료를 배합한 아주 매운맛 분말 제작을 맡기고 싶다.
 재료가 부족하면 재료 조달 자동인형에게 받도록 해."
-55,"TEXT_BANDWA123_03924_SHIGITT_000_050","마침 졸리다면서 재료를 모으러 나간 자가 있으니
+55,TEXT_BANDWA123_03924_SHIGITT_000_050,"마침 졸리다면서 재료를 모으러 나간 자가 있으니
 완성하면 그에게 시험해 보라고 해줘.
 고문 감옥에 있을 거야, 잘 부탁한다!"
-56,"TEXT_BANDWA123_03924_AUTOMATON_000_070","삐삐…… 재료 필요해?
+56,TEXT_BANDWA123_03924_AUTOMATON_000_070,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-57,"TEXT_BANDWA123_03924_AUTOMATON_000_071","삐삐…… 재료 필요해?
+57,TEXT_BANDWA123_03924_AUTOMATON_000_071,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-58,"TEXT_BANDWA123_03924_AUTOMATON_000_072","삐삐…… 재료 필요해?
+58,TEXT_BANDWA123_03924_AUTOMATON_000_072,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-59,"TEXT_BANDWA123_03924_AUTOMATON_000_080","삐삐…… 재료 필요해?
+59,TEXT_BANDWA123_03924_AUTOMATON_000_080,"삐삐…… 재료 필요해?
 가져가ー."
-60,"TEXT_BANDWA123_03924_AUTOMATON_000_081","삐삐…… 재료 필요해?
+60,TEXT_BANDWA123_03924_AUTOMATON_000_081,"삐삐…… 재료 필요해?
 가져가ー."
-61,"TEXT_BANDWA123_03924_AUTOMATON_000_082","삐삐…… 재료 필요해?
+61,TEXT_BANDWA123_03924_AUTOMATON_000_082,"삐삐…… 재료 필요해?
 가져가ー."
-62,"TEXT_BANDWA123_03924_DWARF03923_000_090","흠냐…… 오, 뭐야?
-혹시 '<Sheet(ItemHQ,31177,0)/>'<13>FF1102280DFF074974656D4851F279C90103FF04EAB080FF04EC9DB4</13> 완성됐어?"
-63,"TEXT_BANDWA123_03924_DWARF03923_000_100","오오…… 이것이 소문의 비밀 도구…….
+62,TEXT_BANDWA123_03924_DWARF03923_000_090,"흠냐…… 오, 뭐야?
+혹시 '' 완성됐어?"
+63,TEXT_BANDWA123_03924_DWARF03923_000_100,"오오…… 이것이 소문의 비밀 도구…….
 우와~ 이거, 딱 봐도 위험해 보이지만,
 졸음은 작업의 천적이니까…… 각오하고 사용해 볼게라리~."
-64,"TEXT_BANDWA123_03924_DWARF03923_000_110","파파팟하고 한 번에…… 아야야야야얏!?
+64,TEXT_BANDWA123_03924_DWARF03923_000_110,"파파팟하고 한 번에…… 아야야야야얏!?
 이이…… 이거, 이건…… 찌, 찌릿찌리리……!
 으아아아~ 히이이익~ 우에에에~ 으아아악~~!!"
-65,"TEXT_BANDWA123_03924_DWARF03923_000_120","파팟하고 한 번에…… 우어어어어엇!?
+65,TEXT_BANDWA123_03924_DWARF03923_000_120,"파팟하고 한 번에…… 우어어어어엇!?
 아얏,아야! 따끔따끔 으아앗 이게 뭐야!
 으억~~! 너무 아파~~~~!"
-66,"TEXT_BANDWA123_03924_DWARF03923_000_130","파팟하고 한 번에 우오오오오옷!?
+66,TEXT_BANDWA123_03924_DWARF03923_000_130,"파팟하고 한 번에 우오오오오옷!?
 콜록…… 콜록…… 으악, 너무 매워, 목구멍이 타는 거 같아~!
 게다가 눈이…… 눈이이이이이이~~~!"
-67,"TEXT_BANDWA123_03924_DWARF03923_000_140","(-눈이 번쩍 뜨인 드워프-)허억, 허억…….
+67,TEXT_BANDWA123_03924_DWARF03923_000_140,"(-눈이 번쩍 뜨인 드워프-)허억, 허억…….
 지, 지독한 경험을 했어라리………….
 하, 하지만 이건 어쩌면 중독성이 있을지도 모르겠어라리……."
-68,"TEXT_BANDWA123_03924_DWARF03923_000_141","(-눈이 번쩍 뜨인 드워프-)아무튼 졸음이 확 달아났으니 난 다시 재료를 모으러 갈게라리!
+68,TEXT_BANDWA123_03924_DWARF03923_000_141,"(-눈이 번쩍 뜨인 드워프-)아무튼 졸음이 확 달아났으니 난 다시 재료를 모으러 갈게라리!
 엄청난 효과가 있는 데다가 뭐 여러 가지에 눈을 떴다고,
 '레기트'에게 전해줘라리~!"
-69,"TEXT_BANDWA123_03924_REGITT_000_150","……흠냐, 으억!? 뭐, 뭐야, 너구나.
+69,TEXT_BANDWA123_03924_REGITT_000_150,"……흠냐, 으억!? 뭐, 뭐야, 너구나.
 안 잤어, 안 잤어라리…… 서서 잘 리가 없잖아라리.
 그래서 어떻게 됐어라리?"
-70,"TEXT_BANDWA123_03924_REGITT_000_151","우와~! 아무튼 여러 가지에 눈을 떴다고라리……!?
+70,TEXT_BANDWA123_03924_REGITT_000_151,"우와~! 아무튼 여러 가지에 눈을 떴다고라리……!?
 역시 로니트 정보는 시도하는 게 기대된다니까라리!
 너도 도와줘서 고마워라리!"
-71,"TEXT_BANDWA123_03924_SYSTEM_000_160","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+71,TEXT_BANDWA123_03924_SYSTEM_000_160,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."
-72,"TEXT_BANDWA123_03924_SHIGITT_000_060","（★未使用／削除予定★）"
-73,"TEXT_BANDWA123_03924_REGITT_000_160","（★未使用／削除予定★）"
+72,TEXT_BANDWA123_03924_SHIGITT_000_060,（★未使用／削除予定★）
+73,TEXT_BANDWA123_03924_REGITT_000_160,（★未使用／削除予定★）

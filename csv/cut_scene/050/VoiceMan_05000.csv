@@ -1,1183 +1,1181 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_VOICEMAN_05000_000010_TATARU","여러분, 다들 모여 주셨군용……!"
-1,"TEXT_VOICEMAN_05000_000020_TATARU","우리도 어서 장치 수색을 시작해용!
+#,Unknown0,Unknown1
+0,TEXT_VOICEMAN_05000_000010_TATARU,"여러분, 다들 모여 주셨군용……!"
+1,TEXT_VOICEMAN_05000_000020_TATARU,"우리도 어서 장치 수색을 시작해용!
 조금이라도 수상한 것이 있다면 몽땅 모아보자구용!"
-2,"TEXT_VOICEMAN_05000_000030_BIGGS","(-???-)오, 너도 합류하는 거야?
+2,TEXT_VOICEMAN_05000_000030_BIGGS,"(-???-)오, 너도 합류하는 거야?
 단서가 적어서 걱정이었는데, 와 줘서 고맙군."
-3,"TEXT_VOICEMAN_05000_000040_TATARU","빅스 님! 웨지 님도 오셨군용!"
-4,"TEXT_VOICEMAN_05000_000050_BIGGS","'새벽의 혈맹'이 위기라는데
+3,TEXT_VOICEMAN_05000_000040_TATARU,빅스 님! 웨지 님도 오셨군용!
+4,TEXT_VOICEMAN_05000_000050_BIGGS,"'새벽의 혈맹'이 위기라는데
 당연히 도와야지."
-5,"TEXT_VOICEMAN_05000_000060_BIGGS","제시에게 붙들려서 오지 못한 시드 회장님 몫까지
+5,TEXT_VOICEMAN_05000_000060_BIGGS,"제시에게 붙들려서 오지 못한 시드 회장님 몫까지
 우리가 열심히 할게."
-6,"TEXT_VOICEMAN_05000_000070_WEDGE","여, 여, 열심히 하겠슴다!"
-7,"TEXT_VOICEMAN_05000_000080_TATARU","감사해용!
+6,TEXT_VOICEMAN_05000_000070_WEDGE,"여, 여, 열심히 하겠슴다!"
+7,TEXT_VOICEMAN_05000_000080_TATARU,"감사해용!
 다 함께 장치를 꼭 찾아내도록 해용!"
-8,"TEXT_VOICEMAN_05000_000090_BIGGS","음…….
+8,TEXT_VOICEMAN_05000_000090_BIGGS,"음…….
 이 근처에는 없는 것 같은데."
-9,"TEXT_VOICEMAN_05000_000100_BIGGS","웨지, 네가 틈새를 비집고 안쪽으로 들어갈 순 없을까?"
-10,"TEXT_VOICEMAN_05000_000110_WEDGE","네엥!?
+9,TEXT_VOICEMAN_05000_000100_BIGGS,"웨지, 네가 틈새를 비집고 안쪽으로 들어갈 순 없을까?"
+10,TEXT_VOICEMAN_05000_000110_WEDGE,"네엥!?
 저한테도 그건 무리임다!"
-11,"TEXT_VOICEMAN_05000_000120_TATARU","그럼 제가 할게용!"
-12,"TEXT_VOICEMAN_05000_000130_WEDGE","타, 타타루 씨께 그런 일을 시킬 수는 없슴다!"
-13,"TEXT_VOICEMAN_05000_000140_TATARU","걱정하지 마세용!
+11,TEXT_VOICEMAN_05000_000120_TATARU,그럼 제가 할게용!
+12,TEXT_VOICEMAN_05000_000130_WEDGE,"타, 타타루 씨께 그런 일을 시킬 수는 없슴다!"
+13,TEXT_VOICEMAN_05000_000140_TATARU,"걱정하지 마세용!
 제가 이래 봬도 행동파 접수원이랍니당!"
-14,"TEXT_VOICEMAN_05000_000150_BIGGS","미안, 내가 말하는 걸 깜박했는데,
+14,TEXT_VOICEMAN_05000_000150_BIGGS,"미안, 내가 말하는 걸 깜박했는데,
 안쪽은 아직 안전하지 않으니
 너무 깊이 들어가지 말라고 재단 조사원이……."
-15,"TEXT_VOICEMAN_05000_000160_BIGGS","……앗, 뭔가 발견했나?"
-16,"TEXT_VOICEMAN_05000_000170_BIGGS","오오……!
+15,TEXT_VOICEMAN_05000_000160_BIGGS,"……앗, 뭔가 발견했나?"
+16,TEXT_VOICEMAN_05000_000170_BIGGS,"오오……!
 지금까지 발견한 것 중에선 가장 그럴듯해!"
-17,"TEXT_VOICEMAN_05000_000180_WEDGE","생긴 게 왠지…… 우리 로고랑 비슷하지 않슴까?
+17,TEXT_VOICEMAN_05000_000180_WEDGE,"생긴 게 왠지…… 우리 로고랑 비슷하지 않슴까?
 유사품에 주의해야 함다……!"
-18,"TEXT_VOICEMAN_05000_000190_MYSTERYVOICE","――찾았다! 이번에야말로……!"
-19,"TEXT_VOICEMAN_05000_000200_BIGGS","이봐, 괜찮아!?"
-20,"TEXT_VOICEMAN_05000_000210_WEDGE","어, 어떻게 된 검까!?"
-21,"TEXT_VOICEMAN_05000_000220_TATARU","으아아아아……!"
-22,"TEXT_VOICEMAN_05000_000230_MYSTERYVOICE","자, 빠져나가지 말아 다오……!"
-23,"TEXT_VOICEMAN_05000_000240_MYSTERYVOICE","유구한 시간을 넘어 지금, 시공을 초월하라――"
-24,"TEXT_VOICEMAN_05000_000250_TATARU","아무래도…… 그 장치가 맞았나 보네용……!?"
-25,"TEXT_VOICEMAN_05000_000260_MYSTERYVOICE","나에게 그 문을 열어라――!"
-26,"TEXT_VOICEMAN_05000_000270_TATARU","부디 무사하시길……!
+18,TEXT_VOICEMAN_05000_000190_MYSTERYVOICE,――찾았다! 이번에야말로……!
+19,TEXT_VOICEMAN_05000_000200_BIGGS,"이봐, 괜찮아!?"
+20,TEXT_VOICEMAN_05000_000210_WEDGE,"어, 어떻게 된 검까!?"
+21,TEXT_VOICEMAN_05000_000220_TATARU,으아아아아……!
+22,TEXT_VOICEMAN_05000_000230_MYSTERYVOICE,"자, 빠져나가지 말아 다오……!"
+23,TEXT_VOICEMAN_05000_000240_MYSTERYVOICE,"유구한 시간을 넘어 지금, 시공을 초월하라――"
+24,TEXT_VOICEMAN_05000_000250_TATARU,아무래도…… 그 장치가 맞았나 보네용……!?
+25,TEXT_VOICEMAN_05000_000260_MYSTERYVOICE,나에게 그 문을 열어라――!
+26,TEXT_VOICEMAN_05000_000270_TATARU,"부디 무사하시길……!
 반드시…… 모두를…… 다녀오세용……!"
-27,"TEXT_VOICEMAN_05000_000275_MEMORY","듣고"
-28,"TEXT_VOICEMAN_05000_000280_MINFILIA","당신은 아직 사라져서는 안 돼요."
-29,"TEXT_VOICEMAN_05000_000290_WARRIOROFDARKNESS","――끝없는 꿈에서 눈을 뜬다"
-30,"TEXT_VOICEMAN_05000_000300_WARRIOROFDARKNESS","너무나도 희미한 예감이
+27,TEXT_VOICEMAN_05000_000275_MEMORY,듣고
+28,TEXT_VOICEMAN_05000_000280_MINFILIA,당신은 아직 사라져서는 안 돼요.
+29,TEXT_VOICEMAN_05000_000290_WARRIOROFDARKNESS,――끝없는 꿈에서 눈을 뜬다
+30,TEXT_VOICEMAN_05000_000300_WARRIOROFDARKNESS,"너무나도 희미한 예감이
 그러나 또렷하게, 날 부르는 것 같았다"
-31,"TEXT_VOICEMAN_05000_000310_PEDDLEROFNORVRANDT","보아하니, 상인……은 아닌 것 같군.
+31,TEXT_VOICEMAN_05000_000310_PEDDLEROFNORVRANDT,"보아하니, 상인……은 아닌 것 같군.
 이런 한밤중에 어쩐 일인가?"
-32,"TEXT_VOICEMAN_05000_Q1_000_001_NONE_VOICE","뭐라고 말씀하시겠습니까?"
-33,"TEXT_VOICEMAN_05000_A1_000_001_NONE_VOICE","한밤중……?"
-34,"TEXT_VOICEMAN_05000_A1_000_002_NONE_VOICE","하늘은 아직 환하다"
-35,"TEXT_VOICEMAN_05000_000320_PEDDLEROFNORVRANDT","큭큭큭……."
-36,"TEXT_VOICEMAN_05000_000330_PEDDLEROFNORVRANDT","그런 농담, 참 오랜만이군.
+32,TEXT_VOICEMAN_05000_Q1_000_001_NONE_VOICE,뭐라고 말씀하시겠습니까?
+33,TEXT_VOICEMAN_05000_A1_000_001_NONE_VOICE,한밤중……?
+34,TEXT_VOICEMAN_05000_A1_000_002_NONE_VOICE,하늘은 아직 환하다
+35,TEXT_VOICEMAN_05000_000320_PEDDLEROFNORVRANDT,큭큭큭…….
+36,TEXT_VOICEMAN_05000_000330_PEDDLEROFNORVRANDT,"그런 농담, 참 오랜만이군.
 우리 할아버지도 동료들과
 늦게까지 술을 마실 때 그런 말을 했었지."
-37,"TEXT_VOICEMAN_05000_000340_PEDDLEROFNORVRANDT","손님, 술주정 좀 적당히 하십쇼!
+37,TEXT_VOICEMAN_05000_000340_PEDDLEROFNORVRANDT,"손님, 술주정 좀 적당히 하십쇼!
 깜깜한 밤이 올 리가 없잖습니까."
-38,"TEXT_VOICEMAN_05000_000345_PEDDLEROFNORVRANDT","よっと"
-39,"TEXT_VOICEMAN_05000_000350_PEDDLEROFNORVRANDT","이 세상에 어둠이란 어둠이 다 사라진 지
+38,TEXT_VOICEMAN_05000_000345_PEDDLEROFNORVRANDT,よっと
+39,TEXT_VOICEMAN_05000_000350_PEDDLEROFNORVRANDT,"이 세상에 어둠이란 어둠이 다 사라진 지
 벌써 100년이나 됐군그래."
-40,"TEXT_VOICEMAN_05000_000360_PEDDLEROFNORVRANDT","응? 왜 그러나?
+40,TEXT_VOICEMAN_05000_000360_PEDDLEROFNORVRANDT,"응? 왜 그러나?
 무슨 말인지 정말 모른다는 표정이군?"
-41,"TEXT_VOICEMAN_05000_000370_PEDDLEROFNORVRANDT","……쯧쯧, 그놈들에게 습격이라도 당한 겐가.
+41,TEXT_VOICEMAN_05000_000370_PEDDLEROFNORVRANDT,"……쯧쯧, 그놈들에게 습격이라도 당한 겐가.
 가엽게도 넋이 나간 모양이군."
-42,"TEXT_VOICEMAN_05000_000375_PEDDLEROFNORVRANDT","ごくり"
-43,"TEXT_VOICEMAN_05000_000380_PEDDLEROFNORVRANDT","난 장사 때문에 이만 가보겠네만
+42,TEXT_VOICEMAN_05000_000375_PEDDLEROFNORVRANDT,ごくり
+43,TEXT_VOICEMAN_05000_000380_PEDDLEROFNORVRANDT,"난 장사 때문에 이만 가보겠네만
 자네는 가까운 마을에서 지낼 곳을 찾아보게."
-44,"TEXT_VOICEMAN_05000_000390_PEDDLEROFNORVRANDT","이 숲을 동쪽으로 빠져나가면 거대한 수정 탑이 보일 걸세.
+44,TEXT_VOICEMAN_05000_000390_PEDDLEROFNORVRANDT,"이 숲을 동쪽으로 빠져나가면 거대한 수정 탑이 보일 걸세.
 그 일대가 이 근방에서 가장 큰 도시……"
-45,"TEXT_VOICEMAN_05000_000400_PEDDLEROFNORVRANDT","빛에 반역하는 자들이 모이는 '크리스타리움'이라네."
-46,"TEXT_VOICEMAN_05000_000410_WARRIOROFDARKNESS","그 탑은 끝을 모르고 하늘 높이 우뚝 솟아 있다
+45,TEXT_VOICEMAN_05000_000400_PEDDLEROFNORVRANDT,빛에 반역하는 자들이 모이는 '크리스타리움'이라네.
+46,TEXT_VOICEMAN_05000_000410_WARRIOROFDARKNESS,"그 탑은 끝을 모르고 하늘 높이 우뚝 솟아 있다
 마치 빛으로 뒤덮인 하늘을 가르듯이"
-47,"TEXT_VOICEMAN_05000_000420_WARRIOROFDARKNESS","그곳에서, 다시 전쟁이 시작되려 한다
+47,TEXT_VOICEMAN_05000_000420_WARRIOROFDARKNESS,"그곳에서, 다시 전쟁이 시작되려 한다
 빛을 어둠으로, 정의를 악으로 뒤바꿀 전쟁이――"
-48,"TEXT_VOICEMAN_05000_000430_LYNA","(-위병으로 보이는 여자-)거기 서세요!"
-49,"TEXT_VOICEMAN_05000_000440_LYNA","(-위병으로 보이는 여자-)당신은…… 처음 보는 얼굴이군요.
+48,TEXT_VOICEMAN_05000_000430_LYNA,(-위병으로 보이는 여자-)거기 서세요!
+49,TEXT_VOICEMAN_05000_000440_LYNA,"(-위병으로 보이는 여자-)당신은…… 처음 보는 얼굴이군요.
 옷차림도 그렇고요."
-50,"TEXT_VOICEMAN_05000_000450_LYNA","(-위병으로 보이는 여자-)보시다시피 여기서부터는 저희 구역인 크리스타리움입니다.
+50,TEXT_VOICEMAN_05000_000450_LYNA,"(-위병으로 보이는 여자-)보시다시피 여기서부터는 저희 구역인 크리스타리움입니다.
 경비 담당자로서 수상한 사람을 들여보낼 수는 없습니다."
-51,"TEXT_VOICEMAN_05000_000460_LYNA","(-위병으로 보이는 여자-)……그래서,
+51,TEXT_VOICEMAN_05000_000460_LYNA,"(-위병으로 보이는 여자-)……그래서,
 당신은 어디에서 왔죠?"
-52,"TEXT_VOICEMAN_05000_Q2_000_001_NONE_VOICE","어디에서 오셨습니까?"
-53,"TEXT_VOICEMAN_05000_A2_000_001_NONE_VOICE","그리다니아에서"
-54,"TEXT_VOICEMAN_05000_A2_000_002_NONE_VOICE","림사 로민사에서"
-55,"TEXT_VOICEMAN_05000_A2_000_003_NONE_VOICE","울다하에서"
-56,"TEXT_VOICEMAN_05000_A2_000_004_NONE_VOICE","원초세계에서"
-57,"TEXT_VOICEMAN_05000_A2_000_005_NONE_VOICE","…………"
-58,"TEXT_VOICEMAN_05000_000470_LYNA","(-위병으로 보이는 여자-)……처음 듣는 지명이군요.
+52,TEXT_VOICEMAN_05000_Q2_000_001_NONE_VOICE,어디에서 오셨습니까?
+53,TEXT_VOICEMAN_05000_A2_000_001_NONE_VOICE,그리다니아에서
+54,TEXT_VOICEMAN_05000_A2_000_002_NONE_VOICE,림사 로민사에서
+55,TEXT_VOICEMAN_05000_A2_000_003_NONE_VOICE,울다하에서
+56,TEXT_VOICEMAN_05000_A2_000_004_NONE_VOICE,원초세계에서
+57,TEXT_VOICEMAN_05000_A2_000_005_NONE_VOICE,…………
+58,TEXT_VOICEMAN_05000_000470_LYNA,"(-위병으로 보이는 여자-)……처음 듣는 지명이군요.
 이제 와서 알려지지 않은 땅이 있을 리가 없는데."
-59,"TEXT_VOICEMAN_05000_000480_LYNA","(-위병으로 보이는 여자-)원초…… 뭐라고요?
+59,TEXT_VOICEMAN_05000_000480_LYNA,"(-위병으로 보이는 여자-)원초…… 뭐라고요?
 날 놀리는 건가요?"
-60,"TEXT_VOICEMAN_05000_000490_LYNA","(-위병으로 보이는 여자-)대답을 못 하는 건가요?
+60,TEXT_VOICEMAN_05000_000490_LYNA,"(-위병으로 보이는 여자-)대답을 못 하는 건가요?
 더욱더 수상하군요……."
-61,"TEXT_VOICEMAN_05000_000500_LYNA","(-위병으로 보이는 여자-)크리스타리움에서는 신분이나 출신이 중요하지는 않습니다만,
+61,TEXT_VOICEMAN_05000_000500_LYNA,"(-위병으로 보이는 여자-)크리스타리움에서는 신분이나 출신이 중요하지는 않습니다만,
 그렇다고 사기꾼처럼 보이는 자를 받아들일 수는 없습니다."
-62,"TEXT_VOICEMAN_05000_000501_LYNA","하얍!"
-63,"TEXT_VOICEMAN_05000_000510_LYNA","(-위병으로 보이는 여자-)방금 사람을 먹어치웠나 보군요…….
+62,TEXT_VOICEMAN_05000_000501_LYNA,하얍!
+63,TEXT_VOICEMAN_05000_000510_LYNA,"(-위병으로 보이는 여자-)방금 사람을 먹어치웠나 보군요…….
 어떻게 잡아먹혔길래…… 끔찍도 하지……."
-64,"TEXT_VOICEMAN_05000_000520_MYSTERYVOICE","(-???-)라이나, 괜찮나?"
-65,"TEXT_VOICEMAN_05000_000530_LYNA","네, 수정공.
+64,TEXT_VOICEMAN_05000_000520_MYSTERYVOICE,"(-???-)라이나, 괜찮나?"
+65,TEXT_VOICEMAN_05000_000530_LYNA,"네, 수정공.
 떠돌이 '죄식자'…… 그것도 저급한 놈입니다.
 아무 문제 없습니다."
-66,"TEXT_VOICEMAN_05000_000540_MYSTERYVOICE","다행이군.
+66,TEXT_VOICEMAN_05000_000540_MYSTERYVOICE,"다행이군.
 하지만 만약을 위해 주변 경계를 부탁하네."
-67,"TEXT_VOICEMAN_05000_000550_MYSTERYVOICE","그리고 이 사람은 내 손님이니,
+67,TEXT_VOICEMAN_05000_000550_MYSTERYVOICE,"그리고 이 사람은 내 손님이니,
 도시로 데려가고 싶은데…… 괜찮겠나?"
-68,"TEXT_VOICEMAN_05000_000560_LYNA","아…… 그렇군요.
+68,TEXT_VOICEMAN_05000_000560_LYNA,"아…… 그렇군요.
 이번에도 정체불명의 친구분이신가요……."
-69,"TEXT_VOICEMAN_05000_000570_LYNA","알겠습니다.
+69,TEXT_VOICEMAN_05000_000570_LYNA,"알겠습니다.
 앞으로는 자유롭게 출입할 수 있도록
 단원들에게도 일러두겠습니다."
-70,"TEXT_VOICEMAN_05000_000580_LYNA","조금 전엔 실례했습니다.
+70,TEXT_VOICEMAN_05000_000580_LYNA,"조금 전엔 실례했습니다.
 ……크리스타리움에서 편히 지내시길 바랍니다."
-71,"TEXT_VOICEMAN_05000_000590_MYSTERYVOICE","……일단 여길 벗어나자.
+71,TEXT_VOICEMAN_05000_000590_MYSTERYVOICE,"……일단 여길 벗어나자.
 궁금한 게 많겠지만 다른 사람들 앞에서는 대답하기 곤란하거든."
-72,"TEXT_VOICEMAN_05000_000600_MYSTERYVOICE","자…….
+72,TEXT_VOICEMAN_05000_000600_MYSTERYVOICE,"자…….
 먼저,  소환에 응해줘서 진심으로 고맙다."
-73,"TEXT_VOICEMAN_05000_000610_MYSTERYVOICE","원래는 내 방으로 소환하려 했는데
+73,TEXT_VOICEMAN_05000_000610_MYSTERYVOICE,"원래는 내 방으로 소환하려 했는데
 좌표가 어긋나는 바람에 미안하게 됐군…….
 그래도 제대로 건너왔으니 정말 다행이네."
-74,"TEXT_VOICEMAN_05000_000620_MYSTERYVOICE","이곳은
+74,TEXT_VOICEMAN_05000_000620_MYSTERYVOICE,"이곳은
 13개의 거울 세계 중 하나인 '제1세계'다.
 ……이곳 주민들이 그걸 알고 있는지 여부를 떠나서 말이지."
-75,"TEXT_VOICEMAN_05000_000630_MYSTERYVOICE","난 여기서 수정공……이라고 불리고 있다.
+75,TEXT_VOICEMAN_05000_000630_MYSTERYVOICE,"난 여기서 수정공……이라고 불리고 있다.
 저 앞에 있는 크리스타리움이라는 도시의 관리자이자
 그대들을 소환한 당사자이기도 하지."
-76,"TEXT_VOICEMAN_05000_Q3_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-77,"TEXT_VOICEMAN_05000_A3_000_001_NONE_VOICE","'새벽' 사람들은 이곳에 있어?"
-78,"TEXT_VOICEMAN_05000_A3_000_002_NONE_VOICE","네가 소환하는 바람에 엉망진창이 되었어"
-79,"TEXT_VOICEMAN_05000_000640_MYSTERYVOICE","그래…… 하지만 상황이 좀 복잡하니
+76,TEXT_VOICEMAN_05000_Q3_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+77,TEXT_VOICEMAN_05000_A3_000_001_NONE_VOICE,'새벽' 사람들은 이곳에 있어?
+78,TEXT_VOICEMAN_05000_A3_000_002_NONE_VOICE,네가 소환하는 바람에 엉망진창이 되었어
+79,TEXT_VOICEMAN_05000_000640_MYSTERYVOICE,"그래…… 하지만 상황이 좀 복잡하니
 차근차근 설명하도록 하지."
-80,"TEXT_VOICEMAN_05000_000650_MYSTERYVOICE","그 점에 대해서는 정말 미안하네…….
+80,TEXT_VOICEMAN_05000_000650_MYSTERYVOICE,"그 점에 대해서는 정말 미안하네…….
 하지만, 이쪽에도 피치 못할 사정이 있었다네.
 차근차근 설명하도록 하지."
-81,"TEXT_VOICEMAN_05000_000660_MYSTERYVOICE","우선 제일 먼저, 그대가 알아야 할 것이 있어."
-82,"TEXT_VOICEMAN_05000_000670_MYSTERYVOICE","여기 제1세계는 빛으로 인해 멸망하려고 하는 세계다."
-83,"TEXT_VOICEMAN_05000_000680_MYSTERYVOICE","여기 시간으로 100년 전에
+81,TEXT_VOICEMAN_05000_000660_MYSTERYVOICE,"우선 제일 먼저, 그대가 알아야 할 것이 있어."
+82,TEXT_VOICEMAN_05000_000670_MYSTERYVOICE,여기 제1세계는 빛으로 인해 멸망하려고 하는 세계다.
+83,TEXT_VOICEMAN_05000_000680_MYSTERYVOICE,"여기 시간으로 100년 전에
 '빛의 범람'이라는 대재해가 일어났고……
 이 세계는 9할 이상의 토지를 잃었다."
-84,"TEXT_VOICEMAN_05000_000690_MYSTERYVOICE","살아남은 극소수의 인간들 조차,
+84,TEXT_VOICEMAN_05000_000690_MYSTERYVOICE,"살아남은 극소수의 인간들 조차,
 '빛의 범람'이 만들어 낸 괴물로 인해
 멸망의 위기에 놓여 있지……."
-85,"TEXT_VOICEMAN_05000_000700_MYSTERYVOICE","그 괴물이 바로 '죄식자'…….
+85,TEXT_VOICEMAN_05000_000700_MYSTERYVOICE,"그 괴물이 바로 '죄식자'…….
 그대가 아까 본 것도 그중 하나지."
-86,"TEXT_VOICEMAN_05000_000710_MYSTERYVOICE","……난 이 땅을 '죄식자'로부터 구하기 위해
+86,TEXT_VOICEMAN_05000_000710_MYSTERYVOICE,"……난 이 땅을 '죄식자'로부터 구하기 위해
 세계와 세계를 잇는 방법을 찾아내 최강의 영웅을 소환한 거다."
-87,"TEXT_VOICEMAN_05000_000720_MYSTERYVOICE","그리고 이 소환이, 그대들의 세계……
+87,TEXT_VOICEMAN_05000_000720_MYSTERYVOICE,"그리고 이 소환이, 그대들의 세계……
 즉, 원초세계를 구하는 결과로도 이어지게 된다만……"
-88,"TEXT_VOICEMAN_05000_000730_MYSTERYVOICE","귀한 손님을 이런 곳에 세워 두는 것도 내키지 않는군.
+88,TEXT_VOICEMAN_05000_000730_MYSTERYVOICE,"귀한 손님을 이런 곳에 세워 두는 것도 내키지 않는군.
 나머지는 크리스타리움에서 얘기하도록 하지."
-89,"TEXT_VOICEMAN_05000_000740_WARRIOROFDARKNESS","――실로 놀라운 활기였다"
-90,"TEXT_VOICEMAN_05000_000750_WARRIOROFDARKNESS","멸망을 앞둔 세계에서, 살기 위해 만들어진 도시"
-91,"TEXT_VOICEMAN_05000_000760_WARRIOROFDARKNESS","희망을 담아 돌을 쌓아올리는 사람들
+89,TEXT_VOICEMAN_05000_000740_WARRIOROFDARKNESS,――실로 놀라운 활기였다
+90,TEXT_VOICEMAN_05000_000750_WARRIOROFDARKNESS,"멸망을 앞둔 세계에서, 살기 위해 만들어진 도시"
+91,TEXT_VOICEMAN_05000_000760_WARRIOROFDARKNESS,"희망을 담아 돌을 쌓아올리는 사람들
 이대로 멸망하지는 않겠다는 듯, 그 활기로 호소하고 있었다"
-92,"TEXT_VOICEMAN_05000_000770_WARRIOROFDARKNESS","이곳에서 이루어질 수많은 만남이 언젠가
+92,TEXT_VOICEMAN_05000_000770_WARRIOROFDARKNESS,"이곳에서 이루어질 수많은 만남이 언젠가
 모험가를 아득히 먼 곳으로 이끌어 주리라."
-93,"TEXT_VOICEMAN_05000_000780_MYSTERYVOICE","여기가 내 집무실인…… '성견의 방'이다.
+93,TEXT_VOICEMAN_05000_000780_MYSTERYVOICE,"여기가 내 집무실인…… '성견의 방'이다.
 여기라면 주위를 신경 쓰지 않고 얘기할 수 있겠지."
-94,"TEXT_VOICEMAN_05000_000790_MYSTERYVOICE","그대에게 해야 할 이야기가 많은데,
+94,TEXT_VOICEMAN_05000_000790_MYSTERYVOICE,"그대에게 해야 할 이야기가 많은데,
 그 모든 건 나를 제외한 제1세계 사람들은 모르는 비밀이니
 그것만 유념해 주었으면 하네."
-95,"TEXT_VOICEMAN_05000_000800_MYSTERYVOICE","그럼…… 먼저
+95,TEXT_VOICEMAN_05000_000800_MYSTERYVOICE,"그럼…… 먼저
 '새벽의 혈맹' 사람들의 행방에 대해 말하도록 하지."
-96,"TEXT_VOICEMAN_05000_000810_MYSTERYVOICE","결론부터 말하자면 그들은 이곳에 와 있다."
-97,"TEXT_VOICEMAN_05000_000820_MYSTERYVOICE","……하지만 최근에 온 건 아니야.
+96,TEXT_VOICEMAN_05000_000810_MYSTERYVOICE,결론부터 말하자면 그들은 이곳에 와 있다.
+97,TEXT_VOICEMAN_05000_000820_MYSTERYVOICE,"……하지만 최근에 온 건 아니야.
 원초세계와 거울 세계는 시간의 흐름에 차이가 있거든."
-98,"TEXT_VOICEMAN_05000_000830_MYSTERYVOICE","원초세계의 1시간이 제1세계에선 1년이 될 때도 있고,
+98,TEXT_VOICEMAN_05000_000830_MYSTERYVOICE,"원초세계의 1시간이 제1세계에선 1년이 될 때도 있고,
 그 반대일 때도 있다.
 차이가 일정하지 않아서 예측조차 할 수 없어."
-99,"TEXT_VOICEMAN_05000_000840_MYSTERYVOICE","그래도 최근에는 차이가 점점 좁혀지고 있으니,
+99,TEXT_VOICEMAN_05000_000840_MYSTERYVOICE,"그래도 최근에는 차이가 점점 좁혀지고 있으니,
 당분간은 그 점에 대해서 염려하지 않아도 돼."
-100,"TEXT_VOICEMAN_05000_000850_MYSTERYVOICE","하지만 그대의 동료들은……
+100,TEXT_VOICEMAN_05000_000850_MYSTERYVOICE,"하지만 그대의 동료들은……
 산크레드가 이곳에 온 지는 5년이고,
 야슈톨라와 위리앙제는 3년이 되었지."
-101,"TEXT_VOICEMAN_05000_000860_MYSTERYVOICE","가장 최근에 온 알피노와 알리제도
+101,TEXT_VOICEMAN_05000_000860_MYSTERYVOICE,"가장 최근에 온 알피노와 알리제도
 벌써 1년 가까이 제1세계에서 지내고 있다."
-102,"TEXT_VOICEMAN_05000_000870_MYSTERYVOICE","……원래는 그대만 소환할 계획이었지만
+102,TEXT_VOICEMAN_05000_000870_MYSTERYVOICE,"……원래는 그대만 소환할 계획이었지만
 세계를 넘나드는 소환술이 너무나 어려웠던 터라
 그대와 가까운 동료들까지 불러오고 말았어."
-103,"TEXT_VOICEMAN_05000_000880_MYSTERYVOICE","예상치 못했던 불완전한 소환으로 인해
+103,TEXT_VOICEMAN_05000_000880_MYSTERYVOICE,"예상치 못했던 불완전한 소환으로 인해
 그들은 지금 '보고 만질 수 있는 유령' 같은 상태다."
-104,"TEXT_VOICEMAN_05000_000890_MYSTERYVOICE","그대는 어느 정도 자유롭게 두 세계를 오갈 수 있지만
+104,TEXT_VOICEMAN_05000_000890_MYSTERYVOICE,"그대는 어느 정도 자유롭게 두 세계를 오갈 수 있지만
 그들은 스스로의 힘으로 원래 세계로 돌아갈 수도 없어……."
-105,"TEXT_VOICEMAN_05000_Q4_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-106,"TEXT_VOICEMAN_05000_A4_000_001_NONE_VOICE","그들을 원래 있던 세계로 돌려보내"
-107,"TEXT_VOICEMAN_05000_A4_000_002_NONE_VOICE","그들은 몇 년 동안 여기서 뭘 했지?"
-108,"TEXT_VOICEMAN_05000_000900_MYSTERYVOICE","……처음엔 나도 그들도
+105,TEXT_VOICEMAN_05000_Q4_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+106,TEXT_VOICEMAN_05000_A4_000_001_NONE_VOICE,그들을 원래 있던 세계로 돌려보내
+107,TEXT_VOICEMAN_05000_A4_000_002_NONE_VOICE,그들은 몇 년 동안 여기서 뭘 했지?
+108,TEXT_VOICEMAN_05000_000900_MYSTERYVOICE,"……처음엔 나도 그들도
 그들을 귀환시킬 방법을 최우선으로 찾으려 했다."
-109,"TEXT_VOICEMAN_05000_000910_MYSTERYVOICE","하지만 좀처럼 쉽지 않더군.
+109,TEXT_VOICEMAN_05000_000910_MYSTERYVOICE,"하지만 좀처럼 쉽지 않더군.
 그러다 위리앙제가 자신이 소환될 때 지나온 차원의 틈에서
 '어떤 광경'을 봤다고 털어놓으면서 상황이 달라졌다."
-110,"TEXT_VOICEMAN_05000_000920_MYSTERYVOICE","차원의 틈에서는 공간과 시간, 모든 것이 뒤섞여서 존재하는데
+110,TEXT_VOICEMAN_05000_000920_MYSTERYVOICE,"차원의 틈에서는 공간과 시간, 모든 것이 뒤섞여서 존재하는데
 위리앙제는 그곳에서…… 미래를 봤다더군."
-111,"TEXT_VOICEMAN_05000_000930_MYSTERYVOICE","그가 말하길, 원초세계와 제1세계는 통합될 것이고,"
-112,"TEXT_VOICEMAN_05000_000940_MYSTERYVOICE","그와 동시에 원초세계에서 '제8재해'가 일어나
+111,TEXT_VOICEMAN_05000_000930_MYSTERYVOICE,"그가 말하길, 원초세계와 제1세계는 통합될 것이고,"
+112,TEXT_VOICEMAN_05000_000940_MYSTERYVOICE,"그와 동시에 원초세계에서 '제8재해'가 일어나
 수많은 희생자가 발생할 것이며……"
-113,"TEXT_VOICEMAN_05000_000950_MYSTERYVOICE","그 희생자 중에 '새벽'의 영웅……
+113,TEXT_VOICEMAN_05000_000950_MYSTERYVOICE,"그 희생자 중에 '새벽'의 영웅……
 그대도 포함되어 있다고 했다."
-114,"TEXT_VOICEMAN_05000_000960_MYSTERYVOICE","사태가 심각하다고 판단한 그들은
+114,TEXT_VOICEMAN_05000_000960_MYSTERYVOICE,"사태가 심각하다고 판단한 그들은
 세계의 통합을  제1세계 쪽에서 막을 방법은 없을지
 검토하기 시작했다."
-115,"TEXT_VOICEMAN_05000_000970_MYSTERYVOICE","……영혼은 원초세계에 없었어도
+115,TEXT_VOICEMAN_05000_000970_MYSTERYVOICE,"……영혼은 원초세계에 없었어도
 그들은 그 세계와 자네를 위해 계속 싸우고 있었던 거지."
-116,"TEXT_VOICEMAN_05000_000980_MYSTERYVOICE","그 결과, 제1세계를 위험에 빠뜨리고 있는 죄식자…….
+116,TEXT_VOICEMAN_05000_000980_MYSTERYVOICE,"그 결과, 제1세계를 위험에 빠뜨리고 있는 죄식자…….
 그 존재의 위협을 없앤다면
 세계의 통합…… 즉, 재해를 막을 가능성이 있다는 걸 알아냈다."
-117,"TEXT_VOICEMAN_05000_000990_MYSTERYVOICE","그 원리는 지금 내가 설명한다고 해도
+117,TEXT_VOICEMAN_05000_000990_MYSTERYVOICE,"그 원리는 지금 내가 설명한다고 해도
 쉽게 믿기 어려울 것이다."
-118,"TEXT_VOICEMAN_05000_001000_MYSTERYVOICE","그러니 일단 각지에서 활동 중인 동료들을 만나서
+118,TEXT_VOICEMAN_05000_001000_MYSTERYVOICE,"그러니 일단 각지에서 활동 중인 동료들을 만나서
 그들에게 이야기를 들어보는 게 좋을 것 같군."
-119,"TEXT_VOICEMAN_05000_001010_MYSTERYVOICE","물론 그들을 만나는 건 내가 도울 테니
+119,TEXT_VOICEMAN_05000_001010_MYSTERYVOICE,"물론 그들을 만나는 건 내가 도울 테니
 함께 싸울지 말지는 그다음에 결정해도 된다."
-120,"TEXT_VOICEMAN_05000_001020_MYSTERYVOICE","그들을 원래 세계로 돌려보낼 방법도
+120,TEXT_VOICEMAN_05000_001020_MYSTERYVOICE,"그들을 원래 세계로 돌려보낼 방법도
 언젠가 반드시 알아내겠다고 약속하마."
-121,"TEXT_VOICEMAN_05000_001030_MYSTERYVOICE","그러니 일단 지금은…… 조금이라도 좋으니 날 믿어주지 않겠나?"
-122,"TEXT_VOICEMAN_05000_Q5_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-123,"TEXT_VOICEMAN_05000_A5_000_001_NONE_VOICE","일단 알았다"
-124,"TEXT_VOICEMAN_05000_A5_000_002_NONE_VOICE","약속은 반드시 지켜라"
-125,"TEXT_VOICEMAN_05000_A5_000_003_NONE_VOICE","어쩔 수 없지……"
-126,"TEXT_VOICEMAN_05000_001040_MYSTERYVOICE","고맙다…….
+121,TEXT_VOICEMAN_05000_001030_MYSTERYVOICE,그러니 일단 지금은…… 조금이라도 좋으니 날 믿어주지 않겠나?
+122,TEXT_VOICEMAN_05000_Q5_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+123,TEXT_VOICEMAN_05000_A5_000_001_NONE_VOICE,일단 알았다
+124,TEXT_VOICEMAN_05000_A5_000_002_NONE_VOICE,약속은 반드시 지켜라
+125,TEXT_VOICEMAN_05000_A5_000_003_NONE_VOICE,어쩔 수 없지……
+126,TEXT_VOICEMAN_05000_001040_MYSTERYVOICE,"고맙다…….
 그 믿음을 저버리지 않기 위해 최선을 다하도록 하지."
-127,"TEXT_VOICEMAN_05000_001050_MYSTERYVOICE","자, 그렇다면……
+127,TEXT_VOICEMAN_05000_001050_MYSTERYVOICE,"자, 그렇다면……
 동료를 만나러 가려면 여행 준비가 필요하겠지?"
-128,"TEXT_VOICEMAN_05000_001060_MYSTERYVOICE","저쪽 세계에서 넘어오느라 많이 피곤할 거야.
+128,TEXT_VOICEMAN_05000_001060_MYSTERYVOICE,"저쪽 세계에서 넘어오느라 많이 피곤할 거야.
 방을 마련해줄 테니 좀 쉬는 것이 좋겠군.
 ……안내해주지."
-129,"TEXT_VOICEMAN_05000_001070_MYSTERYVOICE","여기가 크리스타리움 상업의 중심지,
+129,TEXT_VOICEMAN_05000_001070_MYSTERYVOICE,"여기가 크리스타리움 상업의 중심지,
 '우주의 화음 시장'이다.
 여행 준비를 할 때는 이곳을 이용하도록 해."
-130,"TEXT_VOICEMAN_05000_001080_MYSTERYVOICE","……아, 돈은 걱정하지 않아도 돼.
+130,TEXT_VOICEMAN_05000_001080_MYSTERYVOICE,"……아, 돈은 걱정하지 않아도 돼.
 그대가 갖고 있는 동전도 사용할 수 있을 테니까."
-131,"TEXT_VOICEMAN_05000_001090_MYSTERYVOICE","여기서도 '빛의 범람' 이전에는
+131,TEXT_VOICEMAN_05000_001090_MYSTERYVOICE,"여기서도 '빛의 범람' 이전에는
 대국에서 발행한 화폐가 유통됐었지만……
 범람 이후에는 워낙 혼란스러워서 말이지."
-132,"TEXT_VOICEMAN_05000_001100_MYSTERYVOICE","결국, 동전의 금속 가치를 가격으로 매기는
+132,TEXT_VOICEMAN_05000_001100_MYSTERYVOICE,"결국, 동전의 금속 가치를 가격으로 매기는
 간단한 방법을 쓰기로 했지."
-133,"TEXT_VOICEMAN_05000_001110_MYSTERYVOICE","크리스탈 타워 내부에서 발견된
+133,TEXT_VOICEMAN_05000_001110_MYSTERYVOICE,"크리스탈 타워 내부에서 발견된
 알라그 문명의 화폐를 참고해서,
 이 도시의 화폐 단위를 '길'로 정했다."
-134,"TEXT_VOICEMAN_05000_001120_MYSTERYVOICE","이 화폐 단위는
+134,TEXT_VOICEMAN_05000_001120_MYSTERYVOICE,"이 화폐 단위는
 우리의 상업 활동과 함께 각지로 퍼져 나가고 있지."
-135,"TEXT_VOICEMAN_05000_001130_MYSTERYVOICE","야슈톨라 말로는 원초세계에서 사용되는 동전은
+135,TEXT_VOICEMAN_05000_001130_MYSTERYVOICE,"야슈톨라 말로는 원초세계에서 사용되는 동전은
 여기서도 가치가 거의 비슷하다더군."
-136,"TEXT_VOICEMAN_05000_001140_MYSTERYVOICE","그 밖에도 탑 내부에서 발견된 물건들은
+136,TEXT_VOICEMAN_05000_001140_MYSTERYVOICE,"그 밖에도 탑 내부에서 발견된 물건들은
 우리 생활에 많은 도움이 되고 있어……."
-137,"TEXT_VOICEMAN_05000_001150_MYSTERYVOICE","어쩌면 그대에게도 익숙한 물건이 있을지 모르지."
-138,"TEXT_VOICEMAN_05000_001160_MYSTERYVOICE","하지만 여기서 모든 걸 처음부터 구하기는 힘들 거다…….
+137,TEXT_VOICEMAN_05000_001150_MYSTERYVOICE,어쩌면 그대에게도 익숙한 물건이 있을지 모르지.
+138,TEXT_VOICEMAN_05000_001160_MYSTERYVOICE,"하지만 여기서 모든 걸 처음부터 구하기는 힘들 거다…….
 원초세계에서 물건을 가져올 수 있으면 좋을 텐데…… 흐음……."
-139,"TEXT_VOICEMAN_05000_001170_MYSTERYVOICE","<Emphasis>""나의 친구여, 거기 있나?""</Emphasis>"
-140,"TEXT_VOICEMAN_05000_001180_FEOUL","(-???-)그럼, 그럼! 물론이지!
+139,TEXT_VOICEMAN_05000_001170_MYSTERYVOICE,"*""나의 친구여, 거기 있나?""*"
+140,TEXT_VOICEMAN_05000_001180_FEOUL,"(-???-)그럼, 그럼! 물론이지!
 오늘은 어떤 재미있는 용건일까?"
-141,"TEXT_VOICEMAN_05000_001190_MYSTERYVOICE","안녕, 페오 울.
+141,TEXT_VOICEMAN_05000_001190_MYSTERYVOICE,"안녕, 페오 울.
 넌 가장 뛰어난 픽시니까 특별히 부탁할 게 있어."
-142,"TEXT_VOICEMAN_05000_001200_MYSTERYVOICE","이 사람은 멀리서 온 나의 친구다."
-143,"TEXT_VOICEMAN_05000_001210_MYSTERYVOICE","이 사람은 멀리서 온 나의 친구다."
-144,"TEXT_VOICEMAN_05000_001220_MYSTERYVOICE","이 친구의 고향과 이곳 사이에 물건을 주고받고 싶은데
+142,TEXT_VOICEMAN_05000_001200_MYSTERYVOICE,이 사람은 멀리서 온 나의 친구다.
+143,TEXT_VOICEMAN_05000_001210_MYSTERYVOICE,이 사람은 멀리서 온 나의 친구다.
+144,TEXT_VOICEMAN_05000_001220_MYSTERYVOICE,"이 친구의 고향과 이곳 사이에 물건을 주고받고 싶은데
 네 힘을 빌릴 수 있을까?"
-145,"TEXT_VOICEMAN_05000_001230_FEOUL","어머!
+145,TEXT_VOICEMAN_05000_001230_FEOUL,"어머!
 넌 세계의 경계 너머에서 왔구나!?"
-146,"TEXT_VOICEMAN_05000_001240_FEOUL","어쩜~ 너무 재미있다!
+146,TEXT_VOICEMAN_05000_001240_FEOUL,"어쩜~ 너무 재미있다!
 용감하고 무모한 사람! 우리에겐 없는 마음을 가진 사람!"
-147,"TEXT_VOICEMAN_05000_001250_FEOUL","그래그래, 좋고말고!
+147,TEXT_VOICEMAN_05000_001250_FEOUL,"그래그래, 좋고말고!
 나와 계약을 맺으면 내가 도와줄게."
-148,"TEXT_VOICEMAN_05000_001260_FEOUL","그런데 너 말이야.
+148,TEXT_VOICEMAN_05000_001260_FEOUL,"그런데 너 말이야.
 세계의 경계에서 넘어올 때 옷이나 손톱을 잃어버리지는 않았지?"
-149,"TEXT_VOICEMAN_05000_001270_FEOUL","완벽해!
+149,TEXT_VOICEMAN_05000_001270_FEOUL,"완벽해!
 그건 곧 너의 물건이 너처럼
 경계를 넘어올 수 있단 뜻이거든."
-150,"TEXT_VOICEMAN_05000_001280_FEOUL","그러니까 이제부터 난 너의 <Emphasis>""아름다운 가지""</Emphasis>고,
-넌 나의 <Emphasis>""귀여운 어린나무""</Emphasis>야.
+150,TEXT_VOICEMAN_05000_001280_FEOUL,"그러니까 이제부터 난 너의 *""아름다운 가지""*고,
+넌 나의 *""귀여운 어린나무""*야.
 우린 단단하게 이어질 거야!"
-151,"TEXT_VOICEMAN_05000_001290_FEOUL","이제…… 손을 내밀어 줄래?"
-152,"TEXT_VOICEMAN_05000_001300_FEOUL","좋아, 끝났어!
+151,TEXT_VOICEMAN_05000_001290_FEOUL,이제…… 손을 내밀어 줄래?
+152,TEXT_VOICEMAN_05000_001300_FEOUL,"좋아, 끝났어!
 앞으로 잘 부탁해, 나의 어린나무."
-153,"TEXT_VOICEMAN_05000_001310_FEOUL","자, 그럼! 아무거나 얼른 부탁해 봐!
+153,TEXT_VOICEMAN_05000_001310_FEOUL,"자, 그럼! 아무거나 얼른 부탁해 봐!
 나, 경계 너머에 가 보고 싶어!"
-154,"TEXT_VOICEMAN_05000_001320_MYSTERYVOICE","그럼 저쪽 세계에서 그대를 기다리고 있는 자들에게
+154,TEXT_VOICEMAN_05000_001320_MYSTERYVOICE,"그럼 저쪽 세계에서 그대를 기다리고 있는 자들에게
 일단 무사하다는 소식을 전하면 어떨까?"
-155,"TEXT_VOICEMAN_05000_Q6_000_001_NONE_VOICE","누구에게 연락하시겠습니까?"
-156,"TEXT_VOICEMAN_05000_A6_000_001_NONE_VOICE","타타루에게 소식을 전한다"
-157,"TEXT_VOICEMAN_05000_A6_000_002_NONE_VOICE","쿠루루에게 소식을 전한다"
-158,"TEXT_VOICEMAN_05000_001330_FEOUL","알겠어!
+155,TEXT_VOICEMAN_05000_Q6_000_001_NONE_VOICE,누구에게 연락하시겠습니까?
+156,TEXT_VOICEMAN_05000_A6_000_001_NONE_VOICE,타타루에게 소식을 전한다
+157,TEXT_VOICEMAN_05000_A6_000_002_NONE_VOICE,쿠루루에게 소식을 전한다
+158,TEXT_VOICEMAN_05000_001330_FEOUL,"알겠어!
 그럼 잠깐 갔다 올게!"
-159,"TEXT_VOICEMAN_05000_001340_MYSTERYVOICE","페오 울은 픽시족일세.
+159,TEXT_VOICEMAN_05000_001340_MYSTERYVOICE,"페오 울은 픽시족일세.
 마법 생물에 가까운 종족이지."
-160,"TEXT_VOICEMAN_05000_001350_MYSTERYVOICE","픽시족은 대체로 인간이 사는 도시에 잘 나타나지 않는데
+160,TEXT_VOICEMAN_05000_001350_MYSTERYVOICE,"픽시족은 대체로 인간이 사는 도시에 잘 나타나지 않는데
 페오 울은 유독 호기심이 왕성해서인지
 크리스타리움이 마음에 들었나 보더군."
-161,"TEXT_VOICEMAN_05000_001360_MYSTERYVOICE","자, 이제 정말로 그대가 지낼 방으로 안내하지."
-162,"TEXT_VOICEMAN_05000_001370_SYSTEM_NONE_VOICE","（★未使用／削除予定★）"
-163,"TEXT_VOICEMAN_05000_001380_WARRIOROFDARKNESS","(-???-)……너……는…………."
-164,"TEXT_VOICEMAN_05000_001390_WARRIOROFDARKNESS","(-???-)너는 원초세계의 빛의 전사……!?
+161,TEXT_VOICEMAN_05000_001360_MYSTERYVOICE,"자, 이제 정말로 그대가 지낼 방으로 안내하지."
+162,TEXT_VOICEMAN_05000_001370_SYSTEM_NONE_VOICE,（★未使用／削除予定★）
+163,TEXT_VOICEMAN_05000_001380_WARRIOROFDARKNESS,(-???-)……너……는………….
+164,TEXT_VOICEMAN_05000_001390_WARRIOROFDARKNESS,"(-???-)너는 원초세계의 빛의 전사……!?
 어떻게 여기에……!"
-165,"TEXT_VOICEMAN_05000_Q7_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-166,"TEXT_VOICEMAN_05000_A7_000_001_NONE_VOICE","어둠의 전사……?"
-167,"TEXT_VOICEMAN_05000_A7_000_002_NONE_VOICE","누구……?"
-168,"TEXT_VOICEMAN_05000_001400_WARRIOROFDARKNESS","(-???-)헛……?
+165,TEXT_VOICEMAN_05000_Q7_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+166,TEXT_VOICEMAN_05000_A7_000_001_NONE_VOICE,어둠의 전사……?
+167,TEXT_VOICEMAN_05000_A7_000_002_NONE_VOICE,누구……?
+168,TEXT_VOICEMAN_05000_001400_WARRIOROFDARKNESS,"(-???-)헛……?
 내 목소리가 들리는 건가!?"
-169,"TEXT_VOICEMAN_05000_001410_WARRIOROFDARKNESS","(-???-)말도 안 돼…… 어떻게 이런 일이……."
-170,"TEXT_VOICEMAN_05000_001420_WARRIOROFDARKNESS","(-???-)어둠의 전사……
+169,TEXT_VOICEMAN_05000_001410_WARRIOROFDARKNESS,(-???-)말도 안 돼…… 어떻게 이런 일이…….
+170,TEXT_VOICEMAN_05000_001420_WARRIOROFDARKNESS,"(-???-)어둠의 전사……
 그래, 그쪽 세계에서는 그렇게 불렀지."
-171,"TEXT_VOICEMAN_05000_001430_WARRIOROFDARKNESS","내 진짜 이름은 아르버트.
+171,TEXT_VOICEMAN_05000_001430_WARRIOROFDARKNESS,"내 진짜 이름은 아르버트.
 원초세계에서 쓰던 이름과 발음은 거의 비슷하다."
-172,"TEXT_VOICEMAN_05000_001440_WARRIOROFDARKNESS","(-???-)내가 누구냐고……?
+172,TEXT_VOICEMAN_05000_001440_WARRIOROFDARKNESS,"(-???-)내가 누구냐고……?
 너에게는 기억에 남을 만한 상대가 아니었나 보군."
-173,"TEXT_VOICEMAN_05000_001450_WARRIOROFDARKNESS","내 이름은 아르버트.
+173,TEXT_VOICEMAN_05000_001450_WARRIOROFDARKNESS,"내 이름은 아르버트.
 한때 이곳 제1세계의 빛의 전사였던 자……
 그리고 너에게 패배했던 어둠의 전사다."
-174,"TEXT_VOICEMAN_05000_001460_WARRIOROFDARKNESS","……과거에 나와 동료들은
+174,TEXT_VOICEMAN_05000_001460_WARRIOROFDARKNESS,"……과거에 나와 동료들은
 이 세계에 '빛의 범람'을 일으킨 원인을 만들고 말았다."
-175,"TEXT_VOICEMAN_05000_001470_WARRIOROFDARKNESS","이대로 모든 것이 '무'로 돌아갈 바에는 차라리……
+175,TEXT_VOICEMAN_05000_001470_WARRIOROFDARKNESS,"이대로 모든 것이 '무'로 돌아갈 바에는 차라리……
 그런 심정으로 아씨엔을 따라 원초세계로 건너가
 세계의 통합을 도우려 했다."
-176,"TEXT_VOICEMAN_05000_001480_WARRIOROFDARKNESS","그러다 너희에게 패배하고 말았지.
+176,TEXT_VOICEMAN_05000_001480_WARRIOROFDARKNESS,"그러다 너희에게 패배하고 말았지.
 하지만 빛의 무녀…… 민필리아를 만나
 우리의 혼은 이쪽 세계로 돌아올 수 있었다."
-177,"TEXT_VOICEMAN_05000_001490_WARRIOROFDARKNESS","돌아왔을 때는 이미, '빛의 범람'이
+177,TEXT_VOICEMAN_05000_001490_WARRIOROFDARKNESS,"돌아왔을 때는 이미, '빛의 범람'이
 노르브란트를 집어삼키려 하던 바로 그때더군."
-178,"TEXT_VOICEMAN_05000_001500_WARRIOROFDARKNESS","민필리아와 내 동료들의 혼은
+178,TEXT_VOICEMAN_05000_001500_WARRIOROFDARKNESS,"민필리아와 내 동료들의 혼은
 그걸 막기 위해 혼신의 힘을 다했고…… 결국엔 모두 사라졌다.
 나만 남기고 말이야……."
-179,"TEXT_VOICEMAN_05000_001510_WARRIOROFDARKNESS","이봐, 지금은 어느 시대지……?
+179,TEXT_VOICEMAN_05000_001510_WARRIOROFDARKNESS,"이봐, 지금은 어느 시대지……?
 '빛의 범람' 이후로 얼마나 시간이 흘렀지?"
-180,"TEXT_VOICEMAN_05000_001520_WARRIOROFDARKNESS","100년이라…….
+180,TEXT_VOICEMAN_05000_001520_WARRIOROFDARKNESS,"100년이라…….
 그래…… 벌써 그렇게……."
-181,"TEXT_VOICEMAN_05000_001530_WARRIOROFDARKNESS","난 이제 아무것도 만질 수가 없어.
+181,TEXT_VOICEMAN_05000_001530_WARRIOROFDARKNESS,"난 이제 아무것도 만질 수가 없어.
 아무도 내 모습을 볼 수 없고
 아무리 소리를 질러도 그 누구도 들을 수 없지."
-182,"TEXT_VOICEMAN_05000_001540_WARRIOROFDARKNESS","그저 떠돌아다니는 망령 신세일 뿐."
-183,"TEXT_VOICEMAN_05000_001550_WARRIOROFDARKNESS","오랫동안 계속해서 걷기만 한 것 같은데……
+182,TEXT_VOICEMAN_05000_001540_WARRIOROFDARKNESS,그저 떠돌아다니는 망령 신세일 뿐.
+183,TEXT_VOICEMAN_05000_001550_WARRIOROFDARKNESS,"오랫동안 계속해서 걷기만 한 것 같은데……
 어느샌가 자신의 모습조차 잃고, 의식도 희미해졌다."
-184,"TEXT_VOICEMAN_05000_001560_WARRIOROFDARKNESS","그러더니 조금 전에 갑자기 앞이 보이기 시작하더군.
+184,TEXT_VOICEMAN_05000_001560_WARRIOROFDARKNESS,"그러더니 조금 전에 갑자기 앞이 보이기 시작하더군.
 뭔가에 이끌리는 느낌에, 정신을 차려보니 여기였어."
-185,"TEXT_VOICEMAN_05000_001570_WARRIOROFDARKNESS","어째서 너는 나를 볼 수 있지?
+185,TEXT_VOICEMAN_05000_001570_WARRIOROFDARKNESS,"어째서 너는 나를 볼 수 있지?
 아니, 애초에 네가 왜 여기 있는 거지……?"
-186,"TEXT_VOICEMAN_05000_001580_WARRIOROFDARKNESS","제1세계를 구하기 위해 네가 소환되었단 말인가……."
-187,"TEXT_VOICEMAN_05000_001590_WARRIOROFDARKNESS","멍청하군…… 세계를 구하는 것도 불가능하지만
+186,TEXT_VOICEMAN_05000_001580_WARRIOROFDARKNESS,제1세계를 구하기 위해 네가 소환되었단 말인가…….
+187,TEXT_VOICEMAN_05000_001590_WARRIOROFDARKNESS,"멍청하군…… 세계를 구하는 것도 불가능하지만
 세계를 구하려는 녀석은 더욱 구제불능이다."
-188,"TEXT_VOICEMAN_05000_001600_WARRIOROFDARKNESS","적어도 나는 이미…….
+188,TEXT_VOICEMAN_05000_001600_WARRIOROFDARKNESS,"적어도 나는 이미…….
 그렇게 헤매다 보니 싸우던 이유조차 잊었어……."
-189,"TEXT_VOICEMAN_05000_001610_WARRIOROFDARKNESS","하지만 이렇게 널 만난 것도
+189,TEXT_VOICEMAN_05000_001610_WARRIOROFDARKNESS,"하지만 이렇게 널 만난 것도
 너에게만 내 모습이 보이는 것도
 이유는 모르겠지만…… 무언가 의미가 있을지도 모르겠군."
-190,"TEXT_VOICEMAN_05000_001620_WARRIOROFDARKNESS","난, 내가 남겨진 의미를 알고 싶어……
+190,TEXT_VOICEMAN_05000_001620_WARRIOROFDARKNESS,"난, 내가 남겨진 의미를 알고 싶어……
 이번에야말로 반드시 여정을 끝내고 싶다."
-191,"TEXT_VOICEMAN_05000_001630_WARRIOROFDARKNESS","너의 싸움을 당분간 지켜보도록 하지."
-192,"TEXT_VOICEMAN_05000_001640_WARRIOROFDARKNESS","부디 조심해라.
+191,TEXT_VOICEMAN_05000_001630_WARRIOROFDARKNESS,너의 싸움을 당분간 지켜보도록 하지.
+192,TEXT_VOICEMAN_05000_001640_WARRIOROFDARKNESS,"부디 조심해라.
 ……이 세계는 더 이상 영웅이 있을 곳이 아니야."
-193,"TEXT_VOICEMAN_05000_001650_MYSTERYVOICE","방은 어땠나?
+193,TEXT_VOICEMAN_05000_001650_MYSTERYVOICE,"방은 어땠나?
 푹 쉴 수 있었나……?"
-194,"TEXT_VOICEMAN_05000_Q8_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-195,"TEXT_VOICEMAN_05000_A8_000_001_NONE_VOICE","그럭저럭 괜찮았어"
-196,"TEXT_VOICEMAN_05000_A8_000_002_NONE_VOICE","유령을 봤어……"
-197,"TEXT_VOICEMAN_05000_001660_MYSTERYVOICE","그렇다면 다행이군.
+194,TEXT_VOICEMAN_05000_Q8_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+195,TEXT_VOICEMAN_05000_A8_000_001_NONE_VOICE,그럭저럭 괜찮았어
+196,TEXT_VOICEMAN_05000_A8_000_002_NONE_VOICE,유령을 봤어……
+197,TEXT_VOICEMAN_05000_001660_MYSTERYVOICE,"그렇다면 다행이군.
 불편한 점이 있으면 언제든 말하게."
-198,"TEXT_VOICEMAN_05000_001670_MYSTERYVOICE","뭐……?
+198,TEXT_VOICEMAN_05000_001670_MYSTERYVOICE,"뭐……?
 그런 얘기는…… 처음 듣는데……
 만약 불편해서 쉴 수 없을 것 같으면 말하게."
-199,"TEXT_VOICEMAN_05000_001680_MYSTERYVOICE","자…… 그럼 이제
+199,TEXT_VOICEMAN_05000_001680_MYSTERYVOICE,"자…… 그럼 이제
 '새벽'의 동료들이 현재 어디에 있는지 설명하지."
-200,"TEXT_VOICEMAN_05000_001690_MYSTERYVOICE","이건 '빛의 범람'을 피해 살아남은 지역……
+200,TEXT_VOICEMAN_05000_001690_MYSTERYVOICE,"이건 '빛의 범람'을 피해 살아남은 지역……
 노르브란트의 임시 지도다."
-201,"TEXT_VOICEMAN_05000_001700_MYSTERYVOICE","이 부근이 크리스타리움이 있는
+201,TEXT_VOICEMAN_05000_001700_MYSTERYVOICE,"이 부근이 크리스타리움이 있는
 '레이크랜드'라고 불리는 곳이다."
-202,"TEXT_VOICEMAN_05000_001710_MYSTERYVOICE","북쪽엔 요정의 땅 '일 메그'가 있고
+202,TEXT_VOICEMAN_05000_001710_MYSTERYVOICE,"북쪽엔 요정의 땅 '일 메그'가 있고
 지금 위리앙제가 이곳에 있지."
-203,"TEXT_VOICEMAN_05000_001720_MYSTERYVOICE","동쪽은 과거에 번성했던 '라케티카 대삼림'인데
+203,TEXT_VOICEMAN_05000_001720_MYSTERYVOICE,"동쪽은 과거에 번성했던 '라케티카 대삼림'인데
 여긴 야슈톨라의 거점이다."
-204,"TEXT_VOICEMAN_05000_001730_MYSTERYVOICE","……하지만 이 지역들은 들어가기 전에 조금 준비가 필요해."
-205,"TEXT_VOICEMAN_05000_001740_MYSTERYVOICE","일단 알피노와 알리제부터 만나 보는 게 좋을 것 같군.
+204,TEXT_VOICEMAN_05000_001730_MYSTERYVOICE,……하지만 이 지역들은 들어가기 전에 조금 준비가 필요해.
+205,TEXT_VOICEMAN_05000_001740_MYSTERYVOICE,"일단 알피노와 알리제부터 만나 보는 게 좋을 것 같군.
 크리스타리움에서 날짐승을 타고 바로 갈 수 있는 곳에 있거든."
-206,"TEXT_VOICEMAN_05000_001750_MYSTERYVOICE","알피노가 있는 곳은 서쪽 바다의 '콜루시아 섬'이다.
+206,TEXT_VOICEMAN_05000_001750_MYSTERYVOICE,"알피노가 있는 곳은 서쪽 바다의 '콜루시아 섬'이다.
 귀족과 부호들이 모여 사는 대도시 '율모어'가 있는 곳이지."
-207,"TEXT_VOICEMAN_05000_001760_MYSTERYVOICE","알피노는 세계를 구하기 위한 첫걸음으로
+207,TEXT_VOICEMAN_05000_001760_MYSTERYVOICE,"알피노는 세계를 구하기 위한 첫걸음으로
 먼저 주민들을 이해하고 인맥을 쌓는 길을 택했다.
 지금은 거기서 정보를 수집하는 중이라는군."
-208,"TEXT_VOICEMAN_05000_001770_MYSTERYVOICE","그리고 알리제가 있는 곳은
+208,TEXT_VOICEMAN_05000_001770_MYSTERYVOICE,"그리고 알리제가 있는 곳은
 남쪽에 펼쳐진 메마른 땅 '아므 아랭'."
-209,"TEXT_VOICEMAN_05000_001780_MYSTERYVOICE","여긴 '빛의 범람'으로 인해 '무'로 돌아간 대지와의 경계지역이다.
+209,TEXT_VOICEMAN_05000_001780_MYSTERYVOICE,"여긴 '빛의 범람'으로 인해 '무'로 돌아간 대지와의 경계지역이다.
 인간이 존재할 수 있는 한계 지역이라
 죄식자와 전투도 자주 일어나는 곳이지."
-210,"TEXT_VOICEMAN_05000_001790_MYSTERYVOICE","알리제는 오빠와는 달리 먼저 적부터 파악해야 한다더군.
+210,TEXT_VOICEMAN_05000_001790_MYSTERYVOICE,"알리제는 오빠와는 달리 먼저 적부터 파악해야 한다더군.
 그래서 스스로 단련도 할 겸, 그곳 사람들을 돕고 있다."
-211,"TEXT_VOICEMAN_05000_001800_MYSTERYVOICE","알피노가 있는 '콜루시아 섬'과
+211,TEXT_VOICEMAN_05000_001800_MYSTERYVOICE,"알피노가 있는 '콜루시아 섬'과
 알리제가 있는 '아므 아랭'.
 어느 쪽을 먼저 가든 상관은 없다."
-212,"TEXT_VOICEMAN_05000_001810_MYSTERYVOICE","어디로 갈지 정한 후에 내게 말해주면
+212,TEXT_VOICEMAN_05000_001810_MYSTERYVOICE,"어디로 갈지 정한 후에 내게 말해주면
 바로 갈 수 있도록 준비하도록 하지."
-213,"TEXT_VOICEMAN_05000_001820_MYSTERYVOICE","아, 그리고 산크레드는……
+213,TEXT_VOICEMAN_05000_001820_MYSTERYVOICE,"아, 그리고 산크레드는……
 어떤 사람과 함께
 죄식자를 사냥하며 다니고 있다…… 정도로만 말해 두지."
-214,"TEXT_VOICEMAN_05000_001830_MYSTERYVOICE","당장 만나기는 어렵겠지만
+214,TEXT_VOICEMAN_05000_001830_MYSTERYVOICE,"당장 만나기는 어렵겠지만
 때가 되면 반드시 만날 수 있을 거다."
-215,"TEXT_VOICEMAN_05000_001840_WARRIOROFDARKNESS","바닷바람과 끊임없는 파도 소리
+215,TEXT_VOICEMAN_05000_001840_WARRIOROFDARKNESS,"바닷바람과 끊임없는 파도 소리
 그 섬에서는 그 어떤 시간의 흐름조차 잔잔해진다"
-216,"TEXT_VOICEMAN_05000_001850_WARRIOROFDARKNESS","낮게 드리운 빛 아래에서는 더욱더
+216,TEXT_VOICEMAN_05000_001850_WARRIOROFDARKNESS,"낮게 드리운 빛 아래에서는 더욱더
 움직임 없는 한 폭의 그림 같다"
-217,"TEXT_VOICEMAN_05000_001860_WARRIOROFDARKNESS","화려한 연주가 바람을 타고 희미하게 들려온다"
-218,"TEXT_VOICEMAN_05000_001870_WARRIOROFDARKNESS","멀리 보이는 도시까지는 그저 황야가 펼쳐져 있을 뿐――"
-219,"TEXT_VOICEMAN_05000_001880_ALPHINAUD","(-???-)이보게, 장사는 좀 어떤가?"
-220,"TEXT_VOICEMAN_05000_001890_THEVA","어서 와.
+217,TEXT_VOICEMAN_05000_001860_WARRIOROFDARKNESS,화려한 연주가 바람을 타고 희미하게 들려온다
+218,TEXT_VOICEMAN_05000_001870_WARRIOROFDARKNESS,멀리 보이는 도시까지는 그저 황야가 펼쳐져 있을 뿐――
+219,TEXT_VOICEMAN_05000_001880_ALPHINAUD,"(-???-)이보게, 장사는 좀 어떤가?"
+220,TEXT_VOICEMAN_05000_001890_THEVA,"어서 와.
 놀라지 마, 외지에서 손님이 와 있어."
-221,"TEXT_VOICEMAN_05000_001900_ALPHINAUD","……오랜만이군.
+221,TEXT_VOICEMAN_05000_001900_ALPHINAUD,"……오랜만이군.
 기다리게 해서 미안하네."
-222,"TEXT_VOICEMAN_05000_001910_ALPHINAUD","부탁했던 밀 씨앗일세.
+222,TEXT_VOICEMAN_05000_001910_ALPHINAUD,"부탁했던 밀 씨앗일세.
 지난번 씨앗보다 낱알이 많이 열릴 걸세."
-223,"TEXT_VOICEMAN_05000_001920_THEVA","어머, 용케 구해 왔네.
+223,TEXT_VOICEMAN_05000_001920_THEVA,"어머, 용케 구해 왔네.
 역시 알피노야…… 고마워."
-224,"TEXT_VOICEMAN_05000_001930_THEVA","그럼 난 늘어난 빈집이나 정리하고 올까?
+224,TEXT_VOICEMAN_05000_001930_THEVA,"그럼 난 늘어난 빈집이나 정리하고 올까?
 여기는 마음대로 쓰도록 해."
-225,"TEXT_VOICEMAN_05000_001940_ALPHINAUD","정말 오랜만에 만나는 것 같군.
+225,TEXT_VOICEMAN_05000_001940_ALPHINAUD,"정말 오랜만에 만나는 것 같군.
 도마에서 포로 교환이 있었던 이후로 처음인가……."
-226,"TEXT_VOICEMAN_05000_001950_ALPHINAUD","나는 이쪽 세계에 온 후로 시간이 좀 지났다네.
+226,TEXT_VOICEMAN_05000_001950_ALPHINAUD,"나는 이쪽 세계에 온 후로 시간이 좀 지났다네.
 정말…… 건강해 보여서 다행이야."
-227,"TEXT_VOICEMAN_05000_Q9_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-228,"TEXT_VOICEMAN_05000_A9_000_001_NONE_VOICE","그건 내가 할 말이다"
-229,"TEXT_VOICEMAN_05000_A9_000_002_NONE_VOICE","찾느라고 많이 고생했어"
-230,"TEXT_VOICEMAN_05000_001960_ALPHINAUD","하하하하…….
+227,TEXT_VOICEMAN_05000_Q9_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+228,TEXT_VOICEMAN_05000_A9_000_001_NONE_VOICE,그건 내가 할 말이다
+229,TEXT_VOICEMAN_05000_A9_000_002_NONE_VOICE,찾느라고 많이 고생했어
+230,TEXT_VOICEMAN_05000_001960_ALPHINAUD,"하하하하…….
 알리제도 여기서 다시 만났을 때 똑같은 말을 하더군.
 오랜만에 호되게 혼났다네."
-231,"TEXT_VOICEMAN_05000_001970_ALPHINAUD","일단은 우리 둘 다 무사하니 다행일세.
+231,TEXT_VOICEMAN_05000_001970_ALPHINAUD,"일단은 우리 둘 다 무사하니 다행일세.
 그래, 여기까지 어떻게 오게 되었나? 서로 이야기해 봄세."
-232,"TEXT_VOICEMAN_05000_001980_ALPHINAUD","그렇군…….
+232,TEXT_VOICEMAN_05000_001980_ALPHINAUD,"그렇군…….
 수정공과 알리제한테서 사정을 듣긴 했지만
 역시 제국과의 전쟁은……."
-233,"TEXT_VOICEMAN_05000_001990_ALPHINAUD","게다가 타타루에게도 걱정을 끼치고 말았군.
+233,TEXT_VOICEMAN_05000_001990_ALPHINAUD,"게다가 타타루에게도 걱정을 끼치고 말았군.
 어떻게든 다 같이 무사히 돌아가야 할 텐데……."
-234,"TEXT_VOICEMAN_05000_001991_ALPHINAUD","사과의 뜻으로 좋은 소식을 잔뜩 갖고 말일세."
-235,"TEXT_VOICEMAN_05000_002000_ALPHINAUD","그러기 위해서라도 원초세계와 제1세계의 통합……
+234,TEXT_VOICEMAN_05000_001991_ALPHINAUD,사과의 뜻으로 좋은 소식을 잔뜩 갖고 말일세.
+235,TEXT_VOICEMAN_05000_002000_ALPHINAUD,"그러기 위해서라도 원초세계와 제1세계의 통합……
 제8재해가 발생할 가능성을 못 본 척할 수는 없네."
-236,"TEXT_VOICEMAN_05000_002010_ALPHINAUD","위리앙제가 본 미래는
+236,TEXT_VOICEMAN_05000_002010_ALPHINAUD,"위리앙제가 본 미래는
 정말로 일어날 수 있는 일이라고 생각하네."
-237,"TEXT_VOICEMAN_05000_002020_ALPHINAUD","위리앙제의 말에 따르면
+237,TEXT_VOICEMAN_05000_002020_ALPHINAUD,"위리앙제의 말에 따르면
 원초세계에서 제8재해가 일어난 계기는
 제국이 사용한 형체 없는 죽음의 병기였다더군……."
-238,"TEXT_VOICEMAN_05000_002030_ALPHINAUD","'검은 장미'라는 독가스 병기가 틀림없네.
+238,TEXT_VOICEMAN_05000_002030_ALPHINAUD,"'검은 장미'라는 독가스 병기가 틀림없네.
 난 가이우스와 함께 각 지역을 돌아다닐 때
 그 병기가 재개발되고 있는 걸 직접 확인했다네."
-239,"TEXT_VOICEMAN_05000_002040_ALPHINAUD","가이우스는 과거에 폐기된 연구라고 했지만
+239,TEXT_VOICEMAN_05000_002040_ALPHINAUD,"가이우스는 과거에 폐기된 연구라고 했지만
 인간의 전쟁이 끊이지 않는 한
 한 번 만들어진 병기가 완전히 사라지진 않을 걸세……."
-240,"TEXT_VOICEMAN_05000_002050_ALPHINAUD","원초세계에 현존하는 '검은 장미'만 폐기한다고
+240,TEXT_VOICEMAN_05000_002050_ALPHINAUD,"원초세계에 현존하는 '검은 장미'만 폐기한다고
 문제가 완전히 해결되는 것은 아니라네."
-241,"TEXT_VOICEMAN_05000_002060_ALPHINAUD","……그런 의미에서
+241,TEXT_VOICEMAN_05000_002060_ALPHINAUD,"……그런 의미에서
 우리가 제1세계로 소환된 건 행운이라고 할 수 있지."
-242,"TEXT_VOICEMAN_05000_002070_ALPHINAUD","우리는 수정공과 지식을 모은 결과
+242,TEXT_VOICEMAN_05000_002070_ALPHINAUD,"우리는 수정공과 지식을 모은 결과
 세계 통합이 일어나는 진정한 조건을 어느 정도 밝혀냈네."
-243,"TEXT_VOICEMAN_05000_002080_ALPHINAUD","자세한 얘기는 언젠가 위리앙제가 하겠지만……"
-244,"TEXT_VOICEMAN_05000_002090_ALPHINAUD","세계 통합은 흡수하는 쪽과 흡수당하는 쪽
+243,TEXT_VOICEMAN_05000_002080_ALPHINAUD,자세한 얘기는 언젠가 위리앙제가 하겠지만……
+244,TEXT_VOICEMAN_05000_002090_ALPHINAUD,"세계 통합은 흡수하는 쪽과 흡수당하는 쪽
 양쪽이 모두 심각한 위기에 직면하게 되면 발생한다네."
-245,"TEXT_VOICEMAN_05000_002100_ALPHINAUD","그리고 지금 이곳 제1세계의 위기는
+245,TEXT_VOICEMAN_05000_002100_ALPHINAUD,"그리고 지금 이곳 제1세계의 위기는
 바로 '죄식자' 문제."
-246,"TEXT_VOICEMAN_05000_002110_ALPHINAUD","그래서 난 이 문제를 해결하고 싶네.
+246,TEXT_VOICEMAN_05000_002110_ALPHINAUD,"그래서 난 이 문제를 해결하고 싶네.
 설사 그것이……."
-247,"TEXT_VOICEMAN_05000_002120_ALPHINAUD","내가 태어난 세계의 일이 아니라고 해도 말일세.
+247,TEXT_VOICEMAN_05000_002120_ALPHINAUD,"내가 태어난 세계의 일이 아니라고 해도 말일세.
 눈앞에서 고통받는 사람을
 못 본 척하고 싶지 않다네……!"
-248,"TEXT_VOICEMAN_05000_002130_ALPHINAUD","그래서 그 첫걸음으로
+248,TEXT_VOICEMAN_05000_002130_ALPHINAUD,"그래서 그 첫걸음으로
 세계 정부를 자처하며 사실상 거대 권력을 장악하고 있는 도시,
 '율모어'에 대해 알아볼 생각이었네."
-249,"TEXT_VOICEMAN_05000_002140_ALPHINAUD","앞으로 해야 할 일을 정하기 위해……
+249,TEXT_VOICEMAN_05000_002140_ALPHINAUD,"앞으로 해야 할 일을 정하기 위해……
 괜찮다면 자네도 동행해 줬으면 하는데, 어떤가?"
-250,"TEXT_VOICEMAN_05000_002150_ALPHINAUD","기쁘군…… 오랜만에 자네와 여행을 할 수 있겠어.
+250,TEXT_VOICEMAN_05000_002150_ALPHINAUD,"기쁘군…… 오랜만에 자네와 여행을 할 수 있겠어.
 여기서도 잘 부탁하네."
-251,"TEXT_VOICEMAN_05000_002160_ALPHINAUD","저 안쪽에 있는 것이 '환영의 문'……
+251,TEXT_VOICEMAN_05000_002160_ALPHINAUD,"저 안쪽에 있는 것이 '환영의 문'……
 그 너머로 보이는 도시가 목적지인 율모어라네."
-252,"TEXT_VOICEMAN_05000_002170_ALPHINAUD","그리고 여기는 '문전촌'이네.
+252,TEXT_VOICEMAN_05000_002170_ALPHINAUD,"그리고 여기는 '문전촌'이네.
 율모어에서 살고 싶어 하는 자들이
 선택받기를 기다리며 사는 곳일세."
-253,"TEXT_VOICEMAN_05000_002180_GATETOWNMIDDLEAGE","오오……!
+253,TEXT_VOICEMAN_05000_002180_GATETOWNMIDDLEAGE,"오오……!
 늘 오던 이상한 꼬마가 오늘은 신입을 데려왔네!"
-254,"TEXT_VOICEMAN_05000_002190_GATETOWNMIDDLEAGE","헤헤헤……
+254,TEXT_VOICEMAN_05000_002190_GATETOWNMIDDLEAGE,"헤헤헤……
 특기가 있는 놈이라면 대환영이야.
 그래, 넌 뭘 할 줄 알지?"
-255,"TEXT_VOICEMAN_05000_002200_ALPHINAUD","이 사람은 이주 희망자가 아니네.
+255,TEXT_VOICEMAN_05000_002200_ALPHINAUD,"이 사람은 이주 희망자가 아니네.
 자네들을 방해하지 않을 테니 내버려 두게나."
-256,"TEXT_VOICEMAN_05000_002210_ALPHINAUD","이 사람은 이주 희망자가 아니네.
+256,TEXT_VOICEMAN_05000_002210_ALPHINAUD,"이 사람은 이주 희망자가 아니네.
 자네들을 방해하지 않을 테니 내버려 두게나."
-257,"TEXT_VOICEMAN_05000_002220_GATETOWNMIDDLEAGE","뭐라고~?
+257,TEXT_VOICEMAN_05000_002220_GATETOWNMIDDLEAGE,"뭐라고~?
 기껏 좋은 뜻으로 물어봐 줬더니!"
-258,"TEXT_VOICEMAN_05000_002230_CLOWNOFBLUE","(-???-)자아~!
+258,TEXT_VOICEMAN_05000_002230_CLOWNOFBLUE,"(-???-)자아~!
 여러분, 모두 주목~!"
-259,"TEXT_VOICEMAN_05000_002240_CLOWNOFRED","전도유망한 시민 후보자 여러분!
+259,TEXT_VOICEMAN_05000_002240_CLOWNOFRED,"전도유망한 시민 후보자 여러분!
 잘들 있었어~?"
-260,"TEXT_VOICEMAN_05000_002250_CLOWNOFRED","오늘은 말이지, 어떤 귀부인께서
+260,TEXT_VOICEMAN_05000_002250_CLOWNOFRED,"오늘은 말이지, 어떤 귀부인께서
 아주아주 맛있는 생선 요리를 드시고 싶으시다네~!"
-261,"TEXT_VOICEMAN_05000_002260_CLOWNOFBLUE","그래서 그걸 만들어 줄 사람을 찾으러 왔어!
+261,TEXT_VOICEMAN_05000_002260_CLOWNOFBLUE,"그래서 그걸 만들어 줄 사람을 찾으러 왔어!
 부인을 만족시키면 물론 도시 안에서 살 수 있지.
 생선을 먹지 않는 날에도 쭈욱~!"
-262,"TEXT_VOICEMAN_05000_002270_CLOWNOFRED","어때? 지원할 사람?
+262,TEXT_VOICEMAN_05000_002270_CLOWNOFRED,"어때? 지원할 사람?
 추천도 받을게~!"
-263,"TEXT_VOICEMAN_05000_002280_GATETOWNMIDDLEAGE","생선이라"
-264,"TEXT_VOICEMAN_05000_002290_GATETOWNMAN","누가 있더라?"
-265,"TEXT_VOICEMAN_05000_002300_GATETOWNWOMAN","그 여자는 어떨까?"
-266,"TEXT_VOICEMAN_05000_002310_ALPHINAUD","……율모어는 세계 정부를 자처한다고 했지?
+263,TEXT_VOICEMAN_05000_002280_GATETOWNMIDDLEAGE,생선이라
+264,TEXT_VOICEMAN_05000_002290_GATETOWNMAN,누가 있더라?
+265,TEXT_VOICEMAN_05000_002300_GATETOWNWOMAN,그 여자는 어떨까?
+266,TEXT_VOICEMAN_05000_002310_ALPHINAUD,"……율모어는 세계 정부를 자처한다고 했지?
 사실 저 도시에는 다른 이름도 있다네."
-267,"TEXT_VOICEMAN_05000_002320_ALPHINAUD","마지막 환락 도시…….
+267,TEXT_VOICEMAN_05000_002320_ALPHINAUD,"마지막 환락 도시…….
 '빛의 범람'에서 살아남은 귀족과 부호가
 남은 시간 동안 즐겁게 놀고먹으며 지내는 곳……."
-268,"TEXT_VOICEMAN_05000_002330_ALPHINAUD","'가진 게 없는' 일반인이 그 낙원에서 살려면
+268,TEXT_VOICEMAN_05000_002330_ALPHINAUD,"'가진 게 없는' 일반인이 그 낙원에서 살려면
 특별한 재능이 있어서 저런 식으로 팔려 가는 수밖에 없다네."
-269,"TEXT_VOICEMAN_05000_002340_CLOWNOFRED","응, 나쁘지 않네!"
-270,"TEXT_VOICEMAN_05000_002350_CLOWNOFRED","널 율모어로 데려가 줄게!
+269,TEXT_VOICEMAN_05000_002340_CLOWNOFRED,"응, 나쁘지 않네!"
+270,TEXT_VOICEMAN_05000_002350_CLOWNOFRED,"널 율모어로 데려가 줄게!
 행복의 도시에서 앞으로 쭈~욱 실력을 발휘해 봐!"
-271,"TEXT_VOICEMAN_05000_002360_CLOWNOFBLUE","자…… 다들 기대에 찬 얼굴이네!
+271,TEXT_VOICEMAN_05000_002360_CLOWNOFBLUE,"자…… 다들 기대에 찬 얼굴이네!
 뭘 기대하고 있는지 말 안해도 다 알지~!"
-272,"TEXT_VOICEMAN_05000_002370_CLOWNOFBLUE","자, 오래 기다렸지?
+272,TEXT_VOICEMAN_05000_002370_CLOWNOFBLUE,"자, 오래 기다렸지?
 그녀의 멋진 새 출발을 축복하며 '메올'을 임시 배급할게~!"
-273,"TEXT_VOICEMAN_05000_002380_CLOWNOFRED","자!"
-274,"TEXT_VOICEMAN_05000_002390_CLOWNOFBLUE","받아~!"
-275,"TEXT_VOICEMAN_05000_002391_GATETOWNMIDDLEAGE","기다리고 있었습니다!"
-276,"TEXT_VOICEMAN_05000_002392_GATETOWNMAN","고마워요"
-277,"TEXT_VOICEMAN_05000_002393_GATETOWNWOMAN","나도!"
-278,"TEXT_VOICEMAN_05000_002400_ALPHINAUD","저 '메올'이란 건, 문전촌 주민에게
+273,TEXT_VOICEMAN_05000_002380_CLOWNOFRED,자!
+274,TEXT_VOICEMAN_05000_002390_CLOWNOFBLUE,받아~!
+275,TEXT_VOICEMAN_05000_002391_GATETOWNMIDDLEAGE,기다리고 있었습니다!
+276,TEXT_VOICEMAN_05000_002392_GATETOWNMAN,고마워요
+277,TEXT_VOICEMAN_05000_002393_GATETOWNWOMAN,나도!
+278,TEXT_VOICEMAN_05000_002400_ALPHINAUD,"저 '메올'이란 건, 문전촌 주민에게
 율모어에서 무상으로 나눠 주는 식량일세.
 도시 안에서도 주식으로 먹는다더군."
-279,"TEXT_VOICEMAN_05000_002410_ALPHINAUD","먹고살기 힘든 시대다 보니
+279,TEXT_VOICEMAN_05000_002410_ALPHINAUD,"먹고살기 힘든 시대다 보니
 메올 배급에 생계를 의존하는 주민도 적지 않다네."
-280,"TEXT_VOICEMAN_05000_002411_ALPHINAUD","하지만…… 나는 도무지……."
-281,"TEXT_VOICEMAN_05000_002420_ALPHINAUD","찾았다!"
-282,"TEXT_VOICEMAN_05000_002430_ALPHINAUD","내 심부름꾼이라고 속이고 농작물을 받아간 사람이 자네지?
+280,TEXT_VOICEMAN_05000_002411_ALPHINAUD,하지만…… 나는 도무지…….
+281,TEXT_VOICEMAN_05000_002420_ALPHINAUD,찾았다!
+282,TEXT_VOICEMAN_05000_002430_ALPHINAUD,"내 심부름꾼이라고 속이고 농작물을 받아간 사람이 자네지?
 그건 중요한 거래에 쓸 물건이네…… 돌려주지 않겠나?"
-283,"TEXT_VOICEMAN_05000_002440_KAISHIRR","(-파란머리 미스텔족-)아…… 으…………"
-284,"TEXT_VOICEMAN_05000_002450_KAISHIRR","(-파란머리 미스텔족-)용서해주세요!
+283,TEXT_VOICEMAN_05000_002440_KAISHIRR,(-파란머리 미스텔족-)아…… 으…………
+284,TEXT_VOICEMAN_05000_002450_KAISHIRR,"(-파란머리 미스텔족-)용서해주세요!
 어떻게든 율모어에 들어가고 싶어서 그만……!"
-285,"TEXT_VOICEMAN_05000_002460_KAISHIRR","(-파란머리 미스텔족-)전 가족도 없고 여기서 생긴 친구들은
+285,TEXT_VOICEMAN_05000_002460_KAISHIRR,"(-파란머리 미스텔족-)전 가족도 없고 여기서 생긴 친구들은
 모두 진작에 뽑혀서 율모어로 가버렸어요……."
-286,"TEXT_VOICEMAN_05000_002470_KAISHIRR","(-파란머리 미스텔족-)그 뒤로는 주변 사람들과 친해지지도 못하고……
+286,TEXT_VOICEMAN_05000_002470_KAISHIRR,"(-파란머리 미스텔족-)그 뒤로는 주변 사람들과 친해지지도 못하고……
 배급받는 메올조차 저한테는 남은 찌꺼기만 돌아온다구요."
-287,"TEXT_VOICEMAN_05000_002480_KAISHIRR","(-파란머리 미스텔족-)뭘 하든 저를 추천해 주는 사람도 없고
+287,TEXT_VOICEMAN_05000_002480_KAISHIRR,"(-파란머리 미스텔족-)뭘 하든 저를 추천해 주는 사람도 없고
 배도 고프고…… 너무 비참해서……."
-288,"TEXT_VOICEMAN_05000_002490_KAISHIRR","(-파란머리 미스텔족-)그래서 이렇게 죽을 바엔
+288,TEXT_VOICEMAN_05000_002490_KAISHIRR,"(-파란머리 미스텔족-)그래서 이렇게 죽을 바엔
 남의 기회라도 빼앗아서 율모어에 들어가려고……."
-289,"TEXT_VOICEMAN_05000_002500_ALPHINAUD","……자네, 이름이 뭔가?"
-290,"TEXT_VOICEMAN_05000_002510_KAISHIRR","카이 시르입니다……."
-291,"TEXT_VOICEMAN_05000_002520_ALPHINAUD","그래, 카이 시르.
+289,TEXT_VOICEMAN_05000_002500_ALPHINAUD,"……자네, 이름이 뭔가?"
+290,TEXT_VOICEMAN_05000_002510_KAISHIRR,카이 시르입니다…….
+291,TEXT_VOICEMAN_05000_002520_ALPHINAUD,"그래, 카이 시르.
 율모어에 들어가는 것 말고 다른 길은 없겠나……?"
-292,"TEXT_VOICEMAN_05000_002530_ALPHINAUD","예를 들어 크리스타리움에 가 보는 건 어떤가.
+292,TEXT_VOICEMAN_05000_002530_ALPHINAUD,"예를 들어 크리스타리움에 가 보는 건 어떤가.
 그곳에 가면 공짜로 음식을 주지는 않지만
 일한 만큼 확실한 보상은 받을 수 있을 걸세."
-293,"TEXT_VOICEMAN_05000_002540_KAISHIRR","안 돼요…… 율모어가 아니면……."
-294,"TEXT_VOICEMAN_05000_002550_KAISHIRR","제 친구들이 저 도시에 있는걸요…….
+293,TEXT_VOICEMAN_05000_002540_KAISHIRR,안 돼요…… 율모어가 아니면…….
+294,TEXT_VOICEMAN_05000_002550_KAISHIRR,"제 친구들이 저 도시에 있는걸요…….
 언젠가 저 호화로운 도시에서 다 함께 살자고
 약속했단 말이에요……."
-295,"TEXT_VOICEMAN_05000_002560_ALPHINAUD","……온도족과 거래하기로 한 곳은 빗장 등대일세.
+295,TEXT_VOICEMAN_05000_002560_ALPHINAUD,"……온도족과 거래하기로 한 곳은 빗장 등대일세.
 지금부터 내가 하려고 했던 거래와 율모어에 뭘 팔아서
 들어가려 했는지 설명해줄 테니 잘 듣게나."
-296,"TEXT_VOICEMAN_05000_002570_KAISHIRR","야, 양보해 주시려고요……!?"
-297,"TEXT_VOICEMAN_05000_002580_ALPHINAUD","어디까지나 기회를 빌려주는 것뿐일세.
+296,TEXT_VOICEMAN_05000_002570_KAISHIRR,"야, 양보해 주시려고요……!?"
+297,TEXT_VOICEMAN_05000_002580_ALPHINAUD,"어디까지나 기회를 빌려주는 것뿐일세.
 그다음부터는 자네가 스스로 노력해야 이룰 수 있어."
-298,"TEXT_VOICEMAN_05000_002590_KAISHIRR","네, 네……!
+298,TEXT_VOICEMAN_05000_002590_KAISHIRR,"네, 네……!
 감사합니다!"
-299,"TEXT_VOICEMAN_05000_002600_ALPHINAUD","우리에겐 단순한 조사고…… 다시 기회를 만들 수도 있네.
+299,TEXT_VOICEMAN_05000_002600_ALPHINAUD,"우리에겐 단순한 조사고…… 다시 기회를 만들 수도 있네.
 하지만 저 아이에게는 인생이 걸린 중대사 아니겠나."
-300,"TEXT_VOICEMAN_05000_002610_ALPHINAUD","양보한 걸 후회하지는 않네.
+300,TEXT_VOICEMAN_05000_002610_ALPHINAUD,"양보한 걸 후회하지는 않네.
 저 아이의 성공도 바라고 있어.
 하지만…… 어쩌면 좋은 판단이 아니었을지도 모르겠군."
-301,"TEXT_VOICEMAN_05000_002620_ALPHINAUD","한시라도 빨리 이 세계를 구하려면……
+301,TEXT_VOICEMAN_05000_002620_ALPHINAUD,"한시라도 빨리 이 세계를 구하려면……
 그래야 많은 사람들과 자네의 목숨을 구할 수 있는 거라면
 저 아이를 제치고 내가 갔어야 했을지도 몰라."
-302,"TEXT_VOICEMAN_05000_Q10_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-303,"TEXT_VOICEMAN_05000_A10_000_001_NONE_VOICE","알피노는 지금 그대로가 좋아"
-304,"TEXT_VOICEMAN_05000_A10_000_002_NONE_VOICE","그러니 다음 계획을 생각해줘"
-305,"TEXT_VOICEMAN_05000_002630_ALPHINAUD","그런가…….
+302,TEXT_VOICEMAN_05000_Q10_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+303,TEXT_VOICEMAN_05000_A10_000_001_NONE_VOICE,알피노는 지금 그대로가 좋아
+304,TEXT_VOICEMAN_05000_A10_000_002_NONE_VOICE,그러니 다음 계획을 생각해줘
+305,TEXT_VOICEMAN_05000_002630_ALPHINAUD,"그런가…….
 에스티니앙 공이 있었다면 여전히 철부지 도련님이라고
 나무랐겠지."
-306,"TEXT_VOICEMAN_05000_002640_ALPHINAUD","그래도 고맙네.
+306,TEXT_VOICEMAN_05000_002640_ALPHINAUD,"그래도 고맙네.
 결과적으로는 모두가 행복해질 수 있도록 다시 노력해야지."
-307,"TEXT_VOICEMAN_05000_002650_ALPHINAUD","그럼, 물론이지.
+307,TEXT_VOICEMAN_05000_002650_ALPHINAUD,"그럼, 물론이지.
 이대로 끝낼 생각은 없네."
-308,"TEXT_VOICEMAN_05000_002660_ALPHINAUD","그럼 일단 직공 마을로 돌아가세."
-309,"TEXT_VOICEMAN_05000_002670_ALPHINAUD","저게 뭐지……?"
-310,"TEXT_VOICEMAN_05000_002680_ALPHINAUD","멀어서 잘 안 보이는데…… 누가 쓰러져 있는 건가……!?"
-311,"TEXT_VOICEMAN_05000_002690_ALPHINAUD","무슨 일이 있는지도 모르겠군.
+308,TEXT_VOICEMAN_05000_002660_ALPHINAUD,그럼 일단 직공 마을로 돌아가세.
+309,TEXT_VOICEMAN_05000_002670_ALPHINAUD,저게 뭐지……?
+310,TEXT_VOICEMAN_05000_002680_ALPHINAUD,멀어서 잘 안 보이는데…… 누가 쓰러져 있는 건가……!?
+311,TEXT_VOICEMAN_05000_002690_ALPHINAUD,"무슨 일이 있는지도 모르겠군.
 어서 구하러 가세!"
-312,"TEXT_VOICEMAN_05000_002700_WARRIOROFDARKNESS","세계는 구원받을 수 없다――"
-313,"TEXT_VOICEMAN_05000_002710_WARRIOROFDARKNESS","지금 이 말을 부정할 수 있는 자는
+312,TEXT_VOICEMAN_05000_002700_WARRIOROFDARKNESS,세계는 구원받을 수 없다――
+313,TEXT_VOICEMAN_05000_002710_WARRIOROFDARKNESS,"지금 이 말을 부정할 수 있는 자는
 성인이 아니면 바보이거나 이 도시의 주민일 터"
-314,"TEXT_VOICEMAN_05000_002720_WARRIOROFDARKNESS","견고했던 바다의 도시는
+314,TEXT_VOICEMAN_05000_002720_WARRIOROFDARKNESS,"견고했던 바다의 도시는
 세계의 종말을 앞두고 흥청망청 들뜨기 시작했다"
-315,"TEXT_VOICEMAN_05000_002730_WARRIOROFDARKNESS","슬픔을 잊기 위해 희극을 연기하는 것인가"
-316,"TEXT_VOICEMAN_05000_002740_WARRIOROFDARKNESS","아니면 오로지 이곳만 영원을 약속받은 것인가――"
-317,"TEXT_VOICEMAN_05000_002750_DULIACHAI","어머, 넌 누구지……?"
-318,"TEXT_VOICEMAN_05000_002760_ALPHINAUD","처음 뵙겠습니다.
+315,TEXT_VOICEMAN_05000_002730_WARRIOROFDARKNESS,슬픔을 잊기 위해 희극을 연기하는 것인가
+316,TEXT_VOICEMAN_05000_002740_WARRIOROFDARKNESS,아니면 오로지 이곳만 영원을 약속받은 것인가――
+317,TEXT_VOICEMAN_05000_002750_DULIACHAI,"어머, 넌 누구지……?"
+318,TEXT_VOICEMAN_05000_002760_ALPHINAUD,"처음 뵙겠습니다.
 화가를 구하시는 차이 부부가 맞으신지요?"
-319,"TEXT_VOICEMAN_05000_002770_CHAINUZZ","오오, 그럼 너희가 새로운……"
-320,"TEXT_VOICEMAN_05000_002780_DULIACHAI","어머, 어머, 어머!
+319,TEXT_VOICEMAN_05000_002770_CHAINUZZ,"오오, 그럼 너희가 새로운……"
+320,TEXT_VOICEMAN_05000_002780_DULIACHAI,"어머, 어머, 어머!
 어쩜 이렇게 귀여운 소년이 있을까!"
-321,"TEXT_VOICEMAN_05000_002790_DULIACHAI","부드러운 머리카락, 기품 있는 외모……
+321,TEXT_VOICEMAN_05000_002790_DULIACHAI,"부드러운 머리카락, 기품 있는 외모……
 게다가 왠지 꽃향기도 나는 것 같아~!"
-322,"TEXT_VOICEMAN_05000_002800_DULIACHAI","여보!
+322,TEXT_VOICEMAN_05000_002800_DULIACHAI,"여보!
 나 이 아이, 마음에 쏙 들어!
 분명…… 아니, 반드시 멋진 그림을 그려줄 거야!"
-323,"TEXT_VOICEMAN_05000_002810_CHAINUZZ","흐음…….
+323,TEXT_VOICEMAN_05000_002810_CHAINUZZ,"흐음…….
 얼마 전에 해고한 그 실력 없고 음침한 화가보다는
 나아야 할 텐데……."
-324,"TEXT_VOICEMAN_05000_002820_DULIACHAI","그럼 정식으로 잘 부탁할게.
+324,TEXT_VOICEMAN_05000_002820_DULIACHAI,"그럼 정식으로 잘 부탁할게.
 이름이……"
-325,"TEXT_VOICEMAN_05000_002830_ALPHINAUD","알피노라고 합니다. 사모님, 그리고 주인님.
+325,TEXT_VOICEMAN_05000_002830_ALPHINAUD,"알피노라고 합니다. 사모님, 그리고 주인님.
 그리고 이쪽 제 조수도 함께 잘 부탁드리겠습니다."
-326,"TEXT_VOICEMAN_05000_002840_CHAINUZZ","흐음…….
+326,TEXT_VOICEMAN_05000_002840_CHAINUZZ,"흐음…….
 간혹 고용되면서 가족을 데려오는 놈은 있지만
 그 나이에 조수를 데려오다니 희한하군?"
-327,"TEXT_VOICEMAN_05000_002850_ALPHINAUD","사실상 가족이나 다름없습니다.
+327,TEXT_VOICEMAN_05000_002850_ALPHINAUD,"사실상 가족이나 다름없습니다.
 핏줄은 이어져 있지 않지만
 제가 힘들 때마다 늘 곁에 있어준 자입니다."
-328,"TEXT_VOICEMAN_05000_002860_ALPHINAUD","그리고 누구보다도 제 그림을 이해해 줍니다.
+328,TEXT_VOICEMAN_05000_002860_ALPHINAUD,"그리고 누구보다도 제 그림을 이해해 줍니다.
 조수와 함께 완성해야만
 두 분께 걸맞은 그림이 나올 겁니다."
-329,"TEXT_VOICEMAN_05000_002870_ALPHINAUD","그리고 누구보다도 제 그림을 이해해 줍니다.
+329,TEXT_VOICEMAN_05000_002870_ALPHINAUD,"그리고 누구보다도 제 그림을 이해해 줍니다.
 조수와 함께 완성해야만
 두 분께 걸맞은 그림이 나올 겁니다."
-330,"TEXT_VOICEMAN_05000_002880_ALPHINAUD","……하지만 그림을 처음 시작할 때만큼은
+330,TEXT_VOICEMAN_05000_002880_ALPHINAUD,"……하지만 그림을 처음 시작할 때만큼은
 저 혼자 집중할 시간이 필요합니다."
-331,"TEXT_VOICEMAN_05000_002890_ALPHINAUD","그래서 말입니다만…… 혹시 괜찮으시다면
+331,TEXT_VOICEMAN_05000_002890_ALPHINAUD,"그래서 말입니다만…… 혹시 괜찮으시다면
 제 조수가 잠시 도시를 견학할 수 있도록 허락해 주시겠습니까?"
-332,"TEXT_VOICEMAN_05000_002900_ALPHINAUD","지금까지 저를 도와준 답례로
+332,TEXT_VOICEMAN_05000_002900_ALPHINAUD,"지금까지 저를 도와준 답례로
 그토록 꿈꾸던 율모어를 빨리 보여주고 싶습니다."
-333,"TEXT_VOICEMAN_05000_002910_DULIACHAI","어머, 어쩜 이렇게 착한 애들이 다 있지?
+333,TEXT_VOICEMAN_05000_002910_DULIACHAI,"어머, 어쩜 이렇게 착한 애들이 다 있지?
 그런 거라면 마음껏 견학하고 와도 된단다~!"
-334,"TEXT_VOICEMAN_05000_002920_DULIACHAI","……괜찮지, 여보?"
-335,"TEXT_VOICEMAN_05000_002930_CHAINUZZ","그, 그래…… 뭐…… 당신 뜻이 그렇다면야……."
-336,"TEXT_VOICEMAN_05000_002940_ALPHINAUD","저자가……
+334,TEXT_VOICEMAN_05000_002920_DULIACHAI,"……괜찮지, 여보?"
+335,TEXT_VOICEMAN_05000_002930_CHAINUZZ,"그, 그래…… 뭐…… 당신 뜻이 그렇다면야……."
+336,TEXT_VOICEMAN_05000_002940_ALPHINAUD,"저자가……
 율모어의 원수, 바우스리로군!"
-337,"TEXT_VOICEMAN_05000_002950_ALPHINAUD","저 옆에 있는 건 죄식자……?
+337,TEXT_VOICEMAN_05000_002950_ALPHINAUD,"저 옆에 있는 건 죄식자……?
 인간을 공격하지 않다니…… 저자의 힘인 건가……."
-338,"TEXT_VOICEMAN_05000_002960_KAISHIRR","(-???-)윽…… 으윽…………."
-339,"TEXT_VOICEMAN_05000_002970_ALPHINAUD","아니, 이 아이는……!"
-340,"TEXT_VOICEMAN_05000_002980_ALPHINAUD","카이 시르 아닌가!
+338,TEXT_VOICEMAN_05000_002960_KAISHIRR,(-???-)윽…… 으윽………….
+339,TEXT_VOICEMAN_05000_002970_ALPHINAUD,"아니, 이 아이는……!"
+340,TEXT_VOICEMAN_05000_002980_ALPHINAUD,"카이 시르 아닌가!
 이게 무슨……!?"
-341,"TEXT_VOICEMAN_05000_002990_VAUTHRY","하아……? 너희는 뭐냐…….
+341,TEXT_VOICEMAN_05000_002990_VAUTHRY,"하아……? 너희는 뭐냐…….
 멋대로 끼어들다니 무례한 놈들……."
-342,"TEXT_VOICEMAN_05000_003000_ALPHINAUD","돈 바우스리!
+342,TEXT_VOICEMAN_05000_003000_ALPHINAUD,"돈 바우스리!
 이게 무슨!! 왜 이 아이가 피를 흘리고 있습니까?"
-343,"TEXT_VOICEMAN_05000_003010_VAUTHRY","왜냐니…… 죄를 지었으면 벌을 받는 게 당연하지.
+343,TEXT_VOICEMAN_05000_003010_VAUTHRY,"왜냐니…… 죄를 지었으면 벌을 받는 게 당연하지.
 그놈은 거짓말을 했거든."
-344,"TEXT_VOICEMAN_05000_003020_VAUTHRY","수완 좋은 상인이라길래 들어오게 했더니
+344,TEXT_VOICEMAN_05000_003020_VAUTHRY,"수완 좋은 상인이라길래 들어오게 했더니
 털면 털수록 밑천이 드러나더라니까?"
-345,"TEXT_VOICEMAN_05000_003030_VAUTHRY","율모어는 서로 돕고 사는 사랑의 도시라 이 말이다!
+345,TEXT_VOICEMAN_05000_003030_VAUTHRY,"율모어는 서로 돕고 사는 사랑의 도시라 이 말이다!
 줄 능력도 없는 주제에 받기만 하려 하다니
 용서받을 수 없는 쓰레기 아닌가!"
-346,"TEXT_VOICEMAN_05000_003040_VAUTHRY","그~래~서~!
+346,TEXT_VOICEMAN_05000_003040_VAUTHRY,"그~래~서~!
 거짓말을 한 죗값으로 저기서 뛰어내리라고 명령했거든?"
-347,"TEXT_VOICEMAN_05000_003050_VAUTHRY","그랬는데 그것만은 제발 봐달라면서
+347,TEXT_VOICEMAN_05000_003050_VAUTHRY,"그랬는데 그것만은 제발 봐달라면서
 빽빽 울어대지 뭔가……."
-348,"TEXT_VOICEMAN_05000_003060_VAUTHRY","그렇다면 자비로운 지도자로서
+348,TEXT_VOICEMAN_05000_003060_VAUTHRY,"그렇다면 자비로운 지도자로서
 다른 방법으로 죗값을 치르게 해야 하지 않겠나?
 안 그래……?"
-349,"TEXT_VOICEMAN_05000_003070_ALPHINAUD","무슨 짓을…… 시킨 거지……!"
-350,"TEXT_VOICEMAN_05000_003080_VAUTHRY","죄식자는 율모어의 동포다.
+349,TEXT_VOICEMAN_05000_003070_ALPHINAUD,무슨 짓을…… 시킨 거지……!
+350,TEXT_VOICEMAN_05000_003080_VAUTHRY,"죄식자는 율모어의 동포다.
 그리고 생명체를 구성하는 에테르는 그들의 먹이지……."
-351,"TEXT_VOICEMAN_05000_003090_VAUTHRY","그래서 저 녀석더러 고기를 바치라고 명했다!
+351,TEXT_VOICEMAN_05000_003090_VAUTHRY,"그래서 저 녀석더러 고기를 바치라고 명했다!
 제 손으로 제 몸을 잘라 내서 말이야!"
-352,"TEXT_VOICEMAN_05000_003100_VAUTHRY","그~런~데~!
+352,TEXT_VOICEMAN_05000_003100_VAUTHRY,"그~런~데~!
 그것마저도 제대로 못 하다니!"
-353,"TEXT_VOICEMAN_05000_003110_VAUTHRY","내참, 마음에 드는 구석이 하나도 없어!!"
-354,"TEXT_VOICEMAN_05000_003120_ALPHINAUD","……물론 카이 시르가 거짓말을 했을 수도 있다.
+353,TEXT_VOICEMAN_05000_003110_VAUTHRY,"내참, 마음에 드는 구석이 하나도 없어!!"
+354,TEXT_VOICEMAN_05000_003120_ALPHINAUD,"……물론 카이 시르가 거짓말을 했을 수도 있다.
 하지만 그는 이 도시를 정말로 동경하고 있었어."
-355,"TEXT_VOICEMAN_05000_003130_ALPHINAUD","그런 소년에게 이런 식의 폭력과 굴욕으로 대응하는 것이
+355,TEXT_VOICEMAN_05000_003130_ALPHINAUD,"그런 소년에게 이런 식의 폭력과 굴욕으로 대응하는 것이
 율모어의 방식이란 말인가!"
-356,"TEXT_VOICEMAN_05000_003140_VAUTHRY","하아…… 멍청한 녀석…….
+356,TEXT_VOICEMAN_05000_003140_VAUTHRY,"하아…… 멍청한 녀석…….
 이 망가진 세상에 꿈이 넘치는 낙원을 만드는 게
 얼마나 힘든 일인지 알아?"
-357,"TEXT_VOICEMAN_05000_003150_VAUTHRY","영원히 위협받지 않을 안전과
+357,TEXT_VOICEMAN_05000_003150_VAUTHRY,"영원히 위협받지 않을 안전과
 흔들림 없는 단 하나의 질서가 필요한 법이라고."
-358,"TEXT_VOICEMAN_05000_003160_VAUTHRY","그리고 그걸 가능하게 하는 건
+358,TEXT_VOICEMAN_05000_003160_VAUTHRY,"그리고 그걸 가능하게 하는 건
 죄식자를 복종시킬 수 있는 나밖에 없다 이거야……."
-359,"TEXT_VOICEMAN_05000_003170_VAUTHRY","따라서 내가 절대 정의다!
+359,TEXT_VOICEMAN_05000_003170_VAUTHRY,"따라서 내가 절대 정의다!
 내 말을 따르지 않는 자는 처벌받아 마땅한 악당이야!
 아무리 사소한 일이라도 말이다!"
-360,"TEXT_VOICEMAN_05000_003180_ALPHINAUD","이런 곳이 낙원이라고……!?"
-361,"TEXT_VOICEMAN_05000_003190_VAUTHRY","그런데 너도 여기에 있는 걸 보면 무슨 재주가 있어서겠지?
+360,TEXT_VOICEMAN_05000_003180_ALPHINAUD,이런 곳이 낙원이라고……!?
+361,TEXT_VOICEMAN_05000_003190_VAUTHRY,"그런데 너도 여기에 있는 걸 보면 무슨 재주가 있어서겠지?
 무슨 일을 하기 위해 고용됐나?"
-362,"TEXT_VOICEMAN_05000_003200_ALPHINAUD","……그림을 그리기 위해서다."
-363,"TEXT_VOICEMAN_05000_003210_VAUTHRY","오호, 화가라?
+362,TEXT_VOICEMAN_05000_003200_ALPHINAUD,……그림을 그리기 위해서다.
+363,TEXT_VOICEMAN_05000_003210_VAUTHRY,"오호, 화가라?
 그렇다면 나를 위해 한 장 그려 보거라."
-364,"TEXT_VOICEMAN_05000_003220_VAUTHRY","잘만 그리면 이 무례는 용서해주지.
+364,TEXT_VOICEMAN_05000_003220_VAUTHRY,"잘만 그리면 이 무례는 용서해주지.
 계속 율모어에 살게 해 주겠다는 말이다."
-365,"TEXT_VOICEMAN_05000_003230_VAUTHRY","어이, 멋대로 무슨 짓이냐?
+365,TEXT_VOICEMAN_05000_003230_VAUTHRY,"어이, 멋대로 무슨 짓이냐?
 그림 그리라고 한 소리 못 들었어?"
-366,"TEXT_VOICEMAN_05000_003240_ALPHINAUD","당신에게 필요한 건 그림이 아니라 거울이다.
+366,TEXT_VOICEMAN_05000_003240_ALPHINAUD,"당신에게 필요한 건 그림이 아니라 거울이다.
 추악한 혼이 썩어 문드러진 본인의 모습을
 똑똑히 보길 바란다."
-367,"TEXT_VOICEMAN_05000_003250_ALPHINAUD","걸을 수 있겠나?"
-368,"TEXT_VOICEMAN_05000_003260_KAISHIRR","네, 네……"
-369,"TEXT_VOICEMAN_05000_003270_VAUTHRY","저것들이 나, 나를?
+367,TEXT_VOICEMAN_05000_003250_ALPHINAUD,걸을 수 있겠나?
+368,TEXT_VOICEMAN_05000_003260_KAISHIRR,"네, 네……"
+369,TEXT_VOICEMAN_05000_003270_VAUTHRY,"저것들이 나, 나를?
 감히 나를? 모욕……."
-370,"TEXT_VOICEMAN_05000_003280_VAUTHRY","아아아아아아!
+370,TEXT_VOICEMAN_05000_003280_VAUTHRY,"아아아아아아!
 으아아아아아아아아!"
-371,"TEXT_VOICEMAN_05000_003290_VAUTHRY","저것들, 저것들, 용서하지 않겠다!!"
-372,"TEXT_VOICEMAN_05000_003300_VAUTHRY","인형으로 만들 가치도 없어!
+371,TEXT_VOICEMAN_05000_003290_VAUTHRY,"저것들, 저것들, 용서하지 않겠다!!"
+372,TEXT_VOICEMAN_05000_003300_VAUTHRY,"인형으로 만들 가치도 없어!
 치욕스럽게 고통스럽게 죽여버리고 말겠어!!"
-373,"TEXT_VOICEMAN_05000_003310_WARRIOROFDARKNESS","아므 아랭――
+373,TEXT_VOICEMAN_05000_003310_WARRIOROFDARKNESS,"아므 아랭――
 그 메마른 땅에는 나바스아렝이라는 나라가 있었다"
-374,"TEXT_VOICEMAN_05000_003320_WARRIOROFDARKNESS","먼 옛날, 그곳을 여행할 때
+374,TEXT_VOICEMAN_05000_003320_WARRIOROFDARKNESS,"먼 옛날, 그곳을 여행할 때
 햇빛에 그을린 노인이 가르쳐 주었다"
-375,"TEXT_VOICEMAN_05000_003330_WARRIOROFDARKNESS","그들의 언어로 아므는 '위대한',
+375,TEXT_VOICEMAN_05000_003330_WARRIOROFDARKNESS,"그들의 언어로 아므는 '위대한',
 아랭은 '대지'라는 뜻이라는 사실을"
-376,"TEXT_VOICEMAN_05000_003340_WARRIOROFDARKNESS","빛이 범람하여 그 나라 또한 멸망한 지금
+376,TEXT_VOICEMAN_05000_003340_WARRIOROFDARKNESS,"빛이 범람하여 그 나라 또한 멸망한 지금
 사람들은 어떤 마음으로 그 이름을 부르고 있을까――"
-377,"TEXT_VOICEMAN_05000_Q11_000_001_NONE_VOICE","이건……"
-378,"TEXT_VOICEMAN_05000_A11_000_001_NONE_VOICE","모르드……족……?"
-379,"TEXT_VOICEMAN_05000_A11_000_002_NONE_VOICE","코볼드족……!"
-380,"TEXT_VOICEMAN_05000_A11_000_003_NONE_VOICE","동그란 눈이다……"
-381,"TEXT_VOICEMAN_05000_003350_CASSARD","게엔 겐 씨,
+377,TEXT_VOICEMAN_05000_Q11_000_001_NONE_VOICE,이건……
+378,TEXT_VOICEMAN_05000_A11_000_001_NONE_VOICE,모르드……족……?
+379,TEXT_VOICEMAN_05000_A11_000_002_NONE_VOICE,코볼드족……!
+380,TEXT_VOICEMAN_05000_A11_000_003_NONE_VOICE,동그란 눈이다……
+381,TEXT_VOICEMAN_05000_003350_CASSARD,"게엔 겐 씨,
 이쪽이 방금 얘기한 수정공의 지인이야."
-382,"TEXT_VOICEMAN_05000_003360_GHENGEN","아, 망나서 방가따!
+382,TEXT_VOICEMAN_05000_003360_GHENGEN,"아, 망나서 방가따!
 버리는 걸 줍는 도시, '모르드 수크'에 어서 아라!"
-383,"TEXT_VOICEMAN_05000_003370_CASSARD","모르드 수크는 '모르드 시장'이라는 의미야.
+383,TEXT_VOICEMAN_05000_003370_CASSARD,"모르드 수크는 '모르드 시장'이라는 의미야.
 이름 그대로 지금은 아므 아랭에서 가장 크고
 활기가 넘치는 시장이지."
-384,"TEXT_VOICEMAN_05000_003380_CASSARD","이 일대의 광산에서 나는 광석은 물론,
+384,TEXT_VOICEMAN_05000_003380_CASSARD,"이 일대의 광산에서 나는 광석은 물론,
 다른 곳에서는 구할 수 없는 재밌는 물건도 많아."
-385,"TEXT_VOICEMAN_05000_003390_CASSARD","아까 아므 아랭을 좋아서 찾아오는 사람은 없다고 했지만
+385,TEXT_VOICEMAN_05000_003390_CASSARD,"아까 아므 아랭을 좋아서 찾아오는 사람은 없다고 했지만
 여기만큼은 달라!
 희귀한 물건을 찾는 상인들이 모여들지."
-386,"TEXT_VOICEMAN_05000_003400_GHENGEN","모두한태 필요한 물건 여기저기 다 팔아!
+386,TEXT_VOICEMAN_05000_003400_GHENGEN,"모두한태 필요한 물건 여기저기 다 팔아!
 그러치 않은 물건 여기바께 안 팔아!"
-387,"TEXT_VOICEMAN_05000_003410_GHENGEN","그래서 다들 여기 오능 거야!
+387,TEXT_VOICEMAN_05000_003410_GHENGEN,"그래서 다들 여기 오능 거야!
 멀리서 오는 송님, 비싼 돈 내는 송님!"
-388,"TEXT_VOICEMAN_05000_003420_GHENGEN","그래서 수크는 언제나 북적북적!
+388,TEXT_VOICEMAN_05000_003420_GHENGEN,"그래서 수크는 언제나 북적북적!
 이 세상에 있는 것 중에 필요엄는 건 엄따!"
-389,"TEXT_VOICEMAN_05000_003430_CASSARD","게엔 겐 씨, 매번 그 소리네!
+389,TEXT_VOICEMAN_05000_003430_CASSARD,"게엔 겐 씨, 매번 그 소리네!
 대대로 내려오는 말이라고 했던가?"
-390,"TEXT_VOICEMAN_05000_003440_CASSARD","뭐, 그런 신념이 있었으니
+390,TEXT_VOICEMAN_05000_003440_CASSARD,"뭐, 그런 신념이 있었으니
 종족을 따지지 않고 난민을 받아들였겠지.
 고마운 일이야."
-391,"TEXT_VOICEMAN_05000_003450_CASSARD","자…… 앞으로 아므 아랭에서 활동하려면
+391,TEXT_VOICEMAN_05000_003450_CASSARD,"자…… 앞으로 아므 아랭에서 활동하려면
 너도 이곳 사람들과 친하게 지내야 될 거야."
-392,"TEXT_VOICEMAN_05000_003460_CASSARD","이곳에서는 새로운 사람이 오면
+392,TEXT_VOICEMAN_05000_003460_CASSARD,"이곳에서는 새로운 사람이 오면
 신뢰 관계를 맺기 위해 어떤 의식을 치러야 하는데……."
-393,"TEXT_VOICEMAN_05000_003470_GHENGEN","조아조아! '첫 구매' 하능 거다!
+393,TEXT_VOICEMAN_05000_003470_GHENGEN,"조아조아! '첫 구매' 하능 거다!
 시장애서 파는 물건, 뭐등 하나망 사!
 비싸도 조코, 싸도 조코!"
-394,"TEXT_VOICEMAN_05000_003480_CASSARD","……들었지?
+394,TEXT_VOICEMAN_05000_003480_CASSARD,"……들었지?
 마침 이럴 때 쓰라고
 수정공이 편지에 용돈을 넣었더군."
-395,"TEXT_VOICEMAN_05000_003490_CASSARD","놀라지 마시라! 푀부트 금화야!
+395,TEXT_VOICEMAN_05000_003490_CASSARD,"놀라지 마시라! 푀부트 금화야!
 우와, 나도 오랜만에 봤어!"
-396,"TEXT_VOICEMAN_05000_003500_MORDMERCHANTA","푀부트 금화!? 진짜냐!?"
-397,"TEXT_VOICEMAN_05000_003510_MORDMERCHANTB","새로 오신 분, 첫 구매는 우리 집에서 하세요!"
-398,"TEXT_VOICEMAN_05000_003520_MORDMERCHANTC","아니다! 우리 가게가 조타!
+396,TEXT_VOICEMAN_05000_003500_MORDMERCHANTA,푀부트 금화!? 진짜냐!?
+397,TEXT_VOICEMAN_05000_003510_MORDMERCHANTB,"새로 오신 분, 첫 구매는 우리 집에서 하세요!"
+398,TEXT_VOICEMAN_05000_003520_MORDMERCHANTC,"아니다! 우리 가게가 조타!
 반질반질 항아리…… 엄청나게 반질반질 항아리 이따!"
-399,"TEXT_VOICEMAN_05000_003530_MORDMERCHANTA","한번 들러봐!"
-400,"TEXT_VOICEMAN_05000_003540_MORDMERCHANTB","구경해 보라고!"
-401,"TEXT_VOICEMAN_05000_003550_MORDMERCHANTC","하나 어때?"
-402,"TEXT_VOICEMAN_05000_003560_GHENGEN","이바이바, 다들 진정해라!"
-403,"TEXT_VOICEMAN_05000_003570_GHENGEN","이 사람응 황야를 오래오래 여행할꺼야.
+399,TEXT_VOICEMAN_05000_003530_MORDMERCHANTA,한번 들러봐!
+400,TEXT_VOICEMAN_05000_003540_MORDMERCHANTB,구경해 보라고!
+401,TEXT_VOICEMAN_05000_003550_MORDMERCHANTC,하나 어때?
+402,TEXT_VOICEMAN_05000_003560_GHENGEN,"이바이바, 다들 진정해라!"
+403,TEXT_VOICEMAN_05000_003570_GHENGEN,"이 사람응 황야를 오래오래 여행할꺼야.
 커다랑 거, 무거웅 거, 항아리는 안 조아!"
-404,"TEXT_VOICEMAN_05000_003580_GHENGEN","여행을 하려면 기운을 내야게찌!
+404,TEXT_VOICEMAN_05000_003580_GHENGEN,"여행을 하려면 기운을 내야게찌!
 첫 구매는 '로온 론이 하는 식료품점'에서
 멍가 먹능 거를 추천하깨!"
-405,"TEXT_VOICEMAN_05000_003590_ALISAIE","(-???-)거기 서!"
-406,"TEXT_VOICEMAN_05000_003600_ALISAIE","설마…… 저 사람 혹시?!"
-407,"TEXT_VOICEMAN_05000_003610_ALISAIE","하앗!"
-408,"TEXT_VOICEMAN_05000_Q12_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-409,"TEXT_VOICEMAN_05000_A12_000_001_NONE_VOICE","잘했어!"
-410,"TEXT_VOICEMAN_05000_A12_000_002_NONE_VOICE","아직 수련을 더 해야겠군"
-411,"TEXT_VOICEMAN_05000_003620_ALISAIE","죄, 죄식자라도 이런 녀석은 피라미에 불과한걸.
+405,TEXT_VOICEMAN_05000_003590_ALISAIE,(-???-)거기 서!
+406,TEXT_VOICEMAN_05000_003600_ALISAIE,설마…… 저 사람 혹시?!
+407,TEXT_VOICEMAN_05000_003610_ALISAIE,하앗!
+408,TEXT_VOICEMAN_05000_Q12_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+409,TEXT_VOICEMAN_05000_A12_000_001_NONE_VOICE,잘했어!
+410,TEXT_VOICEMAN_05000_A12_000_002_NONE_VOICE,아직 수련을 더 해야겠군
+411,TEXT_VOICEMAN_05000_003620_ALISAIE,"죄, 죄식자라도 이런 녀석은 피라미에 불과한걸.
 이 정도는 쓰러뜨리는 게 당연하지……."
-412,"TEXT_VOICEMAN_05000_003630_ALISAIE","나, 나도 알아……! 그냥 조금 놀라서……
+412,TEXT_VOICEMAN_05000_003630_ALISAIE,"나, 나도 알아……! 그냥 조금 놀라서……
 다음에는 더 잘할 수 있거든?"
-413,"TEXT_VOICEMAN_05000_003640_ALISAIE","당신이야말로 언젠가는 올 줄 알았지만
+413,TEXT_VOICEMAN_05000_003640_ALISAIE,"당신이야말로 언젠가는 올 줄 알았지만
 너무 늦은 거 아니야?"
-414,"TEXT_VOICEMAN_05000_003650_ALISAIE","…………오랜만이야. 잘 지냈어?"
-415,"TEXT_VOICEMAN_05000_003660_ALISAIE","그래…….
+414,TEXT_VOICEMAN_05000_003650_ALISAIE,…………오랜만이야. 잘 지냈어?
+415,TEXT_VOICEMAN_05000_003660_ALISAIE,"그래…….
 제국과의 전투는 고착 상태에 놓여 있구나……."
-416,"TEXT_VOICEMAN_05000_003670_ALISAIE","원초세계와 한번 연결되었다던 수정공이
+416,TEXT_VOICEMAN_05000_003670_ALISAIE,"원초세계와 한번 연결되었다던 수정공이
 일단 급한 위기는 지나갔다고 말은 해줬지만……
 시간의 흐름이 다르다고 하니 걱정은 됐었어."
-417,"TEXT_VOICEMAN_05000_003680_ALISAIE","알피노와 위리앙제한테는 이곳에 와서 만났을 때
+417,TEXT_VOICEMAN_05000_003680_ALISAIE,"알피노와 위리앙제한테는 이곳에 와서 만났을 때
 내가 알고 있는 정보를 말해줬어."
-418,"TEXT_VOICEMAN_05000_003690_ALISAIE","아직 만나지 못한 산크레드와 야슈톨라에게도
+418,TEXT_VOICEMAN_05000_003690_ALISAIE,"아직 만나지 못한 산크레드와 야슈톨라에게도
 두 사람과 수정공을 통해서 이야기는 전달됐을 거야."
-419,"TEXT_VOICEMAN_05000_003700_ALISAIE","기다리고 있을 타타루와 다른 사람들을 생각하면
+419,TEXT_VOICEMAN_05000_003700_ALISAIE,"기다리고 있을 타타루와 다른 사람들을 생각하면
 한시라도 빨리 원초세계로 돌아가고 싶지만……"
-420,"TEXT_VOICEMAN_05000_003710_ALISAIE","아직 방법을 찾지 못하기도 했고
+420,TEXT_VOICEMAN_05000_003710_ALISAIE,"아직 방법을 찾지 못하기도 했고
 무엇보다 위리앙제가 본 미래를 모른 척할 수가 없어."
-421,"TEXT_VOICEMAN_05000_003720_ALISAIE","위리앙제는 원래……
+421,TEXT_VOICEMAN_05000_003720_ALISAIE,"위리앙제는 원래……
 말을 빙빙 돌려 하고, 혼자서만 모든 걸 이해하잖아."
-422,"TEXT_VOICEMAN_05000_003730_ALISAIE","하지만 속으로는 한없이 다정한 사람이라
+422,TEXT_VOICEMAN_05000_003730_ALISAIE,"하지만 속으로는 한없이 다정한 사람이라
 우리에게 정말 상처가 될 거짓말은 안 할 거라 생각해."
-423,"TEXT_VOICEMAN_05000_003740_ALISAIE","그런 위리앙제가 제8재해가 일어날 것이고……
+423,TEXT_VOICEMAN_05000_003740_ALISAIE,"그런 위리앙제가 제8재해가 일어날 것이고……
 영웅이 죽는다고…… 했으니,
 말을 꺼내기 전까지 고민이 많지 않았을까?"
-424,"TEXT_VOICEMAN_05000_003750_ALISAIE","……그래서 난 믿고 있어.
+424,TEXT_VOICEMAN_05000_003750_ALISAIE,"……그래서 난 믿고 있어.
 지금 우리가 해야 할 일은 세계의 통합을 막는 것이고
 그러려면 제1세계를 죄식자의 위협에서 구해야 한다는 걸."
-425,"TEXT_VOICEMAN_05000_003760_ALISAIE","저 커다랗고 하얀 벽 보이지?
+425,TEXT_VOICEMAN_05000_003760_ALISAIE,"저 커다랗고 하얀 벽 보이지?
 저게 '빛의 범람'이 일어났던 흔적이야."
-426,"TEXT_VOICEMAN_05000_003770_ALISAIE","100년 전, 여기 제1세계는 빛의 힘이 비정상적으로 강해지다가
+426,TEXT_VOICEMAN_05000_003770_ALISAIE,"100년 전, 여기 제1세계는 빛의 힘이 비정상적으로 강해지다가
 어느 날 한계를 넘어…… 흘러넘치고 말았대."
-427,"TEXT_VOICEMAN_05000_003780_ALISAIE","그렇게 발생한 초고농도의 빛의 파도가
+427,TEXT_VOICEMAN_05000_003780_ALISAIE,"그렇게 발생한 초고농도의 빛의 파도가
 노르브란트를 제외한…… 세계의 9할을 삼켜 버렸고."
-428,"TEXT_VOICEMAN_05000_003790_ALISAIE","일반적으로 모든 생물은
+428,TEXT_VOICEMAN_05000_003790_ALISAIE,"일반적으로 모든 생물은
 여러 가지 속성으로 이루어진 에테르를 갖고 있어."
-429,"TEXT_VOICEMAN_05000_003800_ALISAIE","하지만 그 빛의 파도에 휘말리면 균형이 깨져버리고,
+429,TEXT_VOICEMAN_05000_003800_ALISAIE,"하지만 그 빛의 파도에 휘말리면 균형이 깨져버리고,
 원래 형태를 유지할 수 없게 돼."
-430,"TEXT_VOICEMAN_05000_003810_ALISAIE","소멸하거나……
+430,TEXT_VOICEMAN_05000_003810_ALISAIE,"소멸하거나……
 이성조차 없는 괴이한 괴물로 변하는 거지."
-431,"TEXT_VOICEMAN_05000_003820_ALISAIE","그래, 죄식자는……
+431,TEXT_VOICEMAN_05000_003820_ALISAIE,"그래, 죄식자는……
 원래 빛의 범람에 휘말린 '누군가'였다는 얘기야."
-432,"TEXT_VOICEMAN_05000_003830_ALISAIE","한번 그렇게 되면 원래대로 돌아올 수 없어.
+432,TEXT_VOICEMAN_05000_003830_ALISAIE,"한번 그렇게 되면 원래대로 돌아올 수 없어.
 죄식자는 에테르를 먹기 때문에 인간은 최적의 먹이야."
-433,"TEXT_VOICEMAN_05000_003840_ALISAIE","아니면 단순한 증식…….
+433,TEXT_VOICEMAN_05000_003840_ALISAIE,"아니면 단순한 증식…….
 강력한 죄식자는 습격한 상대의 에테르를 흐트러뜨려서
 죄식자로 만들 수도 있어."
-434,"TEXT_VOICEMAN_05000_003850_ALISAIE","즉, 저들의 목적은 오로지 포식과 증식이야.
+434,TEXT_VOICEMAN_05000_003850_ALISAIE,"즉, 저들의 목적은 오로지 포식과 증식이야.
 참 단순하지……
 그러니 협상의 여지도 없는 인류의 적일 수밖에 없어."
-435,"TEXT_VOICEMAN_05000_003860_ALISAIE","그리고 이곳 '여행길 여관'은
+435,TEXT_VOICEMAN_05000_003860_ALISAIE,"그리고 이곳 '여행길 여관'은
 죄식자에게 습격당해 자신도 그렇게 변해 가는 사람들이
 버림받아 찾아오는 곳이야."
-436,"TEXT_VOICEMAN_05000_003870_ALISAIE","저길 봐.
+436,TEXT_VOICEMAN_05000_003870_ALISAIE,"저길 봐.
 커다란 결정 사이의 틈새 말이야."
-437,"TEXT_VOICEMAN_05000_003880_ALISAIE","그 너머로 하얀 지평선이 보이지?"
-438,"TEXT_VOICEMAN_05000_003890_ALISAIE","저곳이 '빛의 범람'에 삼켜진 땅이래.
+437,TEXT_VOICEMAN_05000_003880_ALISAIE,그 너머로 하얀 지평선이 보이지?
+438,TEXT_VOICEMAN_05000_003890_ALISAIE,"저곳이 '빛의 범람'에 삼켜진 땅이래.
 그저 하얗기만 하고 아무것도 없는 무의 공간……."
-439,"TEXT_VOICEMAN_05000_003900_ALISAIE","지금도 강력한 빛의 힘을 띠고 있어서
+439,TEXT_VOICEMAN_05000_003900_ALISAIE,"지금도 강력한 빛의 힘을 띠고 있어서
 들어가려 하면 몸의 에테르 균형이 흐트러지고 말아.
 저곳은 이제 생명이 살 수 없는 곳이야……."
-440,"TEXT_VOICEMAN_05000_003910_ALISAIE","……아까 산 천도복숭아는,
+440,TEXT_VOICEMAN_05000_003910_ALISAIE,"……아까 산 천도복숭아는,
 점점 죄식자로 변해 가는 그 아이…… 할리크가 좋아하던 거였어."
-441,"TEXT_VOICEMAN_05000_003920_ALISAIE","그 아이를 비롯해서 그곳의 많은 환자들은
+441,TEXT_VOICEMAN_05000_003920_ALISAIE,"그 아이를 비롯해서 그곳의 많은 환자들은
 강력한 죄식자에게 습격당했다가 간신히 살아남은 사람들이야."
-442,"TEXT_VOICEMAN_05000_003930_ALISAIE","하지만…… 목숨만 건졌을 뿐이지,
+442,TEXT_VOICEMAN_05000_003930_ALISAIE,"하지만…… 목숨만 건졌을 뿐이지,
 이미 그들의 에테르는 빛에 잠식당했어."
-443,"TEXT_VOICEMAN_05000_003940_ALISAIE","게다가 보다시피 여긴 빛 뿐이니…….
+443,TEXT_VOICEMAN_05000_003940_ALISAIE,"게다가 보다시피 여긴 빛 뿐이니…….
 보통 사람이라면 몸이 자연스럽게 균형을 맞추겠지만
 그들은 빛에 노출되면 그 빛이 그대로 몸에 축적되는 거야……."
-444,"TEXT_VOICEMAN_05000_003950_ALISAIE","그래서……
+444,TEXT_VOICEMAN_05000_003950_ALISAIE,"그래서……
 결국에는 모두 죄식자로 변할 거래."
-445,"TEXT_VOICEMAN_05000_003960_ALISAIE","테슬린과 간호사들도 그걸 알고 있어.
+445,TEXT_VOICEMAN_05000_003960_ALISAIE,"테슬린과 간호사들도 그걸 알고 있어.
 그래서 어느 순간 완전한 죄식자로 변하기 전에
 반드시 목숨을 끊어야 해."
-446,"TEXT_VOICEMAN_05000_003970_ALISAIE","의식이 있었을 때 좋아했던 음식에 독을 섞어서 말이야.
+446,TEXT_VOICEMAN_05000_003970_ALISAIE,"의식이 있었을 때 좋아했던 음식에 독을 섞어서 말이야.
 ……그런 최후를 지금까지 몇 번이나 봤어."
-447,"TEXT_VOICEMAN_05000_003980_ALISAIE","……화가 나, 지금도 여전히.
+447,TEXT_VOICEMAN_05000_003980_ALISAIE,"……화가 나, 지금도 여전히.
 아무리 싸워도 내 힘은 아직도 부족해."
-448,"TEXT_VOICEMAN_05000_003990_ALISAIE","그래도 물러설 순 없어.
+448,TEXT_VOICEMAN_05000_003990_ALISAIE,"그래도 물러설 순 없어.
 날 두고 가지 말라고 당신에게 그토록 말해 놓고
 정작 내가 먼저 떠나버렸잖아?"
-449,"TEXT_VOICEMAN_05000_004000_ALISAIE","하필 그 타이밍에 날 소환한 수정공에게는
+449,TEXT_VOICEMAN_05000_004000_ALISAIE,"하필 그 타이밍에 날 소환한 수정공에게는
 따끔하게 한 소리했지만 말이야……"
-450,"TEXT_VOICEMAN_05000_004010_ALISAIE","아무리 남의 탓으로 돌려도
+450,TEXT_VOICEMAN_05000_004010_ALISAIE,"아무리 남의 탓으로 돌려도
 당신을 전쟁터에 두고 왔다는 후회는 사라지지 않았어.
 그래서 마음먹은 거야."
-451,"TEXT_VOICEMAN_05000_004020_ALISAIE","여기서 내가 할 수 있는 일이 있다면,
+451,TEXT_VOICEMAN_05000_004020_ALISAIE,"여기서 내가 할 수 있는 일이 있다면,
 어떤 가시밭길이라도 견디면서 앞으로 나아가겠다고."
-452,"TEXT_VOICEMAN_05000_004030_ALISAIE","……그게 지금의 내 결심이고 버팀목이야."
-453,"TEXT_VOICEMAN_05000_004040_ALISAIE","슬슬 돌아갈까?
+452,TEXT_VOICEMAN_05000_004030_ALISAIE,……그게 지금의 내 결심이고 버팀목이야.
+453,TEXT_VOICEMAN_05000_004040_ALISAIE,"슬슬 돌아갈까?
 오래 기다리게 하면 테슬린도 힘들 테니까……."
-454,"TEXT_VOICEMAN_05000_004050_TESLEEN","부족하면 말해.
+454,TEXT_VOICEMAN_05000_004050_TESLEEN,"부족하면 말해.
 오늘은 조금 넉넉하게 만들었어."
-455,"TEXT_VOICEMAN_05000_004060_ALISAIE","기분 탓인가, 평소보다 건더기가 많은 것 같은데?"
-456,"TEXT_VOICEMAN_05000_004070_TESLEEN","정답이야. 크리스타리움에서 손님이 오는 게 흔한 일은 아니라서
+455,TEXT_VOICEMAN_05000_004060_ALISAIE,"기분 탓인가, 평소보다 건더기가 많은 것 같은데?"
+456,TEXT_VOICEMAN_05000_004070_TESLEEN,"정답이야. 크리스타리움에서 손님이 오는 게 흔한 일은 아니라서
 신경 좀 썼어."
-457,"TEXT_VOICEMAN_05000_Q13_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-458,"TEXT_VOICEMAN_05000_A13_000_001_NONE_VOICE","그러지 않아도 되는데"
-459,"TEXT_VOICEMAN_05000_A13_000_002_NONE_VOICE","그럼 한 그릇 더!"
-460,"TEXT_VOICEMAN_05000_004080_TESLEEN","아니야, 당연히 신경을 써야지~
+457,TEXT_VOICEMAN_05000_Q13_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+458,TEXT_VOICEMAN_05000_A13_000_001_NONE_VOICE,그러지 않아도 되는데
+459,TEXT_VOICEMAN_05000_A13_000_002_NONE_VOICE,그럼 한 그릇 더!
+460,TEXT_VOICEMAN_05000_004080_TESLEEN,"아니야, 당연히 신경을 써야지~
 정말 드문 일이거든. 얼마나 기쁜지 몰라."
-461,"TEXT_VOICEMAN_05000_004090_TESLEEN","좋아!
+461,TEXT_VOICEMAN_05000_004090_TESLEEN,"좋아!
 한소끔 끓을 때까지 조금만 기다려.
 마음에 들었다니 기뻐."
-462,"TEXT_VOICEMAN_05000_004100_TESLEEN","……알잖아.
+462,TEXT_VOICEMAN_05000_004100_TESLEEN,"……알잖아.
 여긴 버려지거나 헤어지는 일만 있는 곳이니까."
-463,"TEXT_VOICEMAN_05000_004110_TESLEEN","원래는 나도
+463,TEXT_VOICEMAN_05000_004110_TESLEEN,"원래는 나도
 죄식자로 변해 가는 엄마를 따라 여기로 왔어."
-464,"TEXT_VOICEMAN_05000_004120_TESLEEN","구할 수 없다는 걸, 죽일 수밖에 없다는 걸 알면서도
+464,TEXT_VOICEMAN_05000_004120_TESLEEN,"구할 수 없다는 걸, 죽일 수밖에 없다는 걸 알면서도
 어쩔 도리가 없었어…….
 다들 그래, 그래서 이런 땅끝의 황야를 찾아오는 거야."
-465,"TEXT_VOICEMAN_05000_004130_TESLEEN","여기에 있는 건 희망 따위가 아니야.
+465,TEXT_VOICEMAN_05000_004130_TESLEEN,"여기에 있는 건 희망 따위가 아니야.
 아주 잠깐의 유예기간과…… 기껏해야 고통 없는 죽음뿐이지."
-466,"TEXT_VOICEMAN_05000_004140_TESLEEN","그래도 엄마가 조용히 숨을 거뒀을 때,
+466,TEXT_VOICEMAN_05000_004140_TESLEEN,"그래도 엄마가 조용히 숨을 거뒀을 때,
 이렇게 돌볼 수 있어서 다행이라고 진심으로 생각했어."
-467,"TEXT_VOICEMAN_05000_004150_TESLEEN","……그래.
+467,TEXT_VOICEMAN_05000_004150_TESLEEN,"……그래.
 그것이 그들을 구원하는 길이라고 믿고 있지만,
 간호해왔던 사람의 목숨을 빼앗는 일은……."
-468,"TEXT_VOICEMAN_05000_004160_TESLEEN","이기적일지 모르지만 '어둠의 전사'가 와서
+468,TEXT_VOICEMAN_05000_004160_TESLEEN,"이기적일지 모르지만 '어둠의 전사'가 와서
 대신해줬으면 하고 매번 바라게 돼."
-469,"TEXT_VOICEMAN_05000_004170_ALISAIE","어둠의 전사……?"
-470,"TEXT_VOICEMAN_05000_004180_TESLEEN","어머, 몰라?
+469,TEXT_VOICEMAN_05000_004170_ALISAIE,어둠의 전사……?
+470,TEXT_VOICEMAN_05000_004180_TESLEEN,"어머, 몰라?
 나도 유래는 정확하게 모르지만 유명한 전설이야."
-471,"TEXT_VOICEMAN_05000_004190_TESLEEN","""어둠의 전사는 죽음의 사자.
+471,TEXT_VOICEMAN_05000_004190_TESLEEN,"""어둠의 전사는 죽음의 사자.
  목숨을 거두어 어두운 하늘 바다로 돌려보내니."""
-472,"TEXT_VOICEMAN_05000_004200_TESLEEN","""아무도 피할 수 없으리라.
+472,TEXT_VOICEMAN_05000_004200_TESLEEN,"""아무도 피할 수 없으리라.
  인간도, 한때는 인간이었던 죄식자조차도."""
-473,"TEXT_VOICEMAN_05000_004210_TESLEEN","……이런 내용이었던 것 같은데.
+473,TEXT_VOICEMAN_05000_004210_TESLEEN,"……이런 내용이었던 것 같은데.
 뭐, 실제로 그런 걸 본 적은 없으니까
 옛날이야기 같은 거겠지만."
-474,"TEXT_VOICEMAN_05000_004220_ALISAIE","……별 불길한 전설이 다 있네."
-475,"TEXT_VOICEMAN_05000_004230_TESLEEN","그래?
+474,TEXT_VOICEMAN_05000_004220_ALISAIE,……별 불길한 전설이 다 있네.
+475,TEXT_VOICEMAN_05000_004230_TESLEEN,"그래?
 난 인간이든 죄식자든 목숨을 똑같이 돌려보내준다는 부분이
 마음에 들던데……."
-476,"TEXT_VOICEMAN_05000_004240_JOURNEYSHEADPATIENT","온다……."
-477,"TEXT_VOICEMAN_05000_004250_JOURNEYSHEADNURSE","테슬린, 큰일이야……!"
-478,"TEXT_VOICEMAN_05000_004260_JOURNEYSHEADNURSE","할리크가…… 할리크가 없어졌어!
+476,TEXT_VOICEMAN_05000_004240_JOURNEYSHEADPATIENT,온다…….
+477,TEXT_VOICEMAN_05000_004250_JOURNEYSHEADNURSE,"테슬린, 큰일이야……!"
+478,TEXT_VOICEMAN_05000_004260_JOURNEYSHEADNURSE,"할리크가…… 할리크가 없어졌어!
 잠깐 안 본 사이에 사라졌어!"
-479,"TEXT_VOICEMAN_05000_004270_ALISAIE","어때? 뭔가 발견했어!?"
-480,"TEXT_VOICEMAN_05000_004280_ALISAIE","그쪽에도 단서가 없었구나…….
+479,TEXT_VOICEMAN_05000_004270_ALISAIE,어때? 뭔가 발견했어!?
+480,TEXT_VOICEMAN_05000_004280_ALISAIE,"그쪽에도 단서가 없었구나…….
 그렇게 멀리 가지는 못했을 텐데……."
-481,"TEXT_VOICEMAN_05000_004290_ALISAIE","죄식자가 소란스러운 것도 느낌이 좋지 않아.
+481,TEXT_VOICEMAN_05000_004290_ALISAIE,"죄식자가 소란스러운 것도 느낌이 좋지 않아.
 이번에는 다른 곳을 다시……."
-482,"TEXT_VOICEMAN_05000_004300_ALISAIE","저것도 죄식자야……!
+482,TEXT_VOICEMAN_05000_004300_ALISAIE,"저것도 죄식자야……!
 아마…… 굉장히 강할 거야!"
-483,"TEXT_VOICEMAN_05000_004310_ALISAIE","인간을 습격하러 온 걸지도 몰라!
+483,TEXT_VOICEMAN_05000_004310_ALISAIE,"인간을 습격하러 온 걸지도 몰라!
 뒤쫓아 가자!"
-484,"TEXT_VOICEMAN_05000_004320_ALISAIE","저기다!"
-485,"TEXT_VOICEMAN_05000_004330_ALISAIE","저건…… 말도 안 돼……!"
-486,"TEXT_VOICEMAN_05000_004340_ALISAIE","할리크!"
-487,"TEXT_VOICEMAN_05000_004350_TESLEEN","도망치자……!"
-488,"TEXT_VOICEMAN_05000_004360_ALISAIE","테슬린!"
-489,"TEXT_VOICEMAN_05000_004370_TESLEEN","이 세상에 있는 것 중에……
+484,TEXT_VOICEMAN_05000_004320_ALISAIE,저기다!
+485,TEXT_VOICEMAN_05000_004330_ALISAIE,저건…… 말도 안 돼……!
+486,TEXT_VOICEMAN_05000_004340_ALISAIE,할리크!
+487,TEXT_VOICEMAN_05000_004350_TESLEEN,도망치자……!
+488,TEXT_VOICEMAN_05000_004360_ALISAIE,테슬린!
+489,TEXT_VOICEMAN_05000_004370_TESLEEN,"이 세상에 있는 것 중에……
 필요 없는 건 없어……."
-490,"TEXT_VOICEMAN_05000_004380_TESLEEN","너도…… 마지막 순간까지 소중한……
+490,TEXT_VOICEMAN_05000_004380_TESLEEN,"너도…… 마지막 순간까지 소중한……
 고통 속에…… 죽어서는…… 안 돼…………."
-491,"TEXT_VOICEMAN_05000_004390_TESLEEN","그렇지……? 엄마………………"
-492,"TEXT_VOICEMAN_05000_004400_TESLEEN","아, 아, 아악!"
-493,"TEXT_VOICEMAN_05000_004410_TESLEEN","아아아아아악!"
-494,"TEXT_VOICEMAN_05000_004411_TESLEEN","커헉 큭!"
-495,"TEXT_VOICEMAN_05000_004420_ALISAIE","안 돼…… 싫어……
+491,TEXT_VOICEMAN_05000_004390_TESLEEN,그렇지……? 엄마………………
+492,TEXT_VOICEMAN_05000_004400_TESLEEN,"아, 아, 아악!"
+493,TEXT_VOICEMAN_05000_004410_TESLEEN,아아아아아악!
+494,TEXT_VOICEMAN_05000_004411_TESLEEN,커헉 큭!
+495,TEXT_VOICEMAN_05000_004420_ALISAIE,"안 돼…… 싫어……
 테슬린……!"
-496,"TEXT_VOICEMAN_05000_004430_TESLEEN","미아……해…… 알리제…………."
-497,"TEXT_VOICEMAN_05000_004440_MYSTERYVOICE","셋 다 무사히 돌아와서 다행이다."
-498,"TEXT_VOICEMAN_05000_004450_MYSTERYVOICE","제1세계가 직면한 상황을 직접 눈으로 보고
+496,TEXT_VOICEMAN_05000_004430_TESLEEN,미아……해…… 알리제………….
+497,TEXT_VOICEMAN_05000_004440_MYSTERYVOICE,셋 다 무사히 돌아와서 다행이다.
+498,TEXT_VOICEMAN_05000_004450_MYSTERYVOICE,"제1세계가 직면한 상황을 직접 눈으로 보고
 이해했을 것이라 생각하네."
-499,"TEXT_VOICEMAN_05000_004460_ALISAIE","그래, 내 눈으로 직접 보고 왔어……."
-500,"TEXT_VOICEMAN_05000_004470_ALISAIE","'빛의 범람'을 피할 수 있었던 건 극히 일부 지역뿐이었고,
+499,TEXT_VOICEMAN_05000_004460_ALISAIE,"그래, 내 눈으로 직접 보고 왔어……."
+500,TEXT_VOICEMAN_05000_004470_ALISAIE,"'빛의 범람'을 피할 수 있었던 건 극히 일부 지역뿐이었고,
 그나마도 그곳 사람들은 계속 죄식자의 위협을 받고 있어."
-501,"TEXT_VOICEMAN_05000_004480_MYSTERYVOICE","그래…….
+501,TEXT_VOICEMAN_05000_004480_MYSTERYVOICE,"그래…….
 그들을 없앤다는 건 터무니없는 이야기처럼 들리겠지."
-502,"TEXT_VOICEMAN_05000_004490_MYSTERYVOICE","하지만 인류는 수많은 희생을 치른 끝에
+502,TEXT_VOICEMAN_05000_004490_MYSTERYVOICE,"하지만 인류는 수많은 희생을 치른 끝에
 한 가지 가능성을 발견해냈다."
-503,"TEXT_VOICEMAN_05000_004500_MYSTERYVOICE","바로 죄식자 집단을 통솔하는 상위 개체……
+503,TEXT_VOICEMAN_05000_004500_MYSTERYVOICE,"바로 죄식자 집단을 통솔하는 상위 개체……
 즉, '대죄식자'의 수는 한정돼 있다는 걸 알아낸 거다."
-504,"TEXT_VOICEMAN_05000_004510_MYSTERYVOICE","개미가 여왕을 잃으면 집을 짓지 못하듯이
+504,TEXT_VOICEMAN_05000_004510_MYSTERYVOICE,"개미가 여왕을 잃으면 집을 짓지 못하듯이
 '대죄식자'만 쓰러뜨리면
 하위 개체들은 이 일대에서 활동하는 것을 포기하겠지."
-505,"TEXT_VOICEMAN_05000_004520_ALPHINAUD","……하지만 죄식자 토벌을 율모어가 묵인할까?"
-506,"TEXT_VOICEMAN_05000_004530_ALPHINAUD","돈 바우스리는
+505,TEXT_VOICEMAN_05000_004520_ALPHINAUD,……하지만 죄식자 토벌을 율모어가 묵인할까?
+506,TEXT_VOICEMAN_05000_004530_ALPHINAUD,"돈 바우스리는
 죄식자를 조종할 수 있다는 걸 최대의 무기로
 현재의 통치 체제를 구축했다네."
-507,"TEXT_VOICEMAN_05000_004540_ALPHINAUD","그런데 죄식자를 토벌하고 다니는 자가 나타나면……
+507,TEXT_VOICEMAN_05000_004540_ALPHINAUD,"그런데 죄식자를 토벌하고 다니는 자가 나타나면……
 최악의 경우, 적으로 여길 수도 있을 걸세."
-508,"TEXT_VOICEMAN_05000_004550_MYSTERYVOICE","맞아.
+508,TEXT_VOICEMAN_05000_004550_MYSTERYVOICE,"맞아.
 그러니 경우에 따라서는 율모어를 견제하면서
 대죄식자를 토벌해야 할 수도 있을 거다."
-509,"TEXT_VOICEMAN_05000_004560_MYSTERYVOICE","이것이 나……
+509,TEXT_VOICEMAN_05000_004560_MYSTERYVOICE,"이것이 나……
 그리고 제8재해를 막고자 하는 그대들이
 당면한 현재의 목표다."
-510,"TEXT_VOICEMAN_05000_Q14_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-511,"TEXT_VOICEMAN_05000_A14_000_001_NONE_VOICE","그렇게 하면 정말 재해를 막을 수 있어?"
-512,"TEXT_VOICEMAN_05000_A14_000_002_NONE_VOICE","잘 이해가 안 되는군……"
-513,"TEXT_VOICEMAN_05000_004570_MYSTERYVOICE","흠…….
+510,TEXT_VOICEMAN_05000_Q14_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+511,TEXT_VOICEMAN_05000_A14_000_001_NONE_VOICE,그렇게 하면 정말 재해를 막을 수 있어?
+512,TEXT_VOICEMAN_05000_A14_000_002_NONE_VOICE,잘 이해가 안 되는군……
+513,TEXT_VOICEMAN_05000_004570_MYSTERYVOICE,"흠…….
 잠깐 시간이 괜찮다면
 세계의 통합과 재해에 대해 설명하도록 하지."
-514,"TEXT_VOICEMAN_05000_004580_MYSTERYVOICE","아득히 먼 옛날……
+514,TEXT_VOICEMAN_05000_004580_MYSTERYVOICE,"아득히 먼 옛날……
 단 하나였던 세계가 14개의 세계로 갈라졌다."
-515,"TEXT_VOICEMAN_05000_004590_MYSTERYVOICE","그대들이 있던 '원초세계'.
+515,TEXT_VOICEMAN_05000_004590_MYSTERYVOICE,"그대들이 있던 '원초세계'.
 그리고 여기 제1세계를 포함한 13개의 '거울 세계'로."
-516,"TEXT_VOICEMAN_05000_004600_MYSTERYVOICE","이 세계들은 각각 떨어져 있지만 서로를 간섭하고 있다.
+516,TEXT_VOICEMAN_05000_004600_MYSTERYVOICE,"이 세계들은 각각 떨어져 있지만 서로를 간섭하고 있다.
 특히 그 뿌리인 원초세계와 말이지."
-517,"TEXT_VOICEMAN_05000_004610_MYSTERYVOICE","……그러다, 어떤 거울 세계에서 특정 속성의 힘이
+517,TEXT_VOICEMAN_05000_004610_MYSTERYVOICE,"……그러다, 어떤 거울 세계에서 특정 속성의 힘이
 비정상적으로 높아졌다고 가정해보자."
-518,"TEXT_VOICEMAN_05000_004620_MYSTERYVOICE","그럼 물이 높은 곳에서 낮은 곳으로 흐르듯이
+518,TEXT_VOICEMAN_05000_004620_MYSTERYVOICE,"그럼 물이 높은 곳에서 낮은 곳으로 흐르듯이
 높아진 속성의 힘이 원초세계로 흘러들기 시작할 거다."
-519,"TEXT_VOICEMAN_05000_004630_MYSTERYVOICE","당연히 원초세계는 그 영향을 받게 되겠지."
-520,"TEXT_VOICEMAN_05000_004640_MYSTERYVOICE","그 특정 속성이 불속성이라면 큰 화재나 가뭄,
+519,TEXT_VOICEMAN_05000_004630_MYSTERYVOICE,당연히 원초세계는 그 영향을 받게 되겠지.
+520,TEXT_VOICEMAN_05000_004640_MYSTERYVOICE,"그 특정 속성이 불속성이라면 큰 화재나 가뭄,
 얼음속성이라면 혹독한 한파…… 이런 식으로 말이다."
-521,"TEXT_VOICEMAN_05000_004650_MYSTERYVOICE","이런 이상 현상이 점점 자주 일어나다가
+521,TEXT_VOICEMAN_05000_004650_MYSTERYVOICE,"이런 이상 현상이 점점 자주 일어나다가
 어떤 계기로 인해 대규모 천재지변이 발생해서……
 세계를 나누는 벽에 균열이 생긴다면?"
-522,"TEXT_VOICEMAN_05000_004660_MYSTERYVOICE","원초세계를 향해 힘의 격류가 일어날 것이고,
+522,TEXT_VOICEMAN_05000_004660_MYSTERYVOICE,"원초세계를 향해 힘의 격류가 일어날 것이고,
 그 기세에 힘입어 세계는 통합될 거다."
-523,"TEXT_VOICEMAN_05000_004670_MYSTERYVOICE","그와 동시에 거울 세계가 가진 편중된 속성이
+523,TEXT_VOICEMAN_05000_004670_MYSTERYVOICE,"그와 동시에 거울 세계가 가진 편중된 속성이
 모두 원초세계로 흘러들어가서
 애초에 계기가 되었던 천재지변을 순식간에 더 키우게 될 거야."
-524,"TEXT_VOICEMAN_05000_004680_MYSTERYVOICE","지진에 땅속성의 힘이 더해지면 지각까지 파괴되겠지.
+524,TEXT_VOICEMAN_05000_004680_MYSTERYVOICE,"지진에 땅속성의 힘이 더해지면 지각까지 파괴되겠지.
 해일에 물속성이 더해지면 대륙마저 집어삼킬 규모가 될 테고."
-525,"TEXT_VOICEMAN_05000_004690_MYSTERYVOICE","이게 바로 '재해'라고 불리는 것의 정체다."
-526,"TEXT_VOICEMAN_05000_004700_MYSTERYVOICE","지금까지 7번의 재해를 겪으면서
+525,TEXT_VOICEMAN_05000_004690_MYSTERYVOICE,이게 바로 '재해'라고 불리는 것의 정체다.
+526,TEXT_VOICEMAN_05000_004700_MYSTERYVOICE,"지금까지 7번의 재해를 겪으면서
 7개의 거울 세계가 통합되었다……."
-527,"TEXT_VOICEMAN_05000_004710_MYSTERYVOICE","현재 빛에 편중되어 있는 제1세계 또한,
+527,TEXT_VOICEMAN_05000_004710_MYSTERYVOICE,"현재 빛에 편중되어 있는 제1세계 또한,
 통합 조건을 충족시킬 가능성이 아주 높다고 볼 수 있지."
-528,"TEXT_VOICEMAN_05000_004720_MYSTERYVOICE","그리고 이 세계를 빛에 편중되게 만든 원인 중 하나가
+528,TEXT_VOICEMAN_05000_004720_MYSTERYVOICE,"그리고 이 세계를 빛에 편중되게 만든 원인 중 하나가
 바로 죄식자다."
-529,"TEXT_VOICEMAN_05000_004730_MYSTERYVOICE","앞서 말했던 '대죄식자'는 자신의 영역에 강력한 빛을 흩뿌린다."
-530,"TEXT_VOICEMAN_05000_004740_MYSTERYVOICE","'빛의 범람' 자체는 피했던 노르브란트가
+529,TEXT_VOICEMAN_05000_004730_MYSTERYVOICE,앞서 말했던 '대죄식자'는 자신의 영역에 강력한 빛을 흩뿌린다.
+530,TEXT_VOICEMAN_05000_004740_MYSTERYVOICE,"'빛의 범람' 자체는 피했던 노르브란트가
 밤을 잃을 만큼 빛으로 가득 차 있는 것도 '대죄식자'가 원인이다."
-531,"TEXT_VOICEMAN_05000_004750_MYSTERYVOICE","따라서 제1세계의 속성 균형을 정상으로 되돌리고
+531,TEXT_VOICEMAN_05000_004750_MYSTERYVOICE,"따라서 제1세계의 속성 균형을 정상으로 되돌리고
 세계의 통합을 막기 위해서라도
 반드시 '대죄식자'를 토벌해야 해."
-532,"TEXT_VOICEMAN_05000_004760_ALISAIE","우리는 전에 이 이야기를 들었어.
+532,TEXT_VOICEMAN_05000_004760_ALISAIE,"우리는 전에 이 이야기를 들었어.
 그래서 각자의 방법으로 준비를 하고 있긴 했지만……."
-533,"TEXT_VOICEMAN_05000_004770_ALPHINAUD","구체적인 성과는 아직일세."
-534,"TEXT_VOICEMAN_05000_004780_ALPHINAUD","'대죄식자'가 좀처럼 모습을 드러내지 않는 탓도 있지만,
+533,TEXT_VOICEMAN_05000_004770_ALPHINAUD,구체적인 성과는 아직일세.
+534,TEXT_VOICEMAN_05000_004780_ALPHINAUD,"'대죄식자'가 좀처럼 모습을 드러내지 않는 탓도 있지만,
 특히나 어떤 특성 때문에 자네가 오기를 기다릴 수밖에 없었네."
-535,"TEXT_VOICEMAN_05000_004790_LYNA","말씀 중에 죄송합니다!
+535,TEXT_VOICEMAN_05000_004790_LYNA,"말씀 중에 죄송합니다!
 수정공, 긴급 사태가 발생했습니다……!"
-536,"TEXT_VOICEMAN_05000_004800_LYNA","죄식자가 홀민스터를 습격하고 있다는 보고가 들어왔습니다.
+536,TEXT_VOICEMAN_05000_004800_LYNA,"죄식자가 홀민스터를 습격하고 있다는 보고가 들어왔습니다.
 적의 숫자가 많아 마을이 전멸할 위험도 있다고 합니다……!"
-537,"TEXT_VOICEMAN_05000_004810_MYSTERYVOICE","홀민스터를 습격한 죄식자가
+537,TEXT_VOICEMAN_05000_004810_MYSTERYVOICE,"홀민스터를 습격한 죄식자가
 크리스타리움으로 올 가능성도 있겠군.
 모든 문에 경계 태세를 갖추라고 명령하도록."
-538,"TEXT_VOICEMAN_05000_004820_MYSTERYVOICE","자네는 현장 지시를 맡아주게.
+538,TEXT_VOICEMAN_05000_004820_MYSTERYVOICE,"자네는 현장 지시를 맡아주게.
 단, 진입은 내가 도착한 후에 해야 한다고
 알피노와 알리제에게도 전달하게."
-539,"TEXT_VOICEMAN_05000_004830_LYNA","네!"
-540,"TEXT_VOICEMAN_05000_004840_MYSTERYVOICE","부디 자네도 힘을 빌려주지 않겠나?
+539,TEXT_VOICEMAN_05000_004830_LYNA,네!
+540,TEXT_VOICEMAN_05000_004840_MYSTERYVOICE,"부디 자네도 힘을 빌려주지 않겠나?
 뒷 이야기는 어쩌면 이 싸움에서 자연히 깨달을 수도 있을 테니."
-541,"TEXT_VOICEMAN_05000_004850_LYNA","이런……! 대죄식자가 빛을 뿜기 시작했습니다……!"
-542,"TEXT_VOICEMAN_05000_004860_LYNA","저 빛에 닿아서는 안 됩니다.
+541,TEXT_VOICEMAN_05000_004850_LYNA,이런……! 대죄식자가 빛을 뿜기 시작했습니다……!
+542,TEXT_VOICEMAN_05000_004860_LYNA,"저 빛에 닿아서는 안 됩니다.
 수정공, 역시 후퇴해야……!"
-543,"TEXT_VOICEMAN_05000_004870_MYSTERYVOICE","아니, 그럴 필요는 없다."
-544,"TEXT_VOICEMAN_05000_004880_MYSTERYVOICE","물론 대죄식자를 죽이면 방대한 빛이 방출되지.
+543,TEXT_VOICEMAN_05000_004870_MYSTERYVOICE,"아니, 그럴 필요는 없다."
+544,TEXT_VOICEMAN_05000_004880_MYSTERYVOICE,"물론 대죄식자를 죽이면 방대한 빛이 방출되지.
 그 빛은 새로운 대죄식자를 낳고……
 인류는 지난 100년 동안 제대로 반격조차 하지 못했다."
-545,"TEXT_VOICEMAN_05000_004890_MYSTERYVOICE","하지만……
+545,TEXT_VOICEMAN_05000_004890_MYSTERYVOICE,"하지만……
 유일하게 그것을 상쇄할 수 있는 힘이 있다."
-546,"TEXT_VOICEMAN_05000_004900_MYSTERYVOICE","바로 '빛의 가호'라 불리는 힘.
+546,TEXT_VOICEMAN_05000_004900_MYSTERYVOICE,"바로 '빛의 가호'라 불리는 힘.
 그래서 나는 그를 이 땅에 소환한 것이다……!"
-547,"TEXT_VOICEMAN_05000_004910_MYSTERYVOICE","바로 '빛의 가호'라 불리는 힘.
+547,TEXT_VOICEMAN_05000_004910_MYSTERYVOICE,"바로 '빛의 가호'라 불리는 힘.
 그래서 나는 그녀를 이 땅에 소환한 것이다……!"
-548,"TEXT_VOICEMAN_05000_004920_MYSTERYVOICE","보라!
+548,TEXT_VOICEMAN_05000_004920_MYSTERYVOICE,"보라!
 대죄식자가 내뿜던 빛,
 그로 인해 변했던 세계가 지금, 돌아오고 있다……!"
-549,"TEXT_VOICEMAN_05000_004930_CRYSTARIUMMAN","하늘이…!"
-550,"TEXT_VOICEMAN_05000_004940_CRYSTARIUMWOMAN","굉장하다…"
-551,"TEXT_VOICEMAN_05000_004950_CRYSTARIUMOLDMAN","무슨 일이야…!"
-552,"TEXT_VOICEMAN_05000_004960_CRYSTARIUMGIRL","예뻐라…"
-553,"TEXT_VOICEMAN_05000_004970_MOREN","어두운 하늘 바다……."
-554,"TEXT_VOICEMAN_05000_004980_MOREN","어둠의 전사가 나타난 거야……!"
-555,"TEXT_VOICEMAN_05000_004990_LYNA","너무나 아름다워…… 이건 대체……."
-556,"TEXT_VOICEMAN_05000_005000_ALPHINAUD","진정한 밤하늘이라네…….
+549,TEXT_VOICEMAN_05000_004930_CRYSTARIUMMAN,하늘이…!
+550,TEXT_VOICEMAN_05000_004940_CRYSTARIUMWOMAN,굉장하다…
+551,TEXT_VOICEMAN_05000_004950_CRYSTARIUMOLDMAN,무슨 일이야…!
+552,TEXT_VOICEMAN_05000_004960_CRYSTARIUMGIRL,예뻐라…
+553,TEXT_VOICEMAN_05000_004970_MOREN,어두운 하늘 바다…….
+554,TEXT_VOICEMAN_05000_004980_MOREN,어둠의 전사가 나타난 거야……!
+555,TEXT_VOICEMAN_05000_004990_LYNA,너무나 아름다워…… 이건 대체…….
+556,TEXT_VOICEMAN_05000_005000_ALPHINAUD,"진정한 밤하늘이라네…….
 원래 있어야 했던 어둠이 비로소 돌아온 거지."
-557,"TEXT_VOICEMAN_05000_005010_LYNA","당신들은 정체가 뭐죠?"
-558,"TEXT_VOICEMAN_05000_005020_LYNA","대죄식자를 쓰러뜨리고, 그 빛을 받고도 괜찮다니……
+557,TEXT_VOICEMAN_05000_005010_LYNA,당신들은 정체가 뭐죠?
+558,TEXT_VOICEMAN_05000_005020_LYNA,"대죄식자를 쓰러뜨리고, 그 빛을 받고도 괜찮다니……
 게다가 이 하늘은…… 마치 전설 속의……!"
-559,"TEXT_VOICEMAN_05000_005030_LYNA","수정공…………?"
-560,"TEXT_VOICEMAN_05000_005040_MYSTERYVOICE","저 너머에서 온 영웅이여.
+559,TEXT_VOICEMAN_05000_005030_LYNA,수정공…………?
+560,TEXT_VOICEMAN_05000_005040_MYSTERYVOICE,"저 너머에서 온 영웅이여.
 나는 아주 오랜 세월 동안 기다려왔다."
-561,"TEXT_VOICEMAN_05000_005050_MYSTERYVOICE","빛의 가호를 받아,
+561,TEXT_VOICEMAN_05000_005050_MYSTERYVOICE,"빛의 가호를 받아,
 죄식자를 멸할 수 있는…… 그대를."
-562,"TEXT_VOICEMAN_05000_005060_MYSTERYVOICE","레이크랜드의 대죄식자가 방금 그대 손에 쓰러졌고
+562,TEXT_VOICEMAN_05000_005060_MYSTERYVOICE,"레이크랜드의 대죄식자가 방금 그대 손에 쓰러졌고
 본디 있어야 할 어둠이 돌아와 이 땅에 진정한 밤이 찾아왔다."
-563,"TEXT_VOICEMAN_05000_005070_MYSTERYVOICE","힘을 잃은 죄식자는 더 이상
+563,TEXT_VOICEMAN_05000_005070_MYSTERYVOICE,"힘을 잃은 죄식자는 더 이상
 어둠이 돌아온 이 땅에 뿌리를 내릴 수 없을 테지."
-564,"TEXT_VOICEMAN_05000_005080_MYSTERYVOICE","하지만……
+564,TEXT_VOICEMAN_05000_005080_MYSTERYVOICE,"하지만……
 밤을 되찾은 건 아마도 이 일대뿐."
-565,"TEXT_VOICEMAN_05000_005090_MYSTERYVOICE","여전히 대죄식자는 각지에서 몸을 숨긴 채
+565,TEXT_VOICEMAN_05000_005090_MYSTERYVOICE,"여전히 대죄식자는 각지에서 몸을 숨긴 채
 빛으로 뒤덮인 하늘 아래서 생명을 먹어치우려 하고 있다."
-566,"TEXT_VOICEMAN_05000_005100_MYSTERYVOICE","나는, 멸망하리라 정해진 이 운명을 거역하고 싶은 거다.
+566,TEXT_VOICEMAN_05000_005100_MYSTERYVOICE,"나는, 멸망하리라 정해진 이 운명을 거역하고 싶은 거다.
 최대이자…… 최후의 저항을……!"
-567,"TEXT_VOICEMAN_05000_005110_MYSTERYVOICE","그렇게 해서 결국 그쪽 세계도 구할 수 있다 하더라도
+567,TEXT_VOICEMAN_05000_005110_MYSTERYVOICE,"그렇게 해서 결국 그쪽 세계도 구할 수 있다 하더라도
 강제로 그대들을 소환한 건 이런 내 이기심에서 비롯된 일."
-568,"TEXT_VOICEMAN_05000_005120_MYSTERYVOICE","이 무례는 언젠가 반드시……
+568,TEXT_VOICEMAN_05000_005120_MYSTERYVOICE,"이 무례는 언젠가 반드시……
 나의 힘과 목숨, 그 모든 것을 바쳐서 갚겠다.
 그러니 지금은……!"
-569,"TEXT_VOICEMAN_05000_005130_MYSTERYVOICE","우리에게 힘을……!
+569,TEXT_VOICEMAN_05000_005130_MYSTERYVOICE,"우리에게 힘을……!
 죄식자를 쓰러뜨리고 이 세계에 어둠을 되찾아 다오……!"
-570,"TEXT_VOICEMAN_05000_Q15_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-571,"TEXT_VOICEMAN_05000_A15_000_001_NONE_VOICE","원한다면 어둠의 전사가 되겠다"
-572,"TEXT_VOICEMAN_05000_A15_000_002_NONE_VOICE","재미있는 싸움이 되겠군!"
-573,"TEXT_VOICEMAN_05000_A15_000_003_NONE_VOICE","지금은 그 방법밖에 없으니 어쩔 수 없지"
-574,"TEXT_VOICEMAN_05000_005140_MYSTERYVOICE","아아……!
+570,TEXT_VOICEMAN_05000_Q15_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+571,TEXT_VOICEMAN_05000_A15_000_001_NONE_VOICE,원한다면 어둠의 전사가 되겠다
+572,TEXT_VOICEMAN_05000_A15_000_002_NONE_VOICE,재미있는 싸움이 되겠군!
+573,TEXT_VOICEMAN_05000_A15_000_003_NONE_VOICE,지금은 그 방법밖에 없으니 어쩔 수 없지
+574,TEXT_VOICEMAN_05000_005140_MYSTERYVOICE,"아아……!
 고맙다…………!"
-575,"TEXT_VOICEMAN_05000_005150_ALISAIE","그런데
+575,TEXT_VOICEMAN_05000_005150_ALISAIE,"그런데
 당신은 왜 이렇게까지 싸우는 거야?
 우리를 소환하는 것도 상당히 힘들었을 텐데."
-576,"TEXT_VOICEMAN_05000_005160_MYSTERYVOICE","물론 이 땅에 사는 사람들을 위해……
+576,TEXT_VOICEMAN_05000_005160_MYSTERYVOICE,"물론 이 땅에 사는 사람들을 위해……
 크리스타리움의 주민이 평화로운 미래를 누렸으면 해서다."
-577,"TEXT_VOICEMAN_05000_005170_ALISAIE","그건 부정하지 않지만……
+577,TEXT_VOICEMAN_05000_005170_ALISAIE,"그건 부정하지 않지만……
 당신이 크리스탈 타워를 소환했을 때는
 아직 도시가 생기기 전이었잖아?"
-578,"TEXT_VOICEMAN_05000_005180_ALISAIE","그런 생각을 하게 된 첫 계기가 뭐였는지 궁금해서 그래."
-579,"TEXT_VOICEMAN_05000_005190_MYSTERYVOICE","……구하고 싶은 사람이 있다."
-580,"TEXT_VOICEMAN_05000_005200_MYSTERYVOICE","그 사람의 미래가 계속될 수 있다면……
+578,TEXT_VOICEMAN_05000_005180_ALISAIE,그런 생각을 하게 된 첫 계기가 뭐였는지 궁금해서 그래.
+579,TEXT_VOICEMAN_05000_005190_MYSTERYVOICE,……구하고 싶은 사람이 있다.
+580,TEXT_VOICEMAN_05000_005200_MYSTERYVOICE,"그 사람의 미래가 계속될 수 있다면……
 세계 하나쯤이야 얼마든지 구해 낼 것이다."
-581,"TEXT_VOICEMAN_05000_005210_MYSTERYVOICE","뜻밖인가?
+581,TEXT_VOICEMAN_05000_005210_MYSTERYVOICE,"뜻밖인가?
 미안하지만 더 이상은 묻지 말아 주었으면 좋겠군."
-582,"TEXT_VOICEMAN_05000_005220_MYSTERYVOICE","나는 이렇게 보여도 꽤 오래 살았어.
+582,TEXT_VOICEMAN_05000_005220_MYSTERYVOICE,"나는 이렇게 보여도 꽤 오래 살았어.
 나 자신을 설명하는 단어 하나 하나의 무게가
 이제는 너무나 커진 나머지 그저 가슴이 메여온다."
-583,"TEXT_VOICEMAN_05000_005230_ALISAIE","……알았어.
+583,TEXT_VOICEMAN_05000_005230_ALISAIE,"……알았어.
 꼬치꼬치 캐물어서 미안해."
-584,"TEXT_VOICEMAN_05000_005240_ALPHINAUD","우리도 계속해서 함께 싸우겠네.
+584,TEXT_VOICEMAN_05000_005240_ALPHINAUD,"우리도 계속해서 함께 싸우겠네.
 먼 곳에서 기다리는 사람들을 위해서라도
 반드시 죄식자를 쓰러뜨리세!"
-585,"TEXT_VOICEMAN_05000_005250_MYSTERYVOICE","그럼 구조한 주민들을 데리고 돌아가도록 하지."
-586,"TEXT_VOICEMAN_05000_005260_WARRIOROFDARKNESS","이번에는 너희가 '어둠의 전사'라니…….
+585,TEXT_VOICEMAN_05000_005250_MYSTERYVOICE,그럼 구조한 주민들을 데리고 돌아가도록 하지.
+586,TEXT_VOICEMAN_05000_005260_WARRIOROFDARKNESS,"이번에는 너희가 '어둠의 전사'라니…….
 이 무슨 운명의 장난인가."
-587,"TEXT_VOICEMAN_05000_Q16_000_001_NONE_VOICE","뭐라고 하시겠습니까?"
-588,"TEXT_VOICEMAN_05000_A16_000_001_NONE_VOICE","정말 따라왔었나……"
-589,"TEXT_VOICEMAN_05000_A16_000_002_NONE_VOICE","여긴 내 방인데……"
-590,"TEXT_VOICEMAN_05000_005270_WARRIOROFDARKNESS","미리 말했잖나.
+587,TEXT_VOICEMAN_05000_Q16_000_001_NONE_VOICE,뭐라고 하시겠습니까?
+588,TEXT_VOICEMAN_05000_A16_000_001_NONE_VOICE,정말 따라왔었나……
+589,TEXT_VOICEMAN_05000_A16_000_002_NONE_VOICE,여긴 내 방인데……
+590,TEXT_VOICEMAN_05000_005270_WARRIOROFDARKNESS,"미리 말했잖나.
 콜루시아 섬, 아므 아랭에서 일어난 일……
 대죄식자 토벌도 다 지켜봤다."
-591,"TEXT_VOICEMAN_05000_005280_WARRIOROFDARKNESS","응……?
+591,TEXT_VOICEMAN_05000_005280_WARRIOROFDARKNESS,"응……?
 그러니까 말하기 편하지 않나?"
-592,"TEXT_VOICEMAN_05000_005290_WARRIOROFDARKNESS","다른 사람들에겐 역시나 내 모습이 안 보이는 것 같더군.
+592,TEXT_VOICEMAN_05000_005290_WARRIOROFDARKNESS,"다른 사람들에겐 역시나 내 모습이 안 보이는 것 같더군.
 그러니 네 방이 아닌 곳에서 나와 대화를 나누면
 주위에서 널 이상하게 볼 것 아닌가."
-593,"TEXT_VOICEMAN_05000_005300_WARRIOROFDARKNESS","그 하얀 쌍둥이…….
+593,TEXT_VOICEMAN_05000_005300_WARRIOROFDARKNESS,"그 하얀 쌍둥이…….
 분명 원초세계에서 나와 싸울 때도 있었지."
-594,"TEXT_VOICEMAN_05000_005310_WARRIOROFDARKNESS","그 녀석들과 함께 다닌 지는 오래됐나?"
-595,"TEXT_VOICEMAN_05000_005320_WARRIOROFDARKNESS","그렇군……."
-596,"TEXT_VOICEMAN_05000_005330_WARRIOROFDARKNESS","그렇다면 반드시 지키도록 해라.
+594,TEXT_VOICEMAN_05000_005310_WARRIOROFDARKNESS,그 녀석들과 함께 다닌 지는 오래됐나?
+595,TEXT_VOICEMAN_05000_005320_WARRIOROFDARKNESS,그렇군…….
+596,TEXT_VOICEMAN_05000_005330_WARRIOROFDARKNESS,"그렇다면 반드시 지키도록 해라.
 누군가를 구하기 위해 나아갈수록
 자신에게 소중한 것을 잃기 마련이니까."
-597,"TEXT_VOICEMAN_05000_005340_WARRIOROFDARKNESS","……너 역시 수도 없이 경험했을 텐데?
+597,TEXT_VOICEMAN_05000_005340_WARRIOROFDARKNESS,"……너 역시 수도 없이 경험했을 텐데?
 과연 이번에는 무엇을 구하고 무엇을 잃게 될런지."
-598,"TEXT_VOICEMAN_05000_005350_WARRIOROFDARKNESS","나는 언제부터 한탄하는 것마저 포기했던가……."
-599,"TEXT_VOICEMAN_05000_005360_WARRIOROFDARKNESS","떠도는 동안 진절머리가 났었지.
+598,TEXT_VOICEMAN_05000_005350_WARRIOROFDARKNESS,나는 언제부터 한탄하는 것마저 포기했던가…….
+599,TEXT_VOICEMAN_05000_005360_WARRIOROFDARKNESS,"떠도는 동안 진절머리가 났었지.
 동료를 잃어버린 것도…… 그 녀석들이 마지막에 남긴 의지조차
 악으로 매도당하는 것도."
-600,"TEXT_VOICEMAN_05000_005370_RYNE","(-하얀 옷을 입은 소녀-)이것이 진짜 밤하늘……."
-601,"TEXT_VOICEMAN_05000_005380_RYNE","(-하얀 옷을 입은 소녀-)만나러 가야만 해…… 그러면 반드시……."
-602,"TEXT_VOICEMAN_05000_005390_SYSTEM_NONE_VOICE","한편 원초세계 제국 식민지의 마도 공장――"
-603,"TEXT_VOICEMAN_05000_005400_GARLEANGENERAL","(-제국군 천인대장-)비상 사태다! 침입자를 찾아라!"
-604,"TEXT_VOICEMAN_05000_005410_ESTINIEN","쳇, 비켜!"
-605,"TEXT_VOICEMAN_05000_005420_SHADOWHUNTER","(-???-)그쯤 해라.
+600,TEXT_VOICEMAN_05000_005370_RYNE,(-하얀 옷을 입은 소녀-)이것이 진짜 밤하늘…….
+601,TEXT_VOICEMAN_05000_005380_RYNE,(-하얀 옷을 입은 소녀-)만나러 가야만 해…… 그러면 반드시…….
+602,TEXT_VOICEMAN_05000_005390_SYSTEM_NONE_VOICE,한편 원초세계 제국 식민지의 마도 공장――
+603,TEXT_VOICEMAN_05000_005400_GARLEANGENERAL,(-제국군 천인대장-)비상 사태다! 침입자를 찾아라!
+604,TEXT_VOICEMAN_05000_005410_ESTINIEN,"쳇, 비켜!"
+605,TEXT_VOICEMAN_05000_005420_SHADOWHUNTER,"(-???-)그쯤 해라.
 그자는 나의 동지…… 제국 병사가 아니다."
-606,"TEXT_VOICEMAN_05000_005430_SHADOWHUNTER","우리가 잠입한 걸 어떻게 눈치챘나 했더니
+606,TEXT_VOICEMAN_05000_005430_SHADOWHUNTER,"우리가 잠입한 걸 어떻게 눈치챘나 했더니
 설마 또 침입자가 있을 줄이야……."
-607,"TEXT_VOICEMAN_05000_005440_SHADOWHUNTER","그 갑옷과 창 실력을 보니……
+607,TEXT_VOICEMAN_05000_005440_SHADOWHUNTER,"그 갑옷과 창 실력을 보니……
 예전에 영웅을 전쟁터에서 구출해낸
 용기사 에스티니앙인가 보군."
-608,"TEXT_VOICEMAN_05000_005450_ESTINIEN","오호라, 굉장한 정보통이시구만…….
+608,TEXT_VOICEMAN_05000_005450_ESTINIEN,"오호라, 굉장한 정보통이시구만…….
 전직 군단장쯤 되면 어디든 연줄이 있다는 게 사실인가 보군."
-609,"TEXT_VOICEMAN_05000_005460_ESTINIEN","안 그런가, 가이우스 바일사르?
+609,TEXT_VOICEMAN_05000_005460_ESTINIEN,"안 그런가, 가이우스 바일사르?
 아니, '그림자 사냥꾼'이라고 불러드려야 되나?"
-610,"TEXT_VOICEMAN_05000_005470_SHADOWHUNTER","호오…….
+610,TEXT_VOICEMAN_05000_005470_SHADOWHUNTER,"호오…….
 그걸 알고 있는 걸 보니 역시 '새벽' 쪽에 붙은 모양이군."
-611,"TEXT_VOICEMAN_05000_005480_ESTINIEN","……원하던 바는 아니지만 말이지.
+611,TEXT_VOICEMAN_05000_005480_ESTINIEN,"……원하던 바는 아니지만 말이지.
 지내던 곳이 들켜서 억지로 사정을 듣게 됐거든."
-612,"TEXT_VOICEMAN_05000_005490_ESTINIEN","그 접수원 아가씨는 어디서 스파이라도 했던 건가?
+612,TEXT_VOICEMAN_05000_005490_ESTINIEN,"그 접수원 아가씨는 어디서 스파이라도 했던 건가?
 쿠루루인가 하는 여자도 기껏해야 두어 번 봤을 뿐인데
 어떻게 내 에테르를 추적했는지……."
-613,"TEXT_VOICEMAN_05000_005500_SHADOWHUNTER","흠, 외부인에게 의지하고 있다는 건
+613,TEXT_VOICEMAN_05000_005500_SHADOWHUNTER,"흠, 외부인에게 의지하고 있다는 건
 그 소년들이 아직 눈을 뜨지 못했단 증거……."
-614,"TEXT_VOICEMAN_05000_005510_SHADOWHUNTER","그 영웅은 어떻게 되었지?"
-615,"TEXT_VOICEMAN_05000_005520_ESTINIEN","글쎄……? 출장 중이라더군.
+614,TEXT_VOICEMAN_05000_005510_SHADOWHUNTER,그 영웅은 어떻게 되었지?
+615,TEXT_VOICEMAN_05000_005520_ESTINIEN,"글쎄……? 출장 중이라더군.
 그래서 내가 제국의 신무기를 없애기 위해
 이렇게 끌려 나온 거고."
-616,"TEXT_VOICEMAN_05000_005530_SHADOWHUNTER","신무기라…… '검은 장미'를 말하는 거라면
+616,TEXT_VOICEMAN_05000_005530_SHADOWHUNTER,"신무기라…… '검은 장미'를 말하는 거라면
 나의 동료가 방금 파괴했다."
-617,"TEXT_VOICEMAN_05000_005540_SHADOWHUNTER","하지만 여기도 정제공장 중 하나에 불과해.
+617,TEXT_VOICEMAN_05000_005540_SHADOWHUNTER,"하지만 여기도 정제공장 중 하나에 불과해.
 제국 측도 이번엔 엄중히 경계하면서
 이전보다 많은 장소에서 증산을 하고 있는 모양이다."
-618,"TEXT_VOICEMAN_05000_005550_SHADOWHUNTER","구제 불능이지…….
+618,TEXT_VOICEMAN_05000_005550_SHADOWHUNTER,"구제 불능이지…….
 그런 죽음의 무기로 쟁취한 승리에
 대체 어떤 가치가 있단 말인가……!"
-619,"TEXT_VOICEMAN_05000_005560_ESTINIEN","……실제로 어떤 무기지?
+619,TEXT_VOICEMAN_05000_005560_ESTINIEN,"……실제로 어떤 무기지?
 그 '검은 장미'라는 건."
-620,"TEXT_VOICEMAN_05000_005570_SHADOWHUNTER","그 효과 때문에 '독'이라고 부르지만
+620,TEXT_VOICEMAN_05000_005570_SHADOWHUNTER,"그 효과 때문에 '독'이라고 부르지만
 본질은 마법에 가깝다."
-621,"TEXT_VOICEMAN_05000_005580_SHADOWHUNTER","모든 생물은 생명 에너지…… 즉, 에테르를 가지고 있지.
+621,TEXT_VOICEMAN_05000_005580_SHADOWHUNTER,"모든 생물은 생명 에너지…… 즉, 에테르를 가지고 있지.
 '검은 장미'는 그 에테르의 순환을 강제로 정지시킨다."
-622,"TEXT_VOICEMAN_05000_005590_SHADOWHUNTER","극소량이라도 흡입하면 신체 활동이 멈추고……
+622,TEXT_VOICEMAN_05000_005590_SHADOWHUNTER,"극소량이라도 흡입하면 신체 활동이 멈추고……
 마치 독이 퍼지듯 불결한 것이 몸에 쌓여 죽음에 이르게 되지."
-623,"TEXT_VOICEMAN_05000_005600_SHADOWHUNTER","도시에 살포하면 아무것도 파괴하지 않고도
+623,TEXT_VOICEMAN_05000_005600_SHADOWHUNTER,"도시에 살포하면 아무것도 파괴하지 않고도
 주민을 몰살시킬 수 있을 거다."
-624,"TEXT_VOICEMAN_05000_005610_GARLEANGENERAL","(-제국군 천인대장-)에잇, 아직도 못 찾았나!
+624,TEXT_VOICEMAN_05000_005610_GARLEANGENERAL,"(-제국군 천인대장-)에잇, 아직도 못 찾았나!
 지원군을 불러라, 당장!"
-625,"TEXT_VOICEMAN_05000_005620_ESTINIEN","쳇…….
+625,TEXT_VOICEMAN_05000_005620_ESTINIEN,"쳇…….
 더 말할 시간은 없겠군."
-626,"TEXT_VOICEMAN_05000_005630_SHADOWHUNTER","용기사 에스티니앙…….
+626,TEXT_VOICEMAN_05000_005630_SHADOWHUNTER,"용기사 에스티니앙…….
 이 또한 그 소년으로 인해 맺게 된 인연이라 여기고
 하나만 묻겠다."
-627,"TEXT_VOICEMAN_05000_005640_SHADOWHUNTER","우리는 둘 다 진실을 쫓는 자다.
+627,TEXT_VOICEMAN_05000_005640_SHADOWHUNTER,"우리는 둘 다 진실을 쫓는 자다.
 그러니…… 잠시 손을 잡지 않겠나?"
-628,"TEXT_VOICEMAN_05000_005650_ESTINIEN","참 나……!
+628,TEXT_VOICEMAN_05000_005650_ESTINIEN,"참 나……!
 왜, 나와 손 잡고 조국에 싸움이라도 걸 생각인가?"
-629,"TEXT_VOICEMAN_05000_005660_ESTINIEN","듣자 하니 아씨엔이 만든 나라였다고
+629,TEXT_VOICEMAN_05000_005660_ESTINIEN,"듣자 하니 아씨엔이 만든 나라였다고
 황제 폐하께서 몸소 선언하신 모양이던데!"
-630,"TEXT_VOICEMAN_05000_005670_SHADOWHUNTER","……그 건에 대해선 나도 들었다.
+630,TEXT_VOICEMAN_05000_005670_SHADOWHUNTER,"……그 건에 대해선 나도 들었다.
 전투 전 회담 자리에서 바리스 폐하가 그렇게 말씀하셨다고."
-631,"TEXT_VOICEMAN_05000_005680_SHADOWHUNTER","그러니 더더욱, 진실을 알기 위해
+631,TEXT_VOICEMAN_05000_005680_SHADOWHUNTER,"그러니 더더욱, 진실을 알기 위해
 가야만 한다……."
-632,"TEXT_VOICEMAN_05000_005690_SHADOWHUNTER","제국 수도 '갈레말드', 마도성으로……!"
+632,TEXT_VOICEMAN_05000_005690_SHADOWHUNTER,"제국 수도 '갈레말드', 마도성으로……!"

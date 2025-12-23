@@ -1,74 +1,72 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_000_000","안녕하세요, 제 이름은 스캐닝웨이입니다.
+#,Unknown0,Unknown1
+0,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_000_000,"안녕하세요, 제 이름은 스캐닝웨이입니다.
 우주 개척 계획에 참가 중인 조사원이에요.
 계획에 참가하시게 된다면 잘 부탁드릴게요."
-1,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_000","안녕하세요, 제 이름은 스캐닝웨이입니다.
+1,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_000,"안녕하세요, 제 이름은 스캐닝웨이입니다.
 우주 개척 계획에 참가 중인 조사원이에요."
-2,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_010","제 임무는 협력자 여러분의 활동을 기록하고
+2,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_010,"제 임무는 협력자 여러분의 활동을 기록하고
 일정 기간마다 집계하는 것이죠……."
-3,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_020","수집한 데이터를 바탕으로 효율적으로 계획을 세우고,
+3,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_020,"수집한 데이터를 바탕으로 효율적으로 계획을 세우고,
 여러분의 공헌 정도를 정확하게 파악해,
 보상을 드리기 위해서이기도 해요."
-4,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_030","예를 들면 기간 내에 가장 크게 활약하신 분을
+4,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_030,"예를 들면 기간 내에 가장 크게 활약하신 분을
 계획 기구에서 최우수 공헌자로 선정해
 상을 드리기도 한답니다."
-5,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_035","최우수 공헌자로 선정되신 분은
+5,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_035,"최우수 공헌자로 선정되신 분은
 '계획 공헌도 게시판'에 이름이 올라간답니다.
 소소하게나마 활약상을 기념해 드리기 위해서요!"
-6,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_040","혹시 궁금한 게 있으시면
+6,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_040,"혹시 궁금한 게 있으시면
 개척 단말기를 확인해 보세요!"
-7,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_200_000","우주 개척 계획에 협력해 주셔서 감사합니다.
+7,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_200_000,"우주 개척 계획에 협력해 주셔서 감사합니다.
 지금은 데이터 수집 기간이 아니에요."
-8,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_000","우주 개척 계획에 협력해 주셔서 감사합니다.
+8,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_000,"우주 개척 계획에 협력해 주셔서 감사합니다.
 지금은 계획 공헌도 데이터를 수집하는 기간이에요.
 여러분의 활약을 꼼꼼하게 기록하고 있답니다."
-9,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_000","무엇을 하시겠습니까?"
-10,"TEXT_CTSWKSDELEGATIONMEMBER_00927_Q1_300_000","현재 공헌도 확인하기"
-11,"TEXT_CTSWKSDELEGATIONMEMBER_00927_Q1_300_010","이야기 듣기"
-12,"TEXT_CTSWKSDELEGATIONMEMBER_00927_Q1_300_020","취소"
-13,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_010","지금은 계획 공헌도 데이터 수집 기간이 아니라서
+9,TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_000,무엇을 하시겠습니까?
+10,TEXT_CTSWKSDELEGATIONMEMBER_00927_Q1_300_000,현재 공헌도 확인하기
+11,TEXT_CTSWKSDELEGATIONMEMBER_00927_Q1_300_010,이야기 듣기
+12,TEXT_CTSWKSDELEGATIONMEMBER_00927_Q1_300_020,취소
+13,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_010,"지금은 계획 공헌도 데이터 수집 기간이 아니라서
 죄송하지만 여러분의 활약상을 기록하고 있지 않아요."
-14,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_020","이번 기간에 수집한 공헌도를 확인하시려는 거죠?
+14,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_020,"이번 기간에 수집한 공헌도를 확인하시려는 거죠?
 어디 보자…… 자, 데이터 조회에 성공했어요!"
-15,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_030","현재 <Highlight>ObjectParameter(1)</Highlight> 님은…… 세, 세상에!
+15,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_030,"현재 Player Player 님은…… 세, 세상에!
 상위 10% 안에 드는 활약을 하고 계시네요!!
 이러다가 정말로 최우수 공헌자가 되시는 거 아니에요!?"
-16,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_040","현재 <Highlight>ObjectParameter(1)</Highlight> 님은……
+16,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_040,"현재 Player Player 님은……
 상위 20% 안에 들 정도로 활약하고 계시네요!!
 최우수 공헌자도 노려볼 만하겠는데요!?"
-17,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_050","현재 <Highlight>ObjectParameter(1)</Highlight> 님은……
+17,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_050,"현재 Player Player 님은……
 상위 30%를 착실하게 유지하고 계시네요.
 멋진 활약에 감동했어요!"
-18,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_060","현재 <Highlight>ObjectParameter(1)</Highlight> 님은…… 그야말로 한가운데!
+18,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_060,"현재 Player Player 님은…… 그야말로 한가운데!
 상위 50%에 위치해 계시네요.
 계속해서 더 높이 올라가시길 기대할게요~!"
-19,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_070","현재 <Highlight>ObjectParameter(1)</Highlight> 님은……
+19,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_070,"현재 Player Player 님은……
 아주 착실하게 공헌하고 계시는 것 같아요!
 앞으로도 꾸준한 활약을 기대할게요!"
-20,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_080","보아하니 이번에는 아직 활동 데이터가 없나 보네요.
+20,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_080,"보아하니 이번에는 아직 활동 데이터가 없나 보네요.
 계속해서 계획에 협력을 부탁드릴게요."
-21,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_090","세상에, 이게 누구야…… 최우수 공헌자이신
-<Highlight>ObjectParameter(1)</Highlight> 님 아니세요!
+21,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_090,"세상에, 이게 누구야…… 최우수 공헌자이신
+Player Player 님 아니세요!
 계속해서 계획에 협력을 부탁드릴게요!"
-22,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_100","세상에, 이게 누구야…… 최우수 공헌자이신
-<Highlight>ObjectParameter(1)</Highlight> 님 아니세요!"
-23,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_110","이번 데이터 수집 기간부터
+22,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_100,"세상에, 이게 누구야…… 최우수 공헌자이신
+Player Player 님 아니세요!"
+23,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_110,"이번 데이터 수집 기간부터
 다시 최우수 공헌자 선정 대상으로 등록해 드리겠습니다.
 계속해서 계획에 협력을 부탁드릴게요!"
-24,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_120","앗 이런, 죄송해요……
+24,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_120,"앗 이런, 죄송해요……
 이번 기간에 수집한 공헌도를 확인하신다고 하셨죠?
 어디 보자…… 자, 데이터 조회에 성공했어요!"
-25,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_010","최우수 공헌자로 선정되신 기간 동안에는
+25,TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_010,"최우수 공헌자로 선정되신 기간 동안에는
 중복으로 선정 대상에 포함되지 않습니다."
-26,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_020","현실 시간으로 <Time(IntegerParameter(1))/><Value>TopLevelParameter(221)</Value>월 <Value>TopLevelParameter(219)</Value>일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터 시작된 데이터 수집 기간부터
+26,TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_020,"현실 시간으로 8월 27일 오전 8시부터 시작된 데이터 수집 기간부터
 다시 최우수 공헌자 선정 대상에 포함됩니다."
-27,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_000","제 임무는 협력자 여러분의 활동을 기록하는 일이에요.
+27,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_000,"제 임무는 협력자 여러분의 활동을 기록하는 일이에요.
 수집한 데이터를 계획 효율화에 이용하는 건 물론이고
 여러분의 공헌을 정확하게 파악하고 보상을 드리기 위해서죠."
-28,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_010","예를 들면 기간 안에 가장 크게 활약하신 분을
+28,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_010,"예를 들면 기간 안에 가장 크게 활약하신 분을
 최우수 공헌자로 선정해 상을 드리기도 하죠.
 당신이 뽑히는 날이 올지도 몰라요!"
-29,"TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_020","혹시 궁금한 게 있으시면
+29,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_020,"혹시 궁금한 게 있으시면
 개척 단말기를 확인해 보세요!"

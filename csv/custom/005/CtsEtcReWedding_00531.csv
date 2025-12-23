@@ -1,103 +1,101 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_000","저는 '영원한 언약'을 맹세한 두 분에게
+#,Unknown0,Unknown1
+0,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_000,"저는 '영원한 언약'을 맹세한 두 분에게
 '언약 기념일'이라는 서비스를
 제안해드리고 있는 하우 바지리라고 합니다."
-1,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_001","'영원한 언약식'을 올리신 후에는
+1,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_001,"'영원한 언약식'을 올리신 후에는
 저한테 꼭 들러주십시오."
-2,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_010","저는 '영원한 언약'을 맹세한 두 분에게
+2,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_010,"저는 '영원한 언약'을 맹세한 두 분에게
 '언약 기념일'이라는 서비스를
 제안해드리고 있는 하우 바지리라고 합니다."
-3,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_011","외람되지만, 여러분의 행복을 위해
+3,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_011,"외람되지만, 여러분의 행복을 위해
 끝내주게 멋진 플랜을 준비했습니다.
 소중한 분과 함께 이용해주십시오."
-4,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_012","'언약 기념일'을 등록하려면,
+4,TEXT_CTSETCREWEDDING_00531_SYSTEM_000_012,"'언약 기념일'을 등록하려면,
 영원한 언약식을 올린 파트너와 2인 파티를 맺은 상태에서
-두 사람 모두 '<Sheet(Item,8575,0)/>'<13>FF0F02280BFF054974656DF2217F0103FF04EBA5BCFF04EC9D84</13> 가지고 있어야 합니다."
-5,"TEXT_CTSETCREWEDDING_00531_Q1_000_000","어떻게 하시겠습니까?"
-6,"TEXT_CTSETCREWEDDING_00531_A1_000_000","'언약 기념일'을 등록한다"
-7,"TEXT_CTSETCREWEDDING_00531_A1_000_001","'언약 기념일'에 대해서 물어본다"
-8,"TEXT_CTSETCREWEDDING_00531_A1_000_002","취소"
-9,"TEXT_CTSETCREWEDDING_00531_Q2_000_000","'언약 기념일'을 등록하시겠습니까?"
-10,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_020","알겠습니다.
+두 사람 모두 '' 가지고 있어야 합니다."
+5,TEXT_CTSETCREWEDDING_00531_Q1_000_000,어떻게 하시겠습니까?
+6,TEXT_CTSETCREWEDDING_00531_A1_000_000,'언약 기념일'을 등록한다
+7,TEXT_CTSETCREWEDDING_00531_A1_000_001,'언약 기념일'에 대해서 물어본다
+8,TEXT_CTSETCREWEDDING_00531_A1_000_002,취소
+9,TEXT_CTSETCREWEDDING_00531_Q2_000_000,'언약 기념일'을 등록하시겠습니까?
+10,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_020,"알겠습니다.
 등록하고 싶으실 때 언제든 말을 걸어주세요."
-11,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_021","감사합니다.
+11,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_021,"감사합니다.
 '언약 기념일'의 날짜를
-<Value>IntegerParameter(1)</Value>월 <Value>IntegerParameter(2)</Value>일로 설정했습니다."
-12,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_022","그럼 해당일에 멋진 두 분이 오시기를
+UNKNOWN월 UNKNOWN일로 설정했습니다."
+12,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_022,"그럼 해당일에 멋진 두 분이 오시기를
 저 하우 바지리, 진심으로 기대하고 있겠습니다."
-13,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_023","<Sheet(Item,8575,0)/>에 새겨져 있는 날짜가
+13,TEXT_CTSETCREWEDDING_00531_SYSTEM_000_023,"에 새겨져 있는 날짜가
 '언약 기념일'로 등록되었습니다."
-14,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_024","등록된 날짜가 지나면
+14,TEXT_CTSETCREWEDDING_00531_SYSTEM_000_024,"등록된 날짜가 지나면
 도시 내 또는 검은장막 숲 동부삼림으로 이동 시에
 '언약 기념일'의 알림을 받을 수 있습니다."
-15,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_025","또한 영원한 언약식을 다시 올릴 수 있도록
-퀘스트 '<Sheet(Quest,67114,0)/>'의 후반부를
+15,TEXT_CTSETCREWEDDING_00531_SYSTEM_000_025,"또한 영원한 언약식을 다시 올릴 수 있도록
+퀘스트 ''의 후반부를
 '하우 바지리'에게 받을 수 있게 됩니다."
-16,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_030","'언약 기념일'은
+16,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_030,"'언약 기념일'은
 파트너와 함께 나눴던 소중한 추억을 되돌아보고
 한층 더 굳건한 믿음을 다지기 위한 특별한 기념일입니다."
-17,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_031","'언약 기념일'을 등록하시면
+17,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_031,"'언약 기념일'을 등록하시면
 '영원한 언약식'을 1년에 1번 올릴 수 있게 됩니다."
-18,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_032","예식장 장식이나 입장 방식 등을
+18,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_032,"예식장 장식이나 입장 방식 등을
 지난번과 다른 분위기로 즐기실 수도 있답니다.
 이번 기회에 감사의 마음을 전해 보는 건 어떨까요?"
-19,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_033","'언약 기념일'을 등록하려면,
+19,TEXT_CTSETCREWEDDING_00531_SYSTEM_000_033,"'언약 기념일'을 등록하려면,
 영원한 언약식을 올린 파트너와 2인 파티를 맺은 상태에서
-두 사람 모두 '<Sheet(Item,8575,0)/>'<13>FF0F02280BFF054974656DF2217F0103FF04EBA5BCFF04EC9D84</13> 가지고 있어야 합니다."
-20,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_034","'언약 기념일'은
-<Sheet(Item,8575,0)/>에 새겨져 있는
+두 사람 모두 '' 가지고 있어야 합니다."
+20,TEXT_CTSETCREWEDDING_00531_SYSTEM_000_034,"'언약 기념일'은
+에 새겨져 있는
 '영원한 언약식 기념일'의 날짜가 등록됩니다."
-21,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_040","정말 죄송합니다…….
+21,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_040,"정말 죄송합니다…….
 '언약 기념일'을 등록하지 못했습니다.
-<If(Equal(IntegerParameter(1),1))><Else/></If><If(Equal(IntegerParameter(1),2))><Sheet(Item,8575,0)/><13>FF0F02280BFF054974656DF2217F0103FF04EBA5BCFF04EC9D84</13> 가지고 다시 시도해주십시오.<Else/></If><If(Equal(IntegerParameter(1),3))>파트너와 함께 저에게 오십시오.<Else/></If><If(Equal(IntegerParameter(1),4))>파트너가 이미 기념일을 등록하셨습니다.<Else/></If><If(Equal(IntegerParameter(1),5))><Sheet(Item,8575,0)/>의 이름이 파트너의 이름이 아닌 것 같습니다.<Else/></If><If(Equal(IntegerParameter(1),6))>파트너가 <Sheet(Item,8575,0)/><13>FF0F02280BFF054974656DF2217F0103FF04EBA5BCFF04EC9D84</13> 가지고 있지 않은 것 같습니다.<Else/></If><If(Equal(IntegerParameter(1),7))>파트너가 기념일을 등록할 수 없는 상황인 것 같습니다.<Else/></If><If(Equal(IntegerParameter(1),8))>파트너가 아직 준비되지 않은 것 같습니다.<Else/></If><If(Equal(IntegerParameter(1),9))>파트너가 영원한 언약식을 끝내지 않은 것 같습니다.<Else/></If>"
-22,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_041","<Highlight>ObjectParameter(1)</Highlight> 님,
+ 가지고 다시 시도해주십시오.파트너와 함께 저에게 오십시오.파트너가 이미 기념일을 등록하셨습니다.의 이름이 파트너의 이름이 아닌 것 같습니다.파트너가  가지고 있지 않은 것 같습니다.파트너가 기념일을 등록할 수 없는 상황인 것 같습니다.파트너가 아직 준비되지 않은 것 같습니다.파트너가 영원한 언약식을 끝내지 않은 것 같습니다."
+22,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_041,"Player Player 님,
 어서 오십시오.
 오늘은 무슨 일이십니까?"
-23,"TEXT_CTSETCREWEDDING_00531_Q3_000_000","무엇을 하시겠습니까?"
-24,"TEXT_CTSETCREWEDDING_00531_A3_000_000","'언약 기념일'의 날짜를 확인한다"
-25,"TEXT_CTSETCREWEDDING_00531_A3_000_001","'언약 기념일'의 등록을 해제한다"
-26,"TEXT_CTSETCREWEDDING_00531_A3_000_002","'<Sheet(Quest,67114,0)/>'<13>FF1102280DFF065175657374F601062A0103FF04EBA5BCFF04EC9D84</13> 다시 한번 체험한다"
-27,"TEXT_CTSETCREWEDDING_00531_A3_000_003","취소"
-28,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_050","<Highlight>ObjectParameter(1)</Highlight> 님의 '언약 기념일'은
-<Value>IntegerParameter(1)</Value>월 <Value>IntegerParameter(2)</Value>일로 설정되어 있습니다.
+23,TEXT_CTSETCREWEDDING_00531_Q3_000_000,무엇을 하시겠습니까?
+24,TEXT_CTSETCREWEDDING_00531_A3_000_000,'언약 기념일'의 날짜를 확인한다
+25,TEXT_CTSETCREWEDDING_00531_A3_000_001,'언약 기념일'의 등록을 해제한다
+26,TEXT_CTSETCREWEDDING_00531_A3_000_002,'' 다시 한번 체험한다
+27,TEXT_CTSETCREWEDDING_00531_A3_000_003,취소
+28,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_050,"Player Player 님의 '언약 기념일'은
+UNKNOWN월 UNKNOWN일로 설정되어 있습니다.
 당일에 방문해 주시기를 기다리고 있겠습니다!"
-29,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_051","'언약 기념일'은
-<Sheet(Item,8575,0)/>에 새겨져 있는
+29,TEXT_CTSETCREWEDDING_00531_SYSTEM_000_051,"'언약 기념일'은
+에 새겨져 있는
 '영원한 언약 기념일'의 날짜가 등록됩니다."
-30,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_052","'언약 기념일'의 등록을 해제하면
+30,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_052,"'언약 기념일'의 등록을 해제하면
 '영원한 언약식'을 올릴 수 없게 됩니다.
 등록을 해제하시겠습니까……?"
-31,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_053","'언약 기념일'의 등록을 해제한 후라도
+31,TEXT_CTSETCREWEDDING_00531_SYSTEM_000_053,"'언약 기념일'의 등록을 해제한 후라도
 '하우 바지리'를 통해 다시 등록할 수 있습니다."
-32,"TEXT_CTSETCREWEDDING_00531_Q4_000_000","'언약 기념일'의 등록을 해제하시겠습니까?"
-33,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_054","'언약 기념일'의 등록을 해제했습니다.
+32,TEXT_CTSETCREWEDDING_00531_Q4_000_000,'언약 기념일'의 등록을 해제하시겠습니까?
+33,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_054,"'언약 기념일'의 등록을 해제했습니다.
 다시 등록하고 싶으실 경우에는 저에게 말을 걸어주십시오."
-34,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_060","<Highlight>ObjectParameter(1)</Highlight> 님의 '언약 기념일'까지는
+34,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_060,"Player Player 님의 '언약 기념일'까지는
 아직 날짜가 좀 남았군요.
 저, 하우 바지리도 몹시 기대하고 있답니다!"
-35,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_061","<Highlight>ObjectParameter(1)</Highlight> 님,
+35,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_061,"Player Player 님,
 멋진 파트너와의 기념일을 진심으로 축하드립니다."
-36,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_062","많이 설레시죠?
+36,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_062,"많이 설레시죠?
 그럼 바로 '영원한 언약식'을 올리시겠습니까?"
-37,"TEXT_CTSETCREWEDDING_00531_Q5_000_000","영원한 언약식을 다시 올리기 위해
-퀘스트 '<Sheet(Quest,67114,0)/>'의 후반부를 시작합니다.
+37,TEXT_CTSETCREWEDDING_00531_Q5_000_000,"영원한 언약식을 다시 올리기 위해
+퀘스트 ''의 후반부를 시작합니다.
 계속 진행하시겠습니까?"
-38,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_063","알겠습니다.
+38,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_063,"알겠습니다.
 준비가 다 되시면 말을 걸어주십시오."
-39,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_064","알겠습니다.
+39,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_064,"알겠습니다.
 이번 언약식도 평생에 한 번뿐인 멋진 경험이자
 아주 소중한 시간이 될 것입니다."
-40,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_065","오늘 하루, 축복으로 가득한 날이 되시기를 바랍니다…….
+40,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_065,"오늘 하루, 축복으로 가득한 날이 되시기를 바랍니다…….
 그렇다면 여유롭게 즐겨 주십시오."
-41,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_066","<Sheet(Item,9547,0)/><13>FF0F02280BFF054974656DF2254B0103FF04EBA5BCFF04EC9D84</13> 손에 넣었습니다.
+41,TEXT_CTSETCREWEDDING_00531_SYSTEM_000_066," 손에 넣었습니다.
 소지품 또는 장비함을 확인해주십시오."
-42,"TEXT_CTSETCREWEDDING_00531_SYSTEM_000_067","여기서부터는 퀘스트 '<Sheet(Quest,67114,0)/>'의
+42,TEXT_CTSETCREWEDDING_00531_SYSTEM_000_067,"여기서부터는 퀘스트 ''의
 '언약식 설정' 이후의 진행과 동일합니다.
 가이드에 따라 기념일을 즐겨 주십시오."
-43,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_069","오늘 하루, 축복으로 가득한 날이 되시기를 바랍니다…….
+43,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_069,"오늘 하루, 축복으로 가득한 날이 되시기를 바랍니다…….
 그렇다면 여유롭게 즐겨 주십시오."
-44,"TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_068","정말 죄송합니다…….
+44,TEXT_CTSETCREWEDDING_00531_HAWUBAJIHRI_000_068,"정말 죄송합니다…….
 아직 준비되지 않으신 듯합니다.
-<If(Equal(IntegerParameter(1),3))>죄송합니다만 다시 시도해 주십시오.<Else/></If><If(Equal(IntegerParameter(1),4))>파트너와 둘이 함께인 상태에서 다시 시도해 주십시오.<Else/></If><If(Equal(IntegerParameter(1),5))>등록된 기념일이 파트너와 일치하지 않는 것 같습니다.<Else/></If><If(Equal(IntegerParameter(1),6))>파트너가 영원한 언약식을 완료하지 않은 것 같습니다.<Else/></If>"
+죄송합니다만 다시 시도해 주십시오.파트너와 둘이 함께인 상태에서 다시 시도해 주십시오.등록된 기념일이 파트너와 일치하지 않는 것 같습니다.파트너가 영원한 언약식을 완료하지 않은 것 같습니다."

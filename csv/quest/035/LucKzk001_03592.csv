@@ -1,146 +1,144 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_LUCKZK001_03592_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_LUCKZK001_03592_SEQ_00,"**특수 규칙:  레벨 보정**
 아모로트의 창조물 관리국 직원은 낯선 모험가에게 말을 걸고 싶은 모양이다."
-1,"TEXT_LUCKZK001_03592_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+1,TEXT_LUCKZK001_03592_SEQ_01,"※ 이 퀘스트에는 **** 레벨 보정
 　적용됩니다.
 
 창조물 관리국 직원은 창조물 관리국의 시스템을 안내해주었다. 창조물 관리국 안에서 창조물 등록을 기다리는 '차분한 아모로트 시민'과 대화해보자."
-2,"TEXT_LUCKZK001_03592_SEQ_02","차분한 아모로트 시민과 대화했다. 새로운 생물 등록을 시도 중인 모양이다. 창조물 관리국 안에 있는 '열심인 아모로트 시민'과도 대화해보자."
-3,"TEXT_LUCKZK001_03592_SEQ_03","열심인 아모로트 시민과 대화했다. 움직이는 인형을 포함한 수많은 창조물을 등록해온 모양이다. 이어서 창조물 관리국 안에 있는 '불안해하는 아모로트 시민'과도 대화해보자."
-4,"TEXT_LUCKZK001_03592_SEQ_04","불안해하는 아모로트 시민과 대화했다. 자신의 새로운 창조물이 등록될지 불안한 모양이다. 창조물에 대한 감상을 전하기 위해 '<Sheet(EObj,2010125,0)/>'에서 '<Sheet(EventItem,2002612,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8EB40103FF04EBA5BCFF04EC9D84</13> 사용하여 '<Sheet(BNpcName,8414,0)/>'<13>FF1302280FFF09424E70634E616D65F220DE0103FF04EAB080FF04EC9DB4</13> 나타나면 처치하자."
-5,"TEXT_LUCKZK001_03592_SEQ_05","<Sheet(BNpcName,8414,0)/><13>FF1302280FFF09424E70634E616D65F220DE0103FF04EBA5BCFF04EC9D84</13> 처치했다. 창조물 관리국에 있는 '불안해하는 아모로트 시민'에게 보고하자."
-6,"TEXT_LUCKZK001_03592_SEQ_06","불안해하는 아모로트 시민은 <Sheet(BNpcName,8414,0)/><13>FF1302280FFF09424E70634E616D65F220DE0103FF04EAB080FF04EC9DB4</13> 등록에 적합하지 않다고 판단한 듯하다. 그는 다시 창조 마법으로 새로운 생물을 만들러 돌아갈 것이다."
-7,"TEXT_LUCKZK001_03592_SEQ_07",""
-8,"TEXT_LUCKZK001_03592_SEQ_08",""
-9,"TEXT_LUCKZK001_03592_SEQ_09",""
-10,"TEXT_LUCKZK001_03592_SEQ_10",""
-11,"TEXT_LUCKZK001_03592_SEQ_11",""
-12,"TEXT_LUCKZK001_03592_SEQ_12",""
-13,"TEXT_LUCKZK001_03592_SEQ_13",""
-14,"TEXT_LUCKZK001_03592_SEQ_14",""
-15,"TEXT_LUCKZK001_03592_SEQ_15",""
-16,"TEXT_LUCKZK001_03592_SEQ_16",""
-17,"TEXT_LUCKZK001_03592_SEQ_17",""
-18,"TEXT_LUCKZK001_03592_SEQ_18",""
-19,"TEXT_LUCKZK001_03592_SEQ_19",""
-20,"TEXT_LUCKZK001_03592_SEQ_20",""
-21,"TEXT_LUCKZK001_03592_SEQ_21",""
-22,"TEXT_LUCKZK001_03592_SEQ_22",""
-23,"TEXT_LUCKZK001_03592_SEQ_23",""
-24,"TEXT_LUCKZK001_03592_TODO_00","차분한 아모로트 시민과 대화"
-25,"TEXT_LUCKZK001_03592_TODO_01","열심인 아모로트 시민과 대화"
-26,"TEXT_LUCKZK001_03592_TODO_02","불안해하는 아모로트 시민과 대화"
-27,"TEXT_LUCKZK001_03592_TODO_03","<Sheet(EObj,2010125,0)/>에서 <Sheet(EventItem,2002612,0)/><13>FF15022811FF0A4576656E744974656DF61E8EB40103FF04EBA5BCFF04EC9D84</13> 사용하여 <Sheet(BNpcName,8414,0)/> 처치"
-28,"TEXT_LUCKZK001_03592_TODO_04","불안해하는 아모로트 시민과 대화"
-29,"TEXT_LUCKZK001_03592_TODO_05",""
-30,"TEXT_LUCKZK001_03592_TODO_06",""
-31,"TEXT_LUCKZK001_03592_TODO_07",""
-32,"TEXT_LUCKZK001_03592_TODO_08",""
-33,"TEXT_LUCKZK001_03592_TODO_09",""
-34,"TEXT_LUCKZK001_03592_TODO_10",""
-35,"TEXT_LUCKZK001_03592_TODO_11",""
-36,"TEXT_LUCKZK001_03592_TODO_12",""
-37,"TEXT_LUCKZK001_03592_TODO_13",""
-38,"TEXT_LUCKZK001_03592_TODO_14",""
-39,"TEXT_LUCKZK001_03592_TODO_15",""
-40,"TEXT_LUCKZK001_03592_TODO_16",""
-41,"TEXT_LUCKZK001_03592_TODO_17",""
-42,"TEXT_LUCKZK001_03592_TODO_18",""
-43,"TEXT_LUCKZK001_03592_TODO_19",""
-44,"TEXT_LUCKZK001_03592_TODO_20",""
-45,"TEXT_LUCKZK001_03592_TODO_21",""
-46,"TEXT_LUCKZK001_03592_TODO_22",""
-47,"TEXT_LUCKZK001_03592_TODO_23",""
-48,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEA03592_000_000","<UIForeground>F20223</UIForeground>왜 그래, <If(PlayerParameter(4))>아가씨<Else/>도련님</If>?
-혹시 길을 잃었니?<UIForeground>01</UIForeground>"
-49,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_001","（★未使用／削除予定★）"
-50,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_002","<UIForeground>F20223</UIForeground>으음, 으음.
-등록이 될지 불안하네.<UIForeground>01</UIForeground>"
-51,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_005","<UIForeground>F20223</UIForeground>여기는 창조물 관리국입니다.
-도움이 필요하시면 안내해 드리겠습니다.<UIForeground>01</UIForeground>"
-52,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_006","<UIForeground>F20223</UIForeground>왼쪽 창구에서는 창조물 등록을 할 수 있습니다.
+2,TEXT_LUCKZK001_03592_SEQ_02,차분한 아모로트 시민과 대화했다. 새로운 생물 등록을 시도 중인 모양이다. 창조물 관리국 안에 있는 '열심인 아모로트 시민'과도 대화해보자.
+3,TEXT_LUCKZK001_03592_SEQ_03,열심인 아모로트 시민과 대화했다. 움직이는 인형을 포함한 수많은 창조물을 등록해온 모양이다. 이어서 창조물 관리국 안에 있는 '불안해하는 아모로트 시민'과도 대화해보자.
+4,TEXT_LUCKZK001_03592_SEQ_04,불안해하는 아모로트 시민과 대화했다. 자신의 새로운 창조물이 등록될지 불안한 모양이다. 창조물에 대한 감상을 전하기 위해 ''에서 '' 사용하여 '' 나타나면 처치하자.
+5,TEXT_LUCKZK001_03592_SEQ_05, 처치했다. 창조물 관리국에 있는 '불안해하는 아모로트 시민'에게 보고하자.
+6,TEXT_LUCKZK001_03592_SEQ_06,불안해하는 아모로트 시민은  등록에 적합하지 않다고 판단한 듯하다. 그는 다시 창조 마법으로 새로운 생물을 만들러 돌아갈 것이다.
+7,TEXT_LUCKZK001_03592_SEQ_07,
+8,TEXT_LUCKZK001_03592_SEQ_08,
+9,TEXT_LUCKZK001_03592_SEQ_09,
+10,TEXT_LUCKZK001_03592_SEQ_10,
+11,TEXT_LUCKZK001_03592_SEQ_11,
+12,TEXT_LUCKZK001_03592_SEQ_12,
+13,TEXT_LUCKZK001_03592_SEQ_13,
+14,TEXT_LUCKZK001_03592_SEQ_14,
+15,TEXT_LUCKZK001_03592_SEQ_15,
+16,TEXT_LUCKZK001_03592_SEQ_16,
+17,TEXT_LUCKZK001_03592_SEQ_17,
+18,TEXT_LUCKZK001_03592_SEQ_18,
+19,TEXT_LUCKZK001_03592_SEQ_19,
+20,TEXT_LUCKZK001_03592_SEQ_20,
+21,TEXT_LUCKZK001_03592_SEQ_21,
+22,TEXT_LUCKZK001_03592_SEQ_22,
+23,TEXT_LUCKZK001_03592_SEQ_23,
+24,TEXT_LUCKZK001_03592_TODO_00,차분한 아모로트 시민과 대화
+25,TEXT_LUCKZK001_03592_TODO_01,열심인 아모로트 시민과 대화
+26,TEXT_LUCKZK001_03592_TODO_02,불안해하는 아모로트 시민과 대화
+27,TEXT_LUCKZK001_03592_TODO_03,에서  사용하여  처치
+28,TEXT_LUCKZK001_03592_TODO_04,불안해하는 아모로트 시민과 대화
+29,TEXT_LUCKZK001_03592_TODO_05,
+30,TEXT_LUCKZK001_03592_TODO_06,
+31,TEXT_LUCKZK001_03592_TODO_07,
+32,TEXT_LUCKZK001_03592_TODO_08,
+33,TEXT_LUCKZK001_03592_TODO_09,
+34,TEXT_LUCKZK001_03592_TODO_10,
+35,TEXT_LUCKZK001_03592_TODO_11,
+36,TEXT_LUCKZK001_03592_TODO_12,
+37,TEXT_LUCKZK001_03592_TODO_13,
+38,TEXT_LUCKZK001_03592_TODO_14,
+39,TEXT_LUCKZK001_03592_TODO_15,
+40,TEXT_LUCKZK001_03592_TODO_16,
+41,TEXT_LUCKZK001_03592_TODO_17,
+42,TEXT_LUCKZK001_03592_TODO_18,
+43,TEXT_LUCKZK001_03592_TODO_19,
+44,TEXT_LUCKZK001_03592_TODO_20,
+45,TEXT_LUCKZK001_03592_TODO_21,
+46,TEXT_LUCKZK001_03592_TODO_22,
+47,TEXT_LUCKZK001_03592_TODO_23,
+48,TEXT_LUCKZK001_03592_AMAUROTPEOPLEA03592_000_000,"**왜 그래, 아가씨?
+혹시 길을 잃었니?"
+49,TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_001,（★未使用／削除予定★）
+50,TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_002,"**으음, 으음.
+등록이 될지 불안하네."
+51,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_005,"**여기는 창조물 관리국입니다.
+도움이 필요하시면 안내해 드리겠습니다."
+52,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_006,"**왼쪽 창구에서는 창조물 등록을 할 수 있습니다.
 그리고 오른쪽 창구에서는 이데아 대출 신청을 할 수 있습니다.
-원하는 창구로 가시면 됩니다.<UIForeground>01</UIForeground>"
-53,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_007","<UIForeground>F20223</UIForeground>어라, 둘 다 잘 모르시는 모양이군요.
-그럼 제가 이 시설에 대해 설명해 드리겠습니다.<UIForeground>01</UIForeground>"
-54,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_008","<UIForeground>F20223</UIForeground>저희는 창조 마법을 다룸으로써
-실로 다채로운 것을 만들 수 있다는 사실을 알고 계시겠죠?<UIForeground>01</UIForeground>"
-55,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_009","<UIForeground>F20223</UIForeground>마음이 편안해지는 향기 나는 꽃이며
+원하는 창구로 가시면 됩니다."
+53,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_007,"**어라, 둘 다 잘 모르시는 모양이군요.
+그럼 제가 이 시설에 대해 설명해 드리겠습니다."
+54,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_008,"**저희는 창조 마법을 다룸으로써
+실로 다채로운 것을 만들 수 있다는 사실을 알고 계시겠죠?"
+55,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_009,"**마음이 편안해지는 향기 나는 꽃이며
 형형색색의 빛을 발하는 보석에 이르기까지……
-각양각색의 존재가 매일 창조되고 있습니다.<UIForeground>01</UIForeground>"
-56,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_010","<UIForeground>F20223</UIForeground>하지만, 한 사람의 창조력에는 한계가 있습니다.
+각양각색의 존재가 매일 창조되고 있습니다."
+56,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_010,"**하지만, 한 사람의 창조력에는 한계가 있습니다.
 따라서 각각이 창조한 이데아…… 즉 개념을 가지고 모여,
-공유하고자 하는 것이 이곳 창조물 관리국의 역할입니다.<UIForeground>01</UIForeground>"
-57,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_011","<UIForeground>F20223</UIForeground>하지만, 위험한 개념을 확산시킬 수는 없으므로
+공유하고자 하는 것이 이곳 창조물 관리국의 역할입니다."
+57,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_011,"**하지만, 위험한 개념을 확산시킬 수는 없으므로
 세상에 유용한지 아닌지에 대한 심사를 합니다.
-이 또한 저희의 책임 중 하나이지요.<UIForeground>01</UIForeground>"
-58,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_012","<UIForeground>F20223</UIForeground>여기까지는 이해가 가십니까?<UIForeground>01</UIForeground>"
-59,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_013","<UIForeground>F20223</UIForeground>흠, 그렇다면 이왕 오신 김에
+이 또한 저희의 책임 중 하나이지요."
+58,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_012,**여기까지는 이해가 가십니까?
+59,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_013,"**흠, 그렇다면 이왕 오신 김에
 등록을 기다리는 분들께
-이야기를 들어보면 어떨까요?<UIForeground>01</UIForeground>"
-60,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_014","<UIForeground>F20223</UIForeground>다들 흔쾌히 대화에 응해주실 겁니다.
+이야기를 들어보면 어떨까요?"
+60,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_014,"**다들 흔쾌히 대화에 응해주실 겁니다.
 우선은 저쪽, 정면 안쪽 자리에서 등록을 기다리고 있는
-'차분한 아모로트 시민'과 대화해보시지요.<UIForeground>01</UIForeground>"
-61,"TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_015","<UIForeground>F20223</UIForeground>창조물 관리국 안에서 등록을 기다리는 분들께
+'차분한 아모로트 시민'과 대화해보시지요."
+61,TEXT_LUCKZK001_03592_AMAUROTGUIDE03592_000_015,"**창조물 관리국 안에서 등록을 기다리는 분들께
 이야기를 들어보는 것도 좋지요.
-유용한 정보를 많이 알려주실 겁니다.<UIForeground>01</UIForeground>"
-62,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEA03592_000_020","<UIForeground>F20223</UIForeground>이렇게 작은 아이가 창조물 관리국에 있다니 신기하구나.
-혹시 견학하러 왔니?<UIForeground>01</UIForeground>"
-63,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEA03592_000_021","<UIForeground>F20223</UIForeground>나는 뼈가 없는 생물을 만들어서 등록하러 왔어.
+유용한 정보를 많이 알려주실 겁니다."
+62,TEXT_LUCKZK001_03592_AMAUROTPEOPLEA03592_000_020,"**이렇게 작은 아이가 창조물 관리국에 있다니 신기하구나.
+혹시 견학하러 왔니?"
+63,TEXT_LUCKZK001_03592_AMAUROTPEOPLEA03592_000_021,"**나는 뼈가 없는 생물을 만들어서 등록하러 왔어.
 아름다운 반투명 외피에 우아하게 뻗은 띠 같은 촉수……
-거기에 가스를 넣어서 공중에 떠 다닌다는 게 포인트지.<UIForeground>01</UIForeground>"
-64,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEA03592_000_022","<UIForeground>F20223</UIForeground>뭐, 재미만 가지고 등록해주지는 않겠지만.
+거기에 가스를 넣어서 공중에 떠 다닌다는 게 포인트지."
+64,TEXT_LUCKZK001_03592_AMAUROTPEOPLEA03592_000_022,"**뭐, 재미만 가지고 등록해주지는 않겠지만.
 나는 취미 삼아 희한한 것만 만드니까
-별로 참고가 되진 않을걸.<UIForeground>01</UIForeground>"
-65,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEA03592_000_023","<UIForeground>F20223</UIForeground>아, 도움이 되는 이야기를 들으려면
+별로 참고가 되진 않을걸."
+65,TEXT_LUCKZK001_03592_AMAUROTPEOPLEA03592_000_023,"**아, 도움이 되는 이야기를 들으려면
 '열심인 아모로트 시민'한테 가봐.
-그럼 내 차례가 다가왔으니 이만 실례할게.<UIForeground>01</UIForeground>"
-66,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_030","<UIForeground>F20223</UIForeground>흠, 너는 아까
+그럼 내 차례가 다가왔으니 이만 실례할게."
+66,TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_030,"**흠, 너는 아까
 창조물 관리국 직원과 얘기하던 아이구나.
-너 같은 작은 아이가 견학을 오다니, 대견하기도 하지…….<UIForeground>01</UIForeground>"
-67,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_031","<UIForeground>F20223</UIForeground>내 창조물은 몇 가지나 등록돼있는데……
-이번에 신청하러 온 건 최근에 만든 '움직이는 인형'이야.<UIForeground>01</UIForeground>"
-68,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_032","<UIForeground>F20223</UIForeground>하지만 그건…… 내가 만들었다기 보다
+너 같은 작은 아이가 견학을 오다니, 대견하기도 하지……."
+67,TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_031,"**내 창조물은 몇 가지나 등록돼있는데……
+이번에 신청하러 온 건 최근에 만든 '움직이는 인형'이야."
+68,TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_032,"**하지만 그건…… 내가 만들었다기 보다
 누군가에게 이끌리는 듯한 신비한 체험이었어.
-걸작이란 그런 걸지도 모르지.<UIForeground>01</UIForeground>"
-69,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_033","<UIForeground>F20223</UIForeground>그 인형은 감정을 갖지 않고, 두려움을 품지 않고,
+걸작이란 그런 걸지도 모르지."
+69,TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_033,"**그 인형은 감정을 갖지 않고, 두려움을 품지 않고,
 그 어떤 위험한 상대에게도 주저 없이 맞서지.
-어때, 덧없고 아름답지 않아?<UIForeground>01</UIForeground>"
-70,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_034","<UIForeground>F20223</UIForeground>궁극의 순수함에 의한 미의 표현……
+어때, 덧없고 아름답지 않아?"
+70,TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_034,"**궁극의 순수함에 의한 미의 표현……
 이게 이번 시도의 주안점인데
-과연 어떤 평가를 받을지…… 기대되는군.<UIForeground>01</UIForeground>"
-71,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_035","<UIForeground>F20223</UIForeground>그러고 보니 가까이에 '불안해하는 아모로트 시민'이 있군.
+과연 어떤 평가를 받을지…… 기대되는군."
+71,TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_035,"**그러고 보니 가까이에 '불안해하는 아모로트 시민'이 있군.
 저 사람은 어린이를 위한 창조물을 등록하러 온 모양이야.
-가서 이야기를 들어봐.<UIForeground>01</UIForeground>"
-72,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_038","<UIForeground>F20223</UIForeground>저기 보이는 '불안해하는 아모로트 시민'은
+가서 이야기를 들어봐."
+72,TEXT_LUCKZK001_03592_AMAUROTPEOPLEB03592_000_038,"**저기 보이는 '불안해하는 아모로트 시민'은
 어린이를 위한 창조물을 등록하러 온 모양이야.
-가서 이야기를 들어봐.<UIForeground>01</UIForeground>"
-73,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_040","<UIForeground>F20223</UIForeground>아아, 너, 견학하러 온 애 맞지?
-마침 잘됐다. 너처럼 작은 애를 찾고 있었거든.<UIForeground>01</UIForeground>"
-74,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_041","<UIForeground>F20223</UIForeground>나는 어린이의 놀이 상대가 될 만한 생물을 창조했는데,
-등록이 될지 불안해서 말이야…….<UIForeground>01</UIForeground>"
-75,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_042","<UIForeground>F20223</UIForeground>혹시 괜찮으면 내 창조물과 놀아보고
+가서 이야기를 들어봐."
+73,TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_040,"**아아, 너, 견학하러 온 애 맞지?
+마침 잘됐다. 너처럼 작은 애를 찾고 있었거든."
+74,TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_041,"**나는 어린이의 놀이 상대가 될 만한 생물을 창조했는데,
+등록이 될지 불안해서 말이야……."
+75,TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_042,"**혹시 괜찮으면 내 창조물과 놀아보고
 감상을 얘기해줄래?
-자, 이 '<Sheet(EventItem,2002612,0)/>' 안에 들어있어.<UIForeground>01</UIForeground>"
-76,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_043","<UIForeground>F20223</UIForeground>혹시 힘 조절에 실패해서 부수더라도
+자, 이 '' 안에 들어있어."
+76,TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_043,"**혹시 힘 조절에 실패해서 부수더라도
 금방 또 창조할 수 있으니까 괜찮아.
-실내에선 좀 그렇고, 건물 밖으로 나가서 길가에서 놀고 와.<UIForeground>01</UIForeground>"
-77,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_045","<UIForeground>F20223</UIForeground>자, 건물 밖 길가에서 '<Sheet(EventItem,2002612,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8EB40103FF04EBA5BCFF04EC9D84</13> 사용해서
-내 창조물과 놀고 와줘.<UIForeground>01</UIForeground>"
-78,"TEXT_LUCKZK001_03592_POPMESSAGE_000_046","<Sheet(EventItem,2002612,0)/> 속에서 기묘한 마물이 튀어나왔다!"
-79,"TEXT_LUCKZK001_03592_BALLOON_000_047","나나나나는, 너의, 친구!"
-80,"TEXT_LUCKZK001_03592_BALLOON_000_048","더! 놀 거야!"
-81,"TEXT_LUCKZK001_03592_BALLOON_000_049","놀아줘!!"
-82,"TEXT_LUCKZK001_03592_BALLOON_100_049","삐이이이이!"
-83,"TEXT_LUCKZK001_03592_BALLOON_110_049","갸아아아아!"
-84,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_050","<UIForeground>F20223</UIForeground>어서 와. 내 창조물과 놀아보니 어때?
+실내에선 좀 그렇고, 건물 밖으로 나가서 길가에서 놀고 와."
+77,TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_045,"**자, 건물 밖 길가에서 '' 사용해서
+내 창조물과 놀고 와줘."
+78,TEXT_LUCKZK001_03592_POPMESSAGE_000_046, 속에서 기묘한 마물이 튀어나왔다!
+79,TEXT_LUCKZK001_03592_BALLOON_000_047,"나나나나는, 너의, 친구!"
+80,TEXT_LUCKZK001_03592_BALLOON_000_048,더! 놀 거야!
+81,TEXT_LUCKZK001_03592_BALLOON_000_049,놀아줘!!
+82,TEXT_LUCKZK001_03592_BALLOON_100_049,삐이이이이!
+83,TEXT_LUCKZK001_03592_BALLOON_110_049,갸아아아아!
+84,TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_050,"**어서 와. 내 창조물과 놀아보니 어때?
 창조물은 어떻게 움직였어?
-놀아보니 재밌었어?<UIForeground>01</UIForeground>"
-85,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_051","<UIForeground>F20223</UIForeground>뭐라고?
+놀아보니 재밌었어?"
+85,TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_051,"**뭐라고?
 흉측한 말을 하며 공격해왔다니……!
-상상하지 못했던 움직임이야……!<UIForeground>01</UIForeground>"
-86,"TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_052","<UIForeground>F20223</UIForeground>놀라게 만들어서 정말 미안하군…….
+상상하지 못했던 움직임이야……!"
+86,TEXT_LUCKZK001_03592_AMAUROTPEOPLEC03592_000_052,"**놀라게 만들어서 정말 미안하군…….
 돌아가서 새로운 생물을 창조하는 게 좋겠어.
-도와줘서 정말 고마웠다.<UIForeground>01</UIForeground>"
+도와줘서 정말 고마웠다."

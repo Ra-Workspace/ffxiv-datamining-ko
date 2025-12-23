@@ -1,152 +1,150 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBSCH300_01097_SEQ_00","비술사 길드의 무리는 모험가에게 부탁할 일이 있는 듯하다."
-1,"TEXT_JOBSCH300_01097_SEQ_01","무리의 의뢰를 받았다. 림사 로민사 '도끼술사 길드'에 있는 '알카 졸카'와 대화하자."
-2,"TEXT_JOBSCH300_01097_SEQ_02","알카 졸카와 대화했다. 동부 라노시아 '선착장: 빗물받이 숲'에 있는 '알카 졸카'와 대화하고 '도적'을 물리치자."
-3,"TEXT_JOBSCH300_01097_SEQ_03","알카 졸카와 대화하고 도적을 물리쳤다. 동부 라노시아 '선착장: 빗물받이 숲'에 있는 '알카 졸카'와 대화하자."
-4,"TEXT_JOBSCH300_01097_SEQ_04","알카 졸카와 대화했다. 림사 로민사 '도끼술사 길드'에 있는 '알카 졸카'와 다시 대화하자."
-5,"TEXT_JOBSCH300_01097_SEQ_05","알카 졸카와 대화했다. 알카 졸카는 탈환한 <Sheet(Item,　4550,0)/><13>FF15022811FF054974656DFF08E38080343535300103FF04EBA5BCFF04EC9D84</13> 모험가에게 맡겼다. 그와 함께 니므 군학마법의 신비를 탐구하기로 했다.
+#,Unknown0,Unknown1
+0,TEXT_JOBSCH300_01097_SEQ_00,비술사 길드의 무리는 모험가에게 부탁할 일이 있는 듯하다.
+1,TEXT_JOBSCH300_01097_SEQ_01,무리의 의뢰를 받았다. 림사 로민사 '도끼술사 길드'에 있는 '알카 졸카'와 대화하자.
+2,TEXT_JOBSCH300_01097_SEQ_02,알카 졸카와 대화했다. 동부 라노시아 '선착장: 빗물받이 숲'에 있는 '알카 졸카'와 대화하고 '도적'을 물리치자.
+3,TEXT_JOBSCH300_01097_SEQ_03,알카 졸카와 대화하고 도적을 물리쳤다. 동부 라노시아 '선착장: 빗물받이 숲'에 있는 '알카 졸카'와 대화하자.
+4,TEXT_JOBSCH300_01097_SEQ_04,알카 졸카와 대화했다. 림사 로민사 '도끼술사 길드'에 있는 '알카 졸카'와 다시 대화하자.
+5,TEXT_JOBSCH300_01097_SEQ_05,"알카 졸카와 대화했다. 알카 졸카는 탈환한  모험가에게 맡겼다. 그와 함께 니므 군학마법의 신비를 탐구하기로 했다.
 
 ※ 학자 레벨이 35 이상 되면 알카 졸카에게 다음 학자 퀘스트를 받을 수 있습니다."
-6,"TEXT_JOBSCH300_01097_SEQ_06",""
-7,"TEXT_JOBSCH300_01097_SEQ_07",""
-8,"TEXT_JOBSCH300_01097_SEQ_08",""
-9,"TEXT_JOBSCH300_01097_SEQ_09",""
-10,"TEXT_JOBSCH300_01097_SEQ_10",""
-11,"TEXT_JOBSCH300_01097_SEQ_11",""
-12,"TEXT_JOBSCH300_01097_SEQ_12",""
-13,"TEXT_JOBSCH300_01097_SEQ_13",""
-14,"TEXT_JOBSCH300_01097_SEQ_14",""
-15,"TEXT_JOBSCH300_01097_SEQ_15",""
-16,"TEXT_JOBSCH300_01097_SEQ_16",""
-17,"TEXT_JOBSCH300_01097_SEQ_17",""
-18,"TEXT_JOBSCH300_01097_SEQ_18",""
-19,"TEXT_JOBSCH300_01097_SEQ_19",""
-20,"TEXT_JOBSCH300_01097_SEQ_20",""
-21,"TEXT_JOBSCH300_01097_SEQ_21",""
-22,"TEXT_JOBSCH300_01097_SEQ_22",""
-23,"TEXT_JOBSCH300_01097_SEQ_23",""
-24,"TEXT_JOBSCH300_01097_TODO_00","도끼술사 길드에서 알카 졸카와 대화"
-25,"TEXT_JOBSCH300_01097_TODO_01","선착장: 빗물받이 숲에서 알카 졸카와 대화"
-26,"TEXT_JOBSCH300_01097_TODO_02","알카 졸카와 대화"
-27,"TEXT_JOBSCH300_01097_TODO_03","도끼술사 길드에서 알카 졸카와 대화"
-28,"TEXT_JOBSCH300_01097_TODO_04",""
-29,"TEXT_JOBSCH300_01097_TODO_05",""
-30,"TEXT_JOBSCH300_01097_TODO_06",""
-31,"TEXT_JOBSCH300_01097_TODO_07",""
-32,"TEXT_JOBSCH300_01097_TODO_08",""
-33,"TEXT_JOBSCH300_01097_TODO_09",""
-34,"TEXT_JOBSCH300_01097_TODO_10",""
-35,"TEXT_JOBSCH300_01097_TODO_11",""
-36,"TEXT_JOBSCH300_01097_TODO_12",""
-37,"TEXT_JOBSCH300_01097_TODO_13",""
-38,"TEXT_JOBSCH300_01097_TODO_14",""
-39,"TEXT_JOBSCH300_01097_TODO_15",""
-40,"TEXT_JOBSCH300_01097_TODO_16",""
-41,"TEXT_JOBSCH300_01097_TODO_17",""
-42,"TEXT_JOBSCH300_01097_TODO_18",""
-43,"TEXT_JOBSCH300_01097_TODO_19",""
-44,"TEXT_JOBSCH300_01097_TODO_20",""
-45,"TEXT_JOBSCH300_01097_TODO_21",""
-46,"TEXT_JOBSCH300_01097_TODO_22",""
-47,"TEXT_JOBSCH300_01097_TODO_23",""
-48,"TEXT_JOBSCH300_01097_MOZONDALAZON_000_000","（★未使用／削除予定★）"
-49,"TEXT_JOBSCH300_01097_MOZONDALAZON_000_001","（★未使用／削除予定★）"
-50,"TEXT_JOBSCH300_01097_MOZONDALAZON_000_002","（★未使用／削除予定★）"
-51,"TEXT_JOBSCH300_01097_MOZONDALAZON_000_003","（★未使用／削除予定★）"
-52,"TEXT_JOBSCH300_01097_MURIE_100_000","흠…… 그러고 보니 당신이 있었군요.
+6,TEXT_JOBSCH300_01097_SEQ_06,
+7,TEXT_JOBSCH300_01097_SEQ_07,
+8,TEXT_JOBSCH300_01097_SEQ_08,
+9,TEXT_JOBSCH300_01097_SEQ_09,
+10,TEXT_JOBSCH300_01097_SEQ_10,
+11,TEXT_JOBSCH300_01097_SEQ_11,
+12,TEXT_JOBSCH300_01097_SEQ_12,
+13,TEXT_JOBSCH300_01097_SEQ_13,
+14,TEXT_JOBSCH300_01097_SEQ_14,
+15,TEXT_JOBSCH300_01097_SEQ_15,
+16,TEXT_JOBSCH300_01097_SEQ_16,
+17,TEXT_JOBSCH300_01097_SEQ_17,
+18,TEXT_JOBSCH300_01097_SEQ_18,
+19,TEXT_JOBSCH300_01097_SEQ_19,
+20,TEXT_JOBSCH300_01097_SEQ_20,
+21,TEXT_JOBSCH300_01097_SEQ_21,
+22,TEXT_JOBSCH300_01097_SEQ_22,
+23,TEXT_JOBSCH300_01097_SEQ_23,
+24,TEXT_JOBSCH300_01097_TODO_00,도끼술사 길드에서 알카 졸카와 대화
+25,TEXT_JOBSCH300_01097_TODO_01,선착장: 빗물받이 숲에서 알카 졸카와 대화
+26,TEXT_JOBSCH300_01097_TODO_02,알카 졸카와 대화
+27,TEXT_JOBSCH300_01097_TODO_03,도끼술사 길드에서 알카 졸카와 대화
+28,TEXT_JOBSCH300_01097_TODO_04,
+29,TEXT_JOBSCH300_01097_TODO_05,
+30,TEXT_JOBSCH300_01097_TODO_06,
+31,TEXT_JOBSCH300_01097_TODO_07,
+32,TEXT_JOBSCH300_01097_TODO_08,
+33,TEXT_JOBSCH300_01097_TODO_09,
+34,TEXT_JOBSCH300_01097_TODO_10,
+35,TEXT_JOBSCH300_01097_TODO_11,
+36,TEXT_JOBSCH300_01097_TODO_12,
+37,TEXT_JOBSCH300_01097_TODO_13,
+38,TEXT_JOBSCH300_01097_TODO_14,
+39,TEXT_JOBSCH300_01097_TODO_15,
+40,TEXT_JOBSCH300_01097_TODO_16,
+41,TEXT_JOBSCH300_01097_TODO_17,
+42,TEXT_JOBSCH300_01097_TODO_18,
+43,TEXT_JOBSCH300_01097_TODO_19,
+44,TEXT_JOBSCH300_01097_TODO_20,
+45,TEXT_JOBSCH300_01097_TODO_21,
+46,TEXT_JOBSCH300_01097_TODO_22,
+47,TEXT_JOBSCH300_01097_TODO_23,
+48,TEXT_JOBSCH300_01097_MOZONDALAZON_000_000,（★未使用／削除予定★）
+49,TEXT_JOBSCH300_01097_MOZONDALAZON_000_001,（★未使用／削除予定★）
+50,TEXT_JOBSCH300_01097_MOZONDALAZON_000_002,（★未使用／削除予定★）
+51,TEXT_JOBSCH300_01097_MOZONDALAZON_000_003,（★未使用／削除予定★）
+52,TEXT_JOBSCH300_01097_MURIE_100_000,"흠…… 그러고 보니 당신이 있었군요.
 요즘 실력 좋은 비술사를 소개해 달라며
 쫓아다니는 이상한 남자가 있어서요……."
-53,"TEXT_JOBSCH300_01097_MURIE_100_001","도끼술사 길드 사람인 것 같은데
+53,TEXT_JOBSCH300_01097_MURIE_100_001,"도끼술사 길드 사람인 것 같은데
 '학술 조사'를 도와줄 비술사가 필요하다나요."
-54,"TEXT_JOBSCH300_01097_MURIE_100_002","비술을 탐구하고자 하는 사람에게
+54,TEXT_JOBSCH300_01097_MURIE_100_002,"비술을 탐구하고자 하는 사람에게
 유익한 조사라는데…… 신빙성은, 글쎄요…….
 도끼술사 길드엔 불량배 같은 사람이 많아서요."
-55,"TEXT_JOBSCH300_01097_MURIE_100_003","아무튼, 혹시 관심이 있으시면
+55,TEXT_JOBSCH300_01097_MURIE_100_003,"아무튼, 혹시 관심이 있으시면
 '도끼술사 길드'에 있는 '알카 졸카'라는 분을 찾아가세요."
-56,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_010","혹시 '비술사 길드'에서 나온 사람인가?
+56,TEXT_JOBSCH300_01097_ALKAZOLKA_000_010,"혹시 '비술사 길드'에서 나온 사람인가?
 정말 잘 와줬어!
 그러면 곧바로 얘기를 시작할게."
-57,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_011","나는 도끼술사 '알카 졸카'야.
+57,TEXT_JOBSCH300_01097_ALKAZOLKA_000_011,"나는 도끼술사 '알카 졸카'야.
 아, 근육 덩어리 멍청이들을 떠올리지 말아줘.
 나는 새 시대를 열어가는 두뇌파 도끼술사거든!"
-58,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_012","나는 도끼술을 더욱 높은 경지로 이끌기 위해
+58,TEXT_JOBSCH300_01097_ALKAZOLKA_000_012,"나는 도끼술을 더욱 높은 경지로 이끌기 위해
 전설 속 '니므 해병단'에 대해 조사 중이지."
-59,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_013","지금으로부터 1500년도 더 된 옛날…….
+59,TEXT_JOBSCH300_01097_ALKAZOLKA_000_013,"지금으로부터 1500년도 더 된 옛날…….
 제5성력 시대 바일브랜드 섬에는
 '니므'라는 해양도시가 존재했지."
-60,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_014","마법 문명이 크게 번성한 시대였어.
+60,TEXT_JOBSCH300_01097_ALKAZOLKA_000_014,"마법 문명이 크게 번성한 시대였어.
 그리고 마법을 남용한 전쟁…… '마법 대전'이
 에오르제아 전역을 휩쓸었다고 해."
-61,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_015","마도사 수가 절대적으로 부족했던 소국 니므가
+61,TEXT_JOBSCH300_01097_ALKAZOLKA_000_015,"마도사 수가 절대적으로 부족했던 소국 니므가
 전쟁의 불길 속에서 독립을 유지할 수 있었던 건
 니므에 '해병단'이 있었기 때문이라고 하더군."
-62,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_016","도끼를 사용하는 다수의 해병과 소수의 마도사로 구성된
+62,TEXT_JOBSCH300_01097_ALKAZOLKA_000_016,"도끼를 사용하는 다수의 해병과 소수의 마도사로 구성된
 전설의 최강군단 '니므 해병단'……."
-63,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_017","그들이 어떻게 그렇게 강할 수 있었는지 알아내면
+63,TEXT_JOBSCH300_01097_ALKAZOLKA_000_017,"그들이 어떻게 그렇게 강할 수 있었는지 알아내면
 도끼술사인 나는 물론이고
 마법을 쓰는 너한테도 도움이 되지 않겠어?"
-64,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_018","……그런데 문제가 생겼어.
+64,TEXT_JOBSCH300_01097_ALKAZOLKA_000_018,"……그런데 문제가 생겼어.
 기껏 거금을 들여 니므 시대의 유물을 사들였는데
 운반하는 도중에 도적을 만나서 전부 빼앗겼다지 뭐야!"
-65,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_019","동부 라노시아 '빗물받이 숲'에 선착장이 하나 있는데
+65,TEXT_JOBSCH300_01097_ALKAZOLKA_000_019,"동부 라노시아 '빗물받이 숲'에 선착장이 하나 있는데
 그 근처에 나타나는 도적이 범인인 것 같아.
 우선 그놈들한테서 유물을 찾아와야겠어. 너도 같이 가자!"
-66,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_020","동부 라노시아 '빗물받이 숲'에 선착장이 하나 있는데
+66,TEXT_JOBSCH300_01097_ALKAZOLKA_000_020,"동부 라노시아 '빗물받이 숲'에 선착장이 하나 있는데
 그 근처에 나타나는 도적이 범인인 것 같아.
 우선 그놈들한테서 유물을 찾아와야겠어. 너도 같이 가자!"
-67,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_030","도와줘서 고마워.
+67,TEXT_JOBSCH300_01097_ALKAZOLKA_000_030,"도와줘서 고마워.
 ……여기 숨어서 기다리다가
 도적들이 나타나면 단번에 처리하자!"
-68,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_060","찾았다!
+68,TEXT_JOBSCH300_01097_ALKAZOLKA_000_060,"찾았다!
 이거야, 내가 말한 유물! 해병단의 석판!!"
-69,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_061","으악, 깜짝이야! 뭐야, 이 요상한 생물은!?"
-70,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_062","아……!
+69,TEXT_JOBSCH300_01097_ALKAZOLKA_000_061,"으악, 깜짝이야! 뭐야, 이 요상한 생물은!?"
+70,TEXT_JOBSCH300_01097_ALKAZOLKA_000_062,"아……!
 이 석판을 보면 알 수 있을지도 몰라……."
-71,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_063","찾았다!
+71,TEXT_JOBSCH300_01097_ALKAZOLKA_000_063,"찾았다!
 해병단을 통솔하던 마도사…… 군학을 탐구하는 '학자'!
 그리고…… 그 학자들이 부리던 '요정'!"
-72,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_064","햇볕으로부터 태어난 '요정 에오스'!"
-73,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_065","달빛으로부터 태어난 '요정 셀레네'!"
-74,"TEXT_JOBSCH300_01097_KOKORONIHIBIKUKOE_000_066","(-???-)<Highlight>ObjectParameter(1)</Highlight>……."
-75,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_067","정말 대단해!
+72,TEXT_JOBSCH300_01097_ALKAZOLKA_000_064,햇볕으로부터 태어난 '요정 에오스'!
+73,TEXT_JOBSCH300_01097_ALKAZOLKA_000_065,달빛으로부터 태어난 '요정 셀레네'!
+74,TEXT_JOBSCH300_01097_KOKORONIHIBIKUKOE_000_066,(-???-)Player Player…….
+75,TEXT_JOBSCH300_01097_ALKAZOLKA_000_067,"정말 대단해!
 너는 고대 '학자'의 힘을……
 사역마 '요정'을 깨운 거야!"
-76,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_040","그냥 석판을 되찾으러 왔을 뿐인데
+76,TEXT_JOBSCH300_01097_ALKAZOLKA_000_040,"그냥 석판을 되찾으러 왔을 뿐인데
 고대 군학마법이 부활하다니!"
-77,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_041","아무튼, 침착하게 석판을 조사하기 위해서라도
+77,TEXT_JOBSCH300_01097_ALKAZOLKA_000_041,"아무튼, 침착하게 석판을 조사하기 위해서라도
 일단 림사 로민사로 돌아가는 게 좋겠군.
 너도 도착하면 '도끼술사 길드'로 와!"
-78,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_050","어, 왔구나!
+78,TEXT_JOBSCH300_01097_ALKAZOLKA_000_050,"어, 왔구나!
 마침 석판을 읽고 있던 중이야."
-79,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_051","니므 '학자'들은 네가 주운 그 빛나는 결정……
+79,TEXT_JOBSCH300_01097_ALKAZOLKA_000_051,"니므 '학자'들은 네가 주운 그 빛나는 결정……
 '소울 크리스탈'에 군학마법 지식을 축적한 것 같아."
-80,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_052","즉, 소울 크리스탈은 <Sheet(Item,　4550,0)/>이자
+80,TEXT_JOBSCH300_01097_ALKAZOLKA_000_052,"즉, 소울 크리스탈은 이자
 요정을 소환하기 위한 열쇠이기도 하지."
-81,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_053","그 결정은 네가 가지고 있는 게 좋을 것 같아.
+81,TEXT_JOBSCH300_01097_ALKAZOLKA_000_053,"그 결정은 네가 가지고 있는 게 좋을 것 같아.
 도적을 물리쳐준 사례라고 하기엔…… 좀 그렇지만
 내가 주는 선물이야."
-82,"TEXT_JOBSCH300_01097_ALKAZOLKA_000_054","나는 석판을 좀 더 조사하려고 해.
+82,TEXT_JOBSCH300_01097_ALKAZOLKA_000_054,"나는 석판을 좀 더 조사하려고 해.
 시간이 제법 걸릴 것 같으니까
 그동안 넌 요정이랑 좀 친해져 봐."
-83,"TEXT_JOBSCH300_01097_SYSTEM_000_055","'학자' 잡 퀘스트를 시작했습니다.
+83,TEXT_JOBSCH300_01097_SYSTEM_000_055,"'학자' 잡 퀘스트를 시작했습니다.
 다음 퀘스트는 레벨이 35 이상 되면 받을 수 있습니다."
-84,"TEXT_JOBSCH300_01097_SYSTEM_000_056","'요정 에오스'는
+84,TEXT_JOBSCH300_01097_SYSTEM_000_056,"'요정 에오스'는
 '에오스 소환'을 사용하면 불러낼 수 있습니다."
-85,"TEXT_JOBSCH300_01097_SYSTEM_000_057","또한 '모습을 바꾸는 요정'을 완료하면
+85,TEXT_JOBSCH300_01097_SYSTEM_000_057,"또한 '모습을 바꾸는 요정'을 완료하면
 '요정 에오스'의 외형을 '요정 셀레네'등
 다른 모습으로 변경할 수 있게 됩니다."
-86,"TEXT_JOBSCH300_01097_QIB_001_TODO_1","도적을 물리치고 빼앗긴 물건을 되찾아라!"
-87,"TEXT_JOBSCH300_01097_QIB_001_ALKAZOLKA_BATTLETALK_01","놈들이 범인이야! 놓치면 안 돼!"
-88,"TEXT_JOBSCH300_01097_QIB_001_ALKAZOLKA_BATTLETALK_02","윽…… 이, 이런 놈들한테 당하다니……!"
-89,"TEXT_JOBSCH300_01097_QIB_001_ALKAZOLKA_BATTLETALK_03","다 끝났군.
+86,TEXT_JOBSCH300_01097_QIB_001_TODO_1,도적을 물리치고 빼앗긴 물건을 되찾아라!
+87,TEXT_JOBSCH300_01097_QIB_001_ALKAZOLKA_BATTLETALK_01,놈들이 범인이야! 놓치면 안 돼!
+88,TEXT_JOBSCH300_01097_QIB_001_ALKAZOLKA_BATTLETALK_02,"윽…… 이, 이런 놈들한테 당하다니……!"
+89,TEXT_JOBSCH300_01097_QIB_001_ALKAZOLKA_BATTLETALK_03,"다 끝났군.
 이제 빼앗긴 짐을 찾아볼까."
-90,"TEXT_JOBSCH300_01097_SYSTEM_000_060","신규 잡을 습득했습니다!
+90,TEXT_JOBSCH300_01097_SYSTEM_000_060,"신규 잡을 습득했습니다!
 받은 소울 크리스탈을 장비하면
 잡 체인지를 할 수 있습니다."
-91,"TEXT_JOBSCH300_01097_SYSTEM_000_061","잡 체인지를 한 다음에는
+91,TEXT_JOBSCH300_01097_SYSTEM_000_061,"잡 체인지를 한 다음에는
 '장비세트'를 등록해 보세요!
 현재의 장비가 기록되고 바로 갈아입을 수 있게 됩니다."
-92,"TEXT_JOBSCH300_01097_SYSTEM_000_062","'장비세트' 등록은
+92,TEXT_JOBSCH300_01097_SYSTEM_000_062,"'장비세트' 등록은
 장비 변경과 마찬가지로 '내 캐릭터' 화면에서 실행할 수 있습니다."

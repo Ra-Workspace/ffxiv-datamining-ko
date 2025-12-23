@@ -1,108 +1,106 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANLOP127_04713_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANLOP127_04713_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 희망찬 화물실에 있는 매니징웨이는 패션의 미래에 대해 생각하고 있는 듯하다."
-1,"TEXT_BANLOP127_04713_SEQ_01","당근관 북쪽에 있는 안절부절 레포릿과 대화"
-2,"TEXT_BANLOP127_04713_SEQ_02","매니징웨이에게 의뢰받은 물품 납품"
-3,"TEXT_BANLOP127_04713_SEQ_03",""
-4,"TEXT_BANLOP127_04713_SEQ_04",""
-5,"TEXT_BANLOP127_04713_SEQ_05",""
-6,"TEXT_BANLOP127_04713_SEQ_06",""
-7,"TEXT_BANLOP127_04713_SEQ_07",""
-8,"TEXT_BANLOP127_04713_SEQ_08",""
-9,"TEXT_BANLOP127_04713_SEQ_09",""
-10,"TEXT_BANLOP127_04713_SEQ_10",""
-11,"TEXT_BANLOP127_04713_SEQ_11",""
-12,"TEXT_BANLOP127_04713_SEQ_12",""
-13,"TEXT_BANLOP127_04713_SEQ_13",""
-14,"TEXT_BANLOP127_04713_SEQ_14",""
-15,"TEXT_BANLOP127_04713_SEQ_15",""
-16,"TEXT_BANLOP127_04713_SEQ_16",""
-17,"TEXT_BANLOP127_04713_SEQ_17",""
-18,"TEXT_BANLOP127_04713_SEQ_18",""
-19,"TEXT_BANLOP127_04713_SEQ_19",""
-20,"TEXT_BANLOP127_04713_SEQ_20",""
-21,"TEXT_BANLOP127_04713_SEQ_21",""
-22,"TEXT_BANLOP127_04713_SEQ_22",""
-23,"TEXT_BANLOP127_04713_SEQ_23",""
-24,"TEXT_BANLOP127_04713_TODO_00","당근관 북쪽에 있는 안절부절 레포릿과 대화"
-25,"TEXT_BANLOP127_04713_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANLOP127_04713_TODO_02",""
-27,"TEXT_BANLOP127_04713_TODO_03",""
-28,"TEXT_BANLOP127_04713_TODO_04",""
-29,"TEXT_BANLOP127_04713_TODO_05",""
-30,"TEXT_BANLOP127_04713_TODO_06",""
-31,"TEXT_BANLOP127_04713_TODO_07",""
-32,"TEXT_BANLOP127_04713_TODO_08",""
-33,"TEXT_BANLOP127_04713_TODO_09",""
-34,"TEXT_BANLOP127_04713_TODO_10",""
-35,"TEXT_BANLOP127_04713_TODO_11",""
-36,"TEXT_BANLOP127_04713_TODO_12",""
-37,"TEXT_BANLOP127_04713_TODO_13",""
-38,"TEXT_BANLOP127_04713_TODO_14",""
-39,"TEXT_BANLOP127_04713_TODO_15",""
-40,"TEXT_BANLOP127_04713_TODO_16",""
-41,"TEXT_BANLOP127_04713_TODO_17",""
-42,"TEXT_BANLOP127_04713_TODO_18",""
-43,"TEXT_BANLOP127_04713_TODO_19",""
-44,"TEXT_BANLOP127_04713_TODO_20",""
-45,"TEXT_BANLOP127_04713_TODO_21",""
-46,"TEXT_BANLOP127_04713_TODO_22",""
-47,"TEXT_BANLOP127_04713_TODO_23",""
-48,"TEXT_BANLOP127_04713_MANAGINGWAY_000_000","미술 체험관의 예술 활동에 영향을 받아
+1,TEXT_BANLOP127_04713_SEQ_01,당근관 북쪽에 있는 안절부절 레포릿과 대화
+2,TEXT_BANLOP127_04713_SEQ_02,매니징웨이에게 의뢰받은 물품 납품
+3,TEXT_BANLOP127_04713_SEQ_03,
+4,TEXT_BANLOP127_04713_SEQ_04,
+5,TEXT_BANLOP127_04713_SEQ_05,
+6,TEXT_BANLOP127_04713_SEQ_06,
+7,TEXT_BANLOP127_04713_SEQ_07,
+8,TEXT_BANLOP127_04713_SEQ_08,
+9,TEXT_BANLOP127_04713_SEQ_09,
+10,TEXT_BANLOP127_04713_SEQ_10,
+11,TEXT_BANLOP127_04713_SEQ_11,
+12,TEXT_BANLOP127_04713_SEQ_12,
+13,TEXT_BANLOP127_04713_SEQ_13,
+14,TEXT_BANLOP127_04713_SEQ_14,
+15,TEXT_BANLOP127_04713_SEQ_15,
+16,TEXT_BANLOP127_04713_SEQ_16,
+17,TEXT_BANLOP127_04713_SEQ_17,
+18,TEXT_BANLOP127_04713_SEQ_18,
+19,TEXT_BANLOP127_04713_SEQ_19,
+20,TEXT_BANLOP127_04713_SEQ_20,
+21,TEXT_BANLOP127_04713_SEQ_21,
+22,TEXT_BANLOP127_04713_SEQ_22,
+23,TEXT_BANLOP127_04713_SEQ_23,
+24,TEXT_BANLOP127_04713_TODO_00,당근관 북쪽에 있는 안절부절 레포릿과 대화
+25,TEXT_BANLOP127_04713_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANLOP127_04713_TODO_02,
+27,TEXT_BANLOP127_04713_TODO_03,
+28,TEXT_BANLOP127_04713_TODO_04,
+29,TEXT_BANLOP127_04713_TODO_05,
+30,TEXT_BANLOP127_04713_TODO_06,
+31,TEXT_BANLOP127_04713_TODO_07,
+32,TEXT_BANLOP127_04713_TODO_08,
+33,TEXT_BANLOP127_04713_TODO_09,
+34,TEXT_BANLOP127_04713_TODO_10,
+35,TEXT_BANLOP127_04713_TODO_11,
+36,TEXT_BANLOP127_04713_TODO_12,
+37,TEXT_BANLOP127_04713_TODO_13,
+38,TEXT_BANLOP127_04713_TODO_14,
+39,TEXT_BANLOP127_04713_TODO_15,
+40,TEXT_BANLOP127_04713_TODO_16,
+41,TEXT_BANLOP127_04713_TODO_17,
+42,TEXT_BANLOP127_04713_TODO_18,
+43,TEXT_BANLOP127_04713_TODO_19,
+44,TEXT_BANLOP127_04713_TODO_20,
+45,TEXT_BANLOP127_04713_TODO_21,
+46,TEXT_BANLOP127_04713_TODO_22,
+47,TEXT_BANLOP127_04713_TODO_23,
+48,TEXT_BANLOP127_04713_MANAGINGWAY_000_000,"미술 체험관의 예술 활동에 영향을 받아
 새로운 자기 표현을 즐기는 동료들이 늘어나고 있어요.
 그래요…… 입는 예술, 패션 말이에요!"
-49,"TEXT_BANLOP127_04713_MANAGINGWAY_000_001","언제나 같은 옷만 입는 우리에게는
+49,TEXT_BANLOP127_04713_MANAGINGWAY_000_001,"언제나 같은 옷만 입는 우리에게는
 혁명적인 만남이 아닐 수 없어요.
 하지만 지금껏 관심이 없었던 만큼 재료가 부족해서요."
-50,"TEXT_BANLOP127_04713_MANAGINGWAY_000_002","그래서 당신도 알고 있는 안절부절 레포릿이
+50,TEXT_BANLOP127_04713_MANAGINGWAY_000_002,"그래서 당신도 알고 있는 안절부절 레포릿이
 당근관 북쪽에서 새로운 재료를 조달하는 중이에요.
 그를 좀 도와주시면 안 될까요?"
-51,"TEXT_BANLOP127_04713_LOPORRITA04403_100_010","우와와, 오랜만이에요!
+51,TEXT_BANLOP127_04713_LOPORRITA04403_100_010,"우와와, 오랜만이에요!
 이곳에 왔을 때 제가 당신에게 딱 맞는 옷을 만들어줬죠!?
 지금은 우리에게 잘 어울릴 만한 옷을 열심히 만들고 있답니다!"
-52,"TEXT_BANLOP127_04713_LOPORRITA04403_100_011","그런데 옷을 처음부터 만들려니까 재료가 부족해서……
+52,TEXT_BANLOP127_04713_LOPORRITA04403_100_011,"그런데 옷을 처음부터 만들려니까 재료가 부족해서……
 이렇게 모으는 중이에요.
 당신은 장인이기도 하니까 도와주시면 좋겠어요!"
-53,"TEXT_BANLOP127_04713_LOPORRITA04403_200_011","지난번에 만들어준 장식품을 옷에 달았더니
+53,TEXT_BANLOP127_04713_LOPORRITA04403_200_011,"지난번에 만들어준 장식품을 옷에 달았더니
 다들 예쁘다고 난리가 났어요!
 지금 주문이 쇄도하고 있는데 또 부탁할 수 있을까요?"
-54,"TEXT_BANLOP127_04713_LOPORRITA04403_000_011","'<Sheet(ItemHQ,38889,0)/>'인
+54,TEXT_BANLOP127_04713_LOPORRITA04403_000_011,"''인
 번쩍번쩍 멋진 버클을 만들어 주시겠어요?
 필요한 재료는 드릴 테니까 다 떨어지면 말씀해주세요!"
-55,"TEXT_BANLOP127_04713_LOPORRITA04403_000_012","'<Sheet(ItemHQ,38889,0)/>'인
+55,TEXT_BANLOP127_04713_LOPORRITA04403_000_012,"''인
 반짝반짝하고 멋진 장식을 만들어 주시겠어요?
 필요한 재료는 드릴 테니까 다 떨어지면 말씀해주세요!"
-56,"TEXT_BANLOP127_04713_LOPORRITA04403_000_013","'<Sheet(ItemHQ,38889,0)/>'인
+56,TEXT_BANLOP127_04713_LOPORRITA04403_000_013,"''인
 옷감을 반짝반짝하게 빛나게 해줄 연금약을 만들어 주시겠어요?
 필요한 재료는 드릴 테니까 다 떨어지면 말씀해주세요!"
-57,"TEXT_BANLOP127_04713_LOPORRITA04403_000_014","다 만드시면 '매니징웨이'에게 전해주세요!
+57,TEXT_BANLOP127_04713_LOPORRITA04403_000_014,"다 만드시면 '매니징웨이'에게 전해주세요!
 저는 재료를 모으면서 화려하고 세련된 옷에 대해서
 충분히 생각해두고 있을 테니까요!"
-58,"TEXT_BANLOP127_04713_LOPORRITA04403_000_015","재료가 필요한가요?
+58,TEXT_BANLOP127_04713_LOPORRITA04403_000_015,"재료가 필요한가요?
 ……으음, 괜찮은 것 같은데요!"
-59,"TEXT_BANLOP127_04713_LOPORRITA04403_000_016","재료가 필요한가요?
+59,TEXT_BANLOP127_04713_LOPORRITA04403_000_016,"재료가 필요한가요?
 ……으음, 괜찮은 것 같은데요!"
-60,"TEXT_BANLOP127_04713_LOPORRITA04403_000_017","재료가 필요한가요?
+60,TEXT_BANLOP127_04713_LOPORRITA04403_000_017,"재료가 필요한가요?
 ……으음, 괜찮은 것 같은데요!"
-61,"TEXT_BANLOP127_04713_LOPORRITA04403_000_018","재료가 떨어지셨나요?
+61,TEXT_BANLOP127_04713_LOPORRITA04403_000_018,"재료가 떨어지셨나요?
 자, 이걸 쓰세요!"
-62,"TEXT_BANLOP127_04713_LOPORRITA04403_000_019","재료가 떨어지셨나요?
+62,TEXT_BANLOP127_04713_LOPORRITA04403_000_019,"재료가 떨어지셨나요?
 자, 이걸 쓰세요!"
-63,"TEXT_BANLOP127_04713_LOPORRITA04403_000_020","재료가 떨어지셨나요?
+63,TEXT_BANLOP127_04713_LOPORRITA04403_000_020,"재료가 떨어지셨나요?
 자, 이걸 쓰세요!"
-64,"TEXT_BANLOP127_04713_MANAGINGWAY_000_030","옷에 쓰일 재료는 어느 정도 만드셨나요?"
-65,"TEXT_BANLOP127_04713_MANAGINGWAY_000_031","와아, 화려한 장식품을 만들어 주셨군요!
+64,TEXT_BANLOP127_04713_MANAGINGWAY_000_030,옷에 쓰일 재료는 어느 정도 만드셨나요?
+65,TEXT_BANLOP127_04713_MANAGINGWAY_000_031,"와아, 화려한 장식품을 만들어 주셨군요!
 협력해 주셔서 감사합니다!"
-66,"TEXT_BANLOP127_04713_MANAGINGWAY_000_032","이걸 이용하면 얼마나 멋진 옷이 탄생할지……
+66,TEXT_BANLOP127_04713_MANAGINGWAY_000_032,"이걸 이용하면 얼마나 멋진 옷이 탄생할지……
 패션의 꿈이 부풀어오르네요.
 기회가 있다면 저도 새로운 옷을 입어보고 싶어요."
-67,"TEXT_BANLOP127_04713_MANAGINGWAY_000_033","그 호기심 왕성한 동료 말인데요,
+67,TEXT_BANLOP127_04713_MANAGINGWAY_000_033,"그 호기심 왕성한 동료 말인데요,
 앞으로도 신소재 연구를 계속할 생각이라고 해요.
 부디 힘을 빌려 주세요."
-68,"TEXT_BANLOP127_04713_SYSTEM_000_040","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+68,TEXT_BANLOP127_04713_SYSTEM_000_040,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."

@@ -1,104 +1,102 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CTSFCKMASTER_00453_TALK_ACTOR","0"
-1,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_000","이번 주 최고 득점: <Value>IntegerParameter(1)</Value>점[남은 횟수 <Value>IntegerParameter(2)</Value>회]"
-2,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_001","패션 체크 도전하기"
-3,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_002","이번 주 테마 물어보기"
-4,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_004","자기 최고 득점 시의 장비 확인하기"
-5,"TEXT_CTSFCKMASTER_00453_TOPMENU_000_003","취소"
-6,"TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_000_000","나를 깜짝 놀라게 해줄 만한
+#,Unknown0,Unknown1
+0,TEXT_CTSFCKMASTER_00453_TALK_ACTOR,0
+1,TEXT_CTSFCKMASTER_00453_TOPMENU_000_000,이번 주 최고 득점: UNKNOWN점[남은 횟수 UNKNOWN회]
+2,TEXT_CTSFCKMASTER_00453_TOPMENU_000_001,패션 체크 도전하기
+3,TEXT_CTSFCKMASTER_00453_TOPMENU_000_002,이번 주 테마 물어보기
+4,TEXT_CTSFCKMASTER_00453_TOPMENU_000_004,자기 최고 득점 시의 장비 확인하기
+5,TEXT_CTSFCKMASTER_00453_TOPMENU_000_003,취소
+6,TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_000_000,"나를 깜짝 놀라게 해줄 만한
 미래의 패션리더, 어디 없으려나……."
-7,"TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_001_000","어머, 패션 체크에 참가하려고?
+7,TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_001_000,"어머, 패션 체크에 참가하려고?
 아니면 이번 테마를 확인하고 싶은 거니?"
-8,"TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_002_000","패션에 대해서 생각하느라 정신이 없어.
+8,TEXT_CTSFCKMASTER_00453_DEFAULT_ROSE_002_000,"패션에 대해서 생각하느라 정신이 없어.
 패션 센스를 기르면서 기다려줄래?"
-9,"TEXT_CTSFCKMASTER_00453_THEME_ROSE_000_000","이번 패션 체크 테마는……
-바로 '<Sheet(FashionCheckWeeklyTheme,IntegerParameter(1),0)/>'<13>FF2102281DFF1846617368696F6E436865636B5765656B6C795468656D65E8020103FF04EC95BCFF07EC9DB4EC95BC</13>!"
-10,"TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_ROSE_000_000","어머…… 성격이 참 급하네?
+9,TEXT_CTSFCKMASTER_00453_THEME_ROSE_000_000,"이번 패션 체크 테마는……
+바로 ''!"
+10,TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_ROSE_000_000,"어머…… 성격이 참 급하네?
 네 뜨거운 열의는 잘 알겠는데, 아까도 말했다시피
 아직 준비 중이니까 조금만 더 기다려주렴!"
-11,"TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_SYSTEM_000_001","패션 체크의 채점은 현실 시간으로
-매주 <ResetTime>1206</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시 이후부터 이루어집니다."
-12,"TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_ROSE_001_000","이번 테마로 체크하는 건 이미 끝났어.
+11,TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_SYSTEM_000_001,"패션 체크의 채점은 현실 시간으로
+매주 금요일 오후 5시 이후부터 이루어집니다."
+12,TEXT_CTSFCKMASTER_00453_CHECK_REQUEST_ROSE_001_000,"이번 테마로 체크하는 건 이미 끝났어.
 다음 체크 때까지 센스를 기르면서 기다려줄래?"
-13,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_000_000","자, 참가상으로 주는 MGP야.
+13,TEXT_CTSFCKMASTER_00453_REWARD_ROSE_000_000,"자, 참가상으로 주는 MGP야.
 이번 패션 체크에서 새로운 의상을 만나거나
 발견하는 일은 없었니?"
-14,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_001_000","날 즐겁게 해줘서 고마워…….
+14,TEXT_CTSFCKMASTER_00453_REWARD_ROSE_001_000,"날 즐겁게 해줘서 고마워…….
 이건 내가 주는 특별상이야!"
-15,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_004_000","자, 내가 주는 특별상과 참가상인 MGP야!
+15,TEXT_CTSFCKMASTER_00453_REWARD_ROSE_004_000,"자, 내가 주는 특별상과 참가상인 MGP야!
 당신의 끝내주는 센스에 현기증이 날 것 같아!"
-16,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_002_000","말하는 도중에 어디 갔었니!?"
-17,"TEXT_CTSFCKMASTER_00453_REWARD_ROSE_003_000","이것도 참가상이랑 같이 주고 싶었던 거야.
+16,TEXT_CTSFCKMASTER_00453_REWARD_ROSE_002_000,말하는 도중에 어디 갔었니!?
+17,TEXT_CTSFCKMASTER_00453_REWARD_ROSE_003_000,"이것도 참가상이랑 같이 주고 싶었던 거야.
 날 즐겁게 해줬으니 내가 특별상을 줄게!"
-18,"TEXT_CTSFCKMASTER_00453_COME_AGAIN_ROSE_000_000","체크 결과는 만족스럽니?
+18,TEXT_CTSFCKMASTER_00453_COME_AGAIN_ROSE_000_000,"체크 결과는 만족스럽니?
 혹시라도 결과가 마음에 안 든다면
 아직 도전할 기회는 남아 있으니까 다시 도전해보렴."
-19,"TEXT_CTSFCKMASTER_00453_COME_AGAIN_ROSE_001_000","체크 결과는 만족스럽니?
+19,TEXT_CTSFCKMASTER_00453_COME_AGAIN_ROSE_001_000,"체크 결과는 만족스럽니?
 이번 테마로 하는 체크는 이제 끝이야.
 다음번에 또 도전해줘. 기다리고 있을게."
-20,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_000_000","…………지금 장난하니?
+20,TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_000_000,"…………지금 장난하니?
 몸매 체크는 내 전문 분야가 아니거든?"
-21,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_001_000","아아, 너무 엉망이야. 도저히 못 봐주겠어.
+21,TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_001_000,"아아, 너무 엉망이야. 도저히 못 봐주겠어.
 당신은 자신의 센스를 표현하기 전에
 우선 이번 테마에 대해서 곰곰이 다시 생각해보렴."
-22,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_002_000","뭐랄까……. 이게 아니거든.
+22,TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_002_000,"뭐랄까……. 이게 아니거든.
 노력은 인정하지만 방향성을 좀 잘못 잡은 느낌이야.
 기발한 옷차림만이 개성이 아니라는 걸 명심하길 바라."
-23,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_003_000","아쉽게도 합격점엔 조금 못 미치는구나.
+23,TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_003_000,"아쉽게도 합격점엔 조금 못 미치는구나.
 방향성은 괜찮은데, 조잡하고 섬세함이 부족해.
 당신 생김새가 괜찮다 보니 좀 좋아 보일 뿐이야."
-24,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_004_000","흠, 그럭저럭 괜찮은 것 같은데?
+24,TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_004_000,"흠, 그럭저럭 괜찮은 것 같은데?
 하지만 이렇게 센스가 있다는 걸 보여줬으니
 조금 더 욕심을 내서 멋을 부려도 좋을 것 같아."
-25,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_005_000","어머, 괜찮은걸!
+25,TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_005_000,"어머, 괜찮은걸!
 하지만 전체적으로 너무 차분한 느낌이 드니까
 포인트가 되는 요소를 넣어서 강조해주면 더 좋아질 거야."
-26,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_006_000","아주 훌륭한 센스를 가졌어!
+26,TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_006_000,"아주 훌륭한 센스를 가졌어!
 패션을 자신의 것으로 완벽하게 소화하고 있구나!
 더 목표를 높이 잡았으면 좋겠어!"
-27,"TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_007_000","완벽해……. 완벽 그 자체야!
+27,TEXT_CTSFCKMASTER_00453_SCORE_REACTION_ROSE_007_000,"완벽해……. 완벽 그 자체야!
 당신이라는 숭고한 작품을 만났다는 사실에 감사할 따름이야!
 네 패션 센스를 부정하는 사람이 있다면, 내가 용서하지 않을 거야!"
-28,"TEXT_CTSFCKMASTER_00453_BESTSCORE_REACTION_ROSE_000_000","이번 테마에서 자기 최고 기록을 갱신했네!
+28,TEXT_CTSFCKMASTER_00453_BESTSCORE_REACTION_ROSE_000_000,"이번 테마에서 자기 최고 기록을 갱신했네!
 지금까지 보여준 것 중에서
 가장 내 마음을 사로잡은 패션이었어……!"
-29,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_000_000","이 가면, 실은 새로 장만했는데, 혹시 눈치챘니?
+29,TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_000_000,"이 가면, 실은 새로 장만했는데, 혹시 눈치챘니?
 이런 섬세한 차이를 잡아내지 못한다면
 내 마음은 절대 사로잡을 수 없을 거야."
-30,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_001_000","패션은 끊임없는 공부야…….
+30,TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_001_000,"패션은 끊임없는 공부야…….
 그걸 머리에 새겼으면 좋겠어."
-31,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_002_000","전쟁터에도 패션 요소는 존재해.
+31,TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_002_000,"전쟁터에도 패션 요소는 존재해.
 화려한 이슈가르드의 기사나, 동방풍 도마 사무라이를 봐…….
 장소가 바뀌면 복장도 바뀐다는 거, 기억해두렴!"
-32,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_003_000","얼마 전 카스미가 나한테 꽃을 주더라고.
+32,TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_003_000,"얼마 전 카스미가 나한테 꽃을 주더라고.
 꽃말이 '아름다움'이라서 그걸 골랐대.
 무슨 꽃이냐고? 그거야 당연히…… 새빨간 장미지!"
-33,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_004_000","카스미한테 잘 보이려고 노력하는 남성들이 많은 것 같은데,
+33,TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_004_000,"카스미한테 잘 보이려고 노력하는 남성들이 많은 것 같은데,
 우리 카스미가 저래 봬도 얼마나 패션 지식이 풍부한데.
 어설픈 옷차림으로 다가가면, 거들떠보지도 않을걸."
-34,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_005_000","세련된 모험가들 중에는 자기 자신뿐 아니라
+34,TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_005_000,"세련된 모험가들 중에는 자기 자신뿐 아니라
 집사의 패션에도 신경을 쓰는 사람이 있대.
 넌 어떠니?"
-35,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_006_000","울다하의 경제지 '미스릴 아이'의 기자가
+35,TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_006_000,"울다하의 경제지 '미스릴 아이'의 기자가
 내 정체를 파헤치고 있는 모양이야…….
 비밀을 밝히려고 하다니, 너무 멋없지 않니?"
-36,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_007_000","그리다니아의 모피에 울다하의 견직물……
+36,TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_007_000,"그리다니아의 모피에 울다하의 견직물……
 림사 로민사의 양모에 알라미고의 전통 직물…….
 소재의 차이도 신경 써야 해."
-37,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_008_000","골드 소서에는 각지에서 손님들이 오잖니?
+37,TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_008_000,"골드 소서에는 각지에서 손님들이 오잖니?
 그래서 여러 지역의 패션을 볼 수 있는
 최고의 장소라구!"
-38,"TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_009_000","자신만만하게 패션 체크하러 온 분이 있었는데,
+38,TEXT_CTSFCKMASTER_00453_COMMENT_ROSE_009_000,"자신만만하게 패션 체크하러 온 분이 있었는데,
 자기 자랑만 계속 늘어놓고…… 아니나 다를까 복장도 별로였어.
 내면이 아름답지 않으면 아무리 겉모습을 가꿔도 의미가 없지."
-39,"TEXT_CTSFCKMASTER_00453_CHECK_START_ROSE_000_000","자, 그럼 채점을 해볼까.
+39,TEXT_CTSFCKMASTER_00453_CHECK_START_ROSE_000_000,"자, 그럼 채점을 해볼까.
 내 예상을 좋은 쪽으로 뒤집어주려나……?"
-40,"TEXT_CTSFCKMASTER_00453_CHECK_BEST_EQUIP_000_000","너, 이번 주는 아직 채점 받지 않았잖아!
+40,TEXT_CTSFCKMASTER_00453_CHECK_BEST_EQUIP_000_000,"너, 이번 주는 아직 채점 받지 않았잖아!
 도전을 기다리고 있을 테니 준비하고 오렴! "
-41,"TEXT_CTSFCKMASTER_00453_CHECK_RESULT_ROSE_000_000","음…… 이제 됐어…….
+41,TEXT_CTSFCKMASTER_00453_CHECK_RESULT_ROSE_000_000,"음…… 이제 됐어…….
 각오는 되어 있겠지? 채점 결과를 발표할게!"
-42,"TEXT_CTSFCKMASTER_00453_CHECK_DIALOG_000_000","패션 체크에 도전합니다.
+42,TEXT_CTSFCKMASTER_00453_CHECK_DIALOG_000_000,"패션 체크에 도전합니다.
 준비 중인 아이템은 귀속됩니다.
 진행하시겠습니까?"

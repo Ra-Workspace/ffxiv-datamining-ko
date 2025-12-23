@@ -1,29 +1,27 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR01","여기서는 <Switch(IntegerParameter(1))><Case(1)>흑와단과</Case><Case(2)>쌍사당과</Case><Case(3)>불멸대와</Case></Switch> 계약한
+#,Unknown0,Unknown1
+0,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR01,"여기서는 흑와단과 계약한
 자유부대가 사용하는 '문장'의 디자인을 변경하거나
 장비에 장식하는 업무를 도와드리고 있습니다."
-1,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_Q1","무엇을 도와드릴까요?"
-2,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A1","문장 디자인 편집"
-3,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A2","장비에 문장 붙이기/문장 제거"
-4,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A3","문장에 대한 설명 듣기"
-5,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A4","취소"
-6,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_010","'문장'이란 자신이 속한 자유부대를
+1,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_Q1,무엇을 도와드릴까요?
+2,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A1,문장 디자인 편집
+3,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A2,장비에 문장 붙이기/문장 제거
+4,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A3,문장에 대한 설명 듣기
+5,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A4,취소
+6,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_010,"'문장'이란 자신이 속한 자유부대를
 상징하는 그림입니다."
-7,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_011","문장은 각 자유부대의 개성에 맞춰 만들 수 있습니다.
+7,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_011,"문장은 각 자유부대의 개성에 맞춰 만들 수 있습니다.
 또한, 문장을 방어구나 방패 등에 장식할 수도 있습니다."
-8,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_012","문장을 만들거나 장식하려면
+8,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_012,"문장을 만들거나 장식하려면
 부대 랭크를 올려서 '문장 편집' 및
 '문장 장식' 권리를 획득해야 합니다."
-9,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_013","또한, 문장 디자인을 변경하려면
+9,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_013,"또한, 문장 디자인을 변경하려면
 '문장 디자인 설정' 권한이 필요합니다.
 원하는 부대원에게 권한을 부여하세요."
-10,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR1","앗, 자유부대에 소속되어 있지 않으시군요.
+10,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR1,"앗, 자유부대에 소속되어 있지 않으시군요.
 자유부대에 소속되면 다양한 혜택을 받을 수 있습니다.
 자신에게 맞는 자유부대를 찾아보시는 게 어떻습니까?"
-11,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR2","여기는 총사령부 <Switch(IntegerParameter(1))><Case(1)>흑와단과</Case><Case(2)>쌍사당과</Case><Case(3)>불멸대와</Case></Switch> 계약한
+11,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR2,"여기는 총사령부 흑와단과 계약한
 자유부대만 이용하실 수 있습니다."
-12,"TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR3","죄송합니다만 문장 편집 및 장식은
+12,TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR3,"죄송합니다만 문장 편집 및 장식은
 당신의 자유부대가 소속되어있는
 총사령부의 문장 담당관에게 문의하시기 바랍니다."

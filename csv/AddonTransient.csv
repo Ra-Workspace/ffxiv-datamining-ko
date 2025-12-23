@@ -1,179 +1,177 @@
-﻿key,0
-#,
-int32,str
-0,""
-1,"<CommandIcon(10)/>아이템 회수"
-2,"<CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-3,"<CommandIcon(8)/>파티원 순서 변경  <CommandIcon(10)/>세부 메뉴"
-4,"<CommandIcon(11)/>이 조건으로 검색"
-5,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>구매  <CommandIcon(11)/>판매할 아이템 선택"
-6,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>명령어 목록 보기"
-7,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>새 편지 쓰기"
-8,"<CommandIcon(10)/>세부 메뉴"
-9,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>돌아가기"
-10,"<CommandIcon(8)/>첨부할 아이템 선택"
-11,"<CommandIcon(10)/>할 일 목록 위쪽에 표시/목록에서 빼기  <CommandIcon(24)/>상세 정보 스크롤"
-12,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>돌아가기"
-13,"<CommandIcon(12)/>"
-14,"<CommandIcon(13)/>"
-15,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
-16,"<CommandIcon(10)/>세부 메뉴"
-17,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>지역 지도"
-18,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>지역 지도"
-19,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-20,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-21,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-22,"<CommandIcon(10)/>세부 메뉴"
-23,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>건넬 아이템 선택"
-24,"<CommandIcon(8)/>출품  <CommandIcon(10)/>세부 메뉴"
-25,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>출품할 아이템 선택"
-26,"<CommandIcon(10)/>세부 메뉴"
-27,"<CommandIcon(10)/>세부 메뉴"
-28,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-29,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-30,"<CommandIcon(8)/>의뢰 수락 <CommandIcon(11)/>퀘스트 확인 <CommandIcon(24)/>상세 정보 스크롤"
-31,"<CommandIcon(11)/>검색"
-32,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>매물 목록 보기 <CommandIcon(9)/>뒤로"
-33,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>매물 목록 보기 <CommandIcon(9)/>뒤로 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
-34,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-35,"<CommandIcon(11)/>새로 고침  <CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>상세 정보"
-36,"<CommandIcon(11)/>이 조건으로 검색"
-37,"<CommandIcon(10)/><CommandIcon(11)/>방어 / 회복 / 공격 / 자유 / 불필요 순으로 역할 전환  <CommandIcon(8)/>특정 클래스/잡 지정"
-38,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>교환"
-39,"<CommandIcon(10)/>세부 메뉴"
-40,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>결정 <CommandIcon(9)/>닫기"
-41,"<CommandIcon(13)/>"
-42,"<CommandIcon(12)/>"
-43,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>텔레포 실행"
-44,"<CommandIcon(10)/>세부 메뉴"
-45,"<CommandIcon(8)/><CommandIcon(10)/> 세부 메뉴"
-46,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>매크로 관리 <CommandIcon(24)/>상세 정보 스크롤"
-47,"<CommandIcon(8)/>선택 <CommandIcon(11)/>목록으로 돌아가기"
-48,"<CommandIcon(8)/>선택 해제 <CommandIcon(11)/>소지품에서 선택"
-49,"<CommandIcon(11)/>소지품에서 선택"
-50,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>이 아이템 찾기"
-51,"<CommandIcon(20)/>이동  <CommandIcon(25)/>회전  <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-52,"<CommandIcon(12)/><CommandIcon(13)/>목록 전환"
-53,"<CommandIcon(24)/>상세 정보 스크롤"
-54,"<CommandIcon(10)/>선택 취소"
-55,"<CommandIcon(8)/>개인실로 이동  <CommandIcon(10)/>개인실 정보 보기"
-56,"<CommandIcon(8)/> 훈련시키기 <CommandIcon(10)/> 세부 메뉴"
-57,"<CommandIcon(8)/> 훈련시키기 <CommandIcon(10)/> 세부 메뉴"
-58,"<CommandIcon(11)/>탐험 기록 표시 <CommandIcon(10)/>세부 메뉴"
-59,"<CommandIcon(11)/>탐험의 실마리 표시 <CommandIcon(10)/>세부 메뉴"
-60,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
-61,"<CommandIcon(10)/> 세부 메뉴"
-62,"<CommandIcon(11)/> 보유카드 표시 방법 변경  <CommandIcon(10)/> 세부 메뉴"
-63,"<CommandIcon(10)/> 세부 메뉴"
-64,"<CommandIcon(11)/>결정"
-65,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>선택"
-66,"<CommandIcon(10)/>세부 메뉴"
-67,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(11)/>로그 확대"
-68,"<CommandIcon(1)/>로그 선택 <CommandIcon(11)/>로그 확대"
-69,"<CommandIcon(8)/>보조 기술로 등록"
-70,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>선택"
-71,"<CommandIcon(8)/>장비 변경  <CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경"
-72,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환 <CommandIcon(11)/>로그 확대"
-73,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그 확대"
-74,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
-75,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <CommandIcon(13)/>상용구 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-76,"<CommandIcon(3)/>뒤로  <CommandIcon(4)/>앞으로  <CommandIcon(13)/>상용구"
-77,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>적용"
-78,"<CommandIcon(11)/>적용  <CommandIcon(10)/>설정 삭제"
-79,"<CommandIcon(8)/>건너뛰기  <CommandIcon(9)/>취소"
-80,"<CommandIcon(12)/><CommandIcon(13)/>클래스 선택"
-81,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>검색 조건 설정"
-82,"<CommandIcon(5)/>순서 바꾸기  <CommandIcon(8)/>결정  <CommandIcon(9)/>취소"
-83,"<CommandIcon(7)/>이동  <CommandIcon(8)/>결정  <CommandIcon(9)/>취소"
-84,"<CommandIcon(11)/>부대 게시판 편집"
-85,"<CommandIcon(10)/>세부 메뉴"
-86,"<CommandIcon(8)/>접속 상태 확인  <CommandIcon(10)/>세부 메뉴"
-87,"<CommandIcon(11)/>적용"
-88,"<CommandIcon(11)/>적용"
-89,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>적용"
-90,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-91,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-92,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-93,"<CommandIcon(8)/>장비함에 넣기  <CommandIcon(10)/>세부 메뉴"
-94,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경"
-95,"<CommandIcon(8)/>소지품에 넣기  <CommandIcon(12)/><CommandIcon(13)/>부위 변경"
-96,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-97,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-98,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-99,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-100,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-101,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-102,"<CommandIcon(10)/>세부 메뉴"
-103,"<CommandIcon(12)/><CommandIcon(13)/>범주 선택"
-104,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(3)/><CommandIcon(4)/>페이지 넘기기"
-105,"<CommandIcon(8)/>접속 상태 확인  <CommandIcon(10)/>세부 메뉴  <CommandIcon(3)/><CommandIcon(4)/>페이지 넘기기"
-106,"<CommandIcon(24)/>상세 정보 스크롤"
-107,"<CommandIcon(8)/>사용  <CommandIcon(10)/>세부 메뉴"
-108,"<CommandIcon(10)/>단축바에 등록"
-109,"<CommandIcon(10)/>선택 <CommandIcon(11)/>참가 결정하고 닫기 <CommandIcon(24)/>상세 정보 스크롤"
-110,"<CommandIcon(10)/>첨부한 아이템 되돌리기"
-111,"<CommandIcon(8)/>건넬 아이템 선택"
-112,"<CommandIcon(5)/>스크롤"
-113,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>넣을 아이템 선택"
-114,"<CommandIcon(7)/>이동  <CommandIcon(8)/>결정  <CommandIcon(9)/>취소"
-115,"<CommandIcon(8)/>꺼내기  <CommandIcon(11)/>넣을 아이템 선택"
-116,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-117,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-118,"<CommandIcon(10)/>단축바에 등록"
-119,"<CommandIcon(10)/>세부 메뉴"
-120,"<CommandIcon(8)/>장비 탈착"
-121,"<CommandIcon(11)/>무작위 선택"
-122,"<CommandIcon(8)/>부대 문장 선택  <CommandIcon(11)/>무작위 선택"
-123,"<CommandIcon(8)/>선택  <CommandIcon(11)/>무작위 선택"
-124,"<CommandIcon(24)/>상세 정보 스크롤"
-125,"<CommandIcon(3)/><CommandIcon(4)/>이동 <CommandIcon(8)/>결정"
-126,"<CommandIcon(11)/>적용"
-127,"<CommandIcon(11)/>넣을 아이템 선택"
-128,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
-129,"<Gui(17)/>창 크기 조절 <CommandIcon(11)/>보이기/숨기기"
-130,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>내용 확인"
-131,"<CommandIcon(8)/>대표적인 낚시터 표시"
-132,"<CommandIcon(23)/>지도 스크롤"
-133,"<CommandIcon(23)/>지도 스크롤 <CommandIcon(8)/>어류도감 표시"
-134,"<CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환 <CommandIcon(11)/>로그 확대"
-135,"<CommandIcon(1)/>로그 선택 <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
-136,"<CommandIcon(11)/>넣을 아이템 선택"
-137,"<CommandIcon(10)/>변경 전으로 되돌리기"
-138,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>가구 및 조경물 목록"
-139,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>소지품 <If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/>창고/설치 목록 전환<Else/></If>"
-140,"<CommandIcon(11)/>이동"
-141,"<CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-142,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-143,"<CommandIcon(10)/>단축바에 등록"
-144,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환"
-145,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(9)/>뒤로"
-146,"<CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환"
-147,"<CommandIcon(12)/><CommandIcon(13)/>탭 전환"
-148,"<CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그 확대"
-149,"<CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
-150,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소"
-151,"<CommandIcon(10)/>세부 메뉴"
-152,"<CommandIcon(9)/>뒤로"
-153,"<CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환"
-154,"<CommandIcon(12)/><CommandIcon(13)/>클래스 선택"
-155,"<CommandIcon(12)/><CommandIcon(13)/>범주 선택 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>제작하기"
-156,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>제작"
-157,"<CommandIcon(9)/>닫기 버튼 선택"
-158,"<CommandIcon(9)/>닫기 버튼 선택"
-159,"<CommandIcon(10)/>세부 메뉴"
-160,"<CommandIcon(10)/>세부 메뉴"
-161,"<CommandIcon(10)/>세부 메뉴"
-162,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-163,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(12)/>+<CommandIcon(13)/>위치 링크"
-164,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(12)/>+<CommandIcon(13)/>위치 링크"
-165,"<CommandIcon(11)/>번호를 무작위로 입력"
-166,"<CommandIcon(10)/>세부 메뉴"
-167,"<CommandIcon(10)/>세부 메뉴"
-168,"<CommandIcon(11)/>단어를 무작위로 입력"
-169,"<CommandIcon(10)/>세부 메뉴"
-170,"<CommandIcon(11)/>규칙 설명"
-171,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>아이템 선택"
-172,"<CommandIcon(9)/>닫기 버튼 선택"
+#,Unknown0
+0,
+1,아이템 회수
+2,+ 붙여넣기 삭제 가상 키보드
+3,파티원 순서 변경  세부 메뉴
+4,이 조건으로 검색
+5,세부 메뉴  구매  판매할 아이템 선택
+6,세부 메뉴 명령어 목록 보기
+7,세부 메뉴  새 편지 쓰기
+8,세부 메뉴
+9,세부 메뉴  돌아가기
+10,첨부할 아이템 선택
+11,할 일 목록 위쪽에 표시/목록에서 빼기  상세 정보 스크롤
+12,세부 메뉴  돌아가기
+13,
+14,
+15,단축바에 등록 실행
+16,세부 메뉴
+17,스크롤 범위 전환 +확대/축소 지역 지도
+18,스크롤 범위 전환 +연결 지역 +확대/축소 지역 지도
+19,세부 메뉴
+20,세부 메뉴
+21,세부 메뉴
+22,세부 메뉴
+23,세부 메뉴  건넬 아이템 선택
+24,출품  세부 메뉴
+25,세부 메뉴  출품할 아이템 선택
+26,세부 메뉴
+27,세부 메뉴
+28,세부 메뉴  뒤로
+29,세부 메뉴  뒤로
+30,의뢰 수락 퀘스트 확인 상세 정보 스크롤
+31,검색
+32,세부 메뉴 매물 목록 보기 뒤로
+33,세부 메뉴 매물 목록 보기 뒤로 페이지 넘기기
+34,세부 메뉴
+35,새로 고침  세부 메뉴  상세 정보
+36,이 조건으로 검색
+37,방어 / 회복 / 공격 / 자유 / 불필요 순으로 역할 전환  특정 클래스/잡 지정
+38,세부 메뉴  교환
+39,세부 메뉴
+40,세부 메뉴 결정 닫기
+41,
+42,
+43,스크롤 범위 전환 +확대/축소 텔레포 실행
+44,세부 메뉴
+45, 세부 메뉴
+46,세부 메뉴 매크로 관리 상세 정보 스크롤
+47,선택 목록으로 돌아가기
+48,선택 해제 소지품에서 선택
+49,소지품에서 선택
+50,세부 메뉴 이 아이템 찾기
+51,이동  회전  +확대/축소
+52,목록 전환
+53,상세 정보 스크롤
+54,선택 취소
+55,개인실로 이동  개인실 정보 보기
+56, 훈련시키기  세부 메뉴
+57, 훈련시키기  세부 메뉴
+58,탐험 기록 표시 세부 메뉴
+59,탐험의 실마리 표시 세부 메뉴
+60,단축바에 등록 실행
+61, 세부 메뉴
+62, 보유카드 표시 방법 변경   세부 메뉴
+63, 세부 메뉴
+64,결정
+65,세부 메뉴  선택
+66,세부 메뉴
+67,세부 메뉴 로그 선택 로그 확대
+68,로그 선택 로그 확대
+69,보조 기술로 등록
+70,세부 메뉴 선택
+71,장비 변경  세부 메뉴  부위 변경
+72,세부 메뉴 로그 선택 탭 전환 로그 확대
+73,세부 메뉴  대화 입력으로 돌아가기  로그 확대
+74,세부 메뉴  대화 입력으로 돌아가기  로그를 보통 크기로 되돌리기
+75,이력 + 붙여넣기 삭제 상용구 가상 키보드
+76,뒤로  앞으로  상용구
+77,세부 메뉴  적용
+78,적용  설정 삭제
+79,건너뛰기  취소
+80,클래스 선택
+81,세부 메뉴  검색 조건 설정
+82,순서 바꾸기  결정  취소
+83,이동  결정  취소
+84,부대 게시판 편집
+85,세부 메뉴
+86,접속 상태 확인  세부 메뉴
+87,적용
+88,적용
+89,세부 메뉴  적용
+90,세부 메뉴  뒤로
+91,세부 메뉴  뒤로
+92,세부 메뉴  뒤로
+93,장비함에 넣기  세부 메뉴
+94,세부 메뉴  부위 변경
+95,소지품에 넣기  부위 변경
+96,세부 메뉴  부위 변경  뒤로
+97,세부 메뉴  부위 변경  뒤로
+98,세부 메뉴  부위 변경  뒤로
+99,세부 메뉴  부위 변경  뒤로
+100,세부 메뉴  부위 변경  뒤로
+101,세부 메뉴  부위 변경  뒤로
+102,세부 메뉴
+103,범주 선택
+104,세부 메뉴  페이지 넘기기
+105,접속 상태 확인  세부 메뉴  페이지 넘기기
+106,상세 정보 스크롤
+107,사용  세부 메뉴
+108,단축바에 등록
+109,선택 참가 결정하고 닫기 상세 정보 스크롤
+110,첨부한 아이템 되돌리기
+111,건넬 아이템 선택
+112,스크롤
+113,세부 메뉴  넣을 아이템 선택
+114,이동  결정  취소
+115,꺼내기  넣을 아이템 선택
+116,세부 메뉴  뒤로
+117,세부 메뉴  부위 변경  뒤로
+118,단축바에 등록
+119,세부 메뉴
+120,장비 탈착
+121,무작위 선택
+122,부대 문장 선택  무작위 선택
+123,선택  무작위 선택
+124,상세 정보 스크롤
+125,이동 결정
+126,적용
+127,넣을 아이템 선택
+128,세부 메뉴 로그 선택 로그를 보통 크기로 되돌리기
+129,창 크기 조절 보이기/숨기기
+130,세부 메뉴 내용 확인
+131,대표적인 낚시터 표시
+132,지도 스크롤
+133,지도 스크롤 어류도감 표시
+134,로그 선택 탭 전환 로그 확대
+135,로그 선택 로그를 보통 크기로 되돌리기
+136,넣을 아이템 선택
+137,변경 전으로 되돌리기
+138,세부 메뉴 가구 및 조경물 목록
+139,세부 메뉴 소지품  창고/설치 목록 전환
+140,이동
+141,이동 회전 +확대/축소
+142,세부 메뉴 이동 회전 +확대/축소
+143,단축바에 등록
+144,세부 메뉴 로그 선택 탭 전환
+145,세부 메뉴 뒤로
+146,로그 선택 탭 전환
+147,탭 전환
+148,대화 입력으로 돌아가기  로그 확대
+149,대화 입력으로 돌아가기  로그를 보통 크기로 되돌리기
+150,스크롤 범위 전환 +확대/축소
+151,세부 메뉴
+152,뒤로
+153,로그 선택 탭 전환
+154,클래스 선택
+155,범주 선택 세부 메뉴 제작하기
+156,세부 메뉴 제작
+157,닫기 버튼 선택
+158,닫기 버튼 선택
+159,세부 메뉴
+160,세부 메뉴
+161,세부 메뉴
+162,세부 메뉴 이동 회전 +확대/축소
+163,스크롤 범위 전환 +확대/축소 +위치 링크
+164,스크롤 범위 전환 +연결 지역 +확대/축소 +위치 링크
+165,번호를 무작위로 입력
+166,세부 메뉴
+167,세부 메뉴
+168,단어를 무작위로 입력
+169,세부 메뉴
+170,규칙 설명
+171,세부 메뉴 아이템 선택
+172,닫기 버튼 선택
 173,"------------------------
 lua 5.1.4 / MIT License
 ------------------------
@@ -233,174 +231,140 @@ LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
 ------
 ""DUALSHOCK"" and ""DualSense"" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
 Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
-174,"<CommandIcon(12)/><CommandIcon(13)/>범주 선택"
-175,"<CommandIcon(12)/><CommandIcon(13)/>작업 공정 전환 <CommandIcon(10)/>세부 메뉴"
-176,"<CommandIcon(12)/><CommandIcon(13)/>작업 공정 전환 <CommandIcon(10)/>세부 메뉴"
-177,"<CommandIcon(9)/>한 단계 뒤로  <CommandIcon(11)/>탐사 출항"
-178,"<CommandIcon(10)/>세부 메뉴"
-179,"<CommandIcon(8)/>선택 <CommandIcon(9)/>닫기 <CommandIcon(11)/>결정하고 닫기"
-180,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-181,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>적용하고 닫기"
-182,"<CommandIcon(9)/>적용하고 닫기"
-183,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>꼬마 친구 목록 보이기"
-184,"<CommandIcon(8)/>불러내기"
-185,"<CommandIcon(24)/>도움말 스크롤"
-186,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(11)/>꼬마 친구 단축바 편집 <CommandIcon(8)/>실행"
-187,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>각 시설의 기능을 알아봅시다!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>비전석<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+174,범주 선택
+175,작업 공정 전환 세부 메뉴
+176,작업 공정 전환 세부 메뉴
+177,한 단계 뒤로  탐사 출항
+178,세부 메뉴
+179,선택 닫기 결정하고 닫기
+180,이력 + 붙여넣기 삭제 가상 키보드
+181,세부 메뉴 적용하고 닫기
+182,적용하고 닫기
+183,세부 메뉴 꼬마 친구 목록 보이기
+184,불러내기
+185,도움말 스크롤
+186,단축바에 등록 꼬마 친구 단축바 편집 실행
+187,"**각 시설의 기능을 알아봅시다!**
+**비전석**
  양 진영에 각 3개씩 설치되어 있습니다. 적의 비전석을 모두 파괴하면 승리합니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>소환진<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**소환진**
  꼬마 친구는 선택한 소환진을 통해 소환됩니다. 또, 아군 소환진에 꼬마 친구가 들어가면 꼬마 친구의 HP가 회복됩니다. 소환진이 파괴되어도 소환은 가능하지만, 꼬마 친구가 소환진을 출입할 수 없게 됩니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>탐색의 눈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**탐색의 눈**
  적 꼬마 친구의 위치를 파악하는 시설입니다. 파괴되면 아군으로부터 멀리 떨어진 적 꼬마 친구가 보이지 않게 됩니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>방어막<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**방어막**
  비전석을 지키는 시설입니다. 파괴되면 비전석이 적에게 받는 피해량이 증가합니다.
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>시설 파괴 및 복구에 대해서<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**시설 파괴 및 복구에 대해서**
  비전석을 제외한 모든 시설은 파괴되면 일시적으로 기능을 상실합니다. 단, 파괴 후 일정 시간이 지나면 복구되어 본래 기능을 발휘할 수 있게 됩니다.
  ※ 파괴된 시설 가까이에 꼬마 친구를 배치하면 복구 속도가 향상됩니다.
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>'파괴 특화'를 활용하세요<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**'파괴 특화'를 활용하세요**
  '파괴 특화'란, 시설을 공격할 때 더 큰 피해를 줄 수 있는 능력입니다. 일부 꼬마 친구는 각 시설의 종류에 대응하는 '파괴 특화' 능력을 가지고 있습니다.
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>'특수기'로 역전을 노리세요<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**'특수기'로 역전을 노리세요**
  '특수기'를 발동하려면 다음 조건을 만족해야 합니다.
  ・같은 종류의 꼬마 친구가 '4마리 이상' 모여있을 것
  ・가까이 모인 꼬마 친구 4마리의 '특수기 포인트'가 가득 차 있을 것
    ('특수기 포인트'는 시간이 흐르면 축적됩니다.)
  위 조건을 만족하는 꼬마 친구 하나를 선택하고, 메뉴에서 '특수기 발동'을 선택하면 발동됩니다.
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>'함정'을 활용하세요<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**'함정'을 활용하세요**
  일부 꼬마 친구는 특수기로 '함정'을 설치할 수 있습니다. 함정은 설치 후 10초가 지나야 발동 가능해집니다. 함정을 발동할 때는 메뉴에서 '함정 발동'을 선택하세요.
  ※ 함정은 한 번에 1개만 설치할 수 있습니다.
 
-<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꼬마 친구 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**컨트롤러 조작 방법**
+**꼬마 친구 선택**
  ・꼬마 친구 하나 선택
-   <CommandIcon(12)/>+<CommandIcon(7)/>: 꼬마 친구 파티 목록에서 꼬마 친구를 선택
+   +: 꼬마 친구 파티 목록에서 꼬마 친구를 선택
  ・꼬마 친구 여럿 선택
-   <CommandIcon(11)/>: 조준원 안에 들어온 꼬마 친구를 선택
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>특수 기능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+   : 조준원 안에 들어온 꼬마 친구를 선택
+**특수 기능**
  ・일반 조작법
-   <Gui(17)/>: 다음 소환진 선택
-   <CommandIcon(15)/>: 꼬마 친구 파티 목록 표시 전환
-   <Gui(16)/>: 소환 예약 목록 선택
-   <CommandIcon(12)/>+<Gui(10)/>: 특수기 발동
-   <CommandIcon(13)/>+<CommandIcon(20)/>: 지면 대상 지점 이동
-   <CommandIcon(18)/>: 도움말 표시
+   : 다음 소환진 선택
+   : 꼬마 친구 파티 목록 표시 전환
+   : 소환 예약 목록 선택
+   +: 특수기 발동
+   +: 지면 대상 지점 이동
+   : 도움말 표시
  ・꼬마 친구 선택
-   <CommandIcon(12)/>+<Gui(11)/>: 선택한 꼬마 친구와 같은 주위 꼬마 친구 모두 선택
-   <CommandIcon(12)/>+<Gui(8)/>: 선택한 꼬마 친구 주위 아군 꼬마 친구 모두 선택
-   <CommandIcon(12)/>+<Gui(9)/>: 선택한 대상과 같은 아군 꼬마 친구 모두 선택
+   +: 선택한 꼬마 친구와 같은 주위 꼬마 친구 모두 선택
+   +: 선택한 꼬마 친구 주위 아군 꼬마 친구 모두 선택
+   +: 선택한 대상과 같은 아군 꼬마 친구 모두 선택
  ・미니맵 조작
-   <CommandIcon(14)/> 누르고 있는 동안: 맵 이동 지점 기록=버튼을 떼면 해당 위치로 이동
-   <CommandIcon(14)/>+<CommandIcon(23)/>: 맵 이동 지점 선택
-   <CommandIcon(14)/>+<Gui(17)/>: 맵 이동 지점 초기화
+    누르고 있는 동안: 맵 이동 지점 기록=버튼을 떼면 해당 위치로 이동
+   +: 맵 이동 지점 선택
+   +: 맵 이동 지점 초기화
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마우스 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꼬마 친구 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- 왼쪽 클릭: 꼬마 친구 하나 선택
-   ※ 선택한 꼬마 친구를 다시 왼쪽 클릭하면 주변에 있는 같은 꼬마 친구를 모두 선택합니다.
- 왼쪽 끌기: 범위 안의 꼬마 친구를 모두 선택
-<Else/><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마우스 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꼬마 친구 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**마우스 조작 방법**
+**꼬마 친구 선택**
  왼쪽 클릭: 꼬마 친구 하나 선택
    ※ 선택한 꼬마 친구를 다시 왼쪽 클릭하면 주변에 있는 같은 꼬마 친구를 모두 선택합니다.
  왼쪽 끌기: 범위 안의 꼬마 친구를 모두 선택
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꼬마 친구 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- ・꼬마 친구 하나 선택
-   <CommandIcon(12)/>+<CommandIcon(7)/>: 꼬마 친구 파티 목록에서 꼬마 친구를 선택
- ・꼬마 친구 여럿 선택
-   <CommandIcon(11)/>: 조준원 안에 들어온 꼬마 친구를 선택
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>특수 기능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
- ・일반 조작법
-   <Gui(17)/>: 다음 소환진 선택
-   <CommandIcon(15)/>: 꼬마 친구 파티 목록 표시 전환
-   <Gui(16)/>: 소환 예약 목록 선택
-   <CommandIcon(12)/>+<Gui(10)/>: 특수기 발동
-   <CommandIcon(13)/>+<CommandIcon(20)/>: 지면 대상 지점 이동
-   <CommandIcon(13)/>＋<Gui(16)/>: 지면 대상 지점 초기화
-   <CommandIcon(18)/>: 도움말 표시
- ・꼬마 친구 선택
-   <CommandIcon(12)/>+<Gui(11)/>: 선택한 꼬마 친구와 같은 주위 꼬마 친구 모두 선택
-   <CommandIcon(12)/>+<Gui(8)/>: 선택한 꼬마 친구 주위 아군 꼬마 친구 모두 선택
-   <CommandIcon(12)/>+<Gui(9)/>: 선택한 대상과 같은 아군 꼬마 친구 모두 선택
- ・미니맵 조작
-   <CommandIcon(14)/> 누르고 있는 동안: 맵 이동 지점 기록=버튼을 떼면 해당 위치로 이동
-   <CommandIcon(14)/>+<CommandIcon(23)/>: 맵 이동 지점 선택
-   <CommandIcon(14)/>+<Gui(17)/>: 맵 이동 지점 초기화
-</If>
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>키보드 단축키<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**키보드 단축키**
 대결 중에는 다음과 같이 키 기능이 변경됩니다.
-<If(Equal(PlayerParameter(75),1))><Else/>  단축바 1의 1~12번 칸: 꼬마 친구 단축바 하단
-  꼬마 친구 단축바 상단: 단축바 2의 1~12번 칸
-  단축바 3의 1번 칸: 특수기 발동
-  단축바 3의 2번 칸: 함정 발동
-  단축바 3의 3번 칸: 귀환
-</If>  점프: 조준원 켜기
+  점프: 조준원 켜기
   무기 넣기/꺼내기: 다음 소환진 선택
   꼬마 친구 목록: 꼬마 친구 공방전 목록"
-188,"<CommandIcon(8)/>선택 <CommandIcon(11)/>탐사 출항 <CommandIcon(24)/>상세 정보 스크롤"
-189,"<CommandIcon(8)/>메뉴 순서 및 계층 변경  <CommandIcon(10)/>표시/표시 끄기  <CommandIcon(11)/>적용"
-190,"<CommandIcon(10)/>세부 메뉴"
-191,"<CommandIcon(5)/>순서 바꾸기  <CommandIcon(6)/>계층 변경  <CommandIcon(8)/><CommandIcon(9)/>결정  <CommandIcon(10)/>표시하기/끄기  <CommandIcon(11)/>적용"
-192,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>미리 듣기 <CommandIcon(11)/>재생할 곡으로 설정<CommandIcon(10)/>세부 메뉴"
-193,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>재생할 곡으로 설정 <CommandIcon(11)/>미리 듣기 중지<CommandIcon(10)/>세부 메뉴"
-194,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>재생 중지<CommandIcon(10)/>세부 메뉴"
-195,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>재생 중지<CommandIcon(10)/>세부 메뉴"
-196,"<CommandIcon(8)/>재매입"
-197,"<CommandIcon(10)/>장비 세부 메뉴"
-198,"<CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-199,"<CommandIcon(10)/>장비 세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-200,"<CommandIcon(8)/>선택 <CommandIcon(11)/>시작 <CommandIcon(24)/>상세 정보 스크롤"
-201,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택"
-202,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴 <CommandIcon(12)/><CommandIcon(13)/>선택 목록 전환"
-203,"<CommandIcon(8)/>역할 순서 변경  <CommandIcon(11)/>적용"
-204,"<CommandIcon(5)/>순서 바꾸기 <CommandIcon(8)/><CommandIcon(9)/>결정 <CommandIcon(11)/>적용"
-205,"<CommandIcon(10)/>선택 <CommandIcon(11)/>참가 결정하고 닫기 <CommandIcon(24)/>상세 정보 스크롤"
-206,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>내용 확인"
-207,"<CommandIcon(9)/>닫기 <CommandIcon(24)/>스크롤"
-208,"<CommandIcon(9)/>닫기 <CommandIcon(24)/>상세 정보 스크롤"
-209,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>결정 <CommandIcon(9)/>취소"
-210,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>결정 <CommandIcon(9)/>취소"
-211,"<CommandIcon(8)/>미리 듣기 <CommandIcon(11)/>재생<CommandIcon(10)/>세부 메뉴"
-212,"<CommandIcon(8)/>재생 <CommandIcon(11)/>미리 듣기 중지<CommandIcon(10)/>세부 메뉴"
-213,"<CommandIcon(8)/>재생 중지<CommandIcon(10)/>세부 메뉴"
-214,"<CommandIcon(11)/>부대 편성"
-215,"<CommandIcon(8)/>결정  <CommandIcon(9)/>닫기"
-216,"<CommandIcon(10)/>세부 메뉴"
-217,"<CommandIcon(10)/>세부 메뉴"
-218,"<CommandIcon(10)/>세부 메뉴"
-219,"<CommandIcon(14)/><CommandIcon(15)/>고정 시점 카메라 전환 <CommandIcon(18)/>메뉴 표시"
-220,"<CommandIcon(8)/>개인실로 이동  <CommandIcon(10)/>개인실 정보 보기"
-221,"<CommandIcon(10)/>세부 메뉴"
-222,"<CommandIcon(10)/>세부 메뉴"
-223,"<CommandIcon(23)/>스크롤  <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소  <CommandIcon(13)/>고정 시점 카메라 전환"
-224,"<CommandIcon(10)/>세부 메뉴"
-225,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>환경 전환"
-226,"<CommandIcon(9)/>닫기 <CommandIcon(24)/>스크롤"
-227,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(8)/>추가 <CommandIcon(10)/>세부 메뉴"
-228,"<CommandIcon(10)/>세부 메뉴"
-229,"<CommandIcon(10)/>세부 메뉴"
-230,"<CommandIcon(10)/>장비 세부 메뉴"
-231,"<CommandIcon(10)/>장비 세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-232,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-233,"<CommandIcon(10)/>세부 메뉴"
-234,"<CommandIcon(10)/>세부 메뉴"
-235,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
-236,"<CommandIcon(8)/>PvP 역할 기술로 설정"
-237,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
-238,"<CommandIcon(3)/><CommandIcon(4)/>이동 <CommandIcon(8)/>결정"
-239,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소"
-240,"<CommandIcon(8)/>PvP 특성으로 설정"
-241,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-242,"<CommandIcon(9)/> 포기 선택"
-243,"<CommandIcon(9)/> 닫기 선택"
-244,"<CommandIcon(5)/>스크롤 <CommandIcon(9)/>닫기"
-245,"<CommandIcon(11)/>부대 편성"
-246,"<CommandIcon(8)/>접속 상태 확인  <CommandIcon(10)/>세부 메뉴"
+188,선택 탐사 출항 상세 정보 스크롤
+189,메뉴 순서 및 계층 변경  표시/표시 끄기  적용
+190,세부 메뉴
+191,순서 바꾸기  계층 변경  결정  표시하기/끄기  적용
+192,분류 선택 미리 듣기 재생할 곡으로 설정세부 메뉴
+193,분류 선택 재생할 곡으로 설정 미리 듣기 중지세부 메뉴
+194,분류 선택 재생 중지세부 메뉴
+195,분류 선택 재생 중지세부 메뉴
+196,재매입
+197,장비 세부 메뉴
+198,이동 회전 +확대/축소
+199,장비 세부 메뉴 이동 회전 +확대/축소
+200,선택 시작 상세 정보 스크롤
+201,분류 선택
+202,세부 메뉴 선택 목록 전환
+203,역할 순서 변경  적용
+204,순서 바꾸기 결정 적용
+205,선택 참가 결정하고 닫기 상세 정보 스크롤
+206,세부 메뉴 내용 확인
+207,닫기 스크롤
+208,닫기 상세 정보 스크롤
+209,세부 메뉴 결정 취소
+210,세부 메뉴 결정 취소
+211,미리 듣기 재생세부 메뉴
+212,재생 미리 듣기 중지세부 메뉴
+213,재생 중지세부 메뉴
+214,부대 편성
+215,결정  닫기
+216,세부 메뉴
+217,세부 메뉴
+218,세부 메뉴
+219,고정 시점 카메라 전환 메뉴 표시
+220,개인실로 이동  개인실 정보 보기
+221,세부 메뉴
+222,세부 메뉴
+223,스크롤  +확대/축소  고정 시점 카메라 전환
+224,세부 메뉴
+225,세부 메뉴 환경 전환
+226,닫기 스크롤
+227,분류 선택 추가 세부 메뉴
+228,세부 메뉴
+229,세부 메뉴
+230,장비 세부 메뉴
+231,장비 세부 메뉴 이동 회전 +확대/축소
+232,세부 메뉴
+233,세부 메뉴
+234,세부 메뉴
+235,단축바에 등록 실행
+236,PvP 역할 기술로 설정
+237,단축바에 등록 실행
+238,이동 결정
+239,스크롤 범위 전환 +연결 지역 +확대/축소
+240,PvP 특성으로 설정
+241,세부 메뉴
+242, 포기 선택
+243, 닫기 선택
+244,스크롤 닫기
+245,부대 편성
+246,접속 상태 확인  세부 메뉴
 247,"악기 연주를 이용하여 제삼자의 권리를 침해할 음악을 연주하는 행위는
 엄격히 금지되어 있습니다.
 파이널판타지14 저작물 이용 허락 조건에 따르는 범위 내에서
@@ -409,315 +373,301 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 이에 동의합니다.
 단, 타인의 공개된 연주를 무단으로 수정하거나 이윤을 추구하는
 판매행위는 불가합니다."
-248,"<CommandIcon(10)/>세부 메뉴"
-249,"<CommandIcon(11)/>시작/포기"
-250,"<CommandIcon(11)/>시작/재도전 <CommandIcon(10)/>닫기"
-251,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>넣을 아이템 선택"
-252,"<CommandIcon(7)/>이동  <CommandIcon(8)/>결정  <CommandIcon(9)/>취소"
-253,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-254,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-255,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(12)/><CommandIcon(13)/>부위 변경  <CommandIcon(9)/>뒤로"
-256,"<CommandIcon(11)/>적용"
-257,"<CommandIcon(8)/>현재 속성에 마정석 추가　<CommandIcon(10)/>현재 속성에서 마정석 해제"
-258,"<CommandIcon(11)/>창 전환  <CommandIcon(10)/>세부 메뉴"
-259,"<CommandIcon(9)/><CommandIcon(11)/>창 전환  <CommandIcon(10)/>세부 메뉴"
-260,"<CommandIcon(10)/>세부 메뉴"
-261,"<CommandIcon(9)/>투영세트로 돌아가기"
-262,"<CommandIcon(10)/>세부 메뉴　<CommandIcon(9)/>투영세트로 돌아가기"
-263,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(20)/>이동  <CommandIcon(25)/>회전  <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-264,"<CommandIcon(10)/>세부 메뉴"
-265,"<CommandIcon(10)/>세부 메뉴"
-266,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-267,"<CommandIcon(9)/>닫기"
-268,"<CommandIcon(10)/>세부 메뉴"
-269,"<CommandIcon(11)/>모두 선택/해제"
-270,"<CommandIcon(10)/>세부 메뉴"
-271,"<CommandIcon(8)/>기부 취소 <CommandIcon(11)/>기부할 아이템 선택"
-272,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>뒤로"
-273,"<CommandIcon(24)/>상세 정보 스크롤"
-274,"<CommandIcon(10)/><CommandIcon(8)/>세부 메뉴"
-275,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>위치 변경"
-276,"<CommandIcon(11)/>기부할 아이템 선택"
-277,"<CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>꼬마 친구 단축바 편집"
-278,"<CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>위치 변경"
-279,"<CommandIcon(7)/>이동 <CommandIcon(11)/><CommandIcon(8)/>결정 <CommandIcon(9)/>취소"
-280,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-281,"<CommandIcon(5)/>이동 <CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴"
-282,"<CommandIcon(8)/>실행 <CommandIcon(10)/>세부 메뉴"
-283,"<CommandIcon(8)/>실행 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>위치 변경"
-284,"<CommandIcon(7)/>이동 <CommandIcon(11)/><CommandIcon(8)/>결정 <CommandIcon(9)/>취소"
-285,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-286,"<CommandIcon(5)/>이동 <CommandIcon(8)/>실행 <CommandIcon(10)/>세부 메뉴"
-287,"<CommandIcon(7)/>이동 <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/>결정 <CommandIcon(9)/>취소"
-288,"<CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴"
-289,"<CommandIcon(11)/>새 편지 쓰기"
-290,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>받기"
-291,"<CommandIcon(8)/>활성 기술 등록"
-292,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>위치 변경"
-293,"<CommandIcon(7)/>이동  <CommandIcon(8)/>결정  <CommandIcon(9)/>취소"
-294,"<CommandIcon(9)/>닫기"
-295,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>선택  <CommandIcon(9)/>융합기  <CommandIcon(11)/>로고스 기술"
-296,"<CommandIcon(8)/>발동  <CommandIcon(11)/>닫기"
-297,"<CommandIcon(11)/>로고스 샤드  <CommandIcon(10)/>세부 메뉴"
-298,"<CommandIcon(10)/><CommandIcon(8)/>세부 메뉴"
-299,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/><CommandIcon(11)/>융합기"
-300,"<CommandIcon(11)/>로고스 샤드  <CommandIcon(9)/>닫기"
-301,"<CommandIcon(10)/>세부 메뉴"
-302,"<CommandIcon(10)/>세부 메뉴"
-303,"<CommandIcon(8)/><CommandIcon(10)/>개인실 정보 보기"
-304,"<CommandIcon(8)/><CommandIcon(10)/>개인실 정보 보기"
-305,"<CommandIcon(10)/>삭제<If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-306,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-307,"<CommandIcon(8)/>실행 <CommandIcon(10)/>단축바에 등록 <CommandIcon(11)/>꼬마 친구 단축바 편집"
-308,"<CommandIcon(8)/>실행 <CommandIcon(10)/>단축바에 등록 "
-309,"<CommandIcon(8)/>실행 <CommandIcon(10)/>단축바에 등록 "
-310,"<CommandIcon(12)/><CommandIcon(13)/>페이즈 전환"
-311,"<CommandIcon(8)/>결정 <CommandIcon(24)/>상세 정보 스크롤"
-312,"<CommandIcon(8)/>결정"
-313,"<CommandIcon(10)/>부르기 설정 변경 <CommandIcon(11)/>보조 기능 메뉴"
-314,"<CommandIcon(8)/>접속 상태 확인  <CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>돌아가기"
-315,"<CommandIcon(12)/><CommandIcon(13)/>페이즈 전환　<CommandIcon(8)/>유효한 상태 이상 확인"
-316,"<CommandIcon(8)/>선택  <CommandIcon(10)/>세부 메뉴"
-317,"<CommandIcon(8)/>선택  <CommandIcon(10)/>세부 메뉴"
-318,"<CommandIcon(5)/>스크롤"
-319,"<CommandIcon(8)/>건넬 아이템 선택"
-320,"<CommandIcon(8)/>파티원 선택/해제"
-321,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>파티원 선택/해제"
-322,"<CommandIcon(8)/>선택/취소  <CommandIcon(10)/>분류 내 다른 조건 선택/취소  <CommandIcon(11)/>결정"
-323,"<CommandIcon(9)/>닫기 <CommandIcon(24)/>상세 정보 스크롤"
-324,"<CommandIcon(8)/>선택 <CommandIcon(9)/>닫기 <CommandIcon(11)/>결정 후 닫기 <CommandIcon(24)/>상세 정보 스크롤"
-325,"<CommandIcon(8)/>상세 정보로 이동  <CommandIcon(24)/>상세 정보 스크롤  <CommandIcon(10)/>세부 메뉴"
-326,"<CommandIcon(10)/>세부 메뉴"
-327,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>간이 채집 켜기/끄기"
-328,"<CommandIcon(8)/>상세 정보 표시  <CommandIcon(24)/>상세 정보 스크롤  <CommandIcon(10)/>세부 메뉴"
-329,"<CommandIcon(10)/>세부 메뉴"
-330,"<CommandIcon(10)/>세부 메뉴"
-331,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
-332,"<CommandIcon(10)/>세부 메뉴"
-333,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(8)/>실행"
-334,"<CommandIcon(24)/>상세 정보 스크롤"
-335,"<CommandIcon(10)/>세부 메뉴"
-336,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>제작 UI로 돌아가기 <CommandIcon(9)/>닫기"
-337,"<CommandIcon(10)/>세부 메뉴"
-338,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>선택"
-339,"<CommandIcon(11)/>적용"
-340,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
-341,"<CommandIcon(10)/>세부 메뉴"
-342,"<CommandIcon(9)/>퍼즐 더미로 돌아가기"
-343,"<CommandIcon(9)/>닫기 버튼으로"
-344,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>돌아가기"
-345,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>실행"
-346,"<CommandIcon(8)/>사용하기  <CommandIcon(11)/>전과 정보로 돌아가기"
-347,"<CommandIcon(7)/>이동  <CommandIcon(8)/>패널 뒤집기"
-348,"<CommandIcon(8)/>로스트 휴대함에 넣기  <CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>로스트 휴대함 조작"
-349,"<CommandIcon(8)/>사용하기  <CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>전과 정보로 돌아가기"
-350,"<CommandIcon(8)/>로스트 보관함에 넣기  <CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>로스트 보관함 조작"
-351,"<CommandIcon(11)/>전과 정보로 돌아가기"
-352,"<CommandIcon(11)/>로스트 보관함 조작"
-353,"<CommandIcon(11)/>추천 편성"
-354,"<CommandIcon(9)/>닫기"
-355,"<CommandIcon(24)/>상세 정보 스크롤"
-356,"<CommandIcon(10)/>세부 메뉴"
-357,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>교환"
-358,"<CommandIcon(10)/>세부 메뉴"
-359,"<CommandIcon(10)/>지도 표시"
-360,"<CommandIcon(1)/>"
-361,"<CommandIcon(2)/>"
-362,"<CommandIcon(3)/>"
-363,"<CommandIcon(4)/>"
-364,"<CommandIcon(5)/>"
-365,"<CommandIcon(6)/>"
-366,"<CommandIcon(7)/>"
-367,"<CommandIcon(8)/>"
-368,"<CommandIcon(9)/>"
-369,"<CommandIcon(10)/>"
-370,"<CommandIcon(11)/>"
-371,"<CommandIcon(12)/>"
-372,"<CommandIcon(13)/>"
-373,"<CommandIcon(14)/>"
-374,"<CommandIcon(15)/>"
-375,"<Gui(16)/>"
-376,"<Gui(17)/>"
-377,"<CommandIcon(18)/>"
-378,"<CommandIcon(19)/>"
-379,"<CommandIcon(20)/>"
-380,"<CommandIcon(21)/>"
-381,"<CommandIcon(22)/>"
-382,"<CommandIcon(23)/>"
-383,"<CommandIcon(24)/>"
-384,"<CommandIcon(25)/>"
-385,"<CommandIcon(11)/>빠른 스크롤 <CommandIcon(10)/>세부 메뉴"
-386,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
-387,"<CommandIcon(8)/>보상 받기  <CommandIcon(10)/>세부 메뉴"
-388,"<CommandIcon(10)/>세부 메뉴"
-389,"<CommandIcon(10)/>세부 메뉴"
-390,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택 <CommandIcon(10)/>세부 메뉴"
-391,"<CommandIcon(12)/><CommandIcon(13)/>분류 선택  <CommandIcon(8)/>지도 열기"
-392,"<CommandIcon(5)/>에테라이트 선택 <CommandIcon(8)/>이동 <CommandIcon(11)/>직전 이동 지점 <CommandIcon(23)/>맵 조작"
-393,"<CommandIcon(23)/>스크롤 <CommandIcon(7)/>목록 조작 <CommandIcon(11)/>직전 이동 지점"
-394,"<CommandIcon(23)/>스크롤 <CommandIcon(8)/>이동 <CommandIcon(11)/>직전 이동 지점 <CommandIcon(7)/>목록 조작"
-395,"<CommandIcon(10)/>역할 변경  <CommandIcon(8)/>특정 직업 지정  <CommandIcon(11)/>이 조건으로 검색"
-396,"<CommandIcon(10)/>전체 선택/해제  <CommandIcon(11)/>이 조건으로 검색"
-397,"<CommandIcon(10)/>역할/개별 직업 선택 전환"
-398,"<CommandIcon(10)/>전체 지역/개별 지역 선택 전환"
-399,"<CommandIcon(11)/>결정하고 닫기"
-400,"<CommandIcon(23)/>스크롤 <CommandIcon(11)/>범위 전환 <CommandIcon(12)/>+<CommandIcon(10)/>연결 지역 <CommandIcon(12)/>+<CommandIcon(23)/>확대/축소 <CommandIcon(8)/>텔레포 실행"
-401,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>참가 결정하고 닫기 <CommandIcon(24)/>상세 정보 스크롤"
-402,"<CommandIcon(9)/>목록으로 돌아가기 <CommandIcon(24)/>상세 정보 스크롤"
-403,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(24)/>상세 정보 스크롤"
-404,"<CommandIcon(24)/>상세 정보 스크롤"
-405,"<CommandIcon(8)/><CommandIcon(11)/>미리보기 <CommandIcon(10)/>세부 메뉴 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-406,"<CommandIcon(11)/>입장 결정하고 닫기  <CommandIcon(10)/>파티원 편성"
-407,"<CommandIcon(8)/>파티원 선택/해제  <CommandIcon(9)/>편성 종료"
-408,"트러스트"
+248,세부 메뉴
+249,시작/포기
+250,시작/재도전 닫기
+251,세부 메뉴  넣을 아이템 선택
+252,이동  결정  취소
+253,세부 메뉴  뒤로
+254,세부 메뉴  뒤로
+255,세부 메뉴  부위 변경  뒤로
+256,적용
+257,현재 속성에 마정석 추가　현재 속성에서 마정석 해제
+258,창 전환  세부 메뉴
+259,창 전환  세부 메뉴
+260,세부 메뉴
+261,투영세트로 돌아가기
+262,세부 메뉴　투영세트로 돌아가기
+263,세부 메뉴  이동  회전  +확대/축소
+264,세부 메뉴
+265,세부 메뉴
+266,세부 메뉴
+267,닫기
+268,세부 메뉴
+269,모두 선택/해제
+270,세부 메뉴
+271,기부 취소 기부할 아이템 선택
+272,세부 메뉴  뒤로
+273,상세 정보 스크롤
+274,세부 메뉴
+275,세부 메뉴 위치 변경
+276,기부할 아이템 선택
+277,부르기/돌려보내기 세부 메뉴 꼬마 친구 단축바 편집
+278,부르기/돌려보내기 세부 메뉴 위치 변경
+279,이동 결정 취소
+280,이력 + 붙여넣기 가상 키보드
+281,이동 부르기/돌려보내기 세부 메뉴
+282,실행 세부 메뉴
+283,실행 세부 메뉴 위치 변경
+284,이동 결정 취소
+285,이력 + 붙여넣기 가상 키보드
+286,이동 실행 세부 메뉴
+287,이동 결정 취소
+288,부르기/돌려보내기 세부 메뉴
+289,새 편지 쓰기
+290,세부 메뉴  받기
+291,활성 기술 등록
+292,세부 메뉴  위치 변경
+293,이동  결정  취소
+294,닫기
+295,세부 메뉴  선택  융합기  로고스 기술
+296,발동  닫기
+297,로고스 샤드  세부 메뉴
+298,세부 메뉴
+299,세부 메뉴  융합기
+300,로고스 샤드  닫기
+301,세부 메뉴
+302,세부 메뉴
+303,개인실 정보 보기
+304,개인실 정보 보기
+305,삭제가상 키보드
+306,세부 메뉴
+307,실행 단축바에 등록 꼬마 친구 단축바 편집
+308,실행 단축바에 등록 
+309,실행 단축바에 등록 
+310,페이즈 전환
+311,결정 상세 정보 스크롤
+312,결정
+313,부르기 설정 변경 보조 기능 메뉴
+314,접속 상태 확인  세부 메뉴  돌아가기
+315,페이즈 전환　유효한 상태 이상 확인
+316,선택  세부 메뉴
+317,선택  세부 메뉴
+318,스크롤
+319,건넬 아이템 선택
+320,파티원 선택/해제
+321,세부 메뉴  파티원 선택/해제
+322,선택/취소  분류 내 다른 조건 선택/취소  결정
+323,닫기 상세 정보 스크롤
+324,선택 닫기 결정 후 닫기 상세 정보 스크롤
+325,상세 정보로 이동  상세 정보 스크롤  세부 메뉴
+326,세부 메뉴
+327,세부 메뉴 간이 채집 켜기/끄기
+328,상세 정보 표시  상세 정보 스크롤  세부 메뉴
+329,세부 메뉴
+330,세부 메뉴
+331,세부 메뉴 페이지 넘기기
+332,세부 메뉴
+333,단축바에 등록 실행
+334,상세 정보 스크롤
+335,세부 메뉴
+336,세부 메뉴 제작 UI로 돌아가기 닫기
+337,세부 메뉴
+338,세부 메뉴  선택
+339,적용
+340,세부 메뉴 페이지 넘기기
+341,세부 메뉴
+342,퍼즐 더미로 돌아가기
+343,닫기 버튼으로
+344,세부 메뉴  돌아가기
+345,세부 메뉴 실행
+346,사용하기  전과 정보로 돌아가기
+347,이동  패널 뒤집기
+348,로스트 휴대함에 넣기  세부 메뉴  로스트 휴대함 조작
+349,사용하기  세부 메뉴  전과 정보로 돌아가기
+350,로스트 보관함에 넣기  세부 메뉴  로스트 보관함 조작
+351,전과 정보로 돌아가기
+352,로스트 보관함 조작
+353,추천 편성
+354,닫기
+355,상세 정보 스크롤
+356,세부 메뉴
+357,세부 메뉴  교환
+358,세부 메뉴
+359,지도 표시
+360,
+361,
+362,
+363,
+364,
+365,
+366,
+367,
+368,
+369,
+370,
+371,
+372,
+373,
+374,
+375,
+376,
+377,
+378,
+379,
+380,
+381,
+382,
+383,
+384,
+385,빠른 스크롤 세부 메뉴
+386,이력 + 붙여넣기 삭제 가상 키보드
+387,보상 받기  세부 메뉴
+388,세부 메뉴
+389,세부 메뉴
+390,분류 선택 세부 메뉴
+391,분류 선택  지도 열기
+392,에테라이트 선택 이동 직전 이동 지점 맵 조작
+393,스크롤 목록 조작 직전 이동 지점
+394,스크롤 이동 직전 이동 지점 목록 조작
+395,역할 변경  특정 직업 지정  이 조건으로 검색
+396,전체 선택/해제  이 조건으로 검색
+397,역할/개별 직업 선택 전환
+398,전체 지역/개별 지역 선택 전환
+399,결정하고 닫기
+400,스크롤 범위 전환 +연결 지역 +확대/축소 텔레포 실행
+401,세부 메뉴 참가 결정하고 닫기 상세 정보 스크롤
+402,목록으로 돌아가기 상세 정보 스크롤
+403,세부 메뉴 상세 정보 스크롤
+404,상세 정보 스크롤
+405,미리보기 세부 메뉴 이동 회전 +확대/축소
+406,입장 결정하고 닫기  파티원 편성
+407,파티원 선택/해제  편성 종료
+408,트러스트
 409,"주요 퀘스트에서 공략한 레벨 71 이후의 일반 던전은
-동료 NPC의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>환영체<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와 함께 다시 공략할 수 있습니다.
+동료 NPC의 **환영체**와 함께 다시 공략할 수 있습니다.
 공략에 참가한 환영체는 경험치를 얻고 레벨을 올릴 수 있습니다.
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ '트러스트'를 이용하여 일반 던전을 공략할 경우,
-일부 보물 상자의 내용물이 줄어들며 일부 적에게서 보상을 얻을 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-410,"장비 투영"
+**※ '트러스트'를 이용하여 일반 던전을 공략할 경우,
+일부 보물 상자의 내용물이 줄어들며 일부 적에게서 보상을 얻을 수 없습니다.**"
+410,장비 투영
 411,"80레벨에 도달한 동료 NPC의 환영체는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>장비 투영<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 할 수 있습니다.
+**장비 투영**을 할 수 있습니다.
 파티원 선택 화면의 상세 정보 칸에서
 장비 투영 아이콘을 누르거나
 캐릭터 세부 메뉴에서 '장비 투영'을 선택하면
 외형을 변경할 수 있습니다."
-412,"환영체 제한"
-413,"환영체 중에는 일부 던전에 동행할 수 없는 환영체도 있습니다."
-414,"던전 입장 방법"
-415,"던전에는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC와 함께 혼자 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하거나
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭 기능을 이용<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다른 플레이어와 함께 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>할 수 있습니다.
+412,환영체 제한
+413,환영체 중에는 일부 던전에 동행할 수 없는 환영체도 있습니다.
+414,던전 입장 방법
+415,"던전에는 **지원 NPC와 함께 혼자 입장**하거나
+**매칭 기능을 이용**하여 **다른 플레이어와 함께 입장**할 수 있습니다.
 
 물론 미리 파티를 짜서 입장할 수도 있으며,
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장 방법이 달라도 똑같이 던전을 공략할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**입장 방법이 달라도 똑같이 던전을 공략할 수 있습니다.**
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 지원 NPC와 함께 공략할 경우, 형평성을 위해
-일부 보물 상자의 내용물이 줄어들며 일부 적에게서 보상을 얻을 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-416,"임무 지원"
-417,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 도움을 받으며
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>혼자서 던전을 공략할 수 있습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-이 시스템을 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라고 부릅니다.
+**※ 지원 NPC와 함께 공략할 경우, 형평성을 위해
+일부 보물 상자의 내용물이 줄어들며 일부 적에게서 보상을 얻을 수 없습니다.**"
+416,임무 지원
+417,"**지원 NPC**의 도움을 받으며
+**혼자서 던전을 공략할 수 있습니다.**
+이 시스템을 **임무 지원**이라고 부릅니다.
 
 임무 지원을 이용할 수 있는 던전 입구에는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>진입 지점<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원 아이콘<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 배치되어 있습니다.
-진입 지점을 클릭하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC와 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택하면
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원 창<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 열립니다.
+**진입 지점**과 **임무 지원 아이콘**이 배치되어 있습니다.
+진입 지점을 클릭하여 **지원 NPC와 입장**을 선택하면
+**임무 지원 창**이 열립니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC의 직업<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은 플레이어의 현재 직업에 따라
-가장 적절한 조합으로 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>자동 조정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>됩니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 누르고 NPC와 함께 던전을 공략해 보세요!"
-418,"입장 확인"
+**지원 NPC의 직업**은 플레이어의 현재 직업에 따라
+가장 적절한 조합으로 **자동 조정**됩니다.
+**입장**을 누르고 NPC와 함께 던전을 공략해 보세요!"
+418,입장 확인
 419,"입장 준비가 완료되면 알림음이 울립니다.
-입장 확인 창에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 눌러 임무에 도전하세요!
+입장 확인 창에서 **입장**을 눌러 임무에 도전하세요!
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>제한 시간 안에 입장하지 않으면 자동으로 입장 거부가 되며
-입장할 던전 선택부터 다시 시작해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-420,"공략 가능 임무"
+**제한 시간 안에 입장하지 않으면 자동으로 입장 거부가 되며
+입장할 던전 선택부터 다시 시작해야 합니다.**"
+420,공략 가능 임무
 421,"당신이 성장할수록, 공략할 수 있는 던전/토벌전도 늘어납니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원을 이용할 수 없는 임무<UIGlow>01</UIGlow><UIForeground>01</UIForeground>는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용해서 도전해 보세요.
+**임무 지원을 이용할 수 없는 임무**는
+**임무 찾기**를 이용해서 도전해 보세요.
 
 이미 공략을 완료했더라도, 몇 번이고 다시 같은 던전/토벌전에 도전할 수 있습니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>주 메뉴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 정보<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 통해 다시 도전할 수 있습니다."
-422,"파티 편성"
-423,"주요 퀘스트에서 방문하게 되는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>레벨 71 이후<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 일반 던전/토벌전은
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>지원 NPC로 파티를 편성<UIGlow>01</UIGlow><UIForeground>01</UIForeground>하여 입장할 수 있습니다.
+**주 메뉴**의 **임무 정보**에서
+**임무 찾기**나 **임무 지원**을 통해 다시 도전할 수 있습니다."
+422,파티 편성
+423,"주요 퀘스트에서 방문하게 되는 **레벨 71 이후** 일반 던전/토벌전은
+**지원 NPC로 파티를 편성**하여 입장할 수 있습니다.
 
-현재 파티원을 클릭하면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파티원 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>창이 열리며,
+현재 파티원을 클릭하면 **파티원 선택**창이 열리며,
 던전에 같이 갈 수 있는 지원 NPC가 표시됩니다."
-424,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-425,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
-426,""
-427,""
-428,"임무 찾기"
-429,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다른 플레이어와 함께<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+424,세부 메뉴
+425,세부 메뉴
+426,
+427,
+428,임무 찾기
+429,"**임무 찾기**를 이용하여 **다른 플레이어와 함께**
 던전에 입장할 수 있습니다.
 
-진입 지점을 클릭하여 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다른 플레이어와 입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택하면
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기 창<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 열립니다."
-430,"임무 참가 신청"
-431,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>가고 싶은 던전을 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>한 다음 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>참가 신청<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 누르면
+진입 지점을 클릭하여 **다른 플레이어와 입장**을 선택하면
+**임무 찾기 창**이 열립니다."
+430,임무 참가 신청
+431,"**가고 싶은 던전을 선택**한 다음 **참가 신청**을 누르면
 목적지가 같은 플레이어를 찾아 자동으로 파티를 구성해 줍니다.
-이 과정을 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라고 부릅니다.
+이 과정을 **매칭**이라고 부릅니다.
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 동시에 최대 5개 임무를 선택하여 참가 신청할 수 있습니다.
+**※ 동시에 최대 5개 임무를 선택하여 참가 신청할 수 있습니다.
 
-※ 자물쇠 표시는 참가 조건을 갖추지 못했음을 뜻합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-432,"신청 예약 상황"
+※ 자물쇠 표시는 참가 조건을 갖추지 못했음을 뜻합니다.**"
+432,신청 예약 상황
 433,"참가 신청을 하면 할 일 목록에 임무 찾기 아이콘이 표시되고,
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>예약 상황<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 확인할 수 있습니다.
+**예약 상황**을 확인할 수 있습니다.
 
 예약 상황에는 파티 구성 현황과 서버 예약 상황 등이 표시됩니다."
-434,"입장 확인"
-435,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭이 성립<UIGlow>01</UIGlow><UIForeground>01</UIForeground>되면 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>알림음<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 울립니다.
-이때 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>입장<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 누르면 임무에 도전할 수 있습니다.
+434,입장 확인
+435,"**매칭이 성립**되면 **알림음**이 울립니다.
+이때 **입장**을 누르면 임무에 도전할 수 있습니다.
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>제한 시간 안에 입장하지 않으면 자동으로 입장 거부가 되며
-입장할 던전 선택부터 다시 시작해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-436,"공략 가능 던전"
+**제한 시간 안에 입장하지 않으면 자동으로 입장 거부가 되며
+입장할 던전 선택부터 다시 시작해야 합니다.**"
+436,공략 가능 던전
 437,"당신이 성장할수록, 공략할 수 있는 던전도 늘어납니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원을 이용할 수 없는 던전이나 임무<UIGlow>01</UIGlow><UIForeground>01</UIForeground>는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 이용해서 도전해 보세요.
+**임무 지원을 이용할 수 없는 던전이나 임무**는
+**임무 찾기**를 이용해서 도전해 보세요.
 
 이미 공략을 완료했더라도, 몇 번이고 다시 같은 던전에 도전할 수 있습니다.
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>주 메뉴<UIGlow>01</UIGlow><UIForeground>01</UIForeground>의 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 정보<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 찾기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>임무 지원<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 통해 던전에 다시 도전할 수 있습니다."
-438,"<CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-439,"<CommandIcon(10)/>세부 메뉴"
-440,"<CommandIcon(10)/>세부 메뉴"
-441,"다시보기 재생 중 조작 방법"
+**주 메뉴**의 **임무 정보**에서
+**임무 찾기**나 **임무 지원**을 통해 던전에 다시 도전할 수 있습니다."
+438,이동 회전 +확대/축소
+439,세부 메뉴
+440,세부 메뉴
+441,다시보기 재생 중 조작 방법
 442,"※ 마우스 및 키보드는 초기 설정 기준입니다.
-<If(Equal(PlayerParameter(75),0))>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 조작<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[W, A, S, D] 키(이동 키) / <CommandIcon(20)/> 스틱
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 초기화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[Z] 키(무기 넣기/무기 꺼내기) / <Gui(16)/> 버튼
+**카메라 방향 조작**
+[W, A, S, D] 키(이동 키) /  스틱
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키 / <CommandIcon(7)/> 방향키
+**카메라 방향 초기화**
+[Z] 키(무기 넣기/무기 꺼내기) /  버튼
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프) / <CommandIcon(11)/> 버튼
+**카메라 주시 대상 변경**
+[tab, shift+tab] 키 /  방향키
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>조작 메뉴 열기/닫기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[R] 키,  버튼(자동 달리기) / <CommandIcon(10)/> 버튼<Else/>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 조작<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(20)/> 스틱 / [W, A, S, D] 키(이동 키)
+**다시보기 일시 정지 및 재생**
+[스페이스 바](점프) /  버튼
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 초기화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Gui(16)/> 버튼 / [Z] Key (무기 넣기/무기 꺼내기)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/> <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If> / [<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(11)/> 버튼 / [<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>조작 메뉴 열기/닫기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(10)/> 버튼 / [R] 키,  버튼(자동 달리기)</If>"
-443,"다시보기 녹화 방법"
+**조작 메뉴 열기/닫기**
+[R] 키,  버튼(자동 달리기) /  버튼"
+443,다시보기 녹화 방법
 444,"녹화하려면 아래의 조건이 갖춰져야 합니다.
 　1. 다시보기 녹화가 활성화되어 있어야 합니다.
 　2. 다시보기 녹화가 가능한 임무여야 합니다.
 　3. 규정 인원수로 파티를 미리 구성하여 임무에 입장해야 합니다.
 　4. 다시보기 준비 확인을 실행해야 합니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1. 다시보기 녹화가 활성화되어 있어야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**1. 다시보기 녹화가 활성화되어 있어야 합니다.**
 자신의 플레이 환경에서 다시보기를 녹화할 것인지 설정합니다.
 이 설정을 켠 상태에서 다른 기록 조건을 충족하면 임무 다시보기 녹화가 실행됩니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2. 다시보기 녹화가 가능한 임무여야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**2. 다시보기 녹화가 가능한 임무여야 합니다.**
 다시보기는 최신 버전의 일부 임무에서만 녹화할 수 있습니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>3. 규정 인원수로 파티를 미리 구성하여 임무에 입장해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**3. 규정 인원수로 파티를 미리 구성하여 임무에 입장해야 합니다.**
 해당 임무에 규정되어 있는 인원수로 파티를 구성하여 입장했을 때에만 다시보기 녹화가 가능합니다.
 매칭을 이용하는 경우 녹화가 실행되지 않습니다.
 '제한 해제' 상태일 때에는 규정 인원수로 파티를 구성하여 입장해도 녹화가 실행되지 않습니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>4. 다시보기 준비 확인을 실행해야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**4. 다시보기 준비 확인을 실행해야 합니다.**
 다시보기 녹화를 시작해도 되는지 파티원에게 확인하는 단계입니다.
 다시보기 준비 확인을 실행한 후에 전원이 '예'를 눌러야만 기록이 시작됩니다.
 ※ 다시보기 준비 확인은 임무 입장 후 5분 이내에 실행해야 합니다.
@@ -725,227 +675,213 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 위의 조건이 모두 충족되어야 다시보기 기록이 생성됩니다.
 다시보기는 최대 3개까지 보존할 수 있으며, 3개를 초과하여 녹화할 경우 가장 오래된 기록을 덮어씁니다.
 ※ 덮어쓰고 싶지 않은 기록은 2개까지 잠금 설정할 수도 있습니다."
-445,"다시 보기 재생 방법"
+445,다시 보기 재생 방법
 446,"다시보기 기록을 재생하려면 아래의 조건을 갖춰야 합니다.
 　1. 여관에 있어야 합니다.
 　2. 녹화한 기록이 최신 버전 임무여야 합니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>1. 여관에 있어야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**1. 여관에 있어야 합니다.**
 다시보기는 각 대도시의 여관에서만 재생할 수 있습니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>2. 녹화한 기록이 최신 버전 임무여야 합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**2. 녹화한 기록이 최신 버전 임무여야 합니다.**
 다시보기는 현재 버전의 데이터만 재생할 수 있습니다.
 대규모 업데이트 외에 소규모 패치나 긴급 수정 등이 적용되어도 이용할 수 없게 되니 주의하시기 바랍니다."
-447,"다시보기 재생 중 조작 방법"
+447,다시보기 재생 중 조작 방법
 448,"※ 마우스 및 키보드는 초기 설정 기준입니다.
-<If(Equal(PlayerParameter(75),0))>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 조작<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[W, A, S, D] 키(이동 키) / <CommandIcon(20)/> 스틱
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 초기화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[Z] 키(무기 넣기/무기 꺼내기) / <Gui(16)/> 버튼
+**카메라 방향 조작**
+[W, A, S, D] 키(이동 키) /  스틱
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키 / <CommandIcon(7)/> 방향키
+**카메라 방향 초기화**
+[Z] 키(무기 넣기/무기 꺼내기) /  버튼
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프) / <CommandIcon(11)/> 버튼
+**카메라 주시 대상 변경**
+[tab, shift+tab] 키 /  방향키
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>조작 메뉴 열기/닫기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[R] 키,  버튼(자동 달리기) / <CommandIcon(10)/> 버튼<Else/>
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 조작<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(20)/> 스틱 / [W, A, S, D] 키(이동 키)
+**다시보기 일시 정지 및 재생**
+[스페이스 바](점프) /  버튼
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 방향 초기화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<Gui(16)/> 버튼 / [Z] Key (무기 넣기/무기 꺼내기)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/> <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If> / [<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(11)/> 버튼 / [<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프)
-
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>조작 메뉴 열기/닫기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(10)/> 버튼 / [R] 키,  버튼(자동 달리기)</If>"
-449,"조작 메뉴 설명"
-450,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**조작 메뉴 열기/닫기**
+[R] 키,  버튼(자동 달리기) /  버튼"
+449,조작 메뉴 설명
+450,"**다시보기 일시 정지 및 재생**
 다시보기를 일시 정지하거나 재생합니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>구간 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**구간 선택**
 다시보기 기록 생성 시에 구간이 설정됩니다.
 목록에서 원하는 구간을 선택하면, 그 구간으로 건너뜁니다.
 ※ 선택 구간을 재생할 때까지 시간이 걸릴 수도 있습니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>이전 구간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**이전 구간**
 바로 앞 구간으로 이동합니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다음 구간<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**다음 구간**
 바로 뒤 구간으로 이동합니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>HUD 표시 전환<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**HUD 표시 전환**
 각종 HUD의 표시/비표시를 전환합니다.
 ※ 이 설정은 다음 재생 시에도 보존됩니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>주시 대상 설정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**주시 대상 설정**
 카메라가 보는 대상을 주시 대상으로 설정합니다.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 종료<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**다시보기 종료**
 다시보기를 종료합니다."
-451,"<CommandIcon(10)/> 세부 메뉴"
-452,"<CommandIcon(24)/>스크롤"
-453,"<CommandIcon(8)/>열기  <CommandIcon(24)/>상세 정보 스크롤"
-454,"<CommandIcon(24)/>상세 정보 스크롤"
-455,"<CommandIcon(10)/> 세부 메뉴"
-456,"<CommandIcon(8)/>꼬마 친구 꺼내놓기  <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>위치 변경"
-457,"<CommandIcon(10)/> 세부 메뉴"
-458,"<CommandIcon(10)/> 세부 메뉴"
-459,"<CommandIcon(10)/> 세부 메뉴"
-460,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(24)/>상세 정보 스크롤"
-461,"<CommandIcon(5)/>이동 <CommandIcon(8)/>꼬마 친구 꺼내놓기 <CommandIcon(10)/>세부 메뉴"
-462,"<CommandIcon(8)/>꼬마 친구 꺼내놓기 <CommandIcon(10)/>세부 메뉴"
-463,"<CommandIcon(10)/> 세부 메뉴"
-464,""
-465,""
-466,""
-467,"<CommandIcon(8)/>플레이어 추천 결정"
-468,"<CommandIcon(24)/>상세 정보 스크롤"
-469,"<CommandIcon(11)/>보상 수령 <CommandIcon(24)/>상세 정보 스크롤"
-470,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(24)/>상세 정보 스크롤"
-471,"<CommandIcon(11)/>보상 수령<CommandIcon(10)/>세부 메뉴 <CommandIcon(24)/>상세 정보 스크롤"
-472,"<CommandIcon(10)/>세부 메뉴"
-473,"<CommandIcon(10)/>세부 메뉴"
-474,"<CommandIcon(11)/>탐색지 결정"
-475,"<CommandIcon(10)/>단축바에 등록 <CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
-476,"<CommandIcon(12)/><CommandIcon(13)/>페이지 넘기기"
-477,"<CommandIcon(8)/>대표적인 어장 표시"
-478,"<CommandIcon(10)/>세부 메뉴"
-479,"<CommandIcon(10)/>세부 메뉴"
-480,"<CommandIcon(10)/>세부 메뉴"
-481,"<CommandIcon(18)/>무인도 조경물 투영 설치 종료"
-482,"<Gui(13)/>＋<Gui(20)/>이동 <CommandIcon(14)/><CommandIcon(15)/>회전 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
-483,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>무인도 조경물 목록"
-484,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>소지품<If(Equal(PlayerParameter(105),0))> <CommandIcon(14)/><CommandIcon(15)/>등록/투영 설치 목록 전환<Else/></If>"
-485,"<CommandIcon(11)/>적용"
-486,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
-487,"<CommandIcon(10)/>세부 메뉴"
-488,"<CommandIcon(18)/>조경물 염색 종료"
-489,"<CommandIcon(18)/>조경물 설치 종료"
-490,"<Gui(13)/>＋<Gui(20)/>이동 <CommandIcon(14)/><CommandIcon(15)/>회전 <CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
-491,"<CommandIcon(11)/><If(IntegerParameter(1))>눈금 보정 기능 켜기<Else/>눈금 보정 기능 끄기</If>"
-492,"<CommandIcon(8)/>선택"
-493,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(8)/>장착"
-494,"<CommandIcon(11)/>간이 채집 켜기/끄기"
-495,"<CommandIcon(11)/>제작 시작"
-496,"<CommandIcon(10)/>세부 메뉴"
-497,"<CommandIcon(10)/>세부 메뉴"
-498,"<CommandIcon(11)/>적용"
-499,"<CommandIcon(24)/>상세 정보 스크롤"
-500,"<CommandIcon(24)/>상세 정보 스크롤"
-501,"<CommandIcon(24)/>상세 정보 스크롤"
-502,"<CommandIcon(10)/>세부 메뉴"
-503,"<CommandIcon(10)/>지도 표시"
-504,""
-505,"<CommandIcon(8)/>열기/닫기/미리보기 <CommandIcon(11)/>미리보기 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
-506,"<CommandIcon(11)/>적용"
-507,""
-508,""
-509,""
-510,""
-511,""
-512,""
-513,""
-514,""
-515,""
-516,""
-517,""
-518,""
-519,""
-520,""
-521,""
-522,""
-523,""
-524,""
-525,""
-526,""
-527,""
-528,""
-529,""
-530,""
-531,""
-532,""
-533,""
-534,""
-535,""
-536,""
-537,""
-538,""
-539,""
-540,""
-541,""
-542,""
-543,""
-544,""
-545,""
-546,""
-547,""
-548,""
-549,""
-550,""
-551,""
-552,""
-553,""
-554,""
-555,""
-556,""
-557,""
-558,""
-559,""
-560,""
-561,""
-562,""
-563,""
-564,""
-565,""
-566,""
-567,""
-568,""
-569,""
-570,""
-571,""
-572,""
-573,""
-574,""
-575,""
-576,""
-577,""
-578,""
-579,""
-580,""
-581,""
-582,""
-583,""
-584,""
-585,""
-586,""
-587,""
-588,""
-589,""
-590,""
-591,""
-592,""
-593,""
-594,""
-595,""
-596,""
-597,""
-598,""
-599,""
-600,""
+451, 세부 메뉴
+452,스크롤
+453,열기  상세 정보 스크롤
+454,상세 정보 스크롤
+455, 세부 메뉴
+456,꼬마 친구 꺼내놓기  세부 메뉴 위치 변경
+457, 세부 메뉴
+458, 세부 메뉴
+459, 세부 메뉴
+460,세부 메뉴  상세 정보 스크롤
+461,이동 꼬마 친구 꺼내놓기 세부 메뉴
+462,꼬마 친구 꺼내놓기 세부 메뉴
+463, 세부 메뉴
+464,
+465,
+466,
+467,플레이어 추천 결정
+468,상세 정보 스크롤
+469,보상 수령 상세 정보 스크롤
+470,세부 메뉴 상세 정보 스크롤
+471,보상 수령세부 메뉴 상세 정보 스크롤
+472,세부 메뉴
+473,세부 메뉴
+474,탐색지 결정
+475,단축바에 등록 페이지 넘기기
+476,페이지 넘기기
+477,대표적인 어장 표시
+478,세부 메뉴
+479,세부 메뉴
+480,세부 메뉴
+481,무인도 조경물 투영 설치 종료
+482,＋이동 회전 세부 메뉴 눈금 보정 기능 켜기
+483,세부 메뉴 무인도 조경물 목록
+484,세부 메뉴 소지품 등록/투영 설치 목록 전환
+485,적용
+486,세부 메뉴 눈금 보정 기능 켜기
+487,세부 메뉴
+488,조경물 염색 종료
+489,조경물 설치 종료
+490,＋이동 회전 눈금 보정 기능 켜기
+491,눈금 보정 기능 켜기
+492,선택
+493,세부 메뉴 장착
+494,간이 채집 켜기/끄기
+495,제작 시작
+496,세부 메뉴
+497,세부 메뉴
+498,적용
+499,상세 정보 스크롤
+500,상세 정보 스크롤
+501,상세 정보 스크롤
+502,세부 메뉴
+503,지도 표시
+504,
+505,열기/닫기/미리보기 미리보기 이동 회전 +확대/축소
+506,적용
+507,
+508,
+509,
+510,
+511,
+512,
+513,
+514,
+515,
+516,
+517,
+518,
+519,
+520,
+521,
+522,
+523,
+524,
+525,
+526,
+527,
+528,
+529,
+530,
+531,
+532,
+533,
+534,
+535,
+536,
+537,
+538,
+539,
+540,
+541,
+542,
+543,
+544,
+545,
+546,
+547,
+548,
+549,
+550,
+551,
+552,
+553,
+554,
+555,
+556,
+557,
+558,
+559,
+560,
+561,
+562,
+563,
+564,
+565,
+566,
+567,
+568,
+569,
+570,
+571,
+572,
+573,
+574,
+575,
+576,
+577,
+578,
+579,
+580,
+581,
+582,
+583,
+584,
+585,
+586,
+587,
+588,
+589,
+590,
+591,
+592,
+593,
+594,
+595,
+596,
+597,
+598,
+599,
+600,
 1000,"신고를 접수하지 못했습니다.
 다시 시도하십시오."
-1001,""
-1002,""
-1003,"동아리 설명"
+1001,
+1002,
+1003,동아리 설명
 1004,"동아리는 비슷한 관심사를 가진 플레이어들의 모임입니다.
 최대 1,000명의 구성원이 가입하여 교류할 수 있습니다.
 
@@ -960,7 +896,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 마스터가 임명한 '운영자', 그 외 구성원으로 나뉩니다.
 
 가입한 후에는 동아리의 각종 기능을 이용할 수 있습니다."
-1005,"'일반' 탭 설명"
+1005,'일반' 탭 설명
 1006,"■ 운영자 메시지
 마스터 및 운영자가 회원들에게 하고 싶은 말을
 적을 수 있습니다.
@@ -973,7 +909,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 ■ 공지
 공지 게시물은 5개까지 작성할 수 있습니다.
 마스터 및 운영자만 작성할 수 있습니다."
-1007,"'게시판' 탭 설명"
+1007,'게시판' 탭 설명
 1008,"동아리 구성원이라면 누구든지 게시물을 작성할 수 있습니다.
 게시물은 최대 100개까지 저장되며,
 100개가 넘으면 오래된 것부터 차례대로 삭제됩니다.
@@ -981,7 +917,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 
 ※ 무료 체험 중인 플레이어는 가입한 지 14일이 지나야
    게시물을 작성할 수 있습니다."
-1009,"'구성원' 탭 설명"
+1009,'구성원' 탭 설명
 1010,"동아리에 가입한 플레이어 목록입니다.
 
 세부 메뉴에서 구성원에 관련된 설정을 할 수 있습니다.
@@ -992,7 +928,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 동아리 차단 목록에 등록할 수 있습니다.
 동아리 차단 목록에 등록되면 동아리에서 제명되며
 해당 동아리에 가입할 수 없습니다."
-1011,"기타 설명"
+1011,기타 설명
 1012,"■ 동아리 설정
 설정은 마스터만 변경할 수 있습니다.
 동아리 이름 변경, 주요 활동 설정,
@@ -1011,12 +947,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 마스터 권한은 '운영자'인 플레이어 중 한 명에게 양도할 수 있습니다.
 또한, 마스터는 동아리에서 탈퇴할 수 없습니다.
 "
-1013,"동아리 찾기 설명"
+1013,동아리 찾기 설명
 1014,"동아리 찾기서는 구성원을 모집하고 있는 동아리를 확인할 수 있습니다.
 
 동아리 검색 시에는 주요 활동으로 검색 조건을 설정할 수 있습니다."
-1015,"악기 연주 주의 사항"
-1016,"<UIForeground>F20202</UIForeground>■ 악기 연주 주의 사항<UIForeground>01</UIForeground>
+1015,악기 연주 주의 사항
+1016,"**■ 악기 연주 주의 사항
 악기 연주로 제삼자의 권리를 침해하는 음악을 연주하는 행위는
 엄격히 금지되어 있습니다.
 파이널판타지14 저작물 이용 허가 조건에 따르는 범위 내에서
@@ -1024,12 +960,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 타인의 연주를 녹화하거나 업로드할 수도 있습니다.
 단, 타인의 연주를 무단으로 수정하거나 이윤을 추구하는
 판매행위는 불가합니다."
-1017,"합주 보조"
-1018,"<UIForeground>F20202</UIForeground>■ 합주 보조<UIForeground>01</UIForeground>
+1017,합주 보조
+1018,"**■ 합주 보조
 합주 보조는 주위에 있는 플레이어에게
 자신의 속한 파티의 연주가 조화롭게 들리도록 도와주는 기능입니다.
 
-<UIForeground>F20202</UIForeground>■ 합주 보조 사용 시의 특징<UIForeground>01</UIForeground>
+**■ 합주 보조 사용 시의 특징
 합주 보조를 사용하면 파티원들의 연주를 서버에서 합하여 주위에 있는 플레이어에게 들려주므로, 들리는 방식이 일반 연주와 다릅니다.
 때문에 연주 시에는 자신의 연주음을 어떻게 들을 것인지 선택할 수 있습니다.
 ※ 어떤 설정을 선택하든, 주위 플레이어에게는
@@ -1043,54 +979,54 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
   파티원들의 연주를 서버에서 동기화한 뒤에 재생하므로
   자신의 연주가 조금 늦게 재생됩니다.
 
-<UIForeground>F20202</UIForeground>■ 합주 보조 이용 방법<UIForeground>01</UIForeground>
+**■ 합주 보조 이용 방법
 합주 보조는 다음 조작을 통해 이용할 수 있습니다.
  1. 메트로놈의 '합주 준비 확인'을 눌러서 설명 화면을 엽니다.
  2. 설정 화면에 있는 '합주 보조 사용하기'를 켜고
     합주 준비 확인을 실행합니다.
  3. 합주 준비 확인이 완료된 시점부터 합주 모드가 적용됩니다.
 
-<UIForeground>F20202</UIForeground>■ 합주 보조 이용 조건<UIForeground>01</UIForeground>
+**■ 합주 보조 이용 조건
 합주 보조를 이용하려면 다음 조건을 충족해야 합니다.
  1. 파티장이 연주 모드를 실행 중이어야 합니다.
  2. 연주가 가능한 지역이어야 합니다.(여관/막사 제외)
  3. 각 지역에서 합주 모드를 이용할 수 있는 파티의 수가 초과되지 않아야 합니다.
     ※ 동시에 합주할 수 있는 인원 수는 지역별로 제한되어 있습니다."
-1019,"연주 보조"
-1020,"<UIForeground>F20202</UIForeground>■ '연주 보조'란?<UIForeground>01</UIForeground>
+1019,연주 보조
+1020,"**■ '연주 보조'란?
 지시에 따라 건반을 누르면 곡을 연주할 수 있는 보조 기능입니다.
 
-<UIForeground>F20202</UIForeground>■ 연주 보조 이용 방법<UIForeground>01</UIForeground>
+**■ 연주 보조 이용 방법
 연주 보조는 다음과 같이 조작하여 이용할 수 있습니다.
  1. 건반 위에 있는 '연주 보조'를 실행합니다.
  2. 연주할 곡을 선택합니다.
  3. 재생할 곡의 박자와 메트로놈 사용 여부를 설정합니다.
 
-<UIForeground>F20202</UIForeground>■ 연주 보조 실행 시 주의 사항<UIForeground>01</UIForeground>
+**■ 연주 보조 실행 시 주의 사항
 연주 보조를 실행하면 합주 준비 확인을 수락하지 못하고
 강제로 '아니오'로 답변하게 됩니다.
 파티에서 합주를 할 때에는 주의하시기 바랍니다."
-1021,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>'남부 보즈야 전선'은 독자적인 규칙과 전용 시스템이 다수 포함된 임무입니다!
-임무 특징을 파악하고 갈레말 제국 제IV군단과 싸워 승리합시다!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+1021,"**'남부 보즈야 전선'은 독자적인 규칙과 전용 시스템이 다수 포함된 임무입니다!
+임무 특징을 파악하고 갈레말 제국 제IV군단과 싸워 승리합시다!**
 
-<UIForeground>0F</UIForeground>※ 다음 페이지부터 '남부 보즈야 전선'의 특수 규칙을 설명합니다.
-설명을 잘 읽고 새로운 대규모 임무를 즐겨 주십시오.<UIForeground>01</UIForeground>"
-1022,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 임무 참가 직업의 레벨이 80으로 특수 조율됩니다!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**※ 다음 페이지부터 '남부 보즈야 전선'의 특수 규칙을 설명합니다.
+설명을 잘 읽고 새로운 대규모 임무를 즐겨 주십시오."
+1022,"**■ 임무 참가 직업의 레벨이 80으로 특수 조율됩니다!**
 
 '남부 보즈야 전선'은 레벨 71 이상 잡으로 입장할 수 있습니다.
 임무에 입장하고 나면 레벨 80으로 특수 조율됩니다.
 또한 어떤 장비든 아이템 레벨이 최적의 상태로 조정되므로
 장비를 갖출 필요가 없습니다.
 
-<UIForeground>0F</UIForeground>※ 임무 안에서는 레벨 80까지의 기술을 모두 사용할 수 있습니다.<UIForeground>01</UIForeground>"
-1023,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 전과를 거두어 레지스탕스 랭크를 올리세요!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**※ 임무 안에서는 레벨 80까지의 기술을 모두 사용할 수 있습니다."
+1023,"**■ 전과를 거두어 레지스탕스 랭크를 올리세요!**
 
 '남부 보즈야 전선'에서는 임무 안에서만 적용되는 '레지스탕스 랭크'가 존재합니다.
 '전과'는 '돌발 교전' 및 '비상 교전'이라고 불리는
 작전에 참가하여 일정 이상 평가를 얻으면 올라갑니다.
 
-<UIForeground>0F</UIForeground>※ 전과는 적을 쓰러뜨리는 것만으로는 얻을 수 없습니다.
-교전을 완료했을 때에만 얻을 수 있으니 주의하세요!<UIForeground>01</UIForeground>"
+**※ 전과는 적을 쓰러뜨리는 것만으로는 얻을 수 없습니다.
+교전을 완료했을 때에만 얻을 수 있으니 주의하세요!"
 1024,"어느 정도 전과가 모이면 거점으로 돌아가
 '저항군 사령부 장교(랭크 담당자)'에게 보고하세요.
 일정 이상의 전과를 모으면 레지스탕스 랭크를 올릴 수 있습니다.
@@ -1098,20 +1034,20 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 레지스탕스 랭크가 일정 수치에 도달하면 퀘스트를 진행할 수 있으며, 행동 범위가 넓어집니다.
 유리하게 활동하려면 레지스탕스 랭크를 적극적으로 올리세요.
 
-<UIForeground>0F</UIForeground>※ 레지스탕스 랭크는 전과를 보고하기 전에는 올라가지 않습니다.
-전과를 모은 다음 장교에게 보고하는 것을 잊지 마세요!<UIForeground>01</UIForeground>"
-1025,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 전투 직업 레벨링에 활용하세요!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**※ 레지스탕스 랭크는 전과를 보고하기 전에는 올라가지 않습니다.
+전과를 모은 다음 장교에게 보고하는 것을 잊지 마세요!"
+1025,"**■ 전투 직업 레벨링에 활용하세요!**
 
 '돌발 교전'과 '비상 교전'을 완료하면 전과와 더불어 경험치도 얻을 수 있습니다.
 
 직업 레벨은 전과와 달리 보고할 필요가 없으며 평소처럼 자동으로 레벨이 올라갑니다.
 
 레벨 80 미만인 직업이 있다면 보즈야 전선에서 레벨을 올려 보세요."
-1026,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ 모르겠다 싶을 때에는……<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+1026,"**■ 모르겠다 싶을 때에는……**
 
 기타 규칙과 시스템은 강고스에 있는 '셰로슈'나 보즈야 전선에 있는 NPC들이 설명해 줍니다.
 모르는 게 생기면 NPC를 찾아가 보세요!"
-1027,"소장품 설명"
+1027,소장품 설명
 1028,"'소장품'이란 '소장 가치'를 갖는 특별한 아이템입니다.
 
 '소장 가치'는 소장품별로 부여되는 가치를 나타냅니다.
@@ -1119,13 +1055,13 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니다.
 
 요구한 소장 가치에 부합하는 소장품을 채집하세요."
-1029,"소장품 채집"
+1029,소장품 채집
 1030,"광부와 원예가로 소장품을 채집할 때는
 소장품 채집 전용 창이 나타납니다.
 
 소장품 채집 창에서 소장 가치를 올리고
 가치를 올린 소장품을 채집할 수 있습니다."
-1031,"소장 가치 올리기"
+1031,소장 가치 올리기
 1032,"'순화 기술'을 사용하면 소장 가치를 올릴 수 있습니다.
 
 소장품 채집 창에서 '순화 기술'을 사용하면
@@ -1137,7 +1073,7 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 내구도는 소장품을 채집할 때에도 소비되므로
 소장 가치를 더 올릴지, 그만 올리고 소장품을 채집할지를
 신중하게 판단해야 합니다."
-1033,"순화 기술"
+1033,순화 기술
 1034,"순화 기술은 '순화', '대담한 순화', '신중한 순화' 3종류가 존재합니다.
 이 기술을 사용하면 채집 장소의 내구도가 1씩 깎입니다.
 
@@ -1154,7 +1090,7 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 목표 소장 가치에 확실히 도달할 수 있을 때 사용해 보세요.
 
 ※ '획득력'을 올리면 순화 기술의 효과가 높아집니다."
-1035,"소장품 입수"
+1035,소장품 입수
 1036,"소장 가치가 충분히 올랐다면 소장품을 채집하세요.
 '소장품 채집'을 사용하면 소장품을 1개 채집하여 소지품에 넣습니다.
 
@@ -1165,7 +1101,7 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 그만큼 채집 횟수가 늘어나므로, 항상 내구도를 확인하세요.
 
 ※ 획득률 100% 미만일 경우는 소장품을 얻지 못할 수도 있습니다."
-1037,"강화 기술"
+1037,강화 기술
 1038,"소장품 관련 기술 중에는 순화 기술을 강화하는 기술도 있습니다.
 
 '집중 검사'를 사용하면 순화 기술 사용 시 소장 가치 상승량이 증가합니다.
@@ -1173,7 +1109,7 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 강화 기술은 내구도는 소비하지 않지만 GP를 소비합니다.
 
 ※ '기술력'을 올리면 '집중 검사'의 효과가 높아집니다."
-1039,"가치 상향"
+1039,가치 상향
 1040,"순화 기술을 사용하면 '가치 상향'이 발생할 때가 있습니다.
 
 '가치 상향'은 순화가 잘 되었음을 의미하며, 평소보다 소장 가치가 더 많이 오릅니다.
@@ -1181,13 +1117,13 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 ※ '기술력'을 올리면 가치 상향 발생률이 높아집니다.
 
 ※ 강화 기술 '가치 집중'을 사용하면 가치 상향 발생률이 높아집니다."
-1041,"활안"
+1041,활안
 1042,"순화 기술을 사용하면 '활안' 효과가 부여될 때가 있습니다.
 
 '활안'은 불순물을 확실히 찾아낼 수 있는 상태로, '신중한 순화'와 '대담한 순화'의 소장 가치 상승량이 크게 증가합니다.
 
 효과가 발생하면 '신중한 순화'나 '대담한 순화'를 적극적으로 사용해 보세요."
-1043,"그 밖의 기술"
+1043,그 밖의 기술
 1044,"소장품 채집 중에는 순화 기술과 강화 기술 외에도 아래 채집가 기술을 사용할 수 있습니다.
 
 ・획득률에 영향을 주는 기술
@@ -1197,7 +1133,7 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 (광부 '석공의 이론', 원예가 '농부의 지혜')
 
 이 기술은 일반적인 채집과 마찬가지로 단축바를 통해 사용할 수 있습니다."
-1045,"무정형성 아이템과 승화"
+1045,무정형성 아이템과 승화
 1046,"무정형성이 있는 소장품은
 소장 가치를 최대로 높여서 정제하면
 귀중한 아이템이 나오기도 합니다.
@@ -1211,7 +1147,7 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 
 플레이어의 획득력이 높을수록
 무정형성 소장품이 승화할 확률이 증가합니다."
-1047,"소장 가치"
+1047,소장 가치
 1048,"소장 가치란, 소장품의 가치를 수치로 나타낸 것입니다.
 
 소장품을 채집할 때, 납품에 필요한 소장 가치가
@@ -1220,49 +1156,49 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 
 ※ 소장품 정제로 크리스탈이 아닌 아이템을 얻으려면
 '요구 소장 가치'를 충족해야 합니다."
-1049,""
-1050,"특수 던전 탐색 방법"
+1049,
+1050,특수 던전 탐색 방법
 1051,"전담 NPC와 대화하거나 주 메뉴 '임무 정보'에 있는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>특수 던전 탐색<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 선택하면 열리는 전용 창을 통해
+**특수 던전 탐색**을 선택하면 열리는 전용 창을 통해
 특수 던전 탐색 임무에 입장할 수 있습니다.
 
 입장할 때에 필요한 정보는 전용 창에 표시되며,
 각종 설정 또한 이곳에서 조정할 수 있습니다."
-1052,"변형 던전 공략"
-1053,"특수 던전 중 하나인 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>변형 던전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>은
+1052,변형 던전 공략
+1053,"특수 던전 중 하나인 **변형 던전**은
 1~4명으로 공략할 수 있으며,
-파티원 수에 따라 난이도가 <UIForeground>0F</UIForeground>자동 조정<UIForeground>01</UIForeground>됩니다.
+파티원 수에 따라 난이도가 **자동 조정됩니다.
 
 손발이 맞는 친구와 파티를 짜서 갈 수도 있으며,
 매칭을 이용하여 도전할 수도 있습니다.
 혼자서도 공략할 수 있지만, 꽤 힘든 여정이 될 것입니다.
 
 혼자서 또는 미리 구성된 파티로 공략하는 경우에는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭을 이용하여 입장합니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 옵션을 해제하고 입장하시기 바랍니다.
+**매칭을 이용하여 입장합니다.** 옵션을 해제하고 입장하시기 바랍니다.
 (초기 상태: 해제)
 
 매칭을 이용하여 4인 파티로 입장하고 싶다면
 이 옵션을 선택하고 입장 버튼을 누르십시오."
-1054,"변형 기술"
+1054,변형 기술
 1055,"역할에 구애받지 않고 즐길 수 있도록, 변형 던전에는
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>변형 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라는 특수한 기술이 마련되어 있습니다.
+**변형 기술**이라는 특수한 기술이 마련되어 있습니다.
 
-예를 들면, 방어 역할이나 공격 역할이 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>케알<UIGlow>01</UIGlow><UIForeground>01</UIForeground>과 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>레이즈<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 쓸 수 있으며,
-회복 역할이 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>철벽 방어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 쓸 수도 있습니다.
+예를 들면, 방어 역할이나 공격 역할이 **케알**과 **레이즈**를 쓸 수 있으며,
+회복 역할이 **철벽 방어**를 쓸 수도 있습니다.
 
 공략 중에 사용할 수 있는 변형 기술 2개는
-전용 창에서 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>변형 기술 설정<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 버튼을 누르면 열리는
+전용 창에서 **변형 기술 설정** 버튼을 누르면 열리는
 변형 기술 목록에서 언제든지 변경할 수 있습니다."
-1056,"이야기를 찾는 탐험"
-1057,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>변형 던전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이란, 그 장소에 관련된 인물과 함께 던전에 입장하여
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>여러 갈래로 나뉜 경로<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 탐험하면서
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>이야기를 발견<UIGlow>01</UIGlow><UIForeground>01</UIForeground>해 나가는, 새로운 형식의 임무입니다.
+1056,이야기를 찾는 탐험
+1057,"**변형 던전**이란, 그 장소에 관련된 인물과 함께 던전에 입장하여
+**여러 갈래로 나뉜 경로**를 탐험하면서
+**이야기를 발견**해 나가는, 새로운 형식의 임무입니다.
 
 발견한 이야기는 수기나 기록 같은 형태로 남습니다.
 
 전용 창에서 인물을 클릭하면, 지금까지 찾아낸 이야기를 읽을 수 있는 창이 열립니다."
-1058,"파생 던전에 도전하기"
-1059,"고난도 특수 던전, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파생 던전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 도전할 수 있습니다.
+1058,파생 던전에 도전하기
+1059,"고난도 특수 던전, **파생 던전**에 도전할 수 있습니다.
 
 전용 창 상단의 탭을 누르면 파생 던전으로 전환됩니다.
 
@@ -1270,23 +1206,23 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 분기점이나 발견할 이야기도 없습니다.
 
 파생 던전으로 전환하면 참가 가능한 파생 던전 목록과
-공략 시 얻을 수 있는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>전용 화폐<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 등이 표시됩니다."
-1060,"파생 던전 제한 사항"
+공략 시 얻을 수 있는 **전용 화폐** 등이 표시됩니다."
+1060,파생 던전 제한 사항
 1061,"파생 던전은 변형 던전과는 달리
-입장 후에 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>직업을 변경할 수 없습니다<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+입장 후에 **직업을 변경할 수 없습니다**.
 전투불능이 되면 레이즈 등 직업 기술로는 부활할 수 없고,
 변형 기술을 통해서만 부활할 수 있습니다.
 
-또한 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파생 던전(영웅)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서는
-변형 기술을 아예 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>사용할 수 없습니다<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+또한 **파생 던전(영웅)**에서는
+변형 기술을 아예 **사용할 수 없습니다**.
 
 파생 던전(영웅)에 입장하려면
 조건을 갖춘 플레이어 4명을 모아 미리 파티를 구성해야 합니다."
-1062,"주택 강제 추방"
+1062,주택 강제 추방
 1063,"'주택 강제 추방' 기능을 이용하면 특정 플레이어를 주택 안이나 정원에서 강제로 추방하고, 일정 기간 들어올 수 없도록 설정할 수 있습니다.
 
 주 메뉴 '플레이어 간 교류'의 '하우징'에 있는 '주택 설정'에서 '주택 강제 추방 권한 설정'을 선택하면 표시되는 창에서 각종 설정을 변경할 수 있습니다."
-1064,"기능 이용 권한"
+1064,기능 이용 권한
 1065,"주택 강제 추방 기능은 해당 주택에서 권한이 있는 플레이어만 이용할 수 있습니다.
 주 권한자는 주택의 종류에 따라 자동으로 설정됩니다. 보조 권한자를 설정할 수 있는 주택도 있습니다.
 
@@ -1301,7 +1237,7 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 【아파트 및 개인실】
 ・ 주 권한자: 방주인
 ・ 보조 권한자: 지정 불가"
-1066,"강제 추방자 목록"
+1066,강제 추방자 목록
 1067,"'강제 추방자 목록'은 주택에서 강제로 추방할 플레이어가 등록된 목록입니다.
 주 권한자 또는 보조 권한자는 '주택 강제 추방 권한 설정' 창에서 해당 목록을 열 수 있습니다.
 강제 추방자는 10일 동안 목록에 계정이 등록되며, 주택 안으로 들어갈 수 없고 정원에서 쫓겨납니다.
@@ -1309,13 +1245,13 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 주 권한자 또는 보조 권한자가 권리가 있는 부지 안에 있을 때, 등록 대상 플레이어의 세부 메뉴에 표시되는 '하우징 부지 침입 관리' 항목에서 '강제 추방자 목록에 등록하기'를 선택하면 표시되는 확인 화면에서 해당 플레이어를 강제 추방자 목록에 등록할 수 있습니다.
 
 또한 주 권한자는 '강제 추방 목록'에 등록된 플레이어를 목록에서 제외할 수 있습니다."
-1068,"권한자의 차단 목록 참조"
+1068,권한자의 차단 목록 참조
 1069,"차단 목록 참조 기능은 각 권한자의 차단 목록에 등록된 플레이어가 주택으로 들어오지 못하게 하는 기능입니다.
 
 권한의 종류를 불문하고 차단 목록을 참조한 권한자가 주택 안에 있을 때, 해당 권한자의 차단 목록에 등록된 플레이어가 주택에 들어오지 못하게 하며, 들어오려고 하면 강제 추방자 목록에 자동으로 등록됩니다.
 
 주 권한자가 각 권한자의 이름 왼쪽에 있는 체크박스에서 참조 여부를 결정할 수 있습니다."
-1070,"주택 강제 추방 제외 대상"
+1070,주택 강제 추방 제외 대상
 1071,"각 주택마다 강제 추방자로 등록할 수 없는 플레이어가 있습니다.
 또한 등록을 하더라도 강제 추방 대상이 되지 않습니다.
 
@@ -1323,7 +1259,7 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 ・ 주 권한자
 ・ 자유부대 주택: 소속 부대원
 ・ 개인 주택: 동거인"
-1072,"내장 스타일 변경 설명"
+1072,내장 스타일 변경 설명
 1073,"'내장 스타일 변경' 기능은
 주택의 내부 디자인을 변경하는 기능입니다.
 
@@ -1334,7 +1270,7 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 '내장 스타일 변경'에서는
 내벽, 바닥, 천장 조명을 제외한 전체적인 디자인이 변경됩니다.
 계단 위치나 바닥 모양이 변경되는 경우도 있습니다."
-1074,"내장 스타일 변경 이용 조건"
+1074,내장 스타일 변경 이용 조건
 1075,"'내장 스타일 변경'은 소형, 중형, 대형 토지에서 이용할 수 있습니다.
 개인실 및 아파트에서는 이용할 수 없습니다.
 
@@ -1345,7 +1281,7 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 
 덧붙여 주택의 자동 철거일까지 15일 이하로 남은 경우에도
 실행할 수 없습니다."
-1076,"내장 스타일 변경 이용 권한"
+1076,내장 스타일 변경 이용 권한
 1077,"'내장 스타일 변경'은
 해당 주택의 내장 스타일 변경 권한을 가진 캐릭터만 실행할 수 있습니다.
 
@@ -1357,26 +1293,26 @@ NPC가 소장품을 요구할 때는　필요한 소장 가치를 알려줍니�
 개인 주택의 경우 주택 소유자 외에
 '외장, 내장, 소품 추가/제거/배치/염색' 권한을 가진
 동거인이 실행할 수 있습니다."
-1078,""
-1079,""
-1080,""
-1081,""
-1082,""
-1083,""
-1084,""
-1085,""
-1086,""
-1087,""
-1088,""
-1089,""
-1090,""
-1091,""
-1092,""
-1093,""
-1094,""
-1095,""
-1096,""
-1097,""
-1098,""
-1099,""
-2000,""
+1078,
+1079,
+1080,
+1081,
+1082,
+1083,
+1084,
+1085,
+1086,
+1087,
+1088,
+1089,
+1090,
+1091,
+1092,
+1093,
+1094,
+1095,
+1096,
+1097,
+1098,
+1099,
+2000,

@@ -1,33 +1,31 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02","어? 이봐, 어디 가!?
+#,Unknown0,Unknown1
+0,TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02,"어? 이봐, 어디 가!?
 빨리 이쪽으로 와!"
-1,"TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03","기다리게.
+1,TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03,"기다리게.
 물에 빠진 돌고래 주점에 가고 싶다면
 그리파와 대화하게나."
-2,"TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05","어? 이봐, 잠깐 기다려.
+2,TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05,"어? 이봐, 잠깐 기다려.
 물에 빠진 돌고래 주점에서 바데론의 이야기는 들었나?
 앞으로 림사 로민사에서 활동하려면 놈을 만나는 게 좋을걸."
-3,"TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07","거기 자네, 모험가 등록은 했나?
+3,TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07,"거기 자네, 모험가 등록은 했나?
 아직 안 했으면 물에 빠진 돌고래 주점에 있는
 바데론에게 이야기를 들어봐."
-4,"TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09","잠깐, 당신! 이리 좀 와봐.
+4,TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09,"잠깐, 당신! 이리 좀 와봐.
 보아하니 신입 모험가 같은데, 맞지?
 그럼 바데론이 하는 이야기를 들어두는 게 좋을 거야."
-5,"TEXT_OPENINGLIMSALOMINSA_QUENTENAIN_000_11","이런, 잠깐.
+5,TEXT_OPENINGLIMSALOMINSA_QUENTENAIN_000_11,"이런, 잠깐.
 림사 로민사에서 활동할 생각이라면
 바데론 형씨의 이야기를 들어두는 게 좋을걸."
-6,"TEXT_OPENINGLIMSALOMINSA_SKAENRAEL_000_13","잠깐만 기다리게.
+6,TEXT_OPENINGLIMSALOMINSA_SKAENRAEL_000_13,"잠깐만 기다리게.
 우선 근처에서 자네에게 도움을 줄 사람부터 찾아.
 도시 탐색은 그다음에 해도 늦지 않네."
-7,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_20","지금부터 게임에 대한 기본적인 설명을 시작합니다."
-8,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_21","우선 '조작 설명'을 참고하며 카메라를 움직이거나
+7,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_20,지금부터 게임에 대한 기본적인 설명을 시작합니다.
+8,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_21,"우선 '조작 설명'을 참고하며 카메라를 움직이거나
 캐릭터를 이동시켜 보십시오."
-9,"TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22","조작에 익숙해지면 당신을 부르는
+9,TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22,"조작에 익숙해지면 당신을 부르는
 '리스플로' 앞으로 이동합시다."
-10,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23","게임의 조작 방식을 선택하십시오."
-11,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01","원하는 조작 방식을
+10,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23,게임의 조작 방식을 선택하십시오.
+11,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01,"원하는 조작 방식을
 선택하십시오."
-12,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01","키보드/마우스 조작"
-13,"TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02","<If(GreaterThan(PlayerParameter(75),1))>컨트롤러<Else/>게임패드</If> 조작"
+12,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01,키보드/마우스 조작
+13,TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02,컨트롤러 조작

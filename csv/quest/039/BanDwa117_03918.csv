@@ -1,113 +1,111 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANDWA117_03918_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANDWA117_03918_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 와츠의 망치 작업장에 있는 레기트는 매입처 문제를 해결해 주길 바라는 듯하다."
-1,"TEXT_BANDWA117_03918_SEQ_01","찌푸린 마을에 있는 매입 담당 드워프와 대화"
-2,"TEXT_BANDWA117_03918_SEQ_02","찌푸린 마을에 있는 모르드족 상인에게 의뢰받은 물품 납품"
-3,"TEXT_BANDWA117_03918_SEQ_03","레기트에게 보고"
-4,"TEXT_BANDWA117_03918_SEQ_04",""
-5,"TEXT_BANDWA117_03918_SEQ_05",""
-6,"TEXT_BANDWA117_03918_SEQ_06",""
-7,"TEXT_BANDWA117_03918_SEQ_07",""
-8,"TEXT_BANDWA117_03918_SEQ_08",""
-9,"TEXT_BANDWA117_03918_SEQ_09",""
-10,"TEXT_BANDWA117_03918_SEQ_10",""
-11,"TEXT_BANDWA117_03918_SEQ_11",""
-12,"TEXT_BANDWA117_03918_SEQ_12",""
-13,"TEXT_BANDWA117_03918_SEQ_13",""
-14,"TEXT_BANDWA117_03918_SEQ_14",""
-15,"TEXT_BANDWA117_03918_SEQ_15",""
-16,"TEXT_BANDWA117_03918_SEQ_16",""
-17,"TEXT_BANDWA117_03918_SEQ_17",""
-18,"TEXT_BANDWA117_03918_SEQ_18",""
-19,"TEXT_BANDWA117_03918_SEQ_19",""
-20,"TEXT_BANDWA117_03918_SEQ_20",""
-21,"TEXT_BANDWA117_03918_SEQ_21",""
-22,"TEXT_BANDWA117_03918_SEQ_22",""
-23,"TEXT_BANDWA117_03918_SEQ_23",""
-24,"TEXT_BANDWA117_03918_TODO_00","찌푸린 마을에 있는 매입 담당 드워프와 대화"
-25,"TEXT_BANDWA117_03918_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>찌푸린 마을의 모르드족 상인에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>찌푸린 마을의 모르드족 상인에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>찌푸린 마을의 모르드족 상인에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>찌푸린 마을의 모르드족 상인에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>찌푸린 마을의 모르드족 상인에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>찌푸린 마을의 모르드족 상인에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>찌푸린 마을의 모르드족 상인에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>찌푸린 마을의 모르드족 상인에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANDWA117_03918_TODO_02","레기트에게 보고"
-27,"TEXT_BANDWA117_03918_TODO_03",""
-28,"TEXT_BANDWA117_03918_TODO_04",""
-29,"TEXT_BANDWA117_03918_TODO_05",""
-30,"TEXT_BANDWA117_03918_TODO_06",""
-31,"TEXT_BANDWA117_03918_TODO_07",""
-32,"TEXT_BANDWA117_03918_TODO_08",""
-33,"TEXT_BANDWA117_03918_TODO_09",""
-34,"TEXT_BANDWA117_03918_TODO_10",""
-35,"TEXT_BANDWA117_03918_TODO_11",""
-36,"TEXT_BANDWA117_03918_TODO_12",""
-37,"TEXT_BANDWA117_03918_TODO_13",""
-38,"TEXT_BANDWA117_03918_TODO_14",""
-39,"TEXT_BANDWA117_03918_TODO_15",""
-40,"TEXT_BANDWA117_03918_TODO_16",""
-41,"TEXT_BANDWA117_03918_TODO_17",""
-42,"TEXT_BANDWA117_03918_TODO_18",""
-43,"TEXT_BANDWA117_03918_TODO_19",""
-44,"TEXT_BANDWA117_03918_TODO_20",""
-45,"TEXT_BANDWA117_03918_TODO_21",""
-46,"TEXT_BANDWA117_03918_TODO_22",""
-47,"TEXT_BANDWA117_03918_TODO_23",""
-48,"TEXT_BANDWA117_03918_REGITT_000_000","주포용 재료를 매입하러 간 동료가 아직도 안 왔어라리.
+1,TEXT_BANDWA117_03918_SEQ_01,찌푸린 마을에 있는 매입 담당 드워프와 대화
+2,TEXT_BANDWA117_03918_SEQ_02,찌푸린 마을에 있는 모르드족 상인에게 의뢰받은 물품 납품
+3,TEXT_BANDWA117_03918_SEQ_03,레기트에게 보고
+4,TEXT_BANDWA117_03918_SEQ_04,
+5,TEXT_BANDWA117_03918_SEQ_05,
+6,TEXT_BANDWA117_03918_SEQ_06,
+7,TEXT_BANDWA117_03918_SEQ_07,
+8,TEXT_BANDWA117_03918_SEQ_08,
+9,TEXT_BANDWA117_03918_SEQ_09,
+10,TEXT_BANDWA117_03918_SEQ_10,
+11,TEXT_BANDWA117_03918_SEQ_11,
+12,TEXT_BANDWA117_03918_SEQ_12,
+13,TEXT_BANDWA117_03918_SEQ_13,
+14,TEXT_BANDWA117_03918_SEQ_14,
+15,TEXT_BANDWA117_03918_SEQ_15,
+16,TEXT_BANDWA117_03918_SEQ_16,
+17,TEXT_BANDWA117_03918_SEQ_17,
+18,TEXT_BANDWA117_03918_SEQ_18,
+19,TEXT_BANDWA117_03918_SEQ_19,
+20,TEXT_BANDWA117_03918_SEQ_20,
+21,TEXT_BANDWA117_03918_SEQ_21,
+22,TEXT_BANDWA117_03918_SEQ_22,
+23,TEXT_BANDWA117_03918_SEQ_23,
+24,TEXT_BANDWA117_03918_TODO_00,찌푸린 마을에 있는 매입 담당 드워프와 대화
+25,TEXT_BANDWA117_03918_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANDWA117_03918_TODO_02,레기트에게 보고
+27,TEXT_BANDWA117_03918_TODO_03,
+28,TEXT_BANDWA117_03918_TODO_04,
+29,TEXT_BANDWA117_03918_TODO_05,
+30,TEXT_BANDWA117_03918_TODO_06,
+31,TEXT_BANDWA117_03918_TODO_07,
+32,TEXT_BANDWA117_03918_TODO_08,
+33,TEXT_BANDWA117_03918_TODO_09,
+34,TEXT_BANDWA117_03918_TODO_10,
+35,TEXT_BANDWA117_03918_TODO_11,
+36,TEXT_BANDWA117_03918_TODO_12,
+37,TEXT_BANDWA117_03918_TODO_13,
+38,TEXT_BANDWA117_03918_TODO_14,
+39,TEXT_BANDWA117_03918_TODO_15,
+40,TEXT_BANDWA117_03918_TODO_16,
+41,TEXT_BANDWA117_03918_TODO_17,
+42,TEXT_BANDWA117_03918_TODO_18,
+43,TEXT_BANDWA117_03918_TODO_19,
+44,TEXT_BANDWA117_03918_TODO_20,
+45,TEXT_BANDWA117_03918_TODO_21,
+46,TEXT_BANDWA117_03918_TODO_22,
+47,TEXT_BANDWA117_03918_TODO_23,
+48,TEXT_BANDWA117_03918_REGITT_000_000,"주포용 재료를 매입하러 간 동료가 아직도 안 왔어라리.
 길을 잃었을 것 같진 않고……
 분명 상대 상인과 무슨 문제가 생긴 것 같아라리!"
-49,"TEXT_BANDWA117_03918_REGITT_000_001","넌 우리보다 훨씬 세상 물정을 잘 알 테니,
+49,TEXT_BANDWA117_03918_REGITT_000_001,"넌 우리보다 훨씬 세상 물정을 잘 알 테니,
 갈등 해결 같은 건 별일도 아니지라리?
 찌푸린 마을로 간 '매입 담당 드워프'를 도와줘라리~!"
-50,"TEXT_BANDWA117_03918_MORDMERCHANT03918_000_010","당신, 이 드워프족의 지인인가?"
-51,"TEXT_BANDWA117_03918_DWARF03918_000_020","자네…… 혹시 도와주러 온 건가!?
+50,TEXT_BANDWA117_03918_MORDMERCHANT03918_000_010,"당신, 이 드워프족의 지인인가?"
+51,TEXT_BANDWA117_03918_DWARF03918_000_020,"자네…… 혹시 도와주러 온 건가!?
 실은, 가져온 대금이 부족하다고 하지 뭔가.
 하지만 재료는 꼭 필요하고, 이대로 돌아갈 수는 없단 말이지……."
-52,"TEXT_BANDWA117_03918_DWARF03918_000_030","……그래! 자네, 내가 가져온 재료를 사용해서
-'<Sheet(ItemHQ,31171,0)/>'<13>FF1102280DFF074974656D4851F279C30103FF04EBA5BCFF04EC9D84</13> 만들어줄 수 있을까?
+52,TEXT_BANDWA117_03918_DWARF03918_000_030,"……그래! 자네, 내가 가져온 재료를 사용해서
+'' 만들어줄 수 있을까?
 예를 들어 모르드족이 좋아할 만한 금속제 장식품 같은 것 말이야!"
-53,"TEXT_BANDWA117_03918_DWARF03918_000_040","……그래! 자네, 내가 가져온 재료를 사용해서
-'<Sheet(ItemHQ,31171,0)/>'<13>FF1102280DFF074974656D4851F279C30103FF04EBA5BCFF04EC9D84</13> 만들어줄 수 있을까?
+53,TEXT_BANDWA117_03918_DWARF03918_000_040,"……그래! 자네, 내가 가져온 재료를 사용해서
+'' 만들어줄 수 있을까?
 예를 들어 모르드족이 좋아할 만한 장식이 달린 가구 같은 것 말이야!"
-54,"TEXT_BANDWA117_03918_DWARF03918_000_050","……그래! 자네, 내가 가져온 재료를 사용해서
-'<Sheet(ItemHQ,31171,0)/>'<13>FF1102280DFF074974656D4851F279C30103FF04EBA5BCFF04EC9D84</13> 만들어줄 수 있을까?
+54,TEXT_BANDWA117_03918_DWARF03918_000_050,"……그래! 자네, 내가 가져온 재료를 사용해서
+'' 만들어줄 수 있을까?
 예를 들어 모르드족이 좋아할 만한 약차 같은 것 말이야!"
-55,"TEXT_BANDWA117_03918_DWARF03918_000_060","재료가 부족하면 주저 말고 말해줘.
+55,TEXT_BANDWA117_03918_DWARF03918_000_060,"재료가 부족하면 주저 말고 말해줘.
 그리고 완성한 물품은 '모르드족 상인'에게 건네주고.
 자네가 만든 것이라면 분명 만족할 거야!"
-56,"TEXT_BANDWA117_03918_DWARF03918_000_070","'<Sheet(ItemHQ,31171,0)/>'<13>FF1102280DFF074974656D4851F279C30103FF04EBA5BCFF04EC9D84</13> 완성하면
+56,TEXT_BANDWA117_03918_DWARF03918_000_070,"'' 완성하면
 '모르드족 상인'에게 주도록 해!"
-57,"TEXT_BANDWA117_03918_DWARF03918_000_071","'<Sheet(ItemHQ,31171,0)/>'<13>FF1102280DFF074974656D4851F279C30103FF04EBA5BCFF04EC9D84</13> 완성하면
+57,TEXT_BANDWA117_03918_DWARF03918_000_071,"'' 완성하면
 '모르드족 상인'에게 주도록 해!"
-58,"TEXT_BANDWA117_03918_DWARF03918_000_072","'<Sheet(ItemHQ,31171,0)/>'<13>FF1102280DFF074974656D4851F279C30103FF04EBA5BCFF04EC9D84</13> 완성하면
+58,TEXT_BANDWA117_03918_DWARF03918_000_072,"'' 완성하면
 '모르드족 상인'에게 주도록 해!"
-59,"TEXT_BANDWA117_03918_DWARF03918_000_080","이런, 재료가 부족해?
+59,TEXT_BANDWA117_03918_DWARF03918_000_080,"이런, 재료가 부족해?
 그럼 이걸 써!"
-60,"TEXT_BANDWA117_03918_DWARF03918_000_081","이런, 재료가 부족해?
+60,TEXT_BANDWA117_03918_DWARF03918_000_081,"이런, 재료가 부족해?
 그럼 이걸 써!"
-61,"TEXT_BANDWA117_03918_DWARF03918_000_082","이런, 재료가 부족해?
+61,TEXT_BANDWA117_03918_DWARF03918_000_082,"이런, 재료가 부족해?
 그럼 이걸 써!"
-62,"TEXT_BANDWA117_03918_MORDMERCHANT03918_000_090","혹시 당신이 부족한 대금을 내줄 거야?
+62,TEXT_BANDWA117_03918_MORDMERCHANT03918_000_090,"혹시 당신이 부족한 대금을 내줄 거야?
 그렇다면 물건으로 줘도 괜찮다!"
-63,"TEXT_BANDWA117_03918_MORDMERCHANT03918_000_100","이, 이건……!
+63,TEXT_BANDWA117_03918_MORDMERCHANT03918_000_100,"이, 이건……!
 멋지군, 이거라면 대금으로 충분하다!"
-64,"TEXT_BANDWA117_03918_DWARF03918_000_101","얏호, 살았다!"
-65,"TEXT_BANDWA117_03918_DWARF03918_000_102","도와줘서 고마워!
+64,TEXT_BANDWA117_03918_DWARF03918_000_101,"얏호, 살았다!"
+65,TEXT_BANDWA117_03918_DWARF03918_000_102,"도와줘서 고마워!
 재료는 내가 책임지고 작업장까지 운반할 테니
 자네는 먼저 돌아가서 '레기트'에게 보고를 부탁해."
-66,"TEXT_BANDWA117_03918_DWARF03918_000_110","매입한 재료는 내가 책임지고 작업장까지 운반할게.
+66,TEXT_BANDWA117_03918_DWARF03918_000_110,"매입한 재료는 내가 책임지고 작업장까지 운반할게.
 자네는 먼저 돌아가서 '레기트'에게 보고를 부탁해."
-67,"TEXT_BANDWA117_03918_MORDMERCHANT03918_000_111","이런 물건을 만들다니, 당신 훌륭한 장인이다.
+67,TEXT_BANDWA117_03918_MORDMERCHANT03918_000_111,"이런 물건을 만들다니, 당신 훌륭한 장인이다.
 결과적으로 대금이 부족한 게 다행이었다.
 또 거래 부탁한다!"
-68,"TEXT_BANDWA117_03918_REGITT_000_120","수고했어, 표정을 보니 문제를 해결했구나라리?
+68,TEXT_BANDWA117_03918_REGITT_000_120,"수고했어, 표정을 보니 문제를 해결했구나라리?
 너무너무 고마워라리~!"
-69,"TEXT_BANDWA117_03918_REGITT_000_121","매입하려고 했던 재료는 암광 원석이라고 하는 건데
+69,TEXT_BANDWA117_03918_REGITT_000_121,"매입하려고 했던 재료는 암광 원석이라고 하는 건데
 주포의 에테르 증폭 장치 제조에 꼭 필요한 거야라리.
 다른 재료로 시험해 봤는데 잘 되지 않더라고라리……."
-70,"TEXT_BANDWA117_03918_REGITT_000_122","처음으로 마장포를 설계한 로라시아 누님의 기술,
+70,TEXT_BANDWA117_03918_REGITT_000_122,"처음으로 마장포를 설계한 로라시아 누님의 기술,
 그리고 그것을 개선시켜온 크리스타리움의 기술,
 둘 다 대단하다니까라리~!"
-71,"TEXT_BANDWA117_03918_SYSTEM_000_130","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+71,TEXT_BANDWA117_03918_SYSTEM_000_130,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."
-72,"TEXT_BANDWA117_03918_REGITT_000_130","（★未使用／削除予定★）"
+72,TEXT_BANDWA117_03918_REGITT_000_130,（★未使用／削除予定★）

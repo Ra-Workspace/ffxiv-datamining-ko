@@ -1,197 +1,195 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBWHM500_01084_SEQ_00","고요한 야영지에 있는 라야 오 센나는 모험가에게 할 말이 있는 듯하다."
-1,"TEXT_JOBWHM500_01084_SEQ_01","라야 오 센나가 일을 맡겼다. 중부삼림 '영원그늘'의 <Sheet(EObj,2002408,0)/>에서 장로나무를 진정시키자."
-2,"TEXT_JOBWHM500_01084_SEQ_02","<Sheet(EObj,2002408,0)/>에서 장로나무를 진정시켰다. 남부삼림 '고요한 야영지'에 있는 '라야 오 센나'에게 보고하자."
-3,"TEXT_JOBWHM500_01084_SEQ_03","라야 오 센나에게 보고했다. 그녀는 이번 일에 대한 보상이라며, 아 토와 칸트가 사라지기 전에 남긴 마지막 백마도사의 의복을 주었다. 또한 라야 오는 모험가에게 기술 '거룩한 축복'을 가르쳐주었다. 그녀는 모험가를 이제 어엿한 백마도사로 인정하면서, 백마법으로 더욱 많은 사람을 구해야 한다고 일깨워 주었다.
+#,Unknown0,Unknown1
+0,TEXT_JOBWHM500_01084_SEQ_00,고요한 야영지에 있는 라야 오 센나는 모험가에게 할 말이 있는 듯하다.
+1,TEXT_JOBWHM500_01084_SEQ_01,라야 오 센나가 일을 맡겼다. 중부삼림 '영원그늘'의 에서 장로나무를 진정시키자.
+2,TEXT_JOBWHM500_01084_SEQ_02,에서 장로나무를 진정시켰다. 남부삼림 '고요한 야영지'에 있는 '라야 오 센나'에게 보고하자.
+3,TEXT_JOBWHM500_01084_SEQ_03,"라야 오 센나에게 보고했다. 그녀는 이번 일에 대한 보상이라며, 아 토와 칸트가 사라지기 전에 남긴 마지막 백마도사의 의복을 주었다. 또한 라야 오는 모험가에게 기술 '거룩한 축복'을 가르쳐주었다. 그녀는 모험가를 이제 어엿한 백마도사로 인정하면서, 백마법으로 더욱 많은 사람을 구해야 한다고 일깨워 주었다.
 
 ※ '주요 퀘스트: 신생 에오르제아' 중 '희망의 등불'을 완료하면
    고요한 야영지의 라야 오 센나에게서 새로운 잡 퀘스트를 받을 수 있습니다."
-4,"TEXT_JOBWHM500_01084_SEQ_04",""
-5,"TEXT_JOBWHM500_01084_SEQ_05",""
-6,"TEXT_JOBWHM500_01084_SEQ_06",""
-7,"TEXT_JOBWHM500_01084_SEQ_07",""
-8,"TEXT_JOBWHM500_01084_SEQ_08",""
-9,"TEXT_JOBWHM500_01084_SEQ_09",""
-10,"TEXT_JOBWHM500_01084_SEQ_10",""
-11,"TEXT_JOBWHM500_01084_SEQ_11",""
-12,"TEXT_JOBWHM500_01084_SEQ_12",""
-13,"TEXT_JOBWHM500_01084_SEQ_13",""
-14,"TEXT_JOBWHM500_01084_SEQ_14",""
-15,"TEXT_JOBWHM500_01084_SEQ_15",""
-16,"TEXT_JOBWHM500_01084_SEQ_16",""
-17,"TEXT_JOBWHM500_01084_SEQ_17",""
-18,"TEXT_JOBWHM500_01084_SEQ_18",""
-19,"TEXT_JOBWHM500_01084_SEQ_19",""
-20,"TEXT_JOBWHM500_01084_SEQ_20",""
-21,"TEXT_JOBWHM500_01084_SEQ_21",""
-22,"TEXT_JOBWHM500_01084_SEQ_22",""
-23,"TEXT_JOBWHM500_01084_SEQ_23",""
-24,"TEXT_JOBWHM500_01084_TODO_00","영원그늘의 <Sheet(EObj,2002408,0)/>에서 장로나무 진정시키기"
-25,"TEXT_JOBWHM500_01084_TODO_01","고요한 야영지에서 라야 오 센나에게 보고"
-26,"TEXT_JOBWHM500_01084_TODO_02",""
-27,"TEXT_JOBWHM500_01084_TODO_03",""
-28,"TEXT_JOBWHM500_01084_TODO_04",""
-29,"TEXT_JOBWHM500_01084_TODO_05",""
-30,"TEXT_JOBWHM500_01084_TODO_06",""
-31,"TEXT_JOBWHM500_01084_TODO_07",""
-32,"TEXT_JOBWHM500_01084_TODO_08",""
-33,"TEXT_JOBWHM500_01084_TODO_09",""
-34,"TEXT_JOBWHM500_01084_TODO_10",""
-35,"TEXT_JOBWHM500_01084_TODO_11",""
-36,"TEXT_JOBWHM500_01084_TODO_12",""
-37,"TEXT_JOBWHM500_01084_TODO_13",""
-38,"TEXT_JOBWHM500_01084_TODO_14",""
-39,"TEXT_JOBWHM500_01084_TODO_15",""
-40,"TEXT_JOBWHM500_01084_TODO_16",""
-41,"TEXT_JOBWHM500_01084_TODO_17",""
-42,"TEXT_JOBWHM500_01084_TODO_18",""
-43,"TEXT_JOBWHM500_01084_TODO_19",""
-44,"TEXT_JOBWHM500_01084_TODO_20",""
-45,"TEXT_JOBWHM500_01084_TODO_21",""
-46,"TEXT_JOBWHM500_01084_TODO_22",""
-47,"TEXT_JOBWHM500_01084_TODO_23",""
-48,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_000","미안해요, <Highlight>ObjectParameter(1)</Highlight>.
+4,TEXT_JOBWHM500_01084_SEQ_04,
+5,TEXT_JOBWHM500_01084_SEQ_05,
+6,TEXT_JOBWHM500_01084_SEQ_06,
+7,TEXT_JOBWHM500_01084_SEQ_07,
+8,TEXT_JOBWHM500_01084_SEQ_08,
+9,TEXT_JOBWHM500_01084_SEQ_09,
+10,TEXT_JOBWHM500_01084_SEQ_10,
+11,TEXT_JOBWHM500_01084_SEQ_11,
+12,TEXT_JOBWHM500_01084_SEQ_12,
+13,TEXT_JOBWHM500_01084_SEQ_13,
+14,TEXT_JOBWHM500_01084_SEQ_14,
+15,TEXT_JOBWHM500_01084_SEQ_15,
+16,TEXT_JOBWHM500_01084_SEQ_16,
+17,TEXT_JOBWHM500_01084_SEQ_17,
+18,TEXT_JOBWHM500_01084_SEQ_18,
+19,TEXT_JOBWHM500_01084_SEQ_19,
+20,TEXT_JOBWHM500_01084_SEQ_20,
+21,TEXT_JOBWHM500_01084_SEQ_21,
+22,TEXT_JOBWHM500_01084_SEQ_22,
+23,TEXT_JOBWHM500_01084_SEQ_23,
+24,TEXT_JOBWHM500_01084_TODO_00,영원그늘의 에서 장로나무 진정시키기
+25,TEXT_JOBWHM500_01084_TODO_01,고요한 야영지에서 라야 오 센나에게 보고
+26,TEXT_JOBWHM500_01084_TODO_02,
+27,TEXT_JOBWHM500_01084_TODO_03,
+28,TEXT_JOBWHM500_01084_TODO_04,
+29,TEXT_JOBWHM500_01084_TODO_05,
+30,TEXT_JOBWHM500_01084_TODO_06,
+31,TEXT_JOBWHM500_01084_TODO_07,
+32,TEXT_JOBWHM500_01084_TODO_08,
+33,TEXT_JOBWHM500_01084_TODO_09,
+34,TEXT_JOBWHM500_01084_TODO_10,
+35,TEXT_JOBWHM500_01084_TODO_11,
+36,TEXT_JOBWHM500_01084_TODO_12,
+37,TEXT_JOBWHM500_01084_TODO_13,
+38,TEXT_JOBWHM500_01084_TODO_14,
+39,TEXT_JOBWHM500_01084_TODO_15,
+40,TEXT_JOBWHM500_01084_TODO_16,
+41,TEXT_JOBWHM500_01084_TODO_17,
+42,TEXT_JOBWHM500_01084_TODO_18,
+43,TEXT_JOBWHM500_01084_TODO_19,
+44,TEXT_JOBWHM500_01084_TODO_20,
+45,TEXT_JOBWHM500_01084_TODO_21,
+46,TEXT_JOBWHM500_01084_TODO_22,
+47,TEXT_JOBWHM500_01084_TODO_23,
+48,TEXT_JOBWHM500_01084_RAYAOSENNA_000_000,"미안해요, Player Player.
 어떻게 하면 의복에 힘을 불어넣을 수 있을지
 아 룬하고 여러 가지로 상의해봤는데요……."
-49,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_001","……안타깝게도 이렇다 할 방법은 못 찾았어.
+49,TEXT_JOBWHM500_010841_ARUHNSENNA_000_001,"……안타깝게도 이렇다 할 방법은 못 찾았어.
 아 토와 님이 가진 힘을 빌리지 않는 한
 의복에 힘을 불어넣기는 힘들 것 같아."
-50,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_002","으…… 혹시나 했는데.
-이제 어쩌죠…… <Highlight>ObjectParameter(1)</Highlight>, 아 룬?"
-51,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_003","라야 오 누나, 고민하고 있을 시간 없어."
-52,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_004","무슨 소리야?"
-53,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_005","'장로나무'에서 아주 강한 분노가 느껴져.
+50,TEXT_JOBWHM500_01084_RAYAOSENNA_000_002,"으…… 혹시나 했는데.
+이제 어쩌죠…… Player Player, 아 룬?"
+51,TEXT_JOBWHM500_010841_ARUHNSENNA_000_003,"라야 오 누나, 고민하고 있을 시간 없어."
+52,TEXT_JOBWHM500_01084_RAYAOSENNA_000_004,무슨 소리야?
+53,TEXT_JOBWHM500_010841_ARUHNSENNA_000_005,"'장로나무'에서 아주 강한 분노가 느껴져.
 이제 슬슬…… 한계가 아닌가 싶어."
-54,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_006","이럴 수가, 그럼 어서 '진정의 의식'을…… 앗!
-그렇지, <Highlight>ObjectParameter(1)</Highlight>의 의복이 아직……!"
-55,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_007","아직 '진정의 의복' 일부가 부족하지만
+54,TEXT_JOBWHM500_01084_RAYAOSENNA_000_006,"이럴 수가, 그럼 어서 '진정의 의식'을…… 앗!
+그렇지, Player Player의 의복이 아직……!"
+55,TEXT_JOBWHM500_010841_ARUHNSENNA_000_007,"아직 '진정의 의복' 일부가 부족하지만
 이대로 해볼 수밖에 없겠어.
-<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 잘해주길 바랄 수밖에!"
-56,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_008","……너, 그래도 괜찮겠어?
+Player Player 잘해주길 바랄 수밖에!"
+56,TEXT_JOBWHM500_01084_RAYAOSENNA_000_008,"……너, 그래도 괜찮겠어?
 '뿔의 아이'끼리 어떻게든 해보자고
 그렇게 얘기할 줄 알았는데……."
-57,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_009","……지난번에 도움받았을 때부터
-나는 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13> 인정했어.
+57,TEXT_JOBWHM500_010841_ARUHNSENNA_000_009,"……지난번에 도움받았을 때부터
+나는 Player Player 인정했어.
 의심의 여지가 없는 훌륭한 백마도사인걸."
-58,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_010","……알겠어.
+58,TEXT_JOBWHM500_01084_RAYAOSENNA_000_010,"……알겠어.
 그럼 좋아, '진정의 의식'을 치르자!
 '영원그늘'로 어서 가죠!"
-59,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_080","왜 그래요, <Highlight>ObjectParameter(1)</Highlight>?
+59,TEXT_JOBWHM500_01084_RAYAOSENNA_000_080,"왜 그래요, Player Player?
 당신이 맡기로 한 곳은 여기가 아니잖아요!
 어서 자기 자리로 돌아가세요!"
-60,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_081","이제 할 수밖에 없어, <Highlight>ObjectParameter(1)</Highlight>.
+60,TEXT_JOBWHM500_010841_ARUHNSENNA_000_081,"이제 할 수밖에 없어, Player Player.
 말도 안 되는 부탁인 건 잘 알고 있어.
 그래도…… 꼭 해야만 해. 정해진 자리로 가!"
-61,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_020","이, 이럴 수가!
+61,TEXT_JOBWHM500_010841_ARUHNSENNA_000_020,"이, 이럴 수가!
 대정령에게 우리 목소리가 전해지지 않아!"
-62,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_021","포기하지 마!
+62,TEXT_JOBWHM500_01084_RAYAOSENNA_000_021,"포기하지 마!
 우리가 안 하면 누가 하겠어!?"
-63,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_022","그, 그렇지만 대정령이 부른 나무정령 무리가 저렇게……!"
-64,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_023","큭…… 마음을 나누는 데 집중을 못 하겠어. 이대로는 위험해."
-65,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_024","<Highlight>ObjectParameter(1)</Highlight>, 도망쳐요!!"
-66,"TEXT_JOBWHM500_01084_ATOWACANT_000_025","(-???-)뭘 멍하니 넋을 놓고 있는 겐가!
-정신 똑바로 못 차리겠나, <Highlight>ObjectParameter(1)</Highlight>!!"
-67,"TEXT_JOBWHM500_01084_ATOWACANT_000_026","(-???-)'진정의 의식'은 이제부터다, 아이들아!"
-68,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_027","다, 당신은…… 설마, 아 토와 칸트 님!?
+63,TEXT_JOBWHM500_010841_ARUHNSENNA_000_022,"그, 그렇지만 대정령이 부른 나무정령 무리가 저렇게……!"
+64,TEXT_JOBWHM500_01084_RAYAOSENNA_000_023,큭…… 마음을 나누는 데 집중을 못 하겠어. 이대로는 위험해.
+65,TEXT_JOBWHM500_01084_RAYAOSENNA_000_024,"Player Player, 도망쳐요!!"
+66,TEXT_JOBWHM500_01084_ATOWACANT_000_025,"(-???-)뭘 멍하니 넋을 놓고 있는 겐가!
+정신 똑바로 못 차리겠나, Player Player!!"
+67,TEXT_JOBWHM500_01084_ATOWACANT_000_026,"(-???-)'진정의 의식'은 이제부터다, 아이들아!"
+68,TEXT_JOBWHM500_010841_ARUHNSENNA_000_027,"다, 당신은…… 설마, 아 토와 칸트 님!?
 분명 돌아가셨을 텐데 어떻게 이곳에!!"
-69,"TEXT_JOBWHM500_01084_ATOWACANT_000_028","그 얘기는 나중에 하지!
-아 룬, 라야 오, <Highlight>ObjectParameter(1)</Highlight>!
+69,TEXT_JOBWHM500_01084_ATOWACANT_000_028,"그 얘기는 나중에 하지!
+아 룬, 라야 오, Player Player!
 지금은 '장로나무'에 집중해야 할 때다!!"
-70,"TEXT_JOBWHM500_01084_ATOWACANT_000_029","'장로나무'의 마음을 치유하여 대정령을 진정시켜야 한다.
+70,TEXT_JOBWHM500_01084_ATOWACANT_000_029,"'장로나무'의 마음을 치유하여 대정령을 진정시켜야 한다.
 우선 분노에 이끌린 마물들부터 처리하고
 의식을 다시 시작하거라!"
-71,"TEXT_JOBWHM500_01084_ATOWACANT_000_040","자, 이 틈에 '장로나무'에게 치유의 힘을!"
-72,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_041","대정령이…… 진정됐나요……?"
-73,"TEXT_JOBWHM500_01084_ATOWACANT_000_042","음, 그런 것 같군.
+71,TEXT_JOBWHM500_01084_ATOWACANT_000_040,"자, 이 틈에 '장로나무'에게 치유의 힘을!"
+72,TEXT_JOBWHM500_01084_RAYAOSENNA_000_041,대정령이…… 진정됐나요……?
+73,TEXT_JOBWHM500_01084_ATOWACANT_000_042,"음, 그런 것 같군.
 그대들이 아주 잘해주었다……. 정말 훌륭했다네."
-74,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_043","아 토와 님, 살아계셨던 건가요!?"
-75,"TEXT_JOBWHM500_01084_ATOWACANT_000_044","아니네, 지금 나는 그저 환상일 뿐이지.
-<Highlight>ObjectParameter(1)</Highlight>의 힘을 빌려 일어난
+74,TEXT_JOBWHM500_010841_ARUHNSENNA_000_043,"아 토와 님, 살아계셨던 건가요!?"
+75,TEXT_JOBWHM500_01084_ATOWACANT_000_044,"아니네, 지금 나는 그저 환상일 뿐이지.
+Player Player의 힘을 빌려 일어난
 자그마한 기적의 산물……."
-76,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_045","기, 기적이라고요……."
-77,"TEXT_JOBWHM500_01084_ATOWACANT_000_046","어쩌면 위대한 어머니 크리스탈이
+76,TEXT_JOBWHM500_01084_RAYAOSENNA_000_045,"기, 기적이라고요……."
+77,TEXT_JOBWHM500_01084_ATOWACANT_000_046,"어쩌면 위대한 어머니 크리스탈이
 내 작은 소원을 들어준 걸지도 모르지……."
-78,"TEXT_JOBWHM500_01084_ATOWACANT_000_047","……그 당시 라노시아에서 목숨을 다한 것은 어쩔 수가 없었네.
+78,TEXT_JOBWHM500_01084_ATOWACANT_000_047,"……그 당시 라노시아에서 목숨을 다한 것은 어쩔 수가 없었네.
 허나 그때 내 뒤를 이을 자가 없다는 것…….
 그 하나가…… 못내 마음에 걸렸지."
-79,"TEXT_JOBWHM500_01084_ATOWACANT_000_048","나는 최후의 힘으로 내 마지막 염원을 소울 크리스탈에 담고서
+79,TEXT_JOBWHM500_01084_ATOWACANT_000_048,"나는 최후의 힘으로 내 마지막 염원을 소울 크리스탈에 담고서
 언젠가 내 뒤를 이을 만한 적임자가 나타나기만을
 기다리고 있었네."
-80,"TEXT_JOBWHM500_01084_ATOWACANT_000_049","그리고…… <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13> 만났지."
-81,"TEXT_JOBWHM500_01084_ATOWACANT_000_050","그대 같은 자가 내 소울 크리스탈을……
+80,TEXT_JOBWHM500_01084_ATOWACANT_000_049,그리고…… Player Player 만났지.
+81,TEXT_JOBWHM500_01084_ATOWACANT_000_050,"그대 같은 자가 내 소울 크리스탈을……
 그리고 내 뜻을 이어준다면
 설령 뿔의 아이가 아니라도 문제될 것은 전혀 없다네."
-82,"TEXT_JOBWHM500_01084_ATOWACANT_000_051","……으, 으으읏!?"
-83,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_052","아 토와 님!?"
-84,"TEXT_JOBWHM500_01084_ATOWACANT_000_053","소울 크리스탈에 담아 놓은 힘이 다했네…… 여기까지로군.
-그럼 잘 있게나, 백마도사 <Highlight>ObjectParameter(1)</Highlight>.
+82,TEXT_JOBWHM500_01084_ATOWACANT_000_051,"……으, 으으읏!?"
+83,TEXT_JOBWHM500_010841_ARUHNSENNA_000_052,아 토와 님!?
+84,TEXT_JOBWHM500_01084_ATOWACANT_000_053,"소울 크리스탈에 담아 놓은 힘이 다했네…… 여기까지로군.
+그럼 잘 있게나, 백마도사 Player Player.
 그리고 뿔의 아이 남매여."
-85,"TEXT_JOBWHM500_01084_ATOWACANT_000_054","이곳 검은장막 숲과 백마도사를
+85,TEXT_JOBWHM500_01084_ATOWACANT_000_054,"이곳 검은장막 숲과 백마도사를
 앞으로도 잘 부탁하네……!"
-86,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_055","사라지셨어……."
-87,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_056","응……. 이번엔 아 토와 님과
-그 뒤를 이은 <Highlight>ObjectParameter(1)</Highlight> 덕분에
+86,TEXT_JOBWHM500_01084_RAYAOSENNA_000_055,사라지셨어…….
+87,TEXT_JOBWHM500_010841_ARUHNSENNA_000_056,"응……. 이번엔 아 토와 님과
+그 뒤를 이은 Player Player 덕분에
 우리도, 검은장막 숲도 살아날 수 있었지……."
-88,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_057","아 토와 님은 검은장막 숲을 떠났지만
+88,TEXT_JOBWHM500_010841_ARUHNSENNA_000_057,"아 토와 님은 검은장막 숲을 떠났지만
 분명 마지막 순간까지 이 숲을 사랑하셨을 거야.
 그래서 뒤를 이을 자를 여기서 줄곧 기다리셨겠지……."
-89,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_058","뭐야, 너 그걸 이제야 깨달았어?
+89,TEXT_JOBWHM500_01084_RAYAOSENNA_000_058,"뭐야, 너 그걸 이제야 깨달았어?
 나는 처음부터 알고 있었다구."
-90,"TEXT_JOBWHM500_010841_ARUHNSENNA_000_059","후훗, 그랬구나.
+90,TEXT_JOBWHM500_010841_ARUHNSENNA_000_059,"후훗, 그랬구나.
 역시 누나는 항상 모든 걸 알고 있다니까. "
-91,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_060","'뿔의 아이'답게 살고 싶다는 네 마음도 잘 알아.
+91,TEXT_JOBWHM500_01084_RAYAOSENNA_000_060,"'뿔의 아이'답게 살고 싶다는 네 마음도 잘 알아.
 하지만 아 토와 님처럼 살아갈 수도 있는 거야.
 나는 모두 다 옳다고 생각해."
-92,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_061","자, 이제 됐지?
+92,TEXT_JOBWHM500_01084_RAYAOSENNA_000_061,"자, 이제 됐지?
 '장로나무'의 대정령도 진정시켰으니까
 슬슬 '고요한 야영지'로 돌아가볼까?"
-93,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_070","수고했어요, <Highlight>ObjectParameter(1)</Highlight>.
+93,TEXT_JOBWHM500_01084_RAYAOSENNA_000_070,"수고했어요, Player Player.
 생각지도 못한 일이 많이 일어났지만
 그래도 대정령을 진정시키기는 했네요!"
-94,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_071","이건 다 당신 덕분이에요.
+94,TEXT_JOBWHM500_01084_RAYAOSENNA_000_071,"이건 다 당신 덕분이에요.
 당신 없이는 절대 못 했을 테니까요."
-95,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_072","마음속 깊이 고마워하고 있어요……. 진짜예요!
+95,TEXT_JOBWHM500_01084_RAYAOSENNA_000_072,"마음속 깊이 고마워하고 있어요……. 진짜예요!
 그리고 저만 그런 게 아니라
 아 토와 님도 분명 당신한테 고마워하고 계실 거예요."
-96,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_073","왜냐하면…… 이거 봐요, 이 마지막 남은 의복!
+96,TEXT_JOBWHM500_01084_RAYAOSENNA_000_073,"왜냐하면…… 이거 봐요, 이 마지막 남은 의복!
 그분이 사라지기 전에 힘을 계승해주셨나 봐요!
 이건 틀림없이 당신한테 상으로 주고 가신 거예요!"
-97,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_074","그러니까 고맙게 받으면 돼요.
+97,TEXT_JOBWHM500_01084_RAYAOSENNA_000_074,"그러니까 고맙게 받으면 돼요.
 그리고…… 상이라면 저도…… 하나 드릴게요."
-98,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_075","……백마도사 <Highlight>ObjectParameter(1)</Highlight>."
-99,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_076","당신이 지금까지 우리에게 보여준 치유의 힘을 인정하여
+98,TEXT_JOBWHM500_01084_RAYAOSENNA_000_075,……백마도사 Player Player.
+99,TEXT_JOBWHM500_01084_RAYAOSENNA_000_076,"당신이 지금까지 우리에게 보여준 치유의 힘을 인정하여
 '삼중의 환술황' 라야 오 센나의 이름으로
 궁극의 백마법을 전수해 드리겠습니다."
-100,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_077","'거룩한 축복'이라고 합니다.
+100,TEXT_JOBWHM500_01084_RAYAOSENNA_000_077,"'거룩한 축복'이라고 합니다.
 부디 나쁜 길로 빠지지 말고 잘 다루어주시기 바랍니다."
-101,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_078","……아, 어색해.
+101,TEXT_JOBWHM500_01084_RAYAOSENNA_000_078,"……아, 어색해.
 정말 부담스럽다니까요~ 이렇게 무게 잡는 건.
 카느 에 언니는 어쩜 이런 걸 그렇게 잘하는지."
-102,"TEXT_JOBWHM500_01084_RAYAOSENNA_000_079","<Highlight>ObjectParameter(1)</Highlight>, 어쨌든 이제 당신도 어엿한 백마도사예요.
+102,TEXT_JOBWHM500_01084_RAYAOSENNA_000_079,"Player Player, 어쨌든 이제 당신도 어엿한 백마도사예요.
 앞으로 정도를 걸으며 한 명이라도 더 많은 사람을 구하기 위해
 백마법을 사용해주세요……. 그게 당신의 사명입니다."
-103,"TEXT_JOBWHM500_01084_SYSTEM_100_000","'백마도사'의 이야기가 일단락되었습니다!
+103,TEXT_JOBWHM500_01084_SYSTEM_100_000,"'백마도사'의 이야기가 일단락되었습니다!
 다음 '백마도사'의 잡 퀘스트를 시작하기 위해서는
 다음 조건을 충족시켜야 합니다."
-104,"TEXT_JOBWHM500_01084_SYSTEM_100_001","'주요 퀘스트: 신생 에오르제아' 중 '희망의 등불'을 완료할 것."
-105,"TEXT_JOBWHM500_01084_SYSTEM_100_002","조건을 충족시킨 후 고요한 야영지에서
+104,TEXT_JOBWHM500_01084_SYSTEM_100_001,'주요 퀘스트: 신생 에오르제아' 중 '희망의 등불'을 완료할 것.
+105,TEXT_JOBWHM500_01084_SYSTEM_100_002,"조건을 충족시킨 후 고요한 야영지에서
 '라야 오 센나'에게 말을 걸어
 새로운 잡 퀘스트를 시작해보세요!"
-106,"TEXT_JOBWHM500_01084_QIB_001_TODO_1","대정령을 진정시키고 장로나무를 치유하라!"
-107,"TEXT_JOBWHM500_01084_QIB_001_ATOWACANT_BATTLETALK_01","지금 '장로나무'에 깃든 대정령한텐 우리 말이 안 통할 걸세!
+106,TEXT_JOBWHM500_01084_QIB_001_TODO_1,대정령을 진정시키고 장로나무를 치유하라!
+107,TEXT_JOBWHM500_01084_QIB_001_ATOWACANT_BATTLETALK_01,"지금 '장로나무'에 깃든 대정령한텐 우리 말이 안 통할 걸세!
 숲이 다친 아픔과 분노로 이성을 잃고 있지!"
-108,"TEXT_JOBWHM500_01084_QIB_001_ATOWACANT_BATTLETALK_02","내가 그대들을 지키겠다!
+108,TEXT_JOBWHM500_01084_QIB_001_ATOWACANT_BATTLETALK_02,"내가 그대들을 지키겠다!
 그대들은 '장로나무'를 치유하는 일에만 정신을 쏟게나!"
-109,"TEXT_JOBWHM500_01084_QIB_001_RAYAOSENNA_BATTLETALK_03","아, 이 마물들 참 성가시네!
+109,TEXT_JOBWHM500_01084_QIB_001_RAYAOSENNA_BATTLETALK_03,"아, 이 마물들 참 성가시네!
 방해하지 마, '장로나무'에 집중을 못 하겠잖아!"
-110,"TEXT_JOBWHM500_01084_QIB_001_ATOWACANT_BATTLETALK_04","모두들 조금만 더 힘을 내게나!"
-111,"TEXT_JOBWHM500_01084_QIB_001_RAYAOSENNA_BATTLETALK_DEAD","안 돼……!
+110,TEXT_JOBWHM500_01084_QIB_001_ATOWACANT_BATTLETALK_04,모두들 조금만 더 힘을 내게나!
+111,TEXT_JOBWHM500_01084_QIB_001_RAYAOSENNA_BATTLETALK_DEAD,"안 돼……!
 아직 쓰러지면…… 안 되는데……!"
-112,"TEXT_JOBWHM500_01084_QIB_001_ARUHNSENNA_BATTLETALK_DEAD","뒤를 부탁해…….
+112,TEXT_JOBWHM500_01084_QIB_001_ARUHNSENNA_BATTLETALK_DEAD,"뒤를 부탁해…….
 못 구해줘서…… 미안……."
-113,"TEXT_JOBWHM500_01084_QIB_001_ATOWACANT_BATTLETALK_DEAD","미안하네…….
+113,TEXT_JOBWHM500_01084_QIB_001_ATOWACANT_BATTLETALK_DEAD,"미안하네…….
 나는 여기까지로군…… 용서하게……!"
-114,"TEXT_JOBWHM500_01084_QIB_001_ARUHNSENNA_BATTLETALK_07","어서…… 어서 빨리 '장로나무'를 치유해야 돼!
+114,TEXT_JOBWHM500_01084_QIB_001_ARUHNSENNA_BATTLETALK_07,"어서…… 어서 빨리 '장로나무'를 치유해야 돼!
 '장로나무'에 집중해줘!"

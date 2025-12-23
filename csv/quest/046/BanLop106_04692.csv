@@ -1,104 +1,102 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANLOP106_04692_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANLOP106_04692_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 희망찬 화물실에 있는 매니징웨이는 음악 체험관의 조명에 대해 생각하고 있는 듯하다."
-1,"TEXT_BANLOP106_04692_SEQ_01","당근관에 있는 휘황찬란 레포릿과 대화"
-2,"TEXT_BANLOP106_04692_SEQ_02","매니징웨이에게 의뢰받은 물품 납품"
-3,"TEXT_BANLOP106_04692_SEQ_03",""
-4,"TEXT_BANLOP106_04692_SEQ_04",""
-5,"TEXT_BANLOP106_04692_SEQ_05",""
-6,"TEXT_BANLOP106_04692_SEQ_06",""
-7,"TEXT_BANLOP106_04692_SEQ_07",""
-8,"TEXT_BANLOP106_04692_SEQ_08",""
-9,"TEXT_BANLOP106_04692_SEQ_09",""
-10,"TEXT_BANLOP106_04692_SEQ_10",""
-11,"TEXT_BANLOP106_04692_SEQ_11",""
-12,"TEXT_BANLOP106_04692_SEQ_12",""
-13,"TEXT_BANLOP106_04692_SEQ_13",""
-14,"TEXT_BANLOP106_04692_SEQ_14",""
-15,"TEXT_BANLOP106_04692_SEQ_15",""
-16,"TEXT_BANLOP106_04692_SEQ_16",""
-17,"TEXT_BANLOP106_04692_SEQ_17",""
-18,"TEXT_BANLOP106_04692_SEQ_18",""
-19,"TEXT_BANLOP106_04692_SEQ_19",""
-20,"TEXT_BANLOP106_04692_SEQ_20",""
-21,"TEXT_BANLOP106_04692_SEQ_21",""
-22,"TEXT_BANLOP106_04692_SEQ_22",""
-23,"TEXT_BANLOP106_04692_SEQ_23",""
-24,"TEXT_BANLOP106_04692_TODO_00","당근관에 있는 휘황찬란 레포릿과 대화"
-25,"TEXT_BANLOP106_04692_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANLOP106_04692_TODO_02",""
-27,"TEXT_BANLOP106_04692_TODO_03",""
-28,"TEXT_BANLOP106_04692_TODO_04",""
-29,"TEXT_BANLOP106_04692_TODO_05",""
-30,"TEXT_BANLOP106_04692_TODO_06",""
-31,"TEXT_BANLOP106_04692_TODO_07",""
-32,"TEXT_BANLOP106_04692_TODO_08",""
-33,"TEXT_BANLOP106_04692_TODO_09",""
-34,"TEXT_BANLOP106_04692_TODO_10",""
-35,"TEXT_BANLOP106_04692_TODO_11",""
-36,"TEXT_BANLOP106_04692_TODO_12",""
-37,"TEXT_BANLOP106_04692_TODO_13",""
-38,"TEXT_BANLOP106_04692_TODO_14",""
-39,"TEXT_BANLOP106_04692_TODO_15",""
-40,"TEXT_BANLOP106_04692_TODO_16",""
-41,"TEXT_BANLOP106_04692_TODO_17",""
-42,"TEXT_BANLOP106_04692_TODO_18",""
-43,"TEXT_BANLOP106_04692_TODO_19",""
-44,"TEXT_BANLOP106_04692_TODO_20",""
-45,"TEXT_BANLOP106_04692_TODO_21",""
-46,"TEXT_BANLOP106_04692_TODO_22",""
-47,"TEXT_BANLOP106_04692_TODO_23",""
-48,"TEXT_BANLOP106_04692_MANAGINGWAY_000_000","음악 체험관의 화려한 조명 말인데요,
+1,TEXT_BANLOP106_04692_SEQ_01,당근관에 있는 휘황찬란 레포릿과 대화
+2,TEXT_BANLOP106_04692_SEQ_02,매니징웨이에게 의뢰받은 물품 납품
+3,TEXT_BANLOP106_04692_SEQ_03,
+4,TEXT_BANLOP106_04692_SEQ_04,
+5,TEXT_BANLOP106_04692_SEQ_05,
+6,TEXT_BANLOP106_04692_SEQ_06,
+7,TEXT_BANLOP106_04692_SEQ_07,
+8,TEXT_BANLOP106_04692_SEQ_08,
+9,TEXT_BANLOP106_04692_SEQ_09,
+10,TEXT_BANLOP106_04692_SEQ_10,
+11,TEXT_BANLOP106_04692_SEQ_11,
+12,TEXT_BANLOP106_04692_SEQ_12,
+13,TEXT_BANLOP106_04692_SEQ_13,
+14,TEXT_BANLOP106_04692_SEQ_14,
+15,TEXT_BANLOP106_04692_SEQ_15,
+16,TEXT_BANLOP106_04692_SEQ_16,
+17,TEXT_BANLOP106_04692_SEQ_17,
+18,TEXT_BANLOP106_04692_SEQ_18,
+19,TEXT_BANLOP106_04692_SEQ_19,
+20,TEXT_BANLOP106_04692_SEQ_20,
+21,TEXT_BANLOP106_04692_SEQ_21,
+22,TEXT_BANLOP106_04692_SEQ_22,
+23,TEXT_BANLOP106_04692_SEQ_23,
+24,TEXT_BANLOP106_04692_TODO_00,당근관에 있는 휘황찬란 레포릿과 대화
+25,TEXT_BANLOP106_04692_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANLOP106_04692_TODO_02,
+27,TEXT_BANLOP106_04692_TODO_03,
+28,TEXT_BANLOP106_04692_TODO_04,
+29,TEXT_BANLOP106_04692_TODO_05,
+30,TEXT_BANLOP106_04692_TODO_06,
+31,TEXT_BANLOP106_04692_TODO_07,
+32,TEXT_BANLOP106_04692_TODO_08,
+33,TEXT_BANLOP106_04692_TODO_09,
+34,TEXT_BANLOP106_04692_TODO_10,
+35,TEXT_BANLOP106_04692_TODO_11,
+36,TEXT_BANLOP106_04692_TODO_12,
+37,TEXT_BANLOP106_04692_TODO_13,
+38,TEXT_BANLOP106_04692_TODO_14,
+39,TEXT_BANLOP106_04692_TODO_15,
+40,TEXT_BANLOP106_04692_TODO_16,
+41,TEXT_BANLOP106_04692_TODO_17,
+42,TEXT_BANLOP106_04692_TODO_18,
+43,TEXT_BANLOP106_04692_TODO_19,
+44,TEXT_BANLOP106_04692_TODO_20,
+45,TEXT_BANLOP106_04692_TODO_21,
+46,TEXT_BANLOP106_04692_TODO_22,
+47,TEXT_BANLOP106_04692_TODO_23,
+48,TEXT_BANLOP106_04692_MANAGINGWAY_000_000,"음악 체험관의 화려한 조명 말인데요,
 그곳을 찾는 동료들마다 아름답다고 칭찬 일색이에요.
 전 그 조명을 받을 때마다 두근두근 가슴이 떨린답니다!"
-49,"TEXT_BANLOP106_04692_MANAGINGWAY_000_001","하지만 그걸로 만족해선 안 돼요!
+49,TEXT_BANLOP106_04692_MANAGINGWAY_000_001,"하지만 그걸로 만족해선 안 돼요!
 그 예쁜 빛을 유지하려면 계획적인 점검과 보수가 중요하거든요.
 그래서 당신의 힘을 빌리고 싶어요."
-50,"TEXT_BANLOP106_04692_MANAGINGWAY_000_002","당근관에 가시면 조명 점검을 담당하는 동료가
+50,TEXT_BANLOP106_04692_MANAGINGWAY_000_002,"당근관에 가시면 조명 점검을 담당하는 동료가
 눈동자를 반짝반짝 빛내며 작업 준비를 하고 있을 거예요.
 그에게 말을 걸어 부족한 조명 교환 부재를 제작해 주세요!"
-51,"TEXT_BANLOP106_04692_LOPORRIT04692_000_010","조명 점검을 도와주러 오셨군요, 감사합니다!
+51,TEXT_BANLOP106_04692_LOPORRIT04692_000_010,"조명 점검을 도와주러 오셨군요, 감사합니다!
 조명을 최고의 상태로 유지하는 것이 제 사명인데요,
 필요한 부재의 재고가 떨어졌어요~!"
-52,"TEXT_BANLOP106_04692_LOPORRIT04692_000_011","이 소재로 전도성이 높은 금속 부품이 될
-'<Sheet(Item,38861,0)/>'<13>FF0F02280BFF054974656DF297CD0103FF04EBA5BCFF04EC9D84</13> 만들어 주세요!
+52,TEXT_BANLOP106_04692_LOPORRIT04692_000_011,"이 소재로 전도성이 높은 금속 부품이 될
+'' 만들어 주세요!
 재료가 떨어지면 추가로 드릴게요!"
-53,"TEXT_BANLOP106_04692_LOPORRIT04692_000_012","이 소재로 조명을 반짝반짝 닦기 위한
-'<Sheet(Item,38861,0)/>'<13>FF0F02280BFF054974656DF297CD0103FF04EBA5BCFF04EC9D84</13> 만들어 주세요!
+53,TEXT_BANLOP106_04692_LOPORRIT04692_000_012,"이 소재로 조명을 반짝반짝 닦기 위한
+'' 만들어 주세요!
 재료가 떨어지면 추가로 드릴게요!"
-54,"TEXT_BANLOP106_04692_LOPORRIT04692_000_013","이 소재로 조명 내부의 전도체가 될
-'<Sheet(Item,38861,0)/>'<13>FF0F02280BFF054974656DF297CD0103FF04EBA5BCFF04EC9D84</13> 만들어 주세요!
+54,TEXT_BANLOP106_04692_LOPORRIT04692_000_013,"이 소재로 조명 내부의 전도체가 될
+'' 만들어 주세요!
 재료가 떨어지면 추가로 드릴게요!"
-55,"TEXT_BANLOP106_04692_LOPORRIT04692_000_014","저는 다른 작업을 하고 있으니
+55,TEXT_BANLOP106_04692_LOPORRIT04692_000_014,"저는 다른 작업을 하고 있으니
 완성하면 '매니징웨이'에게 건네주세요.
 잘 부탁드립니다!"
-56,"TEXT_BANLOP106_04692_LOPORRIT04692_000_015","재료가 떨어졌나요?
+56,TEXT_BANLOP106_04692_LOPORRIT04692_000_015,"재료가 떨어졌나요?
 ……아, 괜찮은 것 같네요!
 부족해지면 또 말을 걸어주세요!"
-57,"TEXT_BANLOP106_04692_LOPORRIT04692_000_016","재료가 떨어졌나요?
+57,TEXT_BANLOP106_04692_LOPORRIT04692_000_016,"재료가 떨어졌나요?
 ……아, 괜찮은 것 같네요!
 부족해지면 또 말을 걸어주세요!"
-58,"TEXT_BANLOP106_04692_LOPORRIT04692_000_017","재료가 떨어졌나요?
+58,TEXT_BANLOP106_04692_LOPORRIT04692_000_017,"재료가 떨어졌나요?
 ……아, 괜찮은 것 같네요!
 부족해지면 또 말을 걸어주세요!"
-59,"TEXT_BANLOP106_04692_LOPORRIT04692_000_018","재료가 떨어졌나요?
+59,TEXT_BANLOP106_04692_LOPORRIT04692_000_018,"재료가 떨어졌나요?
 자, 이걸 써 주세요!"
-60,"TEXT_BANLOP106_04692_LOPORRIT04692_000_019","재료가 떨어졌나요?
+60,TEXT_BANLOP106_04692_LOPORRIT04692_000_019,"재료가 떨어졌나요?
 자, 이걸 써 주세요!"
-61,"TEXT_BANLOP106_04692_LOPORRIT04692_000_020","재료가 떨어졌나요?
+61,TEXT_BANLOP106_04692_LOPORRIT04692_000_020,"재료가 떨어졌나요?
 자, 이걸 써 주세요!"
-62,"TEXT_BANLOP106_04692_MANAGINGWAY_000_030","제가 부탁드린 업무는
+62,TEXT_BANLOP106_04692_MANAGINGWAY_000_030,"제가 부탁드린 업무는
 차질 없이 진행되었나요?"
-63,"TEXT_BANLOP106_04692_MANAGINGWAY_000_031","어쩜! 부탁드린 대로 일을 정말 잘해주시네요!
+63,TEXT_BANLOP106_04692_MANAGINGWAY_000_031,"어쩜! 부탁드린 대로 일을 정말 잘해주시네요!
 저에게 주시면 제가 재고 목록에 기록한 후에
 잘 보관해 놓을게요."
-64,"TEXT_BANLOP106_04692_MANAGINGWAY_000_032","음악 체험관의 조명은 무수한 별을,
+64,TEXT_BANLOP106_04692_MANAGINGWAY_000_032,"음악 체험관의 조명은 무수한 별을,
 그리고 미러볼은 인간의 행성인 아이테리스를 상징해요.
 즉 월면에서 우주를 바라보는 듯한 무대인 거죠!"
-65,"TEXT_BANLOP106_04692_MANAGINGWAY_000_033","그 반짝임을 한순간도 잃지 않기 위해서
+65,TEXT_BANLOP106_04692_MANAGINGWAY_000_033,"그 반짝임을 한순간도 잃지 않기 위해서
 앞으로는 더 효율적인 점검 계획을 세워야겠어요……!
 또 곤란한 일이 생기면 협력을 부탁드릴게요!"

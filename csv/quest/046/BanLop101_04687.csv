@@ -1,103 +1,101 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANLOP101_04687_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANLOP101_04687_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 희망찬 화물실에 있는 매니징웨이는 음악 체험관에 대해서 불안한 마음이 있는 듯하다."
-1,"TEXT_BANLOP101_04687_SEQ_01","차근차근 레포릿과 대화"
-2,"TEXT_BANLOP101_04687_SEQ_02","매니징웨이에게 의뢰받은 물품을 납품"
-3,"TEXT_BANLOP101_04687_SEQ_03",""
-4,"TEXT_BANLOP101_04687_SEQ_04",""
-5,"TEXT_BANLOP101_04687_SEQ_05",""
-6,"TEXT_BANLOP101_04687_SEQ_06",""
-7,"TEXT_BANLOP101_04687_SEQ_07",""
-8,"TEXT_BANLOP101_04687_SEQ_08",""
-9,"TEXT_BANLOP101_04687_SEQ_09",""
-10,"TEXT_BANLOP101_04687_SEQ_10",""
-11,"TEXT_BANLOP101_04687_SEQ_11",""
-12,"TEXT_BANLOP101_04687_SEQ_12",""
-13,"TEXT_BANLOP101_04687_SEQ_13",""
-14,"TEXT_BANLOP101_04687_SEQ_14",""
-15,"TEXT_BANLOP101_04687_SEQ_15",""
-16,"TEXT_BANLOP101_04687_SEQ_16",""
-17,"TEXT_BANLOP101_04687_SEQ_17",""
-18,"TEXT_BANLOP101_04687_SEQ_18",""
-19,"TEXT_BANLOP101_04687_SEQ_19",""
-20,"TEXT_BANLOP101_04687_SEQ_20",""
-21,"TEXT_BANLOP101_04687_SEQ_21",""
-22,"TEXT_BANLOP101_04687_SEQ_22",""
-23,"TEXT_BANLOP101_04687_SEQ_23",""
-24,"TEXT_BANLOP101_04687_TODO_00","최고의 숲에 있는 차근차근 레포릿과 대화"
-25,"TEXT_BANLOP101_04687_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANLOP101_04687_TODO_02",""
-27,"TEXT_BANLOP101_04687_TODO_03",""
-28,"TEXT_BANLOP101_04687_TODO_04",""
-29,"TEXT_BANLOP101_04687_TODO_05",""
-30,"TEXT_BANLOP101_04687_TODO_06",""
-31,"TEXT_BANLOP101_04687_TODO_07",""
-32,"TEXT_BANLOP101_04687_TODO_08",""
-33,"TEXT_BANLOP101_04687_TODO_09",""
-34,"TEXT_BANLOP101_04687_TODO_10",""
-35,"TEXT_BANLOP101_04687_TODO_11",""
-36,"TEXT_BANLOP101_04687_TODO_12",""
-37,"TEXT_BANLOP101_04687_TODO_13",""
-38,"TEXT_BANLOP101_04687_TODO_14",""
-39,"TEXT_BANLOP101_04687_TODO_15",""
-40,"TEXT_BANLOP101_04687_TODO_16",""
-41,"TEXT_BANLOP101_04687_TODO_17",""
-42,"TEXT_BANLOP101_04687_TODO_18",""
-43,"TEXT_BANLOP101_04687_TODO_19",""
-44,"TEXT_BANLOP101_04687_TODO_20",""
-45,"TEXT_BANLOP101_04687_TODO_21",""
-46,"TEXT_BANLOP101_04687_TODO_22",""
-47,"TEXT_BANLOP101_04687_TODO_23",""
-48,"TEXT_BANLOP101_04687_MANAGINGWAY_000_000","음악 체험관에서 음악을 계속 틀어놓으려면
+1,TEXT_BANLOP101_04687_SEQ_01,차근차근 레포릿과 대화
+2,TEXT_BANLOP101_04687_SEQ_02,매니징웨이에게 의뢰받은 물품을 납품
+3,TEXT_BANLOP101_04687_SEQ_03,
+4,TEXT_BANLOP101_04687_SEQ_04,
+5,TEXT_BANLOP101_04687_SEQ_05,
+6,TEXT_BANLOP101_04687_SEQ_06,
+7,TEXT_BANLOP101_04687_SEQ_07,
+8,TEXT_BANLOP101_04687_SEQ_08,
+9,TEXT_BANLOP101_04687_SEQ_09,
+10,TEXT_BANLOP101_04687_SEQ_10,
+11,TEXT_BANLOP101_04687_SEQ_11,
+12,TEXT_BANLOP101_04687_SEQ_12,
+13,TEXT_BANLOP101_04687_SEQ_13,
+14,TEXT_BANLOP101_04687_SEQ_14,
+15,TEXT_BANLOP101_04687_SEQ_15,
+16,TEXT_BANLOP101_04687_SEQ_16,
+17,TEXT_BANLOP101_04687_SEQ_17,
+18,TEXT_BANLOP101_04687_SEQ_18,
+19,TEXT_BANLOP101_04687_SEQ_19,
+20,TEXT_BANLOP101_04687_SEQ_20,
+21,TEXT_BANLOP101_04687_SEQ_21,
+22,TEXT_BANLOP101_04687_SEQ_22,
+23,TEXT_BANLOP101_04687_SEQ_23,
+24,TEXT_BANLOP101_04687_TODO_00,최고의 숲에 있는 차근차근 레포릿과 대화
+25,TEXT_BANLOP101_04687_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANLOP101_04687_TODO_02,
+27,TEXT_BANLOP101_04687_TODO_03,
+28,TEXT_BANLOP101_04687_TODO_04,
+29,TEXT_BANLOP101_04687_TODO_05,
+30,TEXT_BANLOP101_04687_TODO_06,
+31,TEXT_BANLOP101_04687_TODO_07,
+32,TEXT_BANLOP101_04687_TODO_08,
+33,TEXT_BANLOP101_04687_TODO_09,
+34,TEXT_BANLOP101_04687_TODO_10,
+35,TEXT_BANLOP101_04687_TODO_11,
+36,TEXT_BANLOP101_04687_TODO_12,
+37,TEXT_BANLOP101_04687_TODO_13,
+38,TEXT_BANLOP101_04687_TODO_14,
+39,TEXT_BANLOP101_04687_TODO_15,
+40,TEXT_BANLOP101_04687_TODO_16,
+41,TEXT_BANLOP101_04687_TODO_17,
+42,TEXT_BANLOP101_04687_TODO_18,
+43,TEXT_BANLOP101_04687_TODO_19,
+44,TEXT_BANLOP101_04687_TODO_20,
+45,TEXT_BANLOP101_04687_TODO_21,
+46,TEXT_BANLOP101_04687_TODO_22,
+47,TEXT_BANLOP101_04687_TODO_23,
+48,TEXT_BANLOP101_04687_MANAGINGWAY_000_000,"음악 체험관에서 음악을 계속 틀어놓으려면
 설치되어 있는 음향 기기의 점검이 꼭 필요해요."
-49,"TEXT_BANLOP101_04687_MANAGINGWAY_000_001","모두가 흥에 겨워 들썩거리고 있을 때
+49,TEXT_BANLOP101_04687_MANAGINGWAY_000_001,"모두가 흥에 겨워 들썩거리고 있을 때
 갑자기 음악이 뚝 끊기면……
 아아, 상상만 해도 너무 무서워요!"
-50,"TEXT_BANLOP101_04687_MANAGINGWAY_000_002","그런 사태가 일어나지 않도록 동료에게
+50,TEXT_BANLOP101_04687_MANAGINGWAY_000_002,"그런 사태가 일어나지 않도록 동료에게
 음향 장비의 정비 용품을 만들어 달라고 했는데요,
 아무래도 애를 먹고 있나 봐요."
-51,"TEXT_BANLOP101_04687_MANAGINGWAY_000_003","그래서 말인데요, 최고의 숲에서
+51,TEXT_BANLOP101_04687_MANAGINGWAY_000_003,"그래서 말인데요, 최고의 숲에서
 차근차근 일하고 있는 레포릿을
 부디 도와주세요……!"
-52,"TEXT_BANLOP101_04687_LOPORRIT4687_000_010","후우, 아까부터 계속 정비 용품을 만들고 있는데요,
+52,TEXT_BANLOP101_04687_LOPORRIT4687_000_010,"후우, 아까부터 계속 정비 용품을 만들고 있는데요,
 생각보다 양이 많아서 혼자서는 도저히 다 못 하겠어요…….
 도와주신다면 정말 고마울 것 같아요~!"
-53,"TEXT_BANLOP101_04687_LOPORRIT4687_000_011","이 재료를 써서 증폭기의 금속 부품에 사용할
-'<Sheet(Item,38853,0)/>'<13>FF0F02280BFF054974656DF297C50103FF04EBA5BCFF04EC9D84</13> 만들어 주시겠어요?
+53,TEXT_BANLOP101_04687_LOPORRIT4687_000_011,"이 재료를 써서 증폭기의 금속 부품에 사용할
+'' 만들어 주시겠어요?
 재료가 모자라면 말해주세요, 더 드릴게요!"
-54,"TEXT_BANLOP101_04687_LOPORRIT4687_000_012","이 재료를 써서 스피커에 사용할
-'<Sheet(Item,38853,0)/>'<13>FF0F02280BFF054974656DF297C50103FF04EBA5BCFF04EC9D84</13> 만들어 주시겠어요?
+54,TEXT_BANLOP101_04687_LOPORRIT4687_000_012,"이 재료를 써서 스피커에 사용할
+'' 만들어 주시겠어요?
 재료가 모자라면 말해주세요, 더 드릴게요!"
-55,"TEXT_BANLOP101_04687_LOPORRIT4687_000_013","이 재료를 써서 배선의 접속 부분에 사용할
-'<Sheet(Item,38853,0)/>'<13>FF0F02280BFF054974656DF297C50103FF04EBA5BCFF04EC9D84</13> 만들어 주시겠어요?
+55,TEXT_BANLOP101_04687_LOPORRIT4687_000_013,"이 재료를 써서 배선의 접속 부분에 사용할
+'' 만들어 주시겠어요?
 재료가 모자라면 말해주세요, 더 드릴게요!"
-56,"TEXT_BANLOP101_04687_LOPORRIT4687_000_014","다 완성하면
+56,TEXT_BANLOP101_04687_LOPORRIT4687_000_014,"다 완성하면
 '매니징웨이'에게 건네주세요.
 잘 부탁드려요!"
-57,"TEXT_BANLOP101_04687_LOPORRIT4687_000_015","앗, 재료가 다 떨어졌나요?
+57,TEXT_BANLOP101_04687_LOPORRIT4687_000_015,"앗, 재료가 다 떨어졌나요?
 ……아니, 이미 갖고 계시잖아요~!"
-58,"TEXT_BANLOP101_04687_LOPORRIT4687_000_016","앗, 재료가 다 떨어졌나요?
+58,TEXT_BANLOP101_04687_LOPORRIT4687_000_016,"앗, 재료가 다 떨어졌나요?
 ……아니, 이미 갖고 계시잖아요~!"
-59,"TEXT_BANLOP101_04687_LOPORRIT4687_000_017","앗, 재료가 다 떨어졌나요?
+59,TEXT_BANLOP101_04687_LOPORRIT4687_000_017,"앗, 재료가 다 떨어졌나요?
 ……아니, 이미 갖고 계시잖아요~!"
-60,"TEXT_BANLOP101_04687_LOPORRIT4687_000_018","앗, 재료가 다 떨어졌나요?
+60,TEXT_BANLOP101_04687_LOPORRIT4687_000_018,"앗, 재료가 다 떨어졌나요?
 자, 이걸 가져가세요~!"
-61,"TEXT_BANLOP101_04687_LOPORRIT4687_000_019","앗, 재료가 다 떨어졌나요?
+61,TEXT_BANLOP101_04687_LOPORRIT4687_000_019,"앗, 재료가 다 떨어졌나요?
 자, 이걸 가져가세요~!"
-62,"TEXT_BANLOP101_04687_LOPORRIT4687_000_020","앗, 재료가 다 떨어졌나요?
+62,TEXT_BANLOP101_04687_LOPORRIT4687_000_020,"앗, 재료가 다 떨어졌나요?
 자, 이걸 가져가세요~!"
-63,"TEXT_BANLOP101_04687_MANAGINGWAY_000_030","돌아오셨군요!
+63,TEXT_BANLOP101_04687_MANAGINGWAY_000_030,"돌아오셨군요!
 일은 어떻게 되었나요?"
-64,"TEXT_BANLOP101_04687_MANAGINGWAY_000_031","감사합니다!
+64,TEXT_BANLOP101_04687_MANAGINGWAY_000_031,"감사합니다!
 이제 만일의 사태에 대비해서 점검할 수 있겠어요!"
-65,"TEXT_BANLOP101_04687_MANAGINGWAY_000_032","사실 음악 체험관에서 사용하고 있는 음향 장비는
+65,TEXT_BANLOP101_04687_MANAGINGWAY_000_032,"사실 음악 체험관에서 사용하고 있는 음향 장비는
 원래는 이주자분들에게 안내 방송을 하기 위한 거였어요."
-66,"TEXT_BANLOP101_04687_MANAGINGWAY_000_033","개조해서 원래 용도와는 다르게 사용하고 있기 때문에
+66,TEXT_BANLOP101_04687_MANAGINGWAY_000_033,"개조해서 원래 용도와는 다르게 사용하고 있기 때문에
 꼼꼼하게 점검하지 않으면 고장 날 수도 있거든요.
 음악을 듣기 위해서는 꾸준한 작업이 필요한 법이죠!"
-67,"TEXT_BANLOP101_04687_MANAGINGWAY_000_034","정비 용품은 소모품이라서 또 협력을 부탁드릴지도 몰라요.
+67,TEXT_BANLOP101_04687_MANAGINGWAY_000_034,"정비 용품은 소모품이라서 또 협력을 부탁드릴지도 몰라요.
 그때도 부디 잘 부탁드립니다!"

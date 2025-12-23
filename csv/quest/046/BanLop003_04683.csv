@@ -1,331 +1,329 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANLOP003_04683_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANLOP003_04683_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 희망찬 화물실에 있는 드리밍웨이는 다음 체험관을 만들고 싶은 듯하다."
-1,"TEXT_BANLOP003_04683_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+1,TEXT_BANLOP003_04683_SEQ_01,"※ 이 퀘스트에는
+ '**** 레벨 보정(직업 변경 제한)' 적용됩니다.
   퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
 
 드리밍웨이와 대화했다. 다음 체험관은 음식과 관련된 장소로 만들기로 하고 쿠킹웨이에게 상담하기로 했다. 쿠킹웨이를 찾기 위해 올드 샬레이안의 에테라이트 광장에 있는 '드리밍웨이'와 대화하자."
-2,"TEXT_BANLOP003_04683_SEQ_02","드리밍웨이와 합류했다. 드리밍웨이와 동행한 상태로 올드 샬레이안에서 사람들과 대화하며 쿠킹웨이가 있는 곳을 찾아보자.
+2,TEXT_BANLOP003_04683_SEQ_02,"드리밍웨이와 합류했다. 드리밍웨이와 동행한 상태로 올드 샬레이안에서 사람들과 대화하며 쿠킹웨이가 있는 곳을 찾아보자.
 
 ※ 동행 상태가 해제되었을 경우, '드리밍웨이'에게 말을 걸면 동행을 다시 시작할 수 있습니다."
-3,"TEXT_BANLOP003_04683_SEQ_03","사람들과 대화하고 쿠킹웨이가 있는 곳을 알아냈다. 드리밍웨이와 동행한 상태로 샬레이안 마법대학의 페노메논 대강당에서 '쿠킹웨이'와 대화하자."
-4,"TEXT_BANLOP003_04683_SEQ_04","쿠킹웨이와 대화했다. 쿠킹웨이는 활동에 참여하겠다고 동의하며, 바로 준비를 위해 베스트웨이 피난처로 갔다. 체험관 제작을 위한 조언을 듣기 위해 올드 샬레이안의 라스트 스탠드에 있는 '딕콘'과 대화하자."
-5,"TEXT_BANLOP003_04683_SEQ_05","딕콘과 대화하고, 카페 창업에 대한 조언을 받았다. 베스트웨이 피난처의 희망찬 화물실로 돌아와 '드리밍웨이'와 대화하자."
-6,"TEXT_BANLOP003_04683_SEQ_06","드리밍웨이와 대화했다. 새로운 체험관 제작에 필요한 것을 준비하고, 희망찬 화물실에 있는 '드리밍웨이'에게 납품하자."
-7,"TEXT_BANLOP003_04683_SEQ_07","새로운 체험관 제작에 필요한 것을 드리밍웨이에게 전달했다. '요리 체험관'이 완성되어 쿠킹웨이가 요리를 만들 수 있는 장소가 완성되었다. 계속해서 드리밍웨이 일행에게 협력하여 레포릿들이 꿈을 찾을 수 있는 장소 마련에 협력해 나가자."
-8,"TEXT_BANLOP003_04683_SEQ_08",""
-9,"TEXT_BANLOP003_04683_SEQ_09",""
-10,"TEXT_BANLOP003_04683_SEQ_10",""
-11,"TEXT_BANLOP003_04683_SEQ_11",""
-12,"TEXT_BANLOP003_04683_SEQ_12",""
-13,"TEXT_BANLOP003_04683_SEQ_13",""
-14,"TEXT_BANLOP003_04683_SEQ_14",""
-15,"TEXT_BANLOP003_04683_SEQ_15",""
-16,"TEXT_BANLOP003_04683_SEQ_16",""
-17,"TEXT_BANLOP003_04683_SEQ_17",""
-18,"TEXT_BANLOP003_04683_SEQ_18",""
-19,"TEXT_BANLOP003_04683_SEQ_19",""
-20,"TEXT_BANLOP003_04683_SEQ_20",""
-21,"TEXT_BANLOP003_04683_SEQ_21",""
-22,"TEXT_BANLOP003_04683_SEQ_22",""
-23,"TEXT_BANLOP003_04683_SEQ_23",""
-24,"TEXT_BANLOP003_04683_TODO_00","올드 샬레이안에 있는 드리밍웨이와 대화하고 동행"
-25,"TEXT_BANLOP003_04683_TODO_01","드리밍웨이와 동행한 상태로 
+3,TEXT_BANLOP003_04683_SEQ_03,사람들과 대화하고 쿠킹웨이가 있는 곳을 알아냈다. 드리밍웨이와 동행한 상태로 샬레이안 마법대학의 페노메논 대강당에서 '쿠킹웨이'와 대화하자.
+4,TEXT_BANLOP003_04683_SEQ_04,"쿠킹웨이와 대화했다. 쿠킹웨이는 활동에 참여하겠다고 동의하며, 바로 준비를 위해 베스트웨이 피난처로 갔다. 체험관 제작을 위한 조언을 듣기 위해 올드 샬레이안의 라스트 스탠드에 있는 '딕콘'과 대화하자."
+5,TEXT_BANLOP003_04683_SEQ_05,"딕콘과 대화하고, 카페 창업에 대한 조언을 받았다. 베스트웨이 피난처의 희망찬 화물실로 돌아와 '드리밍웨이'와 대화하자."
+6,TEXT_BANLOP003_04683_SEQ_06,"드리밍웨이와 대화했다. 새로운 체험관 제작에 필요한 것을 준비하고, 희망찬 화물실에 있는 '드리밍웨이'에게 납품하자."
+7,TEXT_BANLOP003_04683_SEQ_07,새로운 체험관 제작에 필요한 것을 드리밍웨이에게 전달했다. '요리 체험관'이 완성되어 쿠킹웨이가 요리를 만들 수 있는 장소가 완성되었다. 계속해서 드리밍웨이 일행에게 협력하여 레포릿들이 꿈을 찾을 수 있는 장소 마련에 협력해 나가자.
+8,TEXT_BANLOP003_04683_SEQ_08,
+9,TEXT_BANLOP003_04683_SEQ_09,
+10,TEXT_BANLOP003_04683_SEQ_10,
+11,TEXT_BANLOP003_04683_SEQ_11,
+12,TEXT_BANLOP003_04683_SEQ_12,
+13,TEXT_BANLOP003_04683_SEQ_13,
+14,TEXT_BANLOP003_04683_SEQ_14,
+15,TEXT_BANLOP003_04683_SEQ_15,
+16,TEXT_BANLOP003_04683_SEQ_16,
+17,TEXT_BANLOP003_04683_SEQ_17,
+18,TEXT_BANLOP003_04683_SEQ_18,
+19,TEXT_BANLOP003_04683_SEQ_19,
+20,TEXT_BANLOP003_04683_SEQ_20,
+21,TEXT_BANLOP003_04683_SEQ_21,
+22,TEXT_BANLOP003_04683_SEQ_22,
+23,TEXT_BANLOP003_04683_SEQ_23,
+24,TEXT_BANLOP003_04683_TODO_00,올드 샬레이안에 있는 드리밍웨이와 대화하고 동행
+25,TEXT_BANLOP003_04683_TODO_01,"드리밍웨이와 동행한 상태로 
 올드 샬레이안에서 정보 수집"
-26,"TEXT_BANLOP003_04683_TODO_02","드리밍웨이와 동행한 상태로 쿠킹웨이와 대화"
-27,"TEXT_BANLOP003_04683_TODO_03","딕콘과 대화"
-28,"TEXT_BANLOP003_04683_TODO_04","희망찬 화물실에 있는 드리밍웨이와 대화"
-29,"TEXT_BANLOP003_04683_TODO_05","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>드리밍웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>드리밍웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>드리밍웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>드리밍웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>드리밍웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>드리밍웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>드리밍웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>드리밍웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-30,"TEXT_BANLOP003_04683_TODO_06",""
-31,"TEXT_BANLOP003_04683_TODO_07",""
-32,"TEXT_BANLOP003_04683_TODO_08",""
-33,"TEXT_BANLOP003_04683_TODO_09",""
-34,"TEXT_BANLOP003_04683_TODO_10",""
-35,"TEXT_BANLOP003_04683_TODO_11",""
-36,"TEXT_BANLOP003_04683_TODO_12",""
-37,"TEXT_BANLOP003_04683_TODO_13",""
-38,"TEXT_BANLOP003_04683_TODO_14",""
-39,"TEXT_BANLOP003_04683_TODO_15",""
-40,"TEXT_BANLOP003_04683_TODO_16",""
-41,"TEXT_BANLOP003_04683_TODO_17",""
-42,"TEXT_BANLOP003_04683_TODO_18",""
-43,"TEXT_BANLOP003_04683_TODO_19",""
-44,"TEXT_BANLOP003_04683_TODO_20",""
-45,"TEXT_BANLOP003_04683_TODO_21",""
-46,"TEXT_BANLOP003_04683_TODO_22",""
-47,"TEXT_BANLOP003_04683_TODO_23",""
-48,"TEXT_BANLOP003_04683_DREAMINGWAY_000_000","덕분에 기계 체험관도 대성황이에요~!
+26,TEXT_BANLOP003_04683_TODO_02,드리밍웨이와 동행한 상태로 쿠킹웨이와 대화
+27,TEXT_BANLOP003_04683_TODO_03,딕콘과 대화
+28,TEXT_BANLOP003_04683_TODO_04,희망찬 화물실에 있는 드리밍웨이와 대화
+29,TEXT_BANLOP003_04683_TODO_05,제작수첩 우호부족 퀘스트: 제작
+30,TEXT_BANLOP003_04683_TODO_06,
+31,TEXT_BANLOP003_04683_TODO_07,
+32,TEXT_BANLOP003_04683_TODO_08,
+33,TEXT_BANLOP003_04683_TODO_09,
+34,TEXT_BANLOP003_04683_TODO_10,
+35,TEXT_BANLOP003_04683_TODO_11,
+36,TEXT_BANLOP003_04683_TODO_12,
+37,TEXT_BANLOP003_04683_TODO_13,
+38,TEXT_BANLOP003_04683_TODO_14,
+39,TEXT_BANLOP003_04683_TODO_15,
+40,TEXT_BANLOP003_04683_TODO_16,
+41,TEXT_BANLOP003_04683_TODO_17,
+42,TEXT_BANLOP003_04683_TODO_18,
+43,TEXT_BANLOP003_04683_TODO_19,
+44,TEXT_BANLOP003_04683_TODO_20,
+45,TEXT_BANLOP003_04683_TODO_21,
+46,TEXT_BANLOP003_04683_TODO_22,
+47,TEXT_BANLOP003_04683_TODO_23,
+48,TEXT_BANLOP003_04683_DREAMINGWAY_000_000,"덕분에 기계 체험관도 대성황이에요~!
 지나치게 독창적인 기계뿐이지만,
 거기서 꿈을 찾은 동료도 있는 것 같아서 다행이지 뭐예요!"
-49,"TEXT_BANLOP003_04683_DREAMINGWAY_000_001","이 기세를 몰아
+49,TEXT_BANLOP003_04683_DREAMINGWAY_000_001,"이 기세를 몰아
 다음 꿈을 보여줄 체험관은 뭐가 좋을지
 다 같이 생각해 봤는데요……."
-50,"TEXT_BANLOP003_04683_DREAMINGWAY_100_001","매니징웨이가
+50,TEXT_BANLOP003_04683_DREAMINGWAY_100_001,"매니징웨이가
 제안하고 싶은 것이 있다고 해요~"
-51,"TEXT_BANLOP003_04683_DREAMINGWAY_000_002","매니징웨이, 뭔지 말해볼래~?"
-52,"TEXT_BANLOP003_04683_MANAGINGWAY_000_003","네, 제가 제안하고 싶은 것은
+51,TEXT_BANLOP003_04683_DREAMINGWAY_000_002,"매니징웨이, 뭔지 말해볼래~?"
+52,TEXT_BANLOP003_04683_MANAGINGWAY_000_003,"네, 제가 제안하고 싶은 것은
 바로, 요리를 테마로 한 체험관입니다."
-53,"TEXT_BANLOP003_04683_MANAGINGWAY_000_004","（★未使用／削除予定★）"
-54,"TEXT_BANLOP003_04683_MANAGINGWAY_000_005","저도 그렇고 대부분의 레포릿들은
+53,TEXT_BANLOP003_04683_MANAGINGWAY_000_004,（★未使用／削除予定★）
+54,TEXT_BANLOP003_04683_MANAGINGWAY_000_005,"저도 그렇고 대부분의 레포릿들은
 당근밖에 먹어 본 적이 없을 거예요.
 하지만 아이테리스에는 다양한 식문화가 있다고 들었어요."
-55,"TEXT_BANLOP003_04683_MANAGINGWAY_000_006","그래서 다양한 음식을 맛보거나
+55,TEXT_BANLOP003_04683_MANAGINGWAY_000_006,"그래서 다양한 음식을 맛보거나
 요리법을 배울 수 있는 체험관이 있다면
 그것을 계기로 꿈을 찾는 레포릿이 있지 않을까 해요."
-56,"TEXT_BANLOP003_04683_DREAMINGWAY_000_007","아, 그거 좋네~!
+56,TEXT_BANLOP003_04683_DREAMINGWAY_000_007,"아, 그거 좋네~!
 나도 여러 가지 음식을 먹어보고 싶기도 하고!"
-57,"TEXT_BANLOP003_04683_MANAGINGWAY_000_008","문제는 그 체험관 운영을 누구에게 맡기냐 하는 건데……
-<Highlight>ObjectParameter(1)</Highlight> 님은 어떻게 생각하시나요?"
-58,"TEXT_BANLOP003_04683_Q1_000_000","뭐라고 대답하시겠습니까?"
-59,"TEXT_BANLOP003_04683_A1_000_001","푸딩웨이는 어때?"
-60,"TEXT_BANLOP003_04683_A1_000_002","쿠킹웨이는 어때?"
-61,"TEXT_BANLOP003_04683_MANAGINGWAY_000_009","지, 진심이세요!?
+57,TEXT_BANLOP003_04683_MANAGINGWAY_000_008,"문제는 그 체험관 운영을 누구에게 맡기냐 하는 건데……
+Player Player 님은 어떻게 생각하시나요?"
+58,TEXT_BANLOP003_04683_Q1_000_000,뭐라고 대답하시겠습니까?
+59,TEXT_BANLOP003_04683_A1_000_001,푸딩웨이는 어때?
+60,TEXT_BANLOP003_04683_A1_000_002,쿠킹웨이는 어때?
+61,TEXT_BANLOP003_04683_MANAGINGWAY_000_009,"지, 진심이세요!?
 그 녀석에게 맡긴다면 체험관을
 모조리 푸딩으로 가득 채울 거라고요!!"
-62,"TEXT_BANLOP003_04683_DREAMINGWAY_000_010","쿠킹웨이에게 부탁하는 건 어떨까~?
+62,TEXT_BANLOP003_04683_DREAMINGWAY_000_010,"쿠킹웨이에게 부탁하는 건 어떨까~?
 우리 중에서는 음식에 대해 가장 잘 알잖아!"
-63,"TEXT_BANLOP003_04683_MANAGINGWAY_000_011","흠흠…….
-역시 <Highlight>ObjectParameter(1)</Highlight> 님도 그렇게 생각하시는군요."
-64,"TEXT_BANLOP003_04683_MANAGINGWAY_000_012","그렇다면 쿠킹웨이에게 의뢰하는 방향으로 움직여 볼까요?
+63,TEXT_BANLOP003_04683_MANAGINGWAY_000_011,"흠흠…….
+역시 Player Player 님도 그렇게 생각하시는군요."
+64,TEXT_BANLOP003_04683_MANAGINGWAY_000_012,"그렇다면 쿠킹웨이에게 의뢰하는 방향으로 움직여 볼까요?
 아마 올드 샬레이안에 있을 거예요……."
-65,"TEXT_BANLOP003_04683_DREAMINGWAY_000_013","그럼 내가 협력이 가능한지 물어보러 갈게!"
-66,"TEXT_BANLOP003_04683_DREAMINGWAY_000_014","그런데 지상 마을을 돌아다니는 건 아직 좀 낯설어서……
-괜찮다면 <Highlight>ObjectParameter(1)</Highlight> 님도
+65,TEXT_BANLOP003_04683_DREAMINGWAY_000_013,그럼 내가 협력이 가능한지 물어보러 갈게!
+66,TEXT_BANLOP003_04683_DREAMINGWAY_000_014,"그런데 지상 마을을 돌아다니는 건 아직 좀 낯설어서……
+괜찮다면 Player Player 님도
 함께 오셔서 찾아주지 않으시겠어요?"
-67,"TEXT_BANLOP003_04683_DREAMINGWAY_100_014","（★未使用／削除予定★）"
-68,"TEXT_BANLOP003_04683_DREAMINGWAY_000_015","감사합니다~!
+67,TEXT_BANLOP003_04683_DREAMINGWAY_100_014,（★未使用／削除予定★）
+68,TEXT_BANLOP003_04683_DREAMINGWAY_000_015,"감사합니다~!
 그럼 먼저 에테라이트 광장으로 갈까요~?"
-69,"TEXT_BANLOP003_04683_DREAMINGWAY_000_020","올드 샬레이안에 도착했어요!
+69,TEXT_BANLOP003_04683_DREAMINGWAY_000_020,"올드 샬레이안에 도착했어요!
 먼저 쿠킹웨이가 어디에 있는지
 목격 정보를 모으고 싶은데요……"
-70,"TEXT_BANLOP003_04683_DREAMINGWAY_000_021","인간은 레포릿들을 잘 구분하지 못하잖아요?
+70,TEXT_BANLOP003_04683_DREAMINGWAY_000_021,"인간은 레포릿들을 잘 구분하지 못하잖아요?
 그래서 쿠킹웨이를 보지 못했냐고 물으면
 상대방도 곤란해 할지도 몰라요."
-71,"TEXT_BANLOP003_04683_DREAMINGWAY_000_022","그러니까 일단은 레포릿을 보지 못했는지에 대해
+71,TEXT_BANLOP003_04683_DREAMINGWAY_000_022,"그러니까 일단은 레포릿을 보지 못했는지에 대해
 샬레이안 사람들에게 물어보는 게 좋겠어요~!
 자, 그럼 출발할까요~!"
-72,"TEXT_BANLOP003_04683_DREAMINGWAY_000_023","（★未使用／削除予定★）"
-73,"TEXT_BANLOP003_04683_DREAMINGWAY_000_024","（★未使用／削除予定★）"
-74,"TEXT_BANLOP003_04683_SYSTEM_100_024","드리밍웨이가 '동행'을 시작합니다.
+72,TEXT_BANLOP003_04683_DREAMINGWAY_000_023,（★未使用／削除予定★）
+73,TEXT_BANLOP003_04683_DREAMINGWAY_000_024,（★未使用／削除予定★）
+74,TEXT_BANLOP003_04683_SYSTEM_100_024,"드리밍웨이가 '동행'을 시작합니다.
 퀘스트를 진행하려면 동행자가 가까이 있는 상태로
 목적을 달성해야 합니다."
-75,"TEXT_BANLOP003_04683_SYSTEM_110_024","'동행' 상태는 지역을 이동하거나
+75,TEXT_BANLOP003_04683_SYSTEM_110_024,"'동행' 상태는 지역을 이동하거나
 '동행 상태 해제'를 선택한 경우에 해제됩니다."
-76,"TEXT_BANLOP003_04683_SYSTEM_120_024","해제한 경우, 처음 장소로 돌아간 동행자에게 말을 걸면
+76,TEXT_BANLOP003_04683_SYSTEM_120_024,"해제한 경우, 처음 장소로 돌아간 동행자에게 말을 걸면
 다시 '동행' 상태로 돌아갈 수 있습니다."
-77,"TEXT_BANLOP003_04683_Q2_000_000","무엇을 하시겠습니까?"
-78,"TEXT_BANLOP003_04683_A2_000_001","대화"
-79,"TEXT_BANLOP003_04683_A2_000_002","동행 상태 해제"
-80,"TEXT_BANLOP003_04683_A2_000_003","취소"
-81,"TEXT_BANLOP003_04683_DREAMINGWAY_000_031","우후훗!
-<Highlight>ObjectParameter(1)</Highlight> 님과 함께
+77,TEXT_BANLOP003_04683_Q2_000_000,무엇을 하시겠습니까?
+78,TEXT_BANLOP003_04683_A2_000_001,대화
+79,TEXT_BANLOP003_04683_A2_000_002,동행 상태 해제
+80,TEXT_BANLOP003_04683_A2_000_003,취소
+81,TEXT_BANLOP003_04683_DREAMINGWAY_000_031,"우후훗!
+Player Player 님과 함께
 이렇게 돌아다닐 수 있다니 너무 행복해요~!"
-82,"TEXT_BANLOP003_04683_DREAMINGWAY_000_032","쿠킹웨이가 있을 만한 장소를 알아냈군요!
+82,TEXT_BANLOP003_04683_DREAMINGWAY_000_032,"쿠킹웨이가 있을 만한 장소를 알아냈군요!
 어서 '샬레이안 마법대학'으로 가봐요~!"
-83,"TEXT_BANLOP003_04683_A2_000_101","<UIForeground>F20224</UIForeground>'철학자 광장'에 관해 대화<UIForeground>01</UIForeground>"
-84,"TEXT_BANLOP003_04683_DREAMINGWAY_000_033","지난번에 올드 샬레이안에 왔을 때는
+83,TEXT_BANLOP003_04683_A2_000_101,**'철학자 광장'에 관해 대화
+84,TEXT_BANLOP003_04683_DREAMINGWAY_000_033,"지난번에 올드 샬레이안에 왔을 때는
 이렇게 여유롭게 경치를 둘러보지는 못했는데
 새삼 참 예쁘네요……!"
-85,"TEXT_BANLOP003_04683_DREAMINGWAY_000_034","저희가 항상 달에서 바라보던 아이테리스가
+85,TEXT_BANLOP003_04683_DREAMINGWAY_000_034,"저희가 항상 달에서 바라보던 아이테리스가
 이렇게나 멋진 장소였다니 감동이에요!
 종말의 위기를 피할 수 있어서 정말 다행이에요……!"
-86,"TEXT_BANLOP003_04683_A2_000_111","<UIForeground>F20224</UIForeground>'아고라'에 관해 대화<UIForeground>01</UIForeground>"
-87,"TEXT_BANLOP003_04683_DREAMINGWAY_100_034","사실은 매니징웨이가 꿈꾸는 체험관을
+86,TEXT_BANLOP003_04683_A2_000_111,**'아고라'에 관해 대화
+87,TEXT_BANLOP003_04683_DREAMINGWAY_100_034,"사실은 매니징웨이가 꿈꾸는 체험관을
 어떤 형태로 만들 건지 물었을 때,
 참고한 곳이 바로 이 장소예요!"
-88,"TEXT_BANLOP003_04683_DREAMINGWAY_110_034","여러 가게가 한눈에 들어오잖아요.
+88,TEXT_BANLOP003_04683_DREAMINGWAY_110_034,"여러 가게가 한눈에 들어오잖아요.
 보기만 해도 얼마나 가슴이 뛰는지 몰라요……!
 그래서 여기처럼 만들고 싶다고 제안했어요~!"
-89,"TEXT_BANLOP003_04683_Q3_000_035","동행 상태를 해제하시겠습니까?"
-90,"TEXT_BANLOP003_04683_DREAMINGWAY_000_036","어랏, 무슨 다른 용무가 생기셨나요?
+89,TEXT_BANLOP003_04683_Q3_000_035,동행 상태를 해제하시겠습니까?
+90,TEXT_BANLOP003_04683_DREAMINGWAY_000_036,"어랏, 무슨 다른 용무가 생기셨나요?
 끝나면 에테라이트 광장으로 와 주세요~!"
-91,"TEXT_BANLOP003_04683_DREAMINGWAY_000_037","기다렸어요~!
+91,TEXT_BANLOP003_04683_DREAMINGWAY_000_037,"기다렸어요~!
 그럼 다시 쿠킹웨이를 찾아볼까요!"
-92,"TEXT_BANLOP003_04683_DREAMINGWAY_000_038","기다렸어요~!
+92,TEXT_BANLOP003_04683_DREAMINGWAY_000_038,"기다렸어요~!
 그럼 쿠킹웨이가 있을 만한
 '샬레이안 마법대학'으로 가보죠~!"
-93,"TEXT_BANLOP003_04683_SYSTEM_000_039","이 퀘스트를 진행하려면
+93,TEXT_BANLOP003_04683_SYSTEM_000_039,"이 퀘스트를 진행하려면
 드리밍웨이가 동행한 상태로
 플레이어 가까이에 있어야 합니다."
-94,"TEXT_BANLOP003_04683_SYSTEM_000_040","동행자가 아직 도착하지 않았다.
+94,TEXT_BANLOP003_04683_SYSTEM_000_040,"동행자가 아직 도착하지 않았다.
 근처까지 데리러 가서 함께 행동하자."
-95,"TEXT_BANLOP003_04683_CITIZENA04683_000_050","멀리서 본 적은 있지만,
+95,TEXT_BANLOP003_04683_CITIZENA04683_000_050,"멀리서 본 적은 있지만,
 레포릿과 대화를 한 건 처음이야……."
-96,"TEXT_BANLOP003_04683_CITIZENA04683_000_051","레포릿을 찾고 있다고?
+96,TEXT_BANLOP003_04683_CITIZENA04683_000_051,"레포릿을 찾고 있다고?
 마침 조금 전에 레포릿 둘을 보긴 했는데."
-97,"TEXT_BANLOP003_04683_CITIZENA04683_000_052","한 명은 '샬레이안 마법대학' 쪽으로 갔고,
+97,TEXT_BANLOP003_04683_CITIZENA04683_000_052,"한 명은 '샬레이안 마법대학' 쪽으로 갔고,
 다른 한 명은 카페 '라스트 스탠드' 쪽으로 가더라고."
-98,"TEXT_BANLOP003_04683_DREAMINGWAY_000_053","흠흠, '샬레이안 마법대학'과
+98,TEXT_BANLOP003_04683_DREAMINGWAY_000_053,"흠흠, '샬레이안 마법대학'과
 '라스트 스탠드'로 갔단 말이죠…….
 감사합니다~!"
-99,"TEXT_BANLOP003_04683_CITIZENB04683_000_055","아까 지나간 애, 정말 귀엽지 않았어?
+99,TEXT_BANLOP003_04683_CITIZENB04683_000_055,"아까 지나간 애, 정말 귀엽지 않았어?
 털이 복슬복슬하던데 만져봐도 되냐고 물어볼걸……."
-100,"TEXT_BANLOP003_04683_CITIZENB04683_000_056","레포릿 친구를 찾고 있다고?
+100,TEXT_BANLOP003_04683_CITIZENB04683_000_056,"레포릿 친구를 찾고 있다고?
 조금 전에 라스트 스탠드 부근에서 봤어.
 사람들이 먹는 음식을 보고 뭔가 중얼거리고 있더라."
-101,"TEXT_BANLOP003_04683_CITIZENB04683_000_057","그래, 분명히……
+101,TEXT_BANLOP003_04683_CITIZENB04683_000_057,"그래, 분명히……
 푸딩이 뭐라뭐라 했던 것 같은데…….
 대체 뭐라고 한 걸까."
-102,"TEXT_BANLOP003_04683_DREAMINGWAY_000_058","음식에 관심을 보였다니 가능성이 있긴 한데,
+102,TEXT_BANLOP003_04683_DREAMINGWAY_000_058,"음식에 관심을 보였다니 가능성이 있긴 한데,
 푸딩 얘길 했다면 쿠킹웨이는 아닐 것 같네요!
 아무튼 감사합니다~!"
-103,"TEXT_BANLOP003_04683_CITIZENC04683_000_060","후우…… 기분 좋은 바람이네……."
-104,"TEXT_BANLOP003_04683_CITIZENC04683_000_061","오우! 이런!
+103,TEXT_BANLOP003_04683_CITIZENC04683_000_060,후우…… 기분 좋은 바람이네…….
+104,TEXT_BANLOP003_04683_CITIZENC04683_000_061,"오우! 이런!
 뭐야, 너 같은 레포릿을 못 봤냐고!?
 못 보긴, 조금 전에도 대화를 나눴는걸."
-105,"TEXT_BANLOP003_04683_CITIZENC04683_000_062","동방 요리 제작법을 조사할 거라는,
+105,TEXT_BANLOP003_04683_CITIZENC04683_000_062,"동방 요리 제작법을 조사할 거라는,
 꽤나 멋진 얘기를 하던데!"
-106,"TEXT_BANLOP003_04683_DREAMINGWAY_100_063","요리 제작법에 관심이 있다니,
+106,TEXT_BANLOP003_04683_DREAMINGWAY_100_063,"요리 제작법에 관심이 있다니,
 우리가 찾고 있는 쿠킹웨이일지도 몰라요……!
 그래서 그 레포릿은 어디로 갔나요~?"
-107,"TEXT_BANLOP003_04683_CITIZENC04683_000_063","어디로 갔는지는 모르겠지만
+107,TEXT_BANLOP003_04683_CITIZENC04683_000_063,"어디로 갔는지는 모르겠지만
 서쪽으로 갔어!"
-108,"TEXT_BANLOP003_04683_DREAMINGWAY_000_064","고맙습니다!
+108,TEXT_BANLOP003_04683_DREAMINGWAY_000_064,"고맙습니다!
 서쪽 방향으로 제작법을 조사할 만한 곳이 있는지
 찾아보면 될 것 같아요~!"
-109,"TEXT_BANLOP003_04683_DREAMINGWAY_100_064","쿠킹웨이가 있을 만한 장소, 눈치채셨죠?
+109,TEXT_BANLOP003_04683_DREAMINGWAY_100_064,"쿠킹웨이가 있을 만한 장소, 눈치채셨죠?
 어서 '샬레이안 마법대학'으로 가봐요~!"
-110,"TEXT_BANLOP003_04683_CITIZENA04683_000_065","레포릿은 둘이었어.
+110,TEXT_BANLOP003_04683_CITIZENA04683_000_065,"레포릿은 둘이었어.
 하나는 '샬레이안 마법대학'으로 갔고……
 또 하나는 카페 '라스트 스탠드' 쪽으로 갔어."
-111,"TEXT_BANLOP003_04683_CITIZENB04683_000_066","네 친구는 조금 전에 라스트 스탠드에서 봤단다.
+111,TEXT_BANLOP003_04683_CITIZENB04683_000_066,"네 친구는 조금 전에 라스트 스탠드에서 봤단다.
 푸딩이 어쩌고 저쩌고 하면서 계속 중얼거리고 있었어."
-112,"TEXT_BANLOP003_04683_CITIZENC04683_000_067","정확히 어디로 갔는지는 모르겠지만,
+112,TEXT_BANLOP003_04683_CITIZENC04683_000_067,"정확히 어디로 갔는지는 모르겠지만,
 서쪽으로 가더라고!"
-113,"TEXT_BANLOP003_04683_COOKINGWAY_000_068","어, <Highlight>ObjectParameter(1)</Highlight>!
+113,TEXT_BANLOP003_04683_COOKINGWAY_000_068,"어, Player Player!
 잘 지냈어?"
-114,"TEXT_BANLOP003_04683_DREAMINGWAY_000_070","안녕, 쿠킹웨이~!"
-115,"TEXT_BANLOP003_04683_COOKINGWAY_000_071","으음?
+114,TEXT_BANLOP003_04683_DREAMINGWAY_000_070,"안녕, 쿠킹웨이~!"
+115,TEXT_BANLOP003_04683_COOKINGWAY_000_071,"으음?
 아아, 드리밍웨이구나."
-116,"TEXT_BANLOP003_04683_COOKINGWAY_000_072","……그, 그런데 옷이 그게 뭐야?
+116,TEXT_BANLOP003_04683_COOKINGWAY_000_072,"……그, 그런데 옷이 그게 뭐야?
 무슨 일 있어?"
-117,"TEXT_BANLOP003_04683_DREAMINGWAY_000_073","에헷헷…… 사실 지금 어떤 활동을 하고 있거든!
+117,TEXT_BANLOP003_04683_DREAMINGWAY_000_073,"에헷헷…… 사실 지금 어떤 활동을 하고 있거든!
 잠깐 내 얘기 좀 들어줄래~?"
-118,"TEXT_BANLOP003_04683_COOKINGWAY_000_074","아하, 내가 여기서 공부하는 동안,
+118,TEXT_BANLOP003_04683_COOKINGWAY_000_074,"아하, 내가 여기서 공부하는 동안,
 베스트웨이 피난처에서 그런 일이 있었구나."
-119,"TEXT_BANLOP003_04683_COOKINGWAY_000_075","……알았어.
+119,TEXT_BANLOP003_04683_COOKINGWAY_000_075,"……알았어.
 그 활동에 나도 참여할게."
-120,"TEXT_BANLOP003_04683_COOKINGWAY_000_076","아이테리스에서 배운 여러 요리를 시도하기에
+120,TEXT_BANLOP003_04683_COOKINGWAY_000_076,"아이테리스에서 배운 여러 요리를 시도하기에
 딱 좋은 기회이기도 하고."
-121,"TEXT_BANLOP003_04683_COOKINGWAY_000_077","당근으로 모든 걸 해결하려고 했던 과거의 나와는
+121,TEXT_BANLOP003_04683_COOKINGWAY_000_077,"당근으로 모든 걸 해결하려고 했던 과거의 나와는
 완전 달라진 모습을 보여 줄게."
-122,"TEXT_BANLOP003_04683_DREAMINGWAY_000_078","와아~! 잘됐다아~!!"
-123,"TEXT_BANLOP003_04683_COOKINGWAY_000_079","그럼 결정했으니 당장
+122,TEXT_BANLOP003_04683_DREAMINGWAY_000_078,와아~! 잘됐다아~!!
+123,TEXT_BANLOP003_04683_COOKINGWAY_000_079,"그럼 결정했으니 당장
 주방 관련 물품들을 준비해야겠네……."
-124,"TEXT_BANLOP003_04683_COOKINGWAY_100_079","요리도구 같은 건 내가 준비하면 되니까……
+124,TEXT_BANLOP003_04683_COOKINGWAY_100_079,"요리도구 같은 건 내가 준비하면 되니까……
 요리를 제공할 때 필요한 식기류 준비를 부탁해도 될까?"
-125,"TEXT_BANLOP003_04683_DREAMINGWAY_000_080","물론이야! 맡겨만 줘~!"
-126,"TEXT_BANLOP003_04683_COOKINGWAY_000_081","항구 옆에 라스트 스탠드라는 카페가 있는데
+125,TEXT_BANLOP003_04683_DREAMINGWAY_000_080,물론이야! 맡겨만 줘~!
+126,TEXT_BANLOP003_04683_COOKINGWAY_000_081,"항구 옆에 라스트 스탠드라는 카페가 있는데
 그곳의 주인인 딕콘 씨에게 물어봐줄래?
 분명 도움이 될 거야."
-127,"TEXT_BANLOP003_04683_COOKINGWAY_000_082","그럼 난 먼저
+127,TEXT_BANLOP003_04683_COOKINGWAY_000_082,"그럼 난 먼저
 베스트웨이 피난처로 돌아갈게."
-128,"TEXT_BANLOP003_04683_DREAMINGWAY_000_083","쿠킹웨이가 참여하겠다고 해서
+128,TEXT_BANLOP003_04683_DREAMINGWAY_000_083,"쿠킹웨이가 참여하겠다고 해서
 정말 다행이에요~!"
-129,"TEXT_BANLOP003_04683_DREAMINGWAY_000_084","그럼 바로 라스트 스탠드에 있는
+129,TEXT_BANLOP003_04683_DREAMINGWAY_000_084,"그럼 바로 라스트 스탠드에 있는
 '딕콘' 님에게 가도록 해요~!"
-130,"TEXT_BANLOP003_04683_DREAMINGWAY_100_080","（★未使用／削除予定★）"
-131,"TEXT_BANLOP003_04683_DREAMINGWAY_000_081","（★未使用／削除予定★）"
-132,"TEXT_BANLOP003_04683_DREAMINGWAY_000_082","（★未使用／削除予定★）"
-133,"TEXT_BANLOP003_04683_DREAMINGWAY_100_083","（★未使用／削除予定★）"
-134,"TEXT_BANLOP003_04683_DICKON_000_090","……오, 이게 누구야, <Highlight>ObjectParameter(1)</Highlight>!"
-135,"TEXT_BANLOP003_04683_DICKON_000_091","귀여운 동료도 함께 온 것 같은데, 무슨 일이지?"
-136,"TEXT_BANLOP003_04683_DICKON_000_092","호오, 달에서 요리를 제공하기 위해,
+130,TEXT_BANLOP003_04683_DREAMINGWAY_100_080,（★未使用／削除予定★）
+131,TEXT_BANLOP003_04683_DREAMINGWAY_000_081,（★未使用／削除予定★）
+132,TEXT_BANLOP003_04683_DREAMINGWAY_000_082,（★未使用／削除予定★）
+133,TEXT_BANLOP003_04683_DREAMINGWAY_100_083,（★未使用／削除予定★）
+134,TEXT_BANLOP003_04683_DICKON_000_090,"……오, 이게 누구야, Player Player!"
+135,TEXT_BANLOP003_04683_DICKON_000_091,"귀여운 동료도 함께 온 것 같은데, 무슨 일이지?"
+136,TEXT_BANLOP003_04683_DICKON_000_092,"호오, 달에서 요리를 제공하기 위해,
 필요한 식기류를 준비하고 싶다는 거군…….
 재미있겠는걸! 기꺼이 도와줄게!"
-137,"TEXT_BANLOP003_04683_DICKON_000_093","기본적인 그릇과 수저류는 물론이고
+137,TEXT_BANLOP003_04683_DICKON_000_093,"기본적인 그릇과 수저류는 물론이고
 깔개와 테이블보 같은 것도 필요할 테고…….
 재빨리 적을 테니까 잠시 기다려."
-138,"TEXT_BANLOP003_04683_DICKON_000_094","좋아, 당장 떠오르는 것들은 일단 다 적었어.
+138,TEXT_BANLOP003_04683_DICKON_000_094,"좋아, 당장 떠오르는 것들은 일단 다 적었어.
 대략 이 정도만 있으면 괜찮을 거야."
-139,"TEXT_BANLOP003_04683_DREAMINGWAY_000_095","딕콘 님, 고맙습니다~!"
-140,"TEXT_BANLOP003_04683_DICKON_000_096","뭘, 이 정도 가지고.
+139,TEXT_BANLOP003_04683_DREAMINGWAY_000_095,"딕콘 님, 고맙습니다~!"
+140,TEXT_BANLOP003_04683_DICKON_000_096,"뭘, 이 정도 가지고.
 나도 언젠가 놀러 가서 한 번 먹어보고 싶은걸?"
-141,"TEXT_BANLOP003_04683_DREAMINGWAY_000_097","네네, 꼭 오세요!
+141,TEXT_BANLOP003_04683_DREAMINGWAY_000_097,"네네, 꼭 오세요!
 초대할 수 있게 되면
 연락드릴게요~!"
-142,"TEXT_BANLOP003_04683_DREAMINGWAY_000_098","됐어요, 이제 완벽해요!
+142,TEXT_BANLOP003_04683_DREAMINGWAY_000_098,"됐어요, 이제 완벽해요!
 베스트웨이 피난처로 돌아가서 준비하도록 해요~!"
-143,"TEXT_BANLOP003_04683_DICKON_000_099","레포릿들이 달에서 요리를 하다니……
+143,TEXT_BANLOP003_04683_DICKON_000_099,"레포릿들이 달에서 요리를 하다니……
 언젠가 꼭 먹어보고 싶군!"
-144,"TEXT_BANLOP003_04683_COOKINGWAY_100_099","우와, 참 재미있는 곳을 만들었네……."
-145,"TEXT_BANLOP003_04683_SUPPORTER_110_099","'드리밍웨이'가, 할 이야기가 있다고 합니다ー!"
-146,"TEXT_BANLOP003_04683_DREAMINGWAY_000_100","딕콘 님이 써준 메모는
+144,TEXT_BANLOP003_04683_COOKINGWAY_100_099,"우와, 참 재미있는 곳을 만들었네……."
+145,TEXT_BANLOP003_04683_SUPPORTER_110_099,"'드리밍웨이'가, 할 이야기가 있다고 합니다ー!"
+146,TEXT_BANLOP003_04683_DREAMINGWAY_000_100,"딕콘 님이 써준 메모는
 매니징웨이에게 전달했어요~!
 바로 준비해 준대요!"
-147,"TEXT_BANLOP003_04683_DREAMINGWAY_000_101","하지만 <Highlight>ObjectParameter(1)</Highlight> 님에게도
+147,TEXT_BANLOP003_04683_DREAMINGWAY_000_101,"하지만 Player Player 님에게도
 만들어주셨으면 하는 물건이 있다고 해요.
 제가 전달해 드릴게요!"
-148,"TEXT_BANLOP003_04683_DREAMINGWAY_000_102","<Highlight>ObjectParameter(1)</Highlight> 님은
-'<Sheet(Item,38847,0)/>'인
+148,TEXT_BANLOP003_04683_DREAMINGWAY_000_102,"Player Player 님은
+''인
 금속제 식기류 세트를 제작해 주셨으면 한대요~!"
-149,"TEXT_BANLOP003_04683_DREAMINGWAY_000_103","<Highlight>ObjectParameter(1)</Highlight> 님은
-'<Sheet(Item,38847,0)/>'인
+149,TEXT_BANLOP003_04683_DREAMINGWAY_000_103,"Player Player 님은
+''인
 아름다운 식탁깔개를 제작해 주셨으면 한대요~!"
-150,"TEXT_BANLOP003_04683_DREAMINGWAY_000_104","<Highlight>ObjectParameter(1)</Highlight> 님은
-'<Sheet(Item,38847,0)/>'인
+150,TEXT_BANLOP003_04683_DREAMINGWAY_000_104,"Player Player 님은
+''인
 식기 세제를 제작해 주셨으면 한대요~!"
-151,"TEXT_BANLOP003_04683_DREAMINGWAY_000_105","제작에 필요한 것은 매니징웨이에게 받아두었으니
+151,TEXT_BANLOP003_04683_DREAMINGWAY_000_105,"제작에 필요한 것은 매니징웨이에게 받아두었으니
 이것을 사용해 주세요!"
-152,"TEXT_BANLOP003_04683_DREAMINGWAY_000_106","재료가 부족해지면 늘 그랬듯이
+152,TEXT_BANLOP003_04683_DREAMINGWAY_000_106,"재료가 부족해지면 늘 그랬듯이
 꿈 도우미에게 받아 가세요!
 그럼 잘 부탁드려요~!"
-153,"TEXT_BANLOP003_04683_DREAMINGWAY_000_107","앗, 재료가 부족한가요?
+153,TEXT_BANLOP003_04683_DREAMINGWAY_000_107,"앗, 재료가 부족한가요?
 꿈 도우미에게 받을 수 있다고 하니까
 필요한 만큼 가져가세요~!"
-154,"TEXT_BANLOP003_04683_DREAMINGWAY_000_108","앗, 재료가 부족한가요?
+154,TEXT_BANLOP003_04683_DREAMINGWAY_000_108,"앗, 재료가 부족한가요?
 꿈 도우미에게 받을 수 있다고 하니까
 필요한 만큼 가져가세요~!"
-155,"TEXT_BANLOP003_04683_DREAMINGWAY_000_109","앗, 재료가 부족한가요?
+155,TEXT_BANLOP003_04683_DREAMINGWAY_000_109,"앗, 재료가 부족한가요?
 꿈 도우미에게 받을 수 있다고 하니까
 필요한 만큼 가져가세요~!"
-156,"TEXT_BANLOP003_04683_SUPPORTER_000_110","재료를, 드리겠습니다…… 아니!?
+156,TEXT_BANLOP003_04683_SUPPORTER_000_110,"재료를, 드리겠습니다…… 아니!?
 이미 필요한 재료를, 갖고 있으신데요!"
-157,"TEXT_BANLOP003_04683_SUPPORTER_000_111","재료를, 드리겠습니다…… 아니!?
+157,TEXT_BANLOP003_04683_SUPPORTER_000_111,"재료를, 드리겠습니다…… 아니!?
 이미 필요한 재료를, 갖고 있으신데요!"
-158,"TEXT_BANLOP003_04683_SUPPORTER_000_112","재료를, 드리겠습니다…… 아니!?
+158,TEXT_BANLOP003_04683_SUPPORTER_000_112,"재료를, 드리겠습니다…… 아니!?
 이미 필요한 재료를, 갖고 있으신데요!"
-159,"TEXT_BANLOP003_04683_SUPPORTER_000_113","어이쿠, 재료가, 없습니까?
+159,TEXT_BANLOP003_04683_SUPPORTER_000_113,"어이쿠, 재료가, 없습니까?
 자, 이걸 사용해 주세요!"
-160,"TEXT_BANLOP003_04683_SUPPORTER_000_114","어이쿠, 재료가, 없습니까?
+160,TEXT_BANLOP003_04683_SUPPORTER_000_114,"어이쿠, 재료가, 없습니까?
 자, 이걸 사용해 주세요!"
-161,"TEXT_BANLOP003_04683_SUPPORTER_000_115","어이쿠, 재료가, 없습니까?
+161,TEXT_BANLOP003_04683_SUPPORTER_000_115,"어이쿠, 재료가, 없습니까?
 자, 이걸 사용해 주세요!"
-162,"TEXT_BANLOP003_04683_DREAMINGWAY_000_120","부탁드린 건 완성되었나요~!?"
-163,"TEXT_BANLOP003_04683_DREAMINGWAY_000_121","<Highlight>ObjectParameter(1)</Highlight> 님은
+162,TEXT_BANLOP003_04683_DREAMINGWAY_000_120,부탁드린 건 완성되었나요~!?
+163,TEXT_BANLOP003_04683_DREAMINGWAY_000_121,"Player Player 님은
 못 만드시는 것이 없네요……!"
-164,"TEXT_BANLOP003_04683_DREAMINGWAY_000_122","아, 그래요, 쿠킹웨이도
+164,TEXT_BANLOP003_04683_DREAMINGWAY_000_122,"아, 그래요, 쿠킹웨이도
 조리도구 준비가 다 됐다고 했어요!
 그럼 작업을 시작하도록 해요~!"
-165,"TEXT_BANLOP003_04683_DREAMINGWAY_000_130","맛있어 보이는 요리가 한가득이네요!
+165,TEXT_BANLOP003_04683_DREAMINGWAY_000_130,"맛있어 보이는 요리가 한가득이네요!
 배를 채워줄 요리 체험관이 완성됐어요~!"
-166,"TEXT_BANLOP003_04683_COOKINGWAY_000_131","내가 정성껏 만든 요리야, 마음껏 먹어!!
+166,TEXT_BANLOP003_04683_COOKINGWAY_000_131,"내가 정성껏 만든 요리야, 마음껏 먹어!!
 그리고 음식을 맛있게 즐기면서
 요리법이나 식재료 같은 것에도 관심을 가져 주면 좋겠어."
-167,"TEXT_BANLOP003_04683_DREAMINGWAY_000_132","저 아이, 얼마 전에도 있지 않았나요?
+167,TEXT_BANLOP003_04683_DREAMINGWAY_000_132,"저 아이, 얼마 전에도 있지 않았나요?
 종종 보이는데 가까이 오지는 않고……
 부끄러운 걸까요?"
-168,"TEXT_BANLOP003_04683_DREAMINGWAY_000_133","신경 쓰이네요.
+168,TEXT_BANLOP003_04683_DREAMINGWAY_000_133,"신경 쓰이네요.
 저 아이에 대해서 알아봐야겠어요~
 나중에라도 직접 이야기를 나눠볼 수 있으면 좋을 텐데……."
-169,"TEXT_BANLOP003_04683_SYSTEM_000_134","요리 체험관이 완성되었습니다!
+169,TEXT_BANLOP003_04683_SYSTEM_000_134,"요리 체험관이 완성되었습니다!
 더 많은 레포릿들이 꿈을 찾을 수 있도록
 드리밍웨이 일행과 협력하며 계속 확장해 나갑시다!"
-170,"TEXT_BANLOP003_04683_SYSTEM_000_135","'꿈꾸는 체험관'의 우호 관계가
+170,TEXT_BANLOP003_04683_SYSTEM_000_135,"'꿈꾸는 체험관'의 우호 관계가
 '경의'가 되었습니다."
-171,"TEXT_BANLOP003_04683_SYSTEM_000_136","요리 체험관의 제작에 힘을 보탬으로써
+171,TEXT_BANLOP003_04683_SYSTEM_000_136,"요리 체험관의 제작에 힘을 보탬으로써
 신뢰를 얻은 듯합니다."
-172,"TEXT_BANLOP003_04683_SYSTEM_000_137","앞으로 꿈꾸는 체험관에 있는
+172,TEXT_BANLOP003_04683_SYSTEM_000_137,"앞으로 꿈꾸는 체험관에 있는
 '매니징웨이'에게 반복 가능한
 '우호부족 일일 퀘스트'를 받을 수 있습니다."
-173,"TEXT_BANLOP003_04683_SYSTEM_000_138","또, 우호 단계가 상승한 당일에 한해
+173,TEXT_BANLOP003_04683_SYSTEM_000_138,"또, 우호 단계가 상승한 당일에 한해
 '매니징웨이'에게 일일 퀘스트를 3회 더 받을 수 있습니다."
-174,"TEXT_BANLOP003_04683_SYSTEM_000_139","우호 단계가 상승하기 전에 발행된 일일 퀘스트를
+174,TEXT_BANLOP003_04683_SYSTEM_000_139,"우호 단계가 상승하기 전에 발행된 일일 퀘스트를
 모두 수주하면 추가분이 발행됩니다.
 수주권이 남아있으면 이를 수주할 수 있습니다."
-175,"TEXT_BANLOP003_04683_SYSTEM_000_140","또 '코이닝웨이'에게서 구입할 수 있는
+175,TEXT_BANLOP003_04683_SYSTEM_000_140,"또 '코이닝웨이'에게서 구입할 수 있는
 아이템이 늘어났습니다.
 앞으로 모험에 활용해보세요!"

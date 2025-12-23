@@ -1,129 +1,127 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBMCH500_01703_SEQ_00","하늘강철 기공방의 스테파니비앙은 모의 전투에 대비해 작전 회의를 열고 싶은 듯하다."
-1,"TEXT_JOBMCH500_01703_SEQ_01","스테파니비앙이 모의 전투에 대비해 작전 회의를 열겠다고 한다. 하늘강철 기공방 부근에 있는 '조이'와 대화하자."
-2,"TEXT_JOBMCH500_01703_SEQ_02","조이와 대화했다. 성 레네트 광장 부근에 있는 '로스튼스탈'과 대화하자."
-3,"TEXT_JOBMCH500_01703_SEQ_03","로스튼스탈과 대화했다. 이슈가르드 하층에 있는 '거동수상자'에게 '슬러그탄'을 사용하자.
+#,Unknown0,Unknown1
+0,TEXT_JOBMCH500_01703_SEQ_00,하늘강철 기공방의 스테파니비앙은 모의 전투에 대비해 작전 회의를 열고 싶은 듯하다.
+1,TEXT_JOBMCH500_01703_SEQ_01,스테파니비앙이 모의 전투에 대비해 작전 회의를 열겠다고 한다. 하늘강철 기공방 부근에 있는 '조이'와 대화하자.
+2,TEXT_JOBMCH500_01703_SEQ_02,조이와 대화했다. 성 레네트 광장 부근에 있는 '로스튼스탈'과 대화하자.
+3,TEXT_JOBMCH500_01703_SEQ_03,"로스튼스탈과 대화했다. 이슈가르드 하층에 있는 '거동수상자'에게 '슬러그탄'을 사용하자.
 
 ※ 슬러그탄을 사용할 수 없는 경우에는 '열슬러그탄'으로도 진행할 수 있습니다."
-4,"TEXT_JOBMCH500_01703_SEQ_04","이슈가르드 하층에 있는 거동수상자를 쫓아냈다. 하늘강철 기공방에 있는 '스테파니비앙'과 대화하자."
-5,"TEXT_JOBMCH500_01703_SEQ_05","스테파니비앙과 대화하던 중 폭발음이 들렸다. 이슈가르드 하층에 있는 '조이'와 대화하자."
-6,"TEXT_JOBMCH500_01703_SEQ_06","조이와 대화했다. 하늘강철 기공방에 있는 '스테파니비앙'과 대화하자."
-7,"TEXT_JOBMCH500_01703_SEQ_07","스테파니비앙과 대화했다. 누군가의 방해를 받아 충분히 대비하지 못한 채 모의 전투를 치르게 되었다. 모의 전투 결과는 모험가의 활약에 달려 있다. 과연 아유나르트 가를 승리로 이끌 수 있을 것인가?"
-8,"TEXT_JOBMCH500_01703_SEQ_08",""
-9,"TEXT_JOBMCH500_01703_SEQ_09",""
-10,"TEXT_JOBMCH500_01703_SEQ_10",""
-11,"TEXT_JOBMCH500_01703_SEQ_11",""
-12,"TEXT_JOBMCH500_01703_SEQ_12",""
-13,"TEXT_JOBMCH500_01703_SEQ_13",""
-14,"TEXT_JOBMCH500_01703_SEQ_14",""
-15,"TEXT_JOBMCH500_01703_SEQ_15",""
-16,"TEXT_JOBMCH500_01703_SEQ_16",""
-17,"TEXT_JOBMCH500_01703_SEQ_17",""
-18,"TEXT_JOBMCH500_01703_SEQ_18",""
-19,"TEXT_JOBMCH500_01703_SEQ_19",""
-20,"TEXT_JOBMCH500_01703_SEQ_20",""
-21,"TEXT_JOBMCH500_01703_SEQ_21",""
-22,"TEXT_JOBMCH500_01703_SEQ_22",""
-23,"TEXT_JOBMCH500_01703_SEQ_23",""
-24,"TEXT_JOBMCH500_01703_TODO_00","조이와 대화"
-25,"TEXT_JOBMCH500_01703_TODO_01","로스튼스탈과 대화"
-26,"TEXT_JOBMCH500_01703_TODO_02","거동수상자에게 슬러그탄 사용"
-27,"TEXT_JOBMCH500_01703_TODO_03","스테파니비앙과 대화"
-28,"TEXT_JOBMCH500_01703_TODO_04","조이와 대화"
-29,"TEXT_JOBMCH500_01703_TODO_05","스테파니비앙과 대화"
-30,"TEXT_JOBMCH500_01703_TODO_06",""
-31,"TEXT_JOBMCH500_01703_TODO_07",""
-32,"TEXT_JOBMCH500_01703_TODO_08",""
-33,"TEXT_JOBMCH500_01703_TODO_09",""
-34,"TEXT_JOBMCH500_01703_TODO_10",""
-35,"TEXT_JOBMCH500_01703_TODO_11",""
-36,"TEXT_JOBMCH500_01703_TODO_12",""
-37,"TEXT_JOBMCH500_01703_TODO_13",""
-38,"TEXT_JOBMCH500_01703_TODO_14",""
-39,"TEXT_JOBMCH500_01703_TODO_15",""
-40,"TEXT_JOBMCH500_01703_TODO_16",""
-41,"TEXT_JOBMCH500_01703_TODO_17",""
-42,"TEXT_JOBMCH500_01703_TODO_18",""
-43,"TEXT_JOBMCH500_01703_TODO_19",""
-44,"TEXT_JOBMCH500_01703_TODO_20",""
-45,"TEXT_JOBMCH500_01703_TODO_21",""
-46,"TEXT_JOBMCH500_01703_TODO_22",""
-47,"TEXT_JOBMCH500_01703_TODO_23",""
-48,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_000","왔구나, <Highlight>ObjectParameter(1)</Highlight>!
+4,TEXT_JOBMCH500_01703_SEQ_04,이슈가르드 하층에 있는 거동수상자를 쫓아냈다. 하늘강철 기공방에 있는 '스테파니비앙'과 대화하자.
+5,TEXT_JOBMCH500_01703_SEQ_05,스테파니비앙과 대화하던 중 폭발음이 들렸다. 이슈가르드 하층에 있는 '조이'와 대화하자.
+6,TEXT_JOBMCH500_01703_SEQ_06,조이와 대화했다. 하늘강철 기공방에 있는 '스테파니비앙'과 대화하자.
+7,TEXT_JOBMCH500_01703_SEQ_07,스테파니비앙과 대화했다. 누군가의 방해를 받아 충분히 대비하지 못한 채 모의 전투를 치르게 되었다. 모의 전투 결과는 모험가의 활약에 달려 있다. 과연 아유나르트 가를 승리로 이끌 수 있을 것인가?
+8,TEXT_JOBMCH500_01703_SEQ_08,
+9,TEXT_JOBMCH500_01703_SEQ_09,
+10,TEXT_JOBMCH500_01703_SEQ_10,
+11,TEXT_JOBMCH500_01703_SEQ_11,
+12,TEXT_JOBMCH500_01703_SEQ_12,
+13,TEXT_JOBMCH500_01703_SEQ_13,
+14,TEXT_JOBMCH500_01703_SEQ_14,
+15,TEXT_JOBMCH500_01703_SEQ_15,
+16,TEXT_JOBMCH500_01703_SEQ_16,
+17,TEXT_JOBMCH500_01703_SEQ_17,
+18,TEXT_JOBMCH500_01703_SEQ_18,
+19,TEXT_JOBMCH500_01703_SEQ_19,
+20,TEXT_JOBMCH500_01703_SEQ_20,
+21,TEXT_JOBMCH500_01703_SEQ_21,
+22,TEXT_JOBMCH500_01703_SEQ_22,
+23,TEXT_JOBMCH500_01703_SEQ_23,
+24,TEXT_JOBMCH500_01703_TODO_00,조이와 대화
+25,TEXT_JOBMCH500_01703_TODO_01,로스튼스탈과 대화
+26,TEXT_JOBMCH500_01703_TODO_02,거동수상자에게 슬러그탄 사용
+27,TEXT_JOBMCH500_01703_TODO_03,스테파니비앙과 대화
+28,TEXT_JOBMCH500_01703_TODO_04,조이와 대화
+29,TEXT_JOBMCH500_01703_TODO_05,스테파니비앙과 대화
+30,TEXT_JOBMCH500_01703_TODO_06,
+31,TEXT_JOBMCH500_01703_TODO_07,
+32,TEXT_JOBMCH500_01703_TODO_08,
+33,TEXT_JOBMCH500_01703_TODO_09,
+34,TEXT_JOBMCH500_01703_TODO_10,
+35,TEXT_JOBMCH500_01703_TODO_11,
+36,TEXT_JOBMCH500_01703_TODO_12,
+37,TEXT_JOBMCH500_01703_TODO_13,
+38,TEXT_JOBMCH500_01703_TODO_14,
+39,TEXT_JOBMCH500_01703_TODO_15,
+40,TEXT_JOBMCH500_01703_TODO_16,
+41,TEXT_JOBMCH500_01703_TODO_17,
+42,TEXT_JOBMCH500_01703_TODO_18,
+43,TEXT_JOBMCH500_01703_TODO_19,
+44,TEXT_JOBMCH500_01703_TODO_20,
+45,TEXT_JOBMCH500_01703_TODO_21,
+46,TEXT_JOBMCH500_01703_TODO_22,
+47,TEXT_JOBMCH500_01703_TODO_23,
+48,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_000,"왔구나, Player Player!
 드디어 결전의 날이 왔어.
 이번 전투의 결과에 따라 '기공사'의 미래가 결정될 거야!"
-49,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_001","지금부터 다 같이 작전 회의를 하려고 하는데
+49,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_001,"지금부터 다 같이 작전 회의를 하려고 하는데
 공방 밖에 있는 조이 좀 불러줄래?
 사범이 어디 있는지도 조이가 알 거야."
-50,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_002","지금부터 다 같이 작전 회의를 하려고 하는데
+50,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_002,"지금부터 다 같이 작전 회의를 하려고 하는데
 공방 밖에 있는 조이 좀 불러줄래?
 사범이 어디 있는지도 조이가 알 거야."
-51,"TEXT_JOBMCH500_01703_JOYE_000_010","<Highlight>ObjectParameter(1)</Highlight> 님, 큰일 났습니다!
+51,TEXT_JOBMCH500_01703_JOYE_000_010,"Player Player 님, 큰일 났습니다!
 모, 모의 전투용 총이 전부 망가졌어요……!"
-52,"TEXT_JOBMCH500_01703_JOYE_000_011","어, 얼른 도련님께 보고를……!
+52,TEXT_JOBMCH500_01703_JOYE_000_011,"어, 얼른 도련님께 보고를……!
 아, 아니지…… 다른 곳에 보관한 총을 사용하면
 모의 전투에는 나갈 수 있으니…… 으아아아."
-53,"TEXT_JOBMCH500_01703_JOYE_000_012","헉, 역시 <Highlight>ObjectParameter(1)</Highlight> 님은 듬직하세요…….
+53,TEXT_JOBMCH500_01703_JOYE_000_012,"헉, 역시 Player Player 님은 듬직하세요…….
 맞아요, 이럴 때일수록 침착해야죠.
 우선 예비용 총을 확인한 다음 도련님께 보고드릴게요!"
-54,"TEXT_JOBMCH500_01703_JOYE_000_013","……사범님이 어디 계시냐고요?
+54,TEXT_JOBMCH500_01703_JOYE_000_013,"……사범님이 어디 계시냐고요?
 방금 '성 레네트 광장'으로 가시는 걸 봤습니다."
-55,"TEXT_JOBMCH500_01703_ROSTNSTHAL_000_020","<Highlight>ObjectParameter(1)</Highlight>, 마침 잘 왔다.
+55,TEXT_JOBMCH500_01703_ROSTNSTHAL_000_020,"Player Player, 마침 잘 왔다.
 공방 주변에 또 수상한 놈이 어슬렁대더군."
-56,"TEXT_JOBMCH500_01703_ROSTNSTHAL_000_021","뭐? 모의 전투에 쓸 총이 망가졌다고……!?
+56,TEXT_JOBMCH500_01703_ROSTNSTHAL_000_021,"뭐? 모의 전투에 쓸 총이 망가졌다고……!?
 누군지 몰라도 기공사를 눈엣가시로 여기는 놈들이
 수단을 가리지 않고 움직이기 시작한 모양이군."
-57,"TEXT_JOBMCH500_01703_ROSTNSTHAL_000_022","이렇게 된 이상 수상한 놈들을 싹 쓸어버리는 수밖에……
+57,TEXT_JOBMCH500_01703_ROSTNSTHAL_000_022,"이렇게 된 이상 수상한 놈들을 싹 쓸어버리는 수밖에……
 너, 가서 공방 주변에 누가 없나 살펴봐."
-58,"TEXT_JOBMCH500_01703_ROSTNSTHAL_000_023","'거동수상자'가 있으면 '슬러그탄'으로 쫓아내라.
+58,TEXT_JOBMCH500_01703_ROSTNSTHAL_000_023,"'거동수상자'가 있으면 '슬러그탄'으로 쫓아내라.
 다 끝나면 공방에서 보자고."
-59,"TEXT_JOBMCH500_01703_SYSTEM_000_024","현재 '슬러그탄'을 사용할 수 없으므로
+59,TEXT_JOBMCH500_01703_SYSTEM_000_024,"현재 '슬러그탄'을 사용할 수 없으므로
 '열슬러그탄'을 사용하면
 퀘스트를 진행할 수 있습니다."
-60,"TEXT_JOBMCH500_01703_PROWLER01703A_000_030","여기라면 안 들키겠지, 키키킥."
-61,"TEXT_JOBMCH500_01703_PROWLER01703A_000_035","……으악! 들켰나!?"
-62,"TEXT_JOBMCH500_01703_PROWLER01703B_000_030","기공사에게 원한은 없지만……
+60,TEXT_JOBMCH500_01703_PROWLER01703A_000_030,"여기라면 안 들키겠지, 키키킥."
+61,TEXT_JOBMCH500_01703_PROWLER01703A_000_035,……으악! 들켰나!?
+62,TEXT_JOBMCH500_01703_PROWLER01703B_000_030,"기공사에게 원한은 없지만……
 돈이 걸린 일이니까……."
-63,"TEXT_JOBMCH500_01703_PROWLER01703B_000_035","끄악! 나, 난 아무 짓도 안 했어!"
-64,"TEXT_JOBMCH500_01703_PROWLER01703C_000_030","보는 사람은 없겠지……?"
-65,"TEXT_JOBMCH500_01703_PROWLER01703C_000_035","젠장, 이런 데서 잡힐까 보냐!"
-66,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_040","어서 와, 별일 없었어?
+63,TEXT_JOBMCH500_01703_PROWLER01703B_000_035,"끄악! 나, 난 아무 짓도 안 했어!"
+64,TEXT_JOBMCH500_01703_PROWLER01703C_000_030,보는 사람은 없겠지……?
+65,TEXT_JOBMCH500_01703_PROWLER01703C_000_035,"젠장, 이런 데서 잡힐까 보냐!"
+66,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_040,"어서 와, 별일 없었어?
 사범이 수상한 자들을 잔뜩 처리하고 왔다던데……
 너도 만만치 않았나 보네."
-67,"TEXT_JOBMCH500_01703_JOYE_000_041","(-조이-)……하지만 모의 전투에 쓸 총이 다 망가져 버렸어요.
+67,TEXT_JOBMCH500_01703_JOYE_000_041,"(-조이-)……하지만 모의 전투에 쓸 총이 다 망가져 버렸어요.
 예비용 총을 다 긁어모아도 절반도 안 돼요.
 이대로는 모의 전투에 참가조차 할 수 없습니다……."
-68,"TEXT_JOBMCH500_01703_JOYE_000_042","（★未使用／削除予定★）"
-69,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_042","절반이나 있으면 충분해.
+68,TEXT_JOBMCH500_01703_JOYE_000_042,（★未使用／削除予定★）
+69,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_042,"절반이나 있으면 충분해.
 조금 더 힘든 싸움이 될 뿐이지."
-70,"TEXT_JOBMCH500_01703_ROSTNSTHAL_000_043","(-로스튼스탈-)뭐지!? 엄청난 소리가 났는데!?
+70,TEXT_JOBMCH500_01703_ROSTNSTHAL_000_043,"(-로스튼스탈-)뭐지!? 엄청난 소리가 났는데!?
 빨리 가보자!"
-71,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_049","이번엔 또 무슨 일이지……?"
-72,"TEXT_JOBMCH500_01703_JOYE_000_050","도련님……
+71,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_049,이번엔 또 무슨 일이지……?
+72,TEXT_JOBMCH500_01703_JOYE_000_050,"도련님……
 이번에는 포탑이 터졌습니다……."
-73,"TEXT_JOBMCH500_01703_ROSTNSTHAL_000_051","(-로스튼스탈-)……큭, 아직도 누가 숨어있었나 보군."
-74,"TEXT_JOBMCH500_01703_JOYE_000_052","도, 도련님……
+73,TEXT_JOBMCH500_01703_ROSTNSTHAL_000_051,"(-로스튼스탈-)……큭, 아직도 누가 숨어있었나 보군."
+74,TEXT_JOBMCH500_01703_JOYE_000_052,"도, 도련님……
 이제 모의 전투는 못 나가는 게 아닌가요……."
-75,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_053","아니, 아직 시간은 있어…… 어떻게든 되겠지!
+75,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_053,"아니, 아직 시간은 있어…… 어떻게든 되겠지!
 궁지에 몰리니 전의가 더욱 불타오르는걸!"
-76,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_054","<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 공방으로 와줘."
-77,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_055","사범이랑 조이는 기공사들과 함께 모의 전투 장소로 가!
+76,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_054,Player Player 공방으로 와줘.
+77,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_055,"사범이랑 조이는 기공사들과 함께 모의 전투 장소로 가!
 최대한 당당하고 자신 있게 행동하며 적의 시선을 끌어줘.
 그동안 내가 필요한 총을 준비할게!"
-78,"TEXT_JOBMCH500_01703_JOYE_000_056","송구합니다만, 제때 맞출 수 있을까요!?"
-79,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_057","……못 맞춰. 제대로 만들려면 말이지.
+78,TEXT_JOBMCH500_01703_JOYE_000_056,"송구합니다만, 제때 맞출 수 있을까요!?"
+79,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_057,"……못 맞춰. 제대로 만들려면 말이지.
 성능은 포기하고, 대충 총알만 나가는 총을 긁어모아 볼게.
 단, 이건 우리만 알고 있기다."
-80,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_058","허접스러운 총을 지급받은 기공사 몫까지
+80,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_058,"허접스러운 총을 지급받은 기공사 몫까지
 너와 조이가 해내야 해."
-81,"TEXT_JOBMCH500_01703_CELESTAUX_000_060","도련님…… 저도 돕겠습니다.
+81,TEXT_JOBMCH500_01703_CELESTAUX_000_060,"도련님…… 저도 돕겠습니다.
 꽤 곤란한 이야기를 들어버렸거든요."
-82,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_061","아차, 셀레스토…… 누가 정보 수집이 특기 아니랄까 봐.
+82,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_061,"아차, 셀레스토…… 누가 정보 수집이 특기 아니랄까 봐.
 어쩔 수 없군, 잘 부탁한다."
-83,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_062","상황은 최악이라 할 수 있지만……
+83,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_062,"상황은 최악이라 할 수 있지만……
 그래도 이번 모의 전투, 반드시 승리하자!"
-84,"TEXT_JOBMCH500_01703_STEPHANIVIEN_000_070","설마 이런 상황에서 모의 전투를 치르게 될 줄이야…….
+84,TEXT_JOBMCH500_01703_STEPHANIVIEN_000_070,"설마 이런 상황에서 모의 전투를 치르게 될 줄이야…….
 모의 전투에서 이기려면 네 도움이 더더욱 절실하게 됐어.
 잘 부탁한다……."

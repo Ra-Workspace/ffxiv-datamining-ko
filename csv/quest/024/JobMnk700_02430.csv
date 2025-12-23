@@ -1,344 +1,342 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBMNK700_02430_SEQ_00","알라가나의 위다르겔트는 결심을 굳힌 모양이다."
-1,"TEXT_JOBMNK700_02430_SEQ_01","위다르겔트는 테오발드에게 결투를 신청하려는 듯하다. 기라바니아 산악지대의 녹슨 바위에 있는 '테오발드'에게 <Sheet(EventItem,2002261,0)/><13>FF15022811FF0A4576656E744974656DF61E8D550103FF04EBA5BCFF04EC9D84</13> 건네자."
-2,"TEXT_JOBMNK700_02430_SEQ_02","테오발드는 위다르겔트의 결투 신청을 받아들이기로 한 듯하다. 기라바니아 변방지대의 교조의 사당에 있는 '위다르겔트'와 대화하자."
-3,"TEXT_JOBMNK700_02430_SEQ_03","위다르겔트는 테오발드에게 설욕했다. 기라바니아 변방지대에 있는 위다르겔트와 승리의 기쁨을 나누자."
-4,"TEXT_JOBMNK700_02430_SEQ_04","위다르겔트는 알라가나 주민들에게 다시 한번 성도교의 부흥을 선언했다. 알라가나의 '해먼' '차크하' '에릭'과 대화하자."
-5,"TEXT_JOBMNK700_02430_SEQ_05","해먼과 격투사 길드 일행은 위다르겔트의 연설을 칭찬한 후, 울다하로 돌아갔다. 젠차와 오차크하는 앞으로도 위다르겔트 곁에서 성도교의 부흥을 도울 모양이다. 에릭은 위다르겔트가 운명에 휘둘리지 않고 꿋꿋이 걸어온 모습을 보고 안도하는 듯하다. '위다르겔트'와 대화하자."
-6,"TEXT_JOBMNK700_02430_SEQ_06","위다르겔트는 새로운 성도교의 교리를 기라바니아 전역에 전파하기 위해 긴 여행을 떠났다. 앞으로도 몽크의 마음과 기술로 많은 사람들에게 힘이 되자.
+#,Unknown0,Unknown1
+0,TEXT_JOBMNK700_02430_SEQ_00,알라가나의 위다르겔트는 결심을 굳힌 모양이다.
+1,TEXT_JOBMNK700_02430_SEQ_01,위다르겔트는 테오발드에게 결투를 신청하려는 듯하다. 기라바니아 산악지대의 녹슨 바위에 있는 '테오발드'에게  건네자.
+2,TEXT_JOBMNK700_02430_SEQ_02,테오발드는 위다르겔트의 결투 신청을 받아들이기로 한 듯하다. 기라바니아 변방지대의 교조의 사당에 있는 '위다르겔트'와 대화하자.
+3,TEXT_JOBMNK700_02430_SEQ_03,위다르겔트는 테오발드에게 설욕했다. 기라바니아 변방지대에 있는 위다르겔트와 승리의 기쁨을 나누자.
+4,TEXT_JOBMNK700_02430_SEQ_04,위다르겔트는 알라가나 주민들에게 다시 한번 성도교의 부흥을 선언했다. 알라가나의 '해먼' '차크하' '에릭'과 대화하자.
+5,TEXT_JOBMNK700_02430_SEQ_05,"해먼과 격투사 길드 일행은 위다르겔트의 연설을 칭찬한 후, 울다하로 돌아갔다. 젠차와 오차크하는 앞으로도 위다르겔트 곁에서 성도교의 부흥을 도울 모양이다. 에릭은 위다르겔트가 운명에 휘둘리지 않고 꿋꿋이 걸어온 모습을 보고 안도하는 듯하다. '위다르겔트'와 대화하자."
+6,TEXT_JOBMNK700_02430_SEQ_06,"위다르겔트는 새로운 성도교의 교리를 기라바니아 전역에 전파하기 위해 긴 여행을 떠났다. 앞으로도 몽크의 마음과 기술로 많은 사람들에게 힘이 되자.
 
 ※ 아래의 조건을 만족하면 보석공예가 길드의 에릭에게 새로운 잡 퀘스트를 받을 수 있습니다.
 1. '주요 퀘스트: 칠흑의 반역자' 중
  '칠흑의 반역자'를 완료할 것.
 2. 물리 공격 역할의 '역할 퀘스트 칠흑편'을 완료할 것."
-7,"TEXT_JOBMNK700_02430_SEQ_07",""
-8,"TEXT_JOBMNK700_02430_SEQ_08",""
-9,"TEXT_JOBMNK700_02430_SEQ_09",""
-10,"TEXT_JOBMNK700_02430_SEQ_10",""
-11,"TEXT_JOBMNK700_02430_SEQ_11",""
-12,"TEXT_JOBMNK700_02430_SEQ_12",""
-13,"TEXT_JOBMNK700_02430_SEQ_13",""
-14,"TEXT_JOBMNK700_02430_SEQ_14",""
-15,"TEXT_JOBMNK700_02430_SEQ_15",""
-16,"TEXT_JOBMNK700_02430_SEQ_16",""
-17,"TEXT_JOBMNK700_02430_SEQ_17",""
-18,"TEXT_JOBMNK700_02430_SEQ_18",""
-19,"TEXT_JOBMNK700_02430_SEQ_19",""
-20,"TEXT_JOBMNK700_02430_SEQ_20",""
-21,"TEXT_JOBMNK700_02430_SEQ_21",""
-22,"TEXT_JOBMNK700_02430_SEQ_22",""
-23,"TEXT_JOBMNK700_02430_SEQ_23",""
-24,"TEXT_JOBMNK700_02430_TODO_00","녹슨바위 벌판에 있는 테오발드에게
-<Sheet(EventItem,2002261,0)/> 전달"
-25,"TEXT_JOBMNK700_02430_TODO_01","교조의 사당에 있는 위다르겔트와 대화"
-26,"TEXT_JOBMNK700_02430_TODO_02","교조의 사당에 있는 위다르겔트와 대화"
-27,"TEXT_JOBMNK700_02430_TODO_03","해먼과 대화"
-28,"TEXT_JOBMNK700_02430_TODO_04","오차크하와 대화"
-29,"TEXT_JOBMNK700_02430_TODO_05","에릭과 대화"
-30,"TEXT_JOBMNK700_02430_TODO_06","위다르겔트와 대화"
-31,"TEXT_JOBMNK700_02430_TODO_07",""
-32,"TEXT_JOBMNK700_02430_TODO_08",""
-33,"TEXT_JOBMNK700_02430_TODO_09",""
-34,"TEXT_JOBMNK700_02430_TODO_10",""
-35,"TEXT_JOBMNK700_02430_TODO_11",""
-36,"TEXT_JOBMNK700_02430_TODO_12",""
-37,"TEXT_JOBMNK700_02430_TODO_13",""
-38,"TEXT_JOBMNK700_02430_TODO_14",""
-39,"TEXT_JOBMNK700_02430_TODO_15",""
-40,"TEXT_JOBMNK700_02430_TODO_16",""
-41,"TEXT_JOBMNK700_02430_TODO_17",""
-42,"TEXT_JOBMNK700_02430_TODO_18",""
-43,"TEXT_JOBMNK700_02430_TODO_19",""
-44,"TEXT_JOBMNK700_02430_TODO_20",""
-45,"TEXT_JOBMNK700_02430_TODO_21",""
-46,"TEXT_JOBMNK700_02430_TODO_22",""
-47,"TEXT_JOBMNK700_02430_TODO_23",""
-48,"TEXT_JOBMNK700_02430_WIDARGELT_000_001","에릭 박사님의 치료도 끝난 모양이니
+7,TEXT_JOBMNK700_02430_SEQ_07,
+8,TEXT_JOBMNK700_02430_SEQ_08,
+9,TEXT_JOBMNK700_02430_SEQ_09,
+10,TEXT_JOBMNK700_02430_SEQ_10,
+11,TEXT_JOBMNK700_02430_SEQ_11,
+12,TEXT_JOBMNK700_02430_SEQ_12,
+13,TEXT_JOBMNK700_02430_SEQ_13,
+14,TEXT_JOBMNK700_02430_SEQ_14,
+15,TEXT_JOBMNK700_02430_SEQ_15,
+16,TEXT_JOBMNK700_02430_SEQ_16,
+17,TEXT_JOBMNK700_02430_SEQ_17,
+18,TEXT_JOBMNK700_02430_SEQ_18,
+19,TEXT_JOBMNK700_02430_SEQ_19,
+20,TEXT_JOBMNK700_02430_SEQ_20,
+21,TEXT_JOBMNK700_02430_SEQ_21,
+22,TEXT_JOBMNK700_02430_SEQ_22,
+23,TEXT_JOBMNK700_02430_SEQ_23,
+24,TEXT_JOBMNK700_02430_TODO_00,"녹슨바위 벌판에 있는 테오발드에게
+ 전달"
+25,TEXT_JOBMNK700_02430_TODO_01,교조의 사당에 있는 위다르겔트와 대화
+26,TEXT_JOBMNK700_02430_TODO_02,교조의 사당에 있는 위다르겔트와 대화
+27,TEXT_JOBMNK700_02430_TODO_03,해먼과 대화
+28,TEXT_JOBMNK700_02430_TODO_04,오차크하와 대화
+29,TEXT_JOBMNK700_02430_TODO_05,에릭과 대화
+30,TEXT_JOBMNK700_02430_TODO_06,위다르겔트와 대화
+31,TEXT_JOBMNK700_02430_TODO_07,
+32,TEXT_JOBMNK700_02430_TODO_08,
+33,TEXT_JOBMNK700_02430_TODO_09,
+34,TEXT_JOBMNK700_02430_TODO_10,
+35,TEXT_JOBMNK700_02430_TODO_11,
+36,TEXT_JOBMNK700_02430_TODO_12,
+37,TEXT_JOBMNK700_02430_TODO_13,
+38,TEXT_JOBMNK700_02430_TODO_14,
+39,TEXT_JOBMNK700_02430_TODO_15,
+40,TEXT_JOBMNK700_02430_TODO_16,
+41,TEXT_JOBMNK700_02430_TODO_17,
+42,TEXT_JOBMNK700_02430_TODO_18,
+43,TEXT_JOBMNK700_02430_TODO_19,
+44,TEXT_JOBMNK700_02430_TODO_20,
+45,TEXT_JOBMNK700_02430_TODO_21,
+46,TEXT_JOBMNK700_02430_TODO_22,
+47,TEXT_JOBMNK700_02430_TODO_23,
+48,TEXT_JOBMNK700_02430_WIDARGELT_000_001,"에릭 박사님의 치료도 끝난 모양이니
 이제 테오발드에게 결투를 신청할까 생각합니다."
-49,"TEXT_JOBMNK700_02430_WIDARGELT_000_002","박사님께 듣기로는, 놈들은 녹슨바위 벌판을 아지트로 삼고 있다더군요.
+49,TEXT_JOBMNK700_02430_WIDARGELT_000_002,"박사님께 듣기로는, 놈들은 녹슨바위 벌판을 아지트로 삼고 있다더군요.
 이제 도전장만 전달하면 될 것 같습니다만……."
-50,"TEXT_JOBMNK700_02430_Q1_000_000","누가 도전장을 전달하겠습니까?"
-51,"TEXT_JOBMNK700_02430_A1_000_001","내가 간다"
-52,"TEXT_JOBMNK700_02430_A1_000_002","위다르겔트를 보낸다"
-53,"TEXT_JOBMNK700_02430_WIDARGELT_000_003","<Highlight>ObjectParameter(1)</Highlight>, 당신이 전달해 주신다고요?
+50,TEXT_JOBMNK700_02430_Q1_000_000,누가 도전장을 전달하겠습니까?
+51,TEXT_JOBMNK700_02430_A1_000_001,내가 간다
+52,TEXT_JOBMNK700_02430_A1_000_002,위다르겔트를 보낸다
+53,TEXT_JOBMNK700_02430_WIDARGELT_000_003,"Player Player, 당신이 전달해 주신다고요?
 하지만 또 놈들이 함정을 칠 지도 모릅니다.
 이번엔 제가 가도록 하죠."
-54,"TEXT_JOBMNK700_02430_WIDARGELT_000_004","네, 당신 말대로 제가 가는 게 맞는 것 같습니다. "
-55,"TEXT_JOBMNK700_02430_OTCHAKHA_000_005","잠깐만요.
+54,TEXT_JOBMNK700_02430_WIDARGELT_000_004,"네, 당신 말대로 제가 가는 게 맞는 것 같습니다. "
+55,TEXT_JOBMNK700_02430_OTCHAKHA_000_005,"잠깐만요.
 사부님이 직접 가시면 그 자리에서 전투가 벌어질 수도 있어요.
-역시 이번엔 <Highlight>ObjectParameter(1)</Highlight> 님에게 부탁드리는 게 어떨까요."
-56,"TEXT_JOBMNK700_02430_DZENTSA_000_006","인질만 없으면
-<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13> 이길 사람은 없지!"
-57,"TEXT_JOBMNK700_02430_WIDARGELT_000_007","죄송합니다, <Highlight>ObjectParameter(1)</Highlight>…….
+역시 이번엔 Player Player 님에게 부탁드리는 게 어떨까요."
+56,TEXT_JOBMNK700_02430_DZENTSA_000_006,"인질만 없으면
+Player Player 이길 사람은 없지!"
+57,TEXT_JOBMNK700_02430_WIDARGELT_000_007,"죄송합니다, Player Player…….
 그럼 이 도전장을 '녹슨바위 벌판'에 있는 것으로 보이는
 '테오발드'에게 전해 주세요… 부탁 드립니다."
-58,"TEXT_JOBMNK700_02430_DZENTSA_000_010","드디어 결판을 낼 때가 왔나…… 나도 정신 바짝 차려야겠어!"
-59,"TEXT_JOBMNK700_02430_OTCHAKHA_000_015","……걱정 마세요, 사부님은 지지 않습니다.
-<Highlight>ObjectParameter(1)</Highlight> 님에게 직접
+58,TEXT_JOBMNK700_02430_DZENTSA_000_010,드디어 결판을 낼 때가 왔나…… 나도 정신 바짝 차려야겠어!
+59,TEXT_JOBMNK700_02430_OTCHAKHA_000_015,"……걱정 마세요, 사부님은 지지 않습니다.
+Player Player 님에게 직접
 지옥같은 훈련을 받았으니까요."
-60,"TEXT_JOBMNK700_02430_THEOBALD_000_020","어라, 네놈은…… 그 약골의 동료였던가?
+60,TEXT_JOBMNK700_02430_THEOBALD_000_020,"어라, 네놈은…… 그 약골의 동료였던가?
 그런데 무슨 일로 온 거냐?"
-61,"TEXT_JOBMNK700_02430_THEOBALD_000_021","흐음…… 도전장이라, 촌스럽군……
+61,TEXT_JOBMNK700_02430_THEOBALD_000_021,"흐음…… 도전장이라, 촌스럽군……
 또 결투를 신청하다니 지고 싶어서 안달이 났나 보군!"
-62,"TEXT_JOBMNK700_02430_THEOBALD_000_022","좋다.
+62,TEXT_JOBMNK700_02430_THEOBALD_000_022,"좋다.
 그렇지 않아도 한 번 더 두들겨 패 줘야겠다고
 생각하던 참이었거든."
-63,"TEXT_JOBMNK700_02430_THEOBALD_000_023","대결 장소는 '교조의 사당'이랬지?
+63,TEXT_JOBMNK700_02430_THEOBALD_000_023,"대결 장소는 '교조의 사당'이랬지?
 먼저 '위다르겔트'…… 아니, 테오드레드에게 전해라.
 묻힐 무덤이나 제대로 파 놓으라고 말이다!"
-64,"TEXT_JOBMNK700_02430_WIDARGELT_000_025","당신에게 수련의 결과를 빨리 보여 드리고 싶군요."
-65,"TEXT_JOBMNK700_02430_WIDARGELT_000_030","도전장을 전달해 주셨군요?
+64,TEXT_JOBMNK700_02430_WIDARGELT_000_025,당신에게 수련의 결과를 빨리 보여 드리고 싶군요.
+65,TEXT_JOBMNK700_02430_WIDARGELT_000_030,"도전장을 전달해 주셨군요?
 감사합니다……."
-66,"TEXT_JOBMNK700_02430_WIDARGELT_000_031","보다시피 이미 알라가나 사람들을 불러 뒀습니다.
+66,TEXT_JOBMNK700_02430_WIDARGELT_000_031,"보다시피 이미 알라가나 사람들을 불러 뒀습니다.
 이제 테오발드가 나타나길 기다리기만 하면 되는데
 상대가 어떻게 나올지 알 수가 없군요."
-67,"TEXT_JOBMNK700_02430_WIDARGELT_000_032","결투는 일대일로 할까 생각하고 있습니다만
+67,TEXT_JOBMNK700_02430_WIDARGELT_000_032,"결투는 일대일로 할까 생각하고 있습니다만
 지난번에 놈들은 비겁하게도 기습을 해 왔었죠…….
 예기치 못한 사태에 대비해 주십시오."
-68,"TEXT_JOBMNK700_02430_WIDARGELT_200_032","하지만 걱정하실 필요는 없습니다.
+68,TEXT_JOBMNK700_02430_WIDARGELT_200_032,"하지만 걱정하실 필요는 없습니다.
 설사 그렇게 되어도 수련으로 습득한 새로운 기술이 있으니까요.
 소중한 것을 지키기 위한 힘을 추구한 끝에 탄생한 기술이 말입니다."
-69,"TEXT_JOBMNK700_02430_OTCHAKHA_100_032","（★未使用／削除予定★）"
-70,"TEXT_JOBMNK700_02430_OTCHAKHA_200_032","（★未使用／削除予定★）"
-71,"TEXT_JOBMNK700_02430_THEOBALD_000_033","네놈이 지는 모습을 자랑하려고 구경꾼까지 준비했나?
+69,TEXT_JOBMNK700_02430_OTCHAKHA_100_032,（★未使用／削除予定★）
+70,TEXT_JOBMNK700_02430_OTCHAKHA_200_032,（★未使用／削除予定★）
+71,TEXT_JOBMNK700_02430_THEOBALD_000_033,"네놈이 지는 모습을 자랑하려고 구경꾼까지 준비했나?
 참 기특한 짓을 하는군…….
 이 자들을 성도교의 소멸을 목격한 증인으로 삼아 주마."
-72,"TEXT_JOBMNK700_02430_THEOBALD_000_034","모든 것을 빼앗긴 알라미고 백성들을 구원하는 건,
+72,TEXT_JOBMNK700_02430_THEOBALD_000_034,"모든 것을 빼앗긴 알라미고 백성들을 구원하는 건,
 절대적인 지배자에 의한 보살핌이다!
 우상 숭배나 신앙 따윈 이 나라에 필요 없다!"
-73,"TEXT_JOBMNK700_02430_WIDARGELT_000_035","그게 제국과 뭐가 다르단 말인가!
+73,TEXT_JOBMNK700_02430_WIDARGELT_000_035,"그게 제국과 뭐가 다르단 말인가!
 알라미고 사람들은 지배 따윈 바라지 않아!
 그들에게 필요한 건 바로 희망이라고!"
-74,"TEXT_JOBMNK700_02430_WIDARGELT_000_036","나는 성도교를 부흥시켜서
+74,TEXT_JOBMNK700_02430_WIDARGELT_000_036,"나는 성도교를 부흥시켜서
 그들의 마음에 희망을 되찾아 주고 싶다."
-75,"TEXT_JOBMNK700_02430_WIDARGELT_000_037","왕정 복고 따윈 그만 꿈꾸고 힘을 빌려주지 않겠나?
+75,TEXT_JOBMNK700_02430_WIDARGELT_000_037,"왕정 복고 따윈 그만 꿈꾸고 힘을 빌려주지 않겠나?
 당신에게는 그럴 자격이 있을 겁니다."
-76,"TEXT_JOBMNK700_02430_WIDARGELT_000_038","더 이상 정체를 숨길 필요는 없습니다.
+76,TEXT_JOBMNK700_02430_WIDARGELT_000_038,"더 이상 정체를 숨길 필요는 없습니다.
 그 창술을 쓰는 사람은 내 기억 속에 단 한 사람뿐이니까요.
 가면을 벗고 얼굴을 드러내십시오…… 애드리."
-77,"TEXT_JOBMNK700_02430_THEOBALD_000_039","…………크크큭."
-78,"TEXT_JOBMNK700_02430_THEOBALD_000_040","애드리…… 오랜만에 듣는 이름이군.
+77,TEXT_JOBMNK700_02430_THEOBALD_000_039,…………크크큭.
+78,TEXT_JOBMNK700_02430_THEOBALD_000_040,"애드리…… 오랜만에 듣는 이름이군.
 우둔하다고 얕잡아봤었지만…… 함께 성도산 사원에서 지낸 나날이
 널 회상하게 만들었나."
-79,"TEXT_JOBMNK700_02430_WIDARGELT_000_041","왜 당신은 자기 신분을 속이면서까지
+79,TEXT_JOBMNK700_02430_WIDARGELT_000_041,"왜 당신은 자기 신분을 속이면서까지
 성도교를 짓밟으려 하는 겁니까!"
-80,"TEXT_JOBMNK700_02430_THEOBALD_000_042","……고아였던 내가 몸을 맡길 곳은
+80,TEXT_JOBMNK700_02430_THEOBALD_000_042,"……고아였던 내가 몸을 맡길 곳은
 성도산 사원 밖에 없었다."
-81,"TEXT_JOBMNK700_02430_THEOBALD_000_043","그러나 그곳도 폐왕의 손에 불바다가 되어 사라졌지.
+81,TEXT_JOBMNK700_02430_THEOBALD_000_043,"그러나 그곳도 폐왕의 손에 불바다가 되어 사라졌지.
 알라미고 최강의 투사라 불리던 성도교의 몽크들도
 왕의 강력한 힘 앞에선 꼼짝도 할 수 없었지……."
-82,"TEXT_JOBMNK700_02430_THEOBALD_000_044","그때 나는 깨달았어.
+82,TEXT_JOBMNK700_02430_THEOBALD_000_044,"그때 나는 깨달았어.
 인간이 타고난 혈통의 힘이
 이렇게나 위대하다는 걸 말이다!"
-83,"TEXT_JOBMNK700_02430_THEOBALD_000_045","아무리 연마하고 무공을 쌓은들 절대적 힘 앞에선 무력할 뿐이다!
+83,TEXT_JOBMNK700_02430_THEOBALD_000_045,"아무리 연마하고 무공을 쌓은들 절대적 힘 앞에선 무력할 뿐이다!
 힘을 가지고 태어나지 못한 나는
 빼앗기는 쪽일 수밖에 없다는 걸 깨달았지!"
-84,"TEXT_JOBMNK700_02430_THEOBALD_000_046","하지만 네놈은 태어나면서 가지고 있었지!
+84,TEXT_JOBMNK700_02430_THEOBALD_000_046,"하지만 네놈은 태어나면서 가지고 있었지!
 알라미고 왕가의 혈통이라는 둘도 없는 힘을!
 그런데도 해방 운동에서 물러나 힘 없는 성도교를 부흥시키겠다고?"
-85,"TEXT_JOBMNK700_02430_THEOBALD_000_047","나는 철가면의 대역이었던 몸……
+85,TEXT_JOBMNK700_02430_THEOBALD_000_047,"나는 철가면의 대역이었던 몸……
 네놈이 나서지 않겠다면 왕의 그림자가 되어 이 나라를 구하겠다!
 그걸 막을 권리는…… 적어도 네놈에겐 없어!"
-86,"TEXT_JOBMNK700_02430_WIDARGELT_000_048","인간이 해야 할 일은, 피가 정하는 게 아니다!
+86,TEXT_JOBMNK700_02430_WIDARGELT_000_048,"인간이 해야 할 일은, 피가 정하는 게 아니다!
 무언가를 이뤄내고자 하는 인간의 의지가 결정하는 것이다!
 그리고 나는 소중한 것을 지키겠다고 맹세했다!"
-87,"TEXT_JOBMNK700_02430_THEOBALD_000_049","언제까지 허울좋은 말만 지껄일 텐가!
+87,TEXT_JOBMNK700_02430_THEOBALD_000_049,"언제까지 허울좋은 말만 지껄일 텐가!
 어차피 네놈은 약자로 태어난 자의 마음 따윈 모르겠지!
 왕가의 피를 물려받아 강자가 될 자격을 갖춘 네놈은 말이야!"
-88,"TEXT_JOBMNK700_02430_WIDARGELT_000_050","나는 성도교의 몽크, 위다르겔트다!
+88,TEXT_JOBMNK700_02430_WIDARGELT_000_050,"나는 성도교의 몽크, 위다르겔트다!
 테오드레드가 아니란 말이다!
 그리고 그 사실은 앞으로도 변하지 않는다!"
-89,"TEXT_JOBMNK700_02430_WIDARGELT_000_051","나아가, 성도교의 부흥을 사명으로 삼은 내 혼에는
+89,TEXT_JOBMNK700_02430_WIDARGELT_000_051,"나아가, 성도교의 부흥을 사명으로 삼은 내 혼에는
 왕가의 피 따윈 한 방울도 흐르지 않는다는 것을……
 ……이 일격으로 가르쳐 주마!"
-90,"TEXT_JOBMNK700_02430_HAMON_000_052","어떤 초자연 연구가가 흥미로운 결투를 볼 수 있다 해서 와 봤건만……
+90,TEXT_JOBMNK700_02430_HAMON_000_052,"어떤 초자연 연구가가 흥미로운 결투를 볼 수 있다 해서 와 봤건만……
 아주 큰 싸움이 벌어질 거라면 어디 우리도 한번 끼어 볼까.
 지난번 친선 경기가 취소되고 나서 울분도 쌓였고 말일세."
-91,"TEXT_JOBMNK700_02430_WIDARGELT_000_053","그만해, 애드리!
+91,TEXT_JOBMNK700_02430_WIDARGELT_000_053,"그만해, 애드리!
 방식에 차이는 있겠지만 목표는 모두 하나다!
 과거에 함께 수행했던 자로서 성도교 부흥에 힘을 빌려줘!"
-92,"TEXT_JOBMNK700_02430_THEOBALD_000_054","닥쳐라! 오래 전에 버린 이름으로 날 부르지 마라!
+92,TEXT_JOBMNK700_02430_THEOBALD_000_054,"닥쳐라! 오래 전에 버린 이름으로 날 부르지 마라!
 나는 알라미고를 통솔할 차세대의 왕, 테오발드다!
 이곳에서 널 죽이면 이는 진실이 되리라!!"
-93,"TEXT_JOBMNK700_02430_WIDARGELT_000_055","제국을 압도하는 힘이라 하면서 마도 병기에 의지하다니…….
+93,TEXT_JOBMNK700_02430_WIDARGELT_000_055,"제국을 압도하는 힘이라 하면서 마도 병기에 의지하다니…….
 왕정 복고를 위해서라면 수단은 가리지 않겠다는 건가.
 그렇다면 그 비뚤어진 마음을 우리의 무공으로 바로잡아주지!"
-94,"TEXT_JOBMNK700_02430_WIDARGELT_000_056","<Highlight>ObjectParameter(1)</Highlight>, 그리고 모두들!
+94,TEXT_JOBMNK700_02430_WIDARGELT_000_056,"Player Player, 그리고 모두들!
 이 싸움으로 사람들에게 희망을 되찾아줍시다!"
-95,"TEXT_JOBMNK700_02430_QIB_001_TODO_1","테오발드를 쓰러뜨려라!"
-96,"TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_01","무익한 싸움은 이제 그만하자, 애드리!"
-97,"TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_02","（★未使用／削除予定★）"
-98,"TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_02","우쭐대지 마라, 테오드레드!
+95,TEXT_JOBMNK700_02430_QIB_001_TODO_1,테오발드를 쓰러뜨려라!
+96,TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_01,"무익한 싸움은 이제 그만하자, 애드리!"
+97,TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_02,（★未使用／削除予定★）
+98,TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_02,"우쭐대지 마라, 테오드레드!
 왕정 복고를 위해 나는 절대로 물러설 수 없다!"
-99,"TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_02","제가 애드리를 유인하겠습니다!
-<Highlight>ObjectParameter(1)</Highlight>, 당신은 해골단을 상대해 주십시오!"
-100,"TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_03","체력이 떨어지면 제 곁으로 와 주십시오!
+99,TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_02,"제가 애드리를 유인하겠습니다!
+Player Player, 당신은 해골단을 상대해 주십시오!"
+100,TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_03,"체력이 떨어지면 제 곁으로 와 주십시오!
 새롭게 터득한 기술로 치유해 드리겠습니다!"
-101,"TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_05","（★未使用／削除予定★）"
-102,"TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_05","으하하하하하!
+101,TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_05,（★未使用／削除予定★）
+102,TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_05,"으하하하하하!
 내 야망 앞에서 죽어라! 테오드레드!"
-103,"TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_04","아직도 힘이 이렇게 남아 있다니……!"
-104,"TEXT_JOBMNK700_02430_QIB_001_HAMON_BATTLETALK_03","추추토, 루루쿠타!
+103,TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_04,아직도 힘이 이렇게 남아 있다니……!
+104,TEXT_JOBMNK700_02430_QIB_001_HAMON_BATTLETALK_03,"추추토, 루루쿠타!
 우리는 조무래기들을 쓸어버리자꾸나!"
-105,"TEXT_JOBMNK700_02430_QIB_001_CHUCHUTO_BATTLETALK_07","루루쿠타, 헐떡대긴!
+105,TEXT_JOBMNK700_02430_QIB_001_CHUCHUTO_BATTLETALK_07,"루루쿠타, 헐떡대긴!
 정신 바짝 차려!"
-106,"TEXT_JOBMNK700_02430_QIB_001_LULUKUTA_BATTLETALK_06","흥…… 조무래기들이 덤벼봤자지!"
-107,"TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_06","（★未使用／削除予定★）"
-108,"TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_06","저 모험가…… 역시 내버려둘 수 없군.
+106,TEXT_JOBMNK700_02430_QIB_001_LULUKUTA_BATTLETALK_06,흥…… 조무래기들이 덤벼봤자지!
+107,TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_06,（★未使用／削除予定★）
+108,TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_06,"저 모험가…… 역시 내버려둘 수 없군.
 특수 병기 '동작 감지 교란기'를 써볼까!"
-109,"TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_JAMMER_HINT","저 공격…… 인간의 움직임에 반응하는 건가……!?
-<Highlight>ObjectParameter(1)</Highlight>, 조심하세요!"
-110,"TEXT_JOBMNK700_02430_QIB_001_OTCHAKHA_BATTLETALK_08","아직 더 있어……!?"
-111,"TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_09","（★未使用／削除予定★）"
-112,"TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_09","왕정 복고를 위해서라면……
+109,TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_JAMMER_HINT,"저 공격…… 인간의 움직임에 반응하는 건가……!?
+Player Player, 조심하세요!"
+110,TEXT_JOBMNK700_02430_QIB_001_OTCHAKHA_BATTLETALK_08,아직 더 있어……!?
+111,TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_09,（★未使用／削除予定★）
+112,TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_09,"왕정 복고를 위해서라면……
 제국의 병기라도 이용해주겠어!"
-113,"TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_09","그런 방식으로 이상을 손에 넣었다 해도……
+113,TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_09,"그런 방식으로 이상을 손에 넣었다 해도……
 알라미고 사람들이 믿고 따라올 거라 생각하느냐!?"
-114,"TEXT_JOBMNK700_02430_QIB_001_HAMON_BATTLETALK_10","저 덩치는 내게 맡겨 주게나!
+114,TEXT_JOBMNK700_02430_QIB_001_HAMON_BATTLETALK_10,"저 덩치는 내게 맡겨 주게나!
 '권성 해먼'의 힘을 보여주기에 딱 좋을 것 같구먼!"
-115,"TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_10","자, 이제 너만 남았다! 애드리!"
-116,"TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_11","（★未使用／削除予定★）"
-117,"TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_11","해골단이 당했군…… 한심한 놈들.
+115,TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_10,"자, 이제 너만 남았다! 애드리!"
+116,TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_11,（★未使用／削除予定★）
+117,TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_11,"해골단이 당했군…… 한심한 놈들.
 놈들도 시대에 떠밀린 자가 된 셈이군……."
-118,"TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_12","（★未使用／削除予定★）"
-119,"TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_12","하지만 나는 아니다!
+118,TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_12,（★未使用／削除予定★）
+119,TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_12,"하지만 나는 아니다!
 네놈들은 내 이상을 짓밟을 수 없다!"
-120,"TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_13","이제 그만해, 애드리!
+120,TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_13,"이제 그만해, 애드리!
 더 이상의 싸움은 무의미해!"
-121,"TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_14","（★未使用／削除予定★）"
-122,"TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_14","닥쳐라, 테오드레드!
+121,TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_14,（★未使用／削除予定★）
+122,TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_14,"닥쳐라, 테오드레드!
 조국을 사랑하는 내 마음을 네놈은 이해하지 못해!"
-123,"TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_15","그렇다면 어쩔 수 없지……!
+123,TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_15,"그렇다면 어쩔 수 없지……!
 다들! 놈이 타고 있는 마도 병기를 파괴한다!"
-124,"TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_15","나의 이상을 이해 못하는 어리석은 놈들이여!
+124,TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_15,"나의 이상을 이해 못하는 어리석은 놈들이여!
 그렇다면 함께 일곱 지옥까지 데려가주마, 테오드레드!"
-125,"TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_DEAD","뜻을 못 이루고…… 죽을 수는……."
-126,"TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_DEAD","（★未使用／削除予定★）"
-127,"TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_DEAD","또…… 빼앗기는…… 건가…… 나의……."
-128,"TEXT_JOBMNK700_02430_QIB_001_HAMON_BATTLETALK_DEAD","크으…… 세월 앞엔 장사없구먼……."
-129,"TEXT_JOBMNK700_02430_QIB_001_CHUCHUTO_BATTLETALK_DEAD","이럴 수가……. 스승님…… 루루쿠타……."
-130,"TEXT_JOBMNK700_02430_QIB_001_LULUKUTA_BATTLETALK_DEAD","쳇…… 방심했나……."
-131,"TEXT_JOBMNK700_02430_QIB_001_DZENTSA_BATTLETALK_DEAD","어째……서……."
-132,"TEXT_JOBMNK700_02430_QIB_001_OTCHAKHA_BATTLETALK_DEAD","죄송합니다…… 뒤를 부탁해요……."
-133,"TEXT_JOBMNK700_02430_DZENTSA_000_069","난 믿어.
+125,TEXT_JOBMNK700_02430_QIB_001_WIDARGELT_BATTLETALK_DEAD,뜻을 못 이루고…… 죽을 수는…….
+126,TEXT_JOBMNK700_02430_QIB_001_TEODBALD_BATTLETALK_DEAD,（★未使用／削除予定★）
+127,TEXT_JOBMNK700_02430_QIB_001_THEOBALD_BATTLETALK_DEAD,또…… 빼앗기는…… 건가…… 나의…….
+128,TEXT_JOBMNK700_02430_QIB_001_HAMON_BATTLETALK_DEAD,크으…… 세월 앞엔 장사없구먼…….
+129,TEXT_JOBMNK700_02430_QIB_001_CHUCHUTO_BATTLETALK_DEAD,이럴 수가……. 스승님…… 루루쿠타…….
+130,TEXT_JOBMNK700_02430_QIB_001_LULUKUTA_BATTLETALK_DEAD,쳇…… 방심했나…….
+131,TEXT_JOBMNK700_02430_QIB_001_DZENTSA_BATTLETALK_DEAD,어째……서…….
+132,TEXT_JOBMNK700_02430_QIB_001_OTCHAKHA_BATTLETALK_DEAD,죄송합니다…… 뒤를 부탁해요…….
+133,TEXT_JOBMNK700_02430_DZENTSA_000_069,"난 믿어.
 사부의 주먹이 반드시 놈을 때려눕힐 거라고."
-134,"TEXT_JOBMNK700_02430_OTCHAKHA_100_069","이제 드디어……"
-135,"TEXT_JOBMNK700_02430_WIDARGELT_000_060","애드리.
+134,TEXT_JOBMNK700_02430_OTCHAKHA_100_069,이제 드디어……
+135,TEXT_JOBMNK700_02430_WIDARGELT_000_060,"애드리.
 다음에 만날 땐 성도교의 교리를 배운 동료로서
 주먹으로 이야기하고 싶군요…………."
-136,"TEXT_JOBMNK700_02430_WIDARGELT_000_061","성도교를 이끌어가기에 저는 너무나 약합니다.
+136,TEXT_JOBMNK700_02430_WIDARGELT_000_061,"성도교를 이끌어가기에 저는 너무나 약합니다.
 하지만 어떤 위기가 닥쳐와도 저는 포기하지 않겠습니다.
 몇 번이고 다시 일어서겠습니다!"
-137,"TEXT_JOBMNK700_02430_WIDARGELT_000_062","그러니까…… 모두 함께 만듭시다!
+137,TEXT_JOBMNK700_02430_WIDARGELT_000_062,"그러니까…… 모두 함께 만듭시다!
 왕족도 고아도 없고, 양지도 음지도 없는
 모든 이의 안식처가 되어 주는…… 새로운 랄거 성도교를!"
-138,"TEXT_JOBMNK700_02430_ERIK_000_063","자네의 한결같은 자세를 본 알라미고 사람들은
+138,TEXT_JOBMNK700_02430_ERIK_000_063,"자네의 한결같은 자세를 본 알라미고 사람들은
 다시 마음에 희망을 되찾고 성도교의 문을 두드릴 테지.
 다음엔 꼭 자신의 힘으로 소중한 것을 지키기 위해서 말일세……."
-139,"TEXT_JOBMNK700_02430_ERIK_000_064","그럼 일단 '알라가나'로 돌아가 볼까…….
+139,TEXT_JOBMNK700_02430_ERIK_000_064,"그럼 일단 '알라가나'로 돌아가 볼까…….
 나의 갑작스러운 요청에 응해준 격투사 길드원들에게도
 감사를 표해야 할 테니까."
-140,"TEXT_JOBMNK700_02430_HAMON_000_070","방금 그의 연설은 제법 멋지더구먼.
+140,TEXT_JOBMNK700_02430_HAMON_000_070,"방금 그의 연설은 제법 멋지더구먼.
 약간 풋내가 나긴 했지만 귀를 사로잡는 연설이었어."
-141,"TEXT_JOBMNK700_02430_RURUKUTA_000_071","해골단 녀석들은
+141,TEXT_JOBMNK700_02430_RURUKUTA_000_071,"해골단 녀석들은
 당분간은 다시 다날란에 틀어박혀 있겠지.
 이번에 아주 혼쭐을 내줬으니 말이야."
-142,"TEXT_JOBMNK700_02430_HAMON_000_072","이거 참, 간만에 몸을 좀 풀었구먼.
+142,TEXT_JOBMNK700_02430_HAMON_000_072,"이거 참, 간만에 몸을 좀 풀었구먼.
 이제 나이는 못 속이는구먼."
-143,"TEXT_JOBMNK700_02430_CHUCHUTO_000_073","그래도 오랜만에 실전을 겪으니
+143,TEXT_JOBMNK700_02430_CHUCHUTO_000_073,"그래도 오랜만에 실전을 겪으니
 좋은 수련이 된 것 같아요!"
-144,"TEXT_JOBMNK700_02430_RURUKUTA_000_074","흥, 이 정도는 준비 운동도 되지 않아."
-145,"TEXT_JOBMNK700_02430_CHUCHUTO_000_075","무슨 소리야, 아직도 숨을 헐떡거리면서!"
-146,"TEXT_JOBMNK700_02430_HAMON_000_076","허허허, 그럼 우리는 이만 울다하로 돌아가세.
+144,TEXT_JOBMNK700_02430_RURUKUTA_000_074,"흥, 이 정도는 준비 운동도 되지 않아."
+145,TEXT_JOBMNK700_02430_CHUCHUTO_000_075,"무슨 소리야, 아직도 숨을 헐떡거리면서!"
+146,TEXT_JOBMNK700_02430_HAMON_000_076,"허허허, 그럼 우리는 이만 울다하로 돌아가세.
 다음엔 요염한 몽크 아가씨 젠차 양과 차크하 양을
 격투사 길드에 한번 초대해야겠구먼!"
-147,"TEXT_JOBMNK700_02430_HAMON_000_077","이런 것도 저런 것도 하면서
+147,TEXT_JOBMNK700_02430_HAMON_000_077,"이런 것도 저런 것도 하면서
 아주 격하게 지도해 주고 싶거든!"
-148,"TEXT_JOBMNK700_02430_CHUCHUTO_000_078","이 노친네가 진짜!"
-149,"TEXT_JOBMNK700_02430_HAMON_000_079","그럼 잘 지내게나, <Highlight>ObjectParameter(1)</Highlight>.
+148,TEXT_JOBMNK700_02430_CHUCHUTO_000_078,이 노친네가 진짜!
+149,TEXT_JOBMNK700_02430_HAMON_000_079,"그럼 잘 지내게나, Player Player.
 간만에 즐거운 시간을 보냈어."
-150,"TEXT_JOBMNK700_02430_OTCHAKHA_000_080","아, <Highlight>ObjectParameter(1)</Highlight> 님.
+150,TEXT_JOBMNK700_02430_OTCHAKHA_000_080,"아, Player Player 님.
 수고하셨습니다.
 드디어 한숨 돌리네요."
-151,"TEXT_JOBMNK700_02430_DZENTSA_000_081","정말, 사부도 사람이 너무 좋아 탈이라니까.
+151,TEXT_JOBMNK700_02430_DZENTSA_000_081,"정말, 사부도 사람이 너무 좋아 탈이라니까.
 마을 사람들한테 가짜 왕을 치료해 달라고
 머리까지 숙여가면서 부탁했다며?"
-152,"TEXT_JOBMNK700_02430_OTCHAKHA_000_082","우리 목적은 성도교의 부흥이지 복수가 아니니까."
-153,"TEXT_JOBMNK700_02430_DZENTSA_000_083","뭐……그렇긴 하지만.
+152,TEXT_JOBMNK700_02430_OTCHAKHA_000_082,우리 목적은 성도교의 부흥이지 복수가 아니니까.
+153,TEXT_JOBMNK700_02430_DZENTSA_000_083,"뭐……그렇긴 하지만.
 아무튼 이제 성도교의 부흥을 가로막는 존재는 사라진 건가?"
-154,"TEXT_JOBMNK700_02430_OTCHAKHA_000_084","그래. 하지만 이제 막 첫발을 내딛였을 뿐이고
+154,TEXT_JOBMNK700_02430_OTCHAKHA_000_084,"그래. 하지만 이제 막 첫발을 내딛였을 뿐이고
 언젠가 알라가나뿐 아니라 도시 쪽으로도 진출해서
 기라바니아에 성도교를 널리 전파하는 게 우리의 목표야!"
-155,"TEXT_JOBMNK700_02430_DZENTSA_000_085","그거 쉬운 일이 아니겠는걸.
+155,TEXT_JOBMNK700_02430_DZENTSA_000_085,"그거 쉬운 일이 아니겠는걸.
 우리가 사부를 제대로 도와드려야겠어."
-156,"TEXT_JOBMNK700_02430_OTCHAKHA_000_086","언제까지나 <Highlight>ObjectParameter(1)</Highlight> 님한테
+156,TEXT_JOBMNK700_02430_OTCHAKHA_000_086,"언제까지나 Player Player 님한테
 의지할 수만은 없으니까.
 우리도 더 강해지자!"
-157,"TEXT_JOBMNK700_02430_DZENTSA_000_087","……그럼 지금 당장 단련이나 하러 갈까."
-158,"TEXT_JOBMNK700_02430_OTCHAKHA_000_088","아, 잠깐만 젠차! 나도 같이 가!
-……그럼 <Highlight>ObjectParameter(1)</Highlight> 님.
+157,TEXT_JOBMNK700_02430_DZENTSA_000_087,……그럼 지금 당장 단련이나 하러 갈까.
+158,TEXT_JOBMNK700_02430_OTCHAKHA_000_088,"아, 잠깐만 젠차! 나도 같이 가!
+……그럼 Player Player 님.
 여러모로 감사했습니다!"
-159,"TEXT_JOBMNK700_02430_ERIK_000_089","이번엔 성도교를 위해 싸우는 자네들을 보고,
+159,TEXT_JOBMNK700_02430_ERIK_000_089,"이번엔 성도교를 위해 싸우는 자네들을 보고,
 내게도 싸울 힘이 있었더라면…… 하는 생각이 들더군.
 내 아들도…… 이런 마음이었을지도 모르지."
-160,"TEXT_JOBMNK700_02430_ERIK_000_090","……아니, 감상에 젖지는 말자꾸나.
+160,TEXT_JOBMNK700_02430_ERIK_000_090,"……아니, 감상에 젖지는 말자꾸나.
 나는 항상 학자답게 현상을 관찰하고 사실을 기록하고
 고민하는 젊은이들에게 필요한 지식을 제시해 나가겠네."
-161,"TEXT_JOBMNK700_02430_ERIK_000_091","하지만 이거 하나만 말하고 싶네.
+161,TEXT_JOBMNK700_02430_ERIK_000_091,"하지만 이거 하나만 말하고 싶네.
 위다르겔트가 운명에 휘둘리지 않고 걸어갈 수 있었던 건
 나보다는 자네의 힘이 더 컸을걸세."
-162,"TEXT_JOBMNK700_02430_ERIK_000_092","나도 감사를 표해야겠군.
+162,TEXT_JOBMNK700_02430_ERIK_000_092,"나도 감사를 표해야겠군.
 정말 고마웠네."
-163,"TEXT_JOBMNK700_02430_ERIK_000_093","자 그럼, 나는 울다하로 돌아가 봄세.
+163,TEXT_JOBMNK700_02430_ERIK_000_093,"자 그럼, 나는 울다하로 돌아가 봄세.
 내 본업은 위다르겔트의 보호자가 아니라
 위대한 초자연 연구가니까!"
-164,"TEXT_JOBMNK700_02430_ERIK_000_094","자네도 궁금한 게 있으면 나를 찾아오게나.
+164,TEXT_JOBMNK700_02430_ERIK_000_094,"자네도 궁금한 게 있으면 나를 찾아오게나.
 자 그럼."
-165,"TEXT_JOBMNK700_02430_DZENTSA_000_095","당신 덕분에 이번엔 제 역할을 해낼 수 있었어……
-……고맙다, <Highlight>ObjectParameter(1)</Highlight>."
-166,"TEXT_JOBMNK700_02430_CHUCHUTO_000_100","성도교의 품새가 우리 격투사 길드 품새랑 비슷하네?
+165,TEXT_JOBMNK700_02430_DZENTSA_000_095,"당신 덕분에 이번엔 제 역할을 해낼 수 있었어……
+……고맙다, Player Player."
+166,TEXT_JOBMNK700_02430_CHUCHUTO_000_100,"성도교의 품새가 우리 격투사 길드 품새랑 비슷하네?
 ……그렇다면 네가 가르친 게 맞지?"
-167,"TEXT_JOBMNK700_02430_RURUKUTA_000_105","역시 '권성 해먼'은 대단해……
+167,TEXT_JOBMNK700_02430_RURUKUTA_000_105,"역시 '권성 해먼'은 대단해……
 앞으로도 이 사람 밑에서 무예를 연마하면, 나도 언젠간
 '곤륜팔상각의 달인 루루쿠타'라 불릴 날이…… 크크크."
-168,"TEXT_JOBMNK700_02430_WIDARGELT_000_106","다른 사람들과 얘기를 다 끝내시면
+168,TEXT_JOBMNK700_02430_WIDARGELT_000_106,"다른 사람들과 얘기를 다 끝내시면
 저도 당신께 드릴 말이 있습니다."
-169,"TEXT_JOBMNK700_02430_WIDARGELT_000_110","이번 일을 겪으면서 저는
+169,TEXT_JOBMNK700_02430_WIDARGELT_000_110,"이번 일을 겪으면서 저는
 제 자신이 얼마나 많은 사람들의 도움을 받아 왔는지
 새삼 실감했습니다."
-170,"TEXT_JOBMNK700_02430_WIDARGELT_000_111","저를 도와준 사람들에게 보답하기 위해서라도
+170,TEXT_JOBMNK700_02430_WIDARGELT_000_111,"저를 도와준 사람들에게 보답하기 위해서라도
 두 번 다신 성도교의 부흥을 포기하지 않겠습니다."
-171,"TEXT_JOBMNK700_02430_WIDARGELT_000_112","특히 당신에겐 정말 큰 신세를 졌습니다.
-<Highlight>ObjectParameter(1)</Highlight>, 당신은 제게
+171,TEXT_JOBMNK700_02430_WIDARGELT_000_112,"특히 당신에겐 정말 큰 신세를 졌습니다.
+Player Player, 당신은 제게
 진정한 힘과 마음을 가르쳐준…… 스승과도 같은 존재입니다."
-172,"TEXT_JOBMNK700_02430_WIDARGELT_000_113","앞으로도 그 맑은 마음으로
+172,TEXT_JOBMNK700_02430_WIDARGELT_000_113,"앞으로도 그 맑은 마음으로
 많은 이들에게 힘이 돼 주십시오."
-173,"TEXT_JOBMNK700_02430_WIDARGELT_000_114","저는 이제 두 제자와 함께
+173,TEXT_JOBMNK700_02430_WIDARGELT_000_114,"저는 이제 두 제자와 함께
 기라바니아 전역에 교리를 전파하기 위한 여행을 떠납니다.
 시간이 얼마나 걸릴지 알 수 없지만 꼭 해내겠어요."
-174,"TEXT_JOBMNK700_02430_WIDARGELT_000_115","저도 이제 제 발로 걸어나가야겠죠…….
+174,TEXT_JOBMNK700_02430_WIDARGELT_000_115,"저도 이제 제 발로 걸어나가야겠죠…….
 당신을 처음 만났을 때와는 달리, 저는 이제 혼자가 아니니까요."
-175,"TEXT_JOBMNK700_02430_WIDARGELT_000_116","그럼 <Highlight>ObjectParameter(1)</Highlight>.
+175,TEXT_JOBMNK700_02430_WIDARGELT_000_116,"그럼 Player Player.
 부디 건강하시길."
-176,"TEXT_JOBMNK700_02430_SYSTEM_100_200","'몽크'의 이야기가 일단락되었습니다!
+176,TEXT_JOBMNK700_02430_SYSTEM_100_200,"'몽크'의 이야기가 일단락되었습니다!
 다음 '몽크'의 잡 퀘스트를 시작하기 위해서는
 다음 조건을 충족시켜야 합니다."
-177,"TEXT_JOBMNK700_02430_SYSTEM_100_201","1. '주요 퀘스트: 칠흑의 반역자' 중
+177,TEXT_JOBMNK700_02430_SYSTEM_100_201,"1. '주요 퀘스트: 칠흑의 반역자' 중
  '칠흑의 반역자'를 완료할 것."
-178,"TEXT_JOBMNK700_02430_SYSTEM_100_202","2. 물리 공격 역할의
+178,TEXT_JOBMNK700_02430_SYSTEM_100_202,"2. 물리 공격 역할의
  '역할 퀘스트 칠흑편'을 완료할 것."
-179,"TEXT_JOBMNK700_02430_SYSTEM_100_203","조건을 충족시킨 후 보석공예가 길드의 '에릭'에게 말을 걸어
+179,TEXT_JOBMNK700_02430_SYSTEM_100_203,"조건을 충족시킨 후 보석공예가 길드의 '에릭'에게 말을 걸어
 새로운 잡 퀘스트를 시작해보세요!"
-180,"TEXT_JOBMNK700_02430_ERIK_000_117","（★未使用／削除予定★）"
-181,"TEXT_JOBMNK700_02430_ERIK_000_118","（★未使用／削除予定★）"
-182,"TEXT_JOBMNK700_02430_ERIK_000_119","（★未使用／削除予定★）"
-183,"TEXT_JOBMNK700_02430_ERIK_000_120","（★未使用／削除予定★）"
-184,"TEXT_JOBMNK700_02430_ERIK_000_121","（★未使用／削除予定★）"
-185,"TEXT_JOBMNK700_02430_ERIK_000_122","（★未使用／削除予定★）"
-186,"TEXT_JOBMNK700_02430_ERIK_000_123","（★未使用／削除予定★）"
-187,"TEXT_JOBMNK700_02430_ERIK_000_124","（★未使用／削除予定★）"
-188,"TEXT_JOBMNK700_02430_ERIK_000_125","（★未使用／削除予定★）"
-189,"TEXT_JOBMNK700_02430_ERIK_000_126","（★未使用／削除予定★）"
-190,"TEXT_JOBMNK700_02430_HREMFING_000_127","（★未使用／削除予定★）"
+180,TEXT_JOBMNK700_02430_ERIK_000_117,（★未使用／削除予定★）
+181,TEXT_JOBMNK700_02430_ERIK_000_118,（★未使用／削除予定★）
+182,TEXT_JOBMNK700_02430_ERIK_000_119,（★未使用／削除予定★）
+183,TEXT_JOBMNK700_02430_ERIK_000_120,（★未使用／削除予定★）
+184,TEXT_JOBMNK700_02430_ERIK_000_121,（★未使用／削除予定★）
+185,TEXT_JOBMNK700_02430_ERIK_000_122,（★未使用／削除予定★）
+186,TEXT_JOBMNK700_02430_ERIK_000_123,（★未使用／削除予定★）
+187,TEXT_JOBMNK700_02430_ERIK_000_124,（★未使用／削除予定★）
+188,TEXT_JOBMNK700_02430_ERIK_000_125,（★未使用／削除予定★）
+189,TEXT_JOBMNK700_02430_ERIK_000_126,（★未使用／削除予定★）
+190,TEXT_JOBMNK700_02430_HREMFING_000_127,（★未使用／削除予定★）

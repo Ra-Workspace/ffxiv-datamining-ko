@@ -1,114 +1,112 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANDWA101_03902_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANDWA101_03902_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 와츠의 망치 작업장에 있는 레기트는 오스탈 엄명성에서 무기 수리 의뢰를 받은 듯하다."
-1,"TEXT_BANDWA101_03902_SEQ_01","오스탈 엄명성에 있는 수리 담당 드워프와 대화하기"
-2,"TEXT_BANDWA101_03902_SEQ_02","수리 담당 드워프에게 의뢰받은 물건 납품하기"
-3,"TEXT_BANDWA101_03902_SEQ_03","레기트에게 보고"
-4,"TEXT_BANDWA101_03902_SEQ_04",""
-5,"TEXT_BANDWA101_03902_SEQ_05",""
-6,"TEXT_BANDWA101_03902_SEQ_06",""
-7,"TEXT_BANDWA101_03902_SEQ_07",""
-8,"TEXT_BANDWA101_03902_SEQ_08",""
-9,"TEXT_BANDWA101_03902_SEQ_09",""
-10,"TEXT_BANDWA101_03902_SEQ_10",""
-11,"TEXT_BANDWA101_03902_SEQ_11",""
-12,"TEXT_BANDWA101_03902_SEQ_12",""
-13,"TEXT_BANDWA101_03902_SEQ_13",""
-14,"TEXT_BANDWA101_03902_SEQ_14",""
-15,"TEXT_BANDWA101_03902_SEQ_15",""
-16,"TEXT_BANDWA101_03902_SEQ_16",""
-17,"TEXT_BANDWA101_03902_SEQ_17",""
-18,"TEXT_BANDWA101_03902_SEQ_18",""
-19,"TEXT_BANDWA101_03902_SEQ_19",""
-20,"TEXT_BANDWA101_03902_SEQ_20",""
-21,"TEXT_BANDWA101_03902_SEQ_21",""
-22,"TEXT_BANDWA101_03902_SEQ_22",""
-23,"TEXT_BANDWA101_03902_SEQ_23",""
-24,"TEXT_BANDWA101_03902_TODO_00","오스탈 엄명성에 있는 수리 담당 드워프와 대화"
-25,"TEXT_BANDWA101_03902_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성에 있는 수리 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성에 있는 수리 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성에 있는 수리 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성에 있는 수리 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성에 있는 수리 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성에 있는 수리 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성에 있는 수리 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>오스탈 엄명성에 있는 수리 담당 드워프에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANDWA101_03902_TODO_02","레기트에게 보고"
-27,"TEXT_BANDWA101_03902_TODO_03",""
-28,"TEXT_BANDWA101_03902_TODO_04",""
-29,"TEXT_BANDWA101_03902_TODO_05",""
-30,"TEXT_BANDWA101_03902_TODO_06",""
-31,"TEXT_BANDWA101_03902_TODO_07",""
-32,"TEXT_BANDWA101_03902_TODO_08",""
-33,"TEXT_BANDWA101_03902_TODO_09",""
-34,"TEXT_BANDWA101_03902_TODO_10",""
-35,"TEXT_BANDWA101_03902_TODO_11",""
-36,"TEXT_BANDWA101_03902_TODO_12",""
-37,"TEXT_BANDWA101_03902_TODO_13",""
-38,"TEXT_BANDWA101_03902_TODO_14",""
-39,"TEXT_BANDWA101_03902_TODO_15",""
-40,"TEXT_BANDWA101_03902_TODO_16",""
-41,"TEXT_BANDWA101_03902_TODO_17",""
-42,"TEXT_BANDWA101_03902_TODO_18",""
-43,"TEXT_BANDWA101_03902_TODO_19",""
-44,"TEXT_BANDWA101_03902_TODO_20",""
-45,"TEXT_BANDWA101_03902_TODO_21",""
-46,"TEXT_BANDWA101_03902_TODO_22",""
-47,"TEXT_BANDWA101_03902_TODO_23",""
-48,"TEXT_BANDWA101_03902_REGITT_000_001","드워프 전차를 제조하려면 여러 가지 재료가 필요해라리!
+1,TEXT_BANDWA101_03902_SEQ_01,오스탈 엄명성에 있는 수리 담당 드워프와 대화하기
+2,TEXT_BANDWA101_03902_SEQ_02,수리 담당 드워프에게 의뢰받은 물건 납품하기
+3,TEXT_BANDWA101_03902_SEQ_03,레기트에게 보고
+4,TEXT_BANDWA101_03902_SEQ_04,
+5,TEXT_BANDWA101_03902_SEQ_05,
+6,TEXT_BANDWA101_03902_SEQ_06,
+7,TEXT_BANDWA101_03902_SEQ_07,
+8,TEXT_BANDWA101_03902_SEQ_08,
+9,TEXT_BANDWA101_03902_SEQ_09,
+10,TEXT_BANDWA101_03902_SEQ_10,
+11,TEXT_BANDWA101_03902_SEQ_11,
+12,TEXT_BANDWA101_03902_SEQ_12,
+13,TEXT_BANDWA101_03902_SEQ_13,
+14,TEXT_BANDWA101_03902_SEQ_14,
+15,TEXT_BANDWA101_03902_SEQ_15,
+16,TEXT_BANDWA101_03902_SEQ_16,
+17,TEXT_BANDWA101_03902_SEQ_17,
+18,TEXT_BANDWA101_03902_SEQ_18,
+19,TEXT_BANDWA101_03902_SEQ_19,
+20,TEXT_BANDWA101_03902_SEQ_20,
+21,TEXT_BANDWA101_03902_SEQ_21,
+22,TEXT_BANDWA101_03902_SEQ_22,
+23,TEXT_BANDWA101_03902_SEQ_23,
+24,TEXT_BANDWA101_03902_TODO_00,오스탈 엄명성에 있는 수리 담당 드워프와 대화
+25,TEXT_BANDWA101_03902_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANDWA101_03902_TODO_02,레기트에게 보고
+27,TEXT_BANDWA101_03902_TODO_03,
+28,TEXT_BANDWA101_03902_TODO_04,
+29,TEXT_BANDWA101_03902_TODO_05,
+30,TEXT_BANDWA101_03902_TODO_06,
+31,TEXT_BANDWA101_03902_TODO_07,
+32,TEXT_BANDWA101_03902_TODO_08,
+33,TEXT_BANDWA101_03902_TODO_09,
+34,TEXT_BANDWA101_03902_TODO_10,
+35,TEXT_BANDWA101_03902_TODO_11,
+36,TEXT_BANDWA101_03902_TODO_12,
+37,TEXT_BANDWA101_03902_TODO_13,
+38,TEXT_BANDWA101_03902_TODO_14,
+39,TEXT_BANDWA101_03902_TODO_15,
+40,TEXT_BANDWA101_03902_TODO_16,
+41,TEXT_BANDWA101_03902_TODO_17,
+42,TEXT_BANDWA101_03902_TODO_18,
+43,TEXT_BANDWA101_03902_TODO_19,
+44,TEXT_BANDWA101_03902_TODO_20,
+45,TEXT_BANDWA101_03902_TODO_21,
+46,TEXT_BANDWA101_03902_TODO_22,
+47,TEXT_BANDWA101_03902_TODO_23,
+48,TEXT_BANDWA101_03902_REGITT_000_001,"드워프 전차를 제조하려면 여러 가지 재료가 필요해라리!
 이 얘기를 했더니 오스탈 엄명성에 있는 위병들이
 일부 재료를 제공해 주겠대라리."
-49,"TEXT_BANDWA101_03902_REGITT_000_002","그래서 그에 대한 보답으로
+49,TEXT_BANDWA101_03902_REGITT_000_002,"그래서 그에 대한 보답으로
 위병단의 무기 수리를 우리가 맡기로 했어라리!
 이런 게 상부상조 아니겠어라리?"
-50,"TEXT_BANDWA101_03902_REGITT_100_002","오스탈 엄명성에 있는 '수리 담당 드워프'가
+50,TEXT_BANDWA101_03902_REGITT_100_002,"오스탈 엄명성에 있는 '수리 담당 드워프'가
 수리할 무기를 받아서 혼자 그쪽에서 작업 중이야라리.
 혼자 하려면 힘들 테니까 너도 도와줬으면 좋겠어라리!"
-51,"TEXT_BANDWA101_03902_AUTOMATON_000_016","삐삐…………"
-52,"TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_020","오오! 레기트에게 이야기를 듣고 도와주러 온 거야?
+51,TEXT_BANDWA101_03902_AUTOMATON_000_016,삐삐…………
+52,TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_020,"오오! 레기트에게 이야기를 듣고 도와주러 온 거야?
 그래, 난 여기서 위병들의 무기를 수리해주고 있어.
-마침 '<Sheet(Item,31147,0)/>'<13>FF0F02280BFF054974656DF279AB0103FF04EAB080FF04EC9DB4</13> 부족해~."
-53,"TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_021","날 도와주러 왔다고 하니 이 재료를 사용해서
-칼날이나 창끝에 사용할 '<Sheet(Item,31147,0)/>'<13>FF0F02280BFF054974656DF279AB0103FF04EBA5BCFF04EC9D84</13> 3개 만들어줬으면 해.
+마침 '' 부족해~."
+53,TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_021,"날 도와주러 왔다고 하니 이 재료를 사용해서
+칼날이나 창끝에 사용할 '' 3개 만들어줬으면 해.
 재료가 부족하면 옆에 있는 자동인형에게 받아줘!"
-54,"TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_022","날 도와주러 왔다고 하니 이 재료를 사용해서
-칼집이나 손잡이에 사용할 '<Sheet(Item,31147,0)/>'<13>FF0F02280BFF054974656DF279AB0103FF04EBA5BCFF04EC9D84</13> 3개 만들어줬으면 해.
+54,TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_022,"날 도와주러 왔다고 하니 이 재료를 사용해서
+칼집이나 손잡이에 사용할 '' 3개 만들어줬으면 해.
 재료가 부족하면 옆에 있는 자동인형에게 받아줘!"
-55,"TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_023","날 도와주러 왔다고 하니 이 재료를 사용해서
-손질용 기름으로 사용할 '<Sheet(Item,31147,0)/>'<13>FF0F02280BFF054974656DF279AB0103FF04EBA5BCFF04EC9D84</13> 3병 만들어줬으면 해.
+55,TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_023,"날 도와주러 왔다고 하니 이 재료를 사용해서
+손질용 기름으로 사용할 '' 3병 만들어줬으면 해.
 재료가 부족하면 옆에 있는 자동인형에게 받아줘!"
-56,"TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_024","재료가 다 완성되면 나에게 가져오면 돼!
+56,TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_024,"재료가 다 완성되면 나에게 가져오면 돼!
 잘 부탁해~!"
-57,"TEXT_BANDWA101_03902_AUTOMATON_000_010","삐삐…… 재료 필요해?
+57,TEXT_BANDWA101_03902_AUTOMATON_000_010,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-58,"TEXT_BANDWA101_03902_AUTOMATON_000_011","삐삐…… 재료 필요해?
+58,TEXT_BANDWA101_03902_AUTOMATON_000_011,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-59,"TEXT_BANDWA101_03902_AUTOMATON_000_012","삐삐…… 재료 필요해?
+59,TEXT_BANDWA101_03902_AUTOMATON_000_012,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-60,"TEXT_BANDWA101_03902_AUTOMATON_000_013","삐삐…… 재료 필요해?
+60,TEXT_BANDWA101_03902_AUTOMATON_000_013,"삐삐…… 재료 필요해?
 가져가ー."
-61,"TEXT_BANDWA101_03902_AUTOMATON_000_014","삐삐…… 재료 필요해?
+61,TEXT_BANDWA101_03902_AUTOMATON_000_014,"삐삐…… 재료 필요해?
 가져가ー."
-62,"TEXT_BANDWA101_03902_AUTOMATON_000_015","삐삐…… 재료 필요해?
+62,TEXT_BANDWA101_03902_AUTOMATON_000_015,"삐삐…… 재료 필요해?
 가져가ー."
-63,"TEXT_BANDWA101_03902_CRAFTSDWARF03902_000_020","오옷!
+63,TEXT_BANDWA101_03902_CRAFTSDWARF03902_000_020,"오옷!
 부탁한 것을 만들어왔어?"
-64,"TEXT_BANDWA101_03902_CRAFTSDWARF03902_000_021","고마워~!!
+64,TEXT_BANDWA101_03902_CRAFTSDWARF03902_000_021,"고마워~!!
 흠흠…… 이렇게 품질 좋은 보수재라면
 위병들의 무기를 완벽하게 고칠 수 있겠어!"
-65,"TEXT_BANDWA101_03902_CRAFTSDWARF03902_000_022","좋아, 여기서부터는 내 일이야~!
+65,TEXT_BANDWA101_03902_CRAFTSDWARF03902_000_022,"좋아, 여기서부터는 내 일이야~!
 멋지게 수리할 테니까
 넌 '레기트'에게 가서 보고해줘~!"
-66,"TEXT_BANDWA101_03902_CRAFTSDWARF03902_000_023","좋아, 여기서부터는 내 일이야~!
+66,TEXT_BANDWA101_03902_CRAFTSDWARF03902_000_023,"좋아, 여기서부터는 내 일이야~!
 멋지게 수리할 테니까
 넌 '레기트'에게 가서 보고해줘~!"
-67,"TEXT_BANDWA101_03902_REGITT_000_030","수고했어라리~!
+67,TEXT_BANDWA101_03902_REGITT_000_030,"수고했어라리~!
 표정을 보니, 보수재 건은 잘하고 왔구나라리?"
-68,"TEXT_BANDWA101_03902_REGITT_000_031","부탁을 들어줘서 고마워라리~!
+68,TEXT_BANDWA101_03902_REGITT_000_031,"부탁을 들어줘서 고마워라리~!
 우리 드워프는 레이크랜드를 임대해서 살고 있는 입장이니
 이웃 엄명성에 있는 위병들하고 사이좋게 지내고 싶어라리!"
-69,"TEXT_BANDWA101_03902_REGITT_000_032","우리의 드워프 전차가 보급되면
+69,TEXT_BANDWA101_03902_REGITT_000_032,"우리의 드워프 전차가 보급되면
 상단의 구조 요청도 줄어들 테니 위병단에게도 도움이 될 거야라리!
 앞으로도 열심히 개발하겠어라리!"
-70,"TEXT_BANDWA101_03902_REGITT_000_003","（★未使用／削除予定★）"
-71,"TEXT_BANDWA101_03902_REGITT_000_004","（★未使用／削除予定★）"
-72,"TEXT_BANDWA101_03902_REGITT_000_005","（★未使用／削除予定★）"
-73,"TEXT_BANDWA101_03902_REGITT_000_007","（★未使用／削除予定★）"
-74,"TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_025","（★未使用／削除予定★）"
+70,TEXT_BANDWA101_03902_REGITT_000_003,（★未使用／削除予定★）
+71,TEXT_BANDWA101_03902_REGITT_000_004,（★未使用／削除予定★）
+72,TEXT_BANDWA101_03902_REGITT_000_005,（★未使用／削除予定★）
+73,TEXT_BANDWA101_03902_REGITT_000_007,（★未使用／削除予定★）
+74,TEXT_BANDWA101_03902_CRAFTSDWARF03902_100_025,（★未使用／削除予定★）

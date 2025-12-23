@@ -1,238 +1,236 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBAST401_02016_SEQ_00","성 겡리올 점성원의 레베바는 지금 당장 수련을 위해 나가고 싶은 모양이다."
-1,"TEXT_JOBAST401_02016_SEQ_01","'바람의 별자리'의 문을 여는 수련을 하게 되었다. 성 겡리올 점성원에 있는 '잔키나르'와 대화하자."
-2,"TEXT_JOBAST401_02016_SEQ_02","잔키나르는 사정이 있어 이번 수련에 동행하지 못한다고 한다. 림사 로민사 '국제거리 광장'에 있는 '캥페랭'과 대화하자."
-3,"TEXT_JOBAST401_02016_SEQ_03","캥페랭은 레베바를 잃어버린 모양이다. 림사 로민사 '그물 창고'와 '산호탑'에서 레베바에 대한 정보를 모으자."
-4,"TEXT_JOBAST401_02016_SEQ_04","레베바에 대한 정보를 모았다. 림사 로민사의 약국 '일곱 번째 세이지'에 있는 '캥페랭'과 대화하자."
-5,"TEXT_JOBAST401_02016_SEQ_05","캥페랭과 대화했다. 약국 '일곱 번째 세이지'에 있는 <Sheet(EObj,2006316,0)/>에서 대기하자."
-6,"TEXT_JOBAST401_02016_SEQ_06","레베바와 합류한 다음, '바람의 별자리'의 문을 열었다. 성 겡리올 점성원에 있는 '잔키나르'와 대화하자."
-7,"TEXT_JOBAST401_02016_SEQ_07","잔키나르는 교황청에 레베바의 강연회 개최를 신청했으나 기각되었다고 한다. 샬레이안식 점성술을 배우는 자로서 점성술 수련에 힘쓰자.
+#,Unknown0,Unknown1
+0,TEXT_JOBAST401_02016_SEQ_00,성 겡리올 점성원의 레베바는 지금 당장 수련을 위해 나가고 싶은 모양이다.
+1,TEXT_JOBAST401_02016_SEQ_01,'바람의 별자리'의 문을 여는 수련을 하게 되었다. 성 겡리올 점성원에 있는 '잔키나르'와 대화하자.
+2,TEXT_JOBAST401_02016_SEQ_02,잔키나르는 사정이 있어 이번 수련에 동행하지 못한다고 한다. 림사 로민사 '국제거리 광장'에 있는 '캥페랭'과 대화하자.
+3,TEXT_JOBAST401_02016_SEQ_03,캥페랭은 레베바를 잃어버린 모양이다. 림사 로민사 '그물 창고'와 '산호탑'에서 레베바에 대한 정보를 모으자.
+4,TEXT_JOBAST401_02016_SEQ_04,레베바에 대한 정보를 모았다. 림사 로민사의 약국 '일곱 번째 세이지'에 있는 '캥페랭'과 대화하자.
+5,TEXT_JOBAST401_02016_SEQ_05,캥페랭과 대화했다. 약국 '일곱 번째 세이지'에 있는 에서 대기하자.
+6,TEXT_JOBAST401_02016_SEQ_06,"레베바와 합류한 다음, '바람의 별자리'의 문을 열었다. 성 겡리올 점성원에 있는 '잔키나르'와 대화하자."
+7,TEXT_JOBAST401_02016_SEQ_07,"잔키나르는 교황청에 레베바의 강연회 개최를 신청했으나 기각되었다고 한다. 샬레이안식 점성술을 배우는 자로서 점성술 수련에 힘쓰자.
 
 ※ 점성술사 레벨이 45 이상 되면 성 겡리올 점성원에 있는 잔키나르에게 다음 점성술사 퀘스트를 받을 수 있습니다."
-8,"TEXT_JOBAST401_02016_SEQ_08",""
-9,"TEXT_JOBAST401_02016_SEQ_09",""
-10,"TEXT_JOBAST401_02016_SEQ_10",""
-11,"TEXT_JOBAST401_02016_SEQ_11",""
-12,"TEXT_JOBAST401_02016_SEQ_12",""
-13,"TEXT_JOBAST401_02016_SEQ_13",""
-14,"TEXT_JOBAST401_02016_SEQ_14",""
-15,"TEXT_JOBAST401_02016_SEQ_15",""
-16,"TEXT_JOBAST401_02016_SEQ_16",""
-17,"TEXT_JOBAST401_02016_SEQ_17",""
-18,"TEXT_JOBAST401_02016_SEQ_18",""
-19,"TEXT_JOBAST401_02016_SEQ_19",""
-20,"TEXT_JOBAST401_02016_SEQ_20",""
-21,"TEXT_JOBAST401_02016_SEQ_21",""
-22,"TEXT_JOBAST401_02016_SEQ_22",""
-23,"TEXT_JOBAST401_02016_SEQ_23",""
-24,"TEXT_JOBAST401_02016_TODO_00","잔키나르와 대화"
-25,"TEXT_JOBAST401_02016_TODO_01","림사 로민사에서 캥페랭과 대화"
-26,"TEXT_JOBAST401_02016_TODO_02","그물 창고에서 정보 수집"
-27,"TEXT_JOBAST401_02016_TODO_03","산호탑에서 정보 수집"
-28,"TEXT_JOBAST401_02016_TODO_04","약국 '일곱 번째 세이지'에서 캥페랭과 대화"
-29,"TEXT_JOBAST401_02016_TODO_05","<Sheet(EObj,2006316,0)/>에서 대기"
-30,"TEXT_JOBAST401_02016_TODO_06","성 겡리올 점성원에서 잔키나르와 대화"
-31,"TEXT_JOBAST401_02016_TODO_07",""
-32,"TEXT_JOBAST401_02016_TODO_08",""
-33,"TEXT_JOBAST401_02016_TODO_09",""
-34,"TEXT_JOBAST401_02016_TODO_10",""
-35,"TEXT_JOBAST401_02016_TODO_11",""
-36,"TEXT_JOBAST401_02016_TODO_12",""
-37,"TEXT_JOBAST401_02016_TODO_13",""
-38,"TEXT_JOBAST401_02016_TODO_14",""
-39,"TEXT_JOBAST401_02016_TODO_15",""
-40,"TEXT_JOBAST401_02016_TODO_16",""
-41,"TEXT_JOBAST401_02016_TODO_17",""
-42,"TEXT_JOBAST401_02016_TODO_18",""
-43,"TEXT_JOBAST401_02016_TODO_19",""
-44,"TEXT_JOBAST401_02016_TODO_20",""
-45,"TEXT_JOBAST401_02016_TODO_21",""
-46,"TEXT_JOBAST401_02016_TODO_22",""
-47,"TEXT_JOBAST401_02016_TODO_23",""
-48,"TEXT_JOBAST401_02016_JANNEQUINARD_000_000","레베바 스승님은 점성원 2층에 머물고 계십니다.
+8,TEXT_JOBAST401_02016_SEQ_08,
+9,TEXT_JOBAST401_02016_SEQ_09,
+10,TEXT_JOBAST401_02016_SEQ_10,
+11,TEXT_JOBAST401_02016_SEQ_11,
+12,TEXT_JOBAST401_02016_SEQ_12,
+13,TEXT_JOBAST401_02016_SEQ_13,
+14,TEXT_JOBAST401_02016_SEQ_14,
+15,TEXT_JOBAST401_02016_SEQ_15,
+16,TEXT_JOBAST401_02016_SEQ_16,
+17,TEXT_JOBAST401_02016_SEQ_17,
+18,TEXT_JOBAST401_02016_SEQ_18,
+19,TEXT_JOBAST401_02016_SEQ_19,
+20,TEXT_JOBAST401_02016_SEQ_20,
+21,TEXT_JOBAST401_02016_SEQ_21,
+22,TEXT_JOBAST401_02016_SEQ_22,
+23,TEXT_JOBAST401_02016_SEQ_23,
+24,TEXT_JOBAST401_02016_TODO_00,잔키나르와 대화
+25,TEXT_JOBAST401_02016_TODO_01,림사 로민사에서 캥페랭과 대화
+26,TEXT_JOBAST401_02016_TODO_02,그물 창고에서 정보 수집
+27,TEXT_JOBAST401_02016_TODO_03,산호탑에서 정보 수집
+28,TEXT_JOBAST401_02016_TODO_04,약국 '일곱 번째 세이지'에서 캥페랭과 대화
+29,TEXT_JOBAST401_02016_TODO_05,에서 대기
+30,TEXT_JOBAST401_02016_TODO_06,성 겡리올 점성원에서 잔키나르와 대화
+31,TEXT_JOBAST401_02016_TODO_07,
+32,TEXT_JOBAST401_02016_TODO_08,
+33,TEXT_JOBAST401_02016_TODO_09,
+34,TEXT_JOBAST401_02016_TODO_10,
+35,TEXT_JOBAST401_02016_TODO_11,
+36,TEXT_JOBAST401_02016_TODO_12,
+37,TEXT_JOBAST401_02016_TODO_13,
+38,TEXT_JOBAST401_02016_TODO_14,
+39,TEXT_JOBAST401_02016_TODO_15,
+40,TEXT_JOBAST401_02016_TODO_16,
+41,TEXT_JOBAST401_02016_TODO_17,
+42,TEXT_JOBAST401_02016_TODO_18,
+43,TEXT_JOBAST401_02016_TODO_19,
+44,TEXT_JOBAST401_02016_TODO_20,
+45,TEXT_JOBAST401_02016_TODO_21,
+46,TEXT_JOBAST401_02016_TODO_22,
+47,TEXT_JOBAST401_02016_TODO_23,
+48,TEXT_JOBAST401_02016_JANNEQUINARD_000_000,"레베바 스승님은 점성원 2층에 머물고 계십니다.
 당신에게 하실 말씀이 있다고 하니
 가서 말씀을 들어보십시오."
-49,"TEXT_JOBAST401_02016_LEVEVA_000_000","<Highlight>ObjectParameter(1)</Highlight>, 이번에는 '바람의 별자리'의 문을 열겠다.
+49,TEXT_JOBAST401_02016_LEVEVA_000_000,"Player Player, 이번에는 '바람의 별자리'의 문을 열겠다.
 나는 캥페랭과 함께 출발할 테니
 그대는 '잔키나르'를 불러서 함께 오도록 하여라."
-50,"TEXT_JOBAST401_02016_JANNEQUINARD_000_010","……레베바 스승님은 벌써 출발하신 모양이군요.
+50,TEXT_JOBAST401_02016_JANNEQUINARD_000_010,"……레베바 스승님은 벌써 출발하신 모양이군요.
 아쉽지만 저는 교황청에 일이 생겨서
 이번에는 같이 못 갈 것 같습니다."
-51,"TEXT_JOBAST401_02016_JANNEQUINARD_000_011","이번 수련 장소는 '림사 로민사'라고 하니
+51,TEXT_JOBAST401_02016_JANNEQUINARD_000_011,"이번 수련 장소는 '림사 로민사'라고 하니
 당신은 어서 레베바 스승님을 찾아가십시오."
-52,"TEXT_JOBAST401_02016_JANNEQUINARD_000_019","이번 수련 장소는 '림사 로민사'라고 하니
+52,TEXT_JOBAST401_02016_JANNEQUINARD_000_019,"이번 수련 장소는 '림사 로민사'라고 하니
 당신은 어서 레베바 스승님을 찾아가십시오."
-53,"TEXT_JOBAST401_02016_QUIMPERAIN_000_020","오, 오, 오셨습니까, <Highlight>ObjectParameter(1)</Highlight> 님!
+53,TEXT_JOBAST401_02016_QUIMPERAIN_000_020,"오, 오, 오셨습니까, Player Player 님!
 큰일입니다. 이곳에 도착하자마자
 레베바 님을 잃어버리고 말았습니다……."
-54,"TEXT_JOBAST401_02016_QUIMPERAIN_000_021","림사 로민사는 해적도시로 유명한 곳인데……
+54,TEXT_JOBAST401_02016_QUIMPERAIN_000_021,"림사 로민사는 해적도시로 유명한 곳인데……
 혹시라도 레베바 님이 해를 당하실까 걱정입니다.
 흩어져서 빨리 찾아봅시다!"
-55,"TEXT_JOBAST401_02016_QUIMPERAIN_000_022","레베바 님은 호기심이 아주 강하신 분이니……
+55,TEXT_JOBAST401_02016_QUIMPERAIN_000_022,"레베바 님은 호기심이 아주 강하신 분이니……
 그분의 흥미를 끌 만한 '그물 창고'와 '산호탑'에서
 정보를 모아보십시오."
-56,"TEXT_JOBAST401_02016_QUIMPERAIN_000_023","저는 다른 곳을 찾아보겠습니다.
+56,TEXT_JOBAST401_02016_QUIMPERAIN_000_023,"저는 다른 곳을 찾아보겠습니다.
 나중에 약국 '일곱 번째 세이지'에서 합류하기로 하죠."
-57,"TEXT_JOBAST401_02016_VKEBBE_000_020","……점성술사 여자애?
+57,TEXT_JOBAST401_02016_VKEBBE_000_020,"……점성술사 여자애?
 여기서 잠깐 얘기하긴 했는데, 어디로 갔는지는 몰라……."
-58,"TEXT_JOBAST401_02016_VKEBBE_000_021","걔 혹시 누구한테 쫓기고 있어?
+58,TEXT_JOBAST401_02016_VKEBBE_000_021,"걔 혹시 누구한테 쫓기고 있어?
 왠지 주위를 경계하는 것처럼 보였는데……."
-59,"TEXT_JOBAST401_02016_VKEBBE_000_028","……점성술사 여자애?
+59,TEXT_JOBAST401_02016_VKEBBE_000_028,"……점성술사 여자애?
 여기서 잠깐 얘기하긴 했는데, 어디로 갔는지는 몰라……."
-60,"TEXT_JOBAST401_02016_VKEBBE_000_029","걔 혹시 누구한테 쫓기고 있어?
+60,TEXT_JOBAST401_02016_VKEBBE_000_029,"걔 혹시 누구한테 쫓기고 있어?
 왠지 주위를 경계하는 것처럼 보였는데……."
-61,"TEXT_JOBAST401_02016_REYNER_000_020","……샬레이안의 점성술사라면 여기서 봤네.
+61,TEXT_JOBAST401_02016_REYNER_000_020,"……샬레이안의 점성술사라면 여기서 봤네.
 이 도시가 안고 있는 문제를 물어보길래
 해적과 야만족에 대해 이것저것 가르쳐줬지."
-62,"TEXT_JOBAST401_02016_REYNER_000_021","그나저나 참 호기심이 왕성한 소녀더군.
+62,TEXT_JOBAST401_02016_REYNER_000_021,"그나저나 참 호기심이 왕성한 소녀더군.
 여기 있는 동안에도 끊임없이 주위를 둘러보지 뭔가."
-63,"TEXT_JOBAST401_02016_REYNER_000_028","……샬레이안의 점성술사라면 여기서 봤네.
+63,TEXT_JOBAST401_02016_REYNER_000_028,"……샬레이안의 점성술사라면 여기서 봤네.
 이 도시가 안고 있는 문제를 물어보길래
 해적과 야만족에 대해 이것저것 가르쳐줬지."
-64,"TEXT_JOBAST401_02016_REYNER_000_029","그나저나 참 호기심이 왕성한 소녀더군.
+64,TEXT_JOBAST401_02016_REYNER_000_029,"그나저나 참 호기심이 왕성한 소녀더군.
 여기 있는 동안에도 끊임없이 주위를 둘러보지 뭔가."
-65,"TEXT_JOBAST401_02016_BROENBHAR_000_020","……흠, 그렇게 생긴 소녀가 왔다 가긴 했지.
+65,TEXT_JOBAST401_02016_BROENBHAR_000_020,"……흠, 그렇게 생긴 소녀가 왔다 가긴 했지.
 나한테 엘레젠족 해적에 대해 물어보더만."
-66,"TEXT_JOBAST401_02016_BROENBHAR_000_021","그래서 약국 '일곱 번째 세이지'의 카르발랭을 소개해줬더니
+66,TEXT_JOBAST401_02016_BROENBHAR_000_021,"그래서 약국 '일곱 번째 세이지'의 카르발랭을 소개해줬더니
 벌써 알고 있다고 하더군."
-67,"TEXT_JOBAST401_02016_BROENBHAR_000_028","……흠, 그렇게 생긴 소녀가 왔다 가긴 했지.
+67,TEXT_JOBAST401_02016_BROENBHAR_000_028,"……흠, 그렇게 생긴 소녀가 왔다 가긴 했지.
 나한테 엘레젠족 해적에 대해 물어보더만."
-68,"TEXT_JOBAST401_02016_BROENBHAR_000_029","그래서 약국 '일곱 번째 세이지'의 카르발랭을 소개해줬더니
+68,TEXT_JOBAST401_02016_BROENBHAR_000_029,"그래서 약국 '일곱 번째 세이지'의 카르발랭을 소개해줬더니
 벌써 알고 있다고 하더군."
-69,"TEXT_JOBAST401_02016_QUIMPERAIN_000_040","<Highlight>ObjectParameter(1)</Highlight> 님, 기다리고 있었습니다.
+69,TEXT_JOBAST401_02016_QUIMPERAIN_000_040,"Player Player 님, 기다리고 있었습니다.
 여기 계신 카르발랭 님께서
 레베바 님과 향신료를 거래하실 예정이라는군요."
-70,"TEXT_JOBAST401_02016_CARVALLAIN_000_041","……예, 레베바 님은 도시를 한 바퀴 둘러보신 후
+70,TEXT_JOBAST401_02016_CARVALLAIN_000_041,"……예, 레베바 님은 도시를 한 바퀴 둘러보신 후
 자정쯤에 들르겠다고 하셨습니다."
-71,"TEXT_JOBAST401_02016_CARVALLAIN_000_042","다만…… 어째선지 주위를 무척 경계하시더군요.
+71,TEXT_JOBAST401_02016_CARVALLAIN_000_042,"다만…… 어째선지 주위를 무척 경계하시더군요.
 당신들한테 쫓기고 있었던 것도 아니고,
 무슨 문제에 휘말리신 게 아닐까요?"
-72,"TEXT_JOBAST401_02016_QUIMPERAIN_000_043","이 도시에서 레베바 님을 만난 다른 분들도
+72,TEXT_JOBAST401_02016_QUIMPERAIN_000_043,"이 도시에서 레베바 님을 만난 다른 분들도
 입을 모아 그렇게 말씀하시더군요.
-<Highlight>ObjectParameter(1)</Highlight> 님은 어땠습니까?"
-73,"TEXT_JOBAST401_02016_QUIMPERAIN_000_044","역시 그랬군요…….
+Player Player 님은 어땠습니까?"
+73,TEXT_JOBAST401_02016_QUIMPERAIN_000_044,"역시 그랬군요…….
 레베바 님은 추적자를 따돌리기 위해
 일부러 사람이 많은 곳을 찾아다니신 것일지도 모릅니다."
-74,"TEXT_JOBAST401_02016_CARVALLAIN_000_045","……그렇다면 그분은 약속 시간에
+74,TEXT_JOBAST401_02016_CARVALLAIN_000_045,"……그렇다면 그분은 약속 시간에
 이 자리에 오지 못할 수도 있겠군요."
-75,"TEXT_JOBAST401_02016_QUIMPERAIN_000_046","저는 다시 한번 주변을 찾아보겠습니다.
-<Highlight>ObjectParameter(1)</Highlight> 님은 여기 남아서
+75,TEXT_JOBAST401_02016_QUIMPERAIN_000_046,"저는 다시 한번 주변을 찾아보겠습니다.
+Player Player 님은 여기 남아서
 레베바 님을 기다려주십시오."
-76,"TEXT_JOBAST401_02016_QUIMPERAIN_000_047","만약 약속 시간이 지나도 안 오신다면
+76,TEXT_JOBAST401_02016_QUIMPERAIN_000_047,"만약 약속 시간이 지나도 안 오신다면
 사람이 많이 다니는 '물에 빠진 돌고래 주점' 근처부터
 레베바 님이 계신지 찾아봐 주십시오."
-77,"TEXT_JOBAST401_02016_CARVALLAIN_000_048","레베바 님은 점성술을 가르치신다고 들었습니다.
+77,TEXT_JOBAST401_02016_CARVALLAIN_000_048,"레베바 님은 점성술을 가르치신다고 들었습니다.
 저도 옛날에 잠깐 별을 읽는 기술을 배운 적이 있는데,
 그래서 그런지 좀 반가운 기분이 드는군요."
-78,"TEXT_JOBAST401_02016_CARVALLAIN_000_050","(-카르발랭-)……역시 오지 않으시는군요.
+78,TEXT_JOBAST401_02016_CARVALLAIN_000_050,"(-카르발랭-)……역시 오지 않으시는군요.
 슬슬 '물에 빠진 돌고래 주점'부터 시작해서
 레베바 님을 찾아보는 게 좋지 않겠습니까?"
-79,"TEXT_JOBAST401_02016_CARVALLAIN_000_051","(-카르발랭-)그분은 제 소중한 거래 상대입니다.
+79,TEXT_JOBAST401_02016_CARVALLAIN_000_051,"(-카르발랭-)그분은 제 소중한 거래 상대입니다.
 만약 여기로 오시면 저희가 책임지고 지켜드리지요."
-80,"TEXT_JOBAST401_02016_QIB_001_TODO_001","사람들에게 말을 걸어서 레베바를 찾아라!"
-81,"TEXT_JOBAST401_02016_QIB_001_TODO_002","해적들을 쓰러뜨려라!"
-82,"TEXT_JOBAST401_02016_QIB_001_FAKELEVEVAA_BATTLETALK_01","하하하, 걸려들었구나!
+80,TEXT_JOBAST401_02016_QIB_001_TODO_001,사람들에게 말을 걸어서 레베바를 찾아라!
+81,TEXT_JOBAST401_02016_QIB_001_TODO_002,해적들을 쓰러뜨려라!
+82,TEXT_JOBAST401_02016_QIB_001_FAKELEVEVAA_BATTLETALK_01,"하하하, 걸려들었구나!
 계집 근처를 어슬렁대는 놈들은 다 치워버려!"
-83,"TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_02","<Highlight>ObjectParameter(1)</Highlight> 님, 저도 돕겠습니다!
+83,TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_02,"Player Player 님, 저도 돕겠습니다!
 저자는 우리와 레베바 님을 떨어뜨려 놓으려 합니다!"
-84,"TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_03","<Highlight>ObjectParameter(1)</Highlight> 님, 서둘러 레베바 님을 찾읍시다.
+84,TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_03,"Player Player 님, 서둘러 레베바 님을 찾읍시다.
 제가 앞장설 테니 따라와 주십시오!"
-85,"TEXT_JOBAST401_02016_QIB_001_FAKELEVEVAB_BATTLETALK_04","아하하하! 불을 보고 뛰어드는 나방 같구나!
+85,TEXT_JOBAST401_02016_QIB_001_FAKELEVEVAB_BATTLETALK_04,"아하하하! 불을 보고 뛰어드는 나방 같구나!
 자, 방해꾼들은 이만 죽어라!"
-86,"TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_05","헉, 또 가짜였군요…….
+86,TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_05,"헉, 또 가짜였군요…….
 레베바 님이 걱정됩니다…… 서두릅시다!"
-87,"TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_06","<Highlight>ObjectParameter(1)</Highlight> 님……
+87,TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_06,"Player Player 님……
 진짜 레베바 님으로 보이는 분께 말을 걸어보십시오."
-88,"TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_07","헉, <Highlight>ObjectParameter(1)</Highlight> 님! 그자는 가짜입니다!"
-89,"TEXT_JOBAST401_02016_QIB_001_FAKELEVEVAC_BATTLETALK_08","하, 어차피 네놈들은 여기서 죽을 운명이다!"
-90,"TEXT_JOBAST401_02016_QIB_001_LEVEVA_BATTLETALK_09","진실을 꿰뚫어 보다니, 역시 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA19CFF07EC9DB4EBA19C</13>군!"
-91,"TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_10","레베바 님, 무사하셔서 다행입니다!
+88,TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_07,"헉, Player Player 님! 그자는 가짜입니다!"
+89,TEXT_JOBAST401_02016_QIB_001_FAKELEVEVAC_BATTLETALK_08,"하, 어차피 네놈들은 여기서 죽을 운명이다!"
+90,TEXT_JOBAST401_02016_QIB_001_LEVEVA_BATTLETALK_09,"진실을 꿰뚫어 보다니, 역시 Player Player군!"
+91,TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_10,"레베바 님, 무사하셔서 다행입니다!
 자객은 제게 맡겨주십시오!"
-92,"TEXT_JOBAST401_02016_QIB_001_FAKELEVEVAC_BATTLETALK_11","하, 어차피 네놈들은 여기서 죽을 운명이다!"
-93,"TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_12","또 자객인가!?"
-94,"TEXT_JOBAST401_02016_QUIMPERAIN_000_060","레베바 님, 무사하셔서 다행입니다!"
-95,"TEXT_JOBAST401_02016_LEVEVA_000_061","너희에게 걱정 많이 끼쳤구나.
+92,TEXT_JOBAST401_02016_QIB_001_FAKELEVEVAC_BATTLETALK_11,"하, 어차피 네놈들은 여기서 죽을 운명이다!"
+93,TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_12,또 자객인가!?
+94,TEXT_JOBAST401_02016_QUIMPERAIN_000_060,"레베바 님, 무사하셔서 다행입니다!"
+95,TEXT_JOBAST401_02016_LEVEVA_000_061,"너희에게 걱정 많이 끼쳤구나.
 인파 때문에 캥페랭과 떨어진 뒤, 어디선가 시선이 느껴지길래
 일부러 사람이 많은 곳을 골라 다녔느니라……."
-96,"TEXT_JOBAST401_02016_LEVEVA_000_062","하지만 적의 계략에 빠져 그대들과 합류하기는커녕
+96,TEXT_JOBAST401_02016_LEVEVA_000_062,"하지만 적의 계략에 빠져 그대들과 합류하기는커녕
 이렇게 외진 곳에 몰리게 되었지."
-97,"TEXT_JOBAST401_02016_QUIMPERAIN_000_063","레베바 님……
+97,TEXT_JOBAST401_02016_QUIMPERAIN_000_063,"레베바 님……
 추적자의 정체가 무엇인지 짐작은 가십니까?"
-98,"TEXT_JOBAST401_02016_LEVEVA_000_064","아니, 전혀 상상이 가지 않는구나…….
+98,TEXT_JOBAST401_02016_LEVEVA_000_064,"아니, 전혀 상상이 가지 않는구나…….
 하지만 이렇게 무사히 합류했으니 본래 목적부터 이루어야겠다.
 서둘러 '바람의 별자리'의 문이 열리는 '닻 마당'으로 가자!"
-99,"TEXT_JOBAST401_02016_ZOKU02016_000_065","(-해적 복장의 남자-)그게 아니지. 아가씨가 갈 곳은 우리 배거든……!
+99,TEXT_JOBAST401_02016_ZOKU02016_000_065,"(-해적 복장의 남자-)그게 아니지. 아가씨가 갈 곳은 우리 배거든……!
 방해하는 놈들은 후딱 처리하고 저 여자를 잡아!"
-100,"TEXT_JOBAST401_02016_LEVEVA_000_066","큭, 드디어 본성을 드러냈군…….
-<Highlight>ObjectParameter(1)</Highlight>, 캥페랭…… 장애물을 격파한다!"
-101,"TEXT_JOBAST401_02016_QIB_001_LEVEVA_BATTLETALK_13","해적 놈들이 왜 우리를 방해하는 거냐……!?"
-102,"TEXT_JOBAST401_02016_QIB_001_CELIE_BATTLETALK_14","우린 아가씨한테만 볼일이 있다…….
+100,TEXT_JOBAST401_02016_LEVEVA_000_066,"큭, 드디어 본성을 드러냈군…….
+Player Player, 캥페랭…… 장애물을 격파한다!"
+101,TEXT_JOBAST401_02016_QIB_001_LEVEVA_BATTLETALK_13,해적 놈들이 왜 우리를 방해하는 거냐……!?
+102,TEXT_JOBAST401_02016_QIB_001_CELIE_BATTLETALK_14,"우린 아가씨한테만 볼일이 있다…….
 얌전히 물러나면 봐주겠지만, 대들면 용서하지 않겠어."
-103,"TEXT_JOBAST401_02016_QIB_001_CELIE_BATTLETALK_15","제길, 더는 안 되겠군……."
-104,"TEXT_JOBAST401_02016_QIB_001_CELIE_BATTLETALK_16","놓치지 않는다!"
-105,"TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_17","네놈들 목적이 뭔지는 모르겠지만
+103,TEXT_JOBAST401_02016_QIB_001_CELIE_BATTLETALK_15,"제길, 더는 안 되겠군……."
+104,TEXT_JOBAST401_02016_QIB_001_CELIE_BATTLETALK_16,놓치지 않는다!
+105,TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_17,"네놈들 목적이 뭔지는 모르겠지만
 레베바 님께는 손도 못 댈 줄 알아라!"
-106,"TEXT_JOBAST401_02016_QIB_001_LEVEVA_BATTLETALK_18","캥페랭! 지원군이 나타났다. 조심해라!"
-107,"TEXT_JOBAST401_02016_QIB_001_BROENBHAR_BATTLETALK_19","여어, 웬 날파리가 꼬인 모양인데!
+106,TEXT_JOBAST401_02016_QIB_001_LEVEVA_BATTLETALK_18,캥페랭! 지원군이 나타났다. 조심해라!
+107,TEXT_JOBAST401_02016_QIB_001_BROENBHAR_BATTLETALK_19,"여어, 웬 날파리가 꼬인 모양인데!
 나도 몸 좀 풀어보자!"
-108,"TEXT_JOBAST401_02016_QIB_001_VKEBBE_BATTLETALK_20","납치는 금기야…… 규율을 어긴 해적은 가만 안 둬……!"
-109,"TEXT_JOBAST401_02016_QIB_001_LEVEVA_BATTLETALK_21","가세해줘서 고맙다!
-<Highlight>ObjectParameter(1)</Highlight>, 두 사람을 도와줘라!"
-110,"TEXT_JOBAST401_02016_QIB_001_CELIE_BATTLETALK_22","건방진 것들! 한꺼번에 처리해주마!"
-111,"TEXT_JOBAST401_02016_QIB_001_BROENBHAR_BATTLETALK_25","다 끝났나? 그럼 난 이만 가보겠다."
-112,"TEXT_JOBAST401_02016_QIB_001_VKEBBE_BATTLETALK_26","무사해서 다행이야. 나도 이만 갈게."
-113,"TEXT_JOBAST401_02016_QIB_001_CELIE_BATTLETALK_29","큭, 별 이상한 놈들만 안 왔어도……."
-114,"TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_DEAD","죄송합니다……."
-115,"TEXT_JOBAST401_02016_QIB_001_LEVEVA_BATTLETALK_DEAD","미안하다…… 뒤를 부탁하마……."
-116,"TEXT_JOBAST401_02016_CELIE_000_080","움직이지 마라.
+108,TEXT_JOBAST401_02016_QIB_001_VKEBBE_BATTLETALK_20,납치는 금기야…… 규율을 어긴 해적은 가만 안 둬……!
+109,TEXT_JOBAST401_02016_QIB_001_LEVEVA_BATTLETALK_21,"가세해줘서 고맙다!
+Player Player, 두 사람을 도와줘라!"
+110,TEXT_JOBAST401_02016_QIB_001_CELIE_BATTLETALK_22,건방진 것들! 한꺼번에 처리해주마!
+111,TEXT_JOBAST401_02016_QIB_001_BROENBHAR_BATTLETALK_25,다 끝났나? 그럼 난 이만 가보겠다.
+112,TEXT_JOBAST401_02016_QIB_001_VKEBBE_BATTLETALK_26,무사해서 다행이야. 나도 이만 갈게.
+113,TEXT_JOBAST401_02016_QIB_001_CELIE_BATTLETALK_29,"큭, 별 이상한 놈들만 안 왔어도……."
+114,TEXT_JOBAST401_02016_QIB_001_QUIMPERAIN_BATTLETALK_DEAD,죄송합니다…….
+115,TEXT_JOBAST401_02016_QIB_001_LEVEVA_BATTLETALK_DEAD,미안하다…… 뒤를 부탁하마…….
+116,TEXT_JOBAST401_02016_CELIE_000_080,"움직이지 마라.
 ……손가락 하나라도 까딱하면 이 남자의 목숨은 없다."
-117,"TEXT_JOBAST401_02016_LEVEVA_000_081","큭, 사람들을 돌려보내려고 연기한 건가……."
-118,"TEXT_JOBAST401_02016_CELIE_000_082","어려운 걸 시키려는 게 아냐.
+117,TEXT_JOBAST401_02016_LEVEVA_000_081,"큭, 사람들을 돌려보내려고 연기한 건가……."
+118,TEXT_JOBAST401_02016_CELIE_000_082,"어려운 걸 시키려는 게 아냐.
 거기 아가씨만 같이 가주면 된다니까?
 그렇게 하면 이 녀석은 살려주지."
-119,"TEXT_JOBAST401_02016_QUIMPERAIN_000_083","앗!
+119,TEXT_JOBAST401_02016_QUIMPERAIN_000_083,"앗!
 네놈…… 검은장막 숲에서 나타났던 도적 두목이구나!"
-120,"TEXT_JOBAST401_02016_CELIE_000_084","미개한 것이 쓸데없이 기억력은 좋아서는.
+120,TEXT_JOBAST401_02016_CELIE_000_084,"미개한 것이 쓸데없이 기억력은 좋아서는.
 함부로 입을 놀리기 전에 없애줄까……?"
-121,"TEXT_JOBAST401_02016_REYNER_000_090","멈춰라……!
+121,TEXT_JOBAST401_02016_REYNER_000_090,"멈춰라……!
 도시에서 소동을 피우고도 무사할 줄 알았느냐!"
-122,"TEXT_JOBAST401_02016_CELIE_000_091","……쳇, 노란셔츠가 납셨군.
+122,TEXT_JOBAST401_02016_CELIE_000_091,"……쳇, 노란셔츠가 납셨군.
 권력의 개랑 놀아줄 시간은 없어."
-123,"TEXT_JOBAST401_02016_QUIMPERAIN_000_092","젠장, 도망치는 속도 한번 빠르네……."
-124,"TEXT_JOBAST401_02016_REYNER_000_093","안녕, 또 만났네.
+123,TEXT_JOBAST401_02016_QUIMPERAIN_000_092,"젠장, 도망치는 속도 한번 빠르네……."
+124,TEXT_JOBAST401_02016_REYNER_000_093,"안녕, 또 만났네.
 다행히 동료랑 다시 만난 모양이야.
 그럼 난 도망친 해적을 쫓아야 하니…… 이만!"
-125,"TEXT_JOBAST401_02016_QUIMPERAIN_000_094","지금까지 있었던 습격은 전부 한 사람의 짓이었군요.
+125,TEXT_JOBAST401_02016_QUIMPERAIN_000_094,"지금까지 있었던 습격은 전부 한 사람의 짓이었군요.
 레베바 님…… 짐작 가는 데는 없으십니까?"
-126,"TEXT_JOBAST401_02016_LEVEVA_000_095","그걸 알면 벌써 대책을 세웠느니라.
+126,TEXT_JOBAST401_02016_LEVEVA_000_095,"그걸 알면 벌써 대책을 세웠느니라.
 이제 나도 가만히 있지 말고 적에 대해 알아봐야겠다.
 ……하지만 그전에 본래 목적부터 이루자꾸나."
-127,"TEXT_JOBAST401_02016_LEVEVA_000_100","자, <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EC97ACFF07EC9DB4EC97AC</13>.
+127,TEXT_JOBAST401_02016_LEVEVA_000_100,"자, Player Player.
 흐르는 바람처럼 당당히 빛나는 '바람의 별자리'를 이해하고
 천계로 이어지는 문을 열어라!"
-128,"TEXT_JOBAST401_02016_LEVEVA_000_101","바람의 천계인 '풍천'에는
+128,TEXT_JOBAST401_02016_LEVEVA_000_101,"바람의 천계인 '풍천'에는
 활을 든 여행신 오쉬온이 창조한 영봉이 우뚝 솟아있으며,
 거기서 해신 리믈렌이 낳은 대양으로 맑은 바람이 분다고 한다."
-129,"TEXT_JOBAST401_02016_LEVEVA_000_102","그래서 풍천의 축복을 암시하는 아르카나를 '화살'이라 부르지.
+129,TEXT_JOBAST401_02016_LEVEVA_000_102,"그래서 풍천의 축복을 암시하는 아르카나를 '화살'이라 부르지.
 이 힘을 사용하면 마치 치유의 바람이 불 듯이
 치유 능력이 향상될 것이다."
-130,"TEXT_JOBAST401_02016_LEVEVA_000_103","바람의 별자리는 풍천의 문을 가리키는 별들이지…….
+130,TEXT_JOBAST401_02016_LEVEVA_000_103,"바람의 별자리는 풍천의 문을 가리키는 별들이지…….
 그대는 지금 새로운 '천계'의 문을 연 것이다……."
-131,"TEXT_JOBAST401_02016_LEVEVA_000_104","……자, 이슈가르드로 돌아가자꾸나."
-132,"TEXT_JOBAST401_02016_CARVALLAIN_000_109","레베바 님은 향신료를 사 가셨습니다.
+131,TEXT_JOBAST401_02016_LEVEVA_000_104,"……자, 이슈가르드로 돌아가자꾸나."
+132,TEXT_JOBAST401_02016_CARVALLAIN_000_109,"레베바 님은 향신료를 사 가셨습니다.
 그분과 거래하는 것은 이번이 처음인데
 어디서 본 적이 없냐고 자꾸 물으시더군요……."
-133,"TEXT_JOBAST401_02016_QUIMPERAIN_000_109","（★未使用／削除予定★）"
-134,"TEXT_JOBAST401_02016_JANNEQUINARD_000_120","<Highlight>ObjectParameter(1)</Highlight> 님, 수고 많으셨습니다.
+133,TEXT_JOBAST401_02016_QUIMPERAIN_000_109,（★未使用／削除予定★）
+134,TEXT_JOBAST401_02016_JANNEQUINARD_000_120,"Player Player 님, 수고 많으셨습니다.
 이번에도 습격을 받으셨다면서요.
 게다가 검은장막 숲에서 만난 도적이 범인이라니……."
-135,"TEXT_JOBAST401_02016_JANNEQUINARD_000_121","적은 레베바 스승님을 노리고 있는 듯하지만
+135,TEXT_JOBAST401_02016_JANNEQUINARD_000_121,"적은 레베바 스승님을 노리고 있는 듯하지만
 그 목적을 알 수 없는 이상 당신도 조심하십시오."
-136,"TEXT_JOBAST401_02016_JANNEQUINARD_000_122","이번에 제가 동행하지 못한 것은
+136,TEXT_JOBAST401_02016_JANNEQUINARD_000_122,"이번에 제가 동행하지 못한 것은
 레베바 스승님의 강연회 개최를 신청하기 위해
 교황청에 다녀왔기 때문입니다."
-137,"TEXT_JOBAST401_02016_JANNEQUINARD_000_123","……하지만 결국 신청은 반려되었습니다.
+137,TEXT_JOBAST401_02016_JANNEQUINARD_000_123,"……하지만 결국 신청은 반려되었습니다.
 샬레이안식 점성술을 널리 알릴 기회였는데…….
 아쉽지만 우리끼리라도 꾸준히 수련합시다."

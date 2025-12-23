@@ -1,98 +1,96 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_Q1_000_000","어느 항목을 읽으시겠습니까?"
-1,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_001","명령어를 입력하여 기술 발동하기"
-2,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_002","편리한 매크로 활용법"
-3,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_003","표식을 이용하여 강조하기"
-4,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_004","동료와 역할 분담하기"
-5,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_005","줄임말 및 용어 알아보기"
-6,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_006","취소"
-7,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_010","(-'초보 환술사'의 메모-)안녕, 에오르제아를 여행하는 이름 모를 친구!
+#,Unknown0,Unknown1
+0,TEXT_REGSEABEGINNERGUIDEBOOK_00340_Q1_000_000,어느 항목을 읽으시겠습니까?
+1,TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_001,명령어를 입력하여 기술 발동하기
+2,TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_002,편리한 매크로 활용법
+3,TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_003,표식을 이용하여 강조하기
+4,TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_004,동료와 역할 분담하기
+5,TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_005,줄임말 및 용어 알아보기
+6,TEXT_REGSEABEGINNERGUIDEBOOK_00340_A1_000_006,취소
+7,TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_010,"(-'초보 환술사'의 메모-)안녕, 에오르제아를 여행하는 이름 모를 친구!
 널 위해 교관이 알려주지 않는 정보를 적어둘게.
 알아두면 편리한 기술도 있을 거야."
-8,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_011","단축바에 등록한 아이콘을 누르는 방법 외에도
+8,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_011,"단축바에 등록한 아이콘을 누르는 방법 외에도
 대화 입력란을 이용하여 기술을 실행하는 방법이 있습니다.
-예컨대 <UIForeground>F20222</UIForeground>/시전 케알<UIForeground>01</UIForeground>을 입력하면 케알을 시전합니다."
-9,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_012","기술을 시전할 대상을 지정할 수도 있습니다.
-기술명에 이어 <UIForeground>F20222</UIForeground><me><UIForeground>01</UIForeground>를 입력하면 자신에게,
-<UIForeground>F20222</UIForeground><t><UIForeground>01</UIForeground>를 입력하면 선택한 대상에게 실행합니다."
-10,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_013","이렇게 문자를 통한 조작에 쓰이는 단어 하나하나를
+예컨대 **/시전 케알을 입력하면 케알을 시전합니다."
+9,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_012,"기술을 시전할 대상을 지정할 수도 있습니다.
+기술명에 이어 **<me>를 입력하면 자신에게,
+**<t>를 입력하면 선택한 대상에게 실행합니다."
+10,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_013,"이렇게 문자를 통한 조작에 쓰이는 단어 하나하나를
 '명령어'라 부르며, 기술 사용 외에도
 대상 변경 등 다양한 행동을 실행할 수 있습니다."
-11,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_014","주 메뉴 '시스템 메뉴'에서
+11,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_014,"주 메뉴 '시스템 메뉴'에서
 '매크로 관리'를 선택하면 명령어 목록을 확인할 수 있습니다.
 모험에 적극적으로 활용해보세요."
-12,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_020","(-'미코테족 검술사'의 메모-)중요한 순간에 당황하는 바람에
+12,TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_020,"(-'미코테족 검술사'의 메모-)중요한 순간에 당황하는 바람에
 배운 기술을 제때 쓰지 못한 적 없어?
 이럴 땐 해야 할 일을 미리 적어두면 도움이 될 거야!"
-13,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_021","사전에 등록해둔 명령어를 자동으로 실행하는
+13,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_021,"사전에 등록해둔 명령어를 자동으로 실행하는
 편리한 시스템을 '매크로'라고 부릅니다.
 둘 이상의 명령어를 연속으로 실행할 수도 있습니다."
-14,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_022","'매크로'는 주 메뉴의 '시스템 메뉴'에 있는
+14,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_022,"'매크로'는 주 메뉴의 '시스템 메뉴'에 있는
 '매크로 관리'에서 작성할 수 있습니다.
 아래에 몇 가지 예시를 소개합니다."
-15,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_023","'방패 던지기를 대상에게 사용하면서 자동으로 표식 달기'
-<UIForeground>F20222</UIForeground>/시전 ""방패 던지기"" <t>
-/표식 공격1 <t><UIForeground>01</UIForeground>"
-16,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_024","'가장 가까운 적을 선택하면서 대상 바라보기'
-<UIForeground>F20222</UIForeground>/적대상
-/대상보기<UIForeground>01</UIForeground>"
-17,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_025","'기술을 사용하면서 그 사실을 파티 대화창에 전달'
-<UIForeground>F20222</UIForeground>/시전 케알 <t>
-/파 <t> 님을 회복시킵니다!<UIForeground>01</UIForeground>"
-18,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_026","매크로를 사용하면 이와 같이 복잡한 행동을
+15,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_023,"'방패 던지기를 대상에게 사용하면서 자동으로 표식 달기'
+**/시전 ""방패 던지기"" <t>
+/표식 공격1 <t>"
+16,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_024,"'가장 가까운 적을 선택하면서 대상 바라보기'
+**/적대상
+/대상보기"
+17,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_025,"'기술을 사용하면서 그 사실을 파티 대화창에 전달'
+**/시전 케알 <t>
+/파 <t> 님을 회복시킵니다!"
+18,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_026,"매크로를 사용하면 이와 같이 복잡한 행동을
 간단하고 확실하게 실행할 수 있습니다.
 예시를 응용하여 편리한 매크로를 적극 활용해보세요."
-19,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_030","(-'떠돌이 라라펠족'의 메모-)파티를 맺고 싸울 때는 원활한 의사소통이 중요해.
+19,TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_030,"(-'떠돌이 라라펠족'의 메모-)파티를 맺고 싸울 때는 원활한 의사소통이 중요해.
 그런데 긴박한 전장에서는 말로만 전달하기 어려울 수도 있어.
 이럴 땐 공격 대상에게 표시를 하는 등의 재치도 필요하지."
-20,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_031","'표식'은 대상을 눈에 띄게 표시하는 역할을 합니다.
+20,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_031,"'표식'은 대상을 눈에 띄게 표시하는 역할을 합니다.
 설정된 표식은 파티원 모두에게 동일하게 보이므로
 파티를 맺고 행동할 때 의사소통에 도움이 됩니다."
-21,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_032","'대상 표식'은 강조하고 싶은 아군이나 적에게
+21,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_032,"'대상 표식'은 강조하고 싶은 아군이나 적에게
 부착할 수 있는 표식입니다."
-22,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_033","숫자로 된 대상 표식도 있으므로, 적이 여럿 있는 경우
+22,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_033,"숫자로 된 대상 표식도 있으므로, 적이 여럿 있는 경우
 처치할 순서를 동료에게 알릴 때 매우 편리합니다."
-23,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_034","'지면 표식'은 필드 상의 지정한 위치에 표식을 생성합니다.
+23,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_034,"'지면 표식'은 필드 상의 지정한 위치에 표식을 생성합니다.
 동료에게 집합 장소를 알릴 때 활용하면 좋습니다."
-24,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_035","표식은 주 메뉴의 '파티'에 있는
+24,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_035,"표식은 주 메뉴의 '파티'에 있는
 '대상 표식'과 '지면 표식'에서 사용할 수 있습니다."
-25,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_040","(-'고뇌하는 모험가'의 메모-)파티 맺기도 무섭고…… 뭘 해야 할지도 모르겠고…….
+25,TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_040,"(-'고뇌하는 모험가'의 메모-)파티 맺기도 무섭고…… 뭘 해야 할지도 모르겠고…….
 그렇게 겁이 많던 제가 교관님에게 배운 게 있습니다.
 바로 '역할 분담'이지요…… 복습 삼아 여기 적어둘게요."
-26,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_041","전투 클래스에는 '역할'이 존재합니다.
+26,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_041,"전투 클래스에는 '역할'이 존재합니다.
 역할은 파티를 맺을 때 중요한 요소이므로 꼭 기억하세요.
 우선 역할에는 '방어', '회복', '공격'의 3가지가 있습니다."
-27,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_042","[방어 역할] 검술사, 도끼술사
+27,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_042,"[방어 역할] 검술사, 도끼술사
 HP와 방어력이 월등히 높으며, 맷집이 강합니다.
 적개심을 높여 적의 공격을 받아내면서 동료를 지킵니다."
-28,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_043","[회복 역할] 환술사
+28,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_043,"[회복 역할] 환술사
 회복 기술에 능하여 동료에게 도움을 줄 수 있습니다.
 파티원의 HP를 회복하여 동료가 쓰러지지 않도록 지원합니다."
-29,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_044","[공격 역할] 격투사, 창술사, 궁술사, 쌍검사, 주술사, 비술사
+29,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_044,"[공격 역할] 격투사, 창술사, 궁술사, 쌍검사, 주술사, 비술사
 공격력이 탁월하여 적을 쓰러뜨리는 역할을 맡습니다.
 단, 적개심을 끌기 쉬우므로 공격당하지 않게 조심해야 합니다."
-30,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_045","또, 공격 역할은 전투 방식에 따라 다시 두 계열로 나뉩니다.
+30,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_045,"또, 공격 역할은 전투 방식에 따라 다시 두 계열로 나뉩니다.
 주로 적에게 접근하여 공격하는 '근거리',
 적과 거리를 두고 공격하는 '원거리'입니다."
-31,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_046","자기가 맡은 역할이 무엇인지 충분히 이해하면
+31,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_046,"자기가 맡은 역할이 무엇인지 충분히 이해하면
 파티에서 어떻게 행동해야 할지 파악할 수 있습니다.
 동료와 역할을 분담하여 강한 적에게 도전해보세요."
-32,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_050","(-'루가딘족 아재'의 메모-)파티원들이 하는 말이 무슨 뜻인지 몰라서
+32,TEXT_REGSEABEGINNERGUIDEBOOK_00340_GUIDENOTE00340_000_050,"(-'루가딘족 아재'의 메모-)파티원들이 하는 말이 무슨 뜻인지 몰라서
 적당히 맞장구만 친 적은 없는가?
 물어볼 때 창피한 건 한순간이지만, 무식은 평생 간다고!"
-33,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_051","플레이어끼리 대화할 때, 줄임말이나 특수한 용어를
+33,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_051,"플레이어끼리 대화할 때, 줄임말이나 특수한 용어를
 사용하는 경우가 있습니다.
 이 중 대표적인 것을 몇 가지 소개합니다."
-34,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_052","[젠] 적이 새로 출현하는 것. '리젠'이라고도 합니다.
+34,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_052,"[젠] 적이 새로 출현하는 것. '리젠'이라고도 합니다.
 [애드] 싸워야 할 적이 늘어나는 것.
 [풀링] 먼 곳에 있는 적을 파티 근처로 유인하는 것."
-35,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_053","[적개심(어그로)] 이것이 높아지면 적의 공격 대상이 됩니다.
+35,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_053,"[적개심(어그로)] 이것이 높아지면 적의 공격 대상이 됩니다.
 [버프(강화 효과)] 각종 능력이 상승하는 효과.
 [디버프(약화 효과)] 강화 효과의 반대로 능력이 떨어지는 효과."
-36,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_054","[도트] 지속 피해. Damage Over Time의 줄임말.
+36,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_054,"[도트] 지속 피해. Damage Over Time의 줄임말.
 [장판(바닥)] 범위 공격."
-37,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_055","예로 든 것 외에도 많은 용어나 줄임말이 있습니다.
+37,TEXT_REGSEABEGINNERGUIDEBOOK_00340_SYSTEM_000_055,"예로 든 것 외에도 많은 용어나 줄임말이 있습니다.
 모르는 것이 있으면 '멘토'에게 물어보세요."
-38,"TEXT_REGSEABEGINNERGUIDEBOOK_00340_TALK_ACTOR","（★未使用／削除予定★）"
+38,TEXT_REGSEABEGINNERGUIDEBOOK_00340_TALK_ACTOR,（★未使用／削除予定★）

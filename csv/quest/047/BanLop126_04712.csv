@@ -1,119 +1,117 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANLOP126_04712_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANLOP126_04712_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 희망찬 화물실에 있는 매니징웨이는 예술의 투쟁에 대해 골몰히 생각하고 있는 듯하다."
-1,"TEXT_BANLOP126_04712_SEQ_01","베스트웨이 피난처에 있는 이글이글 레포릿과 대화"
-2,"TEXT_BANLOP126_04712_SEQ_02","이글이글 레포릿에게 의뢰받은 물품 납품"
-3,"TEXT_BANLOP126_04712_SEQ_03","매니징웨이에게 보고"
-4,"TEXT_BANLOP126_04712_SEQ_04",""
-5,"TEXT_BANLOP126_04712_SEQ_05",""
-6,"TEXT_BANLOP126_04712_SEQ_06",""
-7,"TEXT_BANLOP126_04712_SEQ_07",""
-8,"TEXT_BANLOP126_04712_SEQ_08",""
-9,"TEXT_BANLOP126_04712_SEQ_09",""
-10,"TEXT_BANLOP126_04712_SEQ_10",""
-11,"TEXT_BANLOP126_04712_SEQ_11",""
-12,"TEXT_BANLOP126_04712_SEQ_12",""
-13,"TEXT_BANLOP126_04712_SEQ_13",""
-14,"TEXT_BANLOP126_04712_SEQ_14",""
-15,"TEXT_BANLOP126_04712_SEQ_15",""
-16,"TEXT_BANLOP126_04712_SEQ_16",""
-17,"TEXT_BANLOP126_04712_SEQ_17",""
-18,"TEXT_BANLOP126_04712_SEQ_18",""
-19,"TEXT_BANLOP126_04712_SEQ_19",""
-20,"TEXT_BANLOP126_04712_SEQ_20",""
-21,"TEXT_BANLOP126_04712_SEQ_21",""
-22,"TEXT_BANLOP126_04712_SEQ_22",""
-23,"TEXT_BANLOP126_04712_SEQ_23",""
-24,"TEXT_BANLOP126_04712_TODO_00","베스트웨이 피난처에 있는 이글이글 레포릿과 대화"
-25,"TEXT_BANLOP126_04712_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>베스트웨이 피난처에 있는 이글이글 레포릿에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>베스트웨이 피난처에 있는 이글이글 레포릿에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>베스트웨이 피난처에 있는 이글이글 레포릿에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>베스트웨이 피난처에 있는 이글이글 레포릿에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>베스트웨이 피난처에 있는 이글이글 레포릿에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>베스트웨이 피난처에 있는 이글이글 레포릿에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>베스트웨이 피난처에 있는 이글이글 레포릿에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>베스트웨이 피난처에 있는 이글이글 레포릿에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANLOP126_04712_TODO_02","매니징웨이에게 보고"
-27,"TEXT_BANLOP126_04712_TODO_03",""
-28,"TEXT_BANLOP126_04712_TODO_04",""
-29,"TEXT_BANLOP126_04712_TODO_05",""
-30,"TEXT_BANLOP126_04712_TODO_06",""
-31,"TEXT_BANLOP126_04712_TODO_07",""
-32,"TEXT_BANLOP126_04712_TODO_08",""
-33,"TEXT_BANLOP126_04712_TODO_09",""
-34,"TEXT_BANLOP126_04712_TODO_10",""
-35,"TEXT_BANLOP126_04712_TODO_11",""
-36,"TEXT_BANLOP126_04712_TODO_12",""
-37,"TEXT_BANLOP126_04712_TODO_13",""
-38,"TEXT_BANLOP126_04712_TODO_14",""
-39,"TEXT_BANLOP126_04712_TODO_15",""
-40,"TEXT_BANLOP126_04712_TODO_16",""
-41,"TEXT_BANLOP126_04712_TODO_17",""
-42,"TEXT_BANLOP126_04712_TODO_18",""
-43,"TEXT_BANLOP126_04712_TODO_19",""
-44,"TEXT_BANLOP126_04712_TODO_20",""
-45,"TEXT_BANLOP126_04712_TODO_21",""
-46,"TEXT_BANLOP126_04712_TODO_22",""
-47,"TEXT_BANLOP126_04712_TODO_23",""
-48,"TEXT_BANLOP126_04712_MANAGINGWAY_000_000","흐음, 곤란한 일이 생겼어요…….
+1,TEXT_BANLOP126_04712_SEQ_01,베스트웨이 피난처에 있는 이글이글 레포릿과 대화
+2,TEXT_BANLOP126_04712_SEQ_02,이글이글 레포릿에게 의뢰받은 물품 납품
+3,TEXT_BANLOP126_04712_SEQ_03,매니징웨이에게 보고
+4,TEXT_BANLOP126_04712_SEQ_04,
+5,TEXT_BANLOP126_04712_SEQ_05,
+6,TEXT_BANLOP126_04712_SEQ_06,
+7,TEXT_BANLOP126_04712_SEQ_07,
+8,TEXT_BANLOP126_04712_SEQ_08,
+9,TEXT_BANLOP126_04712_SEQ_09,
+10,TEXT_BANLOP126_04712_SEQ_10,
+11,TEXT_BANLOP126_04712_SEQ_11,
+12,TEXT_BANLOP126_04712_SEQ_12,
+13,TEXT_BANLOP126_04712_SEQ_13,
+14,TEXT_BANLOP126_04712_SEQ_14,
+15,TEXT_BANLOP126_04712_SEQ_15,
+16,TEXT_BANLOP126_04712_SEQ_16,
+17,TEXT_BANLOP126_04712_SEQ_17,
+18,TEXT_BANLOP126_04712_SEQ_18,
+19,TEXT_BANLOP126_04712_SEQ_19,
+20,TEXT_BANLOP126_04712_SEQ_20,
+21,TEXT_BANLOP126_04712_SEQ_21,
+22,TEXT_BANLOP126_04712_SEQ_22,
+23,TEXT_BANLOP126_04712_SEQ_23,
+24,TEXT_BANLOP126_04712_TODO_00,베스트웨이 피난처에 있는 이글이글 레포릿과 대화
+25,TEXT_BANLOP126_04712_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANLOP126_04712_TODO_02,매니징웨이에게 보고
+27,TEXT_BANLOP126_04712_TODO_03,
+28,TEXT_BANLOP126_04712_TODO_04,
+29,TEXT_BANLOP126_04712_TODO_05,
+30,TEXT_BANLOP126_04712_TODO_06,
+31,TEXT_BANLOP126_04712_TODO_07,
+32,TEXT_BANLOP126_04712_TODO_08,
+33,TEXT_BANLOP126_04712_TODO_09,
+34,TEXT_BANLOP126_04712_TODO_10,
+35,TEXT_BANLOP126_04712_TODO_11,
+36,TEXT_BANLOP126_04712_TODO_12,
+37,TEXT_BANLOP126_04712_TODO_13,
+38,TEXT_BANLOP126_04712_TODO_14,
+39,TEXT_BANLOP126_04712_TODO_15,
+40,TEXT_BANLOP126_04712_TODO_16,
+41,TEXT_BANLOP126_04712_TODO_17,
+42,TEXT_BANLOP126_04712_TODO_18,
+43,TEXT_BANLOP126_04712_TODO_19,
+44,TEXT_BANLOP126_04712_TODO_20,
+45,TEXT_BANLOP126_04712_TODO_21,
+46,TEXT_BANLOP126_04712_TODO_22,
+47,TEXT_BANLOP126_04712_TODO_23,
+48,TEXT_BANLOP126_04712_MANAGINGWAY_000_000,"흐음, 곤란한 일이 생겼어요…….
 미술 체험관의 활동은 변함없이 잘 되고 있는데요,
 파괴야말로 진정한 예술이라는 과격한 주장을 하는 동료가 있어요."
-49,"TEXT_BANLOP126_04712_MANAGINGWAY_000_001","예술의 본질에 대해 논할 생각은 없지만,
+49,TEXT_BANLOP126_04712_MANAGINGWAY_000_001,"예술의 본질에 대해 논할 생각은 없지만,
 다른 동료들의 작품을 망가뜨리면 절대로 안 되잖아요!"
-50,"TEXT_BANLOP126_04712_MANAGINGWAY_000_002","그래서 모든 것을 파괴하고 싶다는 그의 꿈을
+50,TEXT_BANLOP126_04712_MANAGINGWAY_000_002,"그래서 모든 것을 파괴하고 싶다는 그의 꿈을
 유효하게 활용할 수 있는 방향으로 이끌고 싶어요.
 번식을 멈추지 않는 진화 균류를 향해 분출하도록 하려고요!"
-51,"TEXT_BANLOP126_04712_MANAGINGWAY_000_003","그러면 균류 대항 병기가 필요하겠죠.
+51,TEXT_BANLOP126_04712_MANAGINGWAY_000_003,"그러면 균류 대항 병기가 필요하겠죠.
 이글이글 열정에 불타는 그 파괴 예술가가
 방 밖에서 대기하고 있으니 무기 제작을 부탁드려요!"
-52,"TEXT_BANLOP126_04712_MANAGINGWAY_000_004","아아, <Highlight>ObjectParameter(1)</Highlight> 님…….
+52,TEXT_BANLOP126_04712_MANAGINGWAY_000_004,"아아, Player Player 님…….
 그 파괴 예술가의 위험한 충동이
 다시 또 이글이글 타오르고 있는 것 같아요……!"
-53,"TEXT_BANLOP126_04712_MANAGINGWAY_000_006","이번에도 균류 대항 병기가 필요할 것 같아요.
+53,TEXT_BANLOP126_04712_MANAGINGWAY_000_006,"이번에도 균류 대항 병기가 필요할 것 같아요.
 이글이글 열정에 불타는 그가
 방 밖에서 대기하고 있으니 무기 제작을 부탁드려요!"
-54,"TEXT_BANLOP126_04712_LOPORRIT04712_000_010","동지 <Highlight>ObjectParameter(1)</Highlight>, 와주셨군요!
+54,TEXT_BANLOP126_04712_LOPORRIT04712_000_010,"동지 Player Player, 와주셨군요!
 매니징웨이에게 귀공이 협력해준다는 소식을 듣자마자
 바로 무기를 만들 수 있게 준비해놓고 목 빠지게 기다렸습니다!"
-55,"TEXT_BANLOP126_04712_LOPORRIT04712_000_011","저의 예술 활동에는 파괴 능력이 뛰어난
-'<Sheet(Item,38887,0)/>'<13>FF0F02280BFF054974656DF297E70103FF04EAB080FF04EC9DB4</13> 꼭 필요하니 잘 부탁드립니다!
+55,TEXT_BANLOP126_04712_LOPORRIT04712_000_011,"저의 예술 활동에는 파괴 능력이 뛰어난
+'' 꼭 필요하니 잘 부탁드립니다!
 콰쾅! 균류를 흔적도 없이 날려버릴 거라구요!"
-56,"TEXT_BANLOP126_04712_LOPORRIT04712_000_012","저의 예술 활동에는 파괴 능력이 뛰어난
-'<Sheet(Item,38887,0)/>'<13>FF0F02280BFF054974656DF297E70103FF04EAB080FF04EC9DB4</13> 꼭 필요하니 잘 부탁드립니다!
+56,TEXT_BANLOP126_04712_LOPORRIT04712_000_012,"저의 예술 활동에는 파괴 능력이 뛰어난
+'' 꼭 필요하니 잘 부탁드립니다!
 콰쾅! 균류를 흔적도 없이 날려버릴 거라구요!"
-57,"TEXT_BANLOP126_04712_LOPORRIT04712_000_013","저의 예술 활동에는 파괴 능력이 뛰어난
-'<Sheet(Item,38887,0)/>'<13>FF0F02280BFF054974656DF297E70103FF04EAB080FF04EC9DB4</13> 꼭 필요하니 잘 부탁드립니다!
+57,TEXT_BANLOP126_04712_LOPORRIT04712_000_013,"저의 예술 활동에는 파괴 능력이 뛰어난
+'' 꼭 필요하니 잘 부탁드립니다!
 콰쾅! 균류를 흔적도 없이 날려버릴 거라구요!"
-58,"TEXT_BANLOP126_04712_LOPORRIT04712_000_014","재료가 떨어지면 체험관에 있는 도우미에게 받으세요!
+58,TEXT_BANLOP126_04712_LOPORRIT04712_000_014,"재료가 떨어지면 체험관에 있는 도우미에게 받으세요!
 완성되면 저에게 주시구요~!
 두근두근 콩닥콩닥 예술 타임, 시작입니다~!!"
-59,"TEXT_BANLOP126_04712_SUPPORTER04712_000_015","삐삐삐삐…… 추가 재료 제공을 판정 중……
+59,TEXT_BANLOP126_04712_SUPPORTER04712_000_015,"삐삐삐삐…… 추가 재료 제공을 판정 중……
 ……오류, 현재는 추가할 필요가 없는 것 같습니다."
-60,"TEXT_BANLOP126_04712_SUPPORTER04712_000_016","삐삐삐삐…… 추가 재료 제공을 판정 중……
+60,TEXT_BANLOP126_04712_SUPPORTER04712_000_016,"삐삐삐삐…… 추가 재료 제공을 판정 중……
 ……오류, 현재는 추가할 필요가 없는 것 같습니다."
-61,"TEXT_BANLOP126_04712_SUPPORTER04712_000_017","삐삐삐삐…… 추가 재료 제공을 판정 중……
+61,TEXT_BANLOP126_04712_SUPPORTER04712_000_017,"삐삐삐삐…… 추가 재료 제공을 판정 중……
 ……오류, 현재는 추가할 필요가 없는 것 같습니다."
-62,"TEXT_BANLOP126_04712_SUPPORTER04712_000_018","삐삐삐삐…… 재료 소지 상태 판정 중……
+62,TEXT_BANLOP126_04712_SUPPORTER04712_000_018,"삐삐삐삐…… 재료 소지 상태 판정 중……
 소지하고 있지 않음을 확인하였습니다.
 이 재료를 써서 예술을 실현해주세요."
-63,"TEXT_BANLOP126_04712_SUPPORTER04712_000_019","삐삐삐삐…… 재료 소지 상태 판정 중……
+63,TEXT_BANLOP126_04712_SUPPORTER04712_000_019,"삐삐삐삐…… 재료 소지 상태 판정 중……
 소지하고 있지 않음을 확인하였습니다.
 이 재료를 써서 예술을 실현해주세요."
-64,"TEXT_BANLOP126_04712_SUPPORTER04712_000_020","삐삐삐삐…… 재료 소지 상태를 판정 중……
+64,TEXT_BANLOP126_04712_SUPPORTER04712_000_020,"삐삐삐삐…… 재료 소지 상태를 판정 중……
 소지하고 있지 않음을 확인하였습니다.
 이 재료를 써서 예술을 실현해주세요."
-65,"TEXT_BANLOP126_04712_LOPORRIT04712_000_025","부탁드렸던 '<Sheet(Item,38887,0)/>'<13>FF0F02280BFF054974656DF297E70103FF04EB8A94FF04EC9D80</13>
+65,TEXT_BANLOP126_04712_LOPORRIT04712_000_025,"부탁드렸던 ''
 준비해주셨나요~?"
-66,"TEXT_BANLOP126_04712_LOPORRIT04712_000_026","우오오…… 이거야, 바로 이거!
-역시 동지 <Highlight>ObjectParameter(1)</Highlight>입니다!!
+66,TEXT_BANLOP126_04712_LOPORRIT04712_000_026,"우오오…… 이거야, 바로 이거!
+역시 동지 Player Player입니다!!
 엄청난 예술의 투혼이 불타오를 것 같습니다!"
-67,"TEXT_BANLOP126_04712_LOPORRIT04712_000_027","그 진화 균류 놈들에게 딱히 악감정은 없지만,
+67,TEXT_BANLOP126_04712_LOPORRIT04712_000_027,"그 진화 균류 놈들에게 딱히 악감정은 없지만,
 이걸로 녀석들을 가루로 만들어버리겠습니다!
 포자 한 알까지 모조리 폭발, 멸종시키겠다!!!"
-68,"TEXT_BANLOP126_04712_MANAGINGWAY_000_030","자칭 파괴 예술가를 도와주셨군요.
+68,TEXT_BANLOP126_04712_MANAGINGWAY_000_030,"자칭 파괴 예술가를 도와주셨군요.
 무사히 진화 균류 번식 구역의 일부를 폭파해
 동료들의 작품은 부수지 않고 잘 해결됐다는 보고를 받았어요."
-69,"TEXT_BANLOP126_04712_MANAGINGWAY_000_031","아이테리스의 어떤 예술가는
+69,TEXT_BANLOP126_04712_MANAGINGWAY_000_031,"아이테리스의 어떤 예술가는
 예술로 에너지를 승화시키는 것을 폭발에 비유했다고 해요.
 그 아이는 그것에 강한 영향을 받았나 봐요."
-70,"TEXT_BANLOP126_04712_MANAGINGWAY_000_032","아무튼 위험한 진화 균류를 모조리 없애버렸으니
+70,TEXT_BANLOP126_04712_MANAGINGWAY_000_032,"아무튼 위험한 진화 균류를 모조리 없애버렸으니
 그 예술 스타일도 나쁘지는 않군요.
 그에게 파괴 충동이 다시 생긴다면 또 힘을 빌려주세요."
-71,"TEXT_BANLOP126_04712_SUPPORTER04712_000_005","（★未使用／削除予定★）"
+71,TEXT_BANLOP126_04712_SUPPORTER04712_000_005,（★未使用／削除予定★）

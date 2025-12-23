@@ -1,33 +1,31 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY1","개인용 토지를 구매하려면 구매 비용이 필요하며
+#,Unknown0,Unknown1
+0,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY1,"개인용 토지를 구매하려면 구매 비용이 필요하며
 하나 이상의 클래스가 레벨 50에 도달해야 합니다."
-1,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY2","또한 소속된 총사령부 내 계급이 '소위' 이상이어야 합니다."
-2,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_OPENED","현재, '시로가네'는 선행 공개 기간입니다.
+1,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY2,또한 소속된 총사령부 내 계급이 '소위' 이상이어야 합니다.
+2,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_OPENED,"현재, '시로가네'는 선행 공개 기간입니다.
 토지 판매가 시작될 때까지 잠시만 기다려 주십시오."
-3,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_ARROWED_TO_BUY","'시로가네'의 토지를 구입하기 위해서는
+3,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_ARROWED_TO_BUY,"'시로가네'의 토지를 구입하기 위해서는
 주요 퀘스트 '대양으로 출정하다'를
 완료해야 합니다."
-4,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_OPENED","현재 '지고천 거리'는 선행 공개 기간입니다.
+4,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_OPENED,"현재 '지고천 거리'는 선행 공개 기간입니다.
 토지 판매가 시작될 때까지 당분간 기다려 주십시오."
-5,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_ARROWED_TO_BUY","'지고천 거리'의 토지를 구입하기 위해서는
+5,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_ARROWED_TO_BUY,"'지고천 거리'의 토지를 구입하기 위해서는
 '주요 퀘스트: 창천의 이슈가르드' 중
 '최후의 포효'를 완료해야 합니다."
-6,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED","<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지 추첨에 참가했습니다.
-추첨번호는 <Value>IntegerParameter(4)</Value>번입니다.
-결과는 <Time(IntegerParameter(5))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue> 이후에 확인할 수 있습니다."
-7,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED_2","또한 주 메뉴 '임무 정보 목록'의
+6,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED," UNKNOWN구 UNKNOWN번지 추첨에 참가했습니다.
+추첨번호는 UNKNOWN번입니다.
+결과는 2013/8/27 8:00 이후에 확인할 수 있습니다."
+7,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED_2,"또한 주 메뉴 '임무 정보 목록'의
 '하우징' 탭에서
 신청한 토지, 추첨번호, 토지 용도를 확인할 수 있습니다."
-8,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL","길이 반환된 경우, 소지금이 보유 한도를 초과하기 때문에
+8,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL,"길이 반환된 경우, 소지금이 보유 한도를 초과하기 때문에
 반환되지 않았습니다.
 소지금을 줄인 후 다시 시도하십시오."
-9,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE","다른 토지의 추첨에 참가 중입니다.
+9,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE,"다른 토지의 추첨에 참가 중입니다.
 응모한 토지의 간판에서
 결과를 확인해 주십시오.
 
-<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ 추첨에 참가 중인 토지
-　<Sheet(PlaceName,<Sheet(TerritoryType,IntegerParameter(1),5)/>,0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+**※ 추첨에 참가 중인 토지
+　 UNKNOWN구 UNKNOWN번지**
 "
-10,"TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE_OK","확인"
+10,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE_OK,확인

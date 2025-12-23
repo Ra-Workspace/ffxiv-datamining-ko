@@ -1,196 +1,193 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_LUCKHT013_03894_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙： 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_LUCKHT013_03894_SEQ_00,"**특수 규칙： 직업 고정**
 하늘강철 기공방 근처에 있는 나이미는 '하늘강철 도구'를 더 개량하고 싶은 듯하다."
-1,"TEXT_LUCKHT013_03894_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+1,TEXT_LUCKHT013_03894_SEQ_01,"※ 이 퀘스트에는 ** 직업 고정**이 적용됩니다.
    퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
 
 
 '하늘강철 도구'의 개량에 필요한 부품은 하늘강철 기공방의 '데니스'에게 재료를 건네주면 준비해준다고 한다. 하늘강철 기공방 근처에 있는 '나이미'에게 소지품 또는 장비함에 넣은 '하늘강철 도구'와 부품을 주고 다음 단계로 개량해 달라고 하자."
-2,"TEXT_LUCKHT013_03894_SEQ_02","'하늘강철 도구'의 개량이 '5단계'에 도달했다. 더 개량할 수 있게 될 때까지 개량한 도구로 작업 및 부흥 사업을 하도록 하자."
-3,"TEXT_LUCKHT013_03894_SEQ_03",""
-4,"TEXT_LUCKHT013_03894_SEQ_04",""
-5,"TEXT_LUCKHT013_03894_SEQ_05",""
-6,"TEXT_LUCKHT013_03894_SEQ_06",""
-7,"TEXT_LUCKHT013_03894_SEQ_07",""
-8,"TEXT_LUCKHT013_03894_SEQ_08",""
-9,"TEXT_LUCKHT013_03894_SEQ_09",""
-10,"TEXT_LUCKHT013_03894_SEQ_10",""
-11,"TEXT_LUCKHT013_03894_SEQ_11",""
-12,"TEXT_LUCKHT013_03894_SEQ_12",""
-13,"TEXT_LUCKHT013_03894_SEQ_13",""
-14,"TEXT_LUCKHT013_03894_SEQ_14",""
-15,"TEXT_LUCKHT013_03894_SEQ_15",""
-16,"TEXT_LUCKHT013_03894_SEQ_16",""
-17,"TEXT_LUCKHT013_03894_SEQ_17",""
-18,"TEXT_LUCKHT013_03894_SEQ_18",""
-19,"TEXT_LUCKHT013_03894_SEQ_19",""
-20,"TEXT_LUCKHT013_03894_SEQ_20",""
-21,"TEXT_LUCKHT013_03894_SEQ_21",""
-22,"TEXT_LUCKHT013_03894_SEQ_22",""
-23,"TEXT_LUCKHT013_03894_SEQ_23",""
-24,"TEXT_LUCKHT013_03894_TODO_00","<If(Equal(IntegerParameter(4),8))><Sheet(Item,30282,0)/><13>FF0F02280BFF054974656DF2764A0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),9))><Sheet(Item,30283,0)/><13>FF0F02280BFF054974656DF2764B0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),10))><Sheet(Item,30284,0)/><13>FF0F02280BFF054974656DF2764C0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),11))><Sheet(Item,30285,0)/><13>FF0F02280BFF054974656DF2764D0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),12))><Sheet(Item,30286,0)/><13>FF0F02280BFF054974656DF2764E0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),13))><Sheet(Item,30287,0)/><13>FF0F02280BFF054974656DF2764F0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),14))><Sheet(Item,30288,0)/><13>FF0F02280BFF054974656DF276500103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),15))><Sheet(Item,30289,0)/><13>FF0F02280BFF054974656DF276510103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),16))><Sheet(Item,30291,0)/><13>FF0F02280BFF054974656DF276530103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),17))><Sheet(Item,30290,0)/><13>FF0F02280BFF054974656DF276520103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),18))><Sheet(Item,30292,0)/><13>FF0F02280BFF054974656DF276540103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If></If></If></If> 장비에서 해제하고 소지품에 보유한 상태로
-<If(Equal(IntegerParameter(4),8))><Sheet(Item,30316,0)/><13>FF0F02280BFF054974656DF2766C0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>105개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),9))><Sheet(Item,30318,0)/><13>FF0F02280BFF054974656DF2766E0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>105개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),10))><Sheet(Item,30320,0)/><13>FF0F02280BFF054974656DF276700103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>105개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>모아서<Else/><If(Equal(IntegerParameter(4),11))><Sheet(Item,30322,0)/><13>FF0F02280BFF054974656DF276720103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>105개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),12))><Sheet(Item,30324,0)/><13>FF0F02280BFF054974656DF276740103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>105개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),13))><Sheet(Item,30326,0)/><13>FF0F02280BFF054974656DF276760103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>105개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),14))><Sheet(Item,30328,0)/><13>FF0F02280BFF054974656DF276780103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>105개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),15))><Sheet(Item,30330,0)/><13>FF0F02280BFF054974656DF2767A0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>105개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/><If(Equal(IntegerParameter(4),16))><Sheet(Item,30337,0)/><13>FF0F02280BFF054974656DF276810103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와<Else/><If(Equal(IntegerParameter(4),17))><Sheet(Item,30333,0)/><13>FF0F02280BFF054974656DF2767D0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>60개<UIGlow>01</UIGlow><UIForeground>01</UIForeground>와<Else/><If(Equal(IntegerParameter(4),18))><Sheet(Item,30340,0)/><13>FF0F02280BFF054974656DF276840103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>7개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서<Else/></If></If></If></If></If></If></If></If></If></If></If>
-<If(Equal(IntegerParameter(4),16))><Sheet(Item,31133,0)/><13>FF0F02280BFF054974656DF2799D0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>200개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서
-<Else/><If(Equal(IntegerParameter(4),17))><Sheet(Item,31131,0)/><13>FF0F02280BFF054974656DF2799B0103FF04EBA5BCFF04EC9D84</13> <UIForeground>F2023B</UIForeground><UIGlow>F2023C</UIGlow>200개<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 모아서
-<Else/></If></If>하늘강철 기공방 근처에 있는 나이미에게 전달"
-25,"TEXT_LUCKHT013_03894_TODO_01",""
-26,"TEXT_LUCKHT013_03894_TODO_02",""
-27,"TEXT_LUCKHT013_03894_TODO_03",""
-28,"TEXT_LUCKHT013_03894_TODO_04",""
-29,"TEXT_LUCKHT013_03894_TODO_05",""
-30,"TEXT_LUCKHT013_03894_TODO_06",""
-31,"TEXT_LUCKHT013_03894_TODO_07",""
-32,"TEXT_LUCKHT013_03894_TODO_08",""
-33,"TEXT_LUCKHT013_03894_TODO_09",""
-34,"TEXT_LUCKHT013_03894_TODO_10",""
-35,"TEXT_LUCKHT013_03894_TODO_11",""
-36,"TEXT_LUCKHT013_03894_TODO_12",""
-37,"TEXT_LUCKHT013_03894_TODO_13",""
-38,"TEXT_LUCKHT013_03894_TODO_14",""
-39,"TEXT_LUCKHT013_03894_TODO_15",""
-40,"TEXT_LUCKHT013_03894_TODO_16",""
-41,"TEXT_LUCKHT013_03894_TODO_17",""
-42,"TEXT_LUCKHT013_03894_TODO_18",""
-43,"TEXT_LUCKHT013_03894_TODO_19",""
-44,"TEXT_LUCKHT013_03894_TODO_20",""
-45,"TEXT_LUCKHT013_03894_TODO_21",""
-46,"TEXT_LUCKHT013_03894_TODO_22",""
-47,"TEXT_LUCKHT013_03894_TODO_23",""
-48,"TEXT_LUCKHT013_03894_SYSTEM_100_000","퀘스트 '더 좋은 장인 도구'에서 획득할 수 있는 주 도구는
-현재 클래스인 '<Sheet(ClassJob,PlayerParameter(68),0)/>' 전용 하늘강철 도구입니다.
-'더 좋은 장인 도구'를 '<Sheet(ClassJob,PlayerParameter(68),0)/>'<14>FF1202280EFF09436C6173734A6F62E9450103FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
-49,"TEXT_LUCKHT013_03894_Q1_000_000","<Sheet(ClassJob,PlayerParameter(68),0)/> 전용 하늘강철 도구를 개량하시겠습니까?"
-50,"TEXT_LUCKHT013_03894_A1_000_000","조금 더 고민해 본다"
-51,"TEXT_LUCKHT013_03894_A2_000_000","<Sheet(ClassJob,PlayerParameter(68),0)/> 전용 하늘강철 도구를 개량한다"
-52,"TEXT_LUCKHT013_03894_SYSTEM_100_001","현재 클래스로 퀘스트 '더 좋은 장인 도구'를 수락하면
+2,TEXT_LUCKHT013_03894_SEQ_02,'하늘강철 도구'의 개량이 '5단계'에 도달했다. 더 개량할 수 있게 될 때까지 개량한 도구로 작업 및 부흥 사업을 하도록 하자.
+3,TEXT_LUCKHT013_03894_SEQ_03,
+4,TEXT_LUCKHT013_03894_SEQ_04,
+5,TEXT_LUCKHT013_03894_SEQ_05,
+6,TEXT_LUCKHT013_03894_SEQ_06,
+7,TEXT_LUCKHT013_03894_SEQ_07,
+8,TEXT_LUCKHT013_03894_SEQ_08,
+9,TEXT_LUCKHT013_03894_SEQ_09,
+10,TEXT_LUCKHT013_03894_SEQ_10,
+11,TEXT_LUCKHT013_03894_SEQ_11,
+12,TEXT_LUCKHT013_03894_SEQ_12,
+13,TEXT_LUCKHT013_03894_SEQ_13,
+14,TEXT_LUCKHT013_03894_SEQ_14,
+15,TEXT_LUCKHT013_03894_SEQ_15,
+16,TEXT_LUCKHT013_03894_SEQ_16,
+17,TEXT_LUCKHT013_03894_SEQ_17,
+18,TEXT_LUCKHT013_03894_SEQ_18,
+19,TEXT_LUCKHT013_03894_SEQ_19,
+20,TEXT_LUCKHT013_03894_SEQ_20,
+21,TEXT_LUCKHT013_03894_SEQ_21,
+22,TEXT_LUCKHT013_03894_SEQ_22,
+23,TEXT_LUCKHT013_03894_SEQ_23,
+24,TEXT_LUCKHT013_03894_TODO_00," 장비에서 해제하고 소지품에 보유한 상태로
+ **105개** 모아서
+ **200개** 모아서
+하늘강철 기공방 근처에 있는 나이미에게 전달"
+25,TEXT_LUCKHT013_03894_TODO_01,
+26,TEXT_LUCKHT013_03894_TODO_02,
+27,TEXT_LUCKHT013_03894_TODO_03,
+28,TEXT_LUCKHT013_03894_TODO_04,
+29,TEXT_LUCKHT013_03894_TODO_05,
+30,TEXT_LUCKHT013_03894_TODO_06,
+31,TEXT_LUCKHT013_03894_TODO_07,
+32,TEXT_LUCKHT013_03894_TODO_08,
+33,TEXT_LUCKHT013_03894_TODO_09,
+34,TEXT_LUCKHT013_03894_TODO_10,
+35,TEXT_LUCKHT013_03894_TODO_11,
+36,TEXT_LUCKHT013_03894_TODO_12,
+37,TEXT_LUCKHT013_03894_TODO_13,
+38,TEXT_LUCKHT013_03894_TODO_14,
+39,TEXT_LUCKHT013_03894_TODO_15,
+40,TEXT_LUCKHT013_03894_TODO_16,
+41,TEXT_LUCKHT013_03894_TODO_17,
+42,TEXT_LUCKHT013_03894_TODO_18,
+43,TEXT_LUCKHT013_03894_TODO_19,
+44,TEXT_LUCKHT013_03894_TODO_20,
+45,TEXT_LUCKHT013_03894_TODO_21,
+46,TEXT_LUCKHT013_03894_TODO_22,
+47,TEXT_LUCKHT013_03894_TODO_23,
+48,TEXT_LUCKHT013_03894_SYSTEM_100_000,"퀘스트 '더 좋은 장인 도구'에서 획득할 수 있는 주 도구는
+현재 클래스인 '' 전용 하늘강철 도구입니다.
+'더 좋은 장인 도구'를 '' 수락하시겠습니까?"
+49,TEXT_LUCKHT013_03894_Q1_000_000, 전용 하늘강철 도구를 개량하시겠습니까?
+50,TEXT_LUCKHT013_03894_A1_000_000,조금 더 고민해 본다
+51,TEXT_LUCKHT013_03894_A2_000_000, 전용 하늘강철 도구를 개량한다
+52,TEXT_LUCKHT013_03894_SYSTEM_100_001,"현재 클래스로 퀘스트 '더 좋은 장인 도구'를 수락하면
 퀘스트를 완료하거나 포기할 때까지
 다른 클래스로 '더 좋은 장인 도구'를 수락할 수 없습니다."
-53,"TEXT_LUCKHT013_03894_SYSTEM_100_002","개량하고 싶은 하늘강철 도구에 맞는 클래스로 변경한 뒤
+53,TEXT_LUCKHT013_03894_SYSTEM_100_002,"개량하고 싶은 하늘강철 도구에 맞는 클래스로 변경한 뒤
 다시 나이미에게 말을 걸어주십시오."
-54,"TEXT_LUCKHT013_03894_SYSTEM_000_003","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
+54,TEXT_LUCKHT013_03894_SYSTEM_000_003,"''
 소지 또는 장비하지 않으면
 퀘스트 '더 좋은 장인 도구'를 수락할 수 없습니다."
-55,"TEXT_LUCKHT013_03894_SYSTEM_000_004","이미 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
+55,TEXT_LUCKHT013_03894_SYSTEM_000_004,"이미 '' 획득했습니다.
 다른 클래스로 변경한 후 다시 나이미에게 말을 거십시오."
-56,"TEXT_LUCKHT013_03894_NIMIE_000_000","드디어 5단계 개량…….
+56,TEXT_LUCKHT013_03894_NIMIE_000_000,"드디어 5단계 개량…….
 이번에도 부품 재료를 구하는 일부터 시작하자."
-57,"TEXT_LUCKHT013_03894_NIMIE_000_001","어머…… 또 '하늘강철 도구'를 개량하려고?
+57,TEXT_LUCKHT013_03894_NIMIE_000_001,"어머…… 또 '하늘강철 도구'를 개량하려고?
 후훗, 몸이 근질거리기도 하겠지.
 이번에도 부품 재료를 구하는 일부터 시작하자."
-58,"TEXT_LUCKHT013_03894_NIMIE_000_002","（★未使用／削除予定★）"
-59,"TEXT_LUCKHT013_03894_NIMIE_100_002","이번에 필요한 건
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC95BCFF07EC9DB4EC95BC</13>."
-60,"TEXT_LUCKHT013_03894_NIMIE_110_002","이번에 필요한 건
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EC95BCFF07EC9DB4EC95BC</13>."
-61,"TEXT_LUCKHT013_03894_NEILLEMARD_000_003","순서는 지난번과 같아.
+58,TEXT_LUCKHT013_03894_NIMIE_000_002,（★未使用／削除予定★）
+59,TEXT_LUCKHT013_03894_NIMIE_100_002,"이번에 필요한 건
+''."
+60,TEXT_LUCKHT013_03894_NIMIE_110_002,"이번에 필요한 건
+''
+''."
+61,TEXT_LUCKHT013_03894_NEILLEMARD_000_003,"순서는 지난번과 같아.
 일단 넌 '하늘강철 도구'를 사용해서
 재료를 구해다 줬으면 해."
-62,"TEXT_LUCKHT013_03894_NEILLEMARD_000_004","구해온 재료를 공방에 있는 '데니스'에게 주면
+62,TEXT_LUCKHT013_03894_NEILLEMARD_000_004,"구해온 재료를 공방에 있는 '데니스'에게 주면
 이번에도 개량에 필요한 부품을 준비해줄 거야.
 잘 모르겠는 부분이 있다면 나에게 물어봐."
-63,"TEXT_LUCKHT013_03894_NIMIE_000_005","계속해서 개량 작업은 내가 담당할게.
+63,TEXT_LUCKHT013_03894_NIMIE_000_005,"계속해서 개량 작업은 내가 담당할게.
 필요한 것을 다 모으면 '하늘강철 도구'와 함께
 나에게 갖고 오면 돼."
-64,"TEXT_LUCKHT013_03894_SYSTEM_000_020","하늘강철 기공방 근처에 있는 '나이미'에게
+64,TEXT_LUCKHT013_03894_SYSTEM_000_020,"하늘강철 기공방 근처에 있는 '나이미'에게
 주 도구와 개량에 필요한 재료를 건네면
 개량된 도구를 획득할 수 있습니다."
-65,"TEXT_LUCKHT013_03894_SYSTEM_000_021","주 도구를 개량하기 위해서 필요한 부품은
+65,TEXT_LUCKHT013_03894_SYSTEM_000_021,"주 도구를 개량하기 위해서 필요한 부품은
 하늘강철 기공방에 있는 '데니스'에게
 재료를 건네면 입수할 수 있습니다."
-66,"TEXT_LUCKHT013_03894_SYSTEM_000_022","부품 교환에 필요한 재료는
+66,TEXT_LUCKHT013_03894_SYSTEM_000_022,"부품 교환에 필요한 재료는
 제작수첩의 '특수 제작법'에서 '부가 퀘스트'를 선택하면 보이는
 '하늘강철 도구' 항목을 선택하면 제작할 수 있습니다."
-67,"TEXT_LUCKHT013_03894_SYSTEM_000_023","또한 재료를 제작할 때에는
+67,TEXT_LUCKHT013_03894_SYSTEM_000_023,"또한 재료를 제작할 때에는
 '하늘강철 도구'를 장비해야 합니다.
 재료 중 일부는 '화폐' 및 '창천 거리 진흥권'으로 입수할 수 있습니다."
-68,"TEXT_LUCKHT013_03894_SYSTEM_000_024","（★未使用／削除予定★）"
-69,"TEXT_LUCKHT013_03894_SYSTEM_000_025","부품 교환과 주 도구 개량에 필요한 재료는
+68,TEXT_LUCKHT013_03894_SYSTEM_000_024,（★未使用／削除予定★）
+69,TEXT_LUCKHT013_03894_SYSTEM_000_025,"부품 교환과 주 도구 개량에 필요한 재료는
 채집수첩의 '하늘강철 도구'의 항목을 선택하면
 채집 장소를 확인할 수 있습니다."
-70,"TEXT_LUCKHT013_03894_SYSTEM_000_026","또한 재료를 채집할 때에는
+70,TEXT_LUCKHT013_03894_SYSTEM_000_026,"또한 재료를 채집할 때에는
 '하늘강철 도구'를 장비해야 합니다."
-71,"TEXT_LUCKHT013_03894_SYSTEM_000_027","부품 교환에 필요한 재료는
+71,TEXT_LUCKHT013_03894_SYSTEM_000_027,"부품 교환에 필요한 재료는
 전용 미끼가 필요합니다.
 미끼도 마찬가지로 '데니스'를 통해 입수할 수 있습니다."
-72,"TEXT_LUCKHT013_03894_SYSTEM_000_028","또한 재료를 낚을 때에는
+72,TEXT_LUCKHT013_03894_SYSTEM_000_028,"또한 재료를 낚을 때에는
 '하늘강철 도구'를 장비해야 합니다."
-73,"TEXT_LUCKHT013_03894_SYSTEM_200_029","이 퀘스트를 완료할 때에는
+73,TEXT_LUCKHT013_03894_SYSTEM_200_029,"이 퀘스트를 완료할 때에는
 개량할 '하늘강철 도구'를 장비하지 말고
 소지품 또는 장비함에 넣어 주세요."
-74,"TEXT_LUCKHT013_03894_NEILLEMARD_000_006","재료를 구할 때에는
+74,TEXT_LUCKHT013_03894_NEILLEMARD_000_006,"재료를 구할 때에는
 반드시 '하늘강철 도구'를 사용하도록 해."
-75,"TEXT_LUCKHT013_03894_NEILLEMARD_000_007","구해온 재료를 공방에 있는 '데니스'에게 건네면
+75,TEXT_LUCKHT013_03894_NEILLEMARD_000_007,"구해온 재료를 공방에 있는 '데니스'에게 건네면
 부품을 준비해주기로 되어 있어.
 만약 순서를 모르겠으면 나에게 말을 걸어줘."
-76,"TEXT_LUCKHT013_03894_SYSTEM_000_030","하늘강철 기공방 근처에 있는 '나이미'에게
+76,TEXT_LUCKHT013_03894_SYSTEM_000_030,"하늘강철 기공방 근처에 있는 '나이미'에게
 주 도구의 개량에 필요한 재료를 건네면
 개량된 도구를 획득할 수 있습니다."
-77,"TEXT_LUCKHT013_03894_SYSTEM_000_031","주 도구를 개량하기 위해서 필요한 부품은
+77,TEXT_LUCKHT013_03894_SYSTEM_000_031,"주 도구를 개량하기 위해서 필요한 부품은
 하늘강철 기공방에 있는 '데니스'에게
 재료를 건네면 입수할 수 있습니다."
-78,"TEXT_LUCKHT013_03894_SYSTEM_000_032","부품 교환에 필요한 재료는
+78,TEXT_LUCKHT013_03894_SYSTEM_000_032,"부품 교환에 필요한 재료는
 제작수첩의 '특수 제작법'에서 '부가 퀘스트'를 선택하면 보이는
 '하늘강철 도구' 항목을 선택하면 제작할 수 있습니다."
-79,"TEXT_LUCKHT013_03894_SYSTEM_000_033","또한 재료를 제작할 때에는
+79,TEXT_LUCKHT013_03894_SYSTEM_000_033,"또한 재료를 제작할 때에는
 '하늘강철 도구'를 장비해야 합니다.
 재료 중 일부는 '화폐' 및 '창천 거리 진흥권'으로 입수할 수 있습니다."
-80,"TEXT_LUCKHT013_03894_SYSTEM_000_034","（★未使用／削除予定★）"
-81,"TEXT_LUCKHT013_03894_SYSTEM_000_035","부품 교환과 주 도구 개량에 필요한 재료는
+80,TEXT_LUCKHT013_03894_SYSTEM_000_034,（★未使用／削除予定★）
+81,TEXT_LUCKHT013_03894_SYSTEM_000_035,"부품 교환과 주 도구 개량에 필요한 재료는
 채집수첩의 '하늘강철 도구'의 항목을 선택하면
 채집 장소를 확인할 수 있습니다."
-82,"TEXT_LUCKHT013_03894_SYSTEM_000_036","또한 재료를 채집할 때에는
+82,TEXT_LUCKHT013_03894_SYSTEM_000_036,"또한 재료를 채집할 때에는
 '하늘강철 도구'를 장비해야 합니다."
-83,"TEXT_LUCKHT013_03894_SYSTEM_000_037","부품 교환에 필요한 재료는
+83,TEXT_LUCKHT013_03894_SYSTEM_000_037,"부품 교환에 필요한 재료는
 전용 미끼가 필요합니다.
 미끼도 마찬가지로 '데니스'를 통해 입수할 수 있습니다."
-84,"TEXT_LUCKHT013_03894_SYSTEM_000_038","또한 재료를 낚을 때에는
+84,TEXT_LUCKHT013_03894_SYSTEM_000_038,"또한 재료를 낚을 때에는
 '하늘강철 도구'를 장비해야 합니다."
-85,"TEXT_LUCKHT013_03894_SYSTEM_200_039","이 퀘스트를 완료할 때에는
+85,TEXT_LUCKHT013_03894_SYSTEM_200_039,"이 퀘스트를 완료할 때에는
 개량할 '하늘강철 도구'를 장비하지 말고
 소지품 또는 장비함에 넣어 주세요."
-86,"TEXT_LUCKHT013_03894_NIMIE_100_010","이번에도 부품을 모두 구해다 줘서 고마워.
+86,TEXT_LUCKHT013_03894_NIMIE_100_010,"이번에도 부품을 모두 구해다 줘서 고마워.
 그럼 지금 바로 당신의 '하늘강철 도구'와
 부품을 나에게 줘……."
-87,"TEXT_LUCKHT013_03894_NIMIE_000_010","필요한 건 정확히 다 있네.
+87,TEXT_LUCKHT013_03894_NIMIE_000_010,"필요한 건 정확히 다 있네.
 이제 내게 맡겨…… 5단계 개량을 할게.
 작업이 끝날 때까지 여기서 조금만 기다려줘……."
-88,"TEXT_LUCKHT013_03894_DENYSE_000_011","안녕, 수고가 많아!
+88,TEXT_LUCKHT013_03894_DENYSE_000_011,"안녕, 수고가 많아!
 개량 작업이 무사히 진행되고 있는데,
 왜 표정이 썩 달갑지가 않은 거야, 네유마르?"
-89,"TEXT_LUCKHT013_03894_NEILLEMARD_000_012","……모두가 협력해준 덕분에 5단계 개량에 접어들었어.
+89,TEXT_LUCKHT013_03894_NEILLEMARD_000_012,"……모두가 협력해준 덕분에 5단계 개량에 접어들었어.
 사실 조금 더 개량의 여지는 있을 것 같긴 한데,
 한계가 보이기 시작한 거나 마찬가지라 좀 고민이 돼서."
-90,"TEXT_LUCKHT013_03894_DENYSE_000_013","그래, 그렇긴 해…….
+90,TEXT_LUCKHT013_03894_DENYSE_000_013,"그래, 그렇긴 해…….
 개량을 거듭하면서 더 강해지기도 했지만,
 도구 자체는 '기본형'이었던 터라 부하를 많이 받고 있을 거야."
-91,"TEXT_LUCKHT013_03894_DENYSE_000_014","개량된 '하늘강철 도구'는 섬세하거든. 나이미의 작업을
+91,TEXT_LUCKHT013_03894_DENYSE_000_014,"개량된 '하늘강철 도구'는 섬세하거든. 나이미의 작업을
 살짝 봤는데, 상당히 신경 써서 해야 하는 작업이더라.
 개량을 계속한다면 솔직히 심장에 안 좋을 거야."
-92,"TEXT_LUCKHT013_03894_NEILLEMARD_000_015","어쨌든 설계도가 있는 건 현 상황에선 5단계까지야.
+92,TEXT_LUCKHT013_03894_NEILLEMARD_000_015,"어쨌든 설계도가 있는 건 현 상황에선 5단계까지야.
 앞으로는 어떻게 네 '하늘강철 도구'의 성능을 높일 수 있을지
 조금 생각할 시간을 주겠어?"
-93,"TEXT_LUCKHT013_03894_NEILLEMARD_000_016","고마워!
+93,TEXT_LUCKHT013_03894_NEILLEMARD_000_016,"고마워!
 네 '하늘강철 도구'의 성능을
 한계까지 끌어올릴 수 있도록 여러 방법을 검토해볼게."
-94,"TEXT_LUCKHT013_03894_DENYSE_000_017","아, 그래!
+94,TEXT_LUCKHT013_03894_DENYSE_000_017,"아, 그래!
 네가 알아두면 좋을 정보가 있어."
-95,"TEXT_LUCKHT013_03894_DENYSE_000_018","사실은 '하늘강철 도구'의 모조품을 만들게 되었어.
+95,TEXT_LUCKHT013_03894_DENYSE_000_018,"사실은 '하늘강철 도구'의 모조품을 만들게 되었어.
 그 있잖아…… 예상은 했겠지만,
 로웨나 씨의 제안으로 말이야."
-96,"TEXT_LUCKHT013_03894_DENYSE_000_019","용 문양이 가치가 있다고 판단한 모양이야.
+96,TEXT_LUCKHT013_03894_DENYSE_000_019,"용 문양이 가치가 있다고 판단한 모양이야.
 아직 개량이 끝나지 않아 최종 형태는 확정이 안 됐지만,
 일단은 모조품 유통부터 시작하고 싶다더라고."
-97,"TEXT_LUCKHT013_03894_DENYSE_000_020","그걸로 수입이 생긴다면 향후 개량에 도움이 될지도 모르잖아?
+97,TEXT_LUCKHT013_03894_DENYSE_000_020,"그걸로 수입이 생긴다면 향후 개량에 도움이 될지도 모르잖아?
 우리로서는 나쁜 이야기가 아니라 받아들이기로 했어.
 겉모습만 똑같은 도구야. 관심이 있다면 말을 걸어줘."
-98,"TEXT_LUCKHT013_03894_NIMIE_000_021","후우, 기다리게 해서 미안해…….
+98,TEXT_LUCKHT013_03894_NIMIE_000_021,"후우, 기다리게 해서 미안해…….
 섬세한 작업이 많아서
 시간은 걸렸지만…… 이번에도 무사히 개량을 끝냈어."
-99,"TEXT_LUCKHT013_03894_NIMIE_000_022","힘든 일을 잘 해내면 보람이 느껴져.
+99,TEXT_LUCKHT013_03894_NIMIE_000_022,"힘든 일을 잘 해내면 보람이 느껴져.
 이게 다 당신 덕분이야…… 언제나 고마워."
-100,"TEXT_LUCKHT013_03894_NIMIE_000_023","한층 더 성장한 당신의 '하늘강철 도구'
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC95BCFF07EC9DB4EC95BC</13>!
+100,TEXT_LUCKHT013_03894_NIMIE_000_023,"한층 더 성장한 당신의 '하늘강철 도구'
+''!
 직접 들어보고 느낌이 어떤지 확인해줘……."

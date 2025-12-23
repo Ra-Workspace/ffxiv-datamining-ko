@@ -1,97 +1,95 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CLSEXC100_00314_SEQ_00","도끼술사 길드마스터 뷔른쵠은 앞으로 모험가가 어떤 식으로 수련할지에 대해 이야기하려는 듯하다."
-1,"TEXT_CLSEXC100_00314_SEQ_01","뷔른쵠은 시가드 소년의 부모를 죽인 마물, 쿠자타를 쓰러뜨릴 수 있도록 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13> 특별 지도해 주겠다고 한다. 그의 지시에 따라 '눈먼 무쇠 갱도' 근처에 있는 '갈라고'를 처치하자."
-2,"TEXT_CLSEXC100_00314_SEQ_02","지정된 마물을 처치했다. '도끼술사 길드'에 있는 '뷔른쵠'에게 보고하자."
-3,"TEXT_CLSEXC100_00314_SEQ_03","뷔른쵠은 보고를 받은 후, 모험가에게 쿠자타가 나타났다고 알려주었다. 중부 라노시아 '개척자의 헛간' 근처에 있는 '짐수레'를 수색하여 '평원 뚜벅이'가 나타나면 처치하자."
-4,"TEXT_CLSEXC100_00314_SEQ_04","목표인 평원 뚜벅이를 처치했다. '도끼술사 길드'에 있는 '뷔른쵠'에게 보고하자."
-5,"TEXT_CLSEXC100_00314_SEQ_05","뷔른쵠은 토벌 완료 보고를 받은 후 쿠자타에 대해 이야기해주었다. 쿠자타는 매우 강한 힘을 가지고 있어서 수많은 마물들이 항상 따라다닌다고 한다. 그런 상대를 이기기 위해서는 지금보다 더욱 열심히 수련해야 한다.
+#,Unknown0,Unknown1
+0,TEXT_CLSEXC100_00314_SEQ_00,도끼술사 길드마스터 뷔른쵠은 앞으로 모험가가 어떤 식으로 수련할지에 대해 이야기하려는 듯하다.
+1,TEXT_CLSEXC100_00314_SEQ_01,"뷔른쵠은 시가드 소년의 부모를 죽인 마물, 쿠자타를 쓰러뜨릴 수 있도록 Player Player 특별 지도해 주겠다고 한다. 그의 지시에 따라 '눈먼 무쇠 갱도' 근처에 있는 '갈라고'를 처치하자."
+2,TEXT_CLSEXC100_00314_SEQ_02,지정된 마물을 처치했다. '도끼술사 길드'에 있는 '뷔른쵠'에게 보고하자.
+3,TEXT_CLSEXC100_00314_SEQ_03,"뷔른쵠은 보고를 받은 후, 모험가에게 쿠자타가 나타났다고 알려주었다. 중부 라노시아 '개척자의 헛간' 근처에 있는 '짐수레'를 수색하여 '평원 뚜벅이'가 나타나면 처치하자."
+4,TEXT_CLSEXC100_00314_SEQ_04,목표인 평원 뚜벅이를 처치했다. '도끼술사 길드'에 있는 '뷔른쵠'에게 보고하자.
+5,TEXT_CLSEXC100_00314_SEQ_05,"뷔른쵠은 토벌 완료 보고를 받은 후 쿠자타에 대해 이야기해주었다. 쿠자타는 매우 강한 힘을 가지고 있어서 수많은 마물들이 항상 따라다닌다고 한다. 그런 상대를 이기기 위해서는 지금보다 더욱 열심히 수련해야 한다.
 
 ※ 도끼술사 레벨이 15 이상 되면 뷔른쵠에게 다음 도끼술사 퀘스트를 받을 수 있습니다."
-6,"TEXT_CLSEXC100_00314_SEQ_06",""
-7,"TEXT_CLSEXC100_00314_SEQ_07",""
-8,"TEXT_CLSEXC100_00314_SEQ_08",""
-9,"TEXT_CLSEXC100_00314_SEQ_09",""
-10,"TEXT_CLSEXC100_00314_SEQ_10",""
-11,"TEXT_CLSEXC100_00314_SEQ_11",""
-12,"TEXT_CLSEXC100_00314_SEQ_12",""
-13,"TEXT_CLSEXC100_00314_SEQ_13",""
-14,"TEXT_CLSEXC100_00314_SEQ_14",""
-15,"TEXT_CLSEXC100_00314_SEQ_15",""
-16,"TEXT_CLSEXC100_00314_SEQ_16",""
-17,"TEXT_CLSEXC100_00314_SEQ_17",""
-18,"TEXT_CLSEXC100_00314_SEQ_18",""
-19,"TEXT_CLSEXC100_00314_SEQ_19",""
-20,"TEXT_CLSEXC100_00314_SEQ_20",""
-21,"TEXT_CLSEXC100_00314_SEQ_21",""
-22,"TEXT_CLSEXC100_00314_SEQ_22",""
-23,"TEXT_CLSEXC100_00314_SEQ_23",""
-24,"TEXT_CLSEXC100_00314_TODO_00","도끼술로 갈라고 처치"
-25,"TEXT_CLSEXC100_00314_TODO_01","도끼술사 길드에서 뷔른쵠에게 보고"
-26,"TEXT_CLSEXC100_00314_TODO_02","짐수레 수색 후 도끼술로 마물 처치"
-27,"TEXT_CLSEXC100_00314_TODO_03","도끼술사 길드에서 뷔른쵠에게 보고"
-28,"TEXT_CLSEXC100_00314_TODO_04",""
-29,"TEXT_CLSEXC100_00314_TODO_05",""
-30,"TEXT_CLSEXC100_00314_TODO_06",""
-31,"TEXT_CLSEXC100_00314_TODO_07",""
-32,"TEXT_CLSEXC100_00314_TODO_08",""
-33,"TEXT_CLSEXC100_00314_TODO_09",""
-34,"TEXT_CLSEXC100_00314_TODO_10",""
-35,"TEXT_CLSEXC100_00314_TODO_11",""
-36,"TEXT_CLSEXC100_00314_TODO_12",""
-37,"TEXT_CLSEXC100_00314_TODO_13",""
-38,"TEXT_CLSEXC100_00314_TODO_14",""
-39,"TEXT_CLSEXC100_00314_TODO_15",""
-40,"TEXT_CLSEXC100_00314_TODO_16",""
-41,"TEXT_CLSEXC100_00314_TODO_17",""
-42,"TEXT_CLSEXC100_00314_TODO_18",""
-43,"TEXT_CLSEXC100_00314_TODO_19",""
-44,"TEXT_CLSEXC100_00314_TODO_20",""
-45,"TEXT_CLSEXC100_00314_TODO_21",""
-46,"TEXT_CLSEXC100_00314_TODO_22",""
-47,"TEXT_CLSEXC100_00314_TODO_23",""
-48,"TEXT_CLSEXC100_00314_WYRNZOEN_000_0","지난번에 붉은수탉 농장에서 있었던 일 때문에
+6,TEXT_CLSEXC100_00314_SEQ_06,
+7,TEXT_CLSEXC100_00314_SEQ_07,
+8,TEXT_CLSEXC100_00314_SEQ_08,
+9,TEXT_CLSEXC100_00314_SEQ_09,
+10,TEXT_CLSEXC100_00314_SEQ_10,
+11,TEXT_CLSEXC100_00314_SEQ_11,
+12,TEXT_CLSEXC100_00314_SEQ_12,
+13,TEXT_CLSEXC100_00314_SEQ_13,
+14,TEXT_CLSEXC100_00314_SEQ_14,
+15,TEXT_CLSEXC100_00314_SEQ_15,
+16,TEXT_CLSEXC100_00314_SEQ_16,
+17,TEXT_CLSEXC100_00314_SEQ_17,
+18,TEXT_CLSEXC100_00314_SEQ_18,
+19,TEXT_CLSEXC100_00314_SEQ_19,
+20,TEXT_CLSEXC100_00314_SEQ_20,
+21,TEXT_CLSEXC100_00314_SEQ_21,
+22,TEXT_CLSEXC100_00314_SEQ_22,
+23,TEXT_CLSEXC100_00314_SEQ_23,
+24,TEXT_CLSEXC100_00314_TODO_00,도끼술로 갈라고 처치
+25,TEXT_CLSEXC100_00314_TODO_01,도끼술사 길드에서 뷔른쵠에게 보고
+26,TEXT_CLSEXC100_00314_TODO_02,짐수레 수색 후 도끼술로 마물 처치
+27,TEXT_CLSEXC100_00314_TODO_03,도끼술사 길드에서 뷔른쵠에게 보고
+28,TEXT_CLSEXC100_00314_TODO_04,
+29,TEXT_CLSEXC100_00314_TODO_05,
+30,TEXT_CLSEXC100_00314_TODO_06,
+31,TEXT_CLSEXC100_00314_TODO_07,
+32,TEXT_CLSEXC100_00314_TODO_08,
+33,TEXT_CLSEXC100_00314_TODO_09,
+34,TEXT_CLSEXC100_00314_TODO_10,
+35,TEXT_CLSEXC100_00314_TODO_11,
+36,TEXT_CLSEXC100_00314_TODO_12,
+37,TEXT_CLSEXC100_00314_TODO_13,
+38,TEXT_CLSEXC100_00314_TODO_14,
+39,TEXT_CLSEXC100_00314_TODO_15,
+40,TEXT_CLSEXC100_00314_TODO_16,
+41,TEXT_CLSEXC100_00314_TODO_17,
+42,TEXT_CLSEXC100_00314_TODO_18,
+43,TEXT_CLSEXC100_00314_TODO_19,
+44,TEXT_CLSEXC100_00314_TODO_20,
+45,TEXT_CLSEXC100_00314_TODO_21,
+46,TEXT_CLSEXC100_00314_TODO_22,
+47,TEXT_CLSEXC100_00314_TODO_23,
+48,TEXT_CLSEXC100_00314_WYRNZOEN_000_0,"지난번에 붉은수탉 농장에서 있었던 일 때문에
 그 소년의 부모를 죽인 마물에 대해 조사해봤다.
 그 악명 높은 마물…… '쿠자타'에 대해서 말이야."
-49,"TEXT_CLSEXC100_00314_WYRNZOEN_000_1","그 거대한 몸집 때문에
+49,TEXT_CLSEXC100_00314_WYRNZOEN_000_1,"그 거대한 몸집 때문에
 마치 산이 통째로 움직이는 것처럼 보여서
 '움직이는 산맥'이라 불리기도 하는 엄청난 놈이지."
-50,"TEXT_CLSEXC100_00314_WYRNZOEN_000_3","그 소년 얘기는 내 동생 졸크위브한테 들었다.
+50,TEXT_CLSEXC100_00314_WYRNZOEN_000_3,"그 소년 얘기는 내 동생 졸크위브한테 들었다.
 네가 소년의 부탁을 들어줄 생각이 있다면
 나도 그게 가장 좋다고 생각한다."
-51,"TEXT_CLSEXC100_00314_WYRNZOEN_000_6","그러니 넌 강해져야만 한다.
-……<Highlight>ObjectParameter(1)</Highlight>,
+51,TEXT_CLSEXC100_00314_WYRNZOEN_000_6,"그러니 넌 강해져야만 한다.
+……Player Player,
 일단 '눈먼 무쇠 갱도'로 가라."
-52,"TEXT_CLSEXC100_00314_WYRNZOEN_000_7","거기서 마물이 사람들을 습격한다는 소식이 들어왔다.
+52,TEXT_CLSEXC100_00314_WYRNZOEN_000_7,"거기서 마물이 사람들을 습격한다는 소식이 들어왔다.
 그 부근을 설치고 다니는 '갈라고'를 퇴치하고 와.
 사람들을 마물로부터 지켜내면서 너 자신을 단련해라."
-53,"TEXT_CLSEXC100_00314_WYRNZOEN_000_10","잘했다, <Highlight>ObjectParameter(1)</Highlight>.
+53,TEXT_CLSEXC100_00314_WYRNZOEN_000_10,"잘했다, Player Player.
 이제 마물 때문에 시달리던 사람들도 조금은 마음이 놓이겠지."
-54,"TEXT_CLSEXC100_00314_WYRNZOEN_000_11","돌아오자마자 미안하지만 한 가지만 더 부탁하자.
+54,TEXT_CLSEXC100_00314_WYRNZOEN_000_11,"돌아오자마자 미안하지만 한 가지만 더 부탁하자.
 ……'개척자의 헛간' 근처에 쿠자타가 나타나서
 부근을 지나가던 농장 짐수레를 습격했다는군."
-55,"TEXT_CLSEXC100_00314_WYRNZOEN_000_12","부서진 짐수레에 먹이를 찾는 마물들이 몰려있다고 한다.
+55,TEXT_CLSEXC100_00314_WYRNZOEN_000_12,"부서진 짐수레에 먹이를 찾는 마물들이 몰려있다고 한다.
 그 짐을 잃으면 농장 사람들 살길이 막막해질 테니,
 네 도끼로 '짐수레'에 몰려든 마물을 퇴치하고 사람들을 구해라!"
-56,"TEXT_CLSEXC100_00314_WYRNZOEN_000_20","무사히 마물을 처치한 모양이군.
+56,TEXT_CLSEXC100_00314_WYRNZOEN_000_20,"무사히 마물을 처치한 모양이군.
 하지만 그놈들은 쿠자타를 쫓아다니면서
 콩고물이 떨어지기만 기다리는 비굴한 마물에 불과하다."
-57,"TEXT_CLSEXC100_00314_WYRNZOEN_000_22","넌 아직 쿠자타를 상대하기엔 역부족이야.
-……수련을 계속하겠다, <Highlight>ObjectParameter(1)</Highlight>."
-58,"TEXT_CLSEXC100_00314_WYRNZOEN_000_23","네가 소년과 한 약속을 지킬 수 있도록, 나도 약속하마.
+57,TEXT_CLSEXC100_00314_WYRNZOEN_000_22,"넌 아직 쿠자타를 상대하기엔 역부족이야.
+……수련을 계속하겠다, Player Player."
+58,TEXT_CLSEXC100_00314_WYRNZOEN_000_23,"네가 소년과 한 약속을 지킬 수 있도록, 나도 약속하마.
 길드마스터로서, 그리고 도끼술사 선배로서
 널 반드시 강하게 만들어주겠다고……."
-59,"TEXT_CLSEXC100_00314_WYRNZOEN_000_24","물론 앞으로 네가 도끼술 수련은 잠시 접어두고
+59,TEXT_CLSEXC100_00314_WYRNZOEN_000_24,"물론 앞으로 네가 도끼술 수련은 잠시 접어두고
 다른 길드의 기술을 배우고 싶다 하더라도
 난 굳이 말리진 않을 거다."
-60,"TEXT_CLSEXC100_00314_WYRNZOEN_000_25","하지만 도끼술사 길드마스터 입장에서는
+60,TEXT_CLSEXC100_00314_WYRNZOEN_000_25,"하지만 도끼술사 길드마스터 입장에서는
 먼저 도끼술을 온전히 자기 것으로 만드는 걸 권하겠다…….
 너무 당연한 말인가?"
-61,"TEXT_CLSEXC100_00314_SYSTEM_000_27","이제 '클래스 체인지'를 하실 수 있습니다.
+61,TEXT_CLSEXC100_00314_SYSTEM_000_27,"이제 '클래스 체인지'를 하실 수 있습니다.
 다른 클래스 길드에 찾아가 접수원에게 말을 걸면
 새로운 클래스를 습득하기 위한 퀘스트가 주어집니다."
-62,"TEXT_CLSEXC100_00314_SYSTEM_000_28","에오르제아에는 다양한 클래스가 존재합니다.
+62,TEXT_CLSEXC100_00314_SYSTEM_000_28,"에오르제아에는 다양한 클래스가 존재합니다.
 우선 지금 배우고 있는 '도끼술'을 충분히 숙지한 다음
 다른 클래스를 배운다면 보다 깊이 이해하실 수 있을 것입니다."
-63,"TEXT_CLSEXC100_00314_POP_MESSAGE","적이 나타났습니다!!"
+63,TEXT_CLSEXC100_00314_POP_MESSAGE,적이 나타났습니다!!

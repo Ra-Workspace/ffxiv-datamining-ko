@@ -1,186 +1,184 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CLSCNJ006_00441_SEQ_00","환술사 길드마스터 에 스미 얀은 검은장막 숲에서 일어나는 이상한 일에 대한 조사를 부탁하고 싶은 듯하다."
-1,"TEXT_CLSCNJ006_00441_SEQ_01","에 스미 얀은 실피와 함께 혼탁함이 생기는 원인을 조사해달라고 했다. 남부삼림 '채석공방' 부근을 조사하여 혼탁함을 정화하자."
-2,"TEXT_CLSCNJ006_00441_SEQ_02","땅의 혼탁함을 찾아내어 정화했다. 숲이 지금 어떤 상태인지 실피에게 물어보자."
-3,"TEXT_CLSCNJ006_00441_SEQ_03","실피는 다른 곳에도 혼탁함이 더 있다고 한다. 실피의 말에 따라 혼탁함을 찾아내어 정화하자."
-4,"TEXT_CLSCNJ006_00441_SEQ_04","또 다른 땅의 혼탁함을 찾아내어 정화했다. 숲이 지금 어떤 상태인지 실피에게 물어보자."
-5,"TEXT_CLSCNJ006_00441_SEQ_05","실피는 아직도 혼탁함이 느껴진다고 한다. 실피의 말에 따라 남아 있는 혼탁함을 찾아내어 정화하자."
-6,"TEXT_CLSCNJ006_00441_SEQ_06","땅의 혼탁함을 하나 더 찾아내서 정화했다. 이제 혼탁함은 모두 다 사라진 걸까? 실피에게 물어보자."
-7,"TEXT_CLSCNJ006_00441_SEQ_07","실피는 더욱 강한 혼탁함이 느껴진다며 숲 속 깊은 곳으로 들어갔다. 서둘러 그녀를 쫓아가자."
-8,"TEXT_CLSCNJ006_00441_SEQ_08","혼탁함에서 나타난 '아코만'을 물리쳤다. '환술사 길드'로 돌아가서 '에 스미 얀'에게 보고하자."
-9,"TEXT_CLSCNJ006_00441_SEQ_09","실피는 이제 자연을 이해하는 환술사로서 첫발을 내딛기 시작했다. 모험가 역시 실피와 함께 다니며 자연을 더욱 깊이 이해했다. 에 스미 얀은 모험가가 성장했다고 인정하며 환술사 길드에 전해 내려오는 '케알라'를 전수해주었다. 자연은 항상 곁에 있다는 사실을 마음에 새기며 환술사의 길을 계속해서 걸어나가자."
-10,"TEXT_CLSCNJ006_00441_SEQ_10",""
-11,"TEXT_CLSCNJ006_00441_SEQ_11",""
-12,"TEXT_CLSCNJ006_00441_SEQ_12",""
-13,"TEXT_CLSCNJ006_00441_SEQ_13",""
-14,"TEXT_CLSCNJ006_00441_SEQ_14",""
-15,"TEXT_CLSCNJ006_00441_SEQ_15",""
-16,"TEXT_CLSCNJ006_00441_SEQ_16",""
-17,"TEXT_CLSCNJ006_00441_SEQ_17",""
-18,"TEXT_CLSCNJ006_00441_SEQ_18",""
-19,"TEXT_CLSCNJ006_00441_SEQ_19",""
-20,"TEXT_CLSCNJ006_00441_SEQ_20",""
-21,"TEXT_CLSCNJ006_00441_SEQ_21",""
-22,"TEXT_CLSCNJ006_00441_SEQ_22",""
-23,"TEXT_CLSCNJ006_00441_SEQ_23",""
-24,"TEXT_CLSCNJ006_00441_TODO_00","남부삼림에서 혼탁함 조사"
-25,"TEXT_CLSCNJ006_00441_TODO_01","실피와 대화"
-26,"TEXT_CLSCNJ006_00441_TODO_02","혼탁함 조사"
-27,"TEXT_CLSCNJ006_00441_TODO_03","실피와 대화"
-28,"TEXT_CLSCNJ006_00441_TODO_04","혼탁함 조사"
-29,"TEXT_CLSCNJ006_00441_TODO_05","실피와 대화"
-30,"TEXT_CLSCNJ006_00441_TODO_06","실피와 대화"
-31,"TEXT_CLSCNJ006_00441_TODO_07","환술사 길드에서 에 스미 얀에게 보고"
-32,"TEXT_CLSCNJ006_00441_TODO_08",""
-33,"TEXT_CLSCNJ006_00441_TODO_09",""
-34,"TEXT_CLSCNJ006_00441_TODO_10",""
-35,"TEXT_CLSCNJ006_00441_TODO_11",""
-36,"TEXT_CLSCNJ006_00441_TODO_12",""
-37,"TEXT_CLSCNJ006_00441_TODO_13",""
-38,"TEXT_CLSCNJ006_00441_TODO_14",""
-39,"TEXT_CLSCNJ006_00441_TODO_15",""
-40,"TEXT_CLSCNJ006_00441_TODO_16",""
-41,"TEXT_CLSCNJ006_00441_TODO_17",""
-42,"TEXT_CLSCNJ006_00441_TODO_18",""
-43,"TEXT_CLSCNJ006_00441_TODO_19",""
-44,"TEXT_CLSCNJ006_00441_TODO_20",""
-45,"TEXT_CLSCNJ006_00441_TODO_21",""
-46,"TEXT_CLSCNJ006_00441_TODO_22",""
-47,"TEXT_CLSCNJ006_00441_TODO_23",""
-48,"TEXT_CLSCNJ006_00441_SYLPHIE_BATTLETALK_01","이 마물은…… 이계 보이드의 요마 '아코만'!
+#,Unknown0,Unknown1
+0,TEXT_CLSCNJ006_00441_SEQ_00,환술사 길드마스터 에 스미 얀은 검은장막 숲에서 일어나는 이상한 일에 대한 조사를 부탁하고 싶은 듯하다.
+1,TEXT_CLSCNJ006_00441_SEQ_01,에 스미 얀은 실피와 함께 혼탁함이 생기는 원인을 조사해달라고 했다. 남부삼림 '채석공방' 부근을 조사하여 혼탁함을 정화하자.
+2,TEXT_CLSCNJ006_00441_SEQ_02,땅의 혼탁함을 찾아내어 정화했다. 숲이 지금 어떤 상태인지 실피에게 물어보자.
+3,TEXT_CLSCNJ006_00441_SEQ_03,실피는 다른 곳에도 혼탁함이 더 있다고 한다. 실피의 말에 따라 혼탁함을 찾아내어 정화하자.
+4,TEXT_CLSCNJ006_00441_SEQ_04,또 다른 땅의 혼탁함을 찾아내어 정화했다. 숲이 지금 어떤 상태인지 실피에게 물어보자.
+5,TEXT_CLSCNJ006_00441_SEQ_05,실피는 아직도 혼탁함이 느껴진다고 한다. 실피의 말에 따라 남아 있는 혼탁함을 찾아내어 정화하자.
+6,TEXT_CLSCNJ006_00441_SEQ_06,땅의 혼탁함을 하나 더 찾아내서 정화했다. 이제 혼탁함은 모두 다 사라진 걸까? 실피에게 물어보자.
+7,TEXT_CLSCNJ006_00441_SEQ_07,실피는 더욱 강한 혼탁함이 느껴진다며 숲 속 깊은 곳으로 들어갔다. 서둘러 그녀를 쫓아가자.
+8,TEXT_CLSCNJ006_00441_SEQ_08,혼탁함에서 나타난 '아코만'을 물리쳤다. '환술사 길드'로 돌아가서 '에 스미 얀'에게 보고하자.
+9,TEXT_CLSCNJ006_00441_SEQ_09,실피는 이제 자연을 이해하는 환술사로서 첫발을 내딛기 시작했다. 모험가 역시 실피와 함께 다니며 자연을 더욱 깊이 이해했다. 에 스미 얀은 모험가가 성장했다고 인정하며 환술사 길드에 전해 내려오는 '케알라'를 전수해주었다. 자연은 항상 곁에 있다는 사실을 마음에 새기며 환술사의 길을 계속해서 걸어나가자.
+10,TEXT_CLSCNJ006_00441_SEQ_10,
+11,TEXT_CLSCNJ006_00441_SEQ_11,
+12,TEXT_CLSCNJ006_00441_SEQ_12,
+13,TEXT_CLSCNJ006_00441_SEQ_13,
+14,TEXT_CLSCNJ006_00441_SEQ_14,
+15,TEXT_CLSCNJ006_00441_SEQ_15,
+16,TEXT_CLSCNJ006_00441_SEQ_16,
+17,TEXT_CLSCNJ006_00441_SEQ_17,
+18,TEXT_CLSCNJ006_00441_SEQ_18,
+19,TEXT_CLSCNJ006_00441_SEQ_19,
+20,TEXT_CLSCNJ006_00441_SEQ_20,
+21,TEXT_CLSCNJ006_00441_SEQ_21,
+22,TEXT_CLSCNJ006_00441_SEQ_22,
+23,TEXT_CLSCNJ006_00441_SEQ_23,
+24,TEXT_CLSCNJ006_00441_TODO_00,남부삼림에서 혼탁함 조사
+25,TEXT_CLSCNJ006_00441_TODO_01,실피와 대화
+26,TEXT_CLSCNJ006_00441_TODO_02,혼탁함 조사
+27,TEXT_CLSCNJ006_00441_TODO_03,실피와 대화
+28,TEXT_CLSCNJ006_00441_TODO_04,혼탁함 조사
+29,TEXT_CLSCNJ006_00441_TODO_05,실피와 대화
+30,TEXT_CLSCNJ006_00441_TODO_06,실피와 대화
+31,TEXT_CLSCNJ006_00441_TODO_07,환술사 길드에서 에 스미 얀에게 보고
+32,TEXT_CLSCNJ006_00441_TODO_08,
+33,TEXT_CLSCNJ006_00441_TODO_09,
+34,TEXT_CLSCNJ006_00441_TODO_10,
+35,TEXT_CLSCNJ006_00441_TODO_11,
+36,TEXT_CLSCNJ006_00441_TODO_12,
+37,TEXT_CLSCNJ006_00441_TODO_13,
+38,TEXT_CLSCNJ006_00441_TODO_14,
+39,TEXT_CLSCNJ006_00441_TODO_15,
+40,TEXT_CLSCNJ006_00441_TODO_16,
+41,TEXT_CLSCNJ006_00441_TODO_17,
+42,TEXT_CLSCNJ006_00441_TODO_18,
+43,TEXT_CLSCNJ006_00441_TODO_19,
+44,TEXT_CLSCNJ006_00441_TODO_20,
+45,TEXT_CLSCNJ006_00441_TODO_21,
+46,TEXT_CLSCNJ006_00441_TODO_22,
+47,TEXT_CLSCNJ006_00441_TODO_23,
+48,TEXT_CLSCNJ006_00441_SYLPHIE_BATTLETALK_01,"이 마물은…… 이계 보이드의 요마 '아코만'!
 에 스미 님한테 들은 적이 있어요."
-49,"TEXT_CLSCNJ006_00441_SYLPHIE_BATTLETALK_02","<Highlight>ObjectParameter(1)</Highlight>, 조심해요!
+49,TEXT_CLSCNJ006_00441_SYLPHIE_BATTLETALK_02,"Player Player, 조심해요!
 쟤하고 눈이 마주치면 몸이 안 움직일 거예요!"
-50,"TEXT_CLSCNJ006_00441_SYLPHIE_BATTLETALK_03","아코만은 혼탁함에서 힘을 얻고 있어요……!
-<Highlight>ObjectParameter(1)</Highlight>, 먼저 혼탁함부터 정화해요!"
-51,"TEXT_CLSCNJ006_00441_SYLPHIE_BATTLETALK_04","사악한 마물이 나타났어요!"
-52,"TEXT_CLSCNJ006_00441_SYLPHIE_BATTLETALK_05","자연의 힘을 빌린다는 것이 이렇게나 멋진 일일 줄이야!
+50,TEXT_CLSCNJ006_00441_SYLPHIE_BATTLETALK_03,"아코만은 혼탁함에서 힘을 얻고 있어요……!
+Player Player, 먼저 혼탁함부터 정화해요!"
+51,TEXT_CLSCNJ006_00441_SYLPHIE_BATTLETALK_04,사악한 마물이 나타났어요!
+52,TEXT_CLSCNJ006_00441_SYLPHIE_BATTLETALK_05,"자연의 힘을 빌린다는 것이 이렇게나 멋진 일일 줄이야!
 이 힘이 있으면 뭐든 할 수 있겠어요!"
-53,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_1","기다리고 있었습니다, <Highlight>ObjectParameter(1)</Highlight>.
+53,TEXT_CLSCNJ006_00441_ESUMIYAN_000_1,"기다리고 있었습니다, Player Player.
 요즘 숲 곳곳에서 '혼탁함'이 자주 발생하는 것과 관련하여
 당신한테 부탁드리고 싶은 일이 있어요."
-54,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_2","당신이 지난번에 정화한 혼탁함을 조사해보니
+54,TEXT_CLSCNJ006_00441_ESUMIYAN_000_2,"당신이 지난번에 정화한 혼탁함을 조사해보니
 어떤 특별한 힘이 혼탁함을 만들어내고 있다는 걸 알았습니다."
-55,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_3","그래서 혼탁함이 생겨나는 걸 막기 위해
+55,TEXT_CLSCNJ006_00441_ESUMIYAN_000_3,"그래서 혼탁함이 생겨나는 걸 막기 위해
 숲으로 들어가 그 원인을 직접 찾기로 했습니다.
 당신도 부디 도와주시면 좋겠군요……."
-56,"TEXT_CLSCNJ006_00441_SYLPHIE_000_4","……잠깐만요!
+56,TEXT_CLSCNJ006_00441_SYLPHIE_000_4,"……잠깐만요!
 에 스미 님, 저도 갈게요!"
-57,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_5","……실피."
-58,"TEXT_CLSCNJ006_00441_SYLPHIE_000_6","저, 자연을 이해하려고 열심히 공부했어요.
+57,TEXT_CLSCNJ006_00441_ESUMIYAN_000_5,……실피.
+58,TEXT_CLSCNJ006_00441_SYLPHIE_000_6,"저, 자연을 이해하려고 열심히 공부했어요.
 놀라넬이 한없이 들려주는 길고 긴 강의도 끝까지 잘 들었구요!"
-59,"TEXT_CLSCNJ006_00441_SYLPHIE_000_7","저한테 지금 숲이 괴로워하는 소리가 들려와요.
+59,TEXT_CLSCNJ006_00441_SYLPHIE_000_7,"저한테 지금 숲이 괴로워하는 소리가 들려와요.
 그러니까 숲을 위해서 뭔가 해주고 싶어요……!"
-60,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_8","하지만 당신은 아직 자연의 힘을 빌리는
+60,TEXT_CLSCNJ006_00441_ESUMIYAN_000_8,"하지만 당신은 아직 자연의 힘을 빌리는
 환술을 쓸 수 없습니다…… 그렇죠?
 자기 몸도 지키지 못하면서 그곳에 가는 것은 위험합니다."
-61,"TEXT_CLSCNJ006_00441_SYLPHIE_000_9","그럼…… 안 돼요……?"
-62,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_10","……아닙니다, 실피.
+61,TEXT_CLSCNJ006_00441_SYLPHIE_000_9,그럼…… 안 돼요……?
+62,TEXT_CLSCNJ006_00441_ESUMIYAN_000_10,"……아닙니다, 실피.
 '안 된다'고는 하지 않겠습니다."
-63,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_11","<Highlight>ObjectParameter(1)</Highlight>.
+63,TEXT_CLSCNJ006_00441_ESUMIYAN_000_11,"Player Player.
 실피 곁에서 그녀를 지켜주십시오."
-64,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_12","아직 서투르지만, 실피는 '정령의 소리'를 들을 수 있으니
+64,TEXT_CLSCNJ006_00441_ESUMIYAN_000_12,"아직 서투르지만, 실피는 '정령의 소리'를 들을 수 있으니
 당신의 환술과 함께 보조를 맞춰나가면
 분명 수월하게 조사를 진행할 수 있을 겁니다."
-65,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_13","실피, 명심하세요.
+65,TEXT_CLSCNJ006_00441_ESUMIYAN_000_13,"실피, 명심하세요.
 혼탁함을 보더라도 섣불리 다가가선 안 됩니다.
-꼭 <Highlight>ObjectParameter(1)</Highlight>하고 같이 가서 조사하세요."
-66,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_14","그리고 신경 쓰이는 게 있어도 너무 깊이 파고들지 말구요.
+꼭 Player Player하고 같이 가서 조사하세요."
+66,TEXT_CLSCNJ006_00441_ESUMIYAN_000_14,"그리고 신경 쓰이는 게 있어도 너무 깊이 파고들지 말구요.
 당신은 호기심이 너무 강해요.
 그냥 내버려뒀다간 무슨 일을 낼지……."
-67,"TEXT_CLSCNJ006_00441_SYLPHIE_000_15","으……
+67,TEXT_CLSCNJ006_00441_SYLPHIE_000_15,"으……
 아, 알겠어요."
-68,"TEXT_CLSCNJ006_00441_SYLPHIE_000_16","<Highlight>ObjectParameter(1)</Highlight>, 가요.
+68,TEXT_CLSCNJ006_00441_SYLPHIE_000_16,"Player Player, 가요.
 혼탁함을 정화해서 숲을 구하러…….
 우선 남부삼림의 '채석공방' 부근부터 조사해볼까요?"
-69,"TEXT_CLSCNJ006_00441_SYLPHIE_000_21","<Highlight>ObjectParameter(1)</Highlight>,
+69,TEXT_CLSCNJ006_00441_SYLPHIE_000_21,"Player Player,
 거기에 '땅의 혼탁함'이 있네요…….
 그걸 정화해주세요."
-70,"TEXT_CLSCNJ006_00441_SYLPHIE_000_22","고마워요.
+70,TEXT_CLSCNJ006_00441_SYLPHIE_000_22,"고마워요.
 잠깐, 혼탁함이 또 있는 것 같아요.
 숲이 괴로워하는 소리가 들려요…… 느껴져요……."
-71,"TEXT_CLSCNJ006_00441_SYLPHIE_000_23","여기에서 아마…… 북동쪽인 것 같아요.
+71,TEXT_CLSCNJ006_00441_SYLPHIE_000_23,"여기에서 아마…… 북동쪽인 것 같아요.
 자, 어서 가죠."
-72,"TEXT_CLSCNJ006_00441_SYLPHIE_000_31","'땅의 혼탁함'이 있네요.
+72,TEXT_CLSCNJ006_00441_SYLPHIE_000_31,"'땅의 혼탁함'이 있네요.
 ……그럼 부탁할게요."
-73,"TEXT_CLSCNJ006_00441_SYLPHIE_000_32","고마워요, <Highlight>ObjectParameter(1)</Highlight>.
+73,TEXT_CLSCNJ006_00441_SYLPHIE_000_32,"고마워요, Player Player.
 근데 혼탁함이 아직 더 있는 것 같아요.
 이것보다 더 커다란 혼탁함이 느껴져요……."
-74,"TEXT_CLSCNJ006_00441_SYLPHIE_000_33","아마…… 동쪽? 한번 가보죠."
-75,"TEXT_CLSCNJ006_00441_SYLPHIE_000_41","거기 '땅의 혼탁함'이 있어요.
+74,TEXT_CLSCNJ006_00441_SYLPHIE_000_33,아마…… 동쪽? 한번 가보죠.
+75,TEXT_CLSCNJ006_00441_SYLPHIE_000_41,"거기 '땅의 혼탁함'이 있어요.
 정말 가는 곳마다 있네요……. 어서 정화해주세요."
-76,"TEXT_CLSCNJ006_00441_SYLPHIE_000_42","고마워요, 이제 이 땅은 원래대로 돌아왔어요.
+76,TEXT_CLSCNJ006_00441_SYLPHIE_000_42,"고마워요, 이제 이 땅은 원래대로 돌아왔어요.
 하지만 우리가 아무리 노력해도……
 아무리 정화해도 곧바로 고통스러운 비명이 들려와요……."
-77,"TEXT_CLSCNJ006_00441_SYLPHIE_000_43","뭔가 아주, 아주 커다란 혼탁함이 있어요.
+77,TEXT_CLSCNJ006_00441_SYLPHIE_000_43,"뭔가 아주, 아주 커다란 혼탁함이 있어요.
 안 좋은 공기가 잔뜩 엉켜있는 듯한 느낌…….
 어쩌면 이게 계속 새로운 혼탁함을 만들어내는 걸지도 몰라요."
-78,"TEXT_CLSCNJ006_00441_SYLPHIE_000_44","에 스미 님이 너무 깊이 파고들진 말랬지만……
+78,TEXT_CLSCNJ006_00441_SYLPHIE_000_44,"에 스미 님이 너무 깊이 파고들진 말랬지만……
 숲이 이렇게 괴로워하는데 어떻게 가만히 있겠어요!"
-79,"TEXT_CLSCNJ006_00441_SYLPHIE_000_45","이걸 어떻게든 해야 해요!
+79,TEXT_CLSCNJ006_00441_SYLPHIE_000_45,"이걸 어떻게든 해야 해요!
 여기서 바로 남동쪽이에요.
 제발 도와주세요."
-80,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_61","무사히 돌아왔군요.
-<Highlight>ObjectParameter(1)</Highlight>, 그리고 실피."
-81,"TEXT_CLSCNJ006_00441_SYLPHIE_000_62","……다녀왔습니다."
-82,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_63","실피…….
+80,TEXT_CLSCNJ006_00441_ESUMIYAN_000_61,"무사히 돌아왔군요.
+Player Player, 그리고 실피."
+81,TEXT_CLSCNJ006_00441_SYLPHIE_000_62,……다녀왔습니다.
+82,TEXT_CLSCNJ006_00441_ESUMIYAN_000_63,"실피…….
 저하고 한 약속을 어기고, 혼탁함을 끝까지 파고들었군요?"
-83,"TEXT_CLSCNJ006_00441_SYLPHIE_000_64","그, 그게…… 숲이 너무 괴로워하니까……
+83,TEXT_CLSCNJ006_00441_SYLPHIE_000_64,"그, 그게…… 숲이 너무 괴로워하니까……
 그렇게 괴로워하는 숲을 그냥 두고 볼 수가 없었어요!"
-84,"TEXT_CLSCNJ006_00441_SYLPHIE_000_65","<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 잘못한 거 없어요!
+84,TEXT_CLSCNJ006_00441_SYLPHIE_000_65,"Player Player 잘못한 거 없어요!
 제가 계속 졸라서 하는 수 없이……!"
-85,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_66","실피.
+85,TEXT_CLSCNJ006_00441_ESUMIYAN_000_66,"실피.
 ……괜찮습니다."
-86,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_67","당신이 어떻게 행동할지 예상하고 보낸 거니까요.
+86,TEXT_CLSCNJ006_00441_ESUMIYAN_000_67,"당신이 어떻게 행동할지 예상하고 보낸 거니까요.
 혼내려는 게 아닙니다."
-87,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_68","'혼탁함'을 만들어낸 '아코만'은 재해 때문에
+87,TEXT_CLSCNJ006_00441_ESUMIYAN_000_68,"'혼탁함'을 만들어낸 '아코만'은 재해 때문에
 힘이 약해진 땅 안으로 파고들어 동족을 불러들이고 있었습니다.
 ……그걸 두 사람이 힘을 합쳐 물리쳤어요. 훌륭합니다."
-88,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_69","그리고 실피.
+88,TEXT_CLSCNJ006_00441_ESUMIYAN_000_69,"그리고 실피.
 이제 자연의 힘을 빌릴 수 있는 것 같더군요."
-89,"TEXT_CLSCNJ006_00441_SYLPHIE_000_70","아, 그때는 저도 모르게……
-그저, <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13>
+89,TEXT_CLSCNJ006_00441_SYLPHIE_000_70,"아, 그때는 저도 모르게……
+그저, Player Player
 도와야 한다는 생각을 하다 보니 어쩌다가 된 거예요."
-90,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_71","그거면 충분합니다.
+90,TEXT_CLSCNJ006_00441_ESUMIYAN_000_71,"그거면 충분합니다.
 자연의 힘을 빌리는 건, 그저 배운다고 되는 게 아니에요.
 당신이 자연을 받아들이면 자연도 마음을 여는 것입니다."
-91,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_72","그리고 <Highlight>ObjectParameter(1)</Highlight>.
+91,TEXT_CLSCNJ006_00441_ESUMIYAN_000_72,"그리고 Player Player.
 ……어느새 아주 훌륭히 성장했군요.
 실피와 다니며 자연을 느끼고 환술을 더 깊이 이해한 듯하네요."
-92,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_73","이제 마지막 가르침을 드리지요. 당신에게……
+92,TEXT_CLSCNJ006_00441_ESUMIYAN_000_73,"이제 마지막 가르침을 드리지요. 당신에게……
 길드에 대대로 전해 내려오는 마법 '케알라'를 전수하겠습니다."
-93,"TEXT_CLSCNJ006_00441_ESUMIYAN_000_74","<Highlight>ObjectParameter(1)</Highlight>, 당신은 앞으로도 환술사로서 계속해서 성장해나가겠지요.
+93,TEXT_CLSCNJ006_00441_ESUMIYAN_000_74,"Player Player, 당신은 앞으로도 환술사로서 계속해서 성장해나가겠지요.
 그 어떤 때라도 자연이 항상 당신 곁에 있다는 것……
 부디 그 뜻을 잊지 마시기 바랍니다."
-94,"TEXT_CLSCNJ006_00441_SYLPHIE_000_0001","저기…… <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 안 느껴져요?
+94,TEXT_CLSCNJ006_00441_SYLPHIE_000_0001,"저기…… Player Player 안 느껴져요?
 이 근처에서 굉장히 안 좋은 기운이 느껴졌어요."
-95,"TEXT_CLSCNJ006_00441_SYLPHIE_000_0002","아마 여기에서 '혼탁함'이 만들어지는 것 같아요."
-96,"TEXT_CLSCNJ006_00441_SYLPHIE_000_0003","근데…… 이상하네요.
+95,TEXT_CLSCNJ006_00441_SYLPHIE_000_0002,아마 여기에서 '혼탁함'이 만들어지는 것 같아요.
+96,TEXT_CLSCNJ006_00441_SYLPHIE_000_0003,"근데…… 이상하네요.
 우리가 여기 오자마자, 그 안 좋은 기운이 옅어졌어요."
-97,"TEXT_CLSCNJ006_00441_SYLPHIE_000_0004","마치 뭔가가 숨을 죽이고……
+97,TEXT_CLSCNJ006_00441_SYLPHIE_000_0004,"마치 뭔가가 숨을 죽이고……
 몰래 숨어있는 것처럼……."
-98,"TEXT_CLSCNJ006_00441_SYLPHIE_000_0005","대체…… 뭐지, 앗…….
+98,TEXT_CLSCNJ006_00441_SYLPHIE_000_0005,"대체…… 뭐지, 앗…….
 저기만 왠지…… 공기의 흐름이 뒤틀려있는 것 같아요……."
-99,"TEXT_CLSCNJ006_00441_SYLPHIE_000_0006","꺄악!"
-100,"TEXT_CLSCNJ006_00441_SYLPHIE_000_1001","……아핫, 아하하하하하~!"
-101,"TEXT_CLSCNJ006_00441_SYLPHIE_000_1002","정말 멋진 느낌이에요, <Highlight>ObjectParameter(1)</Highlight>."
-102,"TEXT_CLSCNJ006_00441_SYLPHIE_100_1002","바람은 이렇게 산뜻한 거군요!"
-103,"TEXT_CLSCNJ006_00441_SYLPHIE_101_1002","땅은 이렇게나 따뜻하고요!"
-104,"TEXT_CLSCNJ006_00441_SYLPHIE_000_1003","저, 이제 알겠어요."
-105,"TEXT_CLSCNJ006_00441_SYLPHIE_100_1003","자연은 무서운 게 아니라는걸요.
+99,TEXT_CLSCNJ006_00441_SYLPHIE_000_0006,꺄악!
+100,TEXT_CLSCNJ006_00441_SYLPHIE_000_1001,"……아핫, 아하하하하하~!"
+101,TEXT_CLSCNJ006_00441_SYLPHIE_000_1002,"정말 멋진 느낌이에요, Player Player."
+102,TEXT_CLSCNJ006_00441_SYLPHIE_100_1002,바람은 이렇게 산뜻한 거군요!
+103,TEXT_CLSCNJ006_00441_SYLPHIE_101_1002,땅은 이렇게나 따뜻하고요!
+104,TEXT_CLSCNJ006_00441_SYLPHIE_000_1003,"저, 이제 알겠어요."
+105,TEXT_CLSCNJ006_00441_SYLPHIE_100_1003,"자연은 무서운 게 아니라는걸요.
 엄마한테도 이 자연의 멋짐을 말해줄 수 있다면…… 좋을 텐데."
-106,"TEXT_CLSCNJ006_00441_SYLPHIE_000_1004","다쳤어요?"
-107,"TEXT_CLSCNJ006_00441_SYLPHIE_000_1005","괜찮아요!
+106,TEXT_CLSCNJ006_00441_SYLPHIE_000_1004,다쳤어요?
+107,TEXT_CLSCNJ006_00441_SYLPHIE_000_1005,"괜찮아요!
 이제 치유마법을 써도 쓰러질 일은 없어요."
-108,"TEXT_CLSCNJ006_00441_SYLPHIE_000_1006","자연이 힘을 빌려주니까요."
-109,"TEXT_CLSCNJ006_00441_SYLPHIE_000_1007","고마워요.
-다 <Highlight>ObjectParameter(1)</Highlight> 덕분이에요."
-110,"TEXT_CLSCNJ006_00441_SYLPHIE_000_1008","자, 이제 환술사 길드로 돌아가요.
+108,TEXT_CLSCNJ006_00441_SYLPHIE_000_1006,자연이 힘을 빌려주니까요.
+109,TEXT_CLSCNJ006_00441_SYLPHIE_000_1007,"고마워요.
+다 Player Player 덕분이에요."
+110,TEXT_CLSCNJ006_00441_SYLPHIE_000_1008,"자, 이제 환술사 길드로 돌아가요.
 에 스미 님한테 보고해야죠!"
-111,"TEXT_CLSCNJ006_00441_QIB_TODO_001","아코만을 쓰러뜨려라!"
-112,"TEXT_CLSCNJ006_00441_POP_MESSAGE","적이 나타났습니다!!"
-113,"TEXT_CLSCNJ006_00441_INSTANCE_BATTLE_YESNO_TITLE","퀘스트 전투를 시작하시겠습니까?"
-114,"TEXT_CLSCNJ006_00441_INSTANCE_BATTLE_YESNO_YES","예"
-115,"TEXT_CLSCNJ006_00441_INSTANCE_BATTLE_YESNO_NO","아니요"
+111,TEXT_CLSCNJ006_00441_QIB_TODO_001,아코만을 쓰러뜨려라!
+112,TEXT_CLSCNJ006_00441_POP_MESSAGE,적이 나타났습니다!!
+113,TEXT_CLSCNJ006_00441_INSTANCE_BATTLE_YESNO_TITLE,퀘스트 전투를 시작하시겠습니까?
+114,TEXT_CLSCNJ006_00441_INSTANCE_BATTLE_YESNO_YES,예
+115,TEXT_CLSCNJ006_00441_INSTANCE_BATTLE_YESNO_NO,아니요

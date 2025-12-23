@@ -1,392 +1,390 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CHOCOBOTAXISTAND_00000_LOW_LEVEL","죄송합니다.
+#,Unknown0,Unknown1
+0,TEXT_CHOCOBOTAXISTAND_00000_LOW_LEVEL,"죄송합니다.
 저희 규칙상 경험이 적은 모험가님께서는 이용하실 수 없습니다.
 여행에 익숙지 않은 분이 떨어져 다치기라도 하면 큰일이니까요."
-1,"TEXT_CHOCOBOTAXISTAND_00100_LOW_LEVEL","죄송합니다.
+1,TEXT_CHOCOBOTAXISTAND_00100_LOW_LEVEL,"죄송합니다.
 저희 규칙상 경험이 적은 분께서는 이용하실 수 없습니다.
 여행에 익숙지 않은 분이 떨어져 다치기라도 하면 큰일이니까요."
-2,"TEXT_CHOCOBOTAXISTAND_00100_LOW_LEVEL_KOJIN","죄송해요오.
+2,TEXT_CHOCOBOTAXISTAND_00100_LOW_LEVEL_KOJIN,"죄송해요오.
 저희 규칙상 경험이 적은 분께서는 이용하실 수가 없어요오.
 여행에 익숙지 않은 분이 떨어져 다치기라도 하면 큰일이니까아."
-3,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_000_1","초코보 수송은 '레벨 10'부터 이용하실 수 있습니다."
-4,"TEXT_CHOCOBOTAXISTAND_00100_SYSTEM_000_1","보라매 관리인은 레벨 10부터 이용하실 수 있습니다."
-5,"TEXT_CHOCOBOTAXISTAND_00000_CHOCOBOTAXI_UNLOCK_01","어서 오십시오.
+3,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_000_1,초코보 수송은 '레벨 10'부터 이용하실 수 있습니다.
+4,TEXT_CHOCOBOTAXISTAND_00100_SYSTEM_000_1,보라매 관리인은 레벨 10부터 이용하실 수 있습니다.
+5,TEXT_CHOCOBOTAXISTAND_00000_CHOCOBOTAXI_UNLOCK_01,"어서 오십시오.
 이곳에서는 '초코보 수송'에 대해 안내해드리고 있습니다."
-6,"TEXT_CHOCOBOTAXISTAND_00000_CHOCOBOTAXI_UNLOCK_02","이 초코보 정류장에는 처음 방문하셨죠?
+6,TEXT_CHOCOBOTAXISTAND_00000_CHOCOBOTAXI_UNLOCK_02,"이 초코보 정류장에는 처음 방문하셨죠?
 그럼 이곳으로 이어지는 경로를 이용하실 수 있게
 조치해 놓겠습니다."
-7,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_UNLOCK_01","초코보와 흡사한 바위가 있다……."
-8,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_UNLOCK_02","여기로 초코보를 불러서 수고비를 내면
+7,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_UNLOCK_01,초코보와 흡사한 바위가 있다…….
+8,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_UNLOCK_02,"여기로 초코보를 불러서 수고비를 내면
 '초코보 수송'의 초코보 정류장으로 이용할 수 있을 것 같다……."
-9,"TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_01","어서 오십시오.
+9,TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_01,"어서 오십시오.
 이곳에서는 '보라매 관리인'에 대해 안내해드리고 있습니다. "
-10,"TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_02","이곳 보라매 정류장에는 처음 방문하셨죠? 
+10,TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_02,"이곳 보라매 정류장에는 처음 방문하셨죠? 
 그럼 이곳으로 이어지는 경로를 이용하실 수 있게
 조치해 놓겠습니다. "
-11,"TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_01_KOJIN","어서 와아.
+11,TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_01_KOJIN,"어서 와아.
 이곳에서는 '보라매 관리인'에 대해 안내해주고 있어어."
-12,"TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_02_KOJIN","이곳 보라매 정류장에는 처음 방문했구나아? 
+12,TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_UNLOCK_02_KOJIN,"이곳 보라매 정류장에는 처음 방문했구나아? 
 그럼 이곳으로 이어지는 경로를 이용할 수 있게
 조치해 놓을게에. "
-13,"TEXT_CHOCOBOTAXISTAND_00000_CHOCOBOTAXI_01","어서 오십시오.
+13,TEXT_CHOCOBOTAXISTAND_00000_CHOCOBOTAXI_01,"어서 오십시오.
 '초코보 수송' 서비스를 이용하시겠습니까?"
-14,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_CHOCOBOTAXI_01","초코보와 흡사한 바위가 있다…….
+14,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_CHOCOBOTAXI_01,"초코보와 흡사한 바위가 있다…….
 '초코보 수송'의 초코보 정류장으로 이용할 수 있을 것 같다……."
-15,"TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_01","어서 오십시오.
+15,TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_01,"어서 오십시오.
 '보라매 관리인' 서비스를 이용하시겠습니까?"
-16,"TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_01_KOJIN","어서 와아.
+16,TEXT_CHOCOBOTAXISTAND_00100_CHOCOBOTAXI_01_KOJIN,"어서 와아.
 '보라매 관리인' 서비스를 이용할래애?"
-17,"TEXT_CHOCOBOTAXISTAND_00000_Q1_000_1","어떻게 하시겠습니까? "
-18,"TEXT_CHOCOBOTAXISTAND_00000_A1_000_1","초코보 수송을 이용한다"
-19,"TEXT_CHOCOBOTAXISTAND_00000_A1_000_2","초코보 수송에 대한 설명을 듣는다 "
-20,"TEXT_CHOCOBOTAXISTAND_00000_A1_000_3","취소"
-21,"TEXT_CHOCOBOTAXISTAND_00100_Q1_000_1","어떻게 하시겠습니까?"
-22,"TEXT_CHOCOBOTAXISTAND_00100_A1_000_1","보라매 관리인을 이용한다"
-23,"TEXT_CHOCOBOTAXISTAND_00100_A1_000_2","보라매 관리인의 설명을 듣는다"
-24,"TEXT_CHOCOBOTAXISTAND_00100_A1_000_3","취소"
-25,"TEXT_CHOCOBOTAXISTAND_00000_HELP1","이곳에서는 '초코보 수송' 서비스를 운영하고 있습니다.
+17,TEXT_CHOCOBOTAXISTAND_00000_Q1_000_1,어떻게 하시겠습니까? 
+18,TEXT_CHOCOBOTAXISTAND_00000_A1_000_1,초코보 수송을 이용한다
+19,TEXT_CHOCOBOTAXISTAND_00000_A1_000_2,초코보 수송에 대한 설명을 듣는다 
+20,TEXT_CHOCOBOTAXISTAND_00000_A1_000_3,취소
+21,TEXT_CHOCOBOTAXISTAND_00100_Q1_000_1,어떻게 하시겠습니까?
+22,TEXT_CHOCOBOTAXISTAND_00100_A1_000_1,보라매 관리인을 이용한다
+23,TEXT_CHOCOBOTAXISTAND_00100_A1_000_2,보라매 관리인의 설명을 듣는다
+24,TEXT_CHOCOBOTAXISTAND_00100_A1_000_3,취소
+25,TEXT_CHOCOBOTAXISTAND_00000_HELP1,"이곳에서는 '초코보 수송' 서비스를 운영하고 있습니다.
 원하시는 초코보 정류장까지
 손님을 안전하고 빠르게 모셔드립니다."
-26,"TEXT_CHOCOBOTAXISTAND_00000_HELP2","단, 이용하실 때에는
+26,TEXT_CHOCOBOTAXISTAND_00000_HELP2,"단, 이용하실 때에는
 주의하셔야 할 점이 두 가지 있습니다."
-27,"TEXT_CHOCOBOTAXISTAND_00000_HELP3","하나…… 초코보의 고삐를 손에서 놓지 말 것.
+27,TEXT_CHOCOBOTAXISTAND_00000_HELP3,"하나…… 초코보의 고삐를 손에서 놓지 말 것.
 고삐를 놓고 한 번 내리면 그 자리에서 이용이 종료됩니다."
-28,"TEXT_CHOCOBOTAXISTAND_00000_HELP4","둘…… '목적지'로 선택할 수 있는 초코보 정류장에는
+28,TEXT_CHOCOBOTAXISTAND_00000_HELP4,"둘…… '목적지'로 선택할 수 있는 초코보 정류장에는
 조건이 있습니다."
-29,"TEXT_CHOCOBOTAXISTAND_00000_HELP5","우선 '출발지'에서 해당 초코보 정류장까지
+29,TEXT_CHOCOBOTAXISTAND_00000_HELP5,"우선 '출발지'에서 해당 초코보 정류장까지
 경로가 이어져 있을 것.
 그리고 손님이 한 번이라도 방문하신 적이 있어야 합니다."
-30,"TEXT_CHOCOBOTAXISTAND_00000_HELP6","목적지를 모르면 초코보도 길을 헤매게 되니까요.
+30,TEXT_CHOCOBOTAXISTAND_00000_HELP6,"목적지를 모르면 초코보도 길을 헤매게 되니까요.
 이 점 양해해주시기 바랍니다."
-31,"TEXT_CHOCOBOTAXISTAND_00000_HELP7","또한 저희 초코보들은
+31,TEXT_CHOCOBOTAXISTAND_00000_HELP7,"또한 저희 초코보들은
 정해진 경로를 달리는 데 특화된 훈련을 쌓았습니다."
-32,"TEXT_CHOCOBOTAXISTAND_00000_HELP8","빠른 속도로 질주하는 초코보를 타면
+32,TEXT_CHOCOBOTAXISTAND_00000_HELP8,"빠른 속도로 질주하는 초코보를 타면
 마물에게 공격받을 걱정도 없습니다.
 초코보 수송 서비스의 안전성과 쾌적성은 이미 검증된 바 있죠."
-33,"TEXT_CHOCOBOTAXISTAND_00000_HELP9","……이상으로 설명을 마치겠습니다.
+33,TEXT_CHOCOBOTAXISTAND_00000_HELP9,"……이상으로 설명을 마치겠습니다.
 저희 초코보 수송 서비스를 자주 이용해주십시오."
-34,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP1","이곳에서는 '초코보 수송'을 이용해
+34,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP1,"이곳에서는 '초코보 수송'을 이용해
 원하시는 초코보 정류장까지 이동할 수 있습니다."
-35,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP2","'초코보 수송'을 이용하실 때에는
+35,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP2,"'초코보 수송'을 이용하실 때에는
 주의하셔야 할 점이 두 가지 있습니다."
-36,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP3","1. 초코보에서 내리시면 이용이 종료됩니다."
-37,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP4","2. '목적지'로 선택할 수 있는 초코보 정류장에는
+36,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP3,1. 초코보에서 내리시면 이용이 종료됩니다.
+37,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP4,"2. '목적지'로 선택할 수 있는 초코보 정류장에는
 다음 조건이 있습니다."
-38,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP5","우선, '출발지'와 경로가 이어져 있는 초코보 정류장이어야 합니다.
+38,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP5,"우선, '출발지'와 경로가 이어져 있는 초코보 정류장이어야 합니다.
 그리고 한 번 이상 방문한 적이 있어야 합니다."
-39,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP6","이 조건이 충족되지 않았을 경우에는
+39,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP6,"이 조건이 충족되지 않았을 경우에는
 '초코보 수송'으로 이동할 수 없습니다."
-40,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP7","또한 '초코보 수송'의 초코보는
+40,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP7,"또한 '초코보 수송'의 초코보는
 정해진 경로를 달리는 데 특화되어 있습니다."
-41,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP8","따라서 이동 중에
+41,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP8,"따라서 이동 중에
 마물에게 공격받을 걱정은 없습니다."
-42,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP9","……이상으로 설명을 마칩니다.
+42,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_HELP9,"……이상으로 설명을 마칩니다.
 그럼 즐거운 모험 하시길 바랍니다!"
-43,"TEXT_CHOCOBOTAXISTAND_00100_HELP1","이곳은 '보라매 관리인'입니다.
+43,TEXT_CHOCOBOTAXISTAND_00100_HELP1,"이곳은 '보라매 관리인'입니다.
 원하시는 보라매 정류장까지
 손님을 안전하고 빠르게 모셔드립니다."
-44,"TEXT_CHOCOBOTAXISTAND_00100_HELP2","단, 이용하실 때에는
+44,TEXT_CHOCOBOTAXISTAND_00100_HELP2,"단, 이용하실 때에는
 주의하셔야 할 점이 두 가지 있습니다."
-45,"TEXT_CHOCOBOTAXISTAND_00100_HELP3","하나……보라매의 등에서 내리지 않을 것.
+45,TEXT_CHOCOBOTAXISTAND_00100_HELP3,"하나……보라매의 등에서 내리지 않을 것.
 한 번 내리면 그 자리에서 이용이 종료됩니다."
-46,"TEXT_CHOCOBOTAXISTAND_00100_HELP4","둘…… '목적지'로 선택할 수 있는 보라매 정류장에는
+46,TEXT_CHOCOBOTAXISTAND_00100_HELP4,"둘…… '목적지'로 선택할 수 있는 보라매 정류장에는
 조건이 있습니다."
-47,"TEXT_CHOCOBOTAXISTAND_00100_HELP5","우선 '출발지'에서 해당 보라매 정류장까지
+47,TEXT_CHOCOBOTAXISTAND_00100_HELP5,"우선 '출발지'에서 해당 보라매 정류장까지
 경로가 이어져 있을 것.
 그리고 손님이 한 번이라도 방문하신 적이 있어야 합니다."
-48,"TEXT_CHOCOBOTAXISTAND_00100_HELP6","목적지를 모르면 보라매도 길을 헤매게 되니까요.
+48,TEXT_CHOCOBOTAXISTAND_00100_HELP6,"목적지를 모르면 보라매도 길을 헤매게 되니까요.
 이 점 양해해주시기 바랍니다."
-49,"TEXT_CHOCOBOTAXISTAND_00100_HELP7","또한 이곳의 보라매들은
+49,TEXT_CHOCOBOTAXISTAND_00100_HELP7,"또한 이곳의 보라매들은
 정해진 경로를 이동하는 데 특화되어 있습니다."
-50,"TEXT_CHOCOBOTAXISTAND_00100_HELP8","보라매는 재빠르기 때문에 마물들도 접근하지 못합니다.
+50,TEXT_CHOCOBOTAXISTAND_00100_HELP8,"보라매는 재빠르기 때문에 마물들도 접근하지 못합니다.
 안전성과 쾌적성은 이미 검증된 바 있죠."
-51,"TEXT_CHOCOBOTAXISTAND_00100_HELP9","……이상으로 설명을 마치겠습니다.
+51,TEXT_CHOCOBOTAXISTAND_00100_HELP9,"……이상으로 설명을 마치겠습니다.
 저희 보라매 관리인 서비스를 자주 이용해주십시오."
-52,"TEXT_CHOCOBOTAXISTAND_00100_HELP1_KOJIN","이곳은 '보라매 관리인'이야아.
+52,TEXT_CHOCOBOTAXISTAND_00100_HELP1_KOJIN,"이곳은 '보라매 관리인'이야아.
 원하는 보라매 정류장까지
 손님을 안전하고 빠르게 데려다주지이."
-53,"TEXT_CHOCOBOTAXISTAND_00100_HELP2_KOJIN","단, 이용할 때에는
+53,TEXT_CHOCOBOTAXISTAND_00100_HELP2_KOJIN,"단, 이용할 때에는
 주의해야 할 점이 두 가지 있어어."
-54,"TEXT_CHOCOBOTAXISTAND_00100_HELP3_KOJIN","하나…… 보라매의 등에서 내리지 않을 거엇.
+54,TEXT_CHOCOBOTAXISTAND_00100_HELP3_KOJIN,"하나…… 보라매의 등에서 내리지 않을 거엇.
 한 번 내리면 그 자리에서 이용이 종료돼애."
-55,"TEXT_CHOCOBOTAXISTAND_00100_HELP4_KOJIN","둘…… '목적지'로 선택할 수 있는 보라매 정류장에는
+55,TEXT_CHOCOBOTAXISTAND_00100_HELP4_KOJIN,"둘…… '목적지'로 선택할 수 있는 보라매 정류장에는
 조건이 있어어."
-56,"TEXT_CHOCOBOTAXISTAND_00100_HELP5_KOJIN","우선 '출발지'에서 해당 보라매 정류장까지
+56,TEXT_CHOCOBOTAXISTAND_00100_HELP5_KOJIN,"우선 '출발지'에서 해당 보라매 정류장까지
 경로가 이어져 있을 거엇.
 그리고 손님이 한 번이라도 방문한 적이 있어야 돼애."
-57,"TEXT_CHOCOBOTAXISTAND_00100_HELP6_KOJIN","목적지를 모르면 보라매도 길을 헤매게 되니까아.
+57,TEXT_CHOCOBOTAXISTAND_00100_HELP6_KOJIN,"목적지를 모르면 보라매도 길을 헤매게 되니까아.
 이 점 양해해줘어."
-58,"TEXT_CHOCOBOTAXISTAND_00100_HELP7_KOJIN","또한 이곳의 보라매들은
+58,TEXT_CHOCOBOTAXISTAND_00100_HELP7_KOJIN,"또한 이곳의 보라매들은
 정해진 경로를 이동하는 데 특화되어 있어어."
-59,"TEXT_CHOCOBOTAXISTAND_00100_HELP8_KOJIN","보라매는 재빠르기 때문에 마물들도 접근하지 못해애.
+59,TEXT_CHOCOBOTAXISTAND_00100_HELP8_KOJIN,"보라매는 재빠르기 때문에 마물들도 접근하지 못해애.
 안전성과 쾌적성은 이미 검증된 바 있지이."
-60,"TEXT_CHOCOBOTAXISTAND_00100_HELP9_KOJIN","……이상으로 설명을 마칠게에.
+60,TEXT_CHOCOBOTAXISTAND_00100_HELP9_KOJIN,"……이상으로 설명을 마칠게에.
 우리 보라매 관리인 서비스를 자주 이용해줘어."
-61,"TEXT_CHOCOBOTAXISTAND_00000_TAXI_IMPOSSIBLE_1","죄송합니다.
+61,TEXT_CHOCOBOTAXISTAND_00000_TAXI_IMPOSSIBLE_1,"죄송합니다.
 현재 손님이 '목적지'로 선택할 수 있는
 초코보 정류장이 없는 것 같네요."
-62,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_IMPOSSIBLE_1","아무래도 '목적지'로 선택할 수 있는
+62,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_IMPOSSIBLE_1,"아무래도 '목적지'로 선택할 수 있는
 초코보 정류장이 없는 것 같다……."
-63,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_IMPOSSIBLE_2","'출발지'와 경로가 이어져 있고
+63,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_IMPOSSIBLE_2,"'출발지'와 경로가 이어져 있고
 한 번 이상 방문한 적이 있는 초코보 정류장에 한해
 '초코보 수송'의 '목적지'로 설정할 수 있습니다."
-64,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_IMPOSSIBLE_3","'출발지'와 경로가 이어진 초코보 정류장 중
+64,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_IMPOSSIBLE_3,"'출발지'와 경로가 이어진 초코보 정류장 중
 한 군데도 방문한 적이 없을 경우에는
 '초코보 수송'을 이용하실 수 없습니다."
-65,"TEXT_CHOCOBOTAXISTAND_00100_TAXI_IMPOSSIBLE_1","죄송합니다.
+65,TEXT_CHOCOBOTAXISTAND_00100_TAXI_IMPOSSIBLE_1,"죄송합니다.
 현재 손님이 '목적지'로 선택할 수 있는
 보라매 정류장이 없는 것 같네요."
-66,"TEXT_CHOCOBOTAXISTAND_00100_TAXI_IMPOSSIBLE_1_KOJIN","미아안.
+66,TEXT_CHOCOBOTAXISTAND_00100_TAXI_IMPOSSIBLE_1_KOJIN,"미아안.
 현재 손님이 '목적지'로 선택할 수 있는
 보라매 정류장이 없는 것 같네에."
-67,"TEXT_CHOCOBOTAXISTAND_00100_SYSTEM_IMPOSSIBLE_2","'출발지'와 경로가 이어져 있고
+67,TEXT_CHOCOBOTAXISTAND_00100_SYSTEM_IMPOSSIBLE_2,"'출발지'와 경로가 이어져 있고
 한 번 이상 방문한 적이 있는 보라매 정류장에 한해
 '보라매 관리인'의 '목적지'로 설정할 수 있습니다."
-68,"TEXT_CHOCOBOTAXISTAND_00100_SYSTEM_IMPOSSIBLE_3","'출발지'와 경로가 이어진 보라매 정류장 중
+68,TEXT_CHOCOBOTAXISTAND_00100_SYSTEM_IMPOSSIBLE_3,"'출발지'와 경로가 이어진 보라매 정류장 중
 한 군데도 방문한 적이 없을 경우에는
 '보라매 관리인'을 이용하실 수 없습니다."
-69,"TEXT_CHOCOBOTAXISTAND_00000_CONFIRM_Q_1","이 목적지로 하시겠습니까?
-  목적지: <Sheet(ChocoboTaxiStand,IntegerParameter(1),8)/>
-  이용요금: <Value>IntegerParameter(2)</Value>길
-  소요시간: 약 <Value>IntegerParameter(3)</Value>분"
-70,"TEXT_CHOCOBOTAXISTAND_00000_CONFIRM_YES","예"
-71,"TEXT_CHOCOBOTAXISTAND_00000_CONFIRM_NO","아니요"
-72,"TEXT_CHOCOBOTAXISTAND_00100_CONFIRM_Q_1","（★未使用／削除予定★）"
-73,"TEXT_CHOCOBOTAXISTAND_00100_CONFIRM_YES","（★未使用／削除予定★）"
-74,"TEXT_CHOCOBOTAXISTAND_00100_CONFIRM_NO","（★未使用／削除予定★）"
-75,"TEXT_CHOCOBOTAXISTAND_00000_SHORT_OF_GIL","저런…… 소지금이 부족하신 것 같네요.
+69,TEXT_CHOCOBOTAXISTAND_00000_CONFIRM_Q_1,"이 목적지로 하시겠습니까?
+  목적지: 
+  이용요금: UNKNOWN길
+  소요시간: 약 UNKNOWN분"
+70,TEXT_CHOCOBOTAXISTAND_00000_CONFIRM_YES,예
+71,TEXT_CHOCOBOTAXISTAND_00000_CONFIRM_NO,아니요
+72,TEXT_CHOCOBOTAXISTAND_00100_CONFIRM_Q_1,（★未使用／削除予定★）
+73,TEXT_CHOCOBOTAXISTAND_00100_CONFIRM_YES,（★未使用／削除予定★）
+74,TEXT_CHOCOBOTAXISTAND_00100_CONFIRM_NO,（★未使用／削除予定★）
+75,TEXT_CHOCOBOTAXISTAND_00000_SHORT_OF_GIL,"저런…… 소지금이 부족하신 것 같네요.
 소지금을 확인하신 다음 다시 말을 걸어주십시오."
-76,"TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_SHORT_OF_GIL","소지금이 부족한 것 같다……."
-77,"TEXT_CHOCOBOTAXISTAND_00100_SHORT_OF_GIL","저런…… 소지금이 부족하신 것 같네요.
+76,TEXT_CHOCOBOTAXISTAND_00000_SYSTEM_SHORT_OF_GIL,소지금이 부족한 것 같다…….
+77,TEXT_CHOCOBOTAXISTAND_00100_SHORT_OF_GIL,"저런…… 소지금이 부족하신 것 같네요.
 소지금을 확인하신 다음 다시 말을 걸어주십시오."
-78,"TEXT_CHOCOBOTAXISTAND_00100_SHORT_OF_GIL_KOJIN","저런…… 소지금이 부족한 것 같네에.
+78,TEXT_CHOCOBOTAXISTAND_00100_SHORT_OF_GIL_KOJIN,"저런…… 소지금이 부족한 것 같네에.
 소지금을 확인한 다음 다시 말을 걸어줘어."
-79,"TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL","죄송합니다.
+79,TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL,"죄송합니다.
 저희 규칙상 경험이 적은 분께서는 이용하실 수 없습니다.
 여행에 익숙지 않은 분이 떨어져 다치기라도 하면 큰일이니까요."
-80,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_000_1","아마로 수송은 레벨 10부터 이용하실 수 있습니다."
-81,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01","어서 오십시오.
+80,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_000_1,아마로 수송은 레벨 10부터 이용하실 수 있습니다.
+81,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01,"어서 오십시오.
 이곳에서는 '아마로 수송'에 대해 안내해드리고 있습니다."
-82,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02","이곳 아마로 정류장에는 처음 방문하셨죠?
+82,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02,"이곳 아마로 정류장에는 처음 방문하셨죠?
 그럼 이곳으로 이어지는 경로를 이용하실 수 있게
 조치해 놓겠습니다."
-83,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01","어서 오십시오.
+83,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01,"어서 오십시오.
 '아마로 수송' 서비스를 이용하시겠습니까?"
-84,"TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1","죄송합니다.
+84,TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1,"죄송합니다.
 현재 손님이 '목적지'로 선택할 수 있는
 아마로 정류장이 없는 것 같네요."
-85,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_IMPOSSIBLE_2","'출발지'와 경로가 이어져 있고
+85,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_IMPOSSIBLE_2,"'출발지'와 경로가 이어져 있고
 한 번 이상 방문한 적이 있는 아마로 정류장에 한해
 '아마로 수송'의 '목적지'로 설정할 수 있습니다."
-86,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_IMPOSSIBLE_3","'출발지'와 경로가 이어진 아마로 정류장 중
+86,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_IMPOSSIBLE_3,"'출발지'와 경로가 이어진 아마로 정류장 중
 한 군데도 방문한 적이 없을 경우에는
 '아마로 수송'을 이용하실 수 없습니다."
-87,"TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL","음…… 소지금이 부족하신 것 같네요.
+87,TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL,"음…… 소지금이 부족하신 것 같네요.
 소지금을 확인하신 다음 다시 말을 걸어주십시오."
-88,"TEXT_CHOCOBOTAXISTAND_00200_HELP1","이곳에서는 '아마로 수송' 서비스를 운영하고 있습니다.
+88,TEXT_CHOCOBOTAXISTAND_00200_HELP1,"이곳에서는 '아마로 수송' 서비스를 운영하고 있습니다.
 원하시는 아마로 정류장까지
 손님을 안전하고 빠르게 모셔드립니다."
-89,"TEXT_CHOCOBOTAXISTAND_00200_HELP2","단, 이용하실 때에는
+89,TEXT_CHOCOBOTAXISTAND_00200_HELP2,"단, 이용하실 때에는
 주의하셔야 할 점이 두 가지 있습니다."
-90,"TEXT_CHOCOBOTAXISTAND_00200_HELP3","하나…… 아마로의 고삐를 손에서 놓지 말 것.
+90,TEXT_CHOCOBOTAXISTAND_00200_HELP3,"하나…… 아마로의 고삐를 손에서 놓지 말 것.
 고삐를 놓고 한 번 내리면 그 자리에서 이용이 종료됩니다."
-91,"TEXT_CHOCOBOTAXISTAND_00200_HELP4","둘…… '목적지'로 선택할 수 있는 아마로 정류장에는
+91,TEXT_CHOCOBOTAXISTAND_00200_HELP4,"둘…… '목적지'로 선택할 수 있는 아마로 정류장에는
 조건이 있습니다."
-92,"TEXT_CHOCOBOTAXISTAND_00200_HELP5","우선 '출발지'에서 해당 아마로 정류장까지
+92,TEXT_CHOCOBOTAXISTAND_00200_HELP5,"우선 '출발지'에서 해당 아마로 정류장까지
 경로가 이어져 있을 것.
 그리고 손님이 한 번이라도 방문하신 적이 있어야 합니다."
-93,"TEXT_CHOCOBOTAXISTAND_00200_HELP6","아무리 똑똑한 아마로라 하더라도
+93,TEXT_CHOCOBOTAXISTAND_00200_HELP6,"아무리 똑똑한 아마로라 하더라도
 목적지를 모르면 길을 헤매게 되므로
 이 점 양해해주시기 바랍니다."
-94,"TEXT_CHOCOBOTAXISTAND_00200_HELP7","또한 이곳의 아마로들은
+94,TEXT_CHOCOBOTAXISTAND_00200_HELP7,"또한 이곳의 아마로들은
 정해진 경로를 이동하는 데 특화되어 훈련을 쌓고 있습니다."
-95,"TEXT_CHOCOBOTAXISTAND_00200_HELP8","아마로는 힘차게 날아오를 수 있어 마물들도 접근하지 못합니다.
+95,TEXT_CHOCOBOTAXISTAND_00200_HELP8,"아마로는 힘차게 날아오를 수 있어 마물들도 접근하지 못합니다.
 안전성과 쾌적성은 이미 검증된 바 있죠."
-96,"TEXT_CHOCOBOTAXISTAND_00200_HELP9","……이상으로 설명을 마치겠습니다.
+96,TEXT_CHOCOBOTAXISTAND_00200_HELP9,"……이상으로 설명을 마치겠습니다.
 저희 아마로 수송 서비스를 자주 이용해주십시오."
-97,"TEXT_CHOCOBOTAXISTAND_00200_Q1_000_1","어떻게 하시겠습니까?"
-98,"TEXT_CHOCOBOTAXISTAND_00200_A1_000_1","아마로 수송을 이용한다"
-99,"TEXT_CHOCOBOTAXISTAND_00200_A1_000_2","아마로 수송에 대한 설명을 듣는다"
-100,"TEXT_CHOCOBOTAXISTAND_00200_A1_000_3","취소"
-101,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_UNLOCK_01","아마로와 흡사한 바위가 있다……."
-102,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_UNLOCK_02","여기로 아마로를 불러서 수고비를 내면
+97,TEXT_CHOCOBOTAXISTAND_00200_Q1_000_1,어떻게 하시겠습니까?
+98,TEXT_CHOCOBOTAXISTAND_00200_A1_000_1,아마로 수송을 이용한다
+99,TEXT_CHOCOBOTAXISTAND_00200_A1_000_2,아마로 수송에 대한 설명을 듣는다
+100,TEXT_CHOCOBOTAXISTAND_00200_A1_000_3,취소
+101,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_UNLOCK_01,아마로와 흡사한 바위가 있다…….
+102,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_UNLOCK_02,"여기로 아마로를 불러서 수고비를 내면
 '아마로 수송'의 아마로 정류장으로 이용할 수 있을 것 같다……."
-103,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_CHOCOBOTAXI_01","아마로와 흡사한 바위가 있다…….
+103,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_CHOCOBOTAXI_01,"아마로와 흡사한 바위가 있다…….
 '아마로 수송'의 아마로 정류장으로 이용할 수 있을 것 같다……."
-104,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_IMPOSSIBLE_1","아무래도 '목적지'로 선택할 수 있는
+104,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_IMPOSSIBLE_1,"아무래도 '목적지'로 선택할 수 있는
 아마로 정류장이 없는 것 같다……."
-105,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_SHORT_OF_GIL","소지금이 부족한 것 같다……."
-106,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP1","이곳에서는 '아마로 수송'을 이용해서
+105,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_SHORT_OF_GIL,소지금이 부족한 것 같다…….
+106,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP1,"이곳에서는 '아마로 수송'을 이용해서
 원하시는 아마로 정류장까지 이동할 수 있습니다."
-107,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP2","'아마로 수송'을 이용하실 때에는
+107,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP2,"'아마로 수송'을 이용하실 때에는
 주의하셔야 할 점이 두 가지 있습니다."
-108,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP3","1. 아마로에서 내리시면 이용이 종료됩니다."
-109,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP4","2. '목적지'로 선택할 수 있는 아마로 정류장에는
+108,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP3,1. 아마로에서 내리시면 이용이 종료됩니다.
+109,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP4,"2. '목적지'로 선택할 수 있는 아마로 정류장에는
 다음 조건이 있습니다."
-110,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP5","우선 '출발지'에서 해당 아마로 정류장까지
+110,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP5,"우선 '출발지'에서 해당 아마로 정류장까지
 경로가 이어져 있을 것.
 그리고 손님이 한 번이라도 방문하신 적이 있어야 합니다."
-111,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP6","이 조건이 충족되지 않았을 경우에는
+111,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP6,"이 조건이 충족되지 않았을 경우에는
 '아마로 수송'으로 이동할 수 없습니다."
-112,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP7","또한, '아마로 수송'의 아마로는
+112,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP7,"또한, '아마로 수송'의 아마로는
 정해진 경로를 이동하는 데 특화되어 있습니다."
-113,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP8","따라서 이동 중에
+113,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP8,"따라서 이동 중에
 마물이나 장난을 좋아하는 요정에게 공격받을 걱정은 없습니다."
-114,"TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP9","……이상으로 설명을 마치겠습니다.
+114,TEXT_CHOCOBOTAXISTAND_00200_SYSTEM_HELP9,"……이상으로 설명을 마치겠습니다.
 그럼 즐거운 모험을 하시길 바랍니다!"
-115,"TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL_DWARF","라리호!
+115,TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL_DWARF,"라리호!
 미안하지만 규칙상 경험이 적은 사람에게는 안내할 수 없어라리.
 떨어져 다치기라도 하면 큰일이니까라리."
-116,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01_DWARF","라리호!
+116,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01_DWARF,"라리호!
 이곳에서는 '아마로 수송'에 대해 안내하고 있어라리."
-117,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02_DWARF","이곳 아마로 정류장은 처음이야라리?
+117,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02_DWARF,"이곳 아마로 정류장은 처음이야라리?
 그럼 이곳으로 이어지는 경로를 이용할 수 있게
 조치해 놓을게라리!"
-118,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01_DWARF","라리호!
+118,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01_DWARF,"라리호!
 '아마로 수송' 서비스를 이용할래라리?"
-119,"TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1_DWARF","으음…… 미안하지만라리.
+119,TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1_DWARF,"으음…… 미안하지만라리.
 현재 자네가 '목적지'로 선택할 수 있는
 아마로 정류장이 없는 것 같아라리."
-120,"TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL_DWARF","으음…… 소지금이 부족한 것 같아라리.
+120,TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL_DWARF,"으음…… 소지금이 부족한 것 같아라리.
 소지금을 확인한 다음 다시 말을 걸어줘라리."
-121,"TEXT_CHOCOBOTAXISTAND_00200_HELP1_DWARF","이곳에서는 '아마로 수송' 서비스를 운영하고 있어라리.
+121,TEXT_CHOCOBOTAXISTAND_00200_HELP1_DWARF,"이곳에서는 '아마로 수송' 서비스를 운영하고 있어라리.
 자네가 원하는 아마로 정류장까지
 안전하고 빠르게 데려다줄게라리!"
-122,"TEXT_CHOCOBOTAXISTAND_00200_HELP2_DWARF","단, 이용할 때
+122,TEXT_CHOCOBOTAXISTAND_00200_HELP2_DWARF,"단, 이용할 때
 주의해야 할 점이 두 가지 있어라리."
-123,"TEXT_CHOCOBOTAXISTAND_00200_HELP3_DWARF","하나…… 아마로의 고삐를 손에서 놓지 말아야 해라리!
+123,TEXT_CHOCOBOTAXISTAND_00200_HELP3_DWARF,"하나…… 아마로의 고삐를 손에서 놓지 말아야 해라리!
 고삐를 놓고 한 번 내리면 그 자리에서 이용은 종료돼라리."
-124,"TEXT_CHOCOBOTAXISTAND_00200_HELP4_DWARF","둘…… '목적지'로 선택할 수 있는 아마로 정류장에는
+124,TEXT_CHOCOBOTAXISTAND_00200_HELP4_DWARF,"둘…… '목적지'로 선택할 수 있는 아마로 정류장에는
 조건이 있어라리!"
-125,"TEXT_CHOCOBOTAXISTAND_00200_HELP5_DWARF","우선 '출발지'에서 해당 아마로 정류장까지
+125,TEXT_CHOCOBOTAXISTAND_00200_HELP5_DWARF,"우선 '출발지'에서 해당 아마로 정류장까지
 경로가 이어져 있어야 해라리.
 그리고 자네가 한 번이라도 방문한 적이 있어야 해라리."
-126,"TEXT_CHOCOBOTAXISTAND_00200_HELP6_DWARF","아무리 똑똑한 아마로라 하더라도
+126,TEXT_CHOCOBOTAXISTAND_00200_HELP6_DWARF,"아무리 똑똑한 아마로라 하더라도
 목적지를 모르면 길을 헤매게 되잖아라리.
 이 점 이해해줘라리."
-127,"TEXT_CHOCOBOTAXISTAND_00200_HELP7_DWARF","또한 이곳의 아마로들은
+127,TEXT_CHOCOBOTAXISTAND_00200_HELP7_DWARF,"또한 이곳의 아마로들은
 정해진 경로를 나는 데 특화돼 있어라리!"
-128,"TEXT_CHOCOBOTAXISTAND_00200_HELP8_DWARF","아마로는 힘차게 날아오르기 때문에
+128,TEXT_CHOCOBOTAXISTAND_00200_HELP8_DWARF,"아마로는 힘차게 날아오르기 때문에
 마물에게 공격받을 걱정도 없어라리.
 안전성과 쾌적성은 이미 검증된 바 있어라리!"
-129,"TEXT_CHOCOBOTAXISTAND_00200_HELP9_DWARF","……이상으로 설명을 마칠게라리.
+129,TEXT_CHOCOBOTAXISTAND_00200_HELP9_DWARF,"……이상으로 설명을 마칠게라리.
 우리 아마로들을 잘 부탁해라리!"
-130,"TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL_ZUN","죄송합니다.
+130,TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL_ZUN,"죄송합니다.
 저희 규칙상 경험이 적은 분께서는 이용하실 수 없습니다.
 여행에 익숙지 않은 분이 떨어져 다치기라도 하면 큰일이니까요."
-131,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01_ZUN","어서 오십시오.
+131,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01_ZUN,"어서 오십시오.
 이곳에서는 '아마로 수송'에 대해 안내해드리고 있습니다."
-132,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02_ZUN","이곳 아마로 정류장에는 처음 방문하셨죠?
+132,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02_ZUN,"이곳 아마로 정류장에는 처음 방문하셨죠?
 그럼 이곳으로 이어지는 경로를 이용하실 수 있게
 조치해 놓겠습니다."
-133,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01_ZUN","어서 오십시오.
+133,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01_ZUN,"어서 오십시오.
 '아마로 수송' 서비스를 이용하시겠습니까?"
-134,"TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1_ZUN","죄송합니다.
+134,TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1_ZUN,"죄송합니다.
 현재 손님이 '목적지'로 선택할 수 있는
 아마로 정류장이 없는 것 같네요."
-135,"TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL_ZUN","저런…… 소지금이 부족하신 것 같네요.
+135,TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL_ZUN,"저런…… 소지금이 부족하신 것 같네요.
 소지금을 확인하신 다음 다시 말을 걸어주십시오."
-136,"TEXT_CHOCOBOTAXISTAND_00200_HELP1_ZUN","이곳에서는 '아마로 수송' 서비스를 운영하고 있습니다.
+136,TEXT_CHOCOBOTAXISTAND_00200_HELP1_ZUN,"이곳에서는 '아마로 수송' 서비스를 운영하고 있습니다.
 원하시는 아마로 정류장까지
 손님을 안전하고 빠르게 모셔드립니다."
-137,"TEXT_CHOCOBOTAXISTAND_00200_HELP2_ZUN","단, 이용하실 때에는
+137,TEXT_CHOCOBOTAXISTAND_00200_HELP2_ZUN,"단, 이용하실 때에는
 주의하셔야 할 점이 두 가지 있습니다."
-138,"TEXT_CHOCOBOTAXISTAND_00200_HELP3_ZUN","하나…… 아마로의 고삐를 손에서 놓지 말 것.
+138,TEXT_CHOCOBOTAXISTAND_00200_HELP3_ZUN,"하나…… 아마로의 고삐를 손에서 놓지 말 것.
 고삐를 놓고 한 번 내리면 그 자리에서 이용이 종료됩니다."
-139,"TEXT_CHOCOBOTAXISTAND_00200_HELP4_ZUN","둘…… '목적지'로 선택할 수 있는 아마로 정류장에는
+139,TEXT_CHOCOBOTAXISTAND_00200_HELP4_ZUN,"둘…… '목적지'로 선택할 수 있는 아마로 정류장에는
 조건이 있습니다."
-140,"TEXT_CHOCOBOTAXISTAND_00200_HELP5_ZUN","우선 '출발지'에서 해당 아마로 정류장까지
+140,TEXT_CHOCOBOTAXISTAND_00200_HELP5_ZUN,"우선 '출발지'에서 해당 아마로 정류장까지
 경로가 이어져 있을 것.
 그리고 손님이 한 번이라도 방문하신 적이 있어야 합니다."
-141,"TEXT_CHOCOBOTAXISTAND_00200_HELP6_ZUN","아무리 똑똑한 아마로라 하더라도
+141,TEXT_CHOCOBOTAXISTAND_00200_HELP6_ZUN,"아무리 똑똑한 아마로라 하더라도
 목적지를 모르면 길을 헤매게 되므로
 이 점 양해해주시기 바랍니다."
-142,"TEXT_CHOCOBOTAXISTAND_00200_HELP7_ZUN","또한 이곳의 아마로들은
+142,TEXT_CHOCOBOTAXISTAND_00200_HELP7_ZUN,"또한 이곳의 아마로들은
 정해진 경로를 이동하는 데 특화되어 훈련을 쌓고 있습니다."
-143,"TEXT_CHOCOBOTAXISTAND_00200_HELP8_ZUN","아마로는 힘차게 날아오를 수 있어 마물들도 접근하지 못합니다.
+143,TEXT_CHOCOBOTAXISTAND_00200_HELP8_ZUN,"아마로는 힘차게 날아오를 수 있어 마물들도 접근하지 못합니다.
 안전성과 쾌적성은 이미 검증된 바 있죠."
-144,"TEXT_CHOCOBOTAXISTAND_00200_HELP9_ZUN","……이상으로 설명을 마치겠습니다.
+144,TEXT_CHOCOBOTAXISTAND_00200_HELP9_ZUN,"……이상으로 설명을 마치겠습니다.
 저희 아마로 수송 서비스를 자주 이용해주십시오."
-145,"TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL_MYSTEL_FEMALE","죄송합니다.
+145,TEXT_CHOCOBOTAXISTAND_00200_LOW_LEVEL_MYSTEL_FEMALE,"죄송합니다.
 저희 규칙상 경험이 적은 분께서는 이용하실 수 없습니다.
 여행에 익숙지 않은 분이 떨어져 다치기라도 하면 큰일이니까요."
-146,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01_MYSTEL_FEMALE","어서 오십시오.
+146,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_01_MYSTEL_FEMALE,"어서 오십시오.
 이곳에서는 '아마로 수송'에 대해 안내해드리고 있습니다."
-147,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02_MYSTEL_FEMALE","이곳 아마로 정류장에는 처음 방문하셨죠?
+147,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_UNLOCK_02_MYSTEL_FEMALE,"이곳 아마로 정류장에는 처음 방문하셨죠?
 그럼 이곳으로 이어지는 경로를 이용하실 수 있게
 조치해 놓겠습니다."
-148,"TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01_MYSTEL_FEMALE","어서 오십시오.
+148,TEXT_CHOCOBOTAXISTAND_00200_CHOCOBOTAXI_01_MYSTEL_FEMALE,"어서 오십시오.
 '아마로 수송' 서비스를 이용하시겠습니까?"
-149,"TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1_MYSTEL_FEMALE","어서 오십시오.
+149,TEXT_CHOCOBOTAXISTAND_00200_TAXI_IMPOSSIBLE_1_MYSTEL_FEMALE,"어서 오십시오.
 '아마로 수송' 서비스를 이용하시겠습니까?"
-150,"TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL_MYSTEL_FEMALE","저런…… 소지금이 부족하신 것 같네요.
+150,TEXT_CHOCOBOTAXISTAND_00200_SHORT_OF_GIL_MYSTEL_FEMALE,"저런…… 소지금이 부족하신 것 같네요.
 소지금을 확인하신 다음 다시 말을 걸어주십시오."
-151,"TEXT_CHOCOBOTAXISTAND_00200_HELP1_MYSTEL_FEMALE","이곳에서는 '아마로 수송' 서비스를 운영하고 있습니다.
+151,TEXT_CHOCOBOTAXISTAND_00200_HELP1_MYSTEL_FEMALE,"이곳에서는 '아마로 수송' 서비스를 운영하고 있습니다.
 원하시는 아마로 정류장까지
 손님을 안전하고 빠르게 모셔드립니다."
-152,"TEXT_CHOCOBOTAXISTAND_00200_HELP2_MYSTEL_FEMALE","단, 이용하실 때에는
+152,TEXT_CHOCOBOTAXISTAND_00200_HELP2_MYSTEL_FEMALE,"단, 이용하실 때에는
 주의하셔야 할 점이 두 가지 있습니다."
-153,"TEXT_CHOCOBOTAXISTAND_00200_HELP3_MYSTEL_FEMALE","하나…… 아마로의 고삐를 손에서 놓지 말 것.
+153,TEXT_CHOCOBOTAXISTAND_00200_HELP3_MYSTEL_FEMALE,"하나…… 아마로의 고삐를 손에서 놓지 말 것.
 고삐를 놓고 한 번 내리면 그 자리에서 이용이 종료됩니다."
-154,"TEXT_CHOCOBOTAXISTAND_00200_HELP4_MYSTEL_FEMALE","둘…… '목적지'로 선택할 수 있는 아마로 정류장에는
+154,TEXT_CHOCOBOTAXISTAND_00200_HELP4_MYSTEL_FEMALE,"둘…… '목적지'로 선택할 수 있는 아마로 정류장에는
 조건이 있습니다."
-155,"TEXT_CHOCOBOTAXISTAND_00200_HELP5_MYSTEL_FEMALE","우선 '출발지'에서 해당 아마로 정류장까지
+155,TEXT_CHOCOBOTAXISTAND_00200_HELP5_MYSTEL_FEMALE,"우선 '출발지'에서 해당 아마로 정류장까지
 경로가 이어져 있을 것.
 그리고 손님이 한 번이라도 방문하신 적이 있어야 합니다."
-156,"TEXT_CHOCOBOTAXISTAND_00200_HELP6_MYSTEL_FEMALE","아무리 똑똑한 아마로라 하더라도
+156,TEXT_CHOCOBOTAXISTAND_00200_HELP6_MYSTEL_FEMALE,"아무리 똑똑한 아마로라 하더라도
 목적지를 모르면 길을 헤매게 되므로
 이 점 양해해주시기 바랍니다."
-157,"TEXT_CHOCOBOTAXISTAND_00200_HELP7_MYSTEL_FEMALE","또한 이곳의 아마로들은
+157,TEXT_CHOCOBOTAXISTAND_00200_HELP7_MYSTEL_FEMALE,"또한 이곳의 아마로들은
 정해진 경로를 이동하는 데 특화되어 훈련을 쌓고 있습니다."
-158,"TEXT_CHOCOBOTAXISTAND_00200_HELP8_MYSTEL_FEMALE","아마로는 힘차게 날아오를 수 있어 마물들도 접근하지 못합니다.
+158,TEXT_CHOCOBOTAXISTAND_00200_HELP8_MYSTEL_FEMALE,"아마로는 힘차게 날아오를 수 있어 마물들도 접근하지 못합니다.
 안전성과 쾌적성은 이미 검증된 바 있죠."
-159,"TEXT_CHOCOBOTAXISTAND_00200_HELP9_MYSTEL_FEMALE","……이상으로 설명을 마치겠습니다.
+159,TEXT_CHOCOBOTAXISTAND_00200_HELP9_MYSTEL_FEMALE,"……이상으로 설명을 마치겠습니다.
 저희 아마로 수송 서비스를 자주 이용해주십시오."
-160,"TEXT_CHOCOBOTAXISTAND_00300_LOW_LEVEL","미안해서 어쩌나.
+160,TEXT_CHOCOBOTAXISTAND_00300_LOW_LEVEL,"미안해서 어쩌나.
 안내할 수 없어, 경험 적은 여행자에게는.
 여행에 익숙지 않은 사람이 떨어져 다치기라도 하면 큰일이거든."
-161,"TEXT_CHOCOBOTAXISTAND_00300_SYSTEM_000_1","알파카 수송은 '레벨 10'부터 이용하실 수 있습니다."
-162,"TEXT_CHOCOBOTAXISTAND_00300_CHOCOBOTAXI_UNLOCK_01","어서 와.
+161,TEXT_CHOCOBOTAXISTAND_00300_SYSTEM_000_1,알파카 수송은 '레벨 10'부터 이용하실 수 있습니다.
+162,TEXT_CHOCOBOTAXISTAND_00300_CHOCOBOTAXI_UNLOCK_01,"어서 와.
 여기서는 이용할 수 있어, '알파카 수송'을."
-163,"TEXT_CHOCOBOTAXISTAND_00300_CHOCOBOTAXI_UNLOCK_02","이 알파카 정류장 이용은 처음이지?
+163,TEXT_CHOCOBOTAXISTAND_00300_CHOCOBOTAXI_UNLOCK_02,"이 알파카 정류장 이용은 처음이지?
 그럼 조치해 놓을게.
 이곳으로 이어지는 경로를 이용할 수 있게."
-164,"TEXT_CHOCOBOTAXISTAND_00300_CHOCOBOTAXI_01","어서 와.
+164,TEXT_CHOCOBOTAXISTAND_00300_CHOCOBOTAXI_01,"어서 와.
 '알파카 수송'을 이용할 거야?"
-165,"TEXT_CHOCOBOTAXISTAND_00300_TAXI_IMPOSSIBLE_1","미안해서 어쩌나.
+165,TEXT_CHOCOBOTAXISTAND_00300_TAXI_IMPOSSIBLE_1,"미안해서 어쩌나.
 아직은 손님이 '목적지'로 선택할 수 있는
 알파카 정류장이 없는 것 같아."
-166,"TEXT_CHOCOBOTAXISTAND_00300_SYSTEM_IMPOSSIBLE_2","'출발지'와 경로가 이어져 있고
+166,TEXT_CHOCOBOTAXISTAND_00300_SYSTEM_IMPOSSIBLE_2,"'출발지'와 경로가 이어져 있고
 한 번 이상 방문한 적이 있는 알파카 정류장에 한해
 '알파카 수송'의 '목적지'로 설정할 수 있습니다."
-167,"TEXT_CHOCOBOTAXISTAND_00300_SYSTEM_IMPOSSIBLE_3","'출발지'와 경로가 이어진 알파카 정류장 가운데
+167,TEXT_CHOCOBOTAXISTAND_00300_SYSTEM_IMPOSSIBLE_3,"'출발지'와 경로가 이어진 알파카 정류장 가운데
 어느 곳에도 방문한 적이 없다면
 '알파카 수송'은 이용할 수 없습니다."
-168,"TEXT_CHOCOBOTAXISTAND_00300_SHORT_OF_GIL","이런…… 부족한 것 같네, 돈이.
+168,TEXT_CHOCOBOTAXISTAND_00300_SHORT_OF_GIL,"이런…… 부족한 것 같네, 돈이.
 소지금을 확인한 후에 다시 말을 걸어 줘."
-169,"TEXT_CHOCOBOTAXISTAND_00300_HELP1","이곳은 '알파카 수송'이야.
+169,TEXT_CHOCOBOTAXISTAND_00300_HELP1,"이곳은 '알파카 수송'이야.
 손님을 이동시켜 주지.
 안전하고, 빠르게, 원하는 알파카 정류장으로."
-170,"TEXT_CHOCOBOTAXISTAND_00300_HELP2","그런데 주의할 점이 있어.
+170,TEXT_CHOCOBOTAXISTAND_00300_HELP2,"그런데 주의할 점이 있어.
 두 가지 정도 말이야."
-171,"TEXT_CHOCOBOTAXISTAND_00300_HELP3","첫째…… 알파카의 고삐를 놓으면 안 돼.
+171,TEXT_CHOCOBOTAXISTAND_00300_HELP3,"첫째…… 알파카의 고삐를 놓으면 안 돼.
 그대로 이용이 종료되거든, 도중에 내리면."
-172,"TEXT_CHOCOBOTAXISTAND_00300_HELP4","둘째…… '목적지'로 고를 수 있는 알파카 정류장엔
+172,TEXT_CHOCOBOTAXISTAND_00300_HELP4,"둘째…… '목적지'로 고를 수 있는 알파카 정류장엔
 몇 가지 조건이 있어."
-173,"TEXT_CHOCOBOTAXISTAND_00300_HELP5","일단 '출발지'와 경로가 이어진 알파카 정류장이어야 해.
+173,TEXT_CHOCOBOTAXISTAND_00300_HELP5,"일단 '출발지'와 경로가 이어진 알파카 정류장이어야 해.
 그리고 손님이 그 정류장에 최소 한 번 방문한 적 있어야 해."
-174,"TEXT_CHOCOBOTAXISTAND_00300_HELP6","목적지를 알아야 갈 수 있거든.
+174,TEXT_CHOCOBOTAXISTAND_00300_HELP6,"목적지를 알아야 갈 수 있거든.
 아무리 알파카가 똑똑하다고 해도."
-175,"TEXT_CHOCOBOTAXISTAND_00300_HELP7","그리고 이곳에 있는 알파카는 훈련받았어,
+175,TEXT_CHOCOBOTAXISTAND_00300_HELP7,"그리고 이곳에 있는 알파카는 훈련받았어,
 정해진 경로로만 달리도록."
-176,"TEXT_CHOCOBOTAXISTAND_00300_HELP8","알파카는 감촉이 부드러워서 쾌적한 여행이 될 거야.
+176,TEXT_CHOCOBOTAXISTAND_00300_HELP8,"알파카는 감촉이 부드러워서 쾌적한 여행이 될 거야.
 또 거친 산길도 거뜬히 달리고, 마물도 잘 피해 다니지.
 그리고 이곳의 알파카는 온순해서 침도 뱉지 않아!"
-177,"TEXT_CHOCOBOTAXISTAND_00300_HELP9","……설명은 여기까지야.
+177,TEXT_CHOCOBOTAXISTAND_00300_HELP9,"……설명은 여기까지야.
 앞으로 애용해 줘, 우리 귀여운 알파카들을!"
-178,"TEXT_CHOCOBOTAXISTAND_00300_Q1_000_1","어떻게 하시겠습니까?"
-179,"TEXT_CHOCOBOTAXISTAND_00300_A1_000_1","알파카 수송을 이용한다"
-180,"TEXT_CHOCOBOTAXISTAND_00300_A1_000_2","알파카 수송에 대한 설명을 듣는다"
-181,"TEXT_CHOCOBOTAXISTAND_00300_A1_000_3","취소"
+178,TEXT_CHOCOBOTAXISTAND_00300_Q1_000_1,어떻게 하시겠습니까?
+179,TEXT_CHOCOBOTAXISTAND_00300_A1_000_1,알파카 수송을 이용한다
+180,TEXT_CHOCOBOTAXISTAND_00300_A1_000_2,알파카 수송에 대한 설명을 듣는다
+181,TEXT_CHOCOBOTAXISTAND_00300_A1_000_3,취소

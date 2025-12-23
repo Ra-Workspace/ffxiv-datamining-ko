@@ -1,164 +1,162 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_HEAVNZ326_01818_SEQ_00","부정한 삼탑의 굴린캄비는 모험가가 치료 준비를 시작하기를 바라는 듯하다."
-1,"TEXT_HEAVNZ326_01818_SEQ_01","굴린캄비와 대화했다. 부정한 삼탑에 있는 '칼 미크'와 대화하자."
-2,"TEXT_HEAVNZ326_01818_SEQ_02","칼 미크와 대화했다. 고지 드라바니아 '비탄의 폭포'에서 <Sheet(EventItem,2001757,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5D0103FF04EBA5BCFF04EC9D84</13> 찾자."
-3,"TEXT_HEAVNZ326_01818_SEQ_03","<Sheet(EventItem,2001757,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5D0103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 부정한 삼탑에 있는 '칼 미크'에게 보고하자."
-4,"TEXT_HEAVNZ326_01818_SEQ_04","칼 미크에게 보고하고 <Sheet(EventItem,2001757,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5D0103FF04EBA5BCFF04EC9D84</13> 하나 더 받았다. 고지 드라바니아 '초코보 숲'에서 약을 달여줄 사람을 찾아 <Sheet(EventItem,2001757,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5D0103FF04EBA5BCFF04EC9D84</13> 2개 건네자."
-5,"TEXT_HEAVNZ326_01818_SEQ_05","레오뉠프에게 <Sheet(EventItem,2001757,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5D0103FF04EBA5BCFF04EC9D84</13> 건네고, 완성된 <Sheet(EventItem,2001758,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5E0103FF04EBA5BCFF04EC9D84</13> 받았다. 부정한 삼탑에 있는 '칼 미크'에게 보고하자."
-6,"TEXT_HEAVNZ326_01818_SEQ_06","칼 미크에게 보고했다. 고지 드라바니아 '애도의 바위굴'로 가서 '칼 미크'와 합류하자."
-7,"TEXT_HEAVNZ326_01818_SEQ_07","칼 미크와 대화했다. 애도의 바위굴에 있는 '올 아스'에게 완성된 <Sheet(EventItem,2001758,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5E0103FF04EBA5BCFF04EC9D84</13> 사용하자."
-8,"TEXT_HEAVNZ326_01818_SEQ_08","올 아스에게 <Sheet(EventItem,2001758,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5E0103FF04EBA5BCFF04EC9D84</13> 사용하여 상처를 치료했다. 인간에 대한 그의 불신도 조금은 누그러진 것 같다. 마지막으로 부정한 삼탑에 돌아가 '굴린캄비'에게 <Sheet(EventItem,2001755,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5B0103FF04EBA5BCFF04EC9D84</13> 돌려주자."
-9,"TEXT_HEAVNZ326_01818_SEQ_09","굴린캄비에게 <Sheet(EventItem,2001755,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5B0103FF04EBA5BCFF04EC9D84</13> 돌려주었다. 굴린캄비는 '인간' 친구가 있었던 옛 시절을 회상하며, 언젠가 그런 날이 다시 올 것이라 예감한 모양이다. 용과 인간이 공존할 수 있는 미래를 위해, 칼 미크와의 인연을 앞으로도 계속 이어가자."
-10,"TEXT_HEAVNZ326_01818_SEQ_10",""
-11,"TEXT_HEAVNZ326_01818_SEQ_11",""
-12,"TEXT_HEAVNZ326_01818_SEQ_12",""
-13,"TEXT_HEAVNZ326_01818_SEQ_13",""
-14,"TEXT_HEAVNZ326_01818_SEQ_14",""
-15,"TEXT_HEAVNZ326_01818_SEQ_15",""
-16,"TEXT_HEAVNZ326_01818_SEQ_16",""
-17,"TEXT_HEAVNZ326_01818_SEQ_17",""
-18,"TEXT_HEAVNZ326_01818_SEQ_18",""
-19,"TEXT_HEAVNZ326_01818_SEQ_19",""
-20,"TEXT_HEAVNZ326_01818_SEQ_20",""
-21,"TEXT_HEAVNZ326_01818_SEQ_21",""
-22,"TEXT_HEAVNZ326_01818_SEQ_22",""
-23,"TEXT_HEAVNZ326_01818_SEQ_23",""
-24,"TEXT_HEAVNZ326_01818_TODO_00","칼 미크와 대화"
-25,"TEXT_HEAVNZ326_01818_TODO_01","비탄의 폭포에서 <Sheet(EventItem,2001757,0)/> 입수"
-26,"TEXT_HEAVNZ326_01818_TODO_02","칼 미크에게 보고"
-27,"TEXT_HEAVNZ326_01818_TODO_03","초코보 숲에서 주민에게 <Sheet(EventItem,2001757,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5D0103FF04EBA5BCFF04EC9D84</13> 전달하여 약 달이기"
-28,"TEXT_HEAVNZ326_01818_TODO_04","칼 미크에게 보고"
-29,"TEXT_HEAVNZ326_01818_TODO_05","칼 미크와 대화"
-30,"TEXT_HEAVNZ326_01818_TODO_06","올 아스에게 <Sheet(EventItem,2001758,0)/> 사용"
-31,"TEXT_HEAVNZ326_01818_TODO_07","굴린캄비에게 <Sheet(EventItem,2001755,0)/> 전달"
-32,"TEXT_HEAVNZ326_01818_TODO_08",""
-33,"TEXT_HEAVNZ326_01818_TODO_09",""
-34,"TEXT_HEAVNZ326_01818_TODO_10",""
-35,"TEXT_HEAVNZ326_01818_TODO_11",""
-36,"TEXT_HEAVNZ326_01818_TODO_12",""
-37,"TEXT_HEAVNZ326_01818_TODO_13",""
-38,"TEXT_HEAVNZ326_01818_TODO_14",""
-39,"TEXT_HEAVNZ326_01818_TODO_15",""
-40,"TEXT_HEAVNZ326_01818_TODO_16",""
-41,"TEXT_HEAVNZ326_01818_TODO_17",""
-42,"TEXT_HEAVNZ326_01818_TODO_18",""
-43,"TEXT_HEAVNZ326_01818_TODO_19",""
-44,"TEXT_HEAVNZ326_01818_TODO_20",""
-45,"TEXT_HEAVNZ326_01818_TODO_21",""
-46,"TEXT_HEAVNZ326_01818_TODO_22",""
-47,"TEXT_HEAVNZ326_01818_TODO_23",""
-48,"TEXT_HEAVNZ326_01818_GULLINKAMBI_000_000","석판을 보여줘서 고맙다.
+#,Unknown0,Unknown1
+0,TEXT_HEAVNZ326_01818_SEQ_00,부정한 삼탑의 굴린캄비는 모험가가 치료 준비를 시작하기를 바라는 듯하다.
+1,TEXT_HEAVNZ326_01818_SEQ_01,굴린캄비와 대화했다. 부정한 삼탑에 있는 '칼 미크'와 대화하자.
+2,TEXT_HEAVNZ326_01818_SEQ_02,칼 미크와 대화했다. 고지 드라바니아 '비탄의 폭포'에서  찾자.
+3,TEXT_HEAVNZ326_01818_SEQ_03, 손에 넣었다. 부정한 삼탑에 있는 '칼 미크'에게 보고하자.
+4,TEXT_HEAVNZ326_01818_SEQ_04,칼 미크에게 보고하고  하나 더 받았다. 고지 드라바니아 '초코보 숲'에서 약을 달여줄 사람을 찾아  2개 건네자.
+5,TEXT_HEAVNZ326_01818_SEQ_05,"레오뉠프에게  건네고, 완성된  받았다. 부정한 삼탑에 있는 '칼 미크'에게 보고하자."
+6,TEXT_HEAVNZ326_01818_SEQ_06,칼 미크에게 보고했다. 고지 드라바니아 '애도의 바위굴'로 가서 '칼 미크'와 합류하자.
+7,TEXT_HEAVNZ326_01818_SEQ_07,칼 미크와 대화했다. 애도의 바위굴에 있는 '올 아스'에게 완성된  사용하자.
+8,TEXT_HEAVNZ326_01818_SEQ_08,올 아스에게  사용하여 상처를 치료했다. 인간에 대한 그의 불신도 조금은 누그러진 것 같다. 마지막으로 부정한 삼탑에 돌아가 '굴린캄비'에게  돌려주자.
+9,TEXT_HEAVNZ326_01818_SEQ_09,"굴린캄비에게  돌려주었다. 굴린캄비는 '인간' 친구가 있었던 옛 시절을 회상하며, 언젠가 그런 날이 다시 올 것이라 예감한 모양이다. 용과 인간이 공존할 수 있는 미래를 위해, 칼 미크와의 인연을 앞으로도 계속 이어가자."
+10,TEXT_HEAVNZ326_01818_SEQ_10,
+11,TEXT_HEAVNZ326_01818_SEQ_11,
+12,TEXT_HEAVNZ326_01818_SEQ_12,
+13,TEXT_HEAVNZ326_01818_SEQ_13,
+14,TEXT_HEAVNZ326_01818_SEQ_14,
+15,TEXT_HEAVNZ326_01818_SEQ_15,
+16,TEXT_HEAVNZ326_01818_SEQ_16,
+17,TEXT_HEAVNZ326_01818_SEQ_17,
+18,TEXT_HEAVNZ326_01818_SEQ_18,
+19,TEXT_HEAVNZ326_01818_SEQ_19,
+20,TEXT_HEAVNZ326_01818_SEQ_20,
+21,TEXT_HEAVNZ326_01818_SEQ_21,
+22,TEXT_HEAVNZ326_01818_SEQ_22,
+23,TEXT_HEAVNZ326_01818_SEQ_23,
+24,TEXT_HEAVNZ326_01818_TODO_00,칼 미크와 대화
+25,TEXT_HEAVNZ326_01818_TODO_01,비탄의 폭포에서  입수
+26,TEXT_HEAVNZ326_01818_TODO_02,칼 미크에게 보고
+27,TEXT_HEAVNZ326_01818_TODO_03,초코보 숲에서 주민에게  전달하여 약 달이기
+28,TEXT_HEAVNZ326_01818_TODO_04,칼 미크에게 보고
+29,TEXT_HEAVNZ326_01818_TODO_05,칼 미크와 대화
+30,TEXT_HEAVNZ326_01818_TODO_06,올 아스에게  사용
+31,TEXT_HEAVNZ326_01818_TODO_07,굴린캄비에게  전달
+32,TEXT_HEAVNZ326_01818_TODO_08,
+33,TEXT_HEAVNZ326_01818_TODO_09,
+34,TEXT_HEAVNZ326_01818_TODO_10,
+35,TEXT_HEAVNZ326_01818_TODO_11,
+36,TEXT_HEAVNZ326_01818_TODO_12,
+37,TEXT_HEAVNZ326_01818_TODO_13,
+38,TEXT_HEAVNZ326_01818_TODO_14,
+39,TEXT_HEAVNZ326_01818_TODO_15,
+40,TEXT_HEAVNZ326_01818_TODO_16,
+41,TEXT_HEAVNZ326_01818_TODO_17,
+42,TEXT_HEAVNZ326_01818_TODO_18,
+43,TEXT_HEAVNZ326_01818_TODO_19,
+44,TEXT_HEAVNZ326_01818_TODO_20,
+45,TEXT_HEAVNZ326_01818_TODO_21,
+46,TEXT_HEAVNZ326_01818_TODO_22,
+47,TEXT_HEAVNZ326_01818_TODO_23,
+48,TEXT_HEAVNZ326_01818_GULLINKAMBI_000_000,"석판을 보여줘서 고맙다.
 이건 돌려줄 테니 칼과 함께 올이를 돌봐주렴."
-49,"TEXT_HEAVNZ326_01818_KALMYHK_000_001","얼른 준비를 시작하자, <Highlight>ObjectParameter(1)</Highlight>!
+49,TEXT_HEAVNZ326_01818_KALMYHK_000_001,"얼른 준비를 시작하자, Player Player!
 일단 엄마한테 석판을 받아와!"
-50,"TEXT_HEAVNZ326_01818_GULLINKAMBI_000_013","칼과 함께 올이를 돌봐주렴."
-51,"TEXT_HEAVNZ326_01818_KALMYHK_000_010","좋~았어, 그럼 준비를 시작하자!
+50,TEXT_HEAVNZ326_01818_GULLINKAMBI_000_013,칼과 함께 올이를 돌봐주렴.
+51,TEXT_HEAVNZ326_01818_KALMYHK_000_010,"좋~았어, 그럼 준비를 시작하자!
 저기, 그거 나한테 읽어줄래?
 난 인간이 쓰는 '글자'를 모르거든."
-52,"TEXT_HEAVNZ326_01818_SYSTEM_000_011","용의 외상을 치료하는 방법이 적혀있다…….
-필요한 재료는 <Sheet(EventItem,2001757,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5D0103FF04EB9DBCFF07EC9DB4EB9DBC</13>고 한다."
-53,"TEXT_HEAVNZ326_01818_KALMYHK_000_012","<Sheet(EventItem,2001757,0)/>?
+52,TEXT_HEAVNZ326_01818_SYSTEM_000_011,"용의 외상을 치료하는 방법이 적혀있다…….
+필요한 재료는 고 한다."
+53,TEXT_HEAVNZ326_01818_KALMYHK_000_012,"?
 그건 저쪽 절벽에 조금 나 있으니까 내가 가서 뜯어올게!
 '비탄의 폭포' 옆에도 있으니까 그쪽은 네가 찾아봐!"
-54,"TEXT_HEAVNZ326_01818_KALMYHK_000_013","다 구하고 나면 다시 여기서 만나자!
+54,TEXT_HEAVNZ326_01818_KALMYHK_000_013,"다 구하고 나면 다시 여기서 만나자!
 좋~아, 내가 먼저 뜯어오고 말겠어~!!"
-55,"TEXT_HEAVNZ326_01818_KALMYHK_000_020","<Highlight>ObjectParameter(1)</Highlight>!
-어떻게 됐어? <Sheet(EventItem,2001757,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5D0103FF04EB8A94FF04EC9D80</13> 찾았어?"
-56,"TEXT_HEAVNZ326_01818_KALMYHK_000_021","다행이다! 봐, 나도 가져왔어!
+55,TEXT_HEAVNZ326_01818_KALMYHK_000_020,"Player Player!
+어떻게 됐어?  찾았어?"
+56,TEXT_HEAVNZ326_01818_KALMYHK_000_021,"다행이다! 봐, 나도 가져왔어!
 이제 다음은 어떻게 하면 돼?
 석판에 쓰여 있는 인간의 글자를 읽어줘!"
-57,"TEXT_HEAVNZ326_01818_KALMYHK_000_022","아~ '비룡초'를 '달이면' 된단 말이지?
-그럼 내가 가져온 <Sheet(EventItem,2001757,0)/><13>FF15022811FF0A4576656E744974656DF61E8B5D0103FF04EBA5BCFF04EC9D84</13> 줄 테니까
+57,TEXT_HEAVNZ326_01818_KALMYHK_000_022,"아~ '비룡초'를 '달이면' 된단 말이지?
+그럼 내가 가져온  줄 테니까
 어디 가져가서 '달이기'를 해줄래?"
-58,"TEXT_HEAVNZ326_01818_KALMYHK_000_023","가까운 숲 같은 데에 인간이 어디 없을까?
+58,TEXT_HEAVNZ326_01818_KALMYHK_000_023,"가까운 숲 같은 데에 인간이 어디 없을까?
 '달이기'를 도와줄 사람이 있으면 찾아서 부탁해봐!
 난 여기서 기다릴 테니까 끝나면 와!"
-59,"TEXT_HEAVNZ326_01818_KALMYHK_000_032","가까운 숲 같은 데에 인간이 어디 없을까?
+59,TEXT_HEAVNZ326_01818_KALMYHK_000_032,"가까운 숲 같은 데에 인간이 어디 없을까?
 '달이기'를 도와줄 사람이 있으면 찾아서 부탁해봐!
 난 여기서 기다릴 테니까 끝나면 와!"
-60,"TEXT_HEAVNZ326_01818_LEONULFE_000_030","음? 왜, 무슨 일이야?"
-61,"TEXT_HEAVNZ326_01818_LEONULFE_000_031","그래? 그렇다면 이 냄비를 빌려주지.
+60,TEXT_HEAVNZ326_01818_LEONULFE_000_030,"음? 왜, 무슨 일이야?"
+61,TEXT_HEAVNZ326_01818_LEONULFE_000_031,"그래? 그렇다면 이 냄비를 빌려주지.
 그런데…… 이런 독초를 달여서 어디다 쓰려고?
 초코보 덫이라도 만들게?"
-62,"TEXT_HEAVNZ326_01818_LEONULFE_000_042","그런 독초를 달여서 어디다 쓰려고?
+62,TEXT_HEAVNZ326_01818_LEONULFE_000_042,"그런 독초를 달여서 어디다 쓰려고?
 초코보 덫이라도 만들게?"
-63,"TEXT_HEAVNZ326_01818_KALMYHK_000_040","어떻게 됐어? 비룡초 '달이기' 했어!?"
-64,"TEXT_HEAVNZ326_01818_KALMYHK_000_041","우와~ 잘했어~!
+63,TEXT_HEAVNZ326_01818_KALMYHK_000_040,어떻게 됐어? 비룡초 '달이기' 했어!?
+64,TEXT_HEAVNZ326_01818_KALMYHK_000_041,"우와~ 잘했어~!
 그럼 이제 어떻게 해야 돼?"
-65,"TEXT_HEAVNZ326_01818_KALMYHK_000_042","아하~ 그 '약액'을 상처에 부어주면
+65,TEXT_HEAVNZ326_01818_KALMYHK_000_042,"아하~ 그 '약액'을 상처에 부어주면
 아픈 게 가라앉는단 말이지?"
-66,"TEXT_HEAVNZ326_01818_KALMYHK_000_043","그리고 상처를 깨끗하게 유지하면
+66,TEXT_HEAVNZ326_01818_KALMYHK_000_043,"그리고 상처를 깨끗하게 유지하면
 낫는 속도가 훨~~~씬 빨라지는 거구나!"
-67,"TEXT_HEAVNZ326_01818_KALMYHK_000_044","좋~아, 얼른 올 형아한테 가자!
+67,TEXT_HEAVNZ326_01818_KALMYHK_000_044,"좋~아, 얼른 올 형아한테 가자!
 나 먼저 가 있을게!"
-68,"TEXT_HEAVNZ326_01818_KALMYHK_000_050","쉬~잇!
+68,TEXT_HEAVNZ326_01818_KALMYHK_000_050,"쉬~잇!
 ……올 형아, 지금 자는 것 같아."
-69,"TEXT_HEAVNZ326_01818_KALMYHK_000_051","맞다, 이 틈에 '약액'을 써서
+69,TEXT_HEAVNZ326_01818_KALMYHK_000_051,"맞다, 이 틈에 '약액'을 써서
 상처가 어떤지 살펴보자!"
-70,"TEXT_HEAVNZ326_01818_OHLAHS_000_051","…………."
-71,"TEXT_HEAVNZ326_01818_KALMYHK_000_060","좋아, '약액'이 효과가 있는 동안
+70,TEXT_HEAVNZ326_01818_OHLAHS_000_051,………….
+71,TEXT_HEAVNZ326_01818_KALMYHK_000_060,"좋아, '약액'이 효과가 있는 동안
 상처를 자세히 살펴보자."
-72,"TEXT_HEAVNZ326_01818_KALMYHK_000_061","헉! 상처 안에 뭐가 박혀있는 것 같은데?
+72,TEXT_HEAVNZ326_01818_KALMYHK_000_061,"헉! 상처 안에 뭐가 박혀있는 것 같은데?
 얼른 꺼내야겠어!"
-73,"TEXT_HEAVNZ326_01818_KALMYHK_000_062","와, 꺼냈구나! 다행이다!
+73,TEXT_HEAVNZ326_01818_KALMYHK_000_062,"와, 꺼냈구나! 다행이다!
 올 형아, 좀 일어나 봐!"
-74,"TEXT_HEAVNZ326_01818_OHLAHS_000_063","……에잇, 잘 자고 있었는데 왜 깨워?
+74,TEXT_HEAVNZ326_01818_OHLAHS_000_063,"……에잇, 잘 자고 있었는데 왜 깨워?
 아니…… 칼, 너 이 녀석! 또 저 인간이랑 같이 다니는 거야!?
 어…… 잠깐, 왠지 통증이 덜해진 것 같은데."
-75,"TEXT_HEAVNZ326_01818_KALMYHK_000_064","올 형아, 내 말 좀 들어봐!
+75,TEXT_HEAVNZ326_01818_KALMYHK_000_064,"올 형아, 내 말 좀 들어봐!
 형 상처 안에 박혀있던 물건을
-<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 찾아서 빼내 줬어!"
-76,"TEXT_HEAVNZ326_01818_OHLAHS_000_065","쳇, 쓸데없는 짓 하기는…….
+Player Player 찾아서 빼내 줬어!"
+76,TEXT_HEAVNZ326_01818_OHLAHS_000_065,"쳇, 쓸데없는 짓 하기는…….
 푹 자면 알아서 나았을 텐데."
-77,"TEXT_HEAVNZ326_01818_KALMYHK_000_066","……자, 잘 생각해봐, 올 형아!
+77,TEXT_HEAVNZ326_01818_KALMYHK_000_066,"……자, 잘 생각해봐, 올 형아!
 물론 잠을 자면 상처가 낫긴 하지만,
 다 나으려면 시간이 한참 걸리잖아!"
-78,"TEXT_HEAVNZ326_01818_KALMYHK_000_067","게다가 그동안 계속 아프기도 하고!
-하지만 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 약을 바르고
+78,TEXT_HEAVNZ326_01818_KALMYHK_000_067,"게다가 그동안 계속 아프기도 하고!
+하지만 Player Player 약을 바르고
 상처를 돌봐주니까 금세 편해지지 않았어?"
-79,"TEXT_HEAVNZ326_01818_KALMYHK_000_068","우리는 인간이랑 다르게 발톱이랑 엄니가 있어서
+79,TEXT_HEAVNZ326_01818_KALMYHK_000_068,"우리는 인간이랑 다르게 발톱이랑 엄니가 있어서
 약을 만들거나 상처에 뭐가 박혀도 빼내지 못하잖아."
-80,"TEXT_HEAVNZ326_01818_KALMYHK_000_069","올 형아를 다치게 한 나쁜 인간도 있는 건 맞지만,
-<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 나쁜 인간이 아니야! 그러니까……
-올 형아도 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB9E91FF07EC9DB4EB9E91</13> 친하게 지냈으면 좋겠어!"
-81,"TEXT_HEAVNZ326_01818_OHLAHS_000_070","……날 다치게 한 건 인간 기병들이었어.
+80,TEXT_HEAVNZ326_01818_KALMYHK_000_069,"올 형아를 다치게 한 나쁜 인간도 있는 건 맞지만,
+Player Player 나쁜 인간이 아니야! 그러니까……
+올 형아도 Player Player 친하게 지냈으면 좋겠어!"
+81,TEXT_HEAVNZ326_01818_OHLAHS_000_070,"……날 다치게 한 건 인간 기병들이었어.
 그놈들과 같은 동족은 믿을 수 없다."
-82,"TEXT_HEAVNZ326_01818_OHLAHS_000_071","하지만…… 한편으론 네 말대로
+82,TEXT_HEAVNZ326_01818_OHLAHS_000_071,"하지만…… 한편으론 네 말대로
 내 상처를 치료해준 것도 인간이지…….
 칼 말대로 나쁜 놈들만 있는 건 아닌 모양이야."
-83,"TEXT_HEAVNZ326_01818_OHLAHS_000_072","<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB9DBCFF07EC9DB4EB9DBC</13>고 했지……?
+83,TEXT_HEAVNZ326_01818_OHLAHS_000_072,"Player Player고 했지……?
 치료해줘서 고맙다."
-84,"TEXT_HEAVNZ326_01818_OHLAHS_000_073","……칼, 너처럼 쉽게 친해지기는 힘들겠지만
+84,TEXT_HEAVNZ326_01818_OHLAHS_000_073,"……칼, 너처럼 쉽게 친해지기는 힘들겠지만
 나도 인간에 대한 생각을 조금씩 바꿔나가도록 할게.
 일단 한숨 더 자고 나서……."
-85,"TEXT_HEAVNZ326_01818_KALMYHK_000_074","정말!? 이얏호~~!!
+85,TEXT_HEAVNZ326_01818_KALMYHK_000_074,"정말!? 이얏호~~!!
 돌에 적힌 내용이 정말로 도움이 됐어!
 같이 엄마한테 가서 돌려드리자~!"
-86,"TEXT_HEAVNZ326_01818_OHLAHS_000_075","이 틈에 '약액'을 써서
+86,TEXT_HEAVNZ326_01818_OHLAHS_000_075,"이 틈에 '약액'을 써서
 상처가 어떤지 살펴보자!"
-87,"TEXT_HEAVNZ326_01818_GULLINKAMBI_000_080","후후후, 얘기하지 않아도 표정을 보면 알겠어.
+87,TEXT_HEAVNZ326_01818_GULLINKAMBI_000_080,"후후후, 얘기하지 않아도 표정을 보면 알겠어.
 잘 해결하고 왔나 보구나."
-88,"TEXT_HEAVNZ326_01818_GULLINKAMBI_000_081","내 친구가 남긴 석판을 찾아줘서 고맙다.
+88,TEXT_HEAVNZ326_01818_GULLINKAMBI_000_081,"내 친구가 남긴 석판을 찾아줘서 고맙다.
 앞으로는 내가 소중히 보관해야겠어."
-89,"TEXT_HEAVNZ326_01818_GULLINKAMBI_000_082","정말 고맙구나.
+89,TEXT_HEAVNZ326_01818_GULLINKAMBI_000_082,"정말 고맙구나.
 ……그 녀석이 이걸 남긴 게 벌써 까마득한 옛날이거늘,
 오랜 세월이 흘러 다시 이렇게 쓰이는 날이 오다니……."
-90,"TEXT_HEAVNZ326_01818_GULLINKAMBI_000_083","이 석판은 내가 소중히 보관하마.
+90,TEXT_HEAVNZ326_01818_GULLINKAMBI_000_083,"이 석판은 내가 소중히 보관하마.
 언젠가 용과 인간이 옛날처럼 평화롭게 지낼 수 있게 되면
 이게 다시 필요해질 테니까."
-91,"TEXT_HEAVNZ326_01818_GULLINKAMBI_000_084","물론, 다시 그 폐허에 숨겨두지는 않을 거란다.
+91,TEXT_HEAVNZ326_01818_GULLINKAMBI_000_084,"물론, 다시 그 폐허에 숨겨두지는 않을 거란다.
 너 같은 '날개 없는 친구'를 또 험한 산길로 보내는 건
 내 마음이 편치 않으니까."
-92,"TEXT_HEAVNZ326_01818_GULLINKAMBI_000_085","……고맙다.
+92,TEXT_HEAVNZ326_01818_GULLINKAMBI_000_085,"……고맙다.
 앞으로도 칼과 사이좋게 지내면서
 인간과 용이 공존할 수 있는 미래를 만들어주렴."
-93,"TEXT_HEAVNZ326_01818_KALMYHK_000_086","<Highlight>ObjectParameter(1)</Highlight>, 난 네가 정말 좋아~!
+93,TEXT_HEAVNZ326_01818_KALMYHK_000_086,"Player Player, 난 네가 정말 좋아~!
 앞으로도 나랑 계~~속 친구로 지내자!!
 그럼 다음에 또 봐~!"
-94,"TEXT_HEAVNZ326_01818_KALMYHK_000_085","<Highlight>ObjectParameter(1)</Highlight>, 정말 고마웠어!
+94,TEXT_HEAVNZ326_01818_KALMYHK_000_085,"Player Player, 정말 고마웠어!
 난 네가 정말 좋아~!
 앞으로도 나랑 계~~속 친구로 지내자!!"
-95,"TEXT_HEAVNZ326_01818_OHLAHS_000_086","용과 인간이 반목하지 않고 협력하는 미래라…….
+95,TEXT_HEAVNZ326_01818_OHLAHS_000_086,"용과 인간이 반목하지 않고 협력하는 미래라…….
 나도 인간에 대한 생각을 조금씩 바꿔나가야겠어."

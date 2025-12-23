@@ -1,148 +1,146 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBWHM520_01720_SEQ_00","가을박 마을의 에쉬바는 모험가에게 제안할 일이 있는 듯하다."
-1,"TEXT_JOBWHM520_01720_SEQ_01","에쉬바가 커르다스 지방으로 갈 것을 제안했다. 커르다스 중앙고지 '용머리 전진기지'에 있는 '에쉬바'와 대화하자."
-2,"TEXT_JOBWHM520_01720_SEQ_02","에쉬바가 말하길, 수맥이 흐르는 위치와 마물이 날뛰는 장소가 일치한다고 한다. 커르다스 중앙고지 '용머리 벌판'에 있는 '에쉬바'와 합류하자."
-3,"TEXT_JOBWHM520_01720_SEQ_03","'부정한 것'에 오염된 마물을 처치했다. 용머리 벌판에서 <Sheet(EObj,2005889,0)/><13>FF1002280CFF05454F626AF61E9B810103FF04EBA5BCFF04EC9D84</13> 제압하여 정화하자."
-4,"TEXT_JOBWHM520_01720_SEQ_04","<Sheet(EObj,2005889,0)/><13>FF1002280CFF05454F626AF61E9B810103FF04EBA5BCFF04EC9D84</13> 제압하여 정화했다. 용머리 전진기지에서 '에쉬바'와 대화하자."
-5,"TEXT_JOBWHM520_01720_SEQ_05","에쉬바가 다음 목적지를 찾아두겠다고 한다. 목적지가 결정될 때까지 꾸준히 수련을 쌓자.
+#,Unknown0,Unknown1
+0,TEXT_JOBWHM520_01720_SEQ_00,가을박 마을의 에쉬바는 모험가에게 제안할 일이 있는 듯하다.
+1,TEXT_JOBWHM520_01720_SEQ_01,에쉬바가 커르다스 지방으로 갈 것을 제안했다. 커르다스 중앙고지 '용머리 전진기지'에 있는 '에쉬바'와 대화하자.
+2,TEXT_JOBWHM520_01720_SEQ_02,"에쉬바가 말하길, 수맥이 흐르는 위치와 마물이 날뛰는 장소가 일치한다고 한다. 커르다스 중앙고지 '용머리 벌판'에 있는 '에쉬바'와 합류하자."
+3,TEXT_JOBWHM520_01720_SEQ_03,'부정한 것'에 오염된 마물을 처치했다. 용머리 벌판에서  제압하여 정화하자.
+4,TEXT_JOBWHM520_01720_SEQ_04, 제압하여 정화했다. 용머리 전진기지에서 '에쉬바'와 대화하자.
+5,TEXT_JOBWHM520_01720_SEQ_05,"에쉬바가 다음 목적지를 찾아두겠다고 한다. 목적지가 결정될 때까지 꾸준히 수련을 쌓자.
 
 ※ 백마도사 레벨이 54 이상 되면 용머리 전진기지에 있는 에쉬바에게 다음 백마도사 퀘스트를 받을 수 있습니다."
-6,"TEXT_JOBWHM520_01720_SEQ_06",""
-7,"TEXT_JOBWHM520_01720_SEQ_07",""
-8,"TEXT_JOBWHM520_01720_SEQ_08",""
-9,"TEXT_JOBWHM520_01720_SEQ_09",""
-10,"TEXT_JOBWHM520_01720_SEQ_10",""
-11,"TEXT_JOBWHM520_01720_SEQ_11",""
-12,"TEXT_JOBWHM520_01720_SEQ_12",""
-13,"TEXT_JOBWHM520_01720_SEQ_13",""
-14,"TEXT_JOBWHM520_01720_SEQ_14",""
-15,"TEXT_JOBWHM520_01720_SEQ_15",""
-16,"TEXT_JOBWHM520_01720_SEQ_16",""
-17,"TEXT_JOBWHM520_01720_SEQ_17",""
-18,"TEXT_JOBWHM520_01720_SEQ_18",""
-19,"TEXT_JOBWHM520_01720_SEQ_19",""
-20,"TEXT_JOBWHM520_01720_SEQ_20",""
-21,"TEXT_JOBWHM520_01720_SEQ_21",""
-22,"TEXT_JOBWHM520_01720_SEQ_22",""
-23,"TEXT_JOBWHM520_01720_SEQ_23",""
-24,"TEXT_JOBWHM520_01720_TODO_00","용머리 전진기지에서 에쉬바와 대화"
-25,"TEXT_JOBWHM520_01720_TODO_01","에쉬바와 합류"
-26,"TEXT_JOBWHM520_01720_TODO_02","<Sheet(EObj,2005889,0)/><13>FF1002280CFF05454F626AF61E9B810103FF04EBA5BCFF04EC9D84</13> 제압하여 정화"
-27,"TEXT_JOBWHM520_01720_TODO_03","에쉬바와 대화"
-28,"TEXT_JOBWHM520_01720_TODO_04",""
-29,"TEXT_JOBWHM520_01720_TODO_05",""
-30,"TEXT_JOBWHM520_01720_TODO_06",""
-31,"TEXT_JOBWHM520_01720_TODO_07",""
-32,"TEXT_JOBWHM520_01720_TODO_08",""
-33,"TEXT_JOBWHM520_01720_TODO_09",""
-34,"TEXT_JOBWHM520_01720_TODO_10",""
-35,"TEXT_JOBWHM520_01720_TODO_11",""
-36,"TEXT_JOBWHM520_01720_TODO_12",""
-37,"TEXT_JOBWHM520_01720_TODO_13",""
-38,"TEXT_JOBWHM520_01720_TODO_14",""
-39,"TEXT_JOBWHM520_01720_TODO_15",""
-40,"TEXT_JOBWHM520_01720_TODO_16",""
-41,"TEXT_JOBWHM520_01720_TODO_17",""
-42,"TEXT_JOBWHM520_01720_TODO_18",""
-43,"TEXT_JOBWHM520_01720_TODO_19",""
-44,"TEXT_JOBWHM520_01720_TODO_20",""
-45,"TEXT_JOBWHM520_01720_TODO_21",""
-46,"TEXT_JOBWHM520_01720_TODO_22",""
-47,"TEXT_JOBWHM520_01720_TODO_23",""
-48,"TEXT_JOBWHM520_01720_ESCHIVA_000_000","앗, <Highlight>ObjectParameter(1)</Highlight> 님!
+6,TEXT_JOBWHM520_01720_SEQ_06,
+7,TEXT_JOBWHM520_01720_SEQ_07,
+8,TEXT_JOBWHM520_01720_SEQ_08,
+9,TEXT_JOBWHM520_01720_SEQ_09,
+10,TEXT_JOBWHM520_01720_SEQ_10,
+11,TEXT_JOBWHM520_01720_SEQ_11,
+12,TEXT_JOBWHM520_01720_SEQ_12,
+13,TEXT_JOBWHM520_01720_SEQ_13,
+14,TEXT_JOBWHM520_01720_SEQ_14,
+15,TEXT_JOBWHM520_01720_SEQ_15,
+16,TEXT_JOBWHM520_01720_SEQ_16,
+17,TEXT_JOBWHM520_01720_SEQ_17,
+18,TEXT_JOBWHM520_01720_SEQ_18,
+19,TEXT_JOBWHM520_01720_SEQ_19,
+20,TEXT_JOBWHM520_01720_SEQ_20,
+21,TEXT_JOBWHM520_01720_SEQ_21,
+22,TEXT_JOBWHM520_01720_SEQ_22,
+23,TEXT_JOBWHM520_01720_SEQ_23,
+24,TEXT_JOBWHM520_01720_TODO_00,용머리 전진기지에서 에쉬바와 대화
+25,TEXT_JOBWHM520_01720_TODO_01,에쉬바와 합류
+26,TEXT_JOBWHM520_01720_TODO_02, 제압하여 정화
+27,TEXT_JOBWHM520_01720_TODO_03,에쉬바와 대화
+28,TEXT_JOBWHM520_01720_TODO_04,
+29,TEXT_JOBWHM520_01720_TODO_05,
+30,TEXT_JOBWHM520_01720_TODO_06,
+31,TEXT_JOBWHM520_01720_TODO_07,
+32,TEXT_JOBWHM520_01720_TODO_08,
+33,TEXT_JOBWHM520_01720_TODO_09,
+34,TEXT_JOBWHM520_01720_TODO_10,
+35,TEXT_JOBWHM520_01720_TODO_11,
+36,TEXT_JOBWHM520_01720_TODO_12,
+37,TEXT_JOBWHM520_01720_TODO_13,
+38,TEXT_JOBWHM520_01720_TODO_14,
+39,TEXT_JOBWHM520_01720_TODO_15,
+40,TEXT_JOBWHM520_01720_TODO_16,
+41,TEXT_JOBWHM520_01720_TODO_17,
+42,TEXT_JOBWHM520_01720_TODO_18,
+43,TEXT_JOBWHM520_01720_TODO_19,
+44,TEXT_JOBWHM520_01720_TODO_20,
+45,TEXT_JOBWHM520_01720_TODO_21,
+46,TEXT_JOBWHM520_01720_TODO_22,
+47,TEXT_JOBWHM520_01720_TODO_23,
+48,TEXT_JOBWHM520_01720_ESCHIVA_000_000,"앗, Player Player 님!
 아 토와 님의 여행 기록을 쭉 훑어봤습니다.
 그런데 좀 마음에 걸리는 부분이 있더군요……."
-49,"TEXT_JOBWHM520_01720_ESCHIVA_000_001","과거에 '부정한 것'이 지하 수맥을 통해서 흘러들어서
+49,TEXT_JOBWHM520_01720_ESCHIVA_000_001,"과거에 '부정한 것'이 지하 수맥을 통해서 흘러들어서
 아 토와 님이 조사에 나섰던 적이 있었다고 합니다.
 그 수맥이 샘솟는 북녘 땅 아발라시아 산맥까지요……."
-50,"TEXT_JOBWHM520_01720_ESCHIVA_000_002","결과적으로 정화에는 성공하셨다고 하는데
+50,TEXT_JOBWHM520_01720_ESCHIVA_000_002,"결과적으로 정화에는 성공하셨다고 하는데
 '지하 수맥을 통해서'라는 부분이 마음에 걸리네요."
-51,"TEXT_JOBWHM520_01720_ESCHIVA_000_003","생각해보면 이번 일은 좀 이상하지 않나요?
+51,TEXT_JOBWHM520_01720_ESCHIVA_000_003,"생각해보면 이번 일은 좀 이상하지 않나요?
 대정령이 경고할 정도의 위기가 눈앞에 닥쳤는데
 뿔의 아이도 도사님들도 아무도 눈치채지 못했잖아요……."
-52,"TEXT_JOBWHM520_01720_ESCHIVA_000_004","그리고 대정령이 '흘러들었다'고 표현한 점도 그래요.
+52,TEXT_JOBWHM520_01720_ESCHIVA_000_004,"그리고 대정령이 '흘러들었다'고 표현한 점도 그래요.
 이번 '부정한 것' 또한 지하 수맥을 통해 흘러들었기에
 아무도 발견하지 못한 게 아닐까요?"
-53,"TEXT_JOBWHM520_01720_ESCHIVA_000_005","아 토와 님이 정화하신 지 상당한 세월이 흘렀습니다.
+53,TEXT_JOBWHM520_01720_ESCHIVA_000_005,"아 토와 님이 정화하신 지 상당한 세월이 흘렀습니다.
 그동안 또 다른 '부정한 것'의 근원이 발생했다고 해도
 전혀 이상할 게 없어요."
-54,"TEXT_JOBWHM520_01720_ESCHIVA_000_006","우선 아발라시아 산맥 남쪽 끝에 있는
+54,TEXT_JOBWHM520_01720_ESCHIVA_000_006,"우선 아발라시아 산맥 남쪽 끝에 있는
 커르다스 중앙고지 '용머리 벌판' 일대부터
 조사를 시작해보죠!"
-55,"TEXT_JOBWHM520_01720_ESCHIVA_000_010","……온 세상이 얼어붙었네요.
+55,TEXT_JOBWHM520_01720_ESCHIVA_000_010,"……온 세상이 얼어붙었네요.
 지역에 따라 이렇게도 풍경이 달라지는군요."
-56,"TEXT_JOBWHM520_01720_ESCHIVA_000_011","아, 실은 제가 검은장막 숲을 나온 게 처음이거든요…….
-<Highlight>ObjectParameter(1)</Highlight> 님에게는 익숙한 광경이죠?"
-57,"TEXT_JOBWHM520_01720_ESCHIVA_000_012","당신을 기다리는 동안 현지에 계신 기병님들께
+56,TEXT_JOBWHM520_01720_ESCHIVA_000_011,"아, 실은 제가 검은장막 숲을 나온 게 처음이거든요…….
+Player Player 님에게는 익숙한 광경이죠?"
+57,TEXT_JOBWHM520_01720_ESCHIVA_000_012,"당신을 기다리는 동안 현지에 계신 기병님들께
 수맥에 관해 물어봤는데요……."
-58,"TEXT_JOBWHM520_01720_ESCHIVA_000_013","수맥이 흐르는 위치에 마물이 자주 나타나서
+58,TEXT_JOBWHM520_01720_ESCHIVA_000_013,"수맥이 흐르는 위치에 마물이 자주 나타나서
 문제가 되고 있다고 하더군요.
 게다가 그곳 마물은 다른 곳에 비해 유달리 사납다고……."
-59,"TEXT_JOBWHM520_01720_ESCHIVA_000_014","어쩌면……
+59,TEXT_JOBWHM520_01720_ESCHIVA_000_014,"어쩌면……
 '부정한 것'으로 인해 더럽혀진 에테르의 영향으로
 마물들이 흥분해서 그런 건지도 몰라요!"
-60,"TEXT_JOBWHM520_01720_ESCHIVA_000_015","마침 남쪽에서 포르탕 가 기병들이
+60,TEXT_JOBWHM520_01720_ESCHIVA_000_015,"마침 남쪽에서 포르탕 가 기병들이
 마물 소탕작전을 펼치고 있다고 하네요.
 우리도 어서 가봐요!"
-61,"TEXT_JOBWHM520_01720_ESCHIVA_000_020","역시 마물이 사나워진 건 '부정한 것' 때문이었군요……!
+61,TEXT_JOBWHM520_01720_ESCHIVA_000_020,"역시 마물이 사나워진 건 '부정한 것' 때문이었군요……!
 정화하기 전에 기사님들을 도와 마물을 처치해야겠어요!"
-62,"TEXT_JOBWHM520_01720_ESCHIVA_000_030","휴, 겨우 다 처리했네요…….
+62,TEXT_JOBWHM520_01720_ESCHIVA_000_030,"휴, 겨우 다 처리했네요…….
 저게 바로 '부정한 것'이군요……!
-<Highlight>ObjectParameter(1)</Highlight> 님, 정화를 부탁드립니다!"
-63,"TEXT_JOBWHM520_01720_ESCHIVA_000_040","공기가 청정해진 것이 느껴져요.
+Player Player 님, 정화를 부탁드립니다!"
+63,TEXT_JOBWHM520_01720_ESCHIVA_000_040,"공기가 청정해진 것이 느껴져요.
 이것이 백마도사의 힘이로군요……."
-64,"TEXT_JOBWHM520_01720_ESCHIVA_000_041","할아버님께서 남기신 기록대로예요…….
+64,TEXT_JOBWHM520_01720_ESCHIVA_000_041,"할아버님께서 남기신 기록대로예요…….
 그리고 당신 소울 크리스탈이
 한층 더 찬란하게 빛나는 게 느껴져요!"
-65,"TEXT_JOBWHM520_01720_ESCHIVA_000_042","아마도 이번 정화를 통해서
+65,TEXT_JOBWHM520_01720_ESCHIVA_000_042,"아마도 이번 정화를 통해서
 소울 크리스탈에 깃든 아 토와 님의 기억이
 당신에게 새로운 힘을 선사한 모양입니다……."
-66,"TEXT_JOBWHM520_01720_ESCHIVA_000_043","'부정한 것'을 정화하여 위대한 치유의 힘을 얻는다……
+66,TEXT_JOBWHM520_01720_ESCHIVA_000_043,"'부정한 것'을 정화하여 위대한 치유의 힘을 얻는다……
 아무래도 이 여행에는 그런 목적도 있는 것 같네요."
-67,"TEXT_JOBWHM520_01720_ESCHIVA_000_044","하지만 정화의 여정이 백마도사의 성장에 도움이 된다면
+67,TEXT_JOBWHM520_01720_ESCHIVA_000_044,"하지만 정화의 여정이 백마도사의 성장에 도움이 된다면
 왜 뿔의 아이들께서 숲 밖으로 나오지 않는 건지
 더욱 이해가 안 가는군요."
-68,"TEXT_JOBWHM520_01720_ESCHIVA_000_045","그분들은 언제까지 낡은 관습에 얽매여
+68,TEXT_JOBWHM520_01720_ESCHIVA_000_045,"그분들은 언제까지 낡은 관습에 얽매여
 숲 속에만 틀어박혀 있을 생각일까요……."
-69,"TEXT_JOBWHM520_01720_ESCHIVA_000_046","아무튼, 이번 정화를 통해 새로 알게 된 사실이 많아요.
+69,TEXT_JOBWHM520_01720_ESCHIVA_000_046,"아무튼, 이번 정화를 통해 새로 알게 된 사실이 많아요.
 '용머리 전진기지'로 돌아가서 정보를 정리하죠."
-70,"TEXT_JOBWHM520_01720_ESCHIVA_000_050","수고하셨어요, <Highlight>ObjectParameter(1)</Highlight> 님.
+70,TEXT_JOBWHM520_01720_ESCHIVA_000_050,"수고하셨어요, Player Player 님.
 마물들은 예상대로 지하 수맥을 따라 흐르는
 '부정한 것'의 영향을 받고 있던 모양이에요."
-71,"TEXT_JOBWHM520_01720_ESCHIVA_100_050","할아버님께서 남기신 기록에 따르면
+71,TEXT_JOBWHM520_01720_ESCHIVA_100_050,"할아버님께서 남기신 기록에 따르면
 지하 수맥의 본줄기는 여기서 더 서쪽에 있다고 해요……."
-72,"TEXT_JOBWHM520_01720_ESCHIVA_000_051","하지만 굳게 닫힌 이슈가르드에 들어가려면 허가가 필요하죠.
-다행히 <Highlight>ObjectParameter(1)</Highlight> 님은
+72,TEXT_JOBWHM520_01720_ESCHIVA_000_051,"하지만 굳게 닫힌 이슈가르드에 들어가려면 허가가 필요하죠.
+다행히 Player Player 님은
 이슈가르드의 귀족들과도 친분이 있다고 들었습니다."
-73,"TEXT_JOBWHM520_01720_ESCHIVA_000_052","<Highlight>ObjectParameter(1)</Highlight> 님을 보증인으로 세워
+73,TEXT_JOBWHM520_01720_ESCHIVA_000_052,"Player Player 님을 보증인으로 세워
 환술황 명의로 통행 허가서를 발행해달라고
 어진나무 명상굴에 부탁해둘게요."
-74,"TEXT_JOBWHM520_01720_ESCHIVA_000_053","정말이지…… 뿔의 아이께서 동행해주셨으면
+74,TEXT_JOBWHM520_01720_ESCHIVA_000_053,"정말이지…… 뿔의 아이께서 동행해주셨으면
 이렇게 귀찮은 절차를 안 밟아도 될 텐데…….
 뭐, 이제 와서 불평해봤자 아무 소용도 없지만요."
-75,"TEXT_JOBWHM520_01720_ESCHIVA_000_060","동맹에 복귀한 이슈가르드는 서서히 문호를 개방하고 있습니다.
+75,TEXT_JOBWHM520_01720_ESCHIVA_000_060,"동맹에 복귀한 이슈가르드는 서서히 문호를 개방하고 있습니다.
 입국 절차도 예전에 비해 훨씬 간단해졌죠."
-76,"TEXT_JOBWHM520_01720_ESCHIVA_000_061","……하지만 여기서부터는
+76,TEXT_JOBWHM520_01720_ESCHIVA_000_061,"……하지만 여기서부터는
 아 토와 님께서도 발을 들인 적이 없는 미지의 땅입니다.
 지금보다 더 강한 정화의 힘이 필요할 거예요."
-77,"TEXT_JOBWHM520_01720_ESCHIVA_000_062","뛰어난 백마도사이신 뿔의 아이께서 같이 계셨더라면
+77,TEXT_JOBWHM520_01720_ESCHIVA_000_062,"뛰어난 백마도사이신 뿔의 아이께서 같이 계셨더라면
 힘을 합쳐서 길을 서두를 수도 있었겠지만……
 지금은 당신이 가진 치유의 힘밖에 의지할 데가 없네요."
-78,"TEXT_JOBWHM520_01720_ESCHIVA_000_070","저는 다음 목적지를 정하기 위해
+78,TEXT_JOBWHM520_01720_ESCHIVA_000_070,"저는 다음 목적지를 정하기 위해
 이 주변 지리를 살펴보겠습니다."
-79,"TEXT_JOBWHM520_01720_ESCHIVA_000_071","아무래도 시간이 좀 걸릴 것 같으니
+79,TEXT_JOBWHM520_01720_ESCHIVA_000_071,"아무래도 시간이 좀 걸릴 것 같으니
 그동안 새로 얻은 치유의 힘을 몸에 익혀두세요.
 열심히 수련을 쌓은 다음 여기서 다시 만나요!"
-80,"TEXT_JOBWHM520_01720_SYSTEM_000_080","（★未使用／削除予定★）"
-81,"TEXT_JOBWHM520_01720_QIB_001_TODO_1","적을 섬멸하라!"
-82,"TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_00","공격은 제가 하겠습니다!
-<Highlight>ObjectParameter(1)</Highlight> 님은 회복을 부탁드려요!"
-83,"TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_01","큭, 오염된 에테르에 마물이 이끌리고 있어요!"
-84,"TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_02","마물이 또 옵니다……!"
-85,"TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_05","정말 끝이 없네요……!
-원흉인 <Sheet(BNpcName,445,0)/><13>FF1302280FFF09424E70634E616D65F201BD0103FF04EBA5BCFF04EC9D84</13> 먼저 처치해야겠어요!"
-86,"TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_03","해냈어요……!
+80,TEXT_JOBWHM520_01720_SYSTEM_000_080,（★未使用／削除予定★）
+81,TEXT_JOBWHM520_01720_QIB_001_TODO_1,적을 섬멸하라!
+82,TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_00,"공격은 제가 하겠습니다!
+Player Player 님은 회복을 부탁드려요!"
+83,TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_01,"큭, 오염된 에테르에 마물이 이끌리고 있어요!"
+84,TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_02,마물이 또 옵니다……!
+85,TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_05,"정말 끝이 없네요……!
+원흉인  먼저 처치해야겠어요!"
+86,TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_03,"해냈어요……!
 이제 남은 마물만 소탕하면 됩니다!"
-87,"TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_04","도움이 되지 못해 죄송합니다……!"
+87,TEXT_JOBWHM520_01720_ESCHIVA_BATTLETALK_04,도움이 되지 못해 죄송합니다……!

@@ -1,92 +1,90 @@
-﻿key,0,1,2,3,4,5,6,7,8,9,10,11
-#,,Name,Color,,TextString,,,,,,,
-int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,int16
-0,0,"",0,True,"",-1,1,0,-1,1,0,0
-1,0,"",0,False,"",0,0,0,0,0,0,0
-2,0,"",0,False,"",0,0,0,0,0,0,0
-3,0,"편속성 에테르",4,True,"ContentGaugeMax_negative",80,1,2,-1,1,0,0
-4,0,"에테르 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-5,0,"땅의 계약",3,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-6,0,"재물",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-7,0,"매혹적인 포옹",4,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-8,0,"통제자 하쉬말림의 마력",3,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-9,0,"바하무트 에테르",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-10,0,"허무",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-11,0,"포르돌라의 에테르",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-12,0,"마티우스의 에테르",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-13,0,"에테르 가속도",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-14,0,"현무의 영기",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-15,0,"인연의 힘",2,False,"",60,1,3,90,1,1,0
-16,0,"다운 게이지",3,False,"ContentGaugeMax_positive",30,-1,2,-1,1,0,0
-17,0,"원념",1,True,"ContentGaugeMax_negative",50,1,3,80,1,2,0
-18,0,"제천대성의 요력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-19,0,"알테마 에테르",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-20,0,"귀룡 야즈마트의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-21,0,"마인 벨리아스의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-22,0,"신기의 요력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-23,0,"붉은 선율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-24,0,"미드가르드오름 에테르",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-25,0,"메테오 충돌까지",3,True,"ContentGaugeMax_negative",80,1,2,-1,1,0,0
-26,0,"흑수정의 마력",1,False,"ContentGaugeMax_negative",50,1,3,80,1,2,0
-27,0,"뇌력 집중도",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-28,0,"성검기",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-29,0,"청룡의 신통력",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-30,0,"마법 장벽 내구도",2,False,"",30,1,3,50,1,1,0
-31,0,"에테르 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-32,0,"뇌신의 검기",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-33,0,"티타니아의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-34,0,"이노센스의 위광",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-35,0,"고대인의 기도",1,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-36,0,"에너지 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-37,0,"해킹 진행률",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-38,0,"빛의 범람",4,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-39,0,"에너지 충전율",3,True,"ContentGaugeMax_negative",80,1,2,-1,1,0,0
-40,0,"달라가브 에테르 밀도",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-41,0,"리미트 브레이크",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-42,0,"마더 포크시의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-43,0,"가이아의 기억",2,False,"",35,1,3,50,1,1,0
-44,0,"자 다의 영혼 변이율",3,False,"",-1,1,0,-1,1,0,0
-45,0,"에테르 충전율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-46,0,"혼돈",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-47,0,"절망",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-48,0,"육합결계 술식",1,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-49,0,"적군 경계도",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-50,0,"조디아크의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-51,0,"에테르 충전율",4,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-52,0,"",0,False,"",0,0,0,0,0,0,0
-53,0,"사룡의 그림자 지배율",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-54,1,"",0,True,"",600,1,0,900,1,0,0
-55,0,"위신수 파프니르의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-56,0,"페넥스의 마력",1,True,"ContentGaugeMax_negative",50,1,3,80,1,2,0
-57,0,"베네스의 에테르",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-58,0,"가이우스의 검기",1,True,"ContentGaugeMax_negative",60,1,3,80,1,2,0
-59,0,"미드가르드오름 에테르",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-60,0,"스카르밀리오네의 마력",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-61,0,"아씨엔 라하브레아의 마력",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-62,0,"니드호그의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-63,0,"포만감",2,False,"",30,1,3,50,1,1,0
-64,0,"마법 장벽 외층 내구도",2,False,"",30,1,3,70,1,1,0
-65,0,"루키아 부대의 체력",2,False,"",30,1,3,70,1,1,0
-66,0,"카냐초의 마력",1,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-67,0,"마법 장벽 중간층 내구도",2,False,"",30,1,3,70,1,1,0
-68,0,"마법 장벽 내층 내구도",2,False,"",30,1,3,70,1,1,0
-69,0,"루비칸테의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-70,0,"안드로말리우스의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-71,0,"아씨엔 프라임의 마력",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
-72,0,"할로네의 한기",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
-73,0,"메느피나의 마력",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
-74,0,"아테나의 마력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-75,0,"에너지 충전율",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-76,0,"에테르 응축률",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-77,0,"구미호의 요기",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
-78,0,"",0,False,"",0,0,0,0,0,0,0
-79,0,"그위드리트의 뇌력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
-80,0,"오티스의 내구도",2,False,"",30,1,3,70,1,1,0
-81,0,"재앙의 상징",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-82,0,"이크소크 슈마준의 마력",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-83,0,"봉인의 마력",3,True,"",100,1,1,-1,1,0,0
-84,0,"하울링 블레이드의 검기",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-85,0,"그루브감",1,True,"",-1,1,0,-1,1,0,0
-86,0,"젤레니아의 에테르",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-87,0,"죽음에 대한 공포",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
-88,1,"",0,True,"",-1,1,0,-1,1,0,0
+#,Name,TextString,Unknown0,Unknown1,Unknown2,Unknown3,Color,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8
+0,,,-1,-1,0,0,0,0,0,1,1,True
+1,,,0,0,0,0,0,0,0,0,0,False
+2,,,0,0,0,0,0,0,0,0,0,False
+3,편속성 에테르,ContentGaugeMax_negative,80,-1,0,0,4,2,0,1,1,True
+4,에테르 충전율,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+5,땅의 계약,ContentGaugeMax_negative,-1,-1,0,0,3,0,0,1,1,True
+6,재물,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+7,매혹적인 포옹,ContentGaugeMax_negative,-1,-1,0,0,4,0,0,1,1,True
+8,통제자 하쉬말림의 마력,ContentGaugeMax_negative,-1,-1,0,0,3,0,0,1,1,True
+9,바하무트 에테르,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+10,허무,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+11,포르돌라의 에테르,ContentGaugeMax_negative,-1,-1,0,0,1,0,0,1,1,True
+12,마티우스의 에테르,ContentGaugeMax_negative,-1,-1,0,0,1,0,0,1,1,True
+13,에테르 가속도,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+14,현무의 영기,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+15,인연의 힘,,60,90,0,0,2,3,1,1,1,False
+16,다운 게이지,ContentGaugeMax_positive,30,-1,0,0,3,2,0,-1,1,False
+17,원념,ContentGaugeMax_negative,50,80,0,0,1,3,2,1,1,True
+18,제천대성의 요력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+19,알테마 에테르,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+20,귀룡 야즈마트의 마력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+21,마인 벨리아스의 마력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+22,신기의 요력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+23,붉은 선율,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+24,미드가르드오름 에테르,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+25,메테오 충돌까지,ContentGaugeMax_negative,80,-1,0,0,3,2,0,1,1,True
+26,흑수정의 마력,ContentGaugeMax_negative,50,80,0,0,1,3,2,1,1,False
+27,뇌력 집중도,ContentGaugeMax_negative,-1,-1,0,0,1,0,0,1,1,True
+28,성검기,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+29,청룡의 신통력,ContentGaugeMax_negative,60,80,0,0,1,3,2,1,1,True
+30,마법 장벽 내구도,,30,50,0,0,2,3,1,1,1,False
+31,에테르 충전율,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+32,뇌신의 검기,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+33,티타니아의 마력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+34,이노센스의 위광,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+35,고대인의 기도,ContentGaugeMax_negative,100,-1,0,0,1,2,0,1,1,True
+36,에너지 충전율,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+37,해킹 진행률,ContentGaugeMax_negative,60,80,0,0,1,3,2,1,1,True
+38,빛의 범람,ContentGaugeMax_negative,-1,-1,0,0,4,0,0,1,1,True
+39,에너지 충전율,ContentGaugeMax_negative,80,-1,0,0,3,2,0,1,1,True
+40,달라가브 에테르 밀도,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+41,리미트 브레이크,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+42,마더 포크시의 마력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+43,가이아의 기억,,35,50,0,0,2,3,1,1,1,False
+44,자 다의 영혼 변이율,,-1,-1,0,0,3,0,0,1,1,False
+45,에테르 충전율,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+46,혼돈,ContentGaugeMax_negative,60,80,0,0,1,3,2,1,1,True
+47,절망,ContentGaugeMax_negative,60,80,0,0,1,3,2,1,1,True
+48,육합결계 술식,ContentGaugeMax_negative,-1,-1,0,0,1,0,0,1,1,True
+49,적군 경계도,ContentGaugeMax_negative,60,80,0,0,1,3,2,1,1,True
+50,조디아크의 마력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+51,에테르 충전율,ContentGaugeMax_negative,100,-1,0,0,4,2,0,1,1,True
+52,,,0,0,0,0,0,0,0,0,0,False
+53,사룡의 그림자 지배율,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+54,,,600,900,0,1,0,0,0,1,1,True
+55,위신수 파프니르의 마력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+56,페넥스의 마력,ContentGaugeMax_negative,50,80,0,0,1,3,2,1,1,True
+57,베네스의 에테르,ContentGaugeMax_negative,60,80,0,0,1,3,2,1,1,True
+58,가이우스의 검기,ContentGaugeMax_negative,60,80,0,0,1,3,2,1,1,True
+59,미드가르드오름 에테르,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+60,스카르밀리오네의 마력,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+61,아씨엔 라하브레아의 마력,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+62,니드호그의 마력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+63,포만감,,30,50,0,0,2,3,1,1,1,False
+64,마법 장벽 외층 내구도,,30,70,0,0,2,3,1,1,1,False
+65,루키아 부대의 체력,,30,70,0,0,2,3,1,1,1,False
+66,카냐초의 마력,ContentGaugeMax_negative,100,-1,0,0,1,2,0,1,1,True
+67,마법 장벽 중간층 내구도,,30,70,0,0,2,3,1,1,1,False
+68,마법 장벽 내층 내구도,,30,70,0,0,2,3,1,1,1,False
+69,루비칸테의 마력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+70,안드로말리우스의 마력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+71,아씨엔 프라임의 마력,ContentGaugeMax_negative,60,90,0,0,1,3,2,1,1,True
+72,할로네의 한기,ContentGaugeMax_negative,60,90,0,0,1,3,2,1,1,True
+73,메느피나의 마력,ContentGaugeMax_negative,60,90,0,0,1,3,2,1,1,True
+74,아테나의 마력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+75,에너지 충전율,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+76,에테르 응축률,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+77,구미호의 요기,ContentGaugeMax_negative,60,90,0,0,1,3,2,1,1,True
+78,,,0,0,0,0,0,0,0,0,0,False
+79,그위드리트의 뇌력,ContentGaugeMax_negative,-1,-1,0,0,2,0,0,1,1,True
+80,오티스의 내구도,,30,70,0,0,2,3,1,1,1,False
+81,재앙의 상징,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+82,이크소크 슈마준의 마력,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+83,봉인의 마력,,100,-1,0,0,3,1,0,1,1,True
+84,하울링 블레이드의 검기,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+85,그루브감,,-1,-1,0,0,1,0,0,1,1,True
+86,젤레니아의 에테르,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+87,죽음에 대한 공포,ContentGaugeMax_negative,100,-1,0,0,3,2,0,1,1,True
+88,,,-1,-1,0,1,0,0,0,1,1,True

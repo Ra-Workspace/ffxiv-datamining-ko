@@ -1,33 +1,31 @@
-﻿key,0,1,2,3,4,5,6,7,8,9
-#,,,,,,,,,,
-int32,int32,int32,byte,byte,byte,byte,byte,int32,str,str
-0,0,0,0,0,0,0,0,0,"",""
-1,20,0,30,3,1,1,1,15,"폼폼 파이어","모그리 앞에 있는 적 하나에게 피해를 <Value>IntegerParameter(1)</Value> 줍니다.
-소비 MP: <Value>IntegerParameter(3)</Value>   재사용 턴: <Value>IntegerParameter(4)</Value>"
-2,10,8,40,4,3,3,2,25,"폼폼 프티 메테오","모그리로부터 <Value>IntegerParameter(2)</Value>칸 앞에 있는 대상과 그 주위 적에게 피해를 <Value>IntegerParameter(1)</Value> 줍니다.
-소비 MP: <Value>IntegerParameter(3)</Value>   재사용 턴: <Value>IntegerParameter(4)</Value>"
-3,15,0,80,10,0,0,3,50,"폼폼 메테오","모든 적에게 피해를 <Value>IntegerParameter(1)</Value> 줍니다.
-소비 MP: <Value>IntegerParameter(3)</Value>   재사용 턴: <Value>IntegerParameter(4)</Value>"
-4,50,0,10,1,0,0,4,0,"폼폼 케알","모그리의 HP를 <Value>IntegerParameter(1)</Value> 회복합니다.
-소비 MP: <Value>IntegerParameter(3)</Value>   재사용 턴: <Value>IntegerParameter(4)</Value>"
-5,0,0,20,3,0,0,5,0,"폼폼 에스나","모그리에게 걸린 죽음의 선고를 제외한 모든 약화 효과를 해제합니다.
-소비 MP: <Value>IntegerParameter(3)</Value>   재사용 턴: <Value>IntegerParameter(4)</Value>"
-6,0,0,30,3,0,0,6,0,"폼폼 보호막","모그리를 대상으로 피해를 막아주는 보호막을 칩니다.
-효과 지속: <Value>IntegerParameter(5)</Value>
-소비 MP: <Value>IntegerParameter(3)</Value>   재사용 턴: <Value>IntegerParameter(4)</Value>"
-7,0,0,20,3,0,0,7,0,"폼폼 레비테트","모그리가 공중에 떠서 바닥의 영향을 받지 않게 됩니다.
-효과 지속: <Value>IntegerParameter(5)</Value>
-소비 MP: <Value>IntegerParameter(3)</Value>   재사용 턴: <Value>IntegerParameter(4)</Value>"
-8,0,0,50,99,0,0,8,0,"폼폼 리레이즈","효과 지속 중에 전투불능이 되면 자동으로 부활합니다.
+#,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unknown8,Unknown9
+0,,,0,0,0,0,0,0,0,0
+1,폼폼 파이어,"모그리 앞에 있는 적 하나에게 피해를 UNKNOWN 줍니다.
+소비 MP: UNKNOWN   재사용 턴: UNKNOWN",20,0,15,30,3,1,1,1
+2,폼폼 프티 메테오,"모그리로부터 UNKNOWN칸 앞에 있는 대상과 그 주위 적에게 피해를 UNKNOWN 줍니다.
+소비 MP: UNKNOWN   재사용 턴: UNKNOWN",10,8,25,40,4,3,3,2
+3,폼폼 메테오,"모든 적에게 피해를 UNKNOWN 줍니다.
+소비 MP: UNKNOWN   재사용 턴: UNKNOWN",15,0,50,80,10,0,0,3
+4,폼폼 케알,"모그리의 HP를 UNKNOWN 회복합니다.
+소비 MP: UNKNOWN   재사용 턴: UNKNOWN",50,0,0,10,1,0,0,4
+5,폼폼 에스나,"모그리에게 걸린 죽음의 선고를 제외한 모든 약화 효과를 해제합니다.
+소비 MP: UNKNOWN   재사용 턴: UNKNOWN",0,0,0,20,3,0,0,5
+6,폼폼 보호막,"모그리를 대상으로 피해를 막아주는 보호막을 칩니다.
+효과 지속: UNKNOWN
+소비 MP: UNKNOWN   재사용 턴: UNKNOWN",0,0,0,30,3,0,0,6
+7,폼폼 레비테트,"모그리가 공중에 떠서 바닥의 영향을 받지 않게 됩니다.
+효과 지속: UNKNOWN
+소비 MP: UNKNOWN   재사용 턴: UNKNOWN",0,0,0,20,3,0,0,7
+8,폼폼 리레이즈,"효과 지속 중에 전투불능이 되면 자동으로 부활합니다.
 효과 지속: 해제 시까지
-소비 MP: <Value>IntegerParameter(3)</Value>   재사용 턴: <Value>IntegerParameter(4)</Value>"
-9,100,0,0,0,0,0,0,0,"",""
-10,100,0,0,0,0,0,0,0,"",""
-11,0,0,0,0,0,0,0,0,"",""
-12,0,0,0,0,0,0,0,0,"",""
-13,100,0,0,0,0,7,0,0,"",""
-14,10,2,0,0,0,1,0,0,"",""
-15,100,0,0,0,0,1,0,0,"",""
-16,0,0,0,0,0,0,0,0,"",""
-17,0,0,0,0,0,0,0,0,"",""
-18,9999,0,0,0,0,0,0,0,"",""
+소비 MP: UNKNOWN   재사용 턴: UNKNOWN",0,0,0,50,99,0,0,8
+9,,,100,0,0,0,0,0,0,0
+10,,,100,0,0,0,0,0,0,0
+11,,,0,0,0,0,0,0,0,0
+12,,,0,0,0,0,0,0,0,0
+13,,,100,0,0,0,0,0,7,0
+14,,,10,2,0,0,0,0,1,0
+15,,,100,0,0,0,0,0,1,0
+16,,,0,0,0,0,0,0,0,0
+17,,,0,0,0,0,0,0,0,0
+18,,,9999,0,0,0,0,0,0,0

@@ -1,251 +1,249 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBSMN630_02626_SEQ_00","아프칼루 폭포에 있는 야미트라를 통해서 프린키피아가 할 말이 있는 모양이다. "
-1,"TEXT_JOBSMN630_02626_SEQ_01","야미트라와 대화하고 두 번째 시련을 받게 되었다. 북부 다날란 '푸른안개 야영지'에 있는 '춤추는 늑대 대위'와 대화하자."
-2,"TEXT_JOBSMN630_02626_SEQ_02","춤추는 늑대 대위와 대화했다. 두 번째 시련은 '기술'의 시련이다. 전투 준비를 마치고 북부 다날란 '푸른안개 수맥'에 있는 '불멸대 상병 크리스핀'과 대화한 후, 적이 나타나면 처치하자."
-3,"TEXT_JOBSMN630_02626_SEQ_03","크리스핀과 데니스의 소환수를 상대로 승리했다. 푸른안개 수맥에 있는 '불멸대 소위 자자사무'와 대화한 후, 적이 나타나면 처치하자."
-4,"TEXT_JOBSMN630_02626_SEQ_04","자자사무의 소환수에게 승리했다. 푸른안개 수맥에 있는 '불멸대 소위 자자사무'와 다시 대화한 후, 적이 나타나면 처치하자."
-5,"TEXT_JOBSMN630_02626_SEQ_05","불멸대 소위 자자사무의 소환수에게 다시 승리했다. 푸른안개 수맥에 있는 '춤추는 늑대 대위'와 대화하자."
-6,"TEXT_JOBSMN630_02626_SEQ_06","무사히 두 번째 시련을 극복한 듯하다. 그리다니아로 돌아가 아프칼루 폭포에 있는 '야미트라'와 대화하자."
-7,"TEXT_JOBSMN630_02626_SEQ_07","야미트라와 대화했다. 프린키피아에게 마지막 시련을 받기 위해 소환사로서의 기술을 더욱 갈고닦자.
+#,Unknown0,Unknown1
+0,TEXT_JOBSMN630_02626_SEQ_00,아프칼루 폭포에 있는 야미트라를 통해서 프린키피아가 할 말이 있는 모양이다. 
+1,TEXT_JOBSMN630_02626_SEQ_01,야미트라와 대화하고 두 번째 시련을 받게 되었다. 북부 다날란 '푸른안개 야영지'에 있는 '춤추는 늑대 대위'와 대화하자.
+2,TEXT_JOBSMN630_02626_SEQ_02,"춤추는 늑대 대위와 대화했다. 두 번째 시련은 '기술'의 시련이다. 전투 준비를 마치고 북부 다날란 '푸른안개 수맥'에 있는 '불멸대 상병 크리스핀'과 대화한 후, 적이 나타나면 처치하자."
+3,TEXT_JOBSMN630_02626_SEQ_03,"크리스핀과 데니스의 소환수를 상대로 승리했다. 푸른안개 수맥에 있는 '불멸대 소위 자자사무'와 대화한 후, 적이 나타나면 처치하자."
+4,TEXT_JOBSMN630_02626_SEQ_04,"자자사무의 소환수에게 승리했다. 푸른안개 수맥에 있는 '불멸대 소위 자자사무'와 다시 대화한 후, 적이 나타나면 처치하자."
+5,TEXT_JOBSMN630_02626_SEQ_05,불멸대 소위 자자사무의 소환수에게 다시 승리했다. 푸른안개 수맥에 있는 '춤추는 늑대 대위'와 대화하자.
+6,TEXT_JOBSMN630_02626_SEQ_06,무사히 두 번째 시련을 극복한 듯하다. 그리다니아로 돌아가 아프칼루 폭포에 있는 '야미트라'와 대화하자.
+7,TEXT_JOBSMN630_02626_SEQ_07,"야미트라와 대화했다. 프린키피아에게 마지막 시련을 받기 위해 소환사로서의 기술을 더욱 갈고닦자.
 
 ※소환사 레벨이 65 이상 되면 아프칼루 폭포에 있는 야미트라에게 다음 소환사 퀘스트를 받을 수 있습니다."
-8,"TEXT_JOBSMN630_02626_SEQ_08",""
-9,"TEXT_JOBSMN630_02626_SEQ_09",""
-10,"TEXT_JOBSMN630_02626_SEQ_10",""
-11,"TEXT_JOBSMN630_02626_SEQ_11",""
-12,"TEXT_JOBSMN630_02626_SEQ_12",""
-13,"TEXT_JOBSMN630_02626_SEQ_13",""
-14,"TEXT_JOBSMN630_02626_SEQ_14",""
-15,"TEXT_JOBSMN630_02626_SEQ_15",""
-16,"TEXT_JOBSMN630_02626_SEQ_16",""
-17,"TEXT_JOBSMN630_02626_SEQ_17",""
-18,"TEXT_JOBSMN630_02626_SEQ_18",""
-19,"TEXT_JOBSMN630_02626_SEQ_19",""
-20,"TEXT_JOBSMN630_02626_SEQ_20",""
-21,"TEXT_JOBSMN630_02626_SEQ_21",""
-22,"TEXT_JOBSMN630_02626_SEQ_22",""
-23,"TEXT_JOBSMN630_02626_SEQ_23",""
-24,"TEXT_JOBSMN630_02626_TODO_00","푸른안개 야영지에서 춤추는 늑대 대위와 대화"
-25,"TEXT_JOBSMN630_02626_TODO_01","불멸대 상병 크리스핀과 대화하고 적 처치 "
-26,"TEXT_JOBSMN630_02626_TODO_02","불멸대 소위 자자사무와 대화하고 적 처치"
-27,"TEXT_JOBSMN630_02626_TODO_03","불멸대 소위 자자사무와 다시 대화하고 적 처치"
-28,"TEXT_JOBSMN630_02626_TODO_04","춤추는 늑대 대위와 대화"
-29,"TEXT_JOBSMN630_02626_TODO_05","그리다니아에서 야미트라와 대화"
-30,"TEXT_JOBSMN630_02626_TODO_06",""
-31,"TEXT_JOBSMN630_02626_TODO_07",""
-32,"TEXT_JOBSMN630_02626_TODO_08",""
-33,"TEXT_JOBSMN630_02626_TODO_09",""
-34,"TEXT_JOBSMN630_02626_TODO_10",""
-35,"TEXT_JOBSMN630_02626_TODO_11",""
-36,"TEXT_JOBSMN630_02626_TODO_12",""
-37,"TEXT_JOBSMN630_02626_TODO_13",""
-38,"TEXT_JOBSMN630_02626_TODO_14",""
-39,"TEXT_JOBSMN630_02626_TODO_15",""
-40,"TEXT_JOBSMN630_02626_TODO_16",""
-41,"TEXT_JOBSMN630_02626_TODO_17",""
-42,"TEXT_JOBSMN630_02626_TODO_18",""
-43,"TEXT_JOBSMN630_02626_TODO_19",""
-44,"TEXT_JOBSMN630_02626_TODO_20",""
-45,"TEXT_JOBSMN630_02626_TODO_21",""
-46,"TEXT_JOBSMN630_02626_TODO_22",""
-47,"TEXT_JOBSMN630_02626_TODO_23",""
-48,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_000","그 동안 잘 지냈나?
+8,TEXT_JOBSMN630_02626_SEQ_08,
+9,TEXT_JOBSMN630_02626_SEQ_09,
+10,TEXT_JOBSMN630_02626_SEQ_10,
+11,TEXT_JOBSMN630_02626_SEQ_11,
+12,TEXT_JOBSMN630_02626_SEQ_12,
+13,TEXT_JOBSMN630_02626_SEQ_13,
+14,TEXT_JOBSMN630_02626_SEQ_14,
+15,TEXT_JOBSMN630_02626_SEQ_15,
+16,TEXT_JOBSMN630_02626_SEQ_16,
+17,TEXT_JOBSMN630_02626_SEQ_17,
+18,TEXT_JOBSMN630_02626_SEQ_18,
+19,TEXT_JOBSMN630_02626_SEQ_19,
+20,TEXT_JOBSMN630_02626_SEQ_20,
+21,TEXT_JOBSMN630_02626_SEQ_21,
+22,TEXT_JOBSMN630_02626_SEQ_22,
+23,TEXT_JOBSMN630_02626_SEQ_23,
+24,TEXT_JOBSMN630_02626_TODO_00,푸른안개 야영지에서 춤추는 늑대 대위와 대화
+25,TEXT_JOBSMN630_02626_TODO_01,불멸대 상병 크리스핀과 대화하고 적 처치 
+26,TEXT_JOBSMN630_02626_TODO_02,불멸대 소위 자자사무와 대화하고 적 처치
+27,TEXT_JOBSMN630_02626_TODO_03,불멸대 소위 자자사무와 다시 대화하고 적 처치
+28,TEXT_JOBSMN630_02626_TODO_04,춤추는 늑대 대위와 대화
+29,TEXT_JOBSMN630_02626_TODO_05,그리다니아에서 야미트라와 대화
+30,TEXT_JOBSMN630_02626_TODO_06,
+31,TEXT_JOBSMN630_02626_TODO_07,
+32,TEXT_JOBSMN630_02626_TODO_08,
+33,TEXT_JOBSMN630_02626_TODO_09,
+34,TEXT_JOBSMN630_02626_TODO_10,
+35,TEXT_JOBSMN630_02626_TODO_11,
+36,TEXT_JOBSMN630_02626_TODO_12,
+37,TEXT_JOBSMN630_02626_TODO_13,
+38,TEXT_JOBSMN630_02626_TODO_14,
+39,TEXT_JOBSMN630_02626_TODO_15,
+40,TEXT_JOBSMN630_02626_TODO_16,
+41,TEXT_JOBSMN630_02626_TODO_17,
+42,TEXT_JOBSMN630_02626_TODO_18,
+43,TEXT_JOBSMN630_02626_TODO_19,
+44,TEXT_JOBSMN630_02626_TODO_20,
+45,TEXT_JOBSMN630_02626_TODO_21,
+46,TEXT_JOBSMN630_02626_TODO_22,
+47,TEXT_JOBSMN630_02626_TODO_23,
+48,TEXT_JOBSMN630_02626_DANCINGWOLF_000_000,"그 동안 잘 지냈나?
 마침 야미트라 양을 꼬시던 참이었다.
 아니, 이상한 뜻이 아니라 일 얘기라니까?"
-49,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_001","그건 그렇고…… 거기 그 이상한 책은 뭐냐!?
+49,TEXT_JOBSMN630_02626_DANCINGWOLF_000_001,"그건 그렇고…… 거기 그 이상한 책은 뭐냐!?
 사역마란 얘기는 들었다만, 설마 물어뜯거나 하진 않겠지?"
-50,"TEXT_JOBSMN630_02626_PRINCIPIA_000_010","어서 오십시오, <If(PlayerParameter(4))>아씨<Else/>나리</If>.
-이곳이 바로 야미트라 님과 <If(PlayerParameter(4))>아씨<Else/>나리</If>의
+50,TEXT_JOBSMN630_02626_PRINCIPIA_000_010,"어서 오십시오, 아씨.
+이곳이 바로 야미트라 님과 아씨의
 공동 연구 거점이라 들었습니다."
-51,"TEXT_JOBSMN630_02626_YMHITRA_000_030","어서 와요, <Highlight>ObjectParameter(1)</Highlight>.
+51,TEXT_JOBSMN630_02626_YMHITRA_000_030,"어서 와요, Player Player.
 두 번째 시련에 대해 프린이 할 말이 있대요."
-52,"TEXT_JOBSMN630_02626_PRINCIPIA_000_0040","축하 드립니다. <If(PlayerParameter(4))>아씨<Else/>나리</If>께선
+52,TEXT_JOBSMN630_02626_PRINCIPIA_000_0040,"축하 드립니다. 아씨께선
 두 번째 시련을 받기에 모자람이 없는 단계에 도달했습니다."
-53,"TEXT_JOBSMN630_02626_YMHITRA_000_041","모자람이 없는 단계…… 그걸 어떻게 아니?"
-54,"TEXT_JOBSMN630_02626_PRINCIPIA_000_0042","에테르의 파형을 분석하면
-<If(PlayerParameter(4))>아씨<Else/>나리</If>께서 최근에 사용한 기술의 위력과 숙련도를 알 수 있거든요.
+53,TEXT_JOBSMN630_02626_YMHITRA_000_041,모자람이 없는 단계…… 그걸 어떻게 아니?
+54,TEXT_JOBSMN630_02626_PRINCIPIA_000_0042,"에테르의 파형을 분석하면
+아씨께서 최근에 사용한 기술의 위력과 숙련도를 알 수 있거든요.
 정확한 판단을 내리려면 시련을 받으실 필요가 있습니다만."
-55,"TEXT_JOBSMN630_02626_PRINCIPIA_000_0043","…………두 번째 시련은 '기술'의 시련입니다.
+55,TEXT_JOBSMN630_02626_PRINCIPIA_000_0043,"…………두 번째 시련은 '기술'의 시련입니다.
 한정된 조건 내에서 치르는 전투를 분석하기 위해서
 대전 상대로 소환사가 여러 명 필요합니다만……"
-56,"TEXT_JOBSMN630_02626_YMHITRA_000_044","소환사를 여러 명……?
+56,TEXT_JOBSMN630_02626_YMHITRA_000_044,"소환사를 여러 명……?
 지금 바로 어떻게 구해오란 말이야?"
-57,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_045","저기, 아가씨.
+57,TEXT_JOBSMN630_02626_DANCINGWOLF_000_045,"저기, 아가씨.
 얘기를 듣자 하니, 내가 도와줄 수 있을 것 같은데!?"
-58,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_046","<Highlight>ObjectParameter(1)</Highlight>, 사실은 말이다…….
+58,TEXT_JOBSMN630_02626_DANCINGWOLF_000_046,"Player Player, 사실은 말이다…….
 야만신과의 싸움에 소환사의 힘을 빌리려는 움직임이 일어나고 있어.
 너의 평판이 불멸대 상층부에도 전해졌기 때문이지!"
-59,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_047","이미 내 밑에서 초보 소환사들이 훈련을 받고 있다.
+59,TEXT_JOBSMN630_02626_DANCINGWOLF_000_047,"이미 내 밑에서 초보 소환사들이 훈련을 받고 있다.
 이프리트 토벌전의 생존자 중에서 손에 꼽히는 용사들을 골라서
 아씨엔으로부터 회수한 소울 크리스탈을 지급했지."
-60,"TEXT_JOBSMN630_02626_YMHITRA_000_048","그들에게 본격적인 훈련을 시키기 위해서
-<Highlight>ObjectParameter(1)</Highlight>의 도움을 받고 싶다고
+60,TEXT_JOBSMN630_02626_YMHITRA_000_048,"그들에게 본격적인 훈련을 시키기 위해서
+Player Player의 도움을 받고 싶다고
 며칠 전부터 춤추는 늑대 대위가 난리를 피우더라니까요……."
-61,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_049","어차피 '시련'인가 뭔가를 받으려면 소환사가 필요하잖아?
+61,TEXT_JOBSMN630_02626_DANCINGWOLF_000_049,"어차피 '시련'인가 뭔가를 받으려면 소환사가 필요하잖아?
 우리가 전면적으로 지원하마.
 그 대신 너는 내 부하들과 한번만 실력을 겨뤄 주면 돼!"
-62,"TEXT_JOBSMN630_02626_PRINCIPIA_000_0050","……괜찮은 얘기 같군요.
+62,TEXT_JOBSMN630_02626_PRINCIPIA_000_0050,"……괜찮은 얘기 같군요.
 새로운 소환사 여러분께 제가 기초 지식을 알려줄 수도 있고요."
-63,"TEXT_JOBSMN630_02626_YMHITRA_000_051","어쩔 수 없네요……. 우리에게도 이익이 되는 일이니까요."
-64,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_052","결정됐군!
+63,TEXT_JOBSMN630_02626_YMHITRA_000_051,어쩔 수 없네요……. 우리에게도 이익이 되는 일이니까요.
+64,TEXT_JOBSMN630_02626_DANCINGWOLF_000_052,"결정됐군!
 그럼 북부 다날란의 '푸른안개 야영지'에서 기다리마."
-65,"TEXT_JOBSMN630_02626_YMHITRA_000_090","거기 있는 세 명이 이번 시련을 도와줄 소환사래요.
+65,TEXT_JOBSMN630_02626_YMHITRA_000_090,"거기 있는 세 명이 이번 시련을 도와줄 소환사래요.
 다들 다치지 않도록 조심해서 싸우세요."
-66,"TEXT_JOBSMN630_02626_PRINCIPIA_000_100","잘 부탁합니다, <If(PlayerParameter(4))>아씨<Else/>나리</If>.
+66,TEXT_JOBSMN630_02626_PRINCIPIA_000_100,"잘 부탁합니다, 아씨.
 준비가 되는 대로 두 번째 시련을 시작하겠습니다."
-67,"TEXT_JOBSMN630_02626_CRISPIN_000_110","오늘은 소환사끼리 싸우는 실전 훈련이라 들었습니다.
+67,TEXT_JOBSMN630_02626_CRISPIN_000_110,"오늘은 소환사끼리 싸우는 실전 훈련이라 들었습니다.
 모쪼록 잘 부탁드리겠습니다."
-68,"TEXT_JOBSMN630_02626_DENISE_000_120","특무부대 중사 데니스라고 해.
+68,TEXT_JOBSMN630_02626_DENISE_000_120,"특무부대 중사 데니스라고 해.
 잘 부탁한다!"
-69,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_130","음…… 나한테 볼일 있어?
+69,TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_130,"음…… 나한테 볼일 있어?
 아직 시련이 시작된 건 아니지?"
-70,"TEXT_JOBSMN630_02626_YMHITRA_000_140","프린의 두 번째 시련은
+70,TEXT_JOBSMN630_02626_YMHITRA_000_140,"프린의 두 번째 시련은
 북부 다날란의 '푸른안개 야영지'에서 하기로 했어요."
-71,"TEXT_JOBSMN630_02626_YMHITRA_000_141","춤추는 늑대 대위에겐 안그래도 바쁜
-<Highlight>ObjectParameter(1)</Highlight>한테 그쪽 부하의 훈련까지
+71,TEXT_JOBSMN630_02626_YMHITRA_000_141,"춤추는 늑대 대위에겐 안그래도 바쁜
+Player Player한테 그쪽 부하의 훈련까지
 부탁할 순 없다고 거절했었는데 말이죠."
-72,"TEXT_JOBSMN630_02626_PRINCIPIA_000_150","두 번째 시련은 '기술'의 시련입니다.
-<If(PlayerParameter(4))>아씨<Else/>나리</If>의 움직임이 얼마나 능숙한지
+72,TEXT_JOBSMN630_02626_PRINCIPIA_000_150,"두 번째 시련은 '기술'의 시련입니다.
+아씨의 움직임이 얼마나 능숙한지
 확인해 보겠습니다……!"
-73,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_160","자…… 모두 모인 것 같군!
+73,TEXT_JOBSMN630_02626_DANCINGWOLF_000_160,"자…… 모두 모인 것 같군!
 그럼 두 번째 시련의 내용을 설명해 주실까."
-74,"TEXT_JOBSMN630_02626_PRINCIPIA_000_161","네.
+74,TEXT_JOBSMN630_02626_PRINCIPIA_000_161,"네.
 앞서 말씀 드렸다시피 이번 시련은 '기술'의 시련입니다.
 단순히 마력의 세기뿐 아니라 기술적 숙련도를 평가합니다."
-75,"TEXT_JOBSMN630_02626_PRINCIPIA_000_162","세 소환사의 소환수에게 제가 특별한 보조 마법을 부여할 겁니다.
-<If(PlayerParameter(4))>아씨<Else/>나리</If>께선 그들의 소환수와 싸우시면 됩니다."
-76,"TEXT_JOBSMN630_02626_YMHITRA_000_163","보조 마법으로 전투 기록을 자세히 저장할 건가 봐요.
+75,TEXT_JOBSMN630_02626_PRINCIPIA_000_162,"세 소환사의 소환수에게 제가 특별한 보조 마법을 부여할 겁니다.
+아씨께선 그들의 소환수와 싸우시면 됩니다."
+76,TEXT_JOBSMN630_02626_YMHITRA_000_163,"보조 마법으로 전투 기록을 자세히 저장할 건가 봐요.
 분석해서 당신 기술의 숙련도를 측정한대요.
 왠지 마법대학의 실기시험과 비슷한데…… 아무튼, 힘내요!"
-77,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_164","그럼 각자 자기소개부터 할까!
+77,TEXT_JOBSMN630_02626_DANCINGWOLF_000_164,"그럼 각자 자기소개부터 할까!
 셋 다 내 특무부대 부하들이다."
-78,"TEXT_JOBSMN630_02626_CRISPIN_000_165","상병 크리스핀이라고 합니다.
+78,TEXT_JOBSMN630_02626_CRISPIN_000_165,"상병 크리스핀이라고 합니다.
 왠지 지적 호기심을 자극하는 시련이군요.
-<Highlight>ObjectParameter(1)</Highlight> 님, 잘 부탁합니다."
-79,"TEXT_JOBSMN630_02626_DENISE_000_166","중사 데니스야.
+Player Player 님, 잘 부탁합니다."
+79,TEXT_JOBSMN630_02626_DENISE_000_166,"중사 데니스야.
 소환사로서는 신출내기지만 실전 경험은 풍부한 편이지!
 이번엔 크리스핀과 함께 2인 1조로 겨루게 될 거야."
-80,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_167","소위 자자사무다.
-당신이 소문으로만 듣던 <Highlight>ObjectParameter(1)</Highlight>인가…….
+80,TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_167,"소위 자자사무다.
+당신이 소문으로만 듣던 Player Player인가…….
 한 수 배워 볼까!"
-81,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_168","그럼 각자 위치로!
-<Highlight>ObjectParameter(1)</Highlight>, 준비가 됐으면 먼저
+81,TEXT_JOBSMN630_02626_DANCINGWOLF_000_168,"그럼 각자 위치로!
+Player Player, 준비가 됐으면 먼저
 크리스핀 상병과 데니스 중사에게 말을 걸어라."
-82,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_169","그다음은 '자자사무 소위'의 소환수와 싸우게 될 거다.
+82,TEXT_JOBSMN630_02626_DANCINGWOLF_000_169,"그다음은 '자자사무 소위'의 소환수와 싸우게 될 거다.
 연이어 전투를 치르게 되니까 각오 단단히 해야 할 거다!"
-83,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_190","<Highlight>ObjectParameter(1)</Highlight>, 준비가 됐으면 먼저
+83,TEXT_JOBSMN630_02626_DANCINGWOLF_000_190,"Player Player, 준비가 됐으면 먼저
 크리스핀 상병과 데니스 중사에게 말을 걸어라."
-84,"TEXT_JOBSMN630_02626_DENISE_000_220","먼저 우리 소환수와 싸우자!
+84,TEXT_JOBSMN630_02626_DENISE_000_220,"먼저 우리 소환수와 싸우자!
 준비가 다 되면 크리스핀에게 말을 걸어!"
-85,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_230","……어디 실력 한번 볼까.
+85,TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_230,"……어디 실력 한번 볼까.
 당신이 어떤 식으로 싸우는지 아주 궁금하군."
-86,"TEXT_JOBSMN630_02626_YMHITRA_000_240","지금 북부 다날란의 '푸른안개 수맥'에서
+86,TEXT_JOBSMN630_02626_YMHITRA_000_240,"지금 북부 다날란의 '푸른안개 수맥'에서
 두 번째 시련을 진행 중이에요."
-87,"TEXT_JOBSMN630_02626_PRINCIPIA_000_250","<If(PlayerParameter(4))>아씨<Else/>나리</If>, 두 번째 시련의 무대는
+87,TEXT_JOBSMN630_02626_PRINCIPIA_000_250,"아씨, 두 번째 시련의 무대는
 북부 다날란의 '푸른안개 수맥'입니다."
-88,"TEXT_JOBSMN630_02626_CRISPIN_000_260","그럼 시작할까요?
+88,TEXT_JOBSMN630_02626_CRISPIN_000_260,"그럼 시작할까요?
 저랑 데니스 중사가 소환하는 이프리트 에기가 상대합니다!"
-89,"TEXT_JOBSMN630_02626_DENISE_000_270","하하핫!
+89,TEXT_JOBSMN630_02626_DENISE_000_270,"하하핫!
 둘을 동시에 상대할 수 있겠어!?"
-90,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_270","역시 대단하군!
+90,TEXT_JOBSMN630_02626_DANCINGWOLF_000_270,"역시 대단하군!
 다음엔 '자자사무 소위'에게 말을 걸어서 시련을 계속 진행해라."
-91,"TEXT_JOBSMN630_02626_YMHITRA_000_280","보조 마법으로 조금은 강화된 걸로 아는데……
+91,TEXT_JOBSMN630_02626_YMHITRA_000_280,"보조 마법으로 조금은 강화된 걸로 아는데……
 역시 상대가 되질 않았네요."
-92,"TEXT_JOBSMN630_02626_PRINCIPIA_000_290","<If(PlayerParameter(4))>아씨<Else/>나리</If>, 정말 훌륭했습니다.
+92,TEXT_JOBSMN630_02626_PRINCIPIA_000_290,"아씨, 정말 훌륭했습니다.
 그럼 시련을 계속 진행해 볼까요."
-93,"TEXT_JOBSMN630_02626_CRISPIN_000_300","완패였습니다…….
+93,TEXT_JOBSMN630_02626_CRISPIN_000_300,"완패였습니다…….
 화려한 솜씨에 넋을 잃을 뻔했어요."
-94,"TEXT_JOBSMN630_02626_DENISE_000_310","……우리가 당연히 질 싸움이었어.
+94,TEXT_JOBSMN630_02626_DENISE_000_310,"……우리가 당연히 질 싸움이었어.
 분하지 않다면 거짓말이겠지만!"
-95,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_330","크리스핀과 데니스는 아직 실력이 부족했나 보군.
+95,TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_330,"크리스핀과 데니스는 아직 실력이 부족했나 보군.
 미안하지만 내가 불러내는 소환수는 그 두 녀석을 합친 것보다
 훨씬 강할 거다."
-96,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_331","간다!
+96,TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_331,"간다!
 이게 바로 진정한…… 이프리트 에기다!"
-97,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_350","다음 상대도 '자자사무 소위'의 소환수다.
+97,TEXT_JOBSMN630_02626_DANCINGWOLF_000_350,"다음 상대도 '자자사무 소위'의 소환수다.
 그 녀석은 워낙 지길 싫어해서 절대 봐주지 않을 거야.
 방심은 마라!"
-98,"TEXT_JOBSMN630_02626_YMHITRA_000_360"," <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 한 수 위였지만
+98,TEXT_JOBSMN630_02626_YMHITRA_000_360," Player Player 한 수 위였지만
 이번 이프리트 에기는 제법 강했네요."
-99,"TEXT_JOBSMN630_02626_PRINCIPIA_000_370","<If(PlayerParameter(4))>아씨<Else/>나리</If>, 혹시 지치진 않으셨나요?
+99,TEXT_JOBSMN630_02626_PRINCIPIA_000_370,"아씨, 혹시 지치진 않으셨나요?
 충분히 휴식을 취한 후에 다음 싸움에 임하세요."
-100,"TEXT_JOBSMN630_02626_CRISPIN_000_380","자자사무 소위의 소환수도 당하고 말았나요…….
+100,TEXT_JOBSMN630_02626_CRISPIN_000_380,"자자사무 소위의 소환수도 당하고 말았나요…….
 이제 아무도 당해 내지 못하네요."
-101,"TEXT_JOBSMN630_02626_DENISE_000_390","아직 끝나지 않았어.
+101,TEXT_JOBSMN630_02626_DENISE_000_390,"아직 끝나지 않았어.
 자자사무는 아주 기세등등해!"
-102,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_420","쳇…… 인정하지.
+102,TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_420,"쳇…… 인정하지.
 내 소환수의 패배를…… 그것도 참패를 말이다!"
-103,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_421","그렇지만 이 정도는 너한테 '시련'도 아니잖아?
+103,TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_421,"그렇지만 이 정도는 너한테 '시련'도 아니잖아?
 다행히도 나는 과거에 바다영웅단에서
 이프리트가 아닌 야만신과 싸운 적이 있지."
-104,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_422","그래…… 소환수를 여럿 부릴 수 있는 건 너뿐이 아니야!
-<Highlight>ObjectParameter(1)</Highlight>, 네 마지막 상대는
+104,TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_422,"그래…… 소환수를 여럿 부릴 수 있는 건 너뿐이 아니야!
+Player Player, 네 마지막 상대는
 이 타이탄 에기다!"
-105,"TEXT_JOBSMN630_02626_YMHITRA_000_440","바다영웅단 출신 대원이 있다니 놀랍네요.
+105,TEXT_JOBSMN630_02626_YMHITRA_000_440,"바다영웅단 출신 대원이 있다니 놀랍네요.
 조만간 좋은 소환사가 될지도 모르겠네요."
-106,"TEXT_JOBSMN630_02626_PRINCIPIA_000_450","<If(PlayerParameter(4))>아씨<Else/>나리</If>의 전투 기록을 분석 중입니다.
+106,TEXT_JOBSMN630_02626_PRINCIPIA_000_450,"아씨의 전투 기록을 분석 중입니다.
 굳이 분석하지 않아도 결과는 뻔할 것 같지만요……."
-107,"TEXT_JOBSMN630_02626_CRISPIN_000_460","타이탄 에기라면 조금은 상대가 될 줄 알았습니다만
+107,TEXT_JOBSMN630_02626_CRISPIN_000_460,"타이탄 에기라면 조금은 상대가 될 줄 알았습니다만
 역시 무리였군요……."
-108,"TEXT_JOBSMN630_02626_DENISE_000_470","멋진 싸움이었어.
+108,TEXT_JOBSMN630_02626_DENISE_000_470,"멋진 싸움이었어.
 돌아가면 바로 맹훈련을 해야겠군……!"
-109,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_480","가능하다면 나도 직접 전투에 참가하고 싶었어.
+109,TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_480,"가능하다면 나도 직접 전투에 참가하고 싶었어.
 그래 봤자 결과는 마찬가지였겠지만……."
-110,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_500","수고했다!
+110,TEXT_JOBSMN630_02626_DANCINGWOLF_000_500,"수고했다!
 이제 두 번째 시련은 합격한 건가?"
-111,"TEXT_JOBSMN630_02626_PRINCIPIA_000_501","네, 방금 분석 결과가 나왔습니다.
-<If(PlayerParameter(4))>아씨<Else/>나리</If>의 날카로운 '기술'은 두말할 것도 없이 아주 뛰어난 것이었습니다.
+111,TEXT_JOBSMN630_02626_PRINCIPIA_000_501,"네, 방금 분석 결과가 나왔습니다.
+아씨의 날카로운 '기술'은 두말할 것도 없이 아주 뛰어난 것이었습니다.
 이번 시련도 당당하게 이겨내셨군요."
-112,"TEXT_JOBSMN630_02626_DANCINGWOLF_000_502","축하한다! 그나저나 대단하군…….
+112,TEXT_JOBSMN630_02626_DANCINGWOLF_000_502,"축하한다! 그나저나 대단하군…….
 야만신과의 전투에서 살아돌아온 용사의 소환수를
 마치 아이 손목 꺾듯이 차례차례 격파하다니!"
-113,"TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_503","……고맙다.
+113,TEXT_JOBSMN630_02626_JAJASAMULALASAMU_000_503,"……고맙다.
 눈앞에서 '진짜' 소환마법을 보고 나니까
 내가 얼마나 미숙했는지 깨달았어."
-114,"TEXT_JOBSMN630_02626_YMHITRA_000_504","도움이 된 것 같아서 다행이네요.
+114,TEXT_JOBSMN630_02626_YMHITRA_000_504,"도움이 된 것 같아서 다행이네요.
 그럼 우리는 그리다니아로 돌아갈게요."
-115,"TEXT_JOBSMN630_02626_CRISPIN_000_505","<Highlight>ObjectParameter(1)</Highlight> 님, 감사합니다.
+115,TEXT_JOBSMN630_02626_CRISPIN_000_505,"Player Player 님, 감사합니다.
 이번 경험은 꼭 가슴에 새기겠습니다!"
-116,"TEXT_JOBSMN630_02626_DENISE_000_505","그럼 다음에 또 붙자고!"
-117,"TEXT_JOBSMN630_02626_PRINCIPIA_000_540","이제 남은 시련은 하나입니다.
+116,TEXT_JOBSMN630_02626_DENISE_000_505,그럼 다음에 또 붙자고!
+117,TEXT_JOBSMN630_02626_PRINCIPIA_000_540,"이제 남은 시련은 하나입니다.
 소환마법의 위대한 비법…… 꼭 습득하시길 바라겠습니다."
-118,"TEXT_JOBSMN630_02626_YMHITRA_000_560","<Highlight>ObjectParameter(1)</Highlight>, 축하해요.
+118,TEXT_JOBSMN630_02626_YMHITRA_000_560,"Player Player, 축하해요.
 이제 세 번의 시련 가운데
 '힘'과 '기술' 두 개의 시련을 극복했군요!"
-119,"TEXT_JOBSMN630_02626_YMHITRA_000_561","아 참, 마지막 시련에 대해 말하기 전에……
+119,TEXT_JOBSMN630_02626_YMHITRA_000_561,"아 참, 마지막 시련에 대해 말하기 전에……
 프린이 또 소환마법의 역사에 대해 강연해 주겠대요."
-120,"TEXT_JOBSMN630_02626_PRINCIPIA_000_570","애초에 소환마법은 야만신을 토벌하기 위해 탄생한 마법 체계입니다.
+120,TEXT_JOBSMN630_02626_PRINCIPIA_000_570,"애초에 소환마법은 야만신을 토벌하기 위해 탄생한 마법 체계입니다.
 한때 소환사는 야만신 토벌로 큰 공을 세우고 영웅 대접을 받았죠."
-121,"TEXT_JOBSMN630_02626_YMHITRA_000_571","하지만 일부가 그 힘을 악용하면서 탄압의 대상이 되었다…….
+121,TEXT_JOBSMN630_02626_YMHITRA_000_571,"하지만 일부가 그 힘을 악용하면서 탄압의 대상이 되었다…….
 내 말 맞지?"
-122,"TEXT_JOBSMN630_02626_PRINCIPIA_000_572","네……. 저를 창조한 사리 님은 제3성력 말기에
+122,TEXT_JOBSMN630_02626_PRINCIPIA_000_572,"네……. 저를 창조한 사리 님은 제3성력 말기에
 탄압을 뿌리치고 야만신 토벌에 힘을 쏟으셨던 분입니다.
 제자들과 함께 벨리아스를 비롯한 수많은 야만신들을 없앴습니다."
-123,"TEXT_JOBSMN630_02626_YMHITRA_000_573","트리스탄의 힘의 원천인 야만신 벨리아스를 쓰러뜨린 것도
+123,TEXT_JOBSMN630_02626_YMHITRA_000_573,"트리스탄의 힘의 원천인 야만신 벨리아스를 쓰러뜨린 것도
 알라그의 위대한 소환사 사리였구나……."
-124,"TEXT_JOBSMN630_02626_PRINCIPIA_000_574","사리 님은 선인들이 구축한 위대한 소환마법이 사라지지 않게
+124,TEXT_JOBSMN630_02626_PRINCIPIA_000_574,"사리 님은 선인들이 구축한 위대한 소환마법이 사라지지 않게
 문헌의 수집과 보존, 후계자 육성에 힘쓰셨습니다."
-125,"TEXT_JOBSMN630_02626_PRINCIPIA_000_575","한편 마과학에도 조예가 깊어, 특히 정보 기술에 주목하셨죠.
+125,TEXT_JOBSMN630_02626_PRINCIPIA_000_575,"한편 마과학에도 조예가 깊어, 특히 정보 기술에 주목하셨죠.
 예를 들면, 마도서 없이 마법 문양을 만든다거나
 기계의 힘을 빌려서 소환수를 강화하는 기술 등이죠."
-126,"TEXT_JOBSMN630_02626_PRINCIPIA_000_576","하지만 그런 기술들은 미완성이라
+126,TEXT_JOBSMN630_02626_PRINCIPIA_000_576,"하지만 그런 기술들은 미완성이라
 후세에 남기기엔 적합하지 않다고 판단하셨나 봅니다.
 그래서 사리 님은 후세의 평화를 위해 저를 기록하신 거죠."
-127,"TEXT_JOBSMN630_02626_YMHITRA_000_577","대단한 소환사였구나…….
+127,TEXT_JOBSMN630_02626_YMHITRA_000_577,"대단한 소환사였구나…….
 그런데 알라그의 기록에 사리의 이름은 거의 나오지 않던데.
 왜 그런 거야?"
-128,"TEXT_JOBSMN630_02626_PRINCIPIA_000_578","제가 살았던 시대에 소환사는 철저하게 탄압받았습니다.
+128,TEXT_JOBSMN630_02626_PRINCIPIA_000_578,"제가 살았던 시대에 소환사는 철저하게 탄압받았습니다.
 실제로 제자들 대부분은 탄압으로 목숨을 잃었죠.
 아마도 사리 님의 공적도 말소되었을 겁니다."
-129,"TEXT_JOBSMN630_02626_PRINCIPIA_000_579","사실 저는 어느 시기부턴 보관고에서 잠들어 있었기 때문에
+129,TEXT_JOBSMN630_02626_PRINCIPIA_000_579,"사실 저는 어느 시기부턴 보관고에서 잠들어 있었기 때문에
 사리 님의 말년에 대해선 잘 모릅니다만……."
-130,"TEXT_JOBSMN630_02626_YMHITRA_000_580","듣다 보니 소환사의 역사가 아니라 프린의 추억담이 돼 버렸네.
+130,TEXT_JOBSMN630_02626_YMHITRA_000_580,"듣다 보니 소환사의 역사가 아니라 프린의 추억담이 돼 버렸네.
 하지만 프린이 창조주인 사리를 존경한다는 건 잘 알겠어."
-131,"TEXT_JOBSMN630_02626_PRINCIPIA_000_581","공교롭게도 저는 사역마인지라
+131,TEXT_JOBSMN630_02626_PRINCIPIA_000_581,"공교롭게도 저는 사역마인지라
 그런 감정은 느끼지 못합니다만…….
 얘기가 길어졌으니 강의는 이쯤에서 끝내기로 하죠."
-132,"TEXT_JOBSMN630_02626_YMHITRA_000_582","어머, 무뚝뚝하긴.
-<Highlight>ObjectParameter(1)</Highlight>, 다음은 드디어 최종 시련이네요.
+132,TEXT_JOBSMN630_02626_YMHITRA_000_582,"어머, 무뚝뚝하긴.
+Player Player, 다음은 드디어 최종 시련이네요.
 최고의 상태로 임할 수 있게 준비를 잘 갖춰 두세요!"

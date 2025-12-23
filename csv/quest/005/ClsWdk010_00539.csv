@@ -1,137 +1,135 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CLSWDK010_00539_SEQ_00","목수 길드마스터 베아탱은 공황 상태에 빠져 있는 듯하다."
-1,"TEXT_CLSWDK010_00539_SEQ_01","베아탱의 의뢰를 받았다. 그리다니아 '도토리 놀이터'에 있는 '니콜리오'와 대화하자."
-2,"TEXT_CLSWDK010_00539_SEQ_02","니콜리오와 대화했다. 그리다니아 '목수 길드'에 있는 '베아탱'에게 <Sheet(ItemHQ,　5376,0)/> 1개를 보여주자."
-3,"TEXT_CLSWDK010_00539_SEQ_03","베아탱에게 <Sheet(ItemHQ,　5376,0)/><13>FF17022813FF074974656D4851FF08E38080353337360103FF04EBA5BCFF04EC9D84</13> 보여주었다. 북부삼림에 있는 '게이르하드'에게 <Sheet(Item,　5671,0)/><13>FF15022811FF054974656DFF08E38080353637310103FF04EBA5BCFF04EC9D84</13> 장착한 <Sheet(ItemHQ,　1942,0)/><13>FF17022813FF074974656D4851FF08E38080313934320103FF04EBA5BCFF04EC9D84</13> 1개 납품하자."
-4,"TEXT_CLSWDK010_00539_SEQ_04","게이르하드에게 <Sheet(ItemHQ,　1942,0)/><13>FF17022813FF074974656D4851FF08E38080313934320103FF04EBA5BCFF04EC9D84</13> 납품했다. 그리다니아 '목수 길드'에 있는 '베아탱'에게 보고하자."
-5,"TEXT_CLSWDK010_00539_SEQ_05","베아탱에게 보고했다. 베아탱은 게이르하드가 승리했다는 소식에 기뻐했다. 모험가 덕분에 베아탱 자신도 성장할 수 있었다고 한다. 앞으로도 목수로서 함께 성장해나가자고 하는 베아탱. 그의 말을 가슴에 품고 계속해서 목공 실력을 연마하자.
+#,Unknown0,Unknown1
+0,TEXT_CLSWDK010_00539_SEQ_00,목수 길드마스터 베아탱은 공황 상태에 빠져 있는 듯하다.
+1,TEXT_CLSWDK010_00539_SEQ_01,베아탱의 의뢰를 받았다. 그리다니아 '도토리 놀이터'에 있는 '니콜리오'와 대화하자.
+2,TEXT_CLSWDK010_00539_SEQ_02,니콜리오와 대화했다. 그리다니아 '목수 길드'에 있는 '베아탱'에게  1개를 보여주자.
+3,TEXT_CLSWDK010_00539_SEQ_03,베아탱에게  보여주었다. 북부삼림에 있는 '게이르하드'에게  장착한  1개 납품하자.
+4,TEXT_CLSWDK010_00539_SEQ_04,게이르하드에게  납품했다. 그리다니아 '목수 길드'에 있는 '베아탱'에게 보고하자.
+5,TEXT_CLSWDK010_00539_SEQ_05,"베아탱에게 보고했다. 베아탱은 게이르하드가 승리했다는 소식에 기뻐했다. 모험가 덕분에 베아탱 자신도 성장할 수 있었다고 한다. 앞으로도 목수로서 함께 성장해나가자고 하는 베아탱. 그의 말을 가슴에 품고 계속해서 목공 실력을 연마하자.
 
 ※ '주요 퀘스트: 신생 에오르제아' 중 '희망의 등불'을 완료하면
 목수 길드의 베아탱에게서 새로운 클래스 퀘스트를 받을 수 있습니다."
-6,"TEXT_CLSWDK010_00539_SEQ_06",""
-7,"TEXT_CLSWDK010_00539_SEQ_07",""
-8,"TEXT_CLSWDK010_00539_SEQ_08",""
-9,"TEXT_CLSWDK010_00539_SEQ_09",""
-10,"TEXT_CLSWDK010_00539_SEQ_10",""
-11,"TEXT_CLSWDK010_00539_SEQ_11",""
-12,"TEXT_CLSWDK010_00539_SEQ_12",""
-13,"TEXT_CLSWDK010_00539_SEQ_13",""
-14,"TEXT_CLSWDK010_00539_SEQ_14",""
-15,"TEXT_CLSWDK010_00539_SEQ_15",""
-16,"TEXT_CLSWDK010_00539_SEQ_16",""
-17,"TEXT_CLSWDK010_00539_SEQ_17",""
-18,"TEXT_CLSWDK010_00539_SEQ_18",""
-19,"TEXT_CLSWDK010_00539_SEQ_19",""
-20,"TEXT_CLSWDK010_00539_SEQ_20",""
-21,"TEXT_CLSWDK010_00539_SEQ_21",""
-22,"TEXT_CLSWDK010_00539_SEQ_22",""
-23,"TEXT_CLSWDK010_00539_SEQ_23",""
-24,"TEXT_CLSWDK010_00539_TODO_00","니콜리오와 대화"
-25,"TEXT_CLSWDK010_00539_TODO_01","베아탱에게 <Sheet(ItemHQ,5376)/> 보이기"
-26,"TEXT_CLSWDK010_00539_TODO_02","북부삼림에서 게이르하드에게 의뢰물 납품"
-27,"TEXT_CLSWDK010_00539_TODO_03","목수 길드에서 베아탱에게 보고"
-28,"TEXT_CLSWDK010_00539_TODO_04",""
-29,"TEXT_CLSWDK010_00539_TODO_05",""
-30,"TEXT_CLSWDK010_00539_TODO_06",""
-31,"TEXT_CLSWDK010_00539_TODO_07",""
-32,"TEXT_CLSWDK010_00539_TODO_08",""
-33,"TEXT_CLSWDK010_00539_TODO_09",""
-34,"TEXT_CLSWDK010_00539_TODO_10",""
-35,"TEXT_CLSWDK010_00539_TODO_11",""
-36,"TEXT_CLSWDK010_00539_TODO_12",""
-37,"TEXT_CLSWDK010_00539_TODO_13",""
-38,"TEXT_CLSWDK010_00539_TODO_14",""
-39,"TEXT_CLSWDK010_00539_TODO_15",""
-40,"TEXT_CLSWDK010_00539_TODO_16",""
-41,"TEXT_CLSWDK010_00539_TODO_17",""
-42,"TEXT_CLSWDK010_00539_TODO_18",""
-43,"TEXT_CLSWDK010_00539_TODO_19",""
-44,"TEXT_CLSWDK010_00539_TODO_20",""
-45,"TEXT_CLSWDK010_00539_TODO_21",""
-46,"TEXT_CLSWDK010_00539_TODO_22",""
-47,"TEXT_CLSWDK010_00539_TODO_23",""
-48,"TEXT_CLSWDK010_00539_BEATINE_000_001","<Highlight>ObjectParameter(1)</Highlight> 씨……!
+6,TEXT_CLSWDK010_00539_SEQ_06,
+7,TEXT_CLSWDK010_00539_SEQ_07,
+8,TEXT_CLSWDK010_00539_SEQ_08,
+9,TEXT_CLSWDK010_00539_SEQ_09,
+10,TEXT_CLSWDK010_00539_SEQ_10,
+11,TEXT_CLSWDK010_00539_SEQ_11,
+12,TEXT_CLSWDK010_00539_SEQ_12,
+13,TEXT_CLSWDK010_00539_SEQ_13,
+14,TEXT_CLSWDK010_00539_SEQ_14,
+15,TEXT_CLSWDK010_00539_SEQ_15,
+16,TEXT_CLSWDK010_00539_SEQ_16,
+17,TEXT_CLSWDK010_00539_SEQ_17,
+18,TEXT_CLSWDK010_00539_SEQ_18,
+19,TEXT_CLSWDK010_00539_SEQ_19,
+20,TEXT_CLSWDK010_00539_SEQ_20,
+21,TEXT_CLSWDK010_00539_SEQ_21,
+22,TEXT_CLSWDK010_00539_SEQ_22,
+23,TEXT_CLSWDK010_00539_SEQ_23,
+24,TEXT_CLSWDK010_00539_TODO_00,니콜리오와 대화
+25,TEXT_CLSWDK010_00539_TODO_01,베아탱에게  보이기
+26,TEXT_CLSWDK010_00539_TODO_02,북부삼림에서 게이르하드에게 의뢰물 납품
+27,TEXT_CLSWDK010_00539_TODO_03,목수 길드에서 베아탱에게 보고
+28,TEXT_CLSWDK010_00539_TODO_04,
+29,TEXT_CLSWDK010_00539_TODO_05,
+30,TEXT_CLSWDK010_00539_TODO_06,
+31,TEXT_CLSWDK010_00539_TODO_07,
+32,TEXT_CLSWDK010_00539_TODO_08,
+33,TEXT_CLSWDK010_00539_TODO_09,
+34,TEXT_CLSWDK010_00539_TODO_10,
+35,TEXT_CLSWDK010_00539_TODO_11,
+36,TEXT_CLSWDK010_00539_TODO_12,
+37,TEXT_CLSWDK010_00539_TODO_13,
+38,TEXT_CLSWDK010_00539_TODO_14,
+39,TEXT_CLSWDK010_00539_TODO_15,
+40,TEXT_CLSWDK010_00539_TODO_16,
+41,TEXT_CLSWDK010_00539_TODO_17,
+42,TEXT_CLSWDK010_00539_TODO_18,
+43,TEXT_CLSWDK010_00539_TODO_19,
+44,TEXT_CLSWDK010_00539_TODO_20,
+45,TEXT_CLSWDK010_00539_TODO_21,
+46,TEXT_CLSWDK010_00539_TODO_22,
+47,TEXT_CLSWDK010_00539_TODO_23,
+48,TEXT_CLSWDK010_00539_BEATINE_000_001,"Player Player 씨……!
 크, 큰일입니다…….
 어쩌면 좋겠습니까…… 어쩌면……!"
-49,"TEXT_CLSWDK010_00539_BEATINE_000_002","싸…… 쌍사당 통합사령부에
+49,TEXT_CLSWDK010_00539_BEATINE_000_002,"싸…… 쌍사당 통합사령부에
 전장에서 회수되었다는 부서진 무기들이 도착했는데……
 그…… 그중에……"
-50,"TEXT_CLSWDK010_00539_BEATINE_000_003","게이르하드가 쓰던 활이…… 있었습니다!"
-51,"TEXT_CLSWDK010_00539_BEATINE_000_004","제가 만든 활입니다……. 잘못 봤을 리가 없어요!
+50,TEXT_CLSWDK010_00539_BEATINE_000_003,게이르하드가 쓰던 활이…… 있었습니다!
+51,TEXT_CLSWDK010_00539_BEATINE_000_004,"제가 만든 활입니다……. 잘못 봤을 리가 없어요!
 전쟁터에서 무기를 놓쳤다는 건, 결국 그가……
 아아아……"
-52,"TEXT_CLSWDK010_00539_BEATINE_000_005","게, 게이르하드…………."
-53,"TEXT_CLSWDK010_00539_BEATINE_000_006","으으윽…… 죄송합니다……. 혼자 있게 해주십시오…….
+52,TEXT_CLSWDK010_00539_BEATINE_000_005,"게, 게이르하드…………."
+53,TEXT_CLSWDK010_00539_BEATINE_000_006,"으으윽…… 죄송합니다……. 혼자 있게 해주십시오…….
 저 대신, 도토리 놀이터에서 심심해하고 있을
 '니콜리오'의 말동무라도 해주시지 않겠습니까……."
-54,"TEXT_CLSWDK010_00539_NICOLIAUX_000_010","응? 선생님이 또 울적해 하고 계신 모양이네요.
+54,TEXT_CLSWDK010_00539_NICOLIAUX_000_010,"응? 선생님이 또 울적해 하고 계신 모양이네요.
 그치만 이번엔 우리 힘으로 안 돼요.
 선생님 스스로…… 이겨내셔야 하는 일이니까요."
-55,"TEXT_CLSWDK010_00539_NICOLIAUX_000_011","그래도 모험가 <If(PlayerParameter(4))>누나가<Else/>형이</If> 조금은 도와줄 수 있겠죠.
+55,TEXT_CLSWDK010_00539_NICOLIAUX_000_011,"그래도 모험가 누나가 조금은 도와줄 수 있겠죠.
 선생님이 조금이라도 긍정적으로 돌아서도록
-품질 좋은 <Sheet(ItemHQ,5376)/><13>FF1002280CFF074974656D4851F1150103FF04EBA5BCFF04EC9D84</13> 가져다줘 봐요!"
-56,"TEXT_CLSWDK010_00539_BEATINE_000_020","죄송합니다…… 혼자 있고 싶군요……."
-57,"TEXT_CLSWDK010_00539_BEATINE_000_021","이건……
-<Sheet(ItemHQ,5376)/>……?"
-58,"TEXT_CLSWDK010_00539_BEATINE_000_022","휴우…… 정말 대단합니다…….
+품질 좋은  가져다줘 봐요!"
+56,TEXT_CLSWDK010_00539_BEATINE_000_020,죄송합니다…… 혼자 있고 싶군요…….
+57,TEXT_CLSWDK010_00539_BEATINE_000_021,"이건……
+……?"
+58,TEXT_CLSWDK010_00539_BEATINE_000_022,"휴우…… 정말 대단합니다…….
 저도 모르는 사이…… 당신은 정말 큰 성장을 이루었군요."
-59,"TEXT_CLSWDK010_00539_BEATINE_000_023","성장……"
-60,"TEXT_CLSWDK010_00539_BEATINE_000_024","사람도 나무도 성장하는 법…….
+59,TEXT_CLSWDK010_00539_BEATINE_000_023,성장……
+60,TEXT_CLSWDK010_00539_BEATINE_000_024,"사람도 나무도 성장하는 법…….
 그래요…… 그도 이제 옛날의 그가 아니지요……."
-61,"TEXT_CLSWDK010_00539_BEATINE_000_025","게이르하드는…… 그리 쉽게 쓰러질 남자가 아니야……!"
-62,"TEXT_CLSWDK010_00539_BEATINE_000_026","그는…… 아직 살아있을지도 모릅니다……!
+61,TEXT_CLSWDK010_00539_BEATINE_000_025,게이르하드는…… 그리 쉽게 쓰러질 남자가 아니야……!
+62,TEXT_CLSWDK010_00539_BEATINE_000_026,"그는…… 아직 살아있을지도 모릅니다……!
 그렇다면 새로운 활이 필요하겠지요……!
 그래요, 분명히 그럴 겁니다……!"
-63,"TEXT_CLSWDK010_00539_BEATINE_000_027","……<Highlight>ObjectParameter(1)</Highlight> 씨.
+63,TEXT_CLSWDK010_00539_BEATINE_000_027,"……Player Player 씨.
 저한테 다시 '성장'의 의미를 일깨워준 당신에게……
 한 가지 부탁을 드려도 되겠습니까?"
-64,"TEXT_CLSWDK010_00539_BEATINE_000_028","<Sheet(ItemHQ,　1942,0)/><13>FF17022813FF074974656D4851FF08E38080313934320103FF04EBA5BCFF04EC9D84</13> 만든 다음
-거기에 <Sheet(Item,　5671,0)/><13>FF15022811FF054974656DFF08E38080353637310103FF04EBA5BCFF04EC9D84</13> 장착해주십시오……."
-65,"TEXT_CLSWDK010_00539_BEATINE_000_029","그리고 그 활을 전선에 있는 '게이르하드'에게 전해주세요.
+64,TEXT_CLSWDK010_00539_BEATINE_000_028," 만든 다음
+거기에  장착해주십시오……."
+65,TEXT_CLSWDK010_00539_BEATINE_000_029,"그리고 그 활을 전선에 있는 '게이르하드'에게 전해주세요.
 성장한 당신의 모습과 당신이 만든 활로 그에게
 제가 길드마스터로서 성장했다는 것을 보여주는 겁니다."
-66,"TEXT_CLSWDK010_00539_BEATINE_000_030","게이르하드의 부대는 지금쯤 북부삼림에 있을 겁니다.
+66,TEXT_CLSWDK010_00539_BEATINE_000_030,"게이르하드의 부대는 지금쯤 북부삼림에 있을 겁니다.
 너무 늦지 않아야 할 텐데……!"
-67,"TEXT_CLSWDK010_00539_GAIRHARD_000_040","아아, 안 되겠어…….
+67,TEXT_CLSWDK010_00539_GAIRHARD_000_040,"아아, 안 되겠어…….
 이크살족 부대가 발치까지 왔건만
 나는 그 활 없이는 도저히……."
-68,"TEXT_CLSWDK010_00539_GAIRHARD_000_041","<Highlight>ObjectParameter(1)</Highlight>……!
+68,TEXT_CLSWDK010_00539_GAIRHARD_000_041,"Player Player……!
 아니, 어떻게 여기에……. 게다가, 이 활은……?"
-69,"TEXT_CLSWDK010_00539_GAIRHARD_000_042","이, 이건…… <Sheet(ItemHQ,　1942,0)/> 아닌가!
+69,TEXT_CLSWDK010_00539_GAIRHARD_000_042,"이, 이건……  아닌가!
 이걸 어떻게…… 혹시 자네가 만들었나!?"
-70,"TEXT_CLSWDK010_00539_GAIRHARD_000_043","정말 훌륭한 활이군…….
+70,TEXT_CLSWDK010_00539_GAIRHARD_000_043,"정말 훌륭한 활이군…….
 대왕게의 갑각과 홍산호가 어우러진 이 색감……
 정말 아름다워. 이걸 손에 쥐면 사기가 끓어오를 거야……."
-71,"TEXT_CLSWDK010_00539_GAIRHARD_000_044","대단한 건 겉모습뿐이 아니다.
+71,TEXT_CLSWDK010_00539_GAIRHARD_000_044,"대단한 건 겉모습뿐이 아니다.
 합성궁은 원래 접합부의 강도가 큰 약점인데
 그걸 숙련된 장인의 손길로 절묘하게 보강했어……."
-72,"TEXT_CLSWDK010_00539_GAIRHARD_000_045","이렇게 훌륭한 활은 태어나서 처음 보는군…….
+72,TEXT_CLSWDK010_00539_GAIRHARD_000_045,"이렇게 훌륭한 활은 태어나서 처음 보는군…….
 베아탱이 자네를…… 그리고 자네가 이 활을……!
 좋아, 이 활과 함께라면 나도……!"
-73,"TEXT_CLSWDK010_00539_GAIRHARD_000_046","<Highlight>ObjectParameter(1)</Highlight>, 잘 보게나!"
-74,"TEXT_CLSWDK010_00539_GAIRHARD_000_047","이야아아아아압!!!"
-75,"TEXT_CLSWDK010_00539_GAIRHARD_000_050","이번 승리는 다 자네 덕분이야. 정말 고맙네.
+73,TEXT_CLSWDK010_00539_GAIRHARD_000_046,"Player Player, 잘 보게나!"
+74,TEXT_CLSWDK010_00539_GAIRHARD_000_047,이야아아아아압!!!
+75,TEXT_CLSWDK010_00539_GAIRHARD_000_050,"이번 승리는 다 자네 덕분이야. 정말 고맙네.
 ……자네를 이끌어준 베아탱한테도
 고맙다는 말을 전해줘."
-76,"TEXT_CLSWDK010_00539_BEATINE_000_050","돌아오셨군요……!
+76,TEXT_CLSWDK010_00539_BEATINE_000_050,"돌아오셨군요……!
 게이르하드가 이끄는 부대가 이겼다는 소식은
 벌써 이 그리다니아까지 들어와 있습니다……!"
-77,"TEXT_CLSWDK010_00539_BEATINE_000_051","정말로, 정말로 다행입니다…….
+77,TEXT_CLSWDK010_00539_BEATINE_000_051,"정말로, 정말로 다행입니다…….
 그리고 고맙습니다……. 뭐라고 말을 해야 할지."
-78,"TEXT_CLSWDK010_00539_BEATINE_000_052","당신에게 목수 일을 가르치면서……
+78,TEXT_CLSWDK010_00539_BEATINE_000_052,"당신에게 목수 일을 가르치면서……
 이 선생님도 한 단계…… 성장할 수 있었습니다……."
-79,"TEXT_CLSWDK010_00539_BEATINE_000_053","<Highlight>ObjectParameter(1)</Highlight> 씨…….
+79,TEXT_CLSWDK010_00539_BEATINE_000_053,"Player Player 씨…….
 당신은 이제 어엿한 거목…….
 더는 제가 가르쳐드릴 것이 없군요……."
-80,"TEXT_CLSWDK010_00539_BEATINE_000_054","그러나 목수로서 서로를 자극하며
+80,TEXT_CLSWDK010_00539_BEATINE_000_054,"그러나 목수로서 서로를 자극하며
 함께 성장해나갈 수는 있겠지요…….
 앞으로도 꾸준히 실력을 갈고닦아나갑시다…… 후후, 후……!"
-81,"TEXT_CLSWDK010_00539_SYSTEM_000_500","'목수'의 이야기가 일단락되었습니다!
+81,TEXT_CLSWDK010_00539_SYSTEM_000_500,"'목수'의 이야기가 일단락되었습니다!
 다음 '목수'의 클래스 퀘스트를 시작하기 위해서는
 다음 조건을 충족시켜야 합니다."
-82,"TEXT_CLSWDK010_00539_SYSTEM_000_501","'주요 퀘스트: 신생 에오르제아' 중 '희망의 등불'을 완료할 것."
-83,"TEXT_CLSWDK010_00539_SYSTEM_000_502","조건을 충족시킨 후 목수 길드의
+82,TEXT_CLSWDK010_00539_SYSTEM_000_501,'주요 퀘스트: 신생 에오르제아' 중 '희망의 등불'을 완료할 것.
+83,TEXT_CLSWDK010_00539_SYSTEM_000_502,"조건을 충족시킨 후 목수 길드의
 '베아탱'에게 말을 걸어
 새로운 클래스 퀘스트를 시작해보세요!"

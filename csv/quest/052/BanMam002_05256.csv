@@ -1,210 +1,208 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANMAM002_05256_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANMAM002_05256_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 고크골마 농원에 있는 루보쟈는 농작물이 시들지 않고 자라기 시작한 것이 놀라운 듯하다."
-1,"TEXT_BANMAM002_05256_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+1,TEXT_BANMAM002_05256_SEQ_01,"※ 이 퀘스트에는
+ '**** 레벨 보정(직업 변경 제한)' 적용됩니다.
    퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
 
 루보쟈 일행과 대화하고 공영 생물에 대해 들었다. 나무전령을 잡기 위해 야크텔 밀림의 세노테 쟈윤쟈 북쪽으로 간 '루보쟈'와 대화하자."
-2,"TEXT_BANMAM002_05256_SEQ_02","루보쟈와 대화했다. 지정된 물품을 손에 넣은 후, 세노테 쟈윤쟈 북쪽에 있는 '루보쟈'에게 납품하자."
-3,"TEXT_BANMAM002_05256_SEQ_03","루보쟈에게 나무전령이 좋아하는 것을 건넸다. 길들인 나무전령을 보여 주기 위해 고크골마 농원에 있는 '앙기르'와 대화하자."
-4,"TEXT_BANMAM002_05256_SEQ_04","도프로족의 훈련 덕분에 나무전령이 방출하는 에테르를 농작물에 뿌릴 수 있게 되었다. 해충을 쫓기 위한 공영 생물로 쓸모가 있다는 것이 증명되었다. 첫 수확도 끝났으니 앞으로 더욱 번창할 고크골마 농원을 계속해서 도와주자."
-5,"TEXT_BANMAM002_05256_SEQ_05",""
-6,"TEXT_BANMAM002_05256_SEQ_06",""
-7,"TEXT_BANMAM002_05256_SEQ_07",""
-8,"TEXT_BANMAM002_05256_SEQ_08",""
-9,"TEXT_BANMAM002_05256_SEQ_09",""
-10,"TEXT_BANMAM002_05256_SEQ_10",""
-11,"TEXT_BANMAM002_05256_SEQ_11",""
-12,"TEXT_BANMAM002_05256_SEQ_12",""
-13,"TEXT_BANMAM002_05256_SEQ_13",""
-14,"TEXT_BANMAM002_05256_SEQ_14",""
-15,"TEXT_BANMAM002_05256_SEQ_15",""
-16,"TEXT_BANMAM002_05256_SEQ_16",""
-17,"TEXT_BANMAM002_05256_SEQ_17",""
-18,"TEXT_BANMAM002_05256_SEQ_18",""
-19,"TEXT_BANMAM002_05256_SEQ_19",""
-20,"TEXT_BANMAM002_05256_SEQ_20",""
-21,"TEXT_BANMAM002_05256_SEQ_21",""
-22,"TEXT_BANMAM002_05256_SEQ_22",""
-23,"TEXT_BANMAM002_05256_SEQ_23",""
-24,"TEXT_BANMAM002_05256_TODO_00","루보쟈와 대화"
-25,"TEXT_BANMAM002_05256_TODO_01","<If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>세노테 네요조테 부근의 광맥에서 <Sheet(Item,IntegerParameter(5),0)/> 채굴<Else/>루보쟈에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>세노테 네요조테 부근의 성목에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>루보쟈에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>세노테 모슈투랄에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>루보쟈에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If>"
-26,"TEXT_BANMAM002_05256_TODO_02","앙기르와 대화"
-27,"TEXT_BANMAM002_05256_TODO_03",""
-28,"TEXT_BANMAM002_05256_TODO_04",""
-29,"TEXT_BANMAM002_05256_TODO_05",""
-30,"TEXT_BANMAM002_05256_TODO_06",""
-31,"TEXT_BANMAM002_05256_TODO_07",""
-32,"TEXT_BANMAM002_05256_TODO_08",""
-33,"TEXT_BANMAM002_05256_TODO_09",""
-34,"TEXT_BANMAM002_05256_TODO_10",""
-35,"TEXT_BANMAM002_05256_TODO_11",""
-36,"TEXT_BANMAM002_05256_TODO_12",""
-37,"TEXT_BANMAM002_05256_TODO_13",""
-38,"TEXT_BANMAM002_05256_TODO_14",""
-39,"TEXT_BANMAM002_05256_TODO_15",""
-40,"TEXT_BANMAM002_05256_TODO_16",""
-41,"TEXT_BANMAM002_05256_TODO_17",""
-42,"TEXT_BANMAM002_05256_TODO_18",""
-43,"TEXT_BANMAM002_05256_TODO_19",""
-44,"TEXT_BANMAM002_05256_TODO_20",""
-45,"TEXT_BANMAM002_05256_TODO_21",""
-46,"TEXT_BANMAM002_05256_TODO_22",""
-47,"TEXT_BANMAM002_05256_TODO_23",""
-48,"TEXT_BANMAM002_05256_RUVOLLJA_000_000","오, <Highlight>ObjectParameter(1)</Highlight>!
+2,TEXT_BANMAM002_05256_SEQ_02,"루보쟈와 대화했다. 지정된 물품을 손에 넣은 후, 세노테 쟈윤쟈 북쪽에 있는 '루보쟈'에게 납품하자."
+3,TEXT_BANMAM002_05256_SEQ_03,루보쟈에게 나무전령이 좋아하는 것을 건넸다. 길들인 나무전령을 보여 주기 위해 고크골마 농원에 있는 '앙기르'와 대화하자.
+4,TEXT_BANMAM002_05256_SEQ_04,도프로족의 훈련 덕분에 나무전령이 방출하는 에테르를 농작물에 뿌릴 수 있게 되었다. 해충을 쫓기 위한 공영 생물로 쓸모가 있다는 것이 증명되었다. 첫 수확도 끝났으니 앞으로 더욱 번창할 고크골마 농원을 계속해서 도와주자.
+5,TEXT_BANMAM002_05256_SEQ_05,
+6,TEXT_BANMAM002_05256_SEQ_06,
+7,TEXT_BANMAM002_05256_SEQ_07,
+8,TEXT_BANMAM002_05256_SEQ_08,
+9,TEXT_BANMAM002_05256_SEQ_09,
+10,TEXT_BANMAM002_05256_SEQ_10,
+11,TEXT_BANMAM002_05256_SEQ_11,
+12,TEXT_BANMAM002_05256_SEQ_12,
+13,TEXT_BANMAM002_05256_SEQ_13,
+14,TEXT_BANMAM002_05256_SEQ_14,
+15,TEXT_BANMAM002_05256_SEQ_15,
+16,TEXT_BANMAM002_05256_SEQ_16,
+17,TEXT_BANMAM002_05256_SEQ_17,
+18,TEXT_BANMAM002_05256_SEQ_18,
+19,TEXT_BANMAM002_05256_SEQ_19,
+20,TEXT_BANMAM002_05256_SEQ_20,
+21,TEXT_BANMAM002_05256_SEQ_21,
+22,TEXT_BANMAM002_05256_SEQ_22,
+23,TEXT_BANMAM002_05256_SEQ_23,
+24,TEXT_BANMAM002_05256_TODO_00,루보쟈와 대화
+25,TEXT_BANMAM002_05256_TODO_01,세노테 네요조테 부근의 광맥에서  채굴
+26,TEXT_BANMAM002_05256_TODO_02,앙기르와 대화
+27,TEXT_BANMAM002_05256_TODO_03,
+28,TEXT_BANMAM002_05256_TODO_04,
+29,TEXT_BANMAM002_05256_TODO_05,
+30,TEXT_BANMAM002_05256_TODO_06,
+31,TEXT_BANMAM002_05256_TODO_07,
+32,TEXT_BANMAM002_05256_TODO_08,
+33,TEXT_BANMAM002_05256_TODO_09,
+34,TEXT_BANMAM002_05256_TODO_10,
+35,TEXT_BANMAM002_05256_TODO_11,
+36,TEXT_BANMAM002_05256_TODO_12,
+37,TEXT_BANMAM002_05256_TODO_13,
+38,TEXT_BANMAM002_05256_TODO_14,
+39,TEXT_BANMAM002_05256_TODO_15,
+40,TEXT_BANMAM002_05256_TODO_16,
+41,TEXT_BANMAM002_05256_TODO_17,
+42,TEXT_BANMAM002_05256_TODO_18,
+43,TEXT_BANMAM002_05256_TODO_19,
+44,TEXT_BANMAM002_05256_TODO_20,
+45,TEXT_BANMAM002_05256_TODO_21,
+46,TEXT_BANMAM002_05256_TODO_22,
+47,TEXT_BANMAM002_05256_TODO_23,
+48,TEXT_BANMAM002_05256_RUVOLLJA_000_000,"오, Player Player!
 앙기르가 가져온 모종은 순조롭게 잘 자라고 있어.
 샬레이안의 지식은 정말 굉장한 것 같아."
-49,"TEXT_BANMAM002_05256_ANGGIR_000_001","아직까지는 별 탈 없지만 방심은 금물이야…….
+49,TEXT_BANMAM002_05256_ANGGIR_000_001,"아직까지는 별 탈 없지만 방심은 금물이야…….
 실은 작물에 작은 벌레가 붙어 있는 걸 발견했어.
 이파리를 좀먹는 종류의 해충이지."
-50,"TEXT_BANMAM002_05256_ANGGIR_000_002","（★未使用／削除予定★）"
-51,"TEXT_BANMAM002_05256_RUVOLLJA_000_003","그런 건 그냥 손으로 잡으면 되지 않아?"
-52,"TEXT_BANMAM002_05256_ANGGIR_000_004","1마리가 발견됐다는 건, 10마리는 숨어 있다는 뜻이야.
+50,TEXT_BANMAM002_05256_ANGGIR_000_002,（★未使用／削除予定★）
+51,TEXT_BANMAM002_05256_RUVOLLJA_000_003,그런 건 그냥 손으로 잡으면 되지 않아?
+52,TEXT_BANMAM002_05256_ANGGIR_000_004,"1마리가 발견됐다는 건, 10마리는 숨어 있다는 뜻이야.
 그걸 내버려두면 100마리, 1000마리로 불어나서……
 결국에는 작물이 전멸하고 말걸."
-53,"TEXT_BANMAM002_05256_ANGGIR_000_005","그러니 일찌감치 손을 써서
+53,TEXT_BANMAM002_05256_ANGGIR_000_005,"그러니 일찌감치 손을 써서
 '공영 생물'을 도입했으면 해."
-54,"TEXT_BANMAM002_05256_ANGGIR_000_006","공영 생물이란, 말 그대로 공영 관계에 있는 동식물을 뜻해.
+54,TEXT_BANMAM002_05256_ANGGIR_000_006,"공영 생물이란, 말 그대로 공영 관계에 있는 동식물을 뜻해.
 예를 들어 이번 같은 경우라면, 해충의 표적이 된 작물 옆에
 방충 효과가 있는 향초를 심거나 하는 거지."
-55,"TEXT_BANMAM002_05256_ANGGIR_100_006","하지만 내가 가져온 씨앗은
+55,TEXT_BANMAM002_05256_ANGGIR_100_006,"하지만 내가 가져온 씨앗은
 변이한 에테르와의 상성을 중시해서 고른 거라
 해충 피해를 막을 수 있는 향초가 별로 없어."
-56,"TEXT_BANMAM002_05256_RUVOLLJA_000_007","그렇구나…….
+56,TEXT_BANMAM002_05256_RUVOLLJA_000_007,"그렇구나…….
 그래서 운석의 영향을 받는 이 숲에서 자라는 품종 중에
 공영 생물이 될 만한 걸 찾아야 한다는 얘기군."
-57,"TEXT_BANMAM002_05256_ANGGIR_000_008","그래, 맞아.
+57,TEXT_BANMAM002_05256_ANGGIR_000_008,"그래, 맞아.
 뭔가 떠오르는 괜찮은 품종 없어?"
-58,"TEXT_BANMAM002_05256_Q1_000_000","뭐라고 말씀하시겠습니까?"
-59,"TEXT_BANMAM002_05256_A1_000_001","자티카 바나나?"
-60,"TEXT_BANMAM002_05256_A1_000_002","환황수는 어때?"
-61,"TEXT_BANMAM002_05256_A1_000_003","식물형 마물이 좋겠어!"
-62,"TEXT_BANMAM002_05256_RUVOLLJA_000_010","자티카 바나나…… 이 근방에서는 나쥬르라고 하는데
+58,TEXT_BANMAM002_05256_Q1_000_000,뭐라고 말씀하시겠습니까?
+59,TEXT_BANMAM002_05256_A1_000_001,자티카 바나나?
+60,TEXT_BANMAM002_05256_A1_000_002,환황수는 어때?
+61,TEXT_BANMAM002_05256_A1_000_003,식물형 마물이 좋겠어!
+62,TEXT_BANMAM002_05256_RUVOLLJA_000_010,"자티카 바나나…… 이 근방에서는 나쥬르라고 하는데
 그건 오히려 해충 피해를 자주 입는 작물이야.
 방충 효과는 기대하기 힘들어."
-63,"TEXT_BANMAM002_05256_RUVOLLJA_000_011","（★未使用／削除予定★）"
-64,"TEXT_BANMAM002_05256_ANGGIR_000_015","그 커다란 나무 말이야?
+63,TEXT_BANMAM002_05256_RUVOLLJA_000_011,（★未使用／削除予定★）
+64,TEXT_BANMAM002_05256_ANGGIR_000_015,"그 커다란 나무 말이야?
 설령 방충 효과가 있다고 해도
 그걸 언제 심고, 언제 자랄 때까지 기다려……."
-65,"TEXT_BANMAM002_05256_ANGGIR_000_020","……그런 발상은 안 해봤는데, 좋은 생각인 것 같아.
+65,TEXT_BANMAM002_05256_ANGGIR_000_020,"……그런 발상은 안 해봤는데, 좋은 생각인 것 같아.
 마물이라면 자신의 신체를 좀먹는 벌레를 피할 수단을
 갖추고 있을 테니까."
-66,"TEXT_BANMAM002_05256_RUVOLLJA_000_030","그렇다면 '나무전령'은 어때?
+66,TEXT_BANMAM002_05256_RUVOLLJA_000_030,"그렇다면 '나무전령'은 어때?
 얼핏 보면 새라고 착각하기 쉬운 이동성 식물인데
 벌레가 접근하지 못하도록 에테르를 방출한다고 들었어."
-67,"TEXT_BANMAM002_05256_RUVOLLJA_000_031","（★未使用／削除予定★）"
-68,"TEXT_BANMAM002_05256_RUVOLLJA_000_032","（★未使用／削除予定★）"
-69,"TEXT_BANMAM002_05256_ANGGIR_000_033","시험해 볼 가치는 있겠어.
+67,TEXT_BANMAM002_05256_RUVOLLJA_000_031,（★未使用／削除予定★）
+68,TEXT_BANMAM002_05256_RUVOLLJA_000_032,（★未使用／削除予定★）
+69,TEXT_BANMAM002_05256_ANGGIR_000_033,"시험해 볼 가치는 있겠어.
 우선 1마리만 잡아 와 줄래?"
-70,"TEXT_BANMAM002_05256_RUVOLLJA_000_034","좋아.
+70,TEXT_BANMAM002_05256_RUVOLLJA_000_034,"좋아.
 우리 도프로족은 코뿔도마뱀 말고 다른 마물도
 부릴 줄 아니까 그 방식을 응용할 수 있을 거야."
-71,"TEXT_BANMAM002_05256_RUVOLLJA_000_035","하지만 만약 일이 잘 안 풀린다면……
+71,TEXT_BANMAM002_05256_RUVOLLJA_000_035,"하지만 만약 일이 잘 안 풀린다면……
 전투를 해야 할 가능성도 있겠지.
 혹시 모르니까 당신도 함께 가 줬으면 해."
-72,"TEXT_BANMAM002_05256_ANGGIR_000_036","고마워, 나도 부탁할게.
+72,TEXT_BANMAM002_05256_ANGGIR_000_036,"고마워, 나도 부탁할게.
 그동안 나는 작물을 자세히 조사해서
 해충이 얼마나 퍼졌는지 확인해 둘게."
-73,"TEXT_BANMAM002_05256_RUVOLLJA_000_037","그럼 어서 나무전령 서식지로 가자!
+73,TEXT_BANMAM002_05256_RUVOLLJA_000_037,"그럼 어서 나무전령 서식지로 가자!
 '골마지카 꿀밭'을 지나서
 북쪽으로 조금 더 올라가면 돼."
-74,"TEXT_BANMAM002_05256_ANGGIR_000_040","나무전령의 에테르를 계측할 준비도 해 둬야지.
+74,TEXT_BANMAM002_05256_ANGGIR_000_040,"나무전령의 에테르를 계측할 준비도 해 둬야지.
 ……후훗, 연구자의 피가 끓는걸.
 어떤 결과가 나올지 기대돼."
-75,"TEXT_BANMAM002_05256_RUVOLLJA_000_050","……이 부근이 나무전령의 서식지야.
+75,TEXT_BANMAM002_05256_RUVOLLJA_000_050,"……이 부근이 나무전령의 서식지야.
 그 녀석들은 새처럼 위장해서 육식동물을 유인한 다음,
 반격해서 양분을 흡수한대."
-76,"TEXT_BANMAM002_05256_RUVOLLJA_000_051","우리가 직접 미끼가 되는 방법도 있지만
+76,TEXT_BANMAM002_05256_RUVOLLJA_000_051,"우리가 직접 미끼가 되는 방법도 있지만
 그렇게 되면 전투가 벌어져서 온전하게 생포할 수 없게 돼.
 길들이기 위해서라도 신뢰 관계를 해치는 건 피하고 싶어."
-77,"TEXT_BANMAM002_05256_RUVOLLJA_000_052","그러니 양분이 아닌 것 중에 녀석이 좋아하는 것……
+77,TEXT_BANMAM002_05256_RUVOLLJA_000_052,"그러니 양분이 아닌 것 중에 녀석이 좋아하는 것……
 에테르를 대량 함유한 뭔가를 준비해서 유인하자.
 미안하지만 조달을 부탁해도 될까?"
-78,"TEXT_BANMAM002_05256_RUVOLLJA_000_053","（★未使用／削除予定★）"
-79,"TEXT_BANMAM002_05256_RUVOLLJA_000_060","정말 고마워! 세노테 네요조테 부근에서 구할 수 있는
-'<Sheet(Item,48012,0)/>'<13>FF0F02280BFF054974656DF2BB8C0103FF04EB9DBCFF07EC9DB4EB9DBC</13>면
+78,TEXT_BANMAM002_05256_RUVOLLJA_000_053,（★未使用／削除予定★）
+79,TEXT_BANMAM002_05256_RUVOLLJA_000_060,"정말 고마워! 세노테 네요조테 부근에서 구할 수 있는
+''면
 운석 성분이 녹아 있어서 에테르가 많이 함유되어 있을 거야."
-80,"TEXT_BANMAM002_05256_RUVOLLJA_000_070","정말 고마워! 세노테 네요조테 부근에서 채집할 수 있는
-'<Sheet(Item,48013,0)/>'<13>FF0F02280BFF054974656DF2BB8D0103FF04EB9DBCFF07EC9DB4EB9DBC</13>면
+80,TEXT_BANMAM002_05256_RUVOLLJA_000_070,"정말 고마워! 세노테 네요조테 부근에서 채집할 수 있는
+''면
 운석 파편을 흡수해서 에테르가 많이 함유되어 있을 거야."
-81,"TEXT_BANMAM002_05256_RUVOLLJA_000_080","정말 고마워!
-세노테 모슈투랄에서 잡을 수 있는 '<Sheet(Item,48014,0)/>'<13>FF0F02280BFF054974656DF2BB8E0103FF04EB9DBCFF07EC9DB4EB9DBC</13>면
+81,TEXT_BANMAM002_05256_RUVOLLJA_000_080,"정말 고마워!
+세노테 모슈투랄에서 잡을 수 있는 ''면
 근처에 있는 운석의 에테르가 많이 함유되어 있을 거야."
-82,"TEXT_BANMAM002_05256_RUVOLLJA_000_081","미끼는 '<Sheet(Item,43849,0)/>'<13>FF0F02280BFF054974656DF2AB490103FF04EBA5BCFF04EC9D84</13> 쓰면 돼.
+82,TEXT_BANMAM002_05256_RUVOLLJA_000_081,"미끼는 '' 쓰면 돼.
 당신 실력이라면 문제없이 잡을 수 있겠지."
-83,"TEXT_BANMAM002_05256_RUVOLLJA_000_090","（★未使用／削除予定★）"
-84,"TEXT_BANMAM002_05256_RUVOLLJA_000_091","수고스럽겠지만 잘 부탁해.
+83,TEXT_BANMAM002_05256_RUVOLLJA_000_090,（★未使用／削除予定★）
+84,TEXT_BANMAM002_05256_RUVOLLJA_000_091,"수고스럽겠지만 잘 부탁해.
 난 녀석들을 관찰하면서 어떻게 길들일지 고민하고 있을게."
-85,"TEXT_BANMAM002_05256_RUVOLLJA_000_100","나무전령이 좋아하는 걸 가져왔어?"
-86,"TEXT_BANMAM002_05256_RUVOLLJA_000_101","역시, 당신답게 일급품을 가져왔군.
+85,TEXT_BANMAM002_05256_RUVOLLJA_000_100,나무전령이 좋아하는 걸 가져왔어?
+86,TEXT_BANMAM002_05256_RUVOLLJA_000_101,"역시, 당신답게 일급품을 가져왔군.
 이제부터는 내게 맡겨 줘…….
 도프로족의 방식으로 반드시 길들여 볼게!"
-87,"TEXT_BANMAM002_05256_RUVOLLJA_000_102","（★未使用／削除予定★）"
-88,"TEXT_BANMAM002_05256_RUVOLLJA_000_103","（★未使用／削除予定★）"
-89,"TEXT_BANMAM002_05256_RUVOLLJA_000_110","（★未使用／削除予定★）"
-90,"TEXT_BANMAM002_05256_RUVOLLJA_000_112","……왔다!"
-91,"TEXT_BANMAM002_05256_BUDDYBRANCHBEARER_000_113","뀨, 뀨이잉~!"
-92,"TEXT_BANMAM002_05256_RUVOLLJA_000_114","옳지, 옳지. 착하지……."
-93,"TEXT_BANMAM002_05256_RUVOLLJA_100_114","에테르에 담긴 마음이 전해졌어?
+87,TEXT_BANMAM002_05256_RUVOLLJA_000_102,（★未使用／削除予定★）
+88,TEXT_BANMAM002_05256_RUVOLLJA_000_103,（★未使用／削除予定★）
+89,TEXT_BANMAM002_05256_RUVOLLJA_000_110,（★未使用／削除予定★）
+90,TEXT_BANMAM002_05256_RUVOLLJA_000_112,……왔다!
+91,TEXT_BANMAM002_05256_BUDDYBRANCHBEARER_000_113,"뀨, 뀨이잉~!"
+92,TEXT_BANMAM002_05256_RUVOLLJA_000_114,"옳지, 옳지. 착하지……."
+93,TEXT_BANMAM002_05256_RUVOLLJA_100_114,"에테르에 담긴 마음이 전해졌어?
 우린 너희를 해치려는 게 아니야…….
 같은 숲에 사는 동포로서 너희와 공생하고 싶은 거야."
-94,"TEXT_BANMAM002_05256_RUVOLLJA_000_115","휴우…… 무사히 길들인 것 같군."
-95,"TEXT_BANMAM002_05256_RUVOLLJA_100_115","……아, 그런데 살짝 공격을 당하긴 했어.
+94,TEXT_BANMAM002_05256_RUVOLLJA_000_115,휴우…… 무사히 길들인 것 같군.
+95,TEXT_BANMAM002_05256_RUVOLLJA_100_115,"……아, 그런데 살짝 공격을 당하긴 했어.
 뭐, 갑자기 다가갔으니 경계할 만도 하지."
-96,"TEXT_BANMAM002_05256_RUVOLLJA_110_115","하지만 내가 싸울 생각이 없다는 걸 알고
+96,TEXT_BANMAM002_05256_RUVOLLJA_110_115,"하지만 내가 싸울 생각이 없다는 걸 알고
 금세 얌전해졌어."
-97,"TEXT_BANMAM002_05256_RUVOLLJA_000_116","당신이 구해다 준 것에다가
+97,TEXT_BANMAM002_05256_RUVOLLJA_000_116,"당신이 구해다 준 것에다가
 날짐승을 길들이기 위한 전통적인 마법을 걸어 봤지.
 모 아니면 도였는데 잘되어서 다행이야."
-98,"TEXT_BANMAM002_05256_RUVOLLJA_000_117","어서 앙기르에게 보여 주자.
+98,TEXT_BANMAM002_05256_RUVOLLJA_000_117,"어서 앙기르에게 보여 주자.
 이 녀석을 데리고 먼저 '고크골마 농원'으로 돌아갈 테니
 당신도 그쪽으로 와."
-99,"TEXT_BANMAM002_05256_RUVOLLJA_000_130","（★未使用／削除予定★）"
-100,"TEXT_BANMAM002_05256_BUDDYBRANCHBEARER_000_131","뀨잉, 뀨이잉."
-101,"TEXT_BANMAM002_05256_SYSTEM_000_132","나무전령은 진정한 듯하다.
+99,TEXT_BANMAM002_05256_RUVOLLJA_000_130,（★未使用／削除予定★）
+100,TEXT_BANMAM002_05256_BUDDYBRANCHBEARER_000_131,"뀨잉, 뀨이잉."
+101,TEXT_BANMAM002_05256_SYSTEM_000_132,"나무전령은 진정한 듯하다.
 적개심이 없다는 것이 전해진 모양이다."
-102,"TEXT_BANMAM002_05256_ANGGIR_000_140","초목강 마물이라면 여러 번 조사해 봤는데
+102,TEXT_BANMAM002_05256_ANGGIR_000_140,"초목강 마물이라면 여러 번 조사해 봤는데
 이 아이는 처음 보는 종이야…….
 후후, 아주 흥미로운걸."
-103,"TEXT_BANMAM002_05256_RUVOLLJA_000_141","어렵게 길들였으니
+103,TEXT_BANMAM002_05256_RUVOLLJA_000_141,"어렵게 길들였으니
 공영 생물로 적합했으면 좋겠네."
-104,"TEXT_BANMAM002_05256_BUDDYBRANCHBEARER_000_142","뀨이잉, 끼이잉~!"
-105,"TEXT_BANMAM002_05256_RUVOLLJA_000_143","이, 이건……!?"
-106,"TEXT_BANMAM002_05256_ANGGIR_000_144","눈에 보일 정도로 에테르를 방출하다니……
+104,TEXT_BANMAM002_05256_BUDDYBRANCHBEARER_000_142,"뀨이잉, 끼이잉~!"
+105,TEXT_BANMAM002_05256_RUVOLLJA_000_143,"이, 이건……!?"
+106,TEXT_BANMAM002_05256_ANGGIR_000_144,"눈에 보일 정도로 에테르를 방출하다니……
 스스로를 지키기 위한 원시적인 방어 마법이야!"
-107,"TEXT_BANMAM002_05256_ANGGIR_000_145","당신들을 동료로 인정하고
+107,TEXT_BANMAM002_05256_ANGGIR_000_145,"당신들을 동료로 인정하고
 자신을 해치려는 존재로부터 지키려는 것 같아.
 이걸 밭의 작물에 쬐어 줄 수 있다면……!"
-108,"TEXT_BANMAM002_05256_ANGGIR_000_146","（★未使用／削除予定★）"
-109,"TEXT_BANMAM002_05256_RUVOLLJA_000_147","해충으로부터 밭을 지킬 수 있도록 도와줄래?"
-110,"TEXT_BANMAM002_05256_BUDDYBRANCHBEARER_000_148","끼잉!"
-111,"TEXT_BANMAM002_05256_RUVOLLJA_000_149","……알아들은 것 같아!
+108,TEXT_BANMAM002_05256_ANGGIR_000_146,（★未使用／削除予定★）
+109,TEXT_BANMAM002_05256_RUVOLLJA_000_147,해충으로부터 밭을 지킬 수 있도록 도와줄래?
+110,TEXT_BANMAM002_05256_BUDDYBRANCHBEARER_000_148,끼잉!
+111,TEXT_BANMAM002_05256_RUVOLLJA_000_149,"……알아들은 것 같아!
 다른 도프로족들에게도 도움을 청하면
 더 많은 개체를 훈련시킬 수도 있겠어."
-112,"TEXT_BANMAM002_05256_RUVOLLJA_000_150","（★未使用／削除予定★）"
-113,"TEXT_BANMAM002_05256_RUVOLLJA_000_151","（★未使用／削除予定★）"
-114,"TEXT_BANMAM002_05256_ANGGIR_000_152","그래, 고마워.
+112,TEXT_BANMAM002_05256_RUVOLLJA_000_150,（★未使用／削除予定★）
+113,TEXT_BANMAM002_05256_RUVOLLJA_000_151,（★未使用／削除予定★）
+114,TEXT_BANMAM002_05256_ANGGIR_000_152,"그래, 고마워.
 나무전령을 이 농원에서 사육하면서
 안정적으로 해충을 박멸하고 예방할 수 있는 체제를 갖춰 보자."
-115,"TEXT_BANMAM002_05256_ANGGIR_000_200","저 아이와 완전히 파트너가 된 것 같네."
-116,"TEXT_BANMAM002_05256_SYSTEM_000_201","나무전령이 방출한 에테르 덕분에
+115,TEXT_BANMAM002_05256_ANGGIR_000_200,저 아이와 완전히 파트너가 된 것 같네.
+116,TEXT_BANMAM002_05256_SYSTEM_000_201,"나무전령이 방출한 에테르 덕분에
 밭의 작물에서 해충이 없어진 것이 확인되었다.
 나무전령은 유용한 공영 생물인 듯하다."
-117,"TEXT_BANMAM002_05256_SYSTEM_000_202","첫 수확도 성공적으로 마쳐 마무쟈족은 몹시 기뻐하고 있다.
+117,TEXT_BANMAM002_05256_SYSTEM_000_202,"첫 수확도 성공적으로 마쳐 마무쟈족은 몹시 기뻐하고 있다.
 앞으로도 계속해서 고크골마 농원의 발전에 협력하자!"
-118,"TEXT_BANMAM002_05256_SYSTEM_000_250","'고크골마 농원'과의 우호 관계가
+118,TEXT_BANMAM002_05256_SYSTEM_000_250,"'고크골마 농원'과의 우호 관계가
 '신뢰'로 바뀌었습니다.
 나무전령 포획 작전에 협력해서 신뢰를 얻은 듯합니다."
-119,"TEXT_BANMAM002_05256_SYSTEM_000_251","앞으로 고크골마 농원에 있는 '카게쟈'에게
+119,TEXT_BANMAM002_05256_SYSTEM_000_251,"앞으로 고크골마 농원에 있는 '카게쟈'에게
 새로운 '우호부족 일일 퀘스트'를 받을 수 있습니다."
-120,"TEXT_BANMAM002_05256_SYSTEM_000_252","또, 우호 단계가 상승한 당일에 한해
+120,TEXT_BANMAM002_05256_SYSTEM_000_252,"또, 우호 단계가 상승한 당일에 한해
 '카게쟈'에게 일일 퀘스트를 3회 더 받을 수 있습니다."
-121,"TEXT_BANMAM002_05256_SYSTEM_000_253","우호 단계가 상승하기 전에 발행된 일일 퀘스트를
+121,TEXT_BANMAM002_05256_SYSTEM_000_253,"우호 단계가 상승하기 전에 발행된 일일 퀘스트를
 모두 수주하면 추가분이 발행됩니다.
 수주권이 남아있으면 이를 수주할 수 있습니다."
-122,"TEXT_BANMAM002_05256_SYSTEM_000_254","또 '베루쟈'에게서 구입할 수 있는
+122,TEXT_BANMAM002_05256_SYSTEM_000_254,"또 '베루쟈'에게서 구입할 수 있는
 아이템이 늘어났습니다.
 앞으로 모험에 활용해보세요!"

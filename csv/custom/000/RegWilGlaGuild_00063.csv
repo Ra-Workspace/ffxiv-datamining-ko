@@ -1,155 +1,153 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_REGWILGLAGUILD_00063_MYLLA_000","음, 우리 길드엔 무슨 일로 왔지?
+#,Unknown0,Unknown1
+0,TEXT_REGWILGLAGUILD_00063_MYLLA_000,"음, 우리 길드엔 무슨 일로 왔지?
 '검술'에 대해 궁금한 점이 있나?"
-1,"TEXT_REGWILGLAGUILD_00063_Q1_000_1","무엇을 물어보시겠습니까?"
-2,"TEXT_REGWILGLAGUILD_00063_A1_000_1","당신의 이야기를 들려달라고 한다"
-3,"TEXT_REGWILGLAGUILD_00063_A1_000_2","'검술'에 대한 설명을 부탁한다"
-4,"TEXT_REGWILGLAGUILD_00063_A1_000_3","취소"
-5,"TEXT_REGWILGLAGUILD_00063_MYLLA_010","나는 밀라라고 한다.
+1,TEXT_REGWILGLAGUILD_00063_Q1_000_1,무엇을 물어보시겠습니까?
+2,TEXT_REGWILGLAGUILD_00063_A1_000_1,당신의 이야기를 들려달라고 한다
+3,TEXT_REGWILGLAGUILD_00063_A1_000_2,'검술'에 대한 설명을 부탁한다
+4,TEXT_REGWILGLAGUILD_00063_A1_000_3,취소
+5,TEXT_REGWILGLAGUILD_00063_MYLLA_010,"나는 밀라라고 한다.
 이 검술사 길드의 마스터지.
 여자라고 깔보다간 큰코다칠 줄 알아라."
-6,"TEXT_REGWILGLAGUILD_00063_MYLLA_011","거칠기로 유명한 검술사들을 통솔하는 마스터의 실력이 어떤지
+6,TEXT_REGWILGLAGUILD_00063_MYLLA_011,"거칠기로 유명한 검술사들을 통솔하는 마스터의 실력이 어떤지
 친절하게 가르쳐줄 수도 있어.
 ……물론 이 검으로 말이지."
-7,"TEXT_REGWILGLAGUILD_00063_MYLLA_012","후후…… 농담이다.
+7,TEXT_REGWILGLAGUILD_00063_MYLLA_012,"후후…… 농담이다.
 천천히 구경하고 가도록.
 가까이 가면 다칠 수도 있으니까 조심해라."
-8,"TEXT_REGWILGLAGUILD_00063_MYLLA_020","'검술'이란 말 그대로 검을 사용한 전투기술이다.
+8,TEXT_REGWILGLAGUILD_00063_MYLLA_020,"'검술'이란 말 그대로 검을 사용한 전투기술이다.
 검은 에오르제아에서 가장 일반적인 무기이기도 하지."
-9,"TEXT_REGWILGLAGUILD_00063_MYLLA_021","그렇기에 싸움의 길을 걷기로 한 자라면
+9,TEXT_REGWILGLAGUILD_00063_MYLLA_021,"그렇기에 싸움의 길을 걷기로 한 자라면
 누구나 한 번쯤은 검을 잡아보는 법.
 이루지 못한 꿈을 이루기 위해……."
-10,"TEXT_REGWILGLAGUILD_00063_MYLLA_022","검술사 길드는 그 꿈을 실현하기 위한 곳이다.
+10,TEXT_REGWILGLAGUILD_00063_MYLLA_022,"검술사 길드는 그 꿈을 실현하기 위한 곳이다.
 원래는 투기장에서 싸우는 '검투사'들의 길드에서 시작되었으며,
 지금까지 수많은 우승자를 배출한 역사가 있다."
-11,"TEXT_REGWILGLAGUILD_00063_MYLLA_023","검투사에게 필요한 자질은
+11,TEXT_REGWILGLAGUILD_00063_MYLLA_023,"검투사에게 필요한 자질은
 관객들을 열광시키는 용맹스러운 검술 실력과
 화려하게 승리를 따내는 힘이다!"
-12,"TEXT_REGWILGLAGUILD_00063_MYLLA_024","그래서 검술은 먼 옛날부터 이곳 울다하에서
+12,TEXT_REGWILGLAGUILD_00063_MYLLA_024,"그래서 검술은 먼 옛날부터 이곳 울다하에서
 '보여주기 위한' 면모가 강한 기술로 발전했다."
-13,"TEXT_REGWILGLAGUILD_00063_MYLLA_025","장비한 '방패'로 상대방의 공격을 받아넘기며
+13,TEXT_REGWILGLAGUILD_00063_MYLLA_025,"장비한 '방패'로 상대방의 공격을 받아넘기며
 몰아치는 공세를 참고 버티다가도
 어느 순간 단숨에 필살기로 상황을 뒤집는다!"
-14,"TEXT_REGWILGLAGUILD_00063_MYLLA_026","어때? 상상만 해도 멋지지 않나?
+14,TEXT_REGWILGLAGUILD_00063_MYLLA_026,"어때? 상상만 해도 멋지지 않나?
 용맹하고 화려한 전투…… 이것이 바로 '검술'의 핵심이다.
 그 두 가지를 겸비한 자야말로 최강의 검술사지."
-15,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_050","음, <Highlight>ObjectParameter(1)</Highlight> 아닌가!
+15,TEXT_REGWILGLAGUILD_00063_MYLLA_000_050,"음, Player Player 아닌가!
 네가 검술사 길드에 들르다니, 별일이 다 있군.
 검술 연습은 열심히 하고 있겠지?"
-16,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_060","어서 와, <Highlight>ObjectParameter(1)</Highlight>.
+16,TEXT_REGWILGLAGUILD_00063_MYLLA_000_060,"어서 와, Player Player.
 네가 이렇게 대단한 검술사가 될 줄은 몰랐다.
 널 가르친 나까지 자랑스럽군. 후후……."
-17,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_070","피핀 공이 힘써주신 덕분에, 네가 자주 드나드는 길드에는
+17,TEXT_REGWILGLAGUILD_00063_MYLLA_000_070,"피핀 공이 힘써주신 덕분에, 네가 자주 드나드는 길드에는
 왕궁에서 벌어진 소동의 진상이 알려져 있다.
 암, 내 밑에서 수련한 너의 검이 악에 물들 리 없지!"
-18,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_071","피핀 공에게 얘기 들었다.
+18,TEXT_REGWILGLAGUILD_00063_MYLLA_000_071,"피핀 공에게 얘기 들었다.
 왕궁에서 일어난 소란이 이제야 잠잠해진 모양이더군.
 넌 주변 환경에 흔들리지 말고 계속 정의의 검을 휘둘러라."
-19,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_000","이번 대회는 에오르제아 중에서도
+19,TEXT_REGWILGLAGUILD_00063_MYLLA_400_000,"이번 대회는 에오르제아 중에서도
 손에 꼽히는 실력의 검객들만이 참가를 허락받은 특별한 대회.
 어쭙잖은 실력이나 각오로는 결코 이길 수 없을 거다."
-20,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_001","네 출전 차례가 되려면 아직 시간이 남았으니까
+20,TEXT_REGWILGLAGUILD_00063_MYLLA_400_001,"네 출전 차례가 되려면 아직 시간이 남았으니까
 충분히 준비를 갖춰서 임하면 좋겠지!"
-21,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_010","멋지게 결승전까지 진출했구나!
+21,TEXT_REGWILGLAGUILD_00063_MYLLA_400_010,"멋지게 결승전까지 진출했구나!
 나도 경기를 계속 봤는데 감탄이 절로 나오더군!"
-22,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_011","다음 <Highlight>ObjectParameter(1)</Highlight>의 출전은 결승전.
+22,TEXT_REGWILGLAGUILD_00063_MYLLA_400_011,"다음 Player Player의 출전은 결승전.
 이번에 펼쳐질 날 블록을 제압한 자와
 우승을 놓고 싸우게 될 거다……!"
-23,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_012","나도 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EC9980FF04EAB3BC</13> 결승전에서 만날 수 있게 전력을 다하겠다!
+23,TEXT_REGWILGLAGUILD_00063_MYLLA_400_012,"나도 Player Player 결승전에서 만날 수 있게 전력을 다하겠다!
 괜찮다면 응원해 줘!"
-24,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_020","<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EC9980FF04EAB3BC</13> 결승전에서 싸울 수 없어 안타깝지만
+24,TEXT_REGWILGLAGUILD_00063_MYLLA_400_020,"Player Player 결승전에서 싸울 수 없어 안타깝지만
 검술사 길드 일원으로 내 몫까지 잘 싸워 주길 바라겠어."
-25,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_021","검은 연꽃과의 결승전이 기대되는군.
+25,TEXT_REGWILGLAGUILD_00063_MYLLA_400_021,"검은 연꽃과의 결승전이 기대되는군.
 멋진 시합을 펼쳐서
-<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 승리하길 바랄게."
-26,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_030","결승전 개최를 위해 주최측과 논의를 하고 있는데
+Player Player 승리하길 바랄게."
+26,TEXT_REGWILGLAGUILD_00063_MYLLA_400_030,"결승전 개최를 위해 주최측과 논의를 하고 있는데
 시간이 조금 더 필요할 것 같군.
 진전이 생기면 연락할 테니 조금 더 기다려줘."
-27,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_040","<Highlight>ObjectParameter(1)</Highlight>, 잘 와줬다.
+27,TEXT_REGWILGLAGUILD_00063_MYLLA_400_040,"Player Player, 잘 와줬다.
 울다하 왕실배 투기대회를 제압한 너의 모습을 보더니
 다들 평소보다 더 열심히 훈련하고 있어. 참 신기하지?"
-28,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_050","아직 알디스 녀석은 안 돌아왔어……."
-29,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_000","<Highlight>ObjectParameter(1)</Highlight>, 잘 와줬다.
+28,TEXT_REGWILGLAGUILD_00063_MYLLA_400_050,아직 알디스 녀석은 안 돌아왔어…….
+29,TEXT_REGWILGLAGUILD_00063_MYLLA_500_000,"Player Player, 잘 와줬다.
 울다하 왕실배 투기대회를 제압한 너의 모습을 보더니
 다들 평소보다 더 열심히 훈련하고 있어. 참 신기하지?"
-30,"TEXT_REGWILGLAGUILD_00063_Q2_000_001","무엇을 물어보시겠습니까?"
-31,"TEXT_REGWILGLAGUILD_00063_A2_000_001","근황에 대해서 이야기한다"
-32,"TEXT_REGWILGLAGUILD_00063_A2_000_002","'검술'에 대한 설명을 부탁한다"
-33,"TEXT_REGWILGLAGUILD_00063_A2_000_003","취소"
-34,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_100","어떻게 지내냐고……? 친한 척하지 마라!
+30,TEXT_REGWILGLAGUILD_00063_Q2_000_001,무엇을 물어보시겠습니까?
+31,TEXT_REGWILGLAGUILD_00063_A2_000_001,근황에 대해서 이야기한다
+32,TEXT_REGWILGLAGUILD_00063_A2_000_002,'검술'에 대한 설명을 부탁한다
+33,TEXT_REGWILGLAGUILD_00063_A2_000_003,취소
+34,TEXT_REGWILGLAGUILD_00063_MYLLA_000_100,"어떻게 지내냐고……? 친한 척하지 마라!
 너나 나나 가혹한 검의 길을 걷는 애송이에 불과하다.
 이 검술사 길드에서 사적인 감정은 필요 없어!"
-35,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_101","……물론 네가 길드에 나와준 것은……
+35,TEXT_REGWILGLAGUILD_00063_MYLLA_000_101,"……물론 네가 길드에 나와준 것은……
 나도…… 기쁘게 생각한다."
-36,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_102","……차, 착각하지 마라!
+36,TEXT_REGWILGLAGUILD_00063_MYLLA_000_102,"……차, 착각하지 마라!
 좋은 연습 상대가 있어서 실력 향상에 도움이 된다는 뜻이니까!
 그러니 만약 단련을 게을리해서 검술 실력이 녹슬면 알아서 해!"
-37,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_110","길드는 요즘 어떠냐고? 별 탈 없이 잘 굴러가고 있지.
+37,TEXT_REGWILGLAGUILD_00063_MYLLA_000_110,"길드는 요즘 어떠냐고? 별 탈 없이 잘 굴러가고 있지.
 검투사들도 좋은 성적을 거두고 있고
 새로 길드에 입문하길 원하는 검술사도 늘었다."
-38,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_111","하지만 그중에서 몇 명이나 살아남을지는 두고 볼 일이야.
+38,TEXT_REGWILGLAGUILD_00063_MYLLA_000_111,"하지만 그중에서 몇 명이나 살아남을지는 두고 볼 일이야.
 내 훈련은 사정 없이 힘들기로 울다하에서 정평이 나 있거든.
 호랑이 길드마스터 밀라라고 들어봤나? 후후……."
-39,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_112","어때? <Highlight>ObjectParameter(1)</Highlight>.
+39,TEXT_REGWILGLAGUILD_00063_MYLLA_000_112,"어때? Player Player.
 오랜만에 같이 땀 좀 흘려볼까?
 ……뭐? 그야 물론 검술 훈련 하자는 거지."
-40,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_100","길드 근황 말이야?
+40,TEXT_REGWILGLAGUILD_00063_MYLLA_400_100,"길드 근황 말이야?
 네가 울다하 왕실배 투기대회를 제패한 이후로
 새롭게 길드의 문을 두드리는 검술사가 늘어났다."
-41,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_101","모두 <Highlight>ObjectParameter(1)</Highlight>처럼 되겠다며
+41,TEXT_REGWILGLAGUILD_00063_MYLLA_400_101,"모두 Player Player처럼 되겠다며
 매일 구슬땀을 흘리며 훈련에 열중이지."
-42,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_102","하지만 그중에서 몇 명이나 살아남을지는 두고 볼 일이야.
+42,TEXT_REGWILGLAGUILD_00063_MYLLA_400_102,"하지만 그중에서 몇 명이나 살아남을지는 두고 볼 일이야.
 내 훈련은 사정 없이 힘들기로 울다하에서 정평이 나 있거든.
 호랑이 길드마스터 밀라라고 들어봤나?"
-43,"TEXT_REGWILGLAGUILD_00063_MYLLA_400_103","<Highlight>ObjectParameter(1)</Highlight>도 어때?
+43,TEXT_REGWILGLAGUILD_00063_MYLLA_400_103,"Player Player도 어때?
 오랜만에 나와 함께 땀을 흘려 보지 않겠어?
 ……물론 검술 훈련 말이야."
-44,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_100","길드 근황 말이야?
+44,TEXT_REGWILGLAGUILD_00063_MYLLA_500_100,"길드 근황 말이야?
 알디스 녀석이 돌아왔다는 소식을 듣고
 새롭게 길드의 문을 두드리는 검술사가 늘어났다."
-45,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_101","모두 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8298FF07EC9DB4EB8298</13> 알디스처럼 되겠다며
+45,TEXT_REGWILGLAGUILD_00063_MYLLA_500_101,"모두 Player Player 알디스처럼 되겠다며
 매일 구슬땀을 흘리며 훈련에 열중이지."
-46,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_102","하지만 그중에서 몇 명이나 살아남을지는 두고 볼 일이야.
+46,TEXT_REGWILGLAGUILD_00063_MYLLA_500_102,"하지만 그중에서 몇 명이나 살아남을지는 두고 볼 일이야.
 내 훈련은 사정 없이 힘들기로 울다하에서 정평이 나 있거든.
 호랑이 길드마스터 밀라라고 들어봤나?"
-47,"TEXT_REGWILGLAGUILD_00063_MYLLA_500_103","<Highlight>ObjectParameter(1)</Highlight>도 어때?
+47,TEXT_REGWILGLAGUILD_00063_MYLLA_500_103,"Player Player도 어때?
 오랜만에 나와 함께 땀을 흘려 보지 않겠어?
 ……물론 검술 훈련 말이야."
-48,"TEXT_REGWILGLAGUILD_00063_MYLLA_600_100","길드의 근황 말이야?
+48,TEXT_REGWILGLAGUILD_00063_MYLLA_600_100,"길드의 근황 말이야?
 나나모 님의 요청으로 우리 길드에서도 몇 명이
 종말의 탑 감시 임무에 파견됐어."
-49,"TEXT_REGWILGLAGUILD_00063_MYLLA_600_101","탑에서 나온 제국병과 칼날을 맞부딪치기도 했지만
+49,TEXT_REGWILGLAGUILD_00063_MYLLA_600_101,"탑에서 나온 제국병과 칼날을 맞부딪치기도 했지만
 다행히도 이렇다 할 피해 없이 끝났어.
 평소에 구슬땀 흘리며 훈련한 덕분이겠지."
-50,"TEXT_REGWILGLAGUILD_00063_MYLLA_600_102","호랑이 길드 마스터라는 소리를 들으면서까지
+50,TEXT_REGWILGLAGUILD_00063_MYLLA_600_102,"호랑이 길드 마스터라는 소리를 들으면서까지
 엄격하게 훈련시켜온 보람이 있었어."
-51,"TEXT_REGWILGLAGUILD_00063_MYLLA_600_103","<Highlight>ObjectParameter(1)</Highlight>도 어때?
+51,TEXT_REGWILGLAGUILD_00063_MYLLA_600_103,"Player Player도 어때?
 오랜만에 나와 함께 땀을 흘려 보지 않겠어?
 ……물론 검술 훈련 말이야."
-52,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_120","……지금의 네가 할 필요는 없는 질문 같은데?
+52,TEXT_REGWILGLAGUILD_00063_MYLLA_000_120,"……지금의 네가 할 필요는 없는 질문 같은데?
 뭐, 굳이 듣고 싶다면 설명해주지."
-53,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_121","'검술'이란 말 그대로 검을 사용한 전투기술이다.
+53,TEXT_REGWILGLAGUILD_00063_MYLLA_000_121,"'검술'이란 말 그대로 검을 사용한 전투기술이다.
 검은 에오르제아에서 가장 일반적인 무기이기도 하지."
-54,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_122","그래서 싸움의 길을 걷기로 한 자라면
+54,TEXT_REGWILGLAGUILD_00063_MYLLA_000_122,"그래서 싸움의 길을 걷기로 한 자라면
 누구나 한 번쯤은 검을 잡아보는 법.
 이루지 못한 꿈을 이루기 위해……."
-55,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_123","검술사 길드는 그 꿈을 실현하기 위한 곳이다.
+55,TEXT_REGWILGLAGUILD_00063_MYLLA_000_123,"검술사 길드는 그 꿈을 실현하기 위한 곳이다.
 원래는 투기장에서 싸우는 '검투사'들의 길드에서 시작되었으며,
 지금까지 수많은 우승자를 배출한 역사가 있다."
-56,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_124","검투사에게 필요한 자질은
+56,TEXT_REGWILGLAGUILD_00063_MYLLA_000_124,"검투사에게 필요한 자질은
 관객들을 열광시키는 용맹스러운 검술 실력과
 화려한 승리를 따내는 힘이다!"
-57,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_125","그래서 검술은 먼 옛날부터 이곳 울다하에서
+57,TEXT_REGWILGLAGUILD_00063_MYLLA_000_125,"그래서 검술은 먼 옛날부터 이곳 울다하에서
 '보여주기 위한' 면모가 강한 기술로 발전했다."
-58,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_126","장비한 '방패'로 상대방의 공격을 받아넘기며
+58,TEXT_REGWILGLAGUILD_00063_MYLLA_000_126,"장비한 '방패'로 상대방의 공격을 받아넘기며
 몰아치는 공세를 참고 버티다가도
 어느 순간 단숨에 필살기로 상황을 뒤집는다!"
-59,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_127","용맹하고 화려한 전투…… 이것이 바로 '검술'이다.
+59,TEXT_REGWILGLAGUILD_00063_MYLLA_000_127,"용맹하고 화려한 전투…… 이것이 바로 '검술'이다.
 너도 더욱더 노력하면 꿈을 이룰 수 있을지도 모르지.
 '날달의 쌍검'이라 불렸던 그 녀석들처럼……."
-60,"TEXT_REGWILGLAGUILD_00063_MYLLA_000_128","용맹하고 화려한 전투…… 이것이 바로 '검술'이다.
+60,TEXT_REGWILGLAGUILD_00063_MYLLA_000_128,"용맹하고 화려한 전투…… 이것이 바로 '검술'이다.
 나날이 진화하는 검술의 길에 끝이란 없지……
-<Highlight>ObjectParameter(1)</Highlight>도 항상 더 높은 곳을 바라보길!"
-61,"TEXT_REGWILGLAGUILD_00063_TALK_ACTOR","（★未使用／削除予定★）"
+Player Player도 항상 더 높은 곳을 바라보길!"
+61,TEXT_REGWILGLAGUILD_00063_TALK_ACTOR,（★未使用／削除予定★）

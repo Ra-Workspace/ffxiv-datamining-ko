@@ -1,128 +1,126 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CLSGLD400_00656_SEQ_00","보석공예가 길드마스터 세렌디피티는 모험가에게 일거리를 맡기려는 듯하다."
-1,"TEXT_CLSGLD400_00656_SEQ_01","세렌디피티에게 설명을 들었다. 울다하 '보석공예가 길드'에 있는 '세렌디피티'에게 <Sheet(ItemHQ,　2125,0)/><13>FF17022813FF074974656D4851FF08E38080323132350103FF04EBA5BCFF04EC9D84</13> 보여주자."
-2,"TEXT_CLSGLD400_00656_SEQ_02","세렌디피티에게 <Sheet(ItemHQ,　2125,0)/><13>FF17022813FF074974656D4851FF08E38080323132350103FF04EBA5BCFF04EC9D84</13> 보여주었다. 울다하 '루비길 국제시장'에 있는 '로로톤'에게 <Sheet(ItemHQ,　2125,0)/><13>FF17022813FF074974656D4851FF08E38080323132350103FF04EBA5BCFF04EC9D84</13> 납품하자."
-3,"TEXT_CLSGLD400_00656_SEQ_03","로로톤에게 <Sheet(ItemHQ,　2125,0)/><13>FF17022813FF074974656D4851FF08E38080323132350103FF04EBA5BCFF04EC9D84</13> 납품했다. 울다하 '보석공예가 길드'에 있는 '세렌디피티'에게 보고하자."
-4,"TEXT_CLSGLD400_00656_SEQ_04","세렌디피티에게 보고했다. '비취 여우'에 대한 소문으로 울다하 전체가 술렁이고 있다고 한다. 고가의 물품을 다루는 보석공예가는 특히 조심해야 할 것 같다. 사기꾼에 주의하면서 계속해서 보석공예 실력을 갈고닦자.
+#,Unknown0,Unknown1
+0,TEXT_CLSGLD400_00656_SEQ_00,보석공예가 길드마스터 세렌디피티는 모험가에게 일거리를 맡기려는 듯하다.
+1,TEXT_CLSGLD400_00656_SEQ_01,세렌디피티에게 설명을 들었다. 울다하 '보석공예가 길드'에 있는 '세렌디피티'에게  보여주자.
+2,TEXT_CLSGLD400_00656_SEQ_02,세렌디피티에게  보여주었다. 울다하 '루비길 국제시장'에 있는 '로로톤'에게  납품하자.
+3,TEXT_CLSGLD400_00656_SEQ_03,로로톤에게  납품했다. 울다하 '보석공예가 길드'에 있는 '세렌디피티'에게 보고하자.
+4,TEXT_CLSGLD400_00656_SEQ_04,"세렌디피티에게 보고했다. '비취 여우'에 대한 소문으로 울다하 전체가 술렁이고 있다고 한다. 고가의 물품을 다루는 보석공예가는 특히 조심해야 할 것 같다. 사기꾼에 주의하면서 계속해서 보석공예 실력을 갈고닦자.
 
 ※ 보석공예가 레벨이 45 이상 되면 세렌디피티에게 다음 보석공예가 퀘스트를 받을 수 있습니다."
-5,"TEXT_CLSGLD400_00656_SEQ_05",""
-6,"TEXT_CLSGLD400_00656_SEQ_06",""
-7,"TEXT_CLSGLD400_00656_SEQ_07",""
-8,"TEXT_CLSGLD400_00656_SEQ_08",""
-9,"TEXT_CLSGLD400_00656_SEQ_09",""
-10,"TEXT_CLSGLD400_00656_SEQ_10",""
-11,"TEXT_CLSGLD400_00656_SEQ_11",""
-12,"TEXT_CLSGLD400_00656_SEQ_12",""
-13,"TEXT_CLSGLD400_00656_SEQ_13",""
-14,"TEXT_CLSGLD400_00656_SEQ_14",""
-15,"TEXT_CLSGLD400_00656_SEQ_15",""
-16,"TEXT_CLSGLD400_00656_SEQ_16",""
-17,"TEXT_CLSGLD400_00656_SEQ_17",""
-18,"TEXT_CLSGLD400_00656_SEQ_18",""
-19,"TEXT_CLSGLD400_00656_SEQ_19",""
-20,"TEXT_CLSGLD400_00656_SEQ_20",""
-21,"TEXT_CLSGLD400_00656_SEQ_21",""
-22,"TEXT_CLSGLD400_00656_SEQ_22",""
-23,"TEXT_CLSGLD400_00656_SEQ_23",""
-24,"TEXT_CLSGLD400_00656_TODO_00","세렌디피티에게 <Sheet(ItemHQ,　2125,0)/> 보이기"
-25,"TEXT_CLSGLD400_00656_TODO_01","루비길 국제시장에서 로로톤에게 <Sheet(ItemHQ,　2125,0)/> 납품"
-26,"TEXT_CLSGLD400_00656_TODO_02","보석공예가 길드에서 세렌디피티에게 보고"
-27,"TEXT_CLSGLD400_00656_TODO_03",""
-28,"TEXT_CLSGLD400_00656_TODO_04",""
-29,"TEXT_CLSGLD400_00656_TODO_05",""
-30,"TEXT_CLSGLD400_00656_TODO_06",""
-31,"TEXT_CLSGLD400_00656_TODO_07",""
-32,"TEXT_CLSGLD400_00656_TODO_08",""
-33,"TEXT_CLSGLD400_00656_TODO_09",""
-34,"TEXT_CLSGLD400_00656_TODO_10",""
-35,"TEXT_CLSGLD400_00656_TODO_11",""
-36,"TEXT_CLSGLD400_00656_TODO_12",""
-37,"TEXT_CLSGLD400_00656_TODO_13",""
-38,"TEXT_CLSGLD400_00656_TODO_14",""
-39,"TEXT_CLSGLD400_00656_TODO_15",""
-40,"TEXT_CLSGLD400_00656_TODO_16",""
-41,"TEXT_CLSGLD400_00656_TODO_17",""
-42,"TEXT_CLSGLD400_00656_TODO_18",""
-43,"TEXT_CLSGLD400_00656_TODO_19",""
-44,"TEXT_CLSGLD400_00656_TODO_20",""
-45,"TEXT_CLSGLD400_00656_TODO_21",""
-46,"TEXT_CLSGLD400_00656_TODO_22",""
-47,"TEXT_CLSGLD400_00656_TODO_23",""
-48,"TEXT_CLSGLD400_00656_SERENDIPITY_000_001","<Highlight>ObjectParameter(1)</Highlight> 씨!
+5,TEXT_CLSGLD400_00656_SEQ_05,
+6,TEXT_CLSGLD400_00656_SEQ_06,
+7,TEXT_CLSGLD400_00656_SEQ_07,
+8,TEXT_CLSGLD400_00656_SEQ_08,
+9,TEXT_CLSGLD400_00656_SEQ_09,
+10,TEXT_CLSGLD400_00656_SEQ_10,
+11,TEXT_CLSGLD400_00656_SEQ_11,
+12,TEXT_CLSGLD400_00656_SEQ_12,
+13,TEXT_CLSGLD400_00656_SEQ_13,
+14,TEXT_CLSGLD400_00656_SEQ_14,
+15,TEXT_CLSGLD400_00656_SEQ_15,
+16,TEXT_CLSGLD400_00656_SEQ_16,
+17,TEXT_CLSGLD400_00656_SEQ_17,
+18,TEXT_CLSGLD400_00656_SEQ_18,
+19,TEXT_CLSGLD400_00656_SEQ_19,
+20,TEXT_CLSGLD400_00656_SEQ_20,
+21,TEXT_CLSGLD400_00656_SEQ_21,
+22,TEXT_CLSGLD400_00656_SEQ_22,
+23,TEXT_CLSGLD400_00656_SEQ_23,
+24,TEXT_CLSGLD400_00656_TODO_00,세렌디피티에게  보이기
+25,TEXT_CLSGLD400_00656_TODO_01,루비길 국제시장에서 로로톤에게  납품
+26,TEXT_CLSGLD400_00656_TODO_02,보석공예가 길드에서 세렌디피티에게 보고
+27,TEXT_CLSGLD400_00656_TODO_03,
+28,TEXT_CLSGLD400_00656_TODO_04,
+29,TEXT_CLSGLD400_00656_TODO_05,
+30,TEXT_CLSGLD400_00656_TODO_06,
+31,TEXT_CLSGLD400_00656_TODO_07,
+32,TEXT_CLSGLD400_00656_TODO_08,
+33,TEXT_CLSGLD400_00656_TODO_09,
+34,TEXT_CLSGLD400_00656_TODO_10,
+35,TEXT_CLSGLD400_00656_TODO_11,
+36,TEXT_CLSGLD400_00656_TODO_12,
+37,TEXT_CLSGLD400_00656_TODO_13,
+38,TEXT_CLSGLD400_00656_TODO_14,
+39,TEXT_CLSGLD400_00656_TODO_15,
+40,TEXT_CLSGLD400_00656_TODO_16,
+41,TEXT_CLSGLD400_00656_TODO_17,
+42,TEXT_CLSGLD400_00656_TODO_18,
+43,TEXT_CLSGLD400_00656_TODO_19,
+44,TEXT_CLSGLD400_00656_TODO_20,
+45,TEXT_CLSGLD400_00656_TODO_21,
+46,TEXT_CLSGLD400_00656_TODO_22,
+47,TEXT_CLSGLD400_00656_TODO_23,
+48,TEXT_CLSGLD400_00656_SERENDIPITY_000_001,"Player Player 씨!
 곤란한 일이 생겼어요…….
 네지가 로로톤 님한테 또 폭언을 한 거 있죠……."
-49,"TEXT_CLSGLD400_00656_SERENDIPITY_000_002","""네 안목 은 아직 멀었다!
+49,TEXT_CLSGLD400_00656_SERENDIPITY_000_002,"""네 안목 은 아직 멀었다!
  처음부터 다시 배워라 이 자식 아!""
 ……그러면서 그분을 길드 밖으로 내쫓아버렸다니까요!"
-50,"TEXT_CLSGLD400_00656_SERENDIPITY_000_003","휴…… 정말. 네지의 말버릇을 고치려면 어떻게 해야 할까요?
-그건 그렇고, 로로톤 님은 <Sheet(ItemHQ,　2125,0)/> 제작을 의뢰하려고
+50,TEXT_CLSGLD400_00656_SERENDIPITY_000_003,"휴…… 정말. 네지의 말버릇을 고치려면 어떻게 해야 할까요?
+그건 그렇고, 로로톤 님은  제작을 의뢰하려고
 길드에 오셨다고 하더라고요."
-51,"TEXT_CLSGLD400_00656_SERENDIPITY_000_004","이번에도 어려운 의뢰이긴 하지만 열심히 제작해보세요.
+51,TEXT_CLSGLD400_00656_SERENDIPITY_000_004,"이번에도 어려운 의뢰이긴 하지만 열심히 제작해보세요.
 만들고 나면 저한테 먼저 가져오는 거 아시죠?"
-52,"TEXT_CLSGLD400_00656_SERENDIPITY_000_010","앗, <Highlight>ObjectParameter(1)</Highlight> 씨!
-<Sheet(ItemHQ,　2125,0)/><13>FF17022813FF074974656D4851FF08E38080323132350103FF04EB8A94FF04EC9D80</13> 다 되셨나요?"
-53,"TEXT_CLSGLD400_00656_GIGI_000_011","네지지지…… 뿔…… 뿔……
+52,TEXT_CLSGLD400_00656_SERENDIPITY_000_010,"앗, Player Player 씨!
+ 다 되셨나요?"
+53,TEXT_CLSGLD400_00656_GIGI_000_011,"네지지지…… 뿔…… 뿔……
 뿔…… 뿔…… 뿔뿔!
 뿔 주술봉 은 개뿔! 봉으 로 궁디 팡팡 맞고 싶냐?"
-54,"TEXT_CLSGLD400_00656_GIGI_000_012","젠장 이거 꽤 괜찮게 만들었 잖아!
+54,TEXT_CLSGLD400_00656_GIGI_000_012,"젠장 이거 꽤 괜찮게 만들었 잖아!
 당장 꺼져버려!
 이 멍청이 바보 호랑말코야!!"
-55,"TEXT_CLSGLD400_00656_SERENDIPITY_000_013","……그, 그러니까……
+55,TEXT_CLSGLD400_00656_SERENDIPITY_000_013,"……그, 그러니까……
 치, 칭찬이에요. 이건 칭찬하는 거예요! 그것도 엄청나게!
 ………………아마도요."
-56,"TEXT_CLSGLD400_00656_SERENDIPITY_000_014","<Sheet(Item,5436,0)/><13>FF0F02280BFF054974656DF2153C0103FF04EBA5BCFF04EC9D84</13> 깎아 자루를 만든 건
-<Sheet(Item,　2078,0)/> 때와 동일하지만, 이 <Sheet(Item,　2125,0)/><13>FF15022811FF054974656DFF08E38080323132350103FF04EB8A94FF04EC9D80</13>
+56,TEXT_CLSGLD400_00656_SERENDIPITY_000_014," 깎아 자루를 만든 건
+ 때와 동일하지만, 이 
 좀 더 그 장식에 신경을 써야 하지요."
-57,"TEXT_CLSGLD400_00656_SERENDIPITY_000_015","그리고 그 날카로움으로 수많은 생명의 피를 흐르게 만들었던
-<Sheet(Item,5444,0)/><13>FF0F02280BFF054974656DF215440103FF04EAB080FF04EC9DB4</13> 지팡이 꼭대기에 장식된 것이 그 화룡점정!
+57,TEXT_CLSGLD400_00656_SERENDIPITY_000_015,"그리고 그 날카로움으로 수많은 생명의 피를 흐르게 만들었던
+ 지팡이 꼭대기에 장식된 것이 그 화룡점정!
 이로써 지팡이 전체에 불길한 기운이 맴돌게 되었어요."
-58,"TEXT_CLSGLD400_00656_SERENDIPITY_000_016","<Sheet(Item,　2078,0)/><13>FF15022811FF054974656DFF08E38080323037380103FF04EC9980FF04EAB3BC</13> 공통되는 재료가 많지만
+58,TEXT_CLSGLD400_00656_SERENDIPITY_000_016," 공통되는 재료가 많지만
 필요에 따라 완전히 색다른 지팡이로 바꾸어 만들어내는
 그 가공 실력…… 정말 대단해요!"
-59,"TEXT_CLSGLD400_00656_SERENDIPITY_000_017","그럼 이제 이 지팡이를 루비길 국제시장에 있는
+59,TEXT_CLSGLD400_00656_SERENDIPITY_000_017,"그럼 이제 이 지팡이를 루비길 국제시장에 있는
 '로로톤' 님에게 전해주세요.
 분명 깜짝 놀라실 거예요!"
-60,"TEXT_CLSGLD400_00656_ROROTON_000_020","아, <Highlight>ObjectParameter(1)</Highlight> 님!
+60,TEXT_CLSGLD400_00656_ROROTON_000_020,"아, Player Player 님!
 실은 새로 일거리를 하나 부탁드렸으면 하는데요.
 아까 길드에 찾아갔더니 그 마법인형 놈한테 쫓겨나서……."
-61,"TEXT_CLSGLD400_00656_ROROTON_000_021","앗! 이건 <Sheet(ItemHQ,　2125,0)/> 아닙니까!
+61,TEXT_CLSGLD400_00656_ROROTON_000_021,"앗! 이건  아닙니까!
 감사합니다! 다행히 어찌어찌
-<Highlight>ObjectParameter(1)</Highlight> 님 귀에도 제 의뢰 요청이 전달된 모양이군요."
-62,"TEXT_CLSGLD400_00656_ROROTON_000_022","어휴, 그 마법인형 놈.
+Player Player 님 귀에도 제 의뢰 요청이 전달된 모양이군요."
+62,TEXT_CLSGLD400_00656_ROROTON_000_022,"어휴, 그 마법인형 놈.
 저만 보면 못 잡아먹어서 안달이니…….
 하하, 어쩐지 제가 다 쑥스럽군요."
-63,"TEXT_CLSGLD400_00656_ROROTON_000_023","네? 아, 아닙니다. 기분이 상한 건 아니에요.
+63,TEXT_CLSGLD400_00656_ROROTON_000_023,"네? 아, 아닙니다. 기분이 상한 건 아니에요.
 그 마법인형은 제가 보석상의 소질이 있는지
 시험할 요량으로 한 말이겠죠. 이런 것도 다 경험입니다."
-64,"TEXT_CLSGLD400_00656_ROROTON_000_024","아, 그건 그렇고 혹시 소문 들으셨습니까?
+64,TEXT_CLSGLD400_00656_ROROTON_000_024,"아, 그건 그렇고 혹시 소문 들으셨습니까?
 요새 시장 상인들 사이에선
 온통 그 이야기로 떠들썩한데요……."
-65,"TEXT_CLSGLD400_00656_ROROTON_000_025","글쎄, 이 울다하에 '비취 여우'라 불리는
+65,TEXT_CLSGLD400_00656_ROROTON_000_025,"글쎄, 이 울다하에 '비취 여우'라 불리는
 그 유명한 사기꾼이 나타났다지 뭡니까."
-66,"TEXT_CLSGLD400_00656_ROROTON_000_026","정체불명에다 신출귀몰…….
+66,TEXT_CLSGLD400_00656_ROROTON_000_026,"정체불명에다 신출귀몰…….
 변장의 달인이라 맨얼굴은 커녕 종족도 성별도 모른답니다.
 알려진 건 딱 하나, 고가의 장신구를 노린다는 것뿐이죠."
-67,"TEXT_CLSGLD400_00656_ROROTON_000_027","우리 보석상한테는 천적이나 다름없어요.
+67,TEXT_CLSGLD400_00656_ROROTON_000_027,"우리 보석상한테는 천적이나 다름없어요.
 이거 참, 여우한테 잡아먹히는 쥐가 되는 건
 사양하고 싶은데 말이지요."
-68,"TEXT_CLSGLD400_00656_ROROTON_000_028","보석공예가 길드에 대해서도 입맛을 다시고 있을지 모르니
+68,TEXT_CLSGLD400_00656_ROROTON_000_028,"보석공예가 길드에 대해서도 입맛을 다시고 있을지 모르니
 '세렌' 님에게도 꼭 조심하시라고 전해주시기 바랍니다."
-69,"TEXT_CLSGLD400_00656_ROROTON_000_029","보석공예가 길드는
+69,TEXT_CLSGLD400_00656_ROROTON_000_029,"보석공예가 길드는
 사기꾼 '비취 여우'가 표적으로 삼기 딱 좋을 겁니다.
 '세렌' 님에게 꼭 조심하시라고 전해주시기 바랍니다."
-70,"TEXT_CLSGLD400_00656_SERENDIPITY_000_030","다녀오셨어요?
+70,TEXT_CLSGLD400_00656_SERENDIPITY_000_030,"다녀오셨어요?
 표정을 보아하니 이번에도 로로톤 님이
 아주 마음에 들어 하신 모양이네요!"
-71,"TEXT_CLSGLD400_00656_SERENDIPITY_000_031","그런데 <Highlight>ObjectParameter(1)</Highlight> 씨,
+71,TEXT_CLSGLD400_00656_SERENDIPITY_000_031,"그런데 Player Player 씨,
 제가 얼마 전에 손님한테 찜찜한 소문을 들은 게 있는데요……."
-72,"TEXT_CLSGLD400_00656_SERENDIPITY_000_032","예? 사기꾼 '비취 여우' 얘기 아니냐고요?
+72,TEXT_CLSGLD400_00656_SERENDIPITY_000_032,"예? 사기꾼 '비취 여우' 얘기 아니냐고요?
 어라, 어떻게 아셨어요!?
 네, 맞아요! 아무래도 그 소문이 진짜인 것 같더라고요!"
-73,"TEXT_CLSGLD400_00656_SERENDIPITY_000_033","혹시라도 사기를 당하면 정말 큰일이죠!
+73,TEXT_CLSGLD400_00656_SERENDIPITY_000_033,"혹시라도 사기를 당하면 정말 큰일이죠!
 정말 길드마스터인 제가 정신 바짝 차려야겠어요!"
-74,"TEXT_CLSGLD400_00656_SERENDIPITY_000_034","앗! <Highlight>ObjectParameter(1)</Highlight> 씨 지금
+74,TEXT_CLSGLD400_00656_SERENDIPITY_000_034,"앗! Player Player 씨 지금
 '불안한데'라는 표정 짓지 않으셨어요!?
 너무해요~! 제가 그렇게 못 미더우세요?"

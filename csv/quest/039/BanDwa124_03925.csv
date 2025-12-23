@@ -1,105 +1,103 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANDWA124_03925_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANDWA124_03925_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 와츠의 망치 작업장에 있는 레기트는 모험가에게 어떤 드워프를 도와달라고 부탁하고 싶은 듯하다."
-1,"TEXT_BANDWA124_03925_SEQ_01","라디스카 망루에 있는 외장 담당 드워프와 대화"
-2,"TEXT_BANDWA124_03925_SEQ_02","라디스카 망루에 있는 외장 담당 드워프와 대화하고
+1,TEXT_BANDWA124_03925_SEQ_01,라디스카 망루에 있는 외장 담당 드워프와 대화
+2,TEXT_BANDWA124_03925_SEQ_02,"라디스카 망루에 있는 외장 담당 드워프와 대화하고
 레기트에게 의뢰받은 물품 납품"
-3,"TEXT_BANDWA124_03925_SEQ_03",""
-4,"TEXT_BANDWA124_03925_SEQ_04",""
-5,"TEXT_BANDWA124_03925_SEQ_05",""
-6,"TEXT_BANDWA124_03925_SEQ_06",""
-7,"TEXT_BANDWA124_03925_SEQ_07",""
-8,"TEXT_BANDWA124_03925_SEQ_08",""
-9,"TEXT_BANDWA124_03925_SEQ_09",""
-10,"TEXT_BANDWA124_03925_SEQ_10",""
-11,"TEXT_BANDWA124_03925_SEQ_11",""
-12,"TEXT_BANDWA124_03925_SEQ_12",""
-13,"TEXT_BANDWA124_03925_SEQ_13",""
-14,"TEXT_BANDWA124_03925_SEQ_14",""
-15,"TEXT_BANDWA124_03925_SEQ_15",""
-16,"TEXT_BANDWA124_03925_SEQ_16",""
-17,"TEXT_BANDWA124_03925_SEQ_17",""
-18,"TEXT_BANDWA124_03925_SEQ_18",""
-19,"TEXT_BANDWA124_03925_SEQ_19",""
-20,"TEXT_BANDWA124_03925_SEQ_20",""
-21,"TEXT_BANDWA124_03925_SEQ_21",""
-22,"TEXT_BANDWA124_03925_SEQ_22",""
-23,"TEXT_BANDWA124_03925_SEQ_23",""
-24,"TEXT_BANDWA124_03925_TODO_00","라디스카 망루에 있는 외장 담당 드워프와 대화"
-25,"TEXT_BANDWA124_03925_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANDWA124_03925_TODO_02",""
-27,"TEXT_BANDWA124_03925_TODO_03",""
-28,"TEXT_BANDWA124_03925_TODO_04",""
-29,"TEXT_BANDWA124_03925_TODO_05",""
-30,"TEXT_BANDWA124_03925_TODO_06",""
-31,"TEXT_BANDWA124_03925_TODO_07",""
-32,"TEXT_BANDWA124_03925_TODO_08",""
-33,"TEXT_BANDWA124_03925_TODO_09",""
-34,"TEXT_BANDWA124_03925_TODO_10",""
-35,"TEXT_BANDWA124_03925_TODO_11",""
-36,"TEXT_BANDWA124_03925_TODO_12",""
-37,"TEXT_BANDWA124_03925_TODO_13",""
-38,"TEXT_BANDWA124_03925_TODO_14",""
-39,"TEXT_BANDWA124_03925_TODO_15",""
-40,"TEXT_BANDWA124_03925_TODO_16",""
-41,"TEXT_BANDWA124_03925_TODO_17",""
-42,"TEXT_BANDWA124_03925_TODO_18",""
-43,"TEXT_BANDWA124_03925_TODO_19",""
-44,"TEXT_BANDWA124_03925_TODO_20",""
-45,"TEXT_BANDWA124_03925_TODO_21",""
-46,"TEXT_BANDWA124_03925_TODO_22",""
-47,"TEXT_BANDWA124_03925_TODO_23",""
-48,"TEXT_BANDWA124_03925_REGITT_000_000","드워프 전차의 외장을 담당하는 동료 중 한 명이
+3,TEXT_BANDWA124_03925_SEQ_03,
+4,TEXT_BANDWA124_03925_SEQ_04,
+5,TEXT_BANDWA124_03925_SEQ_05,
+6,TEXT_BANDWA124_03925_SEQ_06,
+7,TEXT_BANDWA124_03925_SEQ_07,
+8,TEXT_BANDWA124_03925_SEQ_08,
+9,TEXT_BANDWA124_03925_SEQ_09,
+10,TEXT_BANDWA124_03925_SEQ_10,
+11,TEXT_BANDWA124_03925_SEQ_11,
+12,TEXT_BANDWA124_03925_SEQ_12,
+13,TEXT_BANDWA124_03925_SEQ_13,
+14,TEXT_BANDWA124_03925_SEQ_14,
+15,TEXT_BANDWA124_03925_SEQ_15,
+16,TEXT_BANDWA124_03925_SEQ_16,
+17,TEXT_BANDWA124_03925_SEQ_17,
+18,TEXT_BANDWA124_03925_SEQ_18,
+19,TEXT_BANDWA124_03925_SEQ_19,
+20,TEXT_BANDWA124_03925_SEQ_20,
+21,TEXT_BANDWA124_03925_SEQ_21,
+22,TEXT_BANDWA124_03925_SEQ_22,
+23,TEXT_BANDWA124_03925_SEQ_23,
+24,TEXT_BANDWA124_03925_TODO_00,라디스카 망루에 있는 외장 담당 드워프와 대화
+25,TEXT_BANDWA124_03925_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANDWA124_03925_TODO_02,
+27,TEXT_BANDWA124_03925_TODO_03,
+28,TEXT_BANDWA124_03925_TODO_04,
+29,TEXT_BANDWA124_03925_TODO_05,
+30,TEXT_BANDWA124_03925_TODO_06,
+31,TEXT_BANDWA124_03925_TODO_07,
+32,TEXT_BANDWA124_03925_TODO_08,
+33,TEXT_BANDWA124_03925_TODO_09,
+34,TEXT_BANDWA124_03925_TODO_10,
+35,TEXT_BANDWA124_03925_TODO_11,
+36,TEXT_BANDWA124_03925_TODO_12,
+37,TEXT_BANDWA124_03925_TODO_13,
+38,TEXT_BANDWA124_03925_TODO_14,
+39,TEXT_BANDWA124_03925_TODO_15,
+40,TEXT_BANDWA124_03925_TODO_16,
+41,TEXT_BANDWA124_03925_TODO_17,
+42,TEXT_BANDWA124_03925_TODO_18,
+43,TEXT_BANDWA124_03925_TODO_19,
+44,TEXT_BANDWA124_03925_TODO_20,
+45,TEXT_BANDWA124_03925_TODO_21,
+46,TEXT_BANDWA124_03925_TODO_22,
+47,TEXT_BANDWA124_03925_TODO_23,
+48,TEXT_BANDWA124_03925_REGITT_000_000,"드워프 전차의 외장을 담당하는 동료 중 한 명이
 네 힘을 빌리고 싶대라리.
 괜찮다면 협력해 줬으면 해라리."
-49,"TEXT_BANDWA124_03925_REGITT_000_001","'외장 담당 드워프'는 재료를 모으기 위해서
+49,TEXT_BANDWA124_03925_REGITT_000_001,"'외장 담당 드워프'는 재료를 모으기 위해서
 라디스카 망루에 갔으니까 거기서 합류해줘라리.
 잘 부탁해라리~!"
-50,"TEXT_BANDWA124_03925_DWARF03925_000_010","레기트에게 이야기를 듣고 와준 거야라리?
+50,TEXT_BANDWA124_03925_DWARF03925_000_010,"레기트에게 이야기를 듣고 와준 거야라리?
 잘됐다, 기다리고 있었어라리.
-도와줬음 하는 건 '<Sheet(Item,31179,0)/>'에 대해서야라리."
-51,"TEXT_BANDWA124_03925_DWARF03925_000_011","드워프 전차는 상단이 사용하기 위한 거야라리.
+도와줬음 하는 건 ''에 대해서야라리."
+51,TEXT_BANDWA124_03925_DWARF03925_000_011,"드워프 전차는 상단이 사용하기 위한 거야라리.
 그러니 주목을 받을 수 있도록 엄청 화려하게 장식하면
 장사도 더 잘 될 테니까 기뻐하지 않겠어라리?"
-52,"TEXT_BANDWA124_03925_DWARF03925_000_012","그런데 형은 눈에 띄지 않는 게 더 낫다고 한단 말이지.
+52,TEXT_BANDWA124_03925_DWARF03925_000_012,"그런데 형은 눈에 띄지 않는 게 더 낫다고 한단 말이지.
 나~참, 정말 아~무것도 모른다니까라리!"
-53,"TEXT_BANDWA124_03925_DWARF03925_000_020","그러니까 형이 생각을 달리할 만한
-'<Sheet(Item,31179,0)/>'<14>FF0F02280BFF054974656DF279CB0103FF04EBA19CFF07EC9CBCEBA19C</14>……
+53,TEXT_BANDWA124_03925_DWARF03925_000_020,"그러니까 형이 생각을 달리할 만한
+''……
 크롬으로 마무리한 맞춤 부품을 3개 만들어줬으면 해라리!"
-54,"TEXT_BANDWA124_03925_DWARF03925_000_030","그러니까 형이 생각을 달리할 만한
-'<Sheet(Item,31179,0)/>'<14>FF0F02280BFF054974656DF279CB0103FF04EBA19CFF07EC9CBCEBA19C</14>……
+54,TEXT_BANDWA124_03925_DWARF03925_000_030,"그러니까 형이 생각을 달리할 만한
+''……
 화사한 페넌트를 3장 만들어줬으면 해라리!"
-55,"TEXT_BANDWA124_03925_DWARF03925_000_040","그러니까 형이 생각을 달리할 만한
-'<Sheet(Item,31179,0)/>'<14>FF0F02280BFF054974656DF279CB0103FF04EBA19CFF07EC9CBCEBA19C</14>……
+55,TEXT_BANDWA124_03925_DWARF03925_000_040,"그러니까 형이 생각을 달리할 만한
+''……
 선명한 특제 도료를 3개 만들어줬으면 해라리!"
-56,"TEXT_BANDWA124_03925_DWARF03925_000_050","재료가 부족할 때는 나에게 말하면 바로 줄게라리.
+56,TEXT_BANDWA124_03925_DWARF03925_000_050,"재료가 부족할 때는 나에게 말하면 바로 줄게라리.
 완성하면 '레기트'에게 납품해줘라리.
 드워프 전차를 화려하게 만들기 위해 잘 부탁해라리~!"
-57,"TEXT_BANDWA124_03925_DWARF03925_000_060","완성하면 '레기트'에게 납품해줘라리.
+57,TEXT_BANDWA124_03925_DWARF03925_000_060,"완성하면 '레기트'에게 납품해줘라리.
 드워프 전차를 화려하게 만들기 위해 잘 부탁해라리~!"
-58,"TEXT_BANDWA124_03925_DWARF03925_000_061","완성하면 '레기트'에게 납품해줘라리.
+58,TEXT_BANDWA124_03925_DWARF03925_000_061,"완성하면 '레기트'에게 납품해줘라리.
 드워프 전차를 화려하게 만들기 위해 잘 부탁해라리~!"
-59,"TEXT_BANDWA124_03925_DWARF03925_000_062","완성하면 '레기트'에게 납품해줘라리.
+59,TEXT_BANDWA124_03925_DWARF03925_000_062,"완성하면 '레기트'에게 납품해줘라리.
 드워프 전차를 화려하게 만들기 위해 잘 부탁해라리~!"
-60,"TEXT_BANDWA124_03925_DWARF03925_000_070","혹시 재료가 부족해라리?
+60,TEXT_BANDWA124_03925_DWARF03925_000_070,"혹시 재료가 부족해라리?
 그럼 이걸 사용하면 돼라리~."
-61,"TEXT_BANDWA124_03925_DWARF03925_000_071","혹시 재료가 부족해라리?
+61,TEXT_BANDWA124_03925_DWARF03925_000_071,"혹시 재료가 부족해라리?
 그럼 이걸 사용하면 돼라리~."
-62,"TEXT_BANDWA124_03925_DWARF03925_000_072","혹시 재료가 부족해라리?
+62,TEXT_BANDWA124_03925_DWARF03925_000_072,"혹시 재료가 부족해라리?
 그럼 이걸 사용하면 돼라리~."
-63,"TEXT_BANDWA124_03925_REGITT_000_080","외장 건은 어떻게 됐어라리?"
-64,"TEXT_BANDWA124_03925_REGITT_000_090","이게 '<Sheet(Item,31179,0)/>'<13>FF0F02280BFF054974656DF279CB0103FF04EC95BCFF07EC9DB4EC95BC</13>라리?
+63,TEXT_BANDWA124_03925_REGITT_000_080,외장 건은 어떻게 됐어라리?
+64,TEXT_BANDWA124_03925_REGITT_000_090,"이게 ''라리?
 호오~ 역시 넌 일을 참 잘하는구나라리."
-65,"TEXT_BANDWA124_03925_REGITT_000_091","드워프 전차가 보급되면 각 상단에서 전차를 어떻게 차별화시킬지
+65,TEXT_BANDWA124_03925_REGITT_000_091,"드워프 전차가 보급되면 각 상단에서 전차를 어떻게 차별화시킬지
 고민하게 될 테니 이런 맞춤용 옵션도 인기가 있을 것 같아라리.
 협력해줘서 고마워라리!"
-66,"TEXT_BANDWA124_03925_REGITT_000_100","혹시 남동생도 외장 옵션을 부탁한 거야라리?
+66,TEXT_BANDWA124_03925_REGITT_000_100,"혹시 남동생도 외장 옵션을 부탁한 거야라리?
 게다가 이거 외장 컨셉이 정반대잖아라리!
 협력자까지 끌어들여서 대체 뭘 하자는 거지라리……."
-67,"TEXT_BANDWA124_03925_REGITT_000_101","하지만 맞춤용 옵션을 충분히 갖춘다면
+67,TEXT_BANDWA124_03925_REGITT_000_101,"하지만 맞춤용 옵션을 충분히 갖춘다면
 손님의 취향에 맞춘 조정도 할 수 있겠네라리.
 아무튼 협력해줘서 고마워라리!"

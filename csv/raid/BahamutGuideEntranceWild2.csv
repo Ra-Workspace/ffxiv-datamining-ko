@@ -1,81 +1,79 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_ERKENRAD_000_000","'대미궁 바하무트' 가장 깊은 곳, 구속함이 있는 위치로
+#,Unknown0,Unknown1
+0,TEXT_BAHAMUTGUIDEENTRANCEWILD2_ERKENRAD_000_000,"'대미궁 바하무트' 가장 깊은 곳, 구속함이 있는 위치로
 여러분을 전송하겠습니다.
 부디 조심하십시오…… 건투를 빕니다!"
-1,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q1_000_010","무엇을 하시겠습니까?"
-2,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_000_011","'대미궁 바하무트: 진성편' 시작 조건 묻기"
-3,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_000_012","<Sheet(InstanceContent,IntegerParameter(1),3)/> 시작"
-4,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_100_012","「<Sheet(InstanceContent,IntegerParameter(1),3)/>」をGREED限定で開始"
-5,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_101_012","「<Sheet(InstanceContent,IntegerParameter(1),3)/>」をマスタールートで開始"
-6,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_000_013","취소"
-7,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_00105_Q3_000_015","궁금한 것이 있습니까?"
-8,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_00105_A3_000_016","'대미궁 바하무트: 진성편' 시작 조건 묻기"
-9,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_00105_A3_000_017","취소"
-10,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_ERKENRAD_000_020","이제 남은 구속함은 2척…….
+1,TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q1_000_010,무엇을 하시겠습니까?
+2,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_000_011,'대미궁 바하무트: 진성편' 시작 조건 묻기
+3,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_000_012, 시작
+4,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_100_012,「」をGREED限定で開始
+5,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_101_012,「」をマスタールートで開始
+6,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A1_000_013,취소
+7,TEXT_BAHAMUTGUIDEENTRANCEWILD2_00105_Q3_000_015,궁금한 것이 있습니까?
+8,TEXT_BAHAMUTGUIDEENTRANCEWILD2_00105_A3_000_016,'대미궁 바하무트: 진성편' 시작 조건 묻기
+9,TEXT_BAHAMUTGUIDEENTRANCEWILD2_00105_A3_000_017,취소
+10,TEXT_BAHAMUTGUIDEENTRANCEWILD2_ERKENRAD_000_020,"이제 남은 구속함은 2척…….
 모두 당신의 힘 없이는 돌파할 수 없는
 에오르제아 최고의 위험지대입니다."
-11,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_050","'대미궁 바하무트: 진성편'은
+11,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_050,"'대미궁 바하무트: 진성편'은
 여러 개의 던전으로 이루어져 있으며
 그중에는 '데존'을 쓸 수 없는 곳도 있습니다."
-12,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_051","'대미궁 바하무트: 진성편'의 공략 진행도는
+12,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_051,"'대미궁 바하무트: 진성편'의 공략 진행도는
 특정 시점에 각 플레이어의 기록이 생성되며
 재입장 시 기록된 위치부터 이어서 공략할 수 있습니다."
-13,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_052","공략 진행도는 현실 시간으로
-매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다."
-14,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_053","'대미궁 바하무트: 진성편'을 시작하려면
+13,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_052,"공략 진행도는 현실 시간으로
+매주 화요일 오후 5시에 초기화됩니다."
+14,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_053,"'대미궁 바하무트: 진성편'을 시작하려면
 투사 또는 마법사 레벨 50 이상인 플레이어 8명이
 파티를 맺어야 합니다."
-15,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_054","또한, 도전 자격을 얻으려면 모든 플레이어가
+15,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_054,"또한, 도전 자격을 얻으려면 모든 플레이어가
 퀘스트 '두 개의 조각'을 완료해야 합니다."
-16,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_055","'대미궁 바하무트: 진성편'의 공략 시작 지점은
+16,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_055,"'대미궁 바하무트: 진성편'의 공략 시작 지점은
 파티장의 공략 진행도를 따라갑니다."
-17,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_056","또한 시작 조건을 만족했다면
+17,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_056,"또한 시작 조건을 만족했다면
 파티장과 공략 진행도가 다른 파티원도
 파티장에 맞춰 진행할 수 있습니다."
-18,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_0561","파티장보다 공략 진행도가 느린 파티원은
+18,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_0561,"파티장보다 공략 진행도가 느린 파티원은
 파티장과 동일한 진행도로 갱신됩니다."
-19,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_057","파티장보다 공략 진행도가 빠른 파티원은
+19,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_057,"파티장보다 공략 진행도가 빠른 파티원은
 파티장이 그 진행도를 넘어서기 전에는
 진행도가 변경되지 않습니다."
-20,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_100_057","자신의 진행도보다 느린 시점에서는 보상을 얻을 수 없습니다.
+20,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_100_057,"자신의 진행도보다 느린 시점에서는 보상을 얻을 수 없습니다.
 또한, 이번주 공략을 이미 완료한 파티원 수에 따라
 보물상자의 수가 감소합니다."
-21,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_058","'대미궁 바하무트: 진성편'에는 제한시간이 존재합니다.
+21,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_058,"'대미궁 바하무트: 진성편'에는 제한시간이 존재합니다.
 (현실 시간) 90분이 경과하면
 '대미궁 바하무트: 진성편'이 강제로 종료됩니다."
-22,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_059","전리품이 남은 상태에서 다른 파티원이 모두 퇴장하면
+22,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_059,"전리품이 남은 상태에서 다른 파티원이 모두 퇴장하면
 전리품 목록에 있는 모든 아이템을 자동으로 획득합니다."
-23,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_060","이때 소지품이 꽉 차서 획득하지 못한 아이템은 파기되므로
+23,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_060,"이때 소지품이 꽉 차서 획득하지 못한 아이템은 파기되므로
 주의하시기 바랍니다."
-24,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_000_100","<Sheet(InstanceContent,IntegerParameter(1),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8020403FF04EBA5BCFF04EC9D84</13> 시작하시겠습니까?"
-25,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_100_100","「<Sheet(InstanceContent,IntegerParameter(1),3)/>」を
+24,TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_000_100, 시작하시겠습니까?
+25,TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_100_100,"「」を
 「GREED限定」で開始しますか？"
-26,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_101_100","「<Sheet(InstanceContent,IntegerParameter(1),3)/>」を
+26,TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q2_101_100,"「」を
 「マスタールート」で開始しますか？"
-27,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A2_000_101","예"
-28,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A2_000_102","아니요"
-29,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_110","<Sheet(InstanceContentTextData,IntegerParameter(1),0)/><Sheet(InstanceContent,IntegerParameter(2),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8030403FF04EBA5BCFF04EC9D84</13> 시작하지 못했습니다.
+27,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A2_000_101,예
+28,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A2_000_102,아니요
+29,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_110," 시작하지 못했습니다.
 시작 조건을 확인하십시오."
-30,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_ERKENRAD_000_200","이 근방에 흩어져 있는 '달라가브의 발톱'은, 제7재해 때
+30,TEXT_BAHAMUTGUIDEENTRANCEWILD2_ERKENRAD_000_200,"이 근방에 흩어져 있는 '달라가브의 발톱'은, 제7재해 때
 달의 위성 '달라가브'가 깨지면서 떨어진 파편의 흔적들입니다.
 규모로 보자면 그렇게 큰 것은 아닙니다만……."
-31,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_210","'대미궁 바하무트: 진성편'을 완료하셨으므로
+31,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_210,"'대미궁 바하무트: 진성편'을 완료하셨으므로
 초기화된 이후에 다시 도전하실 수 있습니다."
-32,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_211","공략 진행도는 현실 시간으로
-매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다.
+32,TEXT_BAHAMUTGUIDEENTRANCEWILD2_SYSTEM_000_211,"공략 진행도는 현실 시간으로
+매주 화요일 오후 5시에 초기화됩니다.
 초기화된 이후에 다시 공략하십시오."
-33,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q3_000_300","파티원에게 입장 여부를 확인하고 있습니다.
+33,TEXT_BAHAMUTGUIDEENTRANCEWILD2_Q3_000_300,"파티원에게 입장 여부를 확인하고 있습니다.
 확인을 중단하려면 '중단'을 누르십시오."
-34,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_000_301","중단"
-35,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_000_340","このコンテンツを攻略済みのメンバーが、<Value>IntegerParameter(2)</Value>名存在するため、宝箱の出現数は「<Value>IntegerParameter(3)</Value>個」となります。
-「<Sheet(InstanceContent,IntegerParameter(1),3)/>」を開始しますか？"
-36,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_000_350","이 임무를 이미 완료한 파티원이 <Value>IntegerParameter(2)</Value>명 있으므로 완료 시 보물상자의 수는 <Value>IntegerParameter(3)</Value>개입니다.
-<Sheet(InstanceContent,IntegerParameter(1),3)/><13>FF19022815FF10496E7374616E6365436F6E74656E74E8020403FF04EBA5BCFF04EC9D84</13> 시작하시겠습니까?"
-37,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_100_350","このコンテンツを攻略済みのメンバーが、<Value>IntegerParameter(2)</Value>名存在するため、宝箱の出現数は「<Value>IntegerParameter(3)</Value>個」となります。
-「<Sheet(InstanceContent,IntegerParameter(1),3)/>」を
+34,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_000_301,중단
+35,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_000_340,"このコンテンツを攻略済みのメンバーが、UNKNOWN名存在するため、宝箱の出現数は「UNKNOWN個」となります。
+「」を開始しますか？"
+36,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_000_350,"이 임무를 이미 완료한 파티원이 UNKNOWN명 있으므로 완료 시 보물상자의 수는 UNKNOWN개입니다.
+ 시작하시겠습니까?"
+37,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_100_350,"このコンテンツを攻略済みのメンバーが、UNKNOWN名存在するため、宝箱の出現数は「UNKNOWN個」となります。
+「」を
 「GREED限定」で開始しますか？"
-38,"TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_101_350","このコンテンツを攻略済みのメンバーが、<Value>IntegerParameter(2)</Value>名存在するため、宝箱の出現数は「<Value>IntegerParameter(3)</Value>個」となります。
-「<Sheet(InstanceContent,IntegerParameter(1),3)/>」を
+38,TEXT_BAHAMUTGUIDEENTRANCEWILD2_A3_101_350,"このコンテンツを攻略済みのメンバーが、UNKNOWN名存在するため、宝箱の出現数は「UNKNOWN個」となります。
+「」を
 「マスタールート」で開始しますか？"

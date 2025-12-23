@@ -1,107 +1,105 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_001","'전문 장인의 증표'를 받을 각오가 된 모양이군.
+#,Unknown0,Unknown1
+0,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_001,"'전문 장인의 증표'를 받을 각오가 된 모양이군.
 어느 분야의 기술을 갈고닦을 텐가?"
-1,"TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_TITLE","어느 클래스의 전문 장인 인증을 받으시겠습니까?"
-2,"TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_CLASS","<Sheet(ClassJob,IntegerParameter(1),0)/> <If(Equal(IntegerParameter(2),1))>[전문 장인]<Else/></If>"
-3,"TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_EXPLAIN","'제작 전문화'에 대해서 물어본다"
-4,"TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_CANCEL","취소"
-5,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_010","<Sheet(ClassJob,IntegerParameter(1),0)/> 분야의 전문 장인 인증을 받겠는가?"
-6,"TEXT_CMNDEFMEISTER_00260_MEISTER_ASK_01","전문 <Sheet(ClassJob,IntegerParameter(1),0)/> 인증을 받으시겠습니까?"
-7,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_015","이제 너는 전문 <Sheet(ClassJob,IntegerParameter(1),0)/><13>FF1202280EFF09436C6173734A6F62E8020103FF04EAB080FF04EC9DB4</13> 되었다.
+1,TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_TITLE,어느 클래스의 전문 장인 인증을 받으시겠습니까?
+2,TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_CLASS, [전문 장인]
+3,TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_EXPLAIN,'제작 전문화'에 대해서 물어본다
+4,TEXT_CMNDEFMEISTER_00260_MEISTER_MENU_CANCEL,취소
+5,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_010, 분야의 전문 장인 인증을 받겠는가?
+6,TEXT_CMNDEFMEISTER_00260_MEISTER_ASK_01,전문  인증을 받으시겠습니까?
+7,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_015,"이제 너는 전문  되었다.
 이 '전문 장인의 증표'를 항상 몸에 지니고 다니며
 더욱 높은 경지를 향해 정진하도록!"
-8,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_016","<Sheet(ClassJob,IntegerParameter(1),0)/>? 그게 무슨 소린가?
-너는 이미 <Sheet(ClassJob,IntegerParameter(1),0)/> 분야의 전문 장인으로
+8,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_016,"? 그게 무슨 소린가?
+너는 이미  분야의 전문 장인으로
 인정받지 않았는가!"
-9,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_017","흥, 고작 그 정도 실력으로
-전문 <Sheet(ClassJob,IntegerParameter(1),0)/><13>FF1202280EFF09436C6173734A6F62E8020103FF04EAB080FF04EC9DB4</13> 되고 싶다니…… 가소롭군.
+9,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_017,"흥, 고작 그 정도 실력으로
+전문  되고 싶다니…… 가소롭군.
 설마 지금 잠꼬대하는 건 아니겠지?"
-10,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_018","'전문 장인의 증표'를 받으려면
+10,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_018,"'전문 장인의 증표'를 받으려면
 제작자 레벨이 55 이상 되어야 합니다."
-11,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_030","'전문 장인의 증표'를 만들기 위한
-<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 없지 않은가!
+11,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_030,"'전문 장인의 증표'를 만들기 위한
+ 없지 않은가!
 그것 하나 스스로 못 갖추면서 무슨 전문 장인이 되겠단 말인가."
-12,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_031","'전문 장인의 증표'를 받으려면
-<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 보유하고 있어야 합니다."
-13,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_040","넌 이미 '전문 장인의 증표'를 3개 가지고 있다.
+12,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_031,"'전문 장인의 증표'를 받으려면
+ 보유하고 있어야 합니다."
+13,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_040,"넌 이미 '전문 장인의 증표'를 3개 가지고 있다.
 다른 분야의 전문 장인이 되고 싶다면
 3개 증표 중 하나를 반납해야 한다."
-14,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_041","전문 장인의 변경은 일주일에 3번까지 가능합니다.
-이 권리는 현실 시간으로 <ResetTime>1203</ResetTime> 매주 <Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일,
-<If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다."
-15,"TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_TITLE","어느 클래스의 전문 장인의 증표를 반납하시겠습니까?"
-16,"TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_CLASS","<Sheet(ClassJob,IntegerParameter(1),0)/>"
-17,"TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_CANCEL","취소"
-18,"TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_ASK_01","전문 <Sheet(ClassJob,IntegerParameter(1),0)/>의 증표를 반납하고
-전문 <Sheet(ClassJob,IntegerParameter(2),0)/> 인증을 받으시겠습니까?"
-19,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_050","음…… <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 몸에 지니고 있군.
+14,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_041,"전문 장인의 변경은 일주일에 3번까지 가능합니다.
+이 권리는 현실 시간으로  매주 화요일,
+오후5시에 초기화됩니다."
+15,TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_TITLE,어느 클래스의 전문 장인의 증표를 반납하시겠습니까?
+16,TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_CLASS,
+17,TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_MENU_CANCEL,취소
+18,TEXT_CMNDEFMEISTER_00260_RETURN_MEISTER_ASK_01,"전문 의 증표를 반납하고
+전문  인증을 받으시겠습니까?"
+19,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_050,"음……  몸에 지니고 있군.
 반납하려면 먼저 장비를 해제하도록."
-20,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_051","현재 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 장비한 상태입니다.
+20,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_051,"현재  장비한 상태입니다.
 장비함이나 소지품에 넣은 다음
 알데란과 다시 대화하십시오."
-21,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_060","<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 가지고 있지 않은 모양이군.
+21,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_060," 가지고 있지 않은 모양이군.
 반납하려면 이리 가지고 오도록."
-22,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_061","보유한 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 없습니다.
+22,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_061,"보유한  없습니다.
 장비함이나 소지품에 넣은 다음
 알데란과 다시 대화하십시오."
-23,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_090","자네, 대체 몇 번이나 전문 장인의 증표를 반납할 생각인가?
+23,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_090,"자네, 대체 몇 번이나 전문 장인의 증표를 반납할 생각인가?
 한 번 길을 정했으면 쉽사리 포기하지는 않았으면 하네만.
 조금 더 지금 그 길을 걸어보는 건 어떤가?"
-24,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_091","전문 장인의 변경은 일주일에 3번까지 가능합니다.
-이 권리는 현실 시간으로 <ResetTime>1203</ResetTime> 매주 <Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일,
-<If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다."
-25,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_Q1_01","무엇을 물어보시겠습니까?"
-26,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_A1_01","'제작 전문화'란?"
-27,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_A2_01","'전문 장인의 증표'란?"
-28,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_A3_01","'전문화 기술'에 대해서"
-29,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_END_01","취소"
-30,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_070","이미 알다시피 물건을 만드는 이들을 제작자라 부르는데
+24,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_091,"전문 장인의 변경은 일주일에 3번까지 가능합니다.
+이 권리는 현실 시간으로  매주 화요일,
+오후5시에 초기화됩니다."
+25,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_Q1_01,무엇을 물어보시겠습니까?
+26,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_A1_01,'제작 전문화'란?
+27,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_A2_01,'전문 장인의 증표'란?
+28,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_A3_01,'전문화 기술'에 대해서
+29,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_EXPLAIN_END_01,취소
+30,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_070,"이미 알다시피 물건을 만드는 이들을 제작자라 부르는데
 분야에 따라 다양한 직업이 존재하지.
 여러 분야의 기술을 배우고 익히면 여러모로 큰 도움이 된다."
-31,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_071","하지만 정점을 추구하고자 한다면
+31,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_071,"하지만 정점을 추구하고자 한다면
 아무리 재능이 있다 해도 기껏해야 3개 분야가 한계야.
 오로지 그 분야에 전념하여 심혈을 기울일 필요가 있으니 말야."
-32,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_072","즉 '전문 장인'이란
+32,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_072,"즉 '전문 장인'이란
 자신의 전문 분야를 정하여 궁극의 경지를 추구하는
 긍지 높은 제작자를 가리키는 칭호……라고 할 수 있지."
-33,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_073","'전문 장인의 증표'를 몸에 지니고
+33,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_073,"'전문 장인의 증표'를 몸에 지니고
 그 분야에서 최고가 되려는 각오가 있어야만
 비로소 사용할 수 있는 고도의 기술도 있다."
-34,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_074","나아갈 길을 도중에 바꾸는 것도 불가능한 건 아니야.
+34,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_074,"나아갈 길을 도중에 바꾸는 것도 불가능한 건 아니야.
 하지만 엄청난 노력이 필요하다는 건 말 안 해도 알겠지?"
-35,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_075","'전문 장인의 증표'를 장비하면
+35,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_075,"'전문 장인의 증표'를 장비하면
 해당 분야의 '전문 장인'이 될 수 있습니다."
-36,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_076","'전문 장인의 증표' 제작에 필요한 <Sheet(Item,10336,0)/><13>FF0F02280BFF054974656DF228600103FF04EB8A94FF04EC9D80</13>
-'<Sheet(Item,33913,0)/>'<14>FF0F02280BFF054974656DF284790103FF04EBA19CFF07EC9CBCEBA19C</14> 교환하여 입수할 수 있습니다."
-37,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_080","넌 '소울 크리스탈'이 뭔지 알고 있나?
+36,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_076,"'전문 장인의 증표' 제작에 필요한 
+'' 교환하여 입수할 수 있습니다."
+37,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_080,"넌 '소울 크리스탈'이 뭔지 알고 있나?
 싸움에 임하는 자들을 위한 특별한 돌인데
 그 안에는 선인들의 기억과 지식이 담겨있다고 한다."
-38,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_081","나는 장인들에게도 그런 물건이 필요하다고 생각했지.
+38,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_081,"나는 장인들에게도 그런 물건이 필요하다고 생각했지.
 그래서 시행착오 끝에 숙련된 장인을 위한 '소울 크리스탈'……
 즉, '전문 장인의 증표'를 만들어냈다."
-39,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_082","'전문 장인의 증표'를 만들려면
-<Sheet(Item,10336,0)/><13>FF0F02280BFF054974656DF228600103FF04EB9DBCFF07EC9DB4EB9DBC</13>는 특수한 재료를
+39,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_082,"'전문 장인의 증표'를 만들려면
+는 특수한 재료를
 내가 손수 가공해야 한다."
-40,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_083","<Sheet(Item,10336,0)/><13>FF0F02280BFF054974656DF228600103FF04EB8A94FF04EC9D80</13> 매우 희귀한 물건이지만……
+40,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_083," 매우 희귀한 물건이지만……
 그만한 물건 정도는 조달할 수 있어야 
 '전문 장인'이라 불릴 자격이 있지."
-41,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_084","그리고 한 가지 더 충고하는데,
+41,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_084,"그리고 한 가지 더 충고하는데,
 모든 분야를 전문화할 생각은 꿈도 꾸지 마라.
 아무리 재능이 뛰어난들 3개 분야가 사람의 한계야."
-42,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_085","'전문 장인의 증표'는 3개까지만 보유할 수 있습니다.
+42,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_085,"'전문 장인의 증표'는 3개까지만 보유할 수 있습니다.
 즉 최대 3개의 클래스를 전문화할 수 있습니다."
-43,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_086","3가지 분야를 전문화한 상태에서 전문화 클래스를 변경할 경우
+43,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_086,"3가지 분야를 전문화한 상태에서 전문화 클래스를 변경할 경우
 가지고 있는 '전문 장인의 증표' 중 하나를 반납해야 합니다."
-44,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_100","그 분야에서 최고가 되려는 각오가 있어야만
+44,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_100,"그 분야에서 최고가 되려는 각오가 있어야만
 비로소 사용할 수 있는 고도의 기술이다.
 어설픈 각오로는 다룰 수 없는 섬세한 기술이지."
-45,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_101","'전문화 기술'이란
+45,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_101,"'전문화 기술'이란
 '전문 장인의 증표'를 장비하고 있을 때에만
 사용할 수 있는 특수한 기술입니다."
-46,"TEXT_CMNDEFMEISTER_00260_SYSTEM_000_102","만들기 어려운 아이템 제작에 도전할 때
+46,TEXT_CMNDEFMEISTER_00260_SYSTEM_000_102,"만들기 어려운 아이템 제작에 도전할 때
 큰 도움이 되므로 꼭 활용해봅시다."
-47,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_101","（★未使用／削除予定★）"
-48,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_102","（★未使用／削除予定★）"
-49,"TEXT_CMNDEFMEISTER_00260_ARDERAN_000_103","（★未使用／削除予定★）"
+47,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_101,（★未使用／削除予定★）
+48,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_102,（★未使用／削除予定★）
+49,TEXT_CMNDEFMEISTER_00260_ARDERAN_000_103,（★未使用／削除予定★）

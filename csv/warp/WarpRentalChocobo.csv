@@ -1,37 +1,35 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_WARPRENTALCHOCOBO_Q1_000_1","무엇을 하시겠습니까?"
-1,"TEXT_WARPRENTALCHOCOBO_A1_000_1","초코보 대여를 이용한다 (80길/10분)"
-2,"TEXT_WARPRENTALCHOCOBO_A1_000_2","초코보 대여에 대한 설명을 듣는다"
-3,"TEXT_WARPRENTALCHOCOBO_A1_000_3","취소"
-4,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_1","죄송합니다.
+#,Unknown0,Unknown1
+0,TEXT_WARPRENTALCHOCOBO_Q1_000_1,무엇을 하시겠습니까?
+1,TEXT_WARPRENTALCHOCOBO_A1_000_1,초코보 대여를 이용한다 (80길/10분)
+2,TEXT_WARPRENTALCHOCOBO_A1_000_2,초코보 대여에 대한 설명을 듣는다
+3,TEXT_WARPRENTALCHOCOBO_A1_000_3,취소
+4,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_1,"죄송합니다.
 규칙상 경험이 적은 모험가님께는 대여해드릴 수 없습니다.
 여행에 익숙지 않은 분이 떨어져 다치기라도 하면 큰일이니까요."
-5,"TEXT_WARPRENTALCHOCOBO_SYSTEM_000_2","초코보 대여는 '레벨 10'부터 이용하실 수 있습니다."
-6,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_10","앗…… 소지금이 부족하신 것 같네요.
+5,TEXT_WARPRENTALCHOCOBO_SYSTEM_000_2,초코보 대여는 '레벨 10'부터 이용하실 수 있습니다.
+6,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_10,"앗…… 소지금이 부족하신 것 같네요.
 소지금을 확인하신 다음 다시 말씀해주세요."
-7,"TEXT_WARPRENTALCHOCOBO_Q2_000_1","이용 요금(80길/10분)을 지불하고 초코보를 대여하시겠습니까?"
-8,"TEXT_WARPRENTALCHOCOBO_A2_000_1","예"
-9,"TEXT_WARPRENTALCHOCOBO_A2_000_2","아니요"
-10,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_20","초코보가 필요하실 땐 언제든지 다시 와주세요."
-11,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_21","한 번이라도 내리거나 다른 지역으로 이동하시면
+7,TEXT_WARPRENTALCHOCOBO_Q2_000_1,이용 요금(80길/10분)을 지불하고 초코보를 대여하시겠습니까?
+8,TEXT_WARPRENTALCHOCOBO_A2_000_1,예
+9,TEXT_WARPRENTALCHOCOBO_A2_000_2,아니요
+10,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_20,초코보가 필요하실 땐 언제든지 다시 와주세요.
+11,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_21,"한 번이라도 내리거나 다른 지역으로 이동하시면
 시간이 남아있어도 초코보가 돌아가버리니 주의하세요.
 그럼 조심해서 다녀오세요!"
-12,"TEXT_WARPRENTALCHOCOBO_SYSTEM_000_22","미사용"
-13,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_30","이곳에서는 정해진 시간 동안 자유롭게 이용하실 수 있도록
+12,TEXT_WARPRENTALCHOCOBO_SYSTEM_000_22,미사용
+13,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_30,"이곳에서는 정해진 시간 동안 자유롭게 이용하실 수 있도록
 초코보를 대여해 드리고 있습니다.
 초코보를 타면 먼 길도 빠르고 쾌적하게 이동하실 수 있답니다."
-14,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_31","단, 주의하실 점이 세 가지 있습니다."
-15,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_32","하나…… 초코보의 고삐를 손에서 놓지 말 것.
+14,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_31,"단, 주의하실 점이 세 가지 있습니다."
+15,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_32,"하나…… 초코보의 고삐를 손에서 놓지 말 것.
 고삐를 놓고 한 번 내리면 그 자리에서 이용이 종료됩니다."
-16,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_33","둘…… 남은 이용 시간에 주의하세요. 이용 시간이 끝나면
+16,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_33,"둘…… 남은 이용 시간에 주의하세요. 이용 시간이 끝나면
 초코보는 자기 축사로 돌아가도록 훈련되어 있습니다."
-17,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_34","셋…… 강한 마물을 조심하세요.
+17,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_34,"셋…… 강한 마물을 조심하세요.
 마물에게 너무 자주 공격받는다 싶으면
 초코보가 겁을 먹고 도망쳐버리니까요."
-18,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_35","……이상으로 설명을 마치겠습니다.
+18,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_35,"……이상으로 설명을 마치겠습니다.
 저희 축사 소속 초코보들을 애용해주시기 바랍니다."
-19,"TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_40","안녕하세요?
+19,TEXT_WARPRENTALCHOCOBO_RENTALCHOCOBO_000_40,"안녕하세요?
 고독한 여행길에 벗 삼아, 혹은 다른 도시로 장사하러 갈 때
 '초코보 대여'를 이용하는 건 어떠신가요?"

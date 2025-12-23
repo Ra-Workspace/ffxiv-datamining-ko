@@ -1,86 +1,84 @@
-﻿key,0,1,2,3,4
-#,Name,AchievementKind,ShowComplete,HideCategory,Order
-int32,str,AchievementKind,bit&01,bit&02,byte
-0,"",0,True,False,0
-1,"일반",1,True,False,1
-2,"던전",1,True,False,2
-3,"토벌전",1,True,False,3
-4,"레이드",1,True,False,4
-5,"마물 사냥",1,True,False,5
-6,"보물찾기",1,True,False,6
-7,"일반",2,True,False,1
-8,"순위",2,True,True,2
-9,"투기장",2,True,False,3
-10,"전장",2,True,False,4
-11,"경쟁의 날개",2,True,False,5
-12,"일반",3,True,False,1
-13,"투사",3,True,False,2
-14,"마법사",3,True,False,3
-15,"제작자",3,True,False,4
-16,"채집가",3,True,False,5
-17,"플레이어 추천",3,True,False,6
-18,"골드 소서",3,True,False,7
-19,"일반",4,True,False,1
-20,"화폐",4,True,False,2
-21,"분해",4,True,False,3
-22,"소장품",4,True,False,4
-23,"마테리아",4,True,False,5
-24,"목수",5,True,False,2
-25,"대장장이",5,True,False,3
-26,"갑주제작사",5,True,False,4
-27,"보석공예가",5,True,False,5
-28,"가죽공예가",5,True,False,6
-29,"재봉사",5,True,False,7
-30,"연금술사",5,True,False,8
-31,"요리사",5,True,False,9
-32,"광부",5,True,False,10
-33,"원예가",5,True,False,11
-34,"어부",5,True,False,12
-35,"일반",8,True,False,1
-36,"의뢰",8,True,False,4
-37,"우호부족 퀘스트",8,True,False,5
-38,"기간 한정 이벤트",8,True,True,99
-39,"탐험수첩",11,True,False,1
-40,"라노시아",11,True,False,2
-41,"검은장막 숲",11,True,False,3
-42,"다날란",11,True,False,4
-43,"커르다스",11,True,False,5
-44,"모르도나",11,True,False,6
-45,"아발라시아",11,True,False,7
-46,"드라바니아",11,True,False,8
-47,"기라바니아",11,True,False,9
-48,"오사드",11,True,False,10
-49,"임무",11,True,False,100
-50,"일반",12,True,False,1
-51,"흑와단",12,True,False,2
-52,"쌍사당",12,True,False,3
-53,"불멸대",12,True,False,4
-54,"전투",13,True,False,1
-55,"화폐",13,True,False,2
-56,"채집",13,True,False,3
-57,"퀘스트",13,True,False,4
-58,"기간 한정 이벤트",13,True,False,5
-59,"던전",13,True,False,6
-60,"탐험",13,True,False,7
-61,"총사령부",13,True,False,8
-62,"고대 무기",4,True,False,6
-63,"조디악 웨폰",4,True,False,7
-64,"아니마 웨폰",4,True,False,8
-65,"딥 던전 마기",4,True,False,9
-66,"에우레카 웨폰",4,True,False,10
-67,"노르브란트",11,True,False,11
-68,"레지스탕스 웨폰",4,True,False,11
-69,"모든 직업 공통",5,True,False,1
-70,"하늘강철 도구",4,True,False,51
-71,"특수 필드 탐색",1,True,False,7
-72,"북해 지역",11,True,False,12
-73,"일사바드",11,True,False,13
-74,"기타",11,True,False,99
-75,"맨더빌 웨폰",4,True,False,12
-76,"주요 퀘스트",8,True,False,2
-77,"잡/역할 퀘스트",8,True,False,3
-78,"모웬 도구",4,True,False,52
-79,"요카 투랄",11,True,False,14
-80,"사카 투랄",11,True,False,15
-81,"팬텀 웨폰",4,True,False,13
-82,"우주 도구",4,True,False,53
+#,Name,AchievementKind,Order,ShowComplete,HideCategory
+0,,0,0,True,False
+1,일반,1,1,True,False
+2,던전,1,2,True,False
+3,토벌전,1,3,True,False
+4,레이드,1,4,True,False
+5,마물 사냥,1,5,True,False
+6,보물찾기,1,6,True,False
+7,일반,2,1,True,False
+8,순위,2,2,True,True
+9,투기장,2,3,True,False
+10,전장,2,4,True,False
+11,경쟁의 날개,2,5,True,False
+12,일반,3,1,True,False
+13,투사,3,2,True,False
+14,마법사,3,3,True,False
+15,제작자,3,4,True,False
+16,채집가,3,5,True,False
+17,플레이어 추천,3,6,True,False
+18,골드 소서,3,7,True,False
+19,일반,4,1,True,False
+20,화폐,4,2,True,False
+21,분해,4,3,True,False
+22,소장품,4,4,True,False
+23,마테리아,4,5,True,False
+24,목수,5,2,True,False
+25,대장장이,5,3,True,False
+26,갑주제작사,5,4,True,False
+27,보석공예가,5,5,True,False
+28,가죽공예가,5,6,True,False
+29,재봉사,5,7,True,False
+30,연금술사,5,8,True,False
+31,요리사,5,9,True,False
+32,광부,5,10,True,False
+33,원예가,5,11,True,False
+34,어부,5,12,True,False
+35,일반,8,1,True,False
+36,의뢰,8,4,True,False
+37,우호부족 퀘스트,8,5,True,False
+38,기간 한정 이벤트,8,99,True,True
+39,탐험수첩,11,1,True,False
+40,라노시아,11,2,True,False
+41,검은장막 숲,11,3,True,False
+42,다날란,11,4,True,False
+43,커르다스,11,5,True,False
+44,모르도나,11,6,True,False
+45,아발라시아,11,7,True,False
+46,드라바니아,11,8,True,False
+47,기라바니아,11,9,True,False
+48,오사드,11,10,True,False
+49,임무,11,100,True,False
+50,일반,12,1,True,False
+51,흑와단,12,2,True,False
+52,쌍사당,12,3,True,False
+53,불멸대,12,4,True,False
+54,전투,13,1,True,False
+55,화폐,13,2,True,False
+56,채집,13,3,True,False
+57,퀘스트,13,4,True,False
+58,기간 한정 이벤트,13,5,True,False
+59,던전,13,6,True,False
+60,탐험,13,7,True,False
+61,총사령부,13,8,True,False
+62,고대 무기,4,6,True,False
+63,조디악 웨폰,4,7,True,False
+64,아니마 웨폰,4,8,True,False
+65,딥 던전 마기,4,9,True,False
+66,에우레카 웨폰,4,10,True,False
+67,노르브란트,11,11,True,False
+68,레지스탕스 웨폰,4,11,True,False
+69,모든 직업 공통,5,1,True,False
+70,하늘강철 도구,4,51,True,False
+71,특수 필드 탐색,1,7,True,False
+72,북해 지역,11,12,True,False
+73,일사바드,11,13,True,False
+74,기타,11,99,True,False
+75,맨더빌 웨폰,4,12,True,False
+76,주요 퀘스트,8,2,True,False
+77,잡/역할 퀘스트,8,3,True,False
+78,모웬 도구,4,52,True,False
+79,요카 투랄,11,14,True,False
+80,사카 투랄,11,15,True,False
+81,팬텀 웨폰,4,13,True,False
+82,우주 도구,4,53,True,False

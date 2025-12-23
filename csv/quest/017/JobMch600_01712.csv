@@ -1,230 +1,228 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBMCH600_01712_SEQ_00","하늘강철 기공방의 스테파니비앙은 모험가에게 할 말이 있는 모양이다."
-1,"TEXT_JOBMCH600_01712_SEQ_01","<Sheet(BNpcName,4224,0)/> 토벌 일정이 정해졌다. 스테파니비앙은 사기를 북돋기 위해 연회를 열겠다고 한다. 이슈가르드 하층에 있는 '로스튼스탈', '조이', '셀레스토', '보랑두앵 드 아유나르트 백작'과 대화하자."
-2,"TEXT_JOBMCH600_01712_SEQ_02","하늘강철 기공방 관계자들과 이야기를 나눴다. 하늘강철 기공방에 있는 '스테파니비앙'과 대화하자."
-3,"TEXT_JOBMCH600_01712_SEQ_03","스테파니비앙과 대화했다. 커르다스 서부고지 '쌍둥이 연못'에 있는 '스테파니비앙'과 대화하자."
-4,"TEXT_JOBMCH600_01712_SEQ_04","스테파니비앙과 대화하고 <Sheet(BNpcName,4224,0)/><13>FF1302280FFF09424E70634E616D65F210800103FF04EBA5BCFF04EC9D84</13> 토벌했다. 하늘강철 기공방에 있는 '스테파니비앙'과 대화하자."
-5,"TEXT_JOBMCH600_01712_SEQ_05","스테파니비앙과 대화했다. 마침내 테달그랭슈도 하늘강철 기공방을 인정했다. 로스튼스탈은 공방을 떠났고, 모험가도 공방을 졸업하게 되었다. 지금까지 익힌 기술을 활용하여 기공사의 존재를 세상에 널리 알리자.
+#,Unknown0,Unknown1
+0,TEXT_JOBMCH600_01712_SEQ_00,하늘강철 기공방의 스테파니비앙은 모험가에게 할 말이 있는 모양이다.
+1,TEXT_JOBMCH600_01712_SEQ_01," 토벌 일정이 정해졌다. 스테파니비앙은 사기를 북돋기 위해 연회를 열겠다고 한다. 이슈가르드 하층에 있는 '로스튼스탈', '조이', '셀레스토', '보랑두앵 드 아유나르트 백작'과 대화하자."
+2,TEXT_JOBMCH600_01712_SEQ_02,하늘강철 기공방 관계자들과 이야기를 나눴다. 하늘강철 기공방에 있는 '스테파니비앙'과 대화하자.
+3,TEXT_JOBMCH600_01712_SEQ_03,스테파니비앙과 대화했다. 커르다스 서부고지 '쌍둥이 연못'에 있는 '스테파니비앙'과 대화하자.
+4,TEXT_JOBMCH600_01712_SEQ_04,스테파니비앙과 대화하고  토벌했다. 하늘강철 기공방에 있는 '스테파니비앙'과 대화하자.
+5,TEXT_JOBMCH600_01712_SEQ_05,"스테파니비앙과 대화했다. 마침내 테달그랭슈도 하늘강철 기공방을 인정했다. 로스튼스탈은 공방을 떠났고, 모험가도 공방을 졸업하게 되었다. 지금까지 익힌 기술을 활용하여 기공사의 존재를 세상에 널리 알리자.
 
 ※'주요 퀘스트: 용시전쟁 전후편' 중 '숙명의 끝'을 완료하면
 하늘강철 기공방의 스테파니비앙에게서 새로운 잡 퀘스트를 받을 수 있습니다."
-6,"TEXT_JOBMCH600_01712_SEQ_06",""
-7,"TEXT_JOBMCH600_01712_SEQ_07",""
-8,"TEXT_JOBMCH600_01712_SEQ_08",""
-9,"TEXT_JOBMCH600_01712_SEQ_09",""
-10,"TEXT_JOBMCH600_01712_SEQ_10",""
-11,"TEXT_JOBMCH600_01712_SEQ_11",""
-12,"TEXT_JOBMCH600_01712_SEQ_12",""
-13,"TEXT_JOBMCH600_01712_SEQ_13",""
-14,"TEXT_JOBMCH600_01712_SEQ_14",""
-15,"TEXT_JOBMCH600_01712_SEQ_15",""
-16,"TEXT_JOBMCH600_01712_SEQ_16",""
-17,"TEXT_JOBMCH600_01712_SEQ_17",""
-18,"TEXT_JOBMCH600_01712_SEQ_18",""
-19,"TEXT_JOBMCH600_01712_SEQ_19",""
-20,"TEXT_JOBMCH600_01712_SEQ_20",""
-21,"TEXT_JOBMCH600_01712_SEQ_21",""
-22,"TEXT_JOBMCH600_01712_SEQ_22",""
-23,"TEXT_JOBMCH600_01712_SEQ_23",""
-24,"TEXT_JOBMCH600_01712_TODO_00","로스튼스탈과 대화"
-25,"TEXT_JOBMCH600_01712_TODO_01","조이와 대화"
-26,"TEXT_JOBMCH600_01712_TODO_02","셀레스토와 대화"
-27,"TEXT_JOBMCH600_01712_TODO_03","아유나르트 백작과 대화"
-28,"TEXT_JOBMCH600_01712_TODO_04","스테파니비앙과 대화"
-29,"TEXT_JOBMCH600_01712_TODO_05","쌍둥이 연못에서 스테파니비앙과 대화"
-30,"TEXT_JOBMCH600_01712_TODO_06","하늘강철 기공방에서 스테파니비앙과 대화"
-31,"TEXT_JOBMCH600_01712_TODO_07",""
-32,"TEXT_JOBMCH600_01712_TODO_08",""
-33,"TEXT_JOBMCH600_01712_TODO_09",""
-34,"TEXT_JOBMCH600_01712_TODO_10",""
-35,"TEXT_JOBMCH600_01712_TODO_11",""
-36,"TEXT_JOBMCH600_01712_TODO_12",""
-37,"TEXT_JOBMCH600_01712_TODO_13",""
-38,"TEXT_JOBMCH600_01712_TODO_14",""
-39,"TEXT_JOBMCH600_01712_TODO_15",""
-40,"TEXT_JOBMCH600_01712_TODO_16",""
-41,"TEXT_JOBMCH600_01712_TODO_17",""
-42,"TEXT_JOBMCH600_01712_TODO_18",""
-43,"TEXT_JOBMCH600_01712_TODO_19",""
-44,"TEXT_JOBMCH600_01712_TODO_20",""
-45,"TEXT_JOBMCH600_01712_TODO_21",""
-46,"TEXT_JOBMCH600_01712_TODO_22",""
-47,"TEXT_JOBMCH600_01712_TODO_23",""
-48,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_000","<Highlight>ObjectParameter(1)</Highlight>…….
-<Sheet(BNpcName,4224,0)/> 토벌 심사일이 확정됐어.
+6,TEXT_JOBMCH600_01712_SEQ_06,
+7,TEXT_JOBMCH600_01712_SEQ_07,
+8,TEXT_JOBMCH600_01712_SEQ_08,
+9,TEXT_JOBMCH600_01712_SEQ_09,
+10,TEXT_JOBMCH600_01712_SEQ_10,
+11,TEXT_JOBMCH600_01712_SEQ_11,
+12,TEXT_JOBMCH600_01712_SEQ_12,
+13,TEXT_JOBMCH600_01712_SEQ_13,
+14,TEXT_JOBMCH600_01712_SEQ_14,
+15,TEXT_JOBMCH600_01712_SEQ_15,
+16,TEXT_JOBMCH600_01712_SEQ_16,
+17,TEXT_JOBMCH600_01712_SEQ_17,
+18,TEXT_JOBMCH600_01712_SEQ_18,
+19,TEXT_JOBMCH600_01712_SEQ_19,
+20,TEXT_JOBMCH600_01712_SEQ_20,
+21,TEXT_JOBMCH600_01712_SEQ_21,
+22,TEXT_JOBMCH600_01712_SEQ_22,
+23,TEXT_JOBMCH600_01712_SEQ_23,
+24,TEXT_JOBMCH600_01712_TODO_00,로스튼스탈과 대화
+25,TEXT_JOBMCH600_01712_TODO_01,조이와 대화
+26,TEXT_JOBMCH600_01712_TODO_02,셀레스토와 대화
+27,TEXT_JOBMCH600_01712_TODO_03,아유나르트 백작과 대화
+28,TEXT_JOBMCH600_01712_TODO_04,스테파니비앙과 대화
+29,TEXT_JOBMCH600_01712_TODO_05,쌍둥이 연못에서 스테파니비앙과 대화
+30,TEXT_JOBMCH600_01712_TODO_06,하늘강철 기공방에서 스테파니비앙과 대화
+31,TEXT_JOBMCH600_01712_TODO_07,
+32,TEXT_JOBMCH600_01712_TODO_08,
+33,TEXT_JOBMCH600_01712_TODO_09,
+34,TEXT_JOBMCH600_01712_TODO_10,
+35,TEXT_JOBMCH600_01712_TODO_11,
+36,TEXT_JOBMCH600_01712_TODO_12,
+37,TEXT_JOBMCH600_01712_TODO_13,
+38,TEXT_JOBMCH600_01712_TODO_14,
+39,TEXT_JOBMCH600_01712_TODO_15,
+40,TEXT_JOBMCH600_01712_TODO_16,
+41,TEXT_JOBMCH600_01712_TODO_17,
+42,TEXT_JOBMCH600_01712_TODO_18,
+43,TEXT_JOBMCH600_01712_TODO_19,
+44,TEXT_JOBMCH600_01712_TODO_20,
+45,TEXT_JOBMCH600_01712_TODO_21,
+46,TEXT_JOBMCH600_01712_TODO_22,
+47,TEXT_JOBMCH600_01712_TODO_23,
+48,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_000,"Player Player…….
+ 토벌 심사일이 확정됐어.
 이번 토벌은 공방의 운명을 결정하는 중요한 전투야."
-49,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_001","그래서 지금까지의 노고를 위로할 겸 연회를 열려고 하거든.
+49,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_001,"그래서 지금까지의 노고를 위로할 겸 연회를 열려고 하거든.
 성도에서 조이랑 로스튼스탈, 셀레스토……
 그리고 우리 아버지를 찾아서 초대해줄래?"
-50,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_009","성도에서 조이랑 로스튼스탈, 셀레스토……
+50,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_009,"성도에서 조이랑 로스튼스탈, 셀레스토……
 그리고 우리 아버지를 찾아서 초대해줄래?"
-51,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_010","……승전을 기원하는 연회라고?
+51,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_010,"……승전을 기원하는 연회라고?
 지난번 파티도 무산되었는데…… 녀석도 어지간하군."
-52,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_011","네가 처음 총을 잡은 모습을 봤을 때
+52,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_011,"네가 처음 총을 잡은 모습을 봤을 때
 이 녀석은 크게 될 거라고 딱 감이 왔지.
 그 직감을 믿고 공방에 남기를 정말로 잘한 것 같다."
-53,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_012","덕분에 이 전투에 참가할 수 있게 됐으니까 말이지.
+53,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_012,"덕분에 이 전투에 참가할 수 있게 됐으니까 말이지.
 이건 공방을 위해서나, 나를 위해서나 중요한 전투다…….
 여기까지 날 이끌어준 너에게 감사해야겠군."
-54,"TEXT_JOBMCH600_01712_JOYE_000_010","……공방에서요? 예, 당연히 가야죠.
-참, <Highlight>ObjectParameter(1)</Highlight> 님.
+54,TEXT_JOBMCH600_01712_JOYE_000_010,"……공방에서요? 예, 당연히 가야죠.
+참, Player Player 님.
 마침 드릴 말씀이 있습니다……."
-55,"TEXT_JOBMCH600_01712_JOYE_000_011","<Highlight>ObjectParameter(1)</Highlight> 님 덕분에 겨우 돌아온 공방인데
+55,TEXT_JOBMCH600_01712_JOYE_000_011,"Player Player 님 덕분에 겨우 돌아온 공방인데
 또다시 잃을 수는 없어요.
 그러니 조이도 미래를 위해 최선을 다하겠습니다!"
-56,"TEXT_JOBMCH600_01712_CELESTAUX_000_010","……공방에서 연회를 한다고요?
+56,TEXT_JOBMCH600_01712_CELESTAUX_000_010,"……공방에서 연회를 한다고요?
 거참 고마운 일이군요……."
-57,"TEXT_JOBMCH600_01712_CELESTAUX_000_011","그 공방은 저희 평민들의 안식처와 같은 곳입니다.
+57,TEXT_JOBMCH600_01712_CELESTAUX_000_011,"그 공방은 저희 평민들의 안식처와 같은 곳입니다.
 무슨 일이 있어도 지켜내야지요…….
 또 그게 공방장님의 은혜에 보답하는 길이고요."
-58,"TEXT_JOBMCH600_01712_BAURENDOUIN_000_010","……나까지 연회에 초대하다니, 아들 녀석도 많이 변했군.
+58,TEXT_JOBMCH600_01712_BAURENDOUIN_000_010,"……나까지 연회에 초대하다니, 아들 녀석도 많이 변했군.
 초청해준 것은 고맙지만, 이번에는 사양하겠다.
 공방은 이제 아들에게 맡기기로 했으니 말이야."
-59,"TEXT_JOBMCH600_01712_BAURENDOUIN_000_011","'하늘강철 기공방'의 운명은 이번 작전에 달렸다.
+59,TEXT_JOBMCH600_01712_BAURENDOUIN_000_011,"'하늘강철 기공방'의 운명은 이번 작전에 달렸다.
 전투에 승리하여 미래를 쟁취할 수 있도록 기도하지…….
 우리 아들에게도 그렇게 전해다오."
-60,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_019","이렇게 사람들과 술잔을 기울이는 것도 오랜만인 것 같다.
+60,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_019,"이렇게 사람들과 술잔을 기울이는 것도 오랜만인 것 같다.
 옛날 생각이 나는군…… 같은 실수는 되풀이하지 않겠어……."
-61,"TEXT_JOBMCH600_01712_JOYE_000_019","<Highlight>ObjectParameter(1)</Highlight> 님도 어서 드세요!
+61,TEXT_JOBMCH600_01712_JOYE_000_019,"Player Player 님도 어서 드세요!
 음식이든 술이든 가져오는 족족 사라지네요.
 이게 다 주인님께서 마련해주신 거래요."
-62,"TEXT_JOBMCH600_01712_CELESTAUX_000_019","아, 맛있다…… 이렇게 근사한 요리는 정말 간만이군요…….
+62,TEXT_JOBMCH600_01712_CELESTAUX_000_019,"아, 맛있다…… 이렇게 근사한 요리는 정말 간만이군요…….
 긴장하고 불안했던 마음이 가라앉는 것 같습니다……."
-63,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_020","<Highlight>ObjectParameter(1)</Highlight>, 사람들을 불러줘서 고마워.
+63,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_020,"Player Player, 사람들을 불러줘서 고마워.
 아버지의 마음도 잘 알았어……!"
-64,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_021","자, 오늘은 마음껏 먹고 마시자!
-그리고 반드시 <Sheet(BNpcName,4224,0)/><13>FF1302280FFF09424E70634E616D65F210800103FF04EBA5BCFF04EC9D84</13> 물리치자!"
-65,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_022","(-공방의 기공사들-)아자~~~~!!"
-66,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_023","확실히 다들 눈빛이 좋아졌어.
+64,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_021,"자, 오늘은 마음껏 먹고 마시자!
+그리고 반드시  물리치자!"
+65,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_022,(-공방의 기공사들-)아자~~~~!!
+66,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_023,"확실히 다들 눈빛이 좋아졌어.
 너를 보고 느낀 바가 있는 것 같아."
-67,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_024","<Highlight>ObjectParameter(1)</Highlight>, 이 자리에 네가 없었다면
+67,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_024,"Player Player, 이 자리에 네가 없었다면
 공방 분위기도 지금 같지 않았겠지…….
 '기공사'의 길을 선택해줘서 고맙다."
-68,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_025","이번 작전은 힘든 싸움이 되겠지만, 절호의 기회이기도 해.
+68,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_025,"이번 작전은 힘든 싸움이 되겠지만, 절호의 기회이기도 해.
 네 부담이 크겠지만 아무쪼록 잘 부탁한다.
 ……준비가 끝나는 대로 커르다스 서부고지로 가자."
-69,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_029","……준비가 끝나는 대로 커르다스 서부고지로 가자."
-70,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_030","테달그랭슈, '기공사'는 전부 모였다.
-이제 <Sheet(BNpcName,4224,0)/><13>FF1302280FFF09424E70634E616D65F210800103FF04EAB080FF04EC9DB4</13> 나타나기만 하면 돼!"
-71,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_031","이분이 이번 심사를 담당하실 교황청 사제님입니다.
+69,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_029,……준비가 끝나는 대로 커르다스 서부고지로 가자.
+70,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_030,"테달그랭슈, '기공사'는 전부 모였다.
+이제  나타나기만 하면 돼!"
+71,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_031,"이분이 이번 심사를 담당하실 교황청 사제님입니다.
 표적을 유인할 준비도 이미 다 마쳤지요."
-72,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_032","아도넬 점성대의 예측에 따르면
-곧 <Sheet(BNpcName,4224,0)/><13>FF1302280FFF09424E70634E616D65F210800103FF04EAB080FF04EC9DB4</13> 움직일 시간입니다…….
+72,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_032,"아도넬 점성대의 예측에 따르면
+곧  움직일 시간입니다…….
 가짜 수송부대를 발견하면 반드시 덤벼들 겁니다."
-73,"TEXT_JOBMCH600_01712_OBSERVER01712_000_033","(-교황청 사제-)'하늘강철 기공방' 여러분이 목숨을 걸고 싸우면
+73,TEXT_JOBMCH600_01712_OBSERVER01712_000_033,"(-교황청 사제-)'하늘강철 기공방' 여러분이 목숨을 걸고 싸우면
 설사 죽음을 맞이하더라도 애국심을 증명할 수 있습니다.
 단, 비겁하게 도망칠 경우…… 어떻게 될지 아시겠지요?"
-74,"TEXT_JOBMCH600_01712_OBSERVER01712_000_034","(-교황청 사제-)우리는 공정한 판결을 내리기 위해
+74,TEXT_JOBMCH600_01712_OBSERVER01712_000_034,"(-교황청 사제-)우리는 공정한 판결을 내리기 위해
 안전한 장소에서 전투를 지켜보겠습니다…….
 그럼 건투를 빌지요."
-75,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_035","……사제님, 곧 처참한 살육극이 펼쳐질 수도 있으니
+75,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_035,"……사제님, 곧 처참한 살육극이 펼쳐질 수도 있으니
 마음을 단단히 먹으십시오.
 심사는 공정해야 하니까요, 오호호호호……."
-76,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_036","……이번 토벌전의 작전을 설명하겠다.
+76,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_036,"……이번 토벌전의 작전을 설명하겠다.
 방침은 단 하나…… 우리가 가진 모든 것을 보여주는 것이다!
-반드시 <Sheet(BNpcName,4224,0)/><13>FF1302280FFF09424E70634E616D65F210800103FF04EBA5BCFF04EC9D84</13> 처치하고 살아서 돌아가자!"
-77,"TEXT_JOBMCH600_01712_QIB_001_TODO_1","드래곤족을 쓰러뜨려라!"
-78,"TEXT_JOBMCH600_01712_QIB_001_TODO_2","테달그랭슈를 지키며 드래곤족을 쓰러뜨려라!"
-79,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_PCDEAD","큭, 미안하다…… 난 틀렸어……."
-80,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_DEAD","실수를 하다니…… 뒤를 부탁한다……."
-81,"TEXT_JOBMCH600_01712_QIB_001_JOYE_BATTLETALK_DEAD","빠앙…… 어? 눈이 침침해…… 몸이 움직이질 않아."
-82,"TEXT_JOBMCH600_01712_QIB_001_SEREST_BATTLETALK_DEAD","죄송합니다…… 저는 여기까진가 봅니다……."
-83,"TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_DEAD","한순간이라도 '기공사'에게 기대를 건 제가 어리석었군요……."
-84,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_00","모든 것을 걸고 이 싸움에서 승리하자!"
-85,"TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_01","자, 멋진 비명을 들려주세요…… 오호호호……."
-86,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_02","<Highlight>ObjectParameter(1)</Highlight>! 셀레스토 쪽에 새로운 적이다!
+반드시  처치하고 살아서 돌아가자!"
+77,TEXT_JOBMCH600_01712_QIB_001_TODO_1,드래곤족을 쓰러뜨려라!
+78,TEXT_JOBMCH600_01712_QIB_001_TODO_2,테달그랭슈를 지키며 드래곤족을 쓰러뜨려라!
+79,TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_PCDEAD,"큭, 미안하다…… 난 틀렸어……."
+80,TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_DEAD,실수를 하다니…… 뒤를 부탁한다…….
+81,TEXT_JOBMCH600_01712_QIB_001_JOYE_BATTLETALK_DEAD,빠앙…… 어? 눈이 침침해…… 몸이 움직이질 않아.
+82,TEXT_JOBMCH600_01712_QIB_001_SEREST_BATTLETALK_DEAD,죄송합니다…… 저는 여기까진가 봅니다…….
+83,TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_DEAD,한순간이라도 '기공사'에게 기대를 건 제가 어리석었군요…….
+84,TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_00,모든 것을 걸고 이 싸움에서 승리하자!
+85,TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_01,"자, 멋진 비명을 들려주세요…… 오호호호……."
+86,TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_02,"Player Player! 셀레스토 쪽에 새로운 적이다!
 빨리 가서 지원해줘!"
-87,"TEXT_JOBMCH600_01712_QIB_001_CELESTAUX_BATTLETALK_03","큭…… 쏴도 쏴도 끝이 없군요……!
+87,TEXT_JOBMCH600_01712_QIB_001_CELESTAUX_BATTLETALK_03,"큭…… 쏴도 쏴도 끝이 없군요……!
 저 좀 도와주십시오!"
-88,"TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_04","생각보다 용의 졸개가 많군요, 오호호호……."
-89,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_05","셀레스토! 테달그랭슈를 봐줘!
-<Highlight>ObjectParameter(1)</Highlight>! 우리 상대는 저 녀석이다!"
-90,"TEXT_JOBMCH600_01712_QIB_001_CELESTAUX_BATTLETALK_06","알겠습니다…… 재수 없는 놈이지만 지켜드리지요!"
-91,"TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_07","내가 '기공사'의 도움을 받게 되다니……."
-92,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_08","또 지원군이야!? 이러면 테달그랭슈 쪽이 위험하다!
-<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 셀레스토를 도와줘!"
-93,"TEXT_JOBMCH600_01712_QIB_001_CELESTAUX_BATTLETALK_09","제길…… 너무 많아서 감당할 수 없습니다……!"
-94,"TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_10","역시 '기공사'는 이 정도가 한계로군요."
-95,"TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_11","<Highlight>ObjectParameter(1)</Highlight>, 조심해!
+88,TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_04,"생각보다 용의 졸개가 많군요, 오호호호……."
+89,TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_05,"셀레스토! 테달그랭슈를 봐줘!
+Player Player! 우리 상대는 저 녀석이다!"
+90,TEXT_JOBMCH600_01712_QIB_001_CELESTAUX_BATTLETALK_06,알겠습니다…… 재수 없는 놈이지만 지켜드리지요!
+91,TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_07,내가 '기공사'의 도움을 받게 되다니…….
+92,TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_08,"또 지원군이야!? 이러면 테달그랭슈 쪽이 위험하다!
+Player Player 셀레스토를 도와줘!"
+93,TEXT_JOBMCH600_01712_QIB_001_CELESTAUX_BATTLETALK_09,제길…… 너무 많아서 감당할 수 없습니다……!
+94,TEXT_JOBMCH600_01712_QIB_001_TEDALGRINCHE_BATTLETALK_10,역시 '기공사'는 이 정도가 한계로군요.
+95,TEXT_JOBMCH600_01712_QIB_001_STEPHANIVIEN_BATTLETALK_11,"Player Player, 조심해!
 ……적의 움직임이 수상하다."
-96,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_070","<Sheet(BNpcName,4224,0)/>……!
+96,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_070,"……!
 혐의를 벗으려면 저놈을 쓰러뜨려야 한다……."
-97,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_071","'하늘강철 기공방'의 책임자로서 모두에게 명한다!
+97,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_071,"'하늘강철 기공방'의 책임자로서 모두에게 명한다!
 ……반드시 살아남아라!"
-98,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_072","테달그랭슈 일행을 지켜라!"
-99,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_073","……왜 우리를 지키는 거죠?
+98,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_072,테달그랭슈 일행을 지켜라!
+99,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_073,"……왜 우리를 지키는 거죠?
 제가 죽으면 '기공사'의 앞길을 막는 장애물도
 사라지는 것이나 마찬가지일 텐데……."
-100,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_074","그래, 네놈 때문에 우리가 얼마나 고생했는지 알긴 아는구나!?
+100,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_074,"그래, 네놈 때문에 우리가 얼마나 고생했는지 알긴 아는구나!?
 확 기공의자에 묶어서 전기 찜질을 해주고 싶을 정도다!
 하지만……!"
-101,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_075","'기공사'는 용을 무찌르는 창이자 성도를 지키는 방패다!
+101,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_075,"'기공사'는 용을 무찌르는 창이자 성도를 지키는 방패다!
 성도의 백성이라면 누구든지 지켜내겠어!!"
-102,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_076","정말 어리석고 물러 터진 인간이로군요.
+102,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_076,"정말 어리석고 물러 터진 인간이로군요.
 평민들과 어울린 탓에 이상해진 것 아닙니까?
 하지만…… 그 맹세는 기사의 그것과 완전히 똑같군요."
-103,"TEXT_JOBMCH600_01712_JOYE_000_077","이 인간이 왜 이렇게 말이 많아!
+103,TEXT_JOBMCH600_01712_JOYE_000_077,"이 인간이 왜 이렇게 말이 많아!
 그 입 닥치지 않으면 혓바닥에 구멍 뚫어버린다!!"
-104,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_078","총을 든 조이는 한다면 하는 여자니까 조심하라고.
+104,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_078,"총을 든 조이는 한다면 하는 여자니까 조심하라고.
 부상자는 얌전히 보호나 받아!"
-105,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_079","지금까지는 멀리서만 구경했지만
+105,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_079,"지금까지는 멀리서만 구경했지만
 오늘은 여기서 '기공사'의 실력을 똑똑히 지켜보겠습니다."
-106,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_080","……말하지 말라고 했지!
+106,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_080,"……말하지 말라고 했지!
 뭐 하여튼, 다들 잘 들어!
 우리 앞을 가로막는 놈들은 남김없이 쏴 버려!"
-107,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_090","해냈다……!
-<Sheet(BNpcName,4224,0)/><13>FF1302280FFF09424E70634E616D65F210800103FF04EBA5BCFF04EC9D84</13> 쓰러뜨렸어……!"
-108,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_091","하마터면 큰일 날 뻔했군요…… 목숨을 구해주셔서 감사합니다.
+107,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_090,"해냈다……!
+ 쓰러뜨렸어……!"
+108,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_091,"하마터면 큰일 날 뻔했군요…… 목숨을 구해주셔서 감사합니다.
 내란예비죄로 고발한 건도 취하하겠다고 약속드리지요."
-109,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_092","그리고 이번 일에 대한 사례를 하고 싶습니다.
+109,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_092,"그리고 이번 일에 대한 사례를 하고 싶습니다.
 원하는 게 있으면 무엇이든 말씀하십시오."
-110,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_093","너 이 자식……!
+110,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_093,"너 이 자식……!
 고작 말 한마디로 지금까지 한 짓이 용서가 될 줄 아냐!?"
-111,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_094","진정해, 사범. 내가 원하는 건 딱 하나다…….
+111,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_094,"진정해, 사범. 내가 원하는 건 딱 하나다…….
 '하늘강철 기공방'과 '기공사'의 존재를 인정하고
 앞으로 우리 활동을 방해하지 않겠다고 맹세해."
-112,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_095","겨우 그게 전부입니까……?
+112,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_095,"겨우 그게 전부입니까……?
 역시 평민과 어울리는 분의 생각은 이해할 수 없군요."
-113,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_096","……좋습니다. 당신이 원하는 대로 하지요.
+113,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_096,"……좋습니다. 당신이 원하는 대로 하지요.
 그리고 '기공사'를 활용할 방안에 대해서도 검토하겠습니다."
-114,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_097","우리가 제 실력을 발휘하려면 탄탄한 전방 부대가 필요하다.
+114,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_097,"우리가 제 실력을 발휘하려면 탄탄한 전방 부대가 필요하다.
 기사도 기사 나름대로 활약할 방법이 있을 거야."
-115,"TEXT_JOBMCH600_01712_TEDALGRINCHE_000_098","물론이지요. 앞으로도 기사는 전장의 꽃으로 활약할 겁니다.
+115,TEXT_JOBMCH600_01712_TEDALGRINCHE_000_098,"물론이지요. 앞으로도 기사는 전장의 꽃으로 활약할 겁니다.
 그럼 성도의 행복과 번영을 위해 '기공사'의 활약에도 기대하죠.
 저는 이만 실례하겠습니다. 오호호호……."
-116,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_099","……끝났군.
+116,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_099,"……끝났군.
 공방장…… 이번 전투에 참가할 수 있게 해줘서 고맙다.
 덕분에 다시 고개를 들고 나아갈 수 있을 것 같아……."
-117,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_100","조이…… 실력이 많이 늘었구나.
+117,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_100,"조이…… 실력이 많이 늘었구나.
 앞으로는 네가 '기공사'들을 지도해라."
-118,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_101","<Highlight>ObjectParameter(1)</Highlight>, 넌 앞으로도 자유롭게 총을 쏴라!
+118,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_101,"Player Player, 넌 앞으로도 자유롭게 총을 쏴라!
 많은 사람이 그 모습을 보고 힘을 얻을 것이다.
 내가 공방 사람들을 보고 그랬듯이 말이야."
-119,"TEXT_JOBMCH600_01712_JOYE_000_102","……떠나시는 건가요?"
-120,"TEXT_JOBMCH600_01712_ROSTNSTHAL_000_103","그래. 성격상 한곳에 눌러앉아 있는 것도 좀이 쑤시거든.
+119,TEXT_JOBMCH600_01712_JOYE_000_102,……떠나시는 건가요?
+120,TEXT_JOBMCH600_01712_ROSTNSTHAL_000_103,"그래. 성격상 한곳에 눌러앉아 있는 것도 좀이 쑤시거든.
 공방은 분위기가 편해서 생각보다 오래 있었지만 말이야.
 앞으로도 어딘가에서 너희를 응원하겠다…… 그럼 건강해라."
-121,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_104","작전 종료다.
+121,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_104,"작전 종료다.
 우리도 '하늘강철 기공방'으로 돌아가자!"
-122,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_110","<Highlight>ObjectParameter(1)</Highlight>.
+122,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_110,"Player Player.
 다시 한번 감사하다는 말을 전하고 싶어.
 네가 이 공방과 '기공사'의 미래를 열어준 거나 마찬가지니까."
-123,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_111","사범도 떠났으니, 이제 공방에서 너보다 뛰어난 인재는 없어.
+123,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_111,"사범도 떠났으니, 이제 공방에서 너보다 뛰어난 인재는 없어.
 너도 공방을 졸업하고, 성도에서 익힌 기공 기술로
 온 에오르제아에 '기공사'의 이름을 널리 떨쳐주길 바라."
-124,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_112","물론 공방에는 언제든지 놀러 와도 상관없어.
+124,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_112,"물론 공방에는 언제든지 놀러 와도 상관없어.
 우리는 용을 무찌르는 창이자 성도를 지키는 방패가 되기 위해
 이곳에서 계속 단련할 테니까."
-125,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_113","참, 총술 수련에 더욱 힘쓰라며
+125,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_113,"참, 총술 수련에 더욱 힘쓰라며
 사범님이 너에게 이 말을 전해달라더군.
 그 힘으로 널 가로막는 장애물을 꿰뚫어 버려!"
-126,"TEXT_JOBMCH600_01712_SYSTEM_000_500","'기공사'의 이야기가 일단락되었습니다!
+126,TEXT_JOBMCH600_01712_SYSTEM_000_500,"'기공사'의 이야기가 일단락되었습니다!
 다음 '기공사'의 잡 퀘스트를 시작하기 위해서는
 다음 조건을 충족시켜야 합니다."
-127,"TEXT_JOBMCH600_01712_SYSTEM_000_501","'주요 퀘스트: 용시전쟁 전후편' 중 '숙명의 끝'을 완료할 것."
-128,"TEXT_JOBMCH600_01712_SYSTEM_000_502","조건을 충족시킨 후 하늘강철 기공방의
+127,TEXT_JOBMCH600_01712_SYSTEM_000_501,'주요 퀘스트: 용시전쟁 전후편' 중 '숙명의 끝'을 완료할 것.
+128,TEXT_JOBMCH600_01712_SYSTEM_000_502,"조건을 충족시킨 후 하늘강철 기공방의
 '스테파니비앙'에게 말을 걸어
 새로운 잡 퀘스트를 시작해보세요!"
-129,"TEXT_JOBMCH600_01712_STEPHANIVIEN_000_098","（★未使用／削除予定★）"
+129,TEXT_JOBMCH600_01712_STEPHANIVIEN_000_098,（★未使用／削除予定★）

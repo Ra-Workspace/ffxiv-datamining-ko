@@ -1,84 +1,82 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_001","무기, 식량, 상처 치료제, 갈아입을 옷……
+#,Unknown0,Unknown1
+0,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_001,"무기, 식량, 상처 치료제, 갈아입을 옷……
 조달해야 할 물건이 산더미처럼 많네."
-1,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_100_001","아, <Highlight>ObjectParameter(1)</Highlight> 씨, 안 그래도 마침
+1,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_100_001,"아, Player Player 씨, 안 그래도 마침
 리빙 메모리의 정보를 정리하던 참이야.
 당신이 볼일을 마쳤을 때쯤에는 얘기해 줄 수 있을 것 같아."
-2,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_002","오블리비언의 멤버 몇 명이 함께
+2,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_002,"오블리비언의 멤버 몇 명이 함께
 리빙 메모리를 계속 조사 중이야.
 경계가 필요한 대상을 골라 뒀는데 필요하다면 공유해 줄게."
-3,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_Q1_000_000","무엇을 물어보시겠습니까?"
-4,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_001","B급: 보석 도둑 '반짝이도둑'"
-5,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_002","B급: 덮어서 감추는 자 '열셋째 아이'"
-6,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_003","A급: 청소 인형 '청소부 샐리'"
-7,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_004","A급: 고양이 눈의 검은 덩어리 '캣츠아이'"
-8,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_005","S급: 날씨 예언기 '기상예보기'"
-9,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_006","S급: 수정 생명체 '크리스탈라이저 군주'"
-10,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_007","취소"
-11,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_010","우리는 리빙 메모리에 있는 기계병을 원격으로 조작해서
+3,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_Q1_000_000,무엇을 물어보시겠습니까?
+4,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_001,B급: 보석 도둑 '반짝이도둑'
+5,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_002,B급: 덮어서 감추는 자 '열셋째 아이'
+6,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_003,A급: 청소 인형 '청소부 샐리'
+7,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_004,A급: 고양이 눈의 검은 덩어리 '캣츠아이'
+8,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_005,S급: 날씨 예언기 '기상예보기'
+9,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_006,S급: 수정 생명체 '크리스탈라이저 군주'
+10,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_A1_000_007,취소
+11,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_010,"우리는 리빙 메모리에 있는 기계병을 원격으로 조작해서
 현지 조사를 진행 중이야.
 이게 결코 쉬운 일은 아니거든."
-12,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_011","그런데…… 고생해서 해킹한 기계병을
+12,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_011,"그런데…… 고생해서 해킹한 기계병을
 노리는 마물이 있단 말이지.
 그 우두머리가 반짝이도둑이라는 이름의 개체야."
-13,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_012","반짝반짝 빛나는 물건을 좋아하는데
+13,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_012,"반짝반짝 빛나는 물건을 좋아하는데
 심할 때는 기계병의 머리를 뽑아서 가져가 버린다니까?
 조사에 방해되니까 발견하는 즉시 묵사발을 만들어 버려!"
-14,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_020","예스터랜드를 펄럭펄럭 날아다니는
+14,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_020,"예스터랜드를 펄럭펄럭 날아다니는
 담요 유령 같은 마물을 본 적이 있어?
 그중에서도 특히 주의해야 할 개체가 있거든."
-15,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_021","다른 개체와 다르게 예스터랜드 밖에도 나타나서
+15,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_021,"다른 개체와 다르게 예스터랜드 밖에도 나타나서
 동식물을 뒤덮더니…… 흔적도 없이 사라지는 거 있지?
 목적이 뭔지 전혀 모르겠지만 말이야."
-16,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_022","참고로 '열셋째 아이'라는 이름은
+16,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_022,"참고로 '열셋째 아이'라는 이름은
 알렉산드리아에 전해 내려오는 유령 이야기에서 따 왔어.
 그 내용은…… 무서울 테니까 말하지 않을게."
-17,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_030","겉으로 보기에는 예쁜 인형……이지만
+17,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_030,"겉으로 보기에는 예쁜 인형……이지만
 뭔가 정체를 알 수 없는 공포가 느껴지는 아이지."
-18,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_031","자꾸 '청소'라는 말을 하는 걸 보면
+18,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_031,"자꾸 '청소'라는 말을 하는 걸 보면
 아마 리빙 메모리의 청소부 같은 존재일 거야.
 그런데 손에는 빗자루가 아니라 커다란 낫을 쥐고 있어……."
-19,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_032","시험 삼아 기계병을 접근시켜 봤더니
+19,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_032,"시험 삼아 기계병을 접근시켜 봤더니
 갑자기 통신이 끊어졌는데…… 아무래도 파괴당한 것 같아.
 당신도 존재 자체를 '청소'당하지 않도록 조심해."
-20,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_040","이 마물을 한마디로 표현하자면 '날아다니는 눈알'이야.
+20,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_040,"이 마물을 한마디로 표현하자면 '날아다니는 눈알'이야.
 심지어 무수히 우글대는 촉수로 뒤덮인
 징그러운 '고양이의 눈' 말이야."
-21,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_041","게다가 기계병을 접근시켜 봤더니
+21,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_041,"게다가 기계병을 접근시켜 봤더니
 목을 가르릉 울리는 듯한 소리를 내며 쫓아왔어.
 정말 그야말로 악몽이야……!"
-22,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_042","발견했을 때 기계병을 조작 중이던 노스탤지어는
+22,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_042,"발견했을 때 기계병을 조작 중이던 노스탤지어는
 '고양이는 죽을 때 주인의 불행을 갖고 떠난다'는 일화가
 생각났다던데……."
-23,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_043","그게 맞다면 이건 고양이가 가져간 불행이 몰락한 모습일지도 몰라.
+23,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_043,"그게 맞다면 이건 고양이가 가져간 불행이 몰락한 모습일지도 몰라.
 인간의 기억이 만들어 낸 존재라면
 아주 어불성설은 아닐 것 같은데……?"
-24,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_050","중앙 시스템에서 얻은 정보에 따르면
+24,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_050,"중앙 시스템에서 얻은 정보에 따르면
 리빙 메모리에는 기상예보기라는
 자율형 기계가 갖춰져 있는 모양이야."
-25,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_051","그런데 날씨를 알려 주지는 않아.
+25,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_051,"그런데 날씨를 알려 주지는 않아.
 실제로는 주위의 환경 에테르에 간섭해서
 날씨를 제어하는 기계인 것 같아."
-26,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_052","문제는 그 녀석이 거의 망가진 상태라
+26,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_052,"문제는 그 녀석이 거의 망가진 상태라
 이대로 내버려 두면 천재지변이 일어날지도 모른다는 거야.
 시설의 안전을 확보하기 위해서도 빨리 파괴해야 해."
-27,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_053","정보에 따르면 환경 에테르의 변화에 민감하다고 하니
+27,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_053,"정보에 따르면 환경 에테르의 변화에 민감하다고 하니
 모종의 수단으로 국소적인 이상을 만들어 내면 유인할 수
 있을지도 몰라. 구체적인 방법까지는 아직 모르겠지만."
-28,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_054","멀리 떨어진 지역이지만
+28,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_054,"멀리 떨어진 지역이지만
 놀라울 정도로 비슷한 내용의 전설이 전해 내려오기도 하지.
 우연인지 필연인지는 모르겠지만 말이야."
-29,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_055","30년 전에 갑자기 나타난, 나피퀘 씨를 비롯한 '투랄 대륙의 주민'은
+29,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_055,"30년 전에 갑자기 나타난, 나피퀘 씨를 비롯한 '투랄 대륙의 주민'은
 우리 알렉산드리아인과는 완전히 다른 문화를 갖고 있었거든.
 하지만 양측은 비슷한 전설을 알고 있었어."
-30,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_056","예를 들면 전쟁터에 나타나는
+30,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_056,"예를 들면 전쟁터에 나타나는
 결정 괴물을 둘러싼 전설이 바로 그중 하나야.
 마력이나 생명력을 먹어 치우는 아름답고도 무서운 존재 말이야."
-31,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_057","특히 강대한 존재와 싸우는 곳에서는
+31,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_057,"특히 강대한 존재와 싸우는 곳에서는
 많은 마법이 사용되고 마력과 생명력이 소멸하기 때문에
 더욱 강한 괴물이 나타난다고 해."
-32,"TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_058","만약 거물을 사냥한 직후에, 주위에 결정 괴물이 나타난다면……
+32,TEXT_CTSHNT70RISKYMOBLIVINGMEMORY_00903_RINURI_000_058,"만약 거물을 사냥한 직후에, 주위에 결정 괴물이 나타난다면……
 그건 결정들의 '왕'이 등장한다는 징후일지도 몰라.
 조심하도록 해."

@@ -1,100 +1,98 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANLOP115_04701_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANLOP115_04701_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 희망찬 화물실에 있는 매니징웨이는 쿠킹웨이를 도와주었으면 하는 듯하다."
-1,"TEXT_BANLOP115_04701_SEQ_01","희망찬 화물실에 있는 키핑웨이와 대화"
-2,"TEXT_BANLOP115_04701_SEQ_02","매니징웨이에게 의뢰받은 물품 납품"
-3,"TEXT_BANLOP115_04701_SEQ_03",""
-4,"TEXT_BANLOP115_04701_SEQ_04",""
-5,"TEXT_BANLOP115_04701_SEQ_05",""
-6,"TEXT_BANLOP115_04701_SEQ_06",""
-7,"TEXT_BANLOP115_04701_SEQ_07",""
-8,"TEXT_BANLOP115_04701_SEQ_08",""
-9,"TEXT_BANLOP115_04701_SEQ_09",""
-10,"TEXT_BANLOP115_04701_SEQ_10",""
-11,"TEXT_BANLOP115_04701_SEQ_11",""
-12,"TEXT_BANLOP115_04701_SEQ_12",""
-13,"TEXT_BANLOP115_04701_SEQ_13",""
-14,"TEXT_BANLOP115_04701_SEQ_14",""
-15,"TEXT_BANLOP115_04701_SEQ_15",""
-16,"TEXT_BANLOP115_04701_SEQ_16",""
-17,"TEXT_BANLOP115_04701_SEQ_17",""
-18,"TEXT_BANLOP115_04701_SEQ_18",""
-19,"TEXT_BANLOP115_04701_SEQ_19",""
-20,"TEXT_BANLOP115_04701_SEQ_20",""
-21,"TEXT_BANLOP115_04701_SEQ_21",""
-22,"TEXT_BANLOP115_04701_SEQ_22",""
-23,"TEXT_BANLOP115_04701_SEQ_23",""
-24,"TEXT_BANLOP115_04701_TODO_00","키핑웨이와 대화"
-25,"TEXT_BANLOP115_04701_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANLOP115_04701_TODO_02",""
-27,"TEXT_BANLOP115_04701_TODO_03",""
-28,"TEXT_BANLOP115_04701_TODO_04",""
-29,"TEXT_BANLOP115_04701_TODO_05",""
-30,"TEXT_BANLOP115_04701_TODO_06",""
-31,"TEXT_BANLOP115_04701_TODO_07",""
-32,"TEXT_BANLOP115_04701_TODO_08",""
-33,"TEXT_BANLOP115_04701_TODO_09",""
-34,"TEXT_BANLOP115_04701_TODO_10",""
-35,"TEXT_BANLOP115_04701_TODO_11",""
-36,"TEXT_BANLOP115_04701_TODO_12",""
-37,"TEXT_BANLOP115_04701_TODO_13",""
-38,"TEXT_BANLOP115_04701_TODO_14",""
-39,"TEXT_BANLOP115_04701_TODO_15",""
-40,"TEXT_BANLOP115_04701_TODO_16",""
-41,"TEXT_BANLOP115_04701_TODO_17",""
-42,"TEXT_BANLOP115_04701_TODO_18",""
-43,"TEXT_BANLOP115_04701_TODO_19",""
-44,"TEXT_BANLOP115_04701_TODO_20",""
-45,"TEXT_BANLOP115_04701_TODO_21",""
-46,"TEXT_BANLOP115_04701_TODO_22",""
-47,"TEXT_BANLOP115_04701_TODO_23",""
-48,"TEXT_BANLOP115_04701_MANAGINGWAY_000_001","<Highlight>ObjectParameter(1)</Highlight> 님,
+1,TEXT_BANLOP115_04701_SEQ_01,희망찬 화물실에 있는 키핑웨이와 대화
+2,TEXT_BANLOP115_04701_SEQ_02,매니징웨이에게 의뢰받은 물품 납품
+3,TEXT_BANLOP115_04701_SEQ_03,
+4,TEXT_BANLOP115_04701_SEQ_04,
+5,TEXT_BANLOP115_04701_SEQ_05,
+6,TEXT_BANLOP115_04701_SEQ_06,
+7,TEXT_BANLOP115_04701_SEQ_07,
+8,TEXT_BANLOP115_04701_SEQ_08,
+9,TEXT_BANLOP115_04701_SEQ_09,
+10,TEXT_BANLOP115_04701_SEQ_10,
+11,TEXT_BANLOP115_04701_SEQ_11,
+12,TEXT_BANLOP115_04701_SEQ_12,
+13,TEXT_BANLOP115_04701_SEQ_13,
+14,TEXT_BANLOP115_04701_SEQ_14,
+15,TEXT_BANLOP115_04701_SEQ_15,
+16,TEXT_BANLOP115_04701_SEQ_16,
+17,TEXT_BANLOP115_04701_SEQ_17,
+18,TEXT_BANLOP115_04701_SEQ_18,
+19,TEXT_BANLOP115_04701_SEQ_19,
+20,TEXT_BANLOP115_04701_SEQ_20,
+21,TEXT_BANLOP115_04701_SEQ_21,
+22,TEXT_BANLOP115_04701_SEQ_22,
+23,TEXT_BANLOP115_04701_SEQ_23,
+24,TEXT_BANLOP115_04701_TODO_00,키핑웨이와 대화
+25,TEXT_BANLOP115_04701_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANLOP115_04701_TODO_02,
+27,TEXT_BANLOP115_04701_TODO_03,
+28,TEXT_BANLOP115_04701_TODO_04,
+29,TEXT_BANLOP115_04701_TODO_05,
+30,TEXT_BANLOP115_04701_TODO_06,
+31,TEXT_BANLOP115_04701_TODO_07,
+32,TEXT_BANLOP115_04701_TODO_08,
+33,TEXT_BANLOP115_04701_TODO_09,
+34,TEXT_BANLOP115_04701_TODO_10,
+35,TEXT_BANLOP115_04701_TODO_11,
+36,TEXT_BANLOP115_04701_TODO_12,
+37,TEXT_BANLOP115_04701_TODO_13,
+38,TEXT_BANLOP115_04701_TODO_14,
+39,TEXT_BANLOP115_04701_TODO_15,
+40,TEXT_BANLOP115_04701_TODO_16,
+41,TEXT_BANLOP115_04701_TODO_17,
+42,TEXT_BANLOP115_04701_TODO_18,
+43,TEXT_BANLOP115_04701_TODO_19,
+44,TEXT_BANLOP115_04701_TODO_20,
+45,TEXT_BANLOP115_04701_TODO_21,
+46,TEXT_BANLOP115_04701_TODO_22,
+47,TEXT_BANLOP115_04701_TODO_23,
+48,TEXT_BANLOP115_04701_MANAGINGWAY_000_001,"Player Player 님,
 느닷없이 부탁을 드려서 죄송한데요,
 인쇄 도구의 추가 생산에 힘을 빌려주실 수 있을까요?"
-49,"TEXT_BANLOP115_04701_MANAGINGWAY_000_002","요리 체험관의 영향 때문인지
+49,TEXT_BANLOP115_04701_MANAGINGWAY_000_002,"요리 체험관의 영향 때문인지
 최근 요리에 관심을 갖는 동료가 급격하게 늘어서……
 쿠킹퀘이가 입문서를 만들었거든요!"
-50,"TEXT_BANLOP115_04701_MANAGINGWAY_000_003","（★未使用／削除予定★）"
-51,"TEXT_BANLOP115_04701_MANAGINGWAY_000_004","그런데 너무 인기가 많아서 인쇄하자마자 품절이 됐어요.
+50,TEXT_BANLOP115_04701_MANAGINGWAY_000_003,（★未使用／削除予定★）
+51,TEXT_BANLOP115_04701_MANAGINGWAY_000_004,"그런데 너무 인기가 많아서 인쇄하자마자 품절이 됐어요.
 증쇄를 하려고 해도 지금은 인쇄 도구가 부족한 상황이고요."
-52,"TEXT_BANLOP115_04701_MANAGINGWAY_000_005","<Highlight>ObjectParameter(1)</Highlight> 님, 실례되는 부탁인 줄은 알지만,
+52,TEXT_BANLOP115_04701_MANAGINGWAY_000_005,"Player Player 님, 실례되는 부탁인 줄은 알지만,
 또 힘을 빌려주시면 안 될까요?"
-53,"TEXT_BANLOP115_04701_MANAGINGWAY_000_006","쿠킹웨이가 만든 요리 입문서 말인데요, 여전히 인기가 많아서
+53,TEXT_BANLOP115_04701_MANAGINGWAY_000_006,"쿠킹웨이가 만든 요리 입문서 말인데요, 여전히 인기가 많아서
 증쇄를 위해 인쇄 도구를 보충하고 싶어요."
-54,"TEXT_BANLOP115_04701_MANAGINGWAY_000_007","그래서 말인데요, <Highlight>ObjectParameter(1)</Highlight> 님께서
+54,TEXT_BANLOP115_04701_MANAGINGWAY_000_007,"그래서 말인데요, Player Player 님께서
 바로 저기 있는 '키핑웨이'에게 재료를 받아
 제작을 해주셨으면 해요…… 잘 부탁드립니다."
-55,"TEXT_BANLOP115_04701_KEEPINGWAY_000_010","인쇄 도구 건으로 오셨죠?
+55,TEXT_BANLOP115_04701_KEEPINGWAY_000_010,"인쇄 도구 건으로 오셨죠?
 이야기는 들었습니다~"
-56,"TEXT_BANLOP115_04701_KEEPINGWAY_000_011","그럼 당장 이 재료로 '<Sheet(Item,38873,0)/>'인,
+56,TEXT_BANLOP115_04701_KEEPINGWAY_000_011,"그럼 당장 이 재료로 ''인,
 특제 활자판을 만들어 주세요!
 만약 재료가 떨어지면 체험 도우미에게 받을 수 있습니다."
-57,"TEXT_BANLOP115_04701_KEEPINGWAY_000_012","그럼 당장 이 재료로 '<Sheet(Item,38873,0)/>'인,
+57,TEXT_BANLOP115_04701_KEEPINGWAY_000_012,"그럼 당장 이 재료로 ''인,
 특제 용지를 만들어 주세요!
 만약 재료가 떨어지면 체험 도우미에게 받을 수 있습니다."
-58,"TEXT_BANLOP115_04701_KEEPINGWAY_000_013","그럼 당장 이 재료로 '<Sheet(Item,38873,0)/>'인,
+58,TEXT_BANLOP115_04701_KEEPINGWAY_000_013,"그럼 당장 이 재료로 ''인,
 특제 잉크를 만들어 주세요!
 만약 재료가 떨어지면 체험 도우미에게 받을 수 있습니다."
-59,"TEXT_BANLOP115_04701_KEEPINGWAY_000_014","완성하면 '매니징웨이'에게 전달해 주세요.
+59,TEXT_BANLOP115_04701_KEEPINGWAY_000_014,"완성하면 '매니징웨이'에게 전달해 주세요.
 그럼 잘 부탁드려요!"
-60,"TEXT_BANLOP115_04701_SUPPORTER4701_000_015","재료를 보충하시겠습니까?
+60,TEXT_BANLOP115_04701_SUPPORTER4701_000_015,"재료를 보충하시겠습니까?
 오류…… 지금은 필요 없어 보이는군요."
-61,"TEXT_BANLOP115_04701_SUPPORTER4701_000_016","재료를 보충하시겠습니까?
+61,TEXT_BANLOP115_04701_SUPPORTER4701_000_016,"재료를 보충하시겠습니까?
 오류…… 지금은 필요 없어 보이는군요."
-62,"TEXT_BANLOP115_04701_SUPPORTER4701_000_017","재료를 보충하시겠습니까?
+62,TEXT_BANLOP115_04701_SUPPORTER4701_000_017,"재료를 보충하시겠습니까?
 오류…… 지금은 필요 없어 보이는군요."
-63,"TEXT_BANLOP115_04701_SUPPORTER4701_000_018","재료를 보충하시겠습니까?
+63,TEXT_BANLOP115_04701_SUPPORTER4701_000_018,"재료를 보충하시겠습니까?
 자, 가져가시기 바랍니다."
-64,"TEXT_BANLOP115_04701_SUPPORTER4701_000_019","재료를 보충하시겠습니까?
+64,TEXT_BANLOP115_04701_SUPPORTER4701_000_019,"재료를 보충하시겠습니까?
 자, 가져가시기 바랍니다."
-65,"TEXT_BANLOP115_04701_SUPPORTER4701_000_020","재료를 보충하시겠습니까?
+65,TEXT_BANLOP115_04701_SUPPORTER4701_000_020,"재료를 보충하시겠습니까?
 자, 가져가시기 바랍니다."
-66,"TEXT_BANLOP115_04701_MANAGINGWAY_000_021","<Highlight>ObjectParameter(1)</Highlight> 님, 오셨군요.
+66,TEXT_BANLOP115_04701_MANAGINGWAY_000_021,"Player Player 님, 오셨군요.
 인쇄 도구 건은 어떻게 되었나요?"
-67,"TEXT_BANLOP115_04701_MANAGINGWAY_000_022","정말 멋진 물건이군요…… 당장 증쇄를 시작하겠습니다!
+67,TEXT_BANLOP115_04701_MANAGINGWAY_000_022,"정말 멋진 물건이군요…… 당장 증쇄를 시작하겠습니다!
 요리를 꿈꾸는 레포릿들에게 빨리 입문서를 주고 싶으니까요.
 협력해 주셔서 감사합니다."

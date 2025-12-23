@@ -1,83 +1,81 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_HEAVNA333_01634_SEQ_00","신전기사단 본부의 에스티니앙은 결전의 땅으로 출발하고 싶은 듯하다."
-1,"TEXT_HEAVNA333_01634_SEQ_01","에스티니앙과 대화했다. 이슈가르드 '하늘강철 기공방' 부근에 있는 '시드'와 대화하자."
-2,"TEXT_HEAVNA333_01634_SEQ_02","시드에게 마나커터를 받았다. 이제 니드호그가 있는 용의 둥지로 진입할 수 있게 되었다. '용의 둥지'를 공략하자.
+#,Unknown0,Unknown1
+0,TEXT_HEAVNA333_01634_SEQ_00,신전기사단 본부의 에스티니앙은 결전의 땅으로 출발하고 싶은 듯하다.
+1,TEXT_HEAVNA333_01634_SEQ_01,에스티니앙과 대화했다. 이슈가르드 '하늘강철 기공방' 부근에 있는 '시드'와 대화하자.
+2,TEXT_HEAVNA333_01634_SEQ_02,"시드에게 마나커터를 받았다. 이제 니드호그가 있는 용의 둥지로 진입할 수 있게 되었다. '용의 둥지'를 공략하자.
 
 ※ 진입 지점을 조사해 '지원 NPC와 입장'하거나 주 메뉴의 '임무 지원'을 선택하면 지원 NPC와 함께 공략할 수 있습니다.
 ※ 플레이어끼리 파티를 맺어 공략할 경우에는 '임무 찾기'를 통해 공략에 참가하십시오."
-3,"TEXT_HEAVNA333_01634_SEQ_03","용의 둥지를 공략하여 니드호그를 쓰러뜨렸다. 드라바니아 구름바다 '스도엔'로 돌아가자."
-4,"TEXT_HEAVNA333_01634_SEQ_04","에스티니앙의 일격에 니드호그는 나머지 한쪽 눈을 잃고 구름바다로 떨어졌다. 이를 계기로 번개속성 빛의 크리스탈이 광채를 되찾았고, 동시에 '초월하는 힘'으로 천 년 전 니드호그가 토벌당한 날의 광경을 보았다. 그 결과 에스티니앙이 빼앗은 눈에 관해 의문이 생겼다. 스도엔에 있는 '에스티니앙'과 대화하자."
-5,"TEXT_HEAVNA333_01634_SEQ_05","에스티니앙과 대화했다. 니드호그는 쓰러뜨렸지만, 새로운 의문 때문에 여전히 그의 마음은 개운치 않은 듯하다. 진실을 확인하기 위해 흐레스벨그를 만나야 할 것 같다……."
-6,"TEXT_HEAVNA333_01634_SEQ_06",""
-7,"TEXT_HEAVNA333_01634_SEQ_07",""
-8,"TEXT_HEAVNA333_01634_SEQ_08",""
-9,"TEXT_HEAVNA333_01634_SEQ_09",""
-10,"TEXT_HEAVNA333_01634_SEQ_10",""
-11,"TEXT_HEAVNA333_01634_SEQ_11",""
-12,"TEXT_HEAVNA333_01634_SEQ_12",""
-13,"TEXT_HEAVNA333_01634_SEQ_13",""
-14,"TEXT_HEAVNA333_01634_SEQ_14",""
-15,"TEXT_HEAVNA333_01634_SEQ_15",""
-16,"TEXT_HEAVNA333_01634_SEQ_16",""
-17,"TEXT_HEAVNA333_01634_SEQ_17",""
-18,"TEXT_HEAVNA333_01634_SEQ_18",""
-19,"TEXT_HEAVNA333_01634_SEQ_19",""
-20,"TEXT_HEAVNA333_01634_SEQ_20",""
-21,"TEXT_HEAVNA333_01634_SEQ_21",""
-22,"TEXT_HEAVNA333_01634_SEQ_22",""
-23,"TEXT_HEAVNA333_01634_SEQ_23",""
-24,"TEXT_HEAVNA333_01634_TODO_00","시드와 대화"
-25,"TEXT_HEAVNA333_01634_TODO_01","'용의 둥지' 공략"
-26,"TEXT_HEAVNA333_01634_TODO_02","'용의 둥지' 공략"
-27,"TEXT_HEAVNA333_01634_TODO_03","에스티니앙과 대화"
-28,"TEXT_HEAVNA333_01634_TODO_04",""
-29,"TEXT_HEAVNA333_01634_TODO_05",""
-30,"TEXT_HEAVNA333_01634_TODO_06",""
-31,"TEXT_HEAVNA333_01634_TODO_07",""
-32,"TEXT_HEAVNA333_01634_TODO_08",""
-33,"TEXT_HEAVNA333_01634_TODO_09",""
-34,"TEXT_HEAVNA333_01634_TODO_10",""
-35,"TEXT_HEAVNA333_01634_TODO_11",""
-36,"TEXT_HEAVNA333_01634_TODO_12",""
-37,"TEXT_HEAVNA333_01634_TODO_13",""
-38,"TEXT_HEAVNA333_01634_TODO_14",""
-39,"TEXT_HEAVNA333_01634_TODO_15",""
-40,"TEXT_HEAVNA333_01634_TODO_16",""
-41,"TEXT_HEAVNA333_01634_TODO_17",""
-42,"TEXT_HEAVNA333_01634_TODO_18",""
-43,"TEXT_HEAVNA333_01634_TODO_19",""
-44,"TEXT_HEAVNA333_01634_TODO_20",""
-45,"TEXT_HEAVNA333_01634_TODO_21",""
-46,"TEXT_HEAVNA333_01634_TODO_22",""
-47,"TEXT_HEAVNA333_01634_TODO_23",""
-48,"TEXT_HEAVNA333_01634_ESTINIEN_000_000","자, 이제 가자.
+3,TEXT_HEAVNA333_01634_SEQ_03,용의 둥지를 공략하여 니드호그를 쓰러뜨렸다. 드라바니아 구름바다 '스도엔'로 돌아가자.
+4,TEXT_HEAVNA333_01634_SEQ_04,"에스티니앙의 일격에 니드호그는 나머지 한쪽 눈을 잃고 구름바다로 떨어졌다. 이를 계기로 번개속성 빛의 크리스탈이 광채를 되찾았고, 동시에 '초월하는 힘'으로 천 년 전 니드호그가 토벌당한 날의 광경을 보았다. 그 결과 에스티니앙이 빼앗은 눈에 관해 의문이 생겼다. 스도엔에 있는 '에스티니앙'과 대화하자."
+5,TEXT_HEAVNA333_01634_SEQ_05,"에스티니앙과 대화했다. 니드호그는 쓰러뜨렸지만, 새로운 의문 때문에 여전히 그의 마음은 개운치 않은 듯하다. 진실을 확인하기 위해 흐레스벨그를 만나야 할 것 같다……."
+6,TEXT_HEAVNA333_01634_SEQ_06,
+7,TEXT_HEAVNA333_01634_SEQ_07,
+8,TEXT_HEAVNA333_01634_SEQ_08,
+9,TEXT_HEAVNA333_01634_SEQ_09,
+10,TEXT_HEAVNA333_01634_SEQ_10,
+11,TEXT_HEAVNA333_01634_SEQ_11,
+12,TEXT_HEAVNA333_01634_SEQ_12,
+13,TEXT_HEAVNA333_01634_SEQ_13,
+14,TEXT_HEAVNA333_01634_SEQ_14,
+15,TEXT_HEAVNA333_01634_SEQ_15,
+16,TEXT_HEAVNA333_01634_SEQ_16,
+17,TEXT_HEAVNA333_01634_SEQ_17,
+18,TEXT_HEAVNA333_01634_SEQ_18,
+19,TEXT_HEAVNA333_01634_SEQ_19,
+20,TEXT_HEAVNA333_01634_SEQ_20,
+21,TEXT_HEAVNA333_01634_SEQ_21,
+22,TEXT_HEAVNA333_01634_SEQ_22,
+23,TEXT_HEAVNA333_01634_SEQ_23,
+24,TEXT_HEAVNA333_01634_TODO_00,시드와 대화
+25,TEXT_HEAVNA333_01634_TODO_01,'용의 둥지' 공략
+26,TEXT_HEAVNA333_01634_TODO_02,'용의 둥지' 공략
+27,TEXT_HEAVNA333_01634_TODO_03,에스티니앙과 대화
+28,TEXT_HEAVNA333_01634_TODO_04,
+29,TEXT_HEAVNA333_01634_TODO_05,
+30,TEXT_HEAVNA333_01634_TODO_06,
+31,TEXT_HEAVNA333_01634_TODO_07,
+32,TEXT_HEAVNA333_01634_TODO_08,
+33,TEXT_HEAVNA333_01634_TODO_09,
+34,TEXT_HEAVNA333_01634_TODO_10,
+35,TEXT_HEAVNA333_01634_TODO_11,
+36,TEXT_HEAVNA333_01634_TODO_12,
+37,TEXT_HEAVNA333_01634_TODO_13,
+38,TEXT_HEAVNA333_01634_TODO_14,
+39,TEXT_HEAVNA333_01634_TODO_15,
+40,TEXT_HEAVNA333_01634_TODO_16,
+41,TEXT_HEAVNA333_01634_TODO_17,
+42,TEXT_HEAVNA333_01634_TODO_18,
+43,TEXT_HEAVNA333_01634_TODO_19,
+44,TEXT_HEAVNA333_01634_TODO_20,
+45,TEXT_HEAVNA333_01634_TODO_21,
+46,TEXT_HEAVNA333_01634_TODO_22,
+47,TEXT_HEAVNA333_01634_TODO_23,
+48,TEXT_HEAVNA333_01634_ESTINIEN_000_000,"자, 이제 가자.
 '시드' 일행이 '하늘강철 기공방' 부근에서
 마나커터를 준비하고 있을 거다."
-49,"TEXT_HEAVNA333_01634_BIGGS_000_001","나랑 웨지가 만든 최고의 걸작……!
+49,TEXT_HEAVNA333_01634_BIGGS_000_001,"나랑 웨지가 만든 최고의 걸작……!
 이 마나커터를 네게 맡기겠다!!"
-50,"TEXT_HEAVNA333_01634_WEDGE_000_002","조, 졸려…….
+50,TEXT_HEAVNA333_01634_WEDGE_000_002,"조, 졸려…….
 그래도 최종 점검은 철저하게 했슴다."
-51,"TEXT_HEAVNA333_01634_ESTINIEN_000_003","드디어 시작이군."
-52,"TEXT_HEAVNA333_01634_CID_000_010","어서 와라!
+51,TEXT_HEAVNA333_01634_ESTINIEN_000_003,드디어 시작이군.
+52,TEXT_HEAVNA333_01634_CID_000_010,"어서 와라!
 최종 점검도 다 끝났다."
-53,"TEXT_HEAVNA333_01634_WEDGE_000_011","계속 밤을 새웠더니 정신이 혼미함다…….
+53,TEXT_HEAVNA333_01634_WEDGE_000_011,"계속 밤을 새웠더니 정신이 혼미함다…….
 그래도 왕복하는 데 필요한 출력은 확보했슴다!"
-54,"TEXT_HEAVNA333_01634_BIGGS_000_012","이 녀석만 있으면 폭풍이 아무리 몰아쳐도 돌파할 수 있어.
+54,TEXT_HEAVNA333_01634_BIGGS_000_012,"이 녀석만 있으면 폭풍이 아무리 몰아쳐도 돌파할 수 있어.
 우리의 모든 기술을 쏟아부은 최신형이니까 믿어도 좋다!"
-55,"TEXT_HEAVNA333_01634_CID_000_013","이것이 갈론드 아이언웍스 사의 신제품이다!
+55,TEXT_HEAVNA333_01634_CID_000_013,"이것이 갈론드 아이언웍스 사의 신제품이다!
 자네들에게 선물하지!"
-56,"TEXT_HEAVNA333_01634_ESTINIEN_000_014","감사할 따름이다.
-<Highlight>ObjectParameter(1)</Highlight>, 드디어 시작이군.
+56,TEXT_HEAVNA333_01634_ESTINIEN_000_014,"감사할 따름이다.
+Player Player, 드디어 시작이군.
 가자! 천 년의 시간을 넘어 사룡을 퇴치한다!"
-57,"TEXT_HEAVNA333_01634_ESTINIEN_000_015","<Highlight>ObjectParameter(1)</Highlight>, 드디어 시작이군.
+57,TEXT_HEAVNA333_01634_ESTINIEN_000_015,"Player Player, 드디어 시작이군.
 가자! 천 년의 시간을 넘어 사룡을 퇴치한다!"
-58,"TEXT_HEAVNA333_01634_CID_000_016","꼭 살아서 돌아와라!
+58,TEXT_HEAVNA333_01634_CID_000_016,"꼭 살아서 돌아와라!
 너희만 믿고 기다리겠어!"
-59,"TEXT_HEAVNA333_01634_ESTINIEN_000_020","드디어 놈을 처치했는데도 마음이 개운치 않군…….
+59,TEXT_HEAVNA333_01634_ESTINIEN_000_020,"드디어 놈을 처치했는데도 마음이 개운치 않군…….
 이 위화감의 정체를 확인할 때까지는
 마음 편히 이슈가르드로 돌아갈 수 없겠어."
-60,"TEXT_HEAVNA333_01634_ESTINIEN_000_021","그건 그렇고, 이 갑옷도 문제야…….
+60,TEXT_HEAVNA333_01634_ESTINIEN_000_021,"그건 그렇고, 이 갑옷도 문제야…….
 니드호그의 마력을 살짝 쐬었을 뿐인데도 이렇게 변질됐으니.
 이번 일이 끝나면 새로 맞춰야겠군."

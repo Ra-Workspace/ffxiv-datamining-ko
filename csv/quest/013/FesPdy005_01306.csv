@@ -1,157 +1,155 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_FESPDY005_01306_SEQ_00","※ 본 퀘스트는 기간 한정 퀘스트입니다.
+#,Unknown0,Unknown1
+0,TEXT_FESPDY005_01306_SEQ_00,"※ 본 퀘스트는 기간 한정 퀘스트입니다.
 
 세렌디피티는 모험가에게 다음 홍보 활동을 부탁하고 싶은 듯하다."
-1,"TEXT_FESPDY005_01306_SEQ_01","※ 이 퀘스트는 기간 한정 이벤트 개최 기간에만
+1,TEXT_FESPDY005_01306_SEQ_01,"※ 이 퀘스트는 기간 한정 이벤트 개최 기간에만
      진행하실 수 있습니다.
      개최 기간이 끝나면 진행하실 수 없으니 주의하십시오.
      자세한 이벤트 내용은 공식 홈페이지를 참고하세요.
 
-세렌디피티가 에드비아 공주 인형 홍보를 부탁했다. 꼬마 친구 에드비아 공주를 불러낸 상태에서 림사 로민사에 있는 '분위기 타는 여자'에게 <Sheet(EventItem,2001159,0)/><13>FF15022811FF0A4576656E744974656DF61E89070103FF04EBA5BCFF04EC9D84</13> 사용하자.
+세렌디피티가 에드비아 공주 인형 홍보를 부탁했다. 꼬마 친구 에드비아 공주를 불러낸 상태에서 림사 로민사에 있는 '분위기 타는 여자'에게  사용하자.
 
 ※ 본 퀘스트는 꼬마 친구 '에드비아 공주 인형'을 데리고 다녀야 진행하실 수 있습니다.
    꼬마 친구 공주 인형이 없으면 진행할 수 없습니다.
 ※ 다른 꼬마 친구를 불러내거나 접속을 종료하면 꼬마 친구 공주 인형은 사라집니다.
 ※ 꼬마 친구 공주 인형이 사라진 경우 울다하 '보석공예가 길드'에 있는 '세렌디피티'와 대화하면 다시 데리고 다닐 수 있습니다."
-2,"TEXT_FESPDY005_01306_SEQ_02","림사 로민사에서 에드비아 공주 인형 홍보를 마쳤다. 울다하 '보석공예가 길드'에 있는 '세렌디피티'에게 보고하자."
-3,"TEXT_FESPDY005_01306_SEQ_03","데리고 다니며 홍보한 효과가 있었는지 모험가가 맡은 에드비아 공주 인형이 경진대회 2차 집계에서 1위에 올랐다. 계획대로 우승을 차지하게 되면 에드비아 공주 인형은 고가에 팔릴 것이다. 그런데 이 이야기를 꺼낸 순간 에드비아 공주 인형이 이상한 반응을 보였다."
-4,"TEXT_FESPDY005_01306_SEQ_04",""
-5,"TEXT_FESPDY005_01306_SEQ_05",""
-6,"TEXT_FESPDY005_01306_SEQ_06",""
-7,"TEXT_FESPDY005_01306_SEQ_07",""
-8,"TEXT_FESPDY005_01306_SEQ_08",""
-9,"TEXT_FESPDY005_01306_SEQ_09",""
-10,"TEXT_FESPDY005_01306_SEQ_10",""
-11,"TEXT_FESPDY005_01306_SEQ_11",""
-12,"TEXT_FESPDY005_01306_SEQ_12",""
-13,"TEXT_FESPDY005_01306_SEQ_13",""
-14,"TEXT_FESPDY005_01306_SEQ_14",""
-15,"TEXT_FESPDY005_01306_SEQ_15",""
-16,"TEXT_FESPDY005_01306_SEQ_16",""
-17,"TEXT_FESPDY005_01306_SEQ_17",""
-18,"TEXT_FESPDY005_01306_SEQ_18",""
-19,"TEXT_FESPDY005_01306_SEQ_19",""
-20,"TEXT_FESPDY005_01306_SEQ_20",""
-21,"TEXT_FESPDY005_01306_SEQ_21",""
-22,"TEXT_FESPDY005_01306_SEQ_22",""
-23,"TEXT_FESPDY005_01306_SEQ_23",""
-24,"TEXT_FESPDY005_01306_TODO_00","에드비아 공주를 데리고 림사 로민사에서 분위기 타는 여자에게
- <Sheet(EventItem,2001159,0)/> 사용"
-25,"TEXT_FESPDY005_01306_TODO_01","보석공예가 길드에서 세렌디피티에게 보고"
-26,"TEXT_FESPDY005_01306_TODO_02",""
-27,"TEXT_FESPDY005_01306_TODO_03",""
-28,"TEXT_FESPDY005_01306_TODO_04",""
-29,"TEXT_FESPDY005_01306_TODO_05",""
-30,"TEXT_FESPDY005_01306_TODO_06",""
-31,"TEXT_FESPDY005_01306_TODO_07",""
-32,"TEXT_FESPDY005_01306_TODO_08",""
-33,"TEXT_FESPDY005_01306_TODO_09",""
-34,"TEXT_FESPDY005_01306_TODO_10",""
-35,"TEXT_FESPDY005_01306_TODO_11",""
-36,"TEXT_FESPDY005_01306_TODO_12",""
-37,"TEXT_FESPDY005_01306_TODO_13",""
-38,"TEXT_FESPDY005_01306_TODO_14",""
-39,"TEXT_FESPDY005_01306_TODO_15",""
-40,"TEXT_FESPDY005_01306_TODO_16",""
-41,"TEXT_FESPDY005_01306_TODO_17",""
-42,"TEXT_FESPDY005_01306_TODO_18",""
-43,"TEXT_FESPDY005_01306_TODO_19",""
-44,"TEXT_FESPDY005_01306_TODO_20",""
-45,"TEXT_FESPDY005_01306_TODO_21",""
-46,"TEXT_FESPDY005_01306_TODO_22",""
-47,"TEXT_FESPDY005_01306_TODO_23",""
-48,"TEXT_FESPDY005_01306_SERENDIPITY_000_000","어서 오세요, <Highlight>ObjectParameter(1)</Highlight> 님!
+2,TEXT_FESPDY005_01306_SEQ_02,림사 로민사에서 에드비아 공주 인형 홍보를 마쳤다. 울다하 '보석공예가 길드'에 있는 '세렌디피티'에게 보고하자.
+3,TEXT_FESPDY005_01306_SEQ_03,데리고 다니며 홍보한 효과가 있었는지 모험가가 맡은 에드비아 공주 인형이 경진대회 2차 집계에서 1위에 올랐다. 계획대로 우승을 차지하게 되면 에드비아 공주 인형은 고가에 팔릴 것이다. 그런데 이 이야기를 꺼낸 순간 에드비아 공주 인형이 이상한 반응을 보였다.
+4,TEXT_FESPDY005_01306_SEQ_04,
+5,TEXT_FESPDY005_01306_SEQ_05,
+6,TEXT_FESPDY005_01306_SEQ_06,
+7,TEXT_FESPDY005_01306_SEQ_07,
+8,TEXT_FESPDY005_01306_SEQ_08,
+9,TEXT_FESPDY005_01306_SEQ_09,
+10,TEXT_FESPDY005_01306_SEQ_10,
+11,TEXT_FESPDY005_01306_SEQ_11,
+12,TEXT_FESPDY005_01306_SEQ_12,
+13,TEXT_FESPDY005_01306_SEQ_13,
+14,TEXT_FESPDY005_01306_SEQ_14,
+15,TEXT_FESPDY005_01306_SEQ_15,
+16,TEXT_FESPDY005_01306_SEQ_16,
+17,TEXT_FESPDY005_01306_SEQ_17,
+18,TEXT_FESPDY005_01306_SEQ_18,
+19,TEXT_FESPDY005_01306_SEQ_19,
+20,TEXT_FESPDY005_01306_SEQ_20,
+21,TEXT_FESPDY005_01306_SEQ_21,
+22,TEXT_FESPDY005_01306_SEQ_22,
+23,TEXT_FESPDY005_01306_SEQ_23,
+24,TEXT_FESPDY005_01306_TODO_00,"에드비아 공주를 데리고 림사 로민사에서 분위기 타는 여자에게
+  사용"
+25,TEXT_FESPDY005_01306_TODO_01,보석공예가 길드에서 세렌디피티에게 보고
+26,TEXT_FESPDY005_01306_TODO_02,
+27,TEXT_FESPDY005_01306_TODO_03,
+28,TEXT_FESPDY005_01306_TODO_04,
+29,TEXT_FESPDY005_01306_TODO_05,
+30,TEXT_FESPDY005_01306_TODO_06,
+31,TEXT_FESPDY005_01306_TODO_07,
+32,TEXT_FESPDY005_01306_TODO_08,
+33,TEXT_FESPDY005_01306_TODO_09,
+34,TEXT_FESPDY005_01306_TODO_10,
+35,TEXT_FESPDY005_01306_TODO_11,
+36,TEXT_FESPDY005_01306_TODO_12,
+37,TEXT_FESPDY005_01306_TODO_13,
+38,TEXT_FESPDY005_01306_TODO_14,
+39,TEXT_FESPDY005_01306_TODO_15,
+40,TEXT_FESPDY005_01306_TODO_16,
+41,TEXT_FESPDY005_01306_TODO_17,
+42,TEXT_FESPDY005_01306_TODO_18,
+43,TEXT_FESPDY005_01306_TODO_19,
+44,TEXT_FESPDY005_01306_TODO_20,
+45,TEXT_FESPDY005_01306_TODO_21,
+46,TEXT_FESPDY005_01306_TODO_22,
+47,TEXT_FESPDY005_01306_TODO_23,
+48,TEXT_FESPDY005_01306_SERENDIPITY_000_000,"어서 오세요, Player Player 님!
 그럼 계속해서 우리 에드비아 공주 인형을 홍보해주세요!"
-49,"TEXT_FESPDY005_01306_SERENDIPITY_000_001","에드비아 공주 인형 경진대회에서 우승하려면
+49,TEXT_FESPDY005_01306_SERENDIPITY_000_001,"에드비아 공주 인형 경진대회에서 우승하려면
 지금보다 더 많은 숙녀들에게 표를 모아야 하죠."
-50,"TEXT_FESPDY005_01306_SERENDIPITY_000_002","그러니까 에드비아 공주 인형을 데리고 다니면서
+50,TEXT_FESPDY005_01306_SERENDIPITY_000_002,"그러니까 에드비아 공주 인형을 데리고 다니면서
 많은 사람들에게 보여주세요!
 이번에는 해양도시 림사 로민사 차례랍니다!"
-51,"TEXT_FESPDY005_01306_SERENDIPITY_000_003","'에쉬템' 홍보부에서 그러는데, 해양도시 사람들은
+51,TEXT_FESPDY005_01306_SERENDIPITY_000_003,"'에쉬템' 홍보부에서 그러는데, 해양도시 사람들은
 푸른 하늘에 뜬 태양처럼 쾌활하대요!"
-52,"TEXT_FESPDY005_01306_SERENDIPITY_000_004","그렇게 쾌활하게 '분위기 타는 여자'와 대화에 열중하다 보면
+52,TEXT_FESPDY005_01306_SERENDIPITY_000_004,"그렇게 쾌활하게 '분위기 타는 여자'와 대화에 열중하다 보면
 지나가던 사람들이 자연스럽게 눈길을 주지 않을까요?"
-53,"TEXT_FESPDY005_01306_SERENDIPITY_000_005","자, 그럼 <Highlight>ObjectParameter(1)</Highlight> 님!
+53,TEXT_FESPDY005_01306_SERENDIPITY_000_005,"자, 그럼 Player Player 님!
 해양도시에서 시행할 홍보 전술에 대해 설명하겠습니다!"
-54,"TEXT_FESPDY005_01306_SERENDIPITY_000_010","지도에 표시된 곳으로 가면 '분위기 타는 여자'가 있을 거예요.
-그녀에게 이 <Sheet(EventItem,2001159,0)/><13>FF15022811FF0A4576656E744974656DF61E89070103FF04EBA5BCFF04EC9D84</13> 사용하면
+54,TEXT_FESPDY005_01306_SERENDIPITY_000_010,"지도에 표시된 곳으로 가면 '분위기 타는 여자'가 있을 거예요.
+그녀에게 이  사용하면
 그 사람도 기분이 좋아져서 공주 인형을 예뻐하게 되겠죠!"
-55,"TEXT_FESPDY005_01306_SERENDIPITY_000_011","어머, <Highlight>ObjectParameter(1)</Highlight> 님.
+55,TEXT_FESPDY005_01306_SERENDIPITY_000_011,"어머, Player Player 님.
 에드비아 공주 인형을 데리러 오셨나요?"
-56,"TEXT_FESPDY005_01306_Q1_000_001","에드비아 공주 인형을 데려갈까요?"
-57,"TEXT_FESPDY005_01306_A1_000_001","예"
-58,"TEXT_FESPDY005_01306_A2_000_002","아니요"
-59,"TEXT_FESPDY005_01306_SERENDIPITY_000_012","그럼 <Highlight>ObjectParameter(1)</Highlight> 님.
+56,TEXT_FESPDY005_01306_Q1_000_001,에드비아 공주 인형을 데려갈까요?
+57,TEXT_FESPDY005_01306_A1_000_001,예
+58,TEXT_FESPDY005_01306_A2_000_002,아니요
+59,TEXT_FESPDY005_01306_SERENDIPITY_000_012,"그럼 Player Player 님.
 공주를 잘 돌봐주셔야 해요!"
-60,"TEXT_FESPDY005_01306_SERENDIPITY_000_013","에드비아 공주 인형이
+60,TEXT_FESPDY005_01306_SERENDIPITY_000_013,"에드비아 공주 인형이
 당신을 애타게 기다리고 있어요.
 얼른 데려가 주세요!"
-61,"TEXT_FESPDY005_01306_SERENDIPITY_000_014","지도에 표시된 곳으로 가면 '분위기 타는 여자'가 있을 거예요.
-그녀에게 이 <Sheet(EventItem,2001159,0)/><13>FF15022811FF0A4576656E744974656DF61E89070103FF04EBA5BCFF04EC9D84</13> 사용하면
+61,TEXT_FESPDY005_01306_SERENDIPITY_000_014,"지도에 표시된 곳으로 가면 '분위기 타는 여자'가 있을 거예요.
+그녀에게 이  사용하면
 그 사람도 기분이 좋아져서 공주 인형을 예뻐하게 되겠죠!"
-62,"TEXT_FESPDY005_01306_CHARISMA_L1_100_020","프린세스데이는 다른 축제에 비해 좀 심심한 것 같아.
+62,TEXT_FESPDY005_01306_CHARISMA_L1_100_020,"프린세스데이는 다른 축제에 비해 좀 심심한 것 같아.
 '에드비아 공주 인형 경진대회'가
 이 따분함을 날려줄 수 있을까……."
-63,"TEXT_FESPDY005_01306_CHARISMA_L1_000_020","프린세스데이는 좀 따분한 것 같아.
+63,TEXT_FESPDY005_01306_CHARISMA_L1_000_020,"프린세스데이는 좀 따분한 것 같아.
 흥이 나지 않는다고 해야 하나?"
-64,"TEXT_FESPDY005_01306_CHARISMA_L1_000_021","와, 정말 근사하다!
+64,TEXT_FESPDY005_01306_CHARISMA_L1_000_021,"와, 정말 근사하다!
 이걸 보고 있으니 축제 기분이 좀 나는 것 같아!
 바닷바람과 섞인 복숭아 향기도 매력적이네!"
-65,"TEXT_FESPDY005_01306_CHARISMA_L1_000_022","어머, 이제 보니 네 인형도 정말 예쁘다!
+65,TEXT_FESPDY005_01306_CHARISMA_L1_000_022,"어머, 이제 보니 네 인형도 정말 예쁘다!
 보기만 해도 기분이 좋아지는걸!
 좋아, 맘에 들었어! 네 공주님에게 투표할게!"
-66,"TEXT_FESPDY005_01306_CHARISMA_L1_000_025","네 인형도 정말 예뻐서 보기만 해도 기분이 좋아졌어!
+66,TEXT_FESPDY005_01306_CHARISMA_L1_000_025,"네 인형도 정말 예뻐서 보기만 해도 기분이 좋아졌어!
 맘에 들었으니까 네 공주님에게 투표할게!"
-67,"TEXT_FESPDY005_01306_CHARISMA_L2_100_030","땅 위에서 보내는 프린세스데이는 정말 지루해!
+67,TEXT_FESPDY005_01306_CHARISMA_L2_100_030,"땅 위에서 보내는 프린세스데이는 정말 지루해!
 '에드비아 공주 인형 경진대회'에 기대를 걸고 있는데
 과연 내 지루함을 날려줄 만한 인형이 있을까……."
-68,"TEXT_FESPDY005_01306_CHARISMA_L2_000_030","땅 위에서 보내는 프린세스데이는 처음이야!
+68,TEXT_FESPDY005_01306_CHARISMA_L2_000_030,"땅 위에서 보내는 프린세스데이는 처음이야!
 배 위는 매일 축제 분위기였는데 땅 위는 너무 지루해!
 뭔가 재밌는 일 없을까~"
-69,"TEXT_FESPDY005_01306_CHARISMA_L2_000_031","야호!
+69,TEXT_FESPDY005_01306_CHARISMA_L2_000_031,"야호!
 축제는 역시 이래야지!
 바다 위에 있을 때보다 흥이 나기 시작했어~!"
-70,"TEXT_FESPDY005_01306_CHARISMA_L2_000_032","마을이 이 인형으로 가득 차면 정말 재미있겠다!
+70,TEXT_FESPDY005_01306_CHARISMA_L2_000_032,"마을이 이 인형으로 가득 차면 정말 재미있겠다!
 이 즐거움을 다 같이 나누고 싶으니까
 이번 경진대회는 네 인형에게 투표할게!"
-71,"TEXT_FESPDY005_01306_CHARISMA_L2_000_035","마을이 이 인형으로 가득 차면 정말 재미있겠다!
+71,TEXT_FESPDY005_01306_CHARISMA_L2_000_035,"마을이 이 인형으로 가득 차면 정말 재미있겠다!
 이 즐거움을 다 같이 나누고 싶으니까
 이번 경진대회는 네 인형에게 투표할게!"
-72,"TEXT_FESPDY005_01306_CHARISMA_L3_100_040","프린세스데이 장식은 좀 더 화려해도 좋지 않을까?
+72,TEXT_FESPDY005_01306_CHARISMA_L3_100_040,"프린세스데이 장식은 좀 더 화려해도 좋지 않을까?
 다른 건 몰라도 바닷속을 헤엄치는 화려한 물고기처럼
 매력적인 에드비아 공주 인형이 있으면 좋을 텐데!"
-73,"TEXT_FESPDY005_01306_CHARISMA_L3_000_040","프린세스데이 장식은 좀 더 화려해도 좋지 않을까?
+73,TEXT_FESPDY005_01306_CHARISMA_L3_000_040,"프린세스데이 장식은 좀 더 화려해도 좋지 않을까?
 바닷속을 헤엄치는 화려한 물고기처럼 말이야!
 에드비아 공주가 여기 있었다면 나처럼 생각할걸."
-74,"TEXT_FESPDY005_01306_CHARISMA_L3_000_041","와, 이제야 축제 분위기가 나기 시작하네!
+74,TEXT_FESPDY005_01306_CHARISMA_L3_000_041,"와, 이제야 축제 분위기가 나기 시작하네!
 왕궁을 몰래 빠져나올 정도로 말괄량이였던
 에드비아 공주도 이걸 보면 마음에 들어할걸!"
-75,"TEXT_FESPDY005_01306_CHARISMA_L3_000_042","앗, 봤어? 방금 인형이 고개를 끄덕였어! 귀엽다~!!
+75,TEXT_FESPDY005_01306_CHARISMA_L3_000_042,"앗, 봤어? 방금 인형이 고개를 끄덕였어! 귀엽다~!!
 지금까지 본 인형 중에 제일 예뻐!
 좋아, 네 인형에게 투표해야겠다."
-76,"TEXT_FESPDY005_01306_CHARISMA_L3_000_043","와, 울다하 보석점 '에쉬템'에서
+76,TEXT_FESPDY005_01306_CHARISMA_L3_000_043,"와, 울다하 보석점 '에쉬템'에서
 이 에드비아 공주 인형을 팔 예정이라고?
 가지고 싶다!!"
-77,"TEXT_FESPDY005_01306_CHARISMA_L3_000_045","지금까지 본 인형 중에 제일 예뻐!
+77,TEXT_FESPDY005_01306_CHARISMA_L3_000_045,"지금까지 본 인형 중에 제일 예뻐!
 좋아, 네 인형에게 투표해야겠다."
-78,"TEXT_FESPDY005_01306_SERENDIPITY_000_050","어서 오세요, <Highlight>ObjectParameter(1)</Highlight> 님!
+78,TEXT_FESPDY005_01306_SERENDIPITY_000_050,"어서 오세요, Player Player 님!
 목이 빠져라 기다렸어요~!"
-79,"TEXT_FESPDY005_01306_SERENDIPITY_000_051","우후후, 왜 목이 빠져라 기다렸을까요?
+79,TEXT_FESPDY005_01306_SERENDIPITY_000_051,"우후후, 왜 목이 빠져라 기다렸을까요?
 그건…… 두둥! 드디어 2차 집계가 발표되었거든요!
 우리 공주님은 무려…… 1위를 차지했답니다! 짝짝짝짝!"
-80,"TEXT_FESPDY005_01306_SERENDIPITY_000_052","앗! 에드비아 공주도 좋아한다!
+80,TEXT_FESPDY005_01306_SERENDIPITY_000_052,"앗! 에드비아 공주도 좋아한다!
 림사 로민사의 해님보다 더 반짝이는 미소네요!
 ……농담이에요. 인형이니까 표정은 그대로죠."
-81,"TEXT_FESPDY005_01306_SERENDIPITY_000_053","에드비아 공주는 당신이 정말 좋은가 봐요.
+81,TEXT_FESPDY005_01306_SERENDIPITY_000_053,"에드비아 공주는 당신이 정말 좋은가 봐요.
 공주가 느끼는 기쁨이 보는 사람에게 힘을 주겠죠.
 그게 또 공주의 인기로 이어지는 거고요!"
-82,"TEXT_FESPDY005_01306_SERENDIPITY_000_054","이대로만 가면 우승은 우리 거예요!
+82,TEXT_FESPDY005_01306_SERENDIPITY_000_054,"이대로만 가면 우승은 우리 거예요!
 우승하면 이 아이는 부잣집에 팔려가서
 귀한 대접을 받으며 살게 되겠죠."
-83,"TEXT_FESPDY005_01306_SERENDIPITY_000_055","그러니 <Highlight>ObjectParameter(1)</Highlight> 님,
+83,TEXT_FESPDY005_01306_SERENDIPITY_000_055,"그러니 Player Player 님,
 이 아이의 행복을 위해 열심히 하자고요!"
-84,"TEXT_FESPDY005_01306_SERENDIPITY_000_056","응? 이상하네요…….
+84,TEXT_FESPDY005_01306_SERENDIPITY_000_056,"응? 이상하네요…….
 환하게 미소 짓던 에드비아 공주가 갑자기 시무룩해졌어요.
 왜 그럴까요? 걱정되네……."

@@ -1,194 +1,192 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_LUCKSA151_03970_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙:  직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_LUCKSA151_03970_SEQ_00,"**특수 규칙:  직업 고정**
 강고스에 있는 즐라탄은 '레지스탕스 웨폰' 개량 작업에 착수하고 싶은 듯하다."
-1,"TEXT_LUCKSA151_03970_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+1,TEXT_LUCKSA151_03970_SEQ_01,"※ 이 퀘스트에는 ** 직업 고정**이 적용됩니다.
    퀘스트 수락 시의 직업으로만 진행할 수 있습니다.
 
 
-3종류의 '기억 덩어리'를 모아오기로 했다. '<Sheet(Item,31573,0)/>', '<Sheet(Item,31574,0)/>', '<Sheet(Item,31575,0)/>'<13>FF0F02280BFF054974656DF27B570103FF04EBA5BCFF04EC9D84</13> 각각 20개 모아서 '레지스탕스 웨폰'을 소지한 상태로 강고스에 있는 '즐라탄'에게 건네자.
+3종류의 '기억 덩어리'를 모아오기로 했다. '', '', '' 각각 20개 모아서 '레지스탕스 웨폰'을 소지한 상태로 강고스에 있는 '즐라탄'에게 건네자.
 
 ※ 각각의 '기억 덩어리'는 강고스에서 진입할 수 있는 '남부 보즈야 전선'에서의 전투 및 각지의 돌발 임무를 달성하면 획득할 수 있습니다. 돌발 임무의 대상 지역은 커르다스 서부고지, 고지 드라바니아, 저지 드라바니아, 드라바니아 구름바다, 아발라시아 구름바다, 아지스 라까지 총 6지역입니다."
-2,"TEXT_LUCKSA151_03970_SEQ_02","즐라탄에게 3종류의 '기억 덩어리'를 건네고 '레지스탕스 웨폰'을 개량했다. 게롤트 말로는 '레지스탕스 웨폰'에 기억을 더 정착시킬 수도 있다고 한다. 한 단계 더 개량을 하고 싶을 때에는 다시 한번 즐라탄에게 말을 걸자."
-3,"TEXT_LUCKSA151_03970_SEQ_03",""
-4,"TEXT_LUCKSA151_03970_SEQ_04",""
-5,"TEXT_LUCKSA151_03970_SEQ_05",""
-6,"TEXT_LUCKSA151_03970_SEQ_06",""
-7,"TEXT_LUCKSA151_03970_SEQ_07",""
-8,"TEXT_LUCKSA151_03970_SEQ_08",""
-9,"TEXT_LUCKSA151_03970_SEQ_09",""
-10,"TEXT_LUCKSA151_03970_SEQ_10",""
-11,"TEXT_LUCKSA151_03970_SEQ_11",""
-12,"TEXT_LUCKSA151_03970_SEQ_12",""
-13,"TEXT_LUCKSA151_03970_SEQ_13",""
-14,"TEXT_LUCKSA151_03970_SEQ_14",""
-15,"TEXT_LUCKSA151_03970_SEQ_15",""
-16,"TEXT_LUCKSA151_03970_SEQ_16",""
-17,"TEXT_LUCKSA151_03970_SEQ_17",""
-18,"TEXT_LUCKSA151_03970_SEQ_18",""
-19,"TEXT_LUCKSA151_03970_SEQ_19",""
-20,"TEXT_LUCKSA151_03970_SEQ_20",""
-21,"TEXT_LUCKSA151_03970_SEQ_21",""
-22,"TEXT_LUCKSA151_03970_SEQ_22",""
-23,"TEXT_LUCKSA151_03970_SEQ_23",""
-24,"TEXT_LUCKSA151_03970_TODO_00","<If(Equal(IntegerParameter(4),19))><Sheet(Item,30228,0)/><13>FF0F02280BFF054974656DF276140103FF04EC9980FF04EAB3BC</13> <Sheet(Item,30245,0)/><13>FF0F02280BFF054974656DF276250103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,30229,0)/><13>FF0F02280BFF054974656DF276150103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,30230,0)/><13>FF0F02280BFF054974656DF276160103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,30231,0)/><13>FF0F02280BFF054974656DF276170103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,30232,0)/><13>FF0F02280BFF054974656DF276180103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,30236,0)/><13>FF0F02280BFF054974656DF2761C0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,30237,0)/><13>FF0F02280BFF054974656DF2761D0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,30238,0)/><13>FF0F02280BFF054974656DF2761E0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,30239,0)/><13>FF0F02280BFF054974656DF2761F0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,30233,0)/><13>FF0F02280BFF054974656DF276190103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,30235,0)/><13>FF0F02280BFF054974656DF2761B0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,30234,0)/><13>FF0F02280BFF054974656DF2761A0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,30240,0)/><13>FF0F02280BFF054974656DF276200103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,30241,0)/><13>FF0F02280BFF054974656DF276210103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,30242,0)/><13>FF0F02280BFF054974656DF276220103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,30243,0)/><13>FF0F02280BFF054974656DF276230103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,30244,0)/><13>FF0F02280BFF054974656DF276240103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If> 장비에서 해제하고 소지품에 보유한 상태로
+2,TEXT_LUCKSA151_03970_SEQ_02,즐라탄에게 3종류의 '기억 덩어리'를 건네고 '레지스탕스 웨폰'을 개량했다. 게롤트 말로는 '레지스탕스 웨폰'에 기억을 더 정착시킬 수도 있다고 한다. 한 단계 더 개량을 하고 싶을 때에는 다시 한번 즐라탄에게 말을 걸자.
+3,TEXT_LUCKSA151_03970_SEQ_03,
+4,TEXT_LUCKSA151_03970_SEQ_04,
+5,TEXT_LUCKSA151_03970_SEQ_05,
+6,TEXT_LUCKSA151_03970_SEQ_06,
+7,TEXT_LUCKSA151_03970_SEQ_07,
+8,TEXT_LUCKSA151_03970_SEQ_08,
+9,TEXT_LUCKSA151_03970_SEQ_09,
+10,TEXT_LUCKSA151_03970_SEQ_10,
+11,TEXT_LUCKSA151_03970_SEQ_11,
+12,TEXT_LUCKSA151_03970_SEQ_12,
+13,TEXT_LUCKSA151_03970_SEQ_13,
+14,TEXT_LUCKSA151_03970_SEQ_14,
+15,TEXT_LUCKSA151_03970_SEQ_15,
+16,TEXT_LUCKSA151_03970_SEQ_16,
+17,TEXT_LUCKSA151_03970_SEQ_17,
+18,TEXT_LUCKSA151_03970_SEQ_18,
+19,TEXT_LUCKSA151_03970_SEQ_19,
+20,TEXT_LUCKSA151_03970_SEQ_20,
+21,TEXT_LUCKSA151_03970_SEQ_21,
+22,TEXT_LUCKSA151_03970_SEQ_22,
+23,TEXT_LUCKSA151_03970_SEQ_23,
+24,TEXT_LUCKSA151_03970_TODO_00,"  장비에서 해제하고 소지품에 보유한 상태로
 강고스에 있는 즐라탄에게 3종류의 '기억 덩어리' 전달"
-25,"TEXT_LUCKSA151_03970_TODO_01",""
-26,"TEXT_LUCKSA151_03970_TODO_02",""
-27,"TEXT_LUCKSA151_03970_TODO_03",""
-28,"TEXT_LUCKSA151_03970_TODO_04",""
-29,"TEXT_LUCKSA151_03970_TODO_05",""
-30,"TEXT_LUCKSA151_03970_TODO_06",""
-31,"TEXT_LUCKSA151_03970_TODO_07",""
-32,"TEXT_LUCKSA151_03970_TODO_08",""
-33,"TEXT_LUCKSA151_03970_TODO_09",""
-34,"TEXT_LUCKSA151_03970_TODO_10",""
-35,"TEXT_LUCKSA151_03970_TODO_11",""
-36,"TEXT_LUCKSA151_03970_TODO_12",""
-37,"TEXT_LUCKSA151_03970_TODO_13",""
-38,"TEXT_LUCKSA151_03970_TODO_14",""
-39,"TEXT_LUCKSA151_03970_TODO_15",""
-40,"TEXT_LUCKSA151_03970_TODO_16",""
-41,"TEXT_LUCKSA151_03970_TODO_17",""
-42,"TEXT_LUCKSA151_03970_TODO_18",""
-43,"TEXT_LUCKSA151_03970_TODO_19",""
-44,"TEXT_LUCKSA151_03970_TODO_20",""
-45,"TEXT_LUCKSA151_03970_TODO_21",""
-46,"TEXT_LUCKSA151_03970_TODO_22",""
-47,"TEXT_LUCKSA151_03970_TODO_23",""
-48,"TEXT_LUCKSA151_03970_SYSTEM_800_000","퀘스트 '레지스탕스 웨폰에 기억 정착시키기'에서
+25,TEXT_LUCKSA151_03970_TODO_01,
+26,TEXT_LUCKSA151_03970_TODO_02,
+27,TEXT_LUCKSA151_03970_TODO_03,
+28,TEXT_LUCKSA151_03970_TODO_04,
+29,TEXT_LUCKSA151_03970_TODO_05,
+30,TEXT_LUCKSA151_03970_TODO_06,
+31,TEXT_LUCKSA151_03970_TODO_07,
+32,TEXT_LUCKSA151_03970_TODO_08,
+33,TEXT_LUCKSA151_03970_TODO_09,
+34,TEXT_LUCKSA151_03970_TODO_10,
+35,TEXT_LUCKSA151_03970_TODO_11,
+36,TEXT_LUCKSA151_03970_TODO_12,
+37,TEXT_LUCKSA151_03970_TODO_13,
+38,TEXT_LUCKSA151_03970_TODO_14,
+39,TEXT_LUCKSA151_03970_TODO_15,
+40,TEXT_LUCKSA151_03970_TODO_16,
+41,TEXT_LUCKSA151_03970_TODO_17,
+42,TEXT_LUCKSA151_03970_TODO_18,
+43,TEXT_LUCKSA151_03970_TODO_19,
+44,TEXT_LUCKSA151_03970_TODO_20,
+45,TEXT_LUCKSA151_03970_TODO_21,
+46,TEXT_LUCKSA151_03970_TODO_22,
+47,TEXT_LUCKSA151_03970_TODO_23,
+48,TEXT_LUCKSA151_03970_SYSTEM_800_000,"퀘스트 '레지스탕스 웨폰에 기억 정착시키기'에서
 획득할 수 있는 무기는
-현재 직업인 '<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>' 전용 레지스탕스 웨폰입니다."
-49,"TEXT_LUCKSA151_03970_SYSTEM_801_000","'레지스탕스 웨폰에 기억 정착시키기'를
-'<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>'<14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
-50,"TEXT_LUCKSA151_03970_Q1_800_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 레지스탕스 웨폰을 만드시겠습니까?"
-51,"TEXT_LUCKSA151_03970_A1_800_000","조금 더 생각한다"
-52,"TEXT_LUCKSA151_03970_A2_800_000","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 레지스탕스 웨폰을 만든다"
-53,"TEXT_LUCKSA151_03970_SYSTEM_800_001","레지스탕스 웨폰을 만들고 싶은 직업으로 변경한 후
+현재 직업인 '' 전용 레지스탕스 웨폰입니다."
+49,TEXT_LUCKSA151_03970_SYSTEM_801_000,"'레지스탕스 웨폰에 기억 정착시키기'를
+'' 수락하시겠습니까?"
+50,TEXT_LUCKSA151_03970_Q1_800_000, 전용 레지스탕스 웨폰을 만드시겠습니까?
+51,TEXT_LUCKSA151_03970_A1_800_000,조금 더 생각한다
+52,TEXT_LUCKSA151_03970_A2_800_000, 전용 레지스탕스 웨폰을 만든다
+53,TEXT_LUCKSA151_03970_SYSTEM_800_001,"레지스탕스 웨폰을 만들고 싶은 직업으로 변경한 후
 다시 즐라탄에게 말을 거십시오."
-54,"TEXT_LUCKSA151_03970_SYSTEM_800_005","이미 '<Sheet(Item,IntegerParameter(1),0)/>' 및
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
+54,TEXT_LUCKSA151_03970_SYSTEM_800_005,"이미 '' 및
+'' 획득했습니다.
 다른 직업으로 변경한 후 다시 즐라탄에게 말을 거십시오."
-55,"TEXT_LUCKSA151_03970_SYSTEM_800_006","이미 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 획득했습니다.
+55,TEXT_LUCKSA151_03970_SYSTEM_800_006,"이미 '' 획득했습니다.
 다른 직업으로 변경한 후 다시 즐라탄에게 말을 거십시오."
-56,"TEXT_LUCKSA151_03970_SYSTEM_800_008","'<Sheet(Item,IntegerParameter(1),0)/>' 및
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
+56,TEXT_LUCKSA151_03970_SYSTEM_800_008,"'' 및
+'' 소지하거나 장비하지 않으면
 '레지스탕스 웨폰에 기억 정착시키기'를 수락할 수 없습니다."
-57,"TEXT_LUCKSA151_03970_SYSTEM_800_009","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
+57,TEXT_LUCKSA151_03970_SYSTEM_800_009,"'' 소지하거나 장비하지 않으면
 '레지스탕스 웨폰에 기억 정착시키기'를 수락할 수 없습니다."
-58,"TEXT_LUCKSA151_03970_ZLATAN_000_000","그럼 '레지스탕스 웨폰' 개량을 위해
+58,TEXT_LUCKSA151_03970_ZLATAN_000_000,"그럼 '레지스탕스 웨폰' 개량을 위해
 '기억 덩어리'를 부탁드리고 싶습니다만……
 그나저나 참 다행입니다."
-59,"TEXT_LUCKSA151_03970_ZLATAN_000_001","사실은 '신생 군힐드의 검' 전용 무기를 만드느라 발생한 금액을
+59,TEXT_LUCKSA151_03970_ZLATAN_000_001,"사실은 '신생 군힐드의 검' 전용 무기를 만드느라 발생한 금액을
 로웨나 상회에 지불해야 하는데, 그 액수가 상당하거든요."
-60,"TEXT_LUCKSA151_03970_ZLATAN_000_002","이번에도 상회에 재료를 발주하게 된다면
+60,TEXT_LUCKSA151_03970_ZLATAN_000_002,"이번에도 상회에 재료를 발주하게 된다면
 바이샤엔 님께 뭐라고 보고해야 하나……
 솔직히 식은땀 좀 흘렸습니다."
-61,"TEXT_LUCKSA151_03970_ZLATAN_000_003","어이쿠, 해방자님과는 상관없는 이야기였군요.
+61,TEXT_LUCKSA151_03970_ZLATAN_000_003,"어이쿠, 해방자님과는 상관없는 이야기였군요.
 자, 그럼 어떤 전투의 기억을 결정화시킬지 정해야 할 텐데요……."
-62,"TEXT_LUCKSA151_03970_ZLATAN_000_004","아무래도 보즈야에서 태어난 무기인 만큼
+62,TEXT_LUCKSA151_03970_ZLATAN_000_004,"아무래도 보즈야에서 태어난 무기인 만큼
 '남부 보즈야 전선'에서의 전투가
 무기를 개량시키기 적절하지 않을까요?"
-63,"TEXT_LUCKSA151_03970_ZLATAN_000_005","그리고 또 한 가지…….
+63,TEXT_LUCKSA151_03970_ZLATAN_000_005,"그리고 또 한 가지…….
 해방자님께서 사용하실 무기를 개량하는 것이니
 직접 경험하셨던 장소에 대한 기억도 유용할 거라 생각합니다."
-64,"TEXT_LUCKSA151_03970_ZLATAN_000_006","다양한 장소에서 있었던 각각의 전투 기억을……
+64,TEXT_LUCKSA151_03970_ZLATAN_000_006,"다양한 장소에서 있었던 각각의 전투 기억을……
 그래요, 3종류의 '기억 덩어리'를 각각 20개씩 모으면
 개량에 필요한 양이 충족될 것입니다!"
-65,"TEXT_LUCKSA151_03970_ZLATAN_000_010","다시 '레지스탕스 웨폰'을 개량하고 싶으시군요?
+65,TEXT_LUCKSA151_03970_ZLATAN_000_010,"다시 '레지스탕스 웨폰'을 개량하고 싶으시군요?
 그렇다면 이번에도 '기억 덩어리'를 모아서 와주시길 바랍니다."
-66,"TEXT_LUCKSA151_03970_ZLATAN_000_011","첫 회와 마찬가지로 '남부 보즈야 전선'
+66,TEXT_LUCKSA151_03970_ZLATAN_000_011,"첫 회와 마찬가지로 '남부 보즈야 전선'
 또는 해방자님이 과거에 모험을 하셨던 장소에서 전투를 하고
 3종류의 '기억 덩어리'를 각각 20개씩 가져와주시겠습니까?"
-67,"TEXT_LUCKSA151_03970_SYSTEM_000_020","'기억 덩어리'는
+67,TEXT_LUCKSA151_03970_SYSTEM_000_020,"'기억 덩어리'는
 강고스에서 진입 가능한 '남부 보즈야 전선'에서의 전투 및
 특정 지역의 돌발 임무 공략을 통해 획득할 수 있습니다."
-68,"TEXT_LUCKSA151_03970_SYSTEM_000_021","돌발 임무 대상 지역은 커르다스 서부고지,
+68,TEXT_LUCKSA151_03970_SYSTEM_000_021,"돌발 임무 대상 지역은 커르다스 서부고지,
 고지 드라바니아, 저지 드라바니아, 드라바니아 구름바다,
 아발라시아 구름바다, 아지스 라까지 총 6지역입니다."
-69,"TEXT_LUCKSA151_03970_ZLATAN_000_030","필요한 '기억 덩어리'는 3종류, 각각 20개씩입니다.
+69,TEXT_LUCKSA151_03970_ZLATAN_000_030,"필요한 '기억 덩어리'는 3종류, 각각 20개씩입니다.
 잘 부탁드립니다!"
-70,"TEXT_LUCKSA151_03970_SYSTEM_000_031","'기억 덩어리'는
+70,TEXT_LUCKSA151_03970_SYSTEM_000_031,"'기억 덩어리'는
 강고스에서 진입 가능한 '남부 보즈야 전선'에서의 전투 및
 특정 지역의 돌발 임무 공략을 통해 획득할 수 있습니다."
-71,"TEXT_LUCKSA151_03970_SYSTEM_000_032","돌발 임무 대상 지역은 커르다스 서부고지,
+71,TEXT_LUCKSA151_03970_SYSTEM_000_032,"돌발 임무 대상 지역은 커르다스 서부고지,
 고지 드라바니아, 저지 드라바니아, 드라바니아 구름바다,
 아발라시아 구름바다, 아지스 라까지 총 6지역입니다."
-72,"TEXT_LUCKSA151_03970_ZLATAN_000_050","'기억 덩어리'를 가지고 오셨습니까?
+72,TEXT_LUCKSA151_03970_ZLATAN_000_050,"'기억 덩어리'를 가지고 오셨습니까?
 그럼 개량을 하기 위해 '레지스탕스 웨폰'을
 장비에서 해제해 주십시오!"
-73,"TEXT_LUCKSA151_03970_ZLATAN_000_060","게롤트 님도 다른 재료를 구해오셔서
+73,TEXT_LUCKSA151_03970_ZLATAN_000_060,"게롤트 님도 다른 재료를 구해오셔서
 개량을 위한 준비를 해 놓으셨습니다.
 자, 그럼 '기억 덩어리'를 주십시오!"
-74,"TEXT_LUCKSA151_03970_ZLATAN_000_065","네, 맞습니다…… 수고하셨습니다!
+74,TEXT_LUCKSA151_03970_ZLATAN_000_065,"네, 맞습니다…… 수고하셨습니다!
 그럼 개량을 하기 위해 레지스탕스 웨폰을
 건네주시겠습니까?"
-75,"TEXT_LUCKSA151_03970_ZLATAN_000_066","감사합니다!
+75,TEXT_LUCKSA151_03970_ZLATAN_000_066,"감사합니다!
 그럼 게롤트 님께 개량을 부탁드리도록 합시다!"
-76,"TEXT_LUCKSA151_03970_GEROLT_000_070","좋아, 필요한 건 다 모였군.
+76,TEXT_LUCKSA151_03970_GEROLT_000_070,"좋아, 필요한 건 다 모였군.
 개량안도 저항군이 내게 물어봤던 안건이 도움이 되었어."
-77,"TEXT_LUCKSA151_03970_GEROLT_000_071","'기억 덩어리'에 담긴 전투의 기억을 추출한 다음
+77,TEXT_LUCKSA151_03970_GEROLT_000_071,"'기억 덩어리'에 담긴 전투의 기억을 추출한 다음
 명문에 그 기억을 흘려넣어서 정착시키는 방법을 고안했어.
 이제 사용자와 무기가 하나가 된 듯한 일체감이 훨씬 강해질 거야!"
-78,"TEXT_LUCKSA151_03970_ZLATAN_000_072","멋집니다, 전장에서 올린 성과가 여기서 결실을 맺다니요!
+78,TEXT_LUCKSA151_03970_ZLATAN_000_072,"멋집니다, 전장에서 올린 성과가 여기서 결실을 맺다니요!
 자, '레지스탕스 웨폰'의 개량을 시작하도록 하시죠.
 저도 미력하나마 게롤트 님을 돕겠습니다!"
-79,"TEXT_LUCKSA151_03970_GEROLT_000_080","자, 이번에도 '기억 덩어리'에서 추출한 전투의 기억을
+79,TEXT_LUCKSA151_03970_GEROLT_000_080,"자, 이번에도 '기억 덩어리'에서 추출한 전투의 기억을
 무기에 새겨진 명문에 흘려 넣어 정착시키자고!"
-80,"TEXT_LUCKSA151_03970_ZLATAN_000_081","네, 저도 미력하나마 게롤트 님을 돕겠습니다!"
-81,"TEXT_LUCKSA151_03970_GEROLT_000_082","그럼 집중해서 작업할 테니
+80,TEXT_LUCKSA151_03970_ZLATAN_000_081,"네, 저도 미력하나마 게롤트 님을 돕겠습니다!"
+81,TEXT_LUCKSA151_03970_GEROLT_000_082,"그럼 집중해서 작업할 테니
 아주 조금만 기다리고 있으라고……!"
-82,"TEXT_LUCKSA151_03970_GEROLT_000_090","개량 성공! 다시 태어난 '레지스탕스 웨폰',
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8BA4FF07EC9DB4EB8BA4</13>!"
-83,"TEXT_LUCKSA151_03970_GEROLT_000_095","개량 성공! 다시 태어난 '레지스탕스 웨폰',
-'<Sheet(Item,IntegerParameter(1),0)/>'……."
-84,"TEXT_LUCKSA151_03970_GEROLT_000_096","그리고 이것이 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8BA4FF07EC9DB4EB8BA4</13>!"
-85,"TEXT_LUCKSA151_03970_GEROLT_000_100","생각보다 훨씬 더 완성도가 높군!
+82,TEXT_LUCKSA151_03970_GEROLT_000_090,"개량 성공! 다시 태어난 '레지스탕스 웨폰',
+''!"
+83,TEXT_LUCKSA151_03970_GEROLT_000_095,"개량 성공! 다시 태어난 '레지스탕스 웨폰',
+''……."
+84,TEXT_LUCKSA151_03970_GEROLT_000_096,그리고 이것이 ''!
+85,TEXT_LUCKSA151_03970_GEROLT_000_100,"생각보다 훨씬 더 완성도가 높군!
 사실 이 개량법을 실현하기 위해 연줄을 이용해서
 어떤 재료를 구해놨었는데, 그게 정답이었던 모양이야!"
-86,"TEXT_LUCKSA151_03970_GEROLT_000_101","이 방법을 쓰면 더 많은 전투의 기억을 정착시켜서
+86,TEXT_LUCKSA151_03970_GEROLT_000_101,"이 방법을 쓰면 더 많은 전투의 기억을 정착시켜서
 명문의 효력을 더 높일 수도 있단 말이지!"
-87,"TEXT_LUCKSA151_03970_ZLATAN_000_102","그렇게까지 개량을 해주셨다니……!
+87,TEXT_LUCKSA151_03970_ZLATAN_000_102,"그렇게까지 개량을 해주셨다니……!
 그런데 그런 멋진 재료를 어떤 '연줄'로?"
-88,"TEXT_LUCKSA151_03970_ROWENA_000_103","(-???-)신용 제로인 대머리가 의지할 '연줄'이……
+88,TEXT_LUCKSA151_03970_ROWENA_000_103,"(-???-)신용 제로인 대머리가 의지할 '연줄'이……
 하나밖에 더 있겠어?"
-89,"TEXT_LUCKSA151_03970_ROWENA_000_104","게다가 그 아이디어도 내가 가르쳐 준 거잖아?
+89,TEXT_LUCKSA151_03970_ROWENA_000_104,"게다가 그 아이디어도 내가 가르쳐 준 거잖아?
 당신은 보고하러 와서는 개량안이 안 떠오른다고 징징댔고."
-90,"TEXT_LUCKSA151_03970_ZLATAN_000_105","로, 로웨나 님!!
+90,TEXT_LUCKSA151_03970_ZLATAN_000_105,"로, 로웨나 님!!
 그럼 '레지스탕스 웨폰'에 들어간 재료는……?"
-91,"TEXT_LUCKSA151_03970_ROWENA_000_106","보고를 듣고 비슷한 이야기가 떠올랐어.
+91,TEXT_LUCKSA151_03970_ROWENA_000_106,"보고를 듣고 비슷한 이야기가 떠올랐어.
 경험했던 전투를 회상하면 그림자천이 생성되는 주술법을
 이딜샤이어에 있는 마도사 자매가 만들어냈다……는 이야기가."
-92,"TEXT_LUCKSA151_03970_ZLATAN_000_108","설마 그 그림자천을 로웨나 상회에서…… 게롤트 님……?"
-93,"TEXT_LUCKSA151_03970_GEROLT_000_109","……그림자천 비용, 잘 부탁해!!"
-94,"TEXT_LUCKSA151_03970_ROWENA_000_110","저항군이 웬일로 배포가 크다 싶어서 찾아와 봤더니,
+92,TEXT_LUCKSA151_03970_ZLATAN_000_108,설마 그 그림자천을 로웨나 상회에서…… 게롤트 님……?
+93,TEXT_LUCKSA151_03970_GEROLT_000_109,"……그림자천 비용, 잘 부탁해!!"
+94,TEXT_LUCKSA151_03970_ROWENA_000_110,"저항군이 웬일로 배포가 크다 싶어서 찾아와 봤더니,
 역시 게롤트의 독단이었나 보네."
-95,"TEXT_LUCKSA151_03970_ROWENA_000_111","……그래, 뜯어낼 수 있을 만큼 뜯어낼 생각이지만,
+95,TEXT_LUCKSA151_03970_ROWENA_000_111,"……그래, 뜯어낼 수 있을 만큼 뜯어낼 생각이지만,
 그렇다고 저항군이 망하면 그건 또 안 되니까
 내가 좀 도와줄까 해."
-96,"TEXT_LUCKSA151_03970_ZLATAN_000_112","지금 살짝 간과할 수 없는 발언도 하신 것 같습니다만……
+96,TEXT_LUCKSA151_03970_ZLATAN_000_112,"지금 살짝 간과할 수 없는 발언도 하신 것 같습니다만……
 아무튼 어떻게 도와주신다는 것인지?"
-97,"TEXT_LUCKSA151_03970_ROWENA_000_113","저항군의 부담만 커지는 일이 없도록
+97,TEXT_LUCKSA151_03970_ROWENA_000_113,"저항군의 부담만 커지는 일이 없도록
 '대책'을 보내줄 테니까 안심해도 돼.
 그럼 조금만 기다려."
-98,"TEXT_LUCKSA151_03970_GEROLT_000_114","와오, 무슨 말인지는 모르겠지만, 어쨌든 돈은 안 냈잖아!
+98,TEXT_LUCKSA151_03970_GEROLT_000_114,"와오, 무슨 말인지는 모르겠지만, 어쨌든 돈은 안 냈잖아!
 분명 다른 대형 계약을 하나 잡아서 기분이 좋은 게 틀림없어!"
-99,"TEXT_LUCKSA151_03970_ZLATAN_000_115","그렇게 안이하게 생각하셔도 괜찮으시겠습니까……?
+99,TEXT_LUCKSA151_03970_ZLATAN_000_115,"그렇게 안이하게 생각하셔도 괜찮으시겠습니까……?
 왠지 어마어마한 미래가 기다리고 있을 것 같은데요."
-100,"TEXT_LUCKSA151_03970_ZLATAN_000_116","……뭐, 지금 생각한다고 해도 소용없긴 하겠죠.
+100,TEXT_LUCKSA151_03970_ZLATAN_000_116,"……뭐, 지금 생각한다고 해도 소용없긴 하겠죠.
 아무튼 게롤트 님께서는
 '레지스탕스 웨폰'을 더 개량할 수도 있다고 하셨죠."
-101,"TEXT_LUCKSA151_03970_ZLATAN_000_117","저항군의 미래를 위해
+101,TEXT_LUCKSA151_03970_ZLATAN_000_117,"저항군의 미래를 위해
 무기를 한 단계 더 개량해 보도록 합시다.
 그러다 보면 그 '대책'의 정체도 알게 되겠죠……."
-102,"TEXT_LUCKSA151_03970_GEROLT_000_120","좋아, 전투의 기억이 무기에 무사히 정착된 모양이군.
+102,TEXT_LUCKSA151_03970_GEROLT_000_120,"좋아, 전투의 기억이 무기에 무사히 정착된 모양이군.
 그림자천의 주술법도 제대로 효력을 발휘하고 있으니
 이렇다면 한 단계 더 개량하는 것도 문제없겠어."
-103,"TEXT_LUCKSA151_03970_ZLATAN_000_121","쉽게 하고 있는 것처럼 보이지만,
+103,TEXT_LUCKSA151_03970_ZLATAN_000_121,"쉽게 하고 있는 것처럼 보이지만,
 이렇게 안정된 개량이 가능한 건 게롤트 님의 실력 덕분입니다.
 ……이제 조금만 더 성실하게 일을 해주신다면 좋을 텐데요."
-104,"TEXT_LUCKSA151_03970_ZLATAN_000_122","아무튼 개량을 더 하고 싶으시면 제게 말을 걸어주십시오.
+104,TEXT_LUCKSA151_03970_ZLATAN_000_122,"아무튼 개량을 더 하고 싶으시면 제게 말을 걸어주십시오.
 그리고 부디 그 무기를 저희 보즈야 국민을 위해
 휘둘러 주시길 바랍니다……."
-105,"TEXT_LUCKSA151_03970_GEROLT_000_006","（★未使用／削除予定★）"
+105,TEXT_LUCKSA151_03970_GEROLT_000_006,（★未使用／削除予定★）

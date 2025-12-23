@@ -1,47 +1,45 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_001","아, <If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 님, 수고가 많으십니다!
+#,Unknown0,Unknown1
+0,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_001,"아,  Player Player Player Player Player Player 님, 수고가 많으십니다!
 궁금한 점이 있으시면 뭐든지 물어보세요."
-1,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_002","아, <If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 님. 무사하셨군요……!
+1,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_002,"아,  Player Player Player Player Player Player 님. 무사하셨군요……!
 갑자기 사라지셨다는 소식을 듣고, 외람되지만 걱정하던 참입니다.
 궁금한 점이 있으시면 뭐든지 물어보세요."
-2,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_003","아, <If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 님.
+2,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_003,"아,  Player Player Player Player Player Player 님.
 바브일 탑 돌입 임무를 수행하느라 수고가 많으셨습니다!
 궁금한 점이 있으시면 뭐든지 물어보세요."
-3,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_004","아, <If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 님…….
+3,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_004,"아,  Player Player Player Player Player Player 님…….
 현재 이곳 일대에는 종말의 영향이 나타나고 있습니다.
 부디 최대한의 경계를……!"
-4,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_005","아, <Highlight>ObjectParameter(1)</Highlight> 님……!
+4,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_005,"아, Player Player 님……!
 여러분의 활약 덕에 종말의 위험이 사라졌다는 소식을 상관에게 듣고
 감사 인사를 드리고 싶다고 생각하던 참입니다!"
-5,"TEXT_REGISB5CAMPBROKENGLASS_00751_Q1_000_000","무엇을 물어보시겠습니까?"
-6,"TEXT_REGISB5CAMPBROKENGLASS_00751_A1_000_001","당신의 이야기를 들려달라고 한다"
-7,"TEXT_REGISB5CAMPBROKENGLASS_00751_A1_000_002","여기는 어떤 곳인지 물어본다"
-8,"TEXT_REGISB5CAMPBROKENGLASS_00751_A1_000_003","취소"
-9,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_100","저, 저 말씀이십니까?
+5,TEXT_REGISB5CAMPBROKENGLASS_00751_Q1_000_000,무엇을 물어보시겠습니까?
+6,TEXT_REGISB5CAMPBROKENGLASS_00751_A1_000_001,당신의 이야기를 들려달라고 한다
+7,TEXT_REGISB5CAMPBROKENGLASS_00751_A1_000_002,여기는 어떤 곳인지 물어본다
+8,TEXT_REGISB5CAMPBROKENGLASS_00751_A1_000_003,취소
+9,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_100,"저, 저 말씀이십니까?
 저는 일사바드 파견단에 자원한
 알라미고 해방군의 투사, 로칠다라고 합니다!"
-10,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_101","제 고향인 기라바니아의 여관촌은 해방전쟁 때,
+10,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_101,"제 고향인 기라바니아의 여관촌은 해방전쟁 때,
 피 한 방울 흘리지 않고 자유를 되찾았습니다. 하지만 그건
 기적이 아니라 어느 제국 병사의 각오에서 비롯된 행동의 결과였죠."
-11,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_102","저는 그 싸움이 끝나고 나서야 그 사실을 알았습니다.
+11,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_102,"저는 그 싸움이 끝나고 나서야 그 사실을 알았습니다.
 마음을 가진 인간 덕분에 제 가족이 상처 입지 않았죠.
 그렇다면 저도 이 땅에서 최선을 다해야겠다고…… 생각한 겁니다."
-12,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_200","네! 이 거점은 일사바드 파견단의 주둔지입니다!
+12,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_200,"네! 이 거점은 일사바드 파견단의 주둔지입니다!
 눈서리를 힘차게 밟고 여기까지 온 저희의 여정을 따서
 '깨진 유리 전초지'라는 이름으로 부르죠."
-13,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_201","이 추운 땅에서 힘을 비축해
+13,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_201,"이 추운 땅에서 힘을 비축해
 세계를 장악하는 강국이 되었다고 생각하니,
 비록 과거의 적이라고는 해도 갈레안족의 강한 의지가 경이롭습니다."
-14,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_202","이 거점은 현재, 제국의 패잔병 및 민간인의 보호지입니다.
+14,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_202,"이 거점은 현재, 제국의 패잔병 및 민간인의 보호지입니다.
 텔로포로이에 의해 신도가 되어 버린 사람들의 치료도
 순차적으로 진행되고 있습니다!"
-15,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_203","이 거점은 현재, 제국의 패잔병 및 민간인의 보호지입니다.
+15,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_203,"이 거점은 현재, 제국의 패잔병 및 민간인의 보호지입니다.
 그리고 일사바드 파견단과 뜻 있는 제국 시민들이 힘을 모아
 미처 도망치지 못한 이들의 수색과 구조도 진행 중이죠!"
-16,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_204","이 거점은 현재, 제국의 패잔병 및 민간인의 보호지입니다.
+16,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_204,"이 거점은 현재, 제국의 패잔병 및 민간인의 보호지입니다.
 더 안전한 지역으로 이동한 사람도 많지만 제국 시민 사이에서는
 제국 수도의 부흥을 꿈꾸는 움직임도 있는 듯합니다."
-17,"TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_205","미력하나마 저희도 머지않아 돕고 싶습니다.
+17,TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_205,"미력하나마 저희도 머지않아 돕고 싶습니다.
 현재를 사는, 같은 인간으로서……."

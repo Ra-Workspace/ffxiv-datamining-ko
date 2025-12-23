@@ -1,277 +1,272 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CHRHDY401_04806_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙:  직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_CHRHDY401_04806_SEQ_00,"**특수 규칙:  직업 고정**
 알키미야 제약당에 있는 게롤트는 의욕이 넘치는 듯하다."
-1,"TEXT_CHRHDY401_04806_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+1,TEXT_CHRHDY401_04806_SEQ_01,"※ 이 퀘스트에는 ** 직업 고정**이 적용됩니다.
    퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
 
-모험가는 맨더빌 웨폰의 최종 개량에 필요한 재료를 모으게 되었다. '<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 3개 모아서  '맨더빌 웨폰'을 소지한 상태로 알키미야 제약당에 있는 '게롤트'에게 건네자. 
+모험가는 맨더빌 웨폰의 최종 개량에 필요한 재료를 모으게 되었다. '' 3개 모아서  '맨더빌 웨폰'을 소지한 상태로 알키미야 제약당에 있는 '게롤트'에게 건네자. 
 
-'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EB8A94FF04EC9D80</13> 에테라이트 광장에 있는 '주브룬나'를 통해 교환할 수 있습니다."
-2,"TEXT_CHRHDY401_04806_SEQ_02","게롤트에게 <Sheet(Item,41032,0)/><13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 건네고 다 함께 '신사의 춤'을 춤으로써 맨더빌리안 기름의 성분을 추출하고 맨더빌 웨폰의 최종 개량에 성공했다. 고드브랜드가 남긴 영상을 감상하고 고드베르트는 맨더빌 웨폰에 담긴 선조의 마음을 실현할 수 있었다. "
-3,"TEXT_CHRHDY401_04806_SEQ_03",""
-4,"TEXT_CHRHDY401_04806_SEQ_04",""
-5,"TEXT_CHRHDY401_04806_SEQ_05",""
-6,"TEXT_CHRHDY401_04806_SEQ_06",""
-7,"TEXT_CHRHDY401_04806_SEQ_07",""
-8,"TEXT_CHRHDY401_04806_SEQ_08",""
-9,"TEXT_CHRHDY401_04806_SEQ_09",""
-10,"TEXT_CHRHDY401_04806_SEQ_10",""
-11,"TEXT_CHRHDY401_04806_SEQ_11",""
-12,"TEXT_CHRHDY401_04806_SEQ_12",""
-13,"TEXT_CHRHDY401_04806_SEQ_13",""
-14,"TEXT_CHRHDY401_04806_SEQ_14",""
-15,"TEXT_CHRHDY401_04806_SEQ_15",""
-16,"TEXT_CHRHDY401_04806_SEQ_16",""
-17,"TEXT_CHRHDY401_04806_SEQ_17",""
-18,"TEXT_CHRHDY401_04806_SEQ_18",""
-19,"TEXT_CHRHDY401_04806_SEQ_19",""
-20,"TEXT_CHRHDY401_04806_SEQ_20",""
-21,"TEXT_CHRHDY401_04806_SEQ_21",""
-22,"TEXT_CHRHDY401_04806_SEQ_22",""
-23,"TEXT_CHRHDY401_04806_SEQ_23",""
-24,"TEXT_CHRHDY401_04806_TODO_00","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><Sheet(Item,41032,0)/><13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 획득<Else/><If(Equal(IntegerParameter(4),19))><Sheet(Item,39920,0)/><13>FF0F02280BFF054974656DF29BF00103FF04EC9980FF04EAB3BC</13>
-<Sheet(Item,39939,0)/><13>FF0F02280BFF054974656DF29C030103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,39921,0)/><13>FF0F02280BFF054974656DF29BF10103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,39922,0)/><13>FF0F02280BFF054974656DF29BF20103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,39923,0)/><13>FF0F02280BFF054974656DF29BF30103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,39924,0)/><13>FF0F02280BFF054974656DF29BF40103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,39928,0)/><13>FF0F02280BFF054974656DF29BF80103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,39929,0)/><13>FF0F02280BFF054974656DF29BF90103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,39930,0)/><13>FF0F02280BFF054974656DF29BFA0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,39931,0)/><13>FF0F02280BFF054974656DF29BFB0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,39925,0)/><13>FF0F02280BFF054974656DF29BF50103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,39927,0)/><13>FF0F02280BFF054974656DF29BF70103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,39926,0)/><13>FF0F02280BFF054974656DF29BF60103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,39932,0)/><13>FF0F02280BFF054974656DF29BFC0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,39933,0)/><13>FF0F02280BFF054974656DF29BFD0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,39934,0)/><13>FF0F02280BFF054974656DF29BFE0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,39935,0)/><13>FF0F02280BFF054974656DF298F70103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,39936)/><13>FF0E02280AFF054974656DF19C0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),39))><Sheet(Item,39938,0)/><13>FF0F02280BFF054974656DF29C020103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),40))><Sheet(Item,39937,0)/><13>FF0F02280BFF054974656DF29C010103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If> 장비에서 해제하고
-소지품에 보유한 상태로
-게롤트에게 <Sheet(Item,41032,0)/> 전달</If>"
-25,"TEXT_CHRHDY401_04806_TODO_01",""
-26,"TEXT_CHRHDY401_04806_TODO_02",""
-27,"TEXT_CHRHDY401_04806_TODO_03",""
-28,"TEXT_CHRHDY401_04806_TODO_04",""
-29,"TEXT_CHRHDY401_04806_TODO_05",""
-30,"TEXT_CHRHDY401_04806_TODO_06",""
-31,"TEXT_CHRHDY401_04806_TODO_07",""
-32,"TEXT_CHRHDY401_04806_TODO_08",""
-33,"TEXT_CHRHDY401_04806_TODO_09",""
-34,"TEXT_CHRHDY401_04806_TODO_10",""
-35,"TEXT_CHRHDY401_04806_TODO_11",""
-36,"TEXT_CHRHDY401_04806_TODO_12",""
-37,"TEXT_CHRHDY401_04806_TODO_13",""
-38,"TEXT_CHRHDY401_04806_TODO_14",""
-39,"TEXT_CHRHDY401_04806_TODO_15",""
-40,"TEXT_CHRHDY401_04806_TODO_16",""
-41,"TEXT_CHRHDY401_04806_TODO_17",""
-42,"TEXT_CHRHDY401_04806_TODO_18",""
-43,"TEXT_CHRHDY401_04806_TODO_19",""
-44,"TEXT_CHRHDY401_04806_TODO_20",""
-45,"TEXT_CHRHDY401_04806_TODO_21",""
-46,"TEXT_CHRHDY401_04806_TODO_22",""
-47,"TEXT_CHRHDY401_04806_TODO_23",""
-48,"TEXT_CHRHDY401_04806_SYSTEM_000_000","퀘스트 '춤추는 장인들'에서 획득할 수 있는 무기는
-현재 직업인 '<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>' 전용 맨더빌 웨폰입니다."
-49,"TEXT_CHRHDY401_04806_SYSTEM_000_001","'춤추는 장인들'을
-<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If><14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
-50,"TEXT_CHRHDY401_04806_Q4_000_001","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 맨더빌 웨폰을 만드시겠습니까?"
-51,"TEXT_CHRHDY401_04806_A4_000_002","조금 더 생각한다"
-52,"TEXT_CHRHDY401_04806_A4_000_003","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 맨더빌 웨폰 만들기"
-53,"TEXT_CHRHDY401_04806_SYSTEM_000_005","퀘스트 '춤추는 장인들'을 수락하면
+'' 에테라이트 광장에 있는 '주브룬나'를 통해 교환할 수 있습니다."
+2,TEXT_CHRHDY401_04806_SEQ_02,게롤트에게  건네고 다 함께 '신사의 춤'을 춤으로써 맨더빌리안 기름의 성분을 추출하고 맨더빌 웨폰의 최종 개량에 성공했다. 고드브랜드가 남긴 영상을 감상하고 고드베르트는 맨더빌 웨폰에 담긴 선조의 마음을 실현할 수 있었다. 
+3,TEXT_CHRHDY401_04806_SEQ_03,
+4,TEXT_CHRHDY401_04806_SEQ_04,
+5,TEXT_CHRHDY401_04806_SEQ_05,
+6,TEXT_CHRHDY401_04806_SEQ_06,
+7,TEXT_CHRHDY401_04806_SEQ_07,
+8,TEXT_CHRHDY401_04806_SEQ_08,
+9,TEXT_CHRHDY401_04806_SEQ_09,
+10,TEXT_CHRHDY401_04806_SEQ_10,
+11,TEXT_CHRHDY401_04806_SEQ_11,
+12,TEXT_CHRHDY401_04806_SEQ_12,
+13,TEXT_CHRHDY401_04806_SEQ_13,
+14,TEXT_CHRHDY401_04806_SEQ_14,
+15,TEXT_CHRHDY401_04806_SEQ_15,
+16,TEXT_CHRHDY401_04806_SEQ_16,
+17,TEXT_CHRHDY401_04806_SEQ_17,
+18,TEXT_CHRHDY401_04806_SEQ_18,
+19,TEXT_CHRHDY401_04806_SEQ_19,
+20,TEXT_CHRHDY401_04806_SEQ_20,
+21,TEXT_CHRHDY401_04806_SEQ_21,
+22,TEXT_CHRHDY401_04806_SEQ_22,
+23,TEXT_CHRHDY401_04806_SEQ_23,
+24,TEXT_CHRHDY401_04806_TODO_00, 획득
+25,TEXT_CHRHDY401_04806_TODO_01,
+26,TEXT_CHRHDY401_04806_TODO_02,
+27,TEXT_CHRHDY401_04806_TODO_03,
+28,TEXT_CHRHDY401_04806_TODO_04,
+29,TEXT_CHRHDY401_04806_TODO_05,
+30,TEXT_CHRHDY401_04806_TODO_06,
+31,TEXT_CHRHDY401_04806_TODO_07,
+32,TEXT_CHRHDY401_04806_TODO_08,
+33,TEXT_CHRHDY401_04806_TODO_09,
+34,TEXT_CHRHDY401_04806_TODO_10,
+35,TEXT_CHRHDY401_04806_TODO_11,
+36,TEXT_CHRHDY401_04806_TODO_12,
+37,TEXT_CHRHDY401_04806_TODO_13,
+38,TEXT_CHRHDY401_04806_TODO_14,
+39,TEXT_CHRHDY401_04806_TODO_15,
+40,TEXT_CHRHDY401_04806_TODO_16,
+41,TEXT_CHRHDY401_04806_TODO_17,
+42,TEXT_CHRHDY401_04806_TODO_18,
+43,TEXT_CHRHDY401_04806_TODO_19,
+44,TEXT_CHRHDY401_04806_TODO_20,
+45,TEXT_CHRHDY401_04806_TODO_21,
+46,TEXT_CHRHDY401_04806_TODO_22,
+47,TEXT_CHRHDY401_04806_TODO_23,
+48,TEXT_CHRHDY401_04806_SYSTEM_000_000,"퀘스트 '춤추는 장인들'에서 획득할 수 있는 무기는
+현재 직업인 '' 전용 맨더빌 웨폰입니다."
+49,TEXT_CHRHDY401_04806_SYSTEM_000_001,"'춤추는 장인들'을
+ 수락하시겠습니까?"
+50,TEXT_CHRHDY401_04806_Q4_000_001, 전용 맨더빌 웨폰을 만드시겠습니까?
+51,TEXT_CHRHDY401_04806_A4_000_002,조금 더 생각한다
+52,TEXT_CHRHDY401_04806_A4_000_003, 전용 맨더빌 웨폰 만들기
+53,TEXT_CHRHDY401_04806_SYSTEM_000_005,"퀘스트 '춤추는 장인들'을 수락하면
 퀘스트를 완료하거나 포기할 때까지
 다른 직업으로 '춤추는 장인들'을 수락할 수 없습니다."
-54,"TEXT_CHRHDY401_04806_SYSTEM_000_006","맨더빌 웨폰을 만들고 싶은 직업으로 변경한 후
+54,TEXT_CHRHDY401_04806_SYSTEM_000_006,"맨더빌 웨폰을 만들고 싶은 직업으로 변경한 후
 다시 게롤트에게 말을 거십시오."
-55,"TEXT_CHRHDY401_04806_SYSTEM_000_007","'<Sheet(Item,IntegerParameter(1),0)/>' 및
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
+55,TEXT_CHRHDY401_04806_SYSTEM_000_007,"'' 및
+'' 소지하거나 장비하지 않으면
 '춤추는 장인들'을 수락할 수 없습니다."
-56,"TEXT_CHRHDY401_04806_SYSTEM_000_008","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
+56,TEXT_CHRHDY401_04806_SYSTEM_000_008,"'' 소지하거나 장비하지 않으면
 '춤추는 장인들'을 수락할 수 없습니다."
-57,"TEXT_CHRHDY401_04806_GEROLT_000_010","오우, 고드베르트 영감탱이가
+57,TEXT_CHRHDY401_04806_GEROLT_000_010,"오우, 고드베르트 영감탱이가
 드디어 맨더빌 웨폰의 최종 개량에 들어갈 거래."
-58,"TEXT_CHRHDY401_04806_CRAFTER04653_000_011","당장 당주님을 불러오겠습니다……."
-59,"TEXT_CHRHDY401_04806_GODBERT_000_012","헛허, <Highlight>ObjectParameter(1)</Highlight> 님,
+58,TEXT_CHRHDY401_04806_CRAFTER04653_000_011,당장 당주님을 불러오겠습니다…….
+59,TEXT_CHRHDY401_04806_GODBERT_000_012,"헛허, Player Player 님,
 드디어 맨더빌 웨폰을 완성시킬 때가 되었습니다!"
-60,"TEXT_CHRHDY401_04806_JULYAN_000_013","난 이번에 아내나 어머니가 아닌,
+60,TEXT_CHRHDY401_04806_JULYAN_000_013,"난 이번에 아내나 어머니가 아닌,
 맨더빌 & 맨더빌 사의 공동 경영자의 자격으로 온 거야."
-61,"TEXT_CHRHDY401_04806_JULYAN_000_014","무기 제작 비용은 우리 회사에서 대고 있거든.
+61,TEXT_CHRHDY401_04806_JULYAN_000_014,"무기 제작 비용은 우리 회사에서 대고 있거든.
 재료비, 인건비, 시설비 모두 다 합치면 금액이 상당해."
-62,"TEXT_CHRHDY401_04806_JULYAN_000_015","이번 최종 개량에서 완성한다고 해도
+62,TEXT_CHRHDY401_04806_JULYAN_000_015,"이번 최종 개량에서 완성한다고 해도
 그래 봤자 수많은 무기 중 하나에 지나지 않지……."
-63,"TEXT_CHRHDY401_04806_JULYAN_000_016","복제품 판매도 딱히 이익을 내고 있다고 할 수 없고,
+63,TEXT_CHRHDY401_04806_JULYAN_000_016,"복제품 판매도 딱히 이익을 내고 있다고 할 수 없고,
 이대로 사업을 계속해도 되는지 엄격하게 따져볼까 해."
-64,"TEXT_CHRHDY401_04806_GODBERT_000_017","이, 이런 이유로 이번에는 집사람……
+64,TEXT_CHRHDY401_04806_GODBERT_000_017,"이, 이런 이유로 이번에는 집사람……
 아, 아니 줄리안 님도 함께 해주실 것입니다. "
-65,"TEXT_CHRHDY401_04806_GEROLT_000_018","이것 참 걸작이로군!
+65,TEXT_CHRHDY401_04806_GEROLT_000_018,"이것 참 걸작이로군!
 언제나 자신만만하던 영감탱이가 설설 기는 모습이라니!"
-66,"TEXT_CHRHDY401_04806_GEROLT_000_019","이봐, 어떻게 된 거야?
+66,TEXT_CHRHDY401_04806_GEROLT_000_019,"이봐, 어떻게 된 거야?
 당신 지난 번에 술집에서 나랑 마실 때는 경제적 여유가 있어야
 마음껏 제작에 몰두할 수 있다고 호언장담하지 않았어……?"
-67,"TEXT_CHRHDY401_04806_GODBERT_000_020","느긋하게 있을 때가 아닙니다!
+67,TEXT_CHRHDY401_04806_GODBERT_000_020,"느긋하게 있을 때가 아닙니다!
 게롤트 님의 인건비도 감사 대상에 들어 있기 때문에
 이건 결코 남 일이 아닙니다!"
-68,"TEXT_CHRHDY401_04806_GODBERT_000_021","흠흠……
+68,TEXT_CHRHDY401_04806_GODBERT_000_021,"흠흠……
 그럼 정식으로 최종 개량에 대해서 설명드리겠습니다."
-69,"TEXT_CHRHDY401_04806_GODBERT_000_022","승패를 좌우할 결정적인 단서는 물론 기름입니다!
+69,TEXT_CHRHDY401_04806_GODBERT_000_022,"승패를 좌우할 결정적인 단서는 물론 기름입니다!
 에테르 전도율을 최대한으로 끌어올릴,
 그 이름도 '맨더빌리안 기름'……!"
-70,"TEXT_CHRHDY401_04806_GEROLT_000_023","하! 참나, 끝까지 기름이냐고……."
-71,"TEXT_CHRHDY401_04806_GODBERT_000_024","맨더빌리안 기름의 주성분은
-매우 희귀한 운석, '<Sheet(Item,41032,0)/>'에 포함되어 있습니다."
-72,"TEXT_CHRHDY401_04806_GODBERT_000_025","하지만 가장 중요하다고 할 수 있는, 성분의 추출법이
+70,TEXT_CHRHDY401_04806_GEROLT_000_023,"하! 참나, 끝까지 기름이냐고……."
+71,TEXT_CHRHDY401_04806_GODBERT_000_024,"맨더빌리안 기름의 주성분은
+매우 희귀한 운석, ''에 포함되어 있습니다."
+72,TEXT_CHRHDY401_04806_GODBERT_000_025,"하지만 가장 중요하다고 할 수 있는, 성분의 추출법이
 어찌된 영문인지 수수께끼 유물의 어디에도 기록되어 있지 않습니다."
-73,"TEXT_CHRHDY401_04806_GODBERT_000_026","그래서 다른 별의 문화에 정통한 코요코요 님이 잘 알지 않을까,
+73,TEXT_CHRHDY401_04806_GODBERT_000_026,"그래서 다른 별의 문화에 정통한 코요코요 님이 잘 알지 않을까,
 상담해 봤더니 생각지도 못한 제조법이 밝혀진 것이죠."
-74,"TEXT_CHRHDY401_04806_GODBERT_000_027","하지만 저 혼자의 힘으로는 실현할 수 없기에
+74,TEXT_CHRHDY401_04806_GODBERT_000_027,"하지만 저 혼자의 힘으로는 실현할 수 없기에
 여기 있는 여러분의 협력이 필요합니다. "
-75,"TEXT_CHRHDY401_04806_GEROLT_000_028","예감이 안 좋군……
+75,TEXT_CHRHDY401_04806_GEROLT_000_028,"예감이 안 좋군……
 이번에는 또 뭘 시킬 셈이지?"
-76,"TEXT_CHRHDY401_04806_GODBERT_000_029","어려운 일은 아니니까 안심하십시오.
+76,TEXT_CHRHDY401_04806_GODBERT_000_029,"어려운 일은 아니니까 안심하십시오.
 자세한 내용은 잠시 뒤에 말씀드리겠습니다."
-77,"TEXT_CHRHDY401_04806_GODBERT_000_30","늘 그렇듯이 다른 재료는 제가 준비할 수 있습니다만,
-<Sheet(Item,41032,0)/> 만큼은 당신에게 부탁드리고 싶군요.
+77,TEXT_CHRHDY401_04806_GODBERT_000_30,"늘 그렇듯이 다른 재료는 제가 준비할 수 있습니다만,
+ 만큼은 당신에게 부탁드리고 싶군요.
 주브룬나 공이 다루고 있을 것입니다. "
-78,"TEXT_CHRHDY401_04806_GODBERT_000_031","이번에는 맨더빌리안의 기술을 아낌없이 도입하기 위해
+78,TEXT_CHRHDY401_04806_GODBERT_000_031,"이번에는 맨더빌리안의 기술을 아낌없이 도입하기 위해
 무기의 외형도 지금까지와는 달리 참신하게 변신시킬 것입니다.
 더불어 기름을 이용해 능력 조정도 실행할 생각입니다."
-79,"TEXT_CHRHDY401_04806_GODBERT_000_032","필요한 '<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EB8A94FF04EC9D80</13> 3개입니다.
+79,TEXT_CHRHDY401_04806_GODBERT_000_032,"필요한 '' 3개입니다.
 하나는 기름에 쓰고, 나머지는 무기 재료로 쓸 것입니다.
 번거롭겠지만, 부디 잘 부탁드립니다. "
-80,"TEXT_CHRHDY401_04806_SYSTEM_000_040","'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EB8A94FF04EC9D80</13>
+80,TEXT_CHRHDY401_04806_SYSTEM_000_040,"''
 에테라이트 광장에 있는 '주브룬나'를 통해
 교환할 수 있습니다."
-81,"TEXT_CHRHDY401_04806_GEROLT_000_050","<Sheet(Item,41032,0)/><13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 다 모으면 나한테 줘.
+81,TEXT_CHRHDY401_04806_GEROLT_000_050," 다 모으면 나한테 줘.
 나참, 이번엔 무슨 짓을 시키려고……."
-82,"TEXT_CHRHDY401_04806_SYSTEM_000_051","'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EB8A94FF04EC9D80</13>
+82,TEXT_CHRHDY401_04806_SYSTEM_000_051,"''
 에테라이트 광장에 있는 '주브룬나'를 통해
 교환할 수 있습니다."
-83,"TEXT_CHRHDY401_04806_GEROLT_000_060","재료가 모인 것 같군……
+83,TEXT_CHRHDY401_04806_GEROLT_000_060,"재료가 모인 것 같군……
 일단 '맨더빌 웨폰'을 장비에서 해제해."
-84,"TEXT_CHRHDY401_04806_GEROLT_000_061","오우, 재료를 모아서 갖고 왔군.
-그럼 바로 '<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 건네주겠어?"
-85,"TEXT_CHRHDY401_04806_GEROLT_000_062","좋았어, 이제 준비는 완벽해.
+84,TEXT_CHRHDY401_04806_GEROLT_000_061,"오우, 재료를 모아서 갖고 왔군.
+그럼 바로 '' 건네주겠어?"
+85,TEXT_CHRHDY401_04806_GEROLT_000_062,"좋았어, 이제 준비는 완벽해.
 영감탱이도 불러서 최종 개량을 시작하자!"
-86,"TEXT_CHRHDY401_04806_GODBERT_000_100","재료를 모아 주셔서 감사합니다.
+86,TEXT_CHRHDY401_04806_GODBERT_000_100,"재료를 모아 주셔서 감사합니다.
 이걸로 최종 개량에 들어갈 수 있겠군요."
-87,"TEXT_CHRHDY401_04806_GODBERT_000_101","<Sheet(Item,41032,0)/><13>FF0F02280BFF054974656DF2A0480103FF04EB8A94FF04EC9D80</13> 신비의 운석……
+87,TEXT_CHRHDY401_04806_GODBERT_000_101," 신비의 운석……
 여행해온 우주의 에테르를 담고 있다고 하지요."
-88,"TEXT_CHRHDY401_04806_GODBERT_000_102","그리고 특수한 제조법으로 담겨 있는 에테르를 응축해
+88,TEXT_CHRHDY401_04806_GODBERT_000_102,"그리고 특수한 제조법으로 담겨 있는 에테르를 응축해
 농축액 한 방울로 추출합니다.
 그것이 맨더빌리안 기름의 주성분이 되는 것이죠."
-89,"TEXT_CHRHDY401_04806_GEROLT_000_103","아, 장황한 설명은 됐고, 빨리 그 제조법인지 뭔지나 알려줘.
+89,TEXT_CHRHDY401_04806_GEROLT_000_103,"아, 장황한 설명은 됐고, 빨리 그 제조법인지 뭔지나 알려줘.
 우리는 뭘 하면 되는 거야……?"
-90,"TEXT_CHRHDY401_04806_GODBERT_000_104","다 같이 맨더빌가에 전해 내려오는 '신사의 춤'을 추는 겁니다!"
-91,"TEXT_CHRHDY401_04806_GODBERT_000_105","그 옛날 '고드브랜드'도
-<Sheet(Item,41032,0)/>에서 농축액 추출에 성공하기까지
+90,TEXT_CHRHDY401_04806_GODBERT_000_104,다 같이 맨더빌가에 전해 내려오는 '신사의 춤'을 추는 겁니다!
+91,TEXT_CHRHDY401_04806_GODBERT_000_105,"그 옛날 '고드브랜드'도
+에서 농축액 추출에 성공하기까지
 셀 수 없을 정도로 많은 실패를 반복했다고 합니다. "
-92,"TEXT_CHRHDY401_04806_GODBERT_000_106","그는 다른 별과 교신하며 친구에게 조언을 구했죠.
-그리고 판명된 것이 <Sheet(Item,41032,0)/>에 특수한 에테르파를 쏘아서
+92,TEXT_CHRHDY401_04806_GODBERT_000_106,"그는 다른 별과 교신하며 친구에게 조언을 구했죠.
+그리고 판명된 것이 에 특수한 에테르파를 쏘아서
 응축을 촉진한다는 이론……"
-93,"TEXT_CHRHDY401_04806_GODBERT_000_107","그리고 고드브랜드는 원하는 에테르파를,
+93,TEXT_CHRHDY401_04806_GODBERT_000_107,"그리고 고드브랜드는 원하는 에테르파를,
 스스로의 육체에서 방출하기 위해 단련을 계속했습니다.
 그래요, 저희 가문의 전통 '신사의 춤'은 이렇게 태어난 것입니다."
-94,"TEXT_CHRHDY401_04806_GODBERT_000_108","참고로 그 다른 별이란 코요코요 님의 고향인 것 같더군요.
+94,TEXT_CHRHDY401_04806_GODBERT_000_108,"참고로 그 다른 별이란 코요코요 님의 고향인 것 같더군요.
 그가 '신사의 춤'에 숨겨진 성질이 있다는 것을 꿰뚫어본 덕에
 추출법이 새롭게 판명되었다고 합니다."
-95,"TEXT_CHRHDY401_04806_GEROLT_000_109","헉, 아무리 그럴 듯한 이유를 갖다 붙여도
+95,TEXT_CHRHDY401_04806_GEROLT_000_109,"헉, 아무리 그럴 듯한 이유를 갖다 붙여도
 이번만큼은 절대로 속아 넘어가지 않을 거야.
 춤을 춘다고 추출이 되겠냐고, 난 절대로 안 해!"
-96,"TEXT_CHRHDY401_04806_JULYAN_000_110","나도 이번에는 감사 역할로 온 거니까
+96,TEXT_CHRHDY401_04806_JULYAN_000_110,"나도 이번에는 감사 역할로 온 거니까
 어디까지나 제삼자로서 견학만 할게."
-97,"TEXT_CHRHDY401_04806_GODBERT_000_111","음, 알겠습니다.
+97,TEXT_CHRHDY401_04806_GODBERT_000_111,"음, 알겠습니다.
 그럼 두 분은 빼고 추출을 시작하겠습니다."
-98,"TEXT_CHRHDY401_04806_GODBERT_000_112","당신에게는 <Sheet(Item,41032,0)/><13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 들고
+98,TEXT_CHRHDY401_04806_GODBERT_000_112,"당신에게는  들고
 고여서 떨어지는 성분을 받아내는, 중요한 역할을 부탁하고 싶습니다."
-99,"TEXT_CHRHDY401_04806_GEROLT_000_113","흥, 거봐.
+99,TEXT_CHRHDY401_04806_GEROLT_000_113,"흥, 거봐.
 아무 일도 안 일어나잖아……."
-100,"TEXT_CHRHDY401_04806_GODBERT_000_114","음, 춤의 힘이 부족한 것 같군요……"
-101,"TEXT_CHRHDY401_04806_JULYAN_000_115","나참, 번거롭게 하네……"
-102,"TEXT_CHRHDY401_04806_GEROLT_000_116","아, 아름다워……"
-103,"TEXT_CHRHDY401_04806_GODBERT_000_117","아, 아직도 부족하단 말인가……!"
-104,"TEXT_CHRHDY401_04806_GODBERT_000_118","여러분의 춤이 <Sheet(Item,41032,0)/>에 전달되어
+100,TEXT_CHRHDY401_04806_GODBERT_000_114,"음, 춤의 힘이 부족한 것 같군요……"
+101,TEXT_CHRHDY401_04806_JULYAN_000_115,"나참, 번거롭게 하네……"
+102,TEXT_CHRHDY401_04806_GEROLT_000_116,"아, 아름다워……"
+103,TEXT_CHRHDY401_04806_GODBERT_000_117,"아, 아직도 부족하단 말인가……!"
+104,TEXT_CHRHDY401_04806_GODBERT_000_118,"여러분의 춤이 에 전달되어
 농축액 추출에 성공했습니다……!"
-105,"TEXT_CHRHDY401_04806_GODBERT_000_119","이제 나머지는 저와 게롤트 님에게 맡겨 주십시오.
+105,TEXT_CHRHDY401_04806_GODBERT_000_119,"이제 나머지는 저와 게롤트 님에게 맡겨 주십시오.
 이 농축액으로 맨더빌리안 기름을 정제해,
 맨더빌 웨폰의 최종 개량을 시작하겠습니다……!"
-106,"TEXT_CHRHDY401_04806_GEROLT_000_120","오우, 최고의 무기로 완성해주지……!"
-107,"TEXT_CHRHDY401_04806_GODBERT_000_130","지금부터 마무리로 맨더빌리안 기름을 바르겠습니다.
+106,TEXT_CHRHDY401_04806_GEROLT_000_120,"오우, 최고의 무기로 완성해주지……!"
+107,TEXT_CHRHDY401_04806_GODBERT_000_130,"지금부터 마무리로 맨더빌리안 기름을 바르겠습니다.
 기름의 조합 정도에 따라 무기 능력을 조정할 수 있으니
 사용자인 당신의 취향을 말씀해 주십시오."
-108,"TEXT_CHRHDY401_04806_GODBERT_000_131","어떤 능력을 희망하시는지
+108,TEXT_CHRHDY401_04806_GODBERT_000_131,"어떤 능력을 희망하시는지
 잘 생각해서 결정하시길 바랍니다……."
-109,"TEXT_CHRHDY401_04806_Q3_000_000","무엇을 하시겠습니까?"
-110,"TEXT_CHRHDY401_04806_A3_000_001","'맨더빌 웨폰'의 능력치 조정하기"
-111,"TEXT_CHRHDY401_04806_A3_000_002","설명 듣기"
-112,"TEXT_CHRHDY401_04806_A3_000_003","취소 "
-113,"TEXT_CHRHDY401_04806_SYSTEM_000_140","개량한 맨더빌 웨폰에
+109,TEXT_CHRHDY401_04806_Q3_000_000,무엇을 하시겠습니까?
+110,TEXT_CHRHDY401_04806_A3_000_001,'맨더빌 웨폰'의 능력치 조정하기
+111,TEXT_CHRHDY401_04806_A3_000_002,설명 듣기
+112,TEXT_CHRHDY401_04806_A3_000_003,취소 
+113,TEXT_CHRHDY401_04806_SYSTEM_000_140,"개량한 맨더빌 웨폰에
 3종류의 능력치를 선택해서 부여할 수 있습니다.
 그중 하나는 부여할 수 있는 수치가 낮아집니다."
-114,"TEXT_CHRHDY401_04806_SYSTEM_000_141","능력치를 고르고 나서
+114,TEXT_CHRHDY401_04806_SYSTEM_000_141,"능력치를 고르고 나서
 '부여'를 선택하면
 해당 능력치가 부여됩니다."
-115,"TEXT_CHRHDY401_04806_SYSTEM_000_142","재조정을 할 경우에도
-'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EAB080FF04EC9DB4</13> 필요하므로
+115,TEXT_CHRHDY401_04806_SYSTEM_000_142,"재조정을 할 경우에도
+'' 필요하므로
 신중하게 능력치를 조정하세요."
-116,"TEXT_CHRHDY401_04806_GODBERT_000_143","알겠습니다!
+116,TEXT_CHRHDY401_04806_GODBERT_000_143,"알겠습니다!
 그럼 마무리 작업을 하겠습니다……!!"
-117,"TEXT_CHRHDY401_04806_GODBERT_000_144","완성되었습니다, <Highlight>ObjectParameter(1)</Highlight> 님!"
-118,"TEXT_CHRHDY401_04806_GEROLT_000_145","그 녀석이 우리 모든 장인의 혼이 담긴 결정체,
+117,TEXT_CHRHDY401_04806_GODBERT_000_144,"완성되었습니다, Player Player 님!"
+118,TEXT_CHRHDY401_04806_GEROLT_000_145,"그 녀석이 우리 모든 장인의 혼이 담긴 결정체,
 맨더빌 웨폰의 최종 단계……"
-119,"TEXT_CHRHDY401_04806_GEROLT_000_146","'<Sheet(Item,IntegerParameter(1),0)/>'
-그리고 '<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EB8BA4FF07EC9DB4EB8BA4</13>!"
-120,"TEXT_CHRHDY401_04806_GEROLT_000_147","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8BA4FF07EC9DB4EB8BA4</13>!"
-121,"TEXT_CHRHDY401_04806_GODBERT_000_148","드디어 맨더빌 웨폰이 완성되었군요!
+119,TEXT_CHRHDY401_04806_GEROLT_000_146,"''
+그리고 ''!"
+120,TEXT_CHRHDY401_04806_GEROLT_000_147,''!
+121,TEXT_CHRHDY401_04806_GODBERT_000_148,"드디어 맨더빌 웨폰이 완성되었군요!
 염원이 이루어져 감개무량합니다……!"
-122,"TEXT_CHRHDY401_04806_GEROLT_000_149","그래, 정말이야.
+122,TEXT_CHRHDY401_04806_GEROLT_000_149,"그래, 정말이야.
 마법인형과 싸우고 이상한 술에 취해 주정도 부리고
 하다 하다 희한한 춤까지 췄지만, 이걸로 다 보상받은 것 같군……."
-123,"TEXT_CHRHDY401_04806_GODBERT_000_150","사실 수수께끼 유물에는
+123,TEXT_CHRHDY401_04806_GODBERT_000_150,"사실 수수께끼 유물에는
 은닉된 영상이 남아 있던 모양이더군요."
-124,"TEXT_CHRHDY401_04806_GODBERT_000_151","코요코요 님의 해석에 따르면
+124,TEXT_CHRHDY401_04806_GODBERT_000_151,"코요코요 님의 해석에 따르면
 맨더빌 웨폰이 그 영상을 볼 수 있는 열쇠라고 합니다.
 이제 다 같이 감상하도록 하시죠."
-125,"TEXT_CHRHDY401_04806_GODBERT_000_200","흠, 정말로 영상이 하나 나오는군요.
+125,TEXT_CHRHDY401_04806_GODBERT_000_200,"흠, 정말로 영상이 하나 나오는군요.
 그럼 재생해보겠습니다."
-126,"TEXT_CHRHDY401_04806_GODBRAND_000_201","이 영상을 보고 있다는 건
+126,TEXT_CHRHDY401_04806_GODBRAND_000_201,"이 영상을 보고 있다는 건
 맨더빌 웨폰을 완성시켰다는 뜻이겠군요."
-127,"TEXT_CHRHDY401_04806_GODBRAND_000_202","그럼 그 무기에 담긴
+127,TEXT_CHRHDY401_04806_GODBRAND_000_202,"그럼 그 무기에 담긴
 나의 추억을 조금 이야기해볼까 합니다. "
-128,"TEXT_CHRHDY401_04806_GODBRAND_000_203","지난번 영상에서도 말씀드렸지만
+128,TEXT_CHRHDY401_04806_GODBRAND_000_203,"지난번 영상에서도 말씀드렸지만
 맨더빌리안이 사는 별들은 원인 불명의 재앙으로 멸망하였습니다."
-129,"TEXT_CHRHDY401_04806_GODBERT_000_204","이곳 사베네어도 덮쳤던, 일련의 종말 현상이겠죠."
-130,"TEXT_CHRHDY401_04806_GODBRAND_000_205","이 별은 지금은 평화롭지만,
+129,TEXT_CHRHDY401_04806_GODBERT_000_204,"이곳 사베네어도 덮쳤던, 일련의 종말 현상이겠죠."
+130,TEXT_CHRHDY401_04806_GODBRAND_000_205,"이 별은 지금은 평화롭지만,
 언제 무엇의 위협을 받게 될지 모릅니다."
-131,"TEXT_CHRHDY401_04806_GODBRAND_000_206","바로 그럴 때 평화를 위협하는 존재와 싸우기 위해
+131,TEXT_CHRHDY401_04806_GODBRAND_000_206,"바로 그럴 때 평화를 위협하는 존재와 싸우기 위해
 저는 맨더빌 웨폰을 제작했습니다."
-132,"TEXT_CHRHDY401_04806_GODBRAND_000_207","하지만 너무 강한 무기는 사용자의 마음에 따라서는
+132,TEXT_CHRHDY401_04806_GODBRAND_000_207,"하지만 너무 강한 무기는 사용자의 마음에 따라서는
 평화를 위협하는 새로운 위험 요소가 될 수도 있습니다."
-133,"TEXT_CHRHDY401_04806_GODBRAND_000_208","저는 맨더빌 웨폰을 완성시켰지만,
+133,TEXT_CHRHDY401_04806_GODBRAND_000_208,"저는 맨더빌 웨폰을 완성시켰지만,
 그것을 가질 만한 실력과 마음을 겸비한 자는 찾을 수 없었습니다.
 따라서 제작한 무기는 모두 폐기할 생각입니다."
-134,"TEXT_CHRHDY401_04806_GEROLT_000_209","그렇군, 그래서 현물이 다 없어진 거였군……."
-135,"TEXT_CHRHDY401_04806_GODBRAND_000_210","하지만 그 제조법은 남기기로 했습니다.
+134,TEXT_CHRHDY401_04806_GEROLT_000_209,"그렇군, 그래서 현물이 다 없어진 거였군……."
+135,TEXT_CHRHDY401_04806_GODBRAND_000_210,"하지만 그 제조법은 남기기로 했습니다.
 쉽게 만들 수 없도록 이 장치에 강화법을 담고
 맨더빌리안 기름의 정제법은 일부러 은닉했습니다만."
-136,"TEXT_CHRHDY401_04806_GODBRAND_000_211","그런데도 당신은 맨더빌 웨폰을 완성했습니다.
+136,TEXT_CHRHDY401_04806_GODBRAND_000_211,"그런데도 당신은 맨더빌 웨폰을 완성했습니다.
 그만한 지혜와 기술을 가진 자라면
 분명 바르게 무기를 다루는 자를 찾아낼 수 있을 터."
-137,"TEXT_CHRHDY401_04806_GODBRAND_000_212","저는 당신의 눈을 믿습니다."
-138,"TEXT_CHRHDY401_04806_GODBRAND_000_213","부디 완성한 맨더빌 웨폰을
+137,TEXT_CHRHDY401_04806_GODBRAND_000_212,저는 당신의 눈을 믿습니다.
+138,TEXT_CHRHDY401_04806_GODBRAND_000_213,"부디 완성한 맨더빌 웨폰을
 평화를 사랑하는 마음의 소유자에게 맡겨 주십시오."
-139,"TEXT_CHRHDY401_04806_GODBERT_000_214","저는 종말 현상을 이미 경험한, 평화의 수호자인 당신에게
+139,TEXT_CHRHDY401_04806_GODBERT_000_214,"저는 종말 현상을 이미 경험한, 평화의 수호자인 당신에게
 필요할 것이라 생각해 맨더빌 웨폰 제작을 결심하였습니다.
 신기하게도 제 마음과 선조의 마음이 같았던 것 같군요."
-140,"TEXT_CHRHDY401_04806_GODBERT_000_215","여러분과 함께 고드브랜드의 마음을 실현시켜서 다행입니다.
+140,TEXT_CHRHDY401_04806_GODBERT_000_215,"여러분과 함께 고드브랜드의 마음을 실현시켜서 다행입니다.
 협력해주셔서 감사했습니다."
-141,"TEXT_CHRHDY401_04806_GEROLT_000_216","헤헷, 외계인의 기술이라고 들었을 때는 깜짝 놀랐지만,
+141,TEXT_CHRHDY401_04806_GEROLT_000_216,"헤헷, 외계인의 기술이라고 들었을 때는 깜짝 놀랐지만,
 나에게는 식은 죽 먹기였다고."
-142,"TEXT_CHRHDY401_04806_CRAFTER04653_000_217","자, 잠깐 기다려 주십시오.
+142,TEXT_CHRHDY401_04806_CRAFTER04653_000_217,"자, 잠깐 기다려 주십시오.
 맨더빌 웨폰은 한 종류만 있는 것은 아닙니다.
 아직도 만들어야 할 무기는 남아 있습니다."
-143,"TEXT_CHRHDY401_04806_GEROLT_000_218","그래, 알고 있어.
+143,TEXT_CHRHDY401_04806_GEROLT_000_218,"그래, 알고 있어.
 어쩔 수 없으니까 끝까지 함께 해주지!"
-144,"TEXT_CHRHDY401_04806_GODBERT_000_219","이후, 맨더빌리안 기름의 농축액 추출에는
+144,TEXT_CHRHDY401_04806_GODBERT_000_219,"이후, 맨더빌리안 기름의 농축액 추출에는
 알키미야 제약당 분들의 협력을 받아 주십시오.
 '신사의 춤'만 완벽하게 출 수 있다면 누가 추든 상관없으니까요."
-145,"TEXT_CHRHDY401_04806_JULYAN_000_220","이번 감사로 맨더빌 웨폰에는
+145,TEXT_CHRHDY401_04806_JULYAN_000_220,"이번 감사로 맨더빌 웨폰에는
 평화를 사랑하는 모두의 강한 마음이 담겨 있다는 걸 알았어."
-146,"TEXT_CHRHDY401_04806_JULYAN_000_221","맨더빌 & 맨더빌 사의 사업으로서
+146,TEXT_CHRHDY401_04806_JULYAN_000_221,"맨더빌 & 맨더빌 사의 사업으로서
 계속해도 된다는 것을 인정할게!"
-147,"TEXT_CHRHDY401_04806_GODBERT_000_222","헛허, 안심이 됩니다!
+147,TEXT_CHRHDY401_04806_GODBERT_000_222,"헛허, 안심이 됩니다!
 제 쌈짓돈만으로는
 아무래도 자금 운용이 어려우니까요."
-148,"TEXT_CHRHDY401_04806_GODBERT_000_223","자, 다른 종류의 무기에 최종 개량을 하고 싶은 경우에는
+148,TEXT_CHRHDY401_04806_GODBERT_000_223,"자, 다른 종류의 무기에 최종 개량을 하고 싶은 경우에는
 언제나 그렇듯 맨더빌 가 장인에게 말을 걸어 주십시오."
-149,"TEXT_CHRHDY401_04806_GODBERT_000_224","무기 능력치를 재조정하고 싶은 경우에는
-'<Sheet(Item,41032,0)/>'<13>FF0F02280BFF054974656DF2A0480103FF04EBA5BCFF04EC9D84</13> 준비한 뒤에
+149,TEXT_CHRHDY401_04806_GODBERT_000_224,"무기 능력치를 재조정하고 싶은 경우에는
+'' 준비한 뒤에
 맨더빌 가 연금술사에게 맡기면 대응해 드릴 겁니다."
-150,"TEXT_CHRHDY401_04806_GODBERT_000_225","그럼 저희는 실례하겠습니다.
+150,TEXT_CHRHDY401_04806_GODBERT_000_225,"그럼 저희는 실례하겠습니다.
 또 어딘가에서 만납시다!"

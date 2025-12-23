@@ -1,16 +1,14 @@
-﻿key,0,1,2,3
 #,Name,Description,Icon,Order
-int32,str,str,Image,sbyte
-0,"","",0,0
-1,"단체 자세","단체 자세 모드를 실행합니다.
+0,,,0,0
+1,단체 자세,"단체 자세 모드를 실행합니다.
 자신과 파티원, 친구가 직전에 실행한 감정 표현이나 기술 동작을 반복해서 취합니다.
 설정 메뉴에서는 캐릭터별로 동작을 멈추거나 카메라 각도 및 조명을 조절할 수도 있습니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>명령어: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>/단체자세(/단체)
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>단축키 설정 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",651,1
-2,"경관 카메라","주변에 있는 플레이어나 NPC를 일정 간격으로 비춥니다. 특정 대상을 선택한 채로 실행하면 그 대상 주변을 비춥니다. 카메라 위치를 조정하거나 화면에 색상 필터를 적용할 수 있습니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>명령어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: /경관카메라(/경관)
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>단축키 설정 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",652,2
-3,"알람","알람을 설정합니다. 알람을 추가하면 지정된 시간에 알람이 울립니다. 접속 종료 시 알람은 자동 해제됩니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>명령어<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: /알람
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>단축키 설정 가능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",654,3
-4,"","",0,0
+**명령어: **/단체자세(/단체)
+**단축키 설정 가능**",651,1
+2,경관 카메라,"주변에 있는 플레이어나 NPC를 일정 간격으로 비춥니다. 특정 대상을 선택한 채로 실행하면 그 대상 주변을 비춥니다. 카메라 위치를 조정하거나 화면에 색상 필터를 적용할 수 있습니다.
+**명령어**: /경관카메라(/경관)
+**단축키 설정 가능**",652,2
+3,알람,"알람을 설정합니다. 알람을 추가하면 지정된 시간에 알람이 울립니다. 접속 종료 시 알람은 자동 해제됩니다.
+**명령어**: /알람
+**단축키 설정 가능**",654,3
+4,,,0,0

@@ -1,416 +1,414 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANLOP001_04681_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANLOP001_04681_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 올드 샬레이안에 있는 드리밍웨이는 모험가를 찾고 있는 듯하다."
-1,"TEXT_BANLOP001_04681_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+1,TEXT_BANLOP001_04681_SEQ_01,"※ 이 퀘스트에는
+ '**** 레벨 보정(직업 변경 제한)' 적용됩니다.
   퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
 
 드리밍웨이와 대화했다. 레포릿들의 상태를 확인하기 위해 비탄의 바다에 있는 베스트웨이 피난처로 가서 '드리밍웨이'와 대화하자."
-2,"TEXT_BANLOP001_04681_SEQ_02","드리밍웨이와 대화했다. 베스트웨이 피난처에서 시들시들 레포릿들에게 말을 걸어 상태를 확인하자."
-3,"TEXT_BANLOP001_04681_SEQ_03","시들시들 레포릿들과 대화했다. 베스트웨이 피난처에 있는 '드리밍웨이'에게 보고하자."
-4,"TEXT_BANLOP001_04681_SEQ_04","드리밍웨이에게 보고했다. 리빙웨이에게 활동 허가를 받기 위해 준비가 다 되면 베스트웨이 피난처에서 '드리밍웨이'에게 말을 걸자."
-5,"TEXT_BANLOP001_04681_SEQ_05","드리밍웨이에게 말을 걸고 리빙웨이로부터 활동 허가를 받았다. 비탄의 바다의 베스트웨이 피난처에 있는 희망찬 화물실로 가서 '드리밍웨이'와 대화하자."
-6,"TEXT_BANLOP001_04681_SEQ_06","드리밍웨이와 대화했다. 활동의 첫걸음을 내딛을 장소 마련에 필요한 것을 준비해서 희망찬 화물실에 있는 '매니징웨이'에게 납품하자."
-7,"TEXT_BANLOP001_04681_SEQ_07","장소 마련에 필요한 것을 매니징웨이에게 건넸다. '꿈꾸는 체험관'이라 이름 지은 곳을 활동 거점으로 삼아 드리밍웨이 일행의 도전이 시작되었다. 그들의 동료로서 계속 레포릿들이 꿈을 찾을 수 있는 장소 마련에 협력해 나가자."
-8,"TEXT_BANLOP001_04681_SEQ_08",""
-9,"TEXT_BANLOP001_04681_SEQ_09",""
-10,"TEXT_BANLOP001_04681_SEQ_10",""
-11,"TEXT_BANLOP001_04681_SEQ_11",""
-12,"TEXT_BANLOP001_04681_SEQ_12",""
-13,"TEXT_BANLOP001_04681_SEQ_13",""
-14,"TEXT_BANLOP001_04681_SEQ_14",""
-15,"TEXT_BANLOP001_04681_SEQ_15",""
-16,"TEXT_BANLOP001_04681_SEQ_16",""
-17,"TEXT_BANLOP001_04681_SEQ_17",""
-18,"TEXT_BANLOP001_04681_SEQ_18",""
-19,"TEXT_BANLOP001_04681_SEQ_19",""
-20,"TEXT_BANLOP001_04681_SEQ_20",""
-21,"TEXT_BANLOP001_04681_SEQ_21",""
-22,"TEXT_BANLOP001_04681_SEQ_22",""
-23,"TEXT_BANLOP001_04681_SEQ_23",""
-24,"TEXT_BANLOP001_04681_TODO_00","베스트웨이 피난처에 있는 드리밍웨이와 대화"
-25,"TEXT_BANLOP001_04681_TODO_01","시들시들 레포릿들과 대화"
-26,"TEXT_BANLOP001_04681_TODO_02","드리밍웨이에게 보고"
-27,"TEXT_BANLOP001_04681_TODO_03","드리밍웨이와 대화"
-28,"TEXT_BANLOP001_04681_TODO_04","드리밍웨이와 다시 대화"
-29,"TEXT_BANLOP001_04681_TODO_05","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-30,"TEXT_BANLOP001_04681_TODO_06",""
-31,"TEXT_BANLOP001_04681_TODO_07",""
-32,"TEXT_BANLOP001_04681_TODO_08",""
-33,"TEXT_BANLOP001_04681_TODO_09",""
-34,"TEXT_BANLOP001_04681_TODO_10",""
-35,"TEXT_BANLOP001_04681_TODO_11",""
-36,"TEXT_BANLOP001_04681_TODO_12",""
-37,"TEXT_BANLOP001_04681_TODO_13",""
-38,"TEXT_BANLOP001_04681_TODO_14",""
-39,"TEXT_BANLOP001_04681_TODO_15",""
-40,"TEXT_BANLOP001_04681_TODO_16",""
-41,"TEXT_BANLOP001_04681_TODO_17",""
-42,"TEXT_BANLOP001_04681_TODO_18",""
-43,"TEXT_BANLOP001_04681_TODO_19",""
-44,"TEXT_BANLOP001_04681_TODO_20",""
-45,"TEXT_BANLOP001_04681_TODO_21",""
-46,"TEXT_BANLOP001_04681_TODO_22",""
-47,"TEXT_BANLOP001_04681_TODO_23",""
-48,"TEXT_BANLOP001_04681_DREAMINGWAY_000_000","<Highlight>ObjectParameter(1)</Highlight> 님~!
+2,TEXT_BANLOP001_04681_SEQ_02,드리밍웨이와 대화했다. 베스트웨이 피난처에서 시들시들 레포릿들에게 말을 걸어 상태를 확인하자.
+3,TEXT_BANLOP001_04681_SEQ_03,시들시들 레포릿들과 대화했다. 베스트웨이 피난처에 있는 '드리밍웨이'에게 보고하자.
+4,TEXT_BANLOP001_04681_SEQ_04,드리밍웨이에게 보고했다. 리빙웨이에게 활동 허가를 받기 위해 준비가 다 되면 베스트웨이 피난처에서 '드리밍웨이'에게 말을 걸자.
+5,TEXT_BANLOP001_04681_SEQ_05,드리밍웨이에게 말을 걸고 리빙웨이로부터 활동 허가를 받았다. 비탄의 바다의 베스트웨이 피난처에 있는 희망찬 화물실로 가서 '드리밍웨이'와 대화하자.
+6,TEXT_BANLOP001_04681_SEQ_06,드리밍웨이와 대화했다. 활동의 첫걸음을 내딛을 장소 마련에 필요한 것을 준비해서 희망찬 화물실에 있는 '매니징웨이'에게 납품하자.
+7,TEXT_BANLOP001_04681_SEQ_07,장소 마련에 필요한 것을 매니징웨이에게 건넸다. '꿈꾸는 체험관'이라 이름 지은 곳을 활동 거점으로 삼아 드리밍웨이 일행의 도전이 시작되었다. 그들의 동료로서 계속 레포릿들이 꿈을 찾을 수 있는 장소 마련에 협력해 나가자.
+8,TEXT_BANLOP001_04681_SEQ_08,
+9,TEXT_BANLOP001_04681_SEQ_09,
+10,TEXT_BANLOP001_04681_SEQ_10,
+11,TEXT_BANLOP001_04681_SEQ_11,
+12,TEXT_BANLOP001_04681_SEQ_12,
+13,TEXT_BANLOP001_04681_SEQ_13,
+14,TEXT_BANLOP001_04681_SEQ_14,
+15,TEXT_BANLOP001_04681_SEQ_15,
+16,TEXT_BANLOP001_04681_SEQ_16,
+17,TEXT_BANLOP001_04681_SEQ_17,
+18,TEXT_BANLOP001_04681_SEQ_18,
+19,TEXT_BANLOP001_04681_SEQ_19,
+20,TEXT_BANLOP001_04681_SEQ_20,
+21,TEXT_BANLOP001_04681_SEQ_21,
+22,TEXT_BANLOP001_04681_SEQ_22,
+23,TEXT_BANLOP001_04681_SEQ_23,
+24,TEXT_BANLOP001_04681_TODO_00,베스트웨이 피난처에 있는 드리밍웨이와 대화
+25,TEXT_BANLOP001_04681_TODO_01,시들시들 레포릿들과 대화
+26,TEXT_BANLOP001_04681_TODO_02,드리밍웨이에게 보고
+27,TEXT_BANLOP001_04681_TODO_03,드리밍웨이와 대화
+28,TEXT_BANLOP001_04681_TODO_04,드리밍웨이와 다시 대화
+29,TEXT_BANLOP001_04681_TODO_05,제작수첩 우호부족 퀘스트: 제작
+30,TEXT_BANLOP001_04681_TODO_06,
+31,TEXT_BANLOP001_04681_TODO_07,
+32,TEXT_BANLOP001_04681_TODO_08,
+33,TEXT_BANLOP001_04681_TODO_09,
+34,TEXT_BANLOP001_04681_TODO_10,
+35,TEXT_BANLOP001_04681_TODO_11,
+36,TEXT_BANLOP001_04681_TODO_12,
+37,TEXT_BANLOP001_04681_TODO_13,
+38,TEXT_BANLOP001_04681_TODO_14,
+39,TEXT_BANLOP001_04681_TODO_15,
+40,TEXT_BANLOP001_04681_TODO_16,
+41,TEXT_BANLOP001_04681_TODO_17,
+42,TEXT_BANLOP001_04681_TODO_18,
+43,TEXT_BANLOP001_04681_TODO_19,
+44,TEXT_BANLOP001_04681_TODO_20,
+45,TEXT_BANLOP001_04681_TODO_21,
+46,TEXT_BANLOP001_04681_TODO_22,
+47,TEXT_BANLOP001_04681_TODO_23,
+48,TEXT_BANLOP001_04681_DREAMINGWAY_000_000,"Player Player 님~!
 다행이에요~, 드디어 찾았네요!"
-49,"TEXT_BANLOP001_04681_DREAMINGWAY_000_001","예전에 베스트웨이 피난처에서 신세를 졌던 드리밍웨이예요!
+49,TEXT_BANLOP001_04681_DREAMINGWAY_000_001,"예전에 베스트웨이 피난처에서 신세를 졌던 드리밍웨이예요!
 기억하시나요~!?"
-50,"TEXT_BANLOP001_04681_DREAMINGWAY_000_002","（★未使用／削除予定★）"
-51,"TEXT_BANLOP001_04681_Q1_000_000","뭐라고 말씀하시겠습니까?"
-52,"TEXT_BANLOP001_04681_A1_000_001","당연히 기억하지!"
-53,"TEXT_BANLOP001_04681_A1_000_002","레포릿들은 구분이 잘 안 돼서……"
-54,"TEXT_BANLOP001_04681_DREAMINGWAY_000_003","역시 <Highlight>ObjectParameter(1)</Highlight> 님이세요!
+50,TEXT_BANLOP001_04681_DREAMINGWAY_000_002,（★未使用／削除予定★）
+51,TEXT_BANLOP001_04681_Q1_000_000,뭐라고 말씀하시겠습니까?
+52,TEXT_BANLOP001_04681_A1_000_001,당연히 기억하지!
+53,TEXT_BANLOP001_04681_A1_000_002,레포릿들은 구분이 잘 안 돼서……
+54,TEXT_BANLOP001_04681_DREAMINGWAY_000_003,"역시 Player Player 님이세요!
 기억해 주셔서 정말 기뻐요~!"
-55,"TEXT_BANLOP001_04681_DREAMINGWAY_000_004","아이, <Highlight>ObjectParameter(1)</Highlight> 님도 참~!
+55,TEXT_BANLOP001_04681_DREAMINGWAY_000_004,"아이, Player Player 님도 참~!
 제가 이름 때문에 고민하고 있을 때 오셔서
 음악에 대한 열정을 깨닫게 해주셨잖아요~!"
-56,"TEXT_BANLOP001_04681_DREAMINGWAY_100_004","우와, 다행이에요~!
+56,TEXT_BANLOP001_04681_DREAMINGWAY_100_004,"우와, 다행이에요~!
 이제야 제가 생각이 나셨나 보군요~!"
-57,"TEXT_BANLOP001_04681_DREAMINGWAY_000_005","사실은 의논드리고 싶은 것이 있어서
+57,TEXT_BANLOP001_04681_DREAMINGWAY_000_005,"사실은 의논드리고 싶은 것이 있어서
 아이테리스까지 찾아온 거예요.
 얘기가 길어지겠지만 부탁이니 들어주세요……!"
-58,"TEXT_BANLOP001_04681_DREAMINGWAY_000_006","（★未使用／削除予定★）"
-59,"TEXT_BANLOP001_04681_DREAMINGWAY_000_007","저희 레포릿은 종말의 위기가 오기 전에
+58,TEXT_BANLOP001_04681_DREAMINGWAY_000_006,（★未使用／削除予定★）
+59,TEXT_BANLOP001_04681_DREAMINGWAY_000_007,"저희 레포릿은 종말의 위기가 오기 전에
 인간님을 달로 초대하기 위해 준비를 계속해왔어요."
-60,"TEXT_BANLOP001_04681_DREAMINGWAY_000_008","하지만 <Highlight>ObjectParameter(1)</Highlight> 님과 동료분들 덕분에
+60,TEXT_BANLOP001_04681_DREAMINGWAY_000_008,"하지만 Player Player 님과 동료분들 덕분에
 종말의 위기는 피할 수 있게 됐죠.
 그건 정말이지, 엄~청 잘된 일이에요!"
-61,"TEXT_BANLOP001_04681_DREAMINGWAY_000_009","……그런데 말이죠, 그 얘기는 곧
+61,TEXT_BANLOP001_04681_DREAMINGWAY_000_009,"……그런데 말이죠, 그 얘기는 곧
 인간님을 달로 초대하지 않아도 된다는 뜻이기도 해요."
-62,"TEXT_BANLOP001_04681_DREAMINGWAY_000_010","물론 머리로는 잘된 일이라는 것을 알고 있지만,
+62,TEXT_BANLOP001_04681_DREAMINGWAY_000_010,"물론 머리로는 잘된 일이라는 것을 알고 있지만,
 현실적으로는 목표를 잃어버렸다고 생각하는 동료도 많고…….
 개중에는 무기력해진 레포릿도 있답니다."
-63,"TEXT_BANLOP001_04681_DREAMINGWAY_000_011","저는 <Highlight>ObjectParameter(1)</Highlight> 님 덕분에
+63,TEXT_BANLOP001_04681_DREAMINGWAY_000_011,"저는 Player Player 님 덕분에
 음악이라는 꿈을 찾을 수 있었어요.
 그리고 꿈을 향해 나아가려 하고 있고요."
-64,"TEXT_BANLOP001_04681_DREAMINGWAY_000_012","하지만 <Highlight>ObjectParameter(1)</Highlight> 님을 만나지 못했더라면
+64,TEXT_BANLOP001_04681_DREAMINGWAY_000_012,"하지만 Player Player 님을 만나지 못했더라면
 분명 저도 그들처럼 무기력해졌을 거예요.
 그렇게 생각하니 도저히 가만있을 수가 없어서……!"
-65,"TEXT_BANLOP001_04681_DREAMINGWAY_000_013","（★未使用／削除予定★）"
-66,"TEXT_BANLOP001_04681_DREAMINGWAY_000_014","<Highlight>ObjectParameter(1)</Highlight> 님, 부탁드려요!
+65,TEXT_BANLOP001_04681_DREAMINGWAY_000_013,（★未使用／削除予定★）
+66,TEXT_BANLOP001_04681_DREAMINGWAY_000_014,"Player Player 님, 부탁드려요!
 저와 함께 모두를 기운 나게 할 방법을 찾아주시지 않겠어요?"
-67,"TEXT_BANLOP001_04681_DREAMINGWAY_000_015","와아~!
-<Highlight>ObjectParameter(1)</Highlight> 님이라면
+67,TEXT_BANLOP001_04681_DREAMINGWAY_000_015,"와아~!
+Player Player 님이라면
 분명히 도와주실 거라고 생각했어요!"
-68,"TEXT_BANLOP001_04681_DREAMINGWAY_000_016","어디 보자, 다들 실제로 어떤 상태인지는
+68,TEXT_BANLOP001_04681_DREAMINGWAY_000_016,"어디 보자, 다들 실제로 어떤 상태인지는
 직접 보시는 게 빠를 것 같아요.
 일단 베스트웨이 피난처로 와주세요!"
-69,"TEXT_BANLOP001_04681_DREAMINGWAY_000_017","고맙습니다!
+69,TEXT_BANLOP001_04681_DREAMINGWAY_000_017,"고맙습니다!
 그럼 저는 먼저 가서 기다리고 있을게요~!"
-70,"TEXT_BANLOP001_04681_DREAMINGWAY_000_020","와주셔서 고맙습니다!
+70,TEXT_BANLOP001_04681_DREAMINGWAY_000_020,"와주셔서 고맙습니다!
 그럼 바로 레포릿들의 상태를 보고 와주시겠어요?"
-71,"TEXT_BANLOP001_04681_DREAMINGWAY_000_021","베스트웨이 피난처를 좀 돌아다니시다 보면
+71,TEXT_BANLOP001_04681_DREAMINGWAY_000_021,"베스트웨이 피난처를 좀 돌아다니시다 보면
 시들시들 레포릿들이 있을 거예요.
 보이면 말을 걸어 보세요……!"
-72,"TEXT_BANLOP001_04681_DREAMINGWAY_000_022","（★未使用／削除予定★）"
-73,"TEXT_BANLOP001_04681_DREAMINGWAY_000_023","어느 정도 말을 다 걸고 나면 다시 이곳에서 얘기하기로 해요~!
+72,TEXT_BANLOP001_04681_DREAMINGWAY_000_022,（★未使用／削除予定★）
+73,TEXT_BANLOP001_04681_DREAMINGWAY_000_023,"어느 정도 말을 다 걸고 나면 다시 이곳에서 얘기하기로 해요~!
 그럼 부탁드릴게요~!"
-74,"TEXT_BANLOP001_04681_DREAMINGWAY_000_024","어느 정도 말을 다 걸고 나면 다시 이곳에서 얘기하기로 해요~!
+74,TEXT_BANLOP001_04681_DREAMINGWAY_000_024,"어느 정도 말을 다 걸고 나면 다시 이곳에서 얘기하기로 해요~!
 그럼 부탁드릴게요~!"
-75,"TEXT_BANLOP001_04681_LOPORRITA04681_000_030","기운이 없어 보인다고요?
+75,TEXT_BANLOP001_04681_LOPORRITA04681_000_030,"기운이 없어 보인다고요?
 그야 제가 한 일이 다 소용없는 일이 되었으니까요……."
-76,"TEXT_BANLOP001_04681_LOPORRITA04681_000_031","리빙웨이와 동료들이
+76,TEXT_BANLOP001_04681_LOPORRITA04681_000_031,"리빙웨이와 동료들이
 달을 자료 창고로 만들 계획이란 이야기는
 저도 들었어요."
-77,"TEXT_BANLOP001_04681_LOPORRITA04681_000_032","달에 온 인간의 모습도 봤는데요,
+77,TEXT_BANLOP001_04681_LOPORRITA04681_000_032,"달에 온 인간의 모습도 봤는데요,
 제가 상상했던 것보다 훨씬 인원이 적더라고요……."
-78,"TEXT_BANLOP001_04681_LOPORRITA04681_000_033","그러니까 많은 인간들이
+78,TEXT_BANLOP001_04681_LOPORRITA04681_000_033,"그러니까 많은 인간들이
 달에 살 가능성은 이제 없는 거죠?
 기껏 거주구도 만들었는데 아무도 안 쓰게 되다니……."
-79,"TEXT_BANLOP001_04681_LOPORRITA04681_000_034","（★未使用／削除予定★）"
-80,"TEXT_BANLOP001_04681_LOPORRITA04681_000_035","리빙웨이와 동료들이
+79,TEXT_BANLOP001_04681_LOPORRITA04681_000_034,（★未使用／削除予定★）
+80,TEXT_BANLOP001_04681_LOPORRITA04681_000_035,"리빙웨이와 동료들이
 앞으로 달을 어떻게 이용할지 검토하고 있는 것 같은데……
 어쨌든 많은 인간이 달에 살 가능성은 낮은 거잖아요?"
-81,"TEXT_BANLOP001_04681_LOPORRITA04681_000_036","지금까지 오랫동안 인간을 맞이하기 위해서
+81,TEXT_BANLOP001_04681_LOPORRITA04681_000_036,"지금까지 오랫동안 인간을 맞이하기 위해서
 거주구를 비롯해 이것저것 많이 준비했는데……
 아무도 사용하지 않게 된다니……."
-82,"TEXT_BANLOP001_04681_LOPORRITA04681_000_037","（★未使用／削除予定★）"
-83,"TEXT_BANLOP001_04681_LOPORRITB04681_000_038","（★未使用／削除予定★）"
-84,"TEXT_BANLOP001_04681_LOPORRITB04681_000_039","（★未使用／削除予定★）"
-85,"TEXT_BANLOP001_04681_LOPORRITB04681_000_040","（★未使用／削除予定★）"
-86,"TEXT_BANLOP001_04681_LOPORRITB04681_100_040","（★未使用／削除予定★）"
-87,"TEXT_BANLOP001_04681_LOPORRITB04681_000_041","하아…… 당근을 재배해 봤자
+82,TEXT_BANLOP001_04681_LOPORRITA04681_000_037,（★未使用／削除予定★）
+83,TEXT_BANLOP001_04681_LOPORRITB04681_000_038,（★未使用／削除予定★）
+84,TEXT_BANLOP001_04681_LOPORRITB04681_000_039,（★未使用／削除予定★）
+85,TEXT_BANLOP001_04681_LOPORRITB04681_000_040,（★未使用／削除予定★）
+86,TEXT_BANLOP001_04681_LOPORRITB04681_100_040,（★未使用／削除予定★）
+87,TEXT_BANLOP001_04681_LOPORRITB04681_000_041,"하아…… 당근을 재배해 봤자
 어차피 동료 말고는 먹을 사람도 없고……."
-88,"TEXT_BANLOP001_04681_LOPORRITB04681_000_042","그냥 우리가 재배해서 우리가 먹는 거지, 뭐.
+88,TEXT_BANLOP001_04681_LOPORRITB04681_000_042,"그냥 우리가 재배해서 우리가 먹는 거지, 뭐.
 내일도, 모레도, 글피도, 영원히……."
-89,"TEXT_BANLOP001_04681_LOPORRITB04681_000_043","그건 결국 레포릿이
+89,TEXT_BANLOP001_04681_LOPORRITB04681_000_043,"그건 결국 레포릿이
 당근을 위해 존재한다는 뜻 아니야!?"
-90,"TEXT_BANLOP001_04681_LOPORRITC04681_000_044","（★未使用／削除予定★）"
-91,"TEXT_BANLOP001_04681_LOPORRITC04681_000_045","（★未使用／削除予定★）"
-92,"TEXT_BANLOP001_04681_LOPORRITC04681_000_046","（★未使用／削除予定★）"
-93,"TEXT_BANLOP001_04681_LOPORRITC04681_000_047","말로는 표현할 수 없는 외로움을 느껴본 적 있나요?
+90,TEXT_BANLOP001_04681_LOPORRITC04681_000_044,（★未使用／削除予定★）
+91,TEXT_BANLOP001_04681_LOPORRITC04681_000_045,（★未使用／削除予定★）
+92,TEXT_BANLOP001_04681_LOPORRITC04681_000_046,（★未使用／削除予定★）
+93,TEXT_BANLOP001_04681_LOPORRITC04681_000_047,"말로는 표현할 수 없는 외로움을 느껴본 적 있나요?
 최근 이유도 없이 눈물이 흐를 때가 있는데……."
-94,"TEXT_BANLOP001_04681_LOPORRITC04681_000_048","옆에 동료도 있고 혼자가 아닌데도 그래요.
+94,TEXT_BANLOP001_04681_LOPORRITC04681_000_048,"옆에 동료도 있고 혼자가 아닌데도 그래요.
 뭔가 좀 이상하지 않아요……?"
-95,"TEXT_BANLOP001_04681_LOPORRITC04681_000_049","（★未使用／削除予定★）"
-96,"TEXT_BANLOP001_04681_LOPORRITA04681_000_050","기껏 거주구도 만들었는데 아무도 사용하지 않게 되는 건가……."
-97,"TEXT_BANLOP001_04681_LOPORRITB04681_000_051","그냥 우리가 재배해서 우리가 먹는 거지, 뭐.
+95,TEXT_BANLOP001_04681_LOPORRITC04681_000_049,（★未使用／削除予定★）
+96,TEXT_BANLOP001_04681_LOPORRITA04681_000_050,기껏 거주구도 만들었는데 아무도 사용하지 않게 되는 건가…….
+97,TEXT_BANLOP001_04681_LOPORRITB04681_000_051,"그냥 우리가 재배해서 우리가 먹는 거지, 뭐.
 내일도, 모레도, 글피도, 영원히……."
-98,"TEXT_BANLOP001_04681_LOPORRITC04681_000_052","옆에 동료도 있고 혼자가 아닌데도 그래요.
+98,TEXT_BANLOP001_04681_LOPORRITC04681_000_052,"옆에 동료도 있고 혼자가 아닌데도 그래요.
 뭔가 좀 이상하지 않아요……?"
-99,"TEXT_BANLOP001_04681_LOPORRITA04681_000_053","지금까지 오랫동안 인간을 맞이하기 위해서
+99,TEXT_BANLOP001_04681_LOPORRITA04681_000_053,"지금까지 오랫동안 인간을 맞이하기 위해서
 거주구를 비롯해 이것저것 많이 준비했는데……
 아무도 사용하지 않게 된다니……."
-100,"TEXT_BANLOP001_04681_LOPORRITB04681_000_054","（★未使用／削除予定★）"
-101,"TEXT_BANLOP001_04681_LOPORRITC04681_000_055","（★未使用／削除予定★）"
-102,"TEXT_BANLOP001_04681_DREAMINGWAY_000_060","돌아오셨군요!
+100,TEXT_BANLOP001_04681_LOPORRITB04681_000_054,（★未使用／削除予定★）
+101,TEXT_BANLOP001_04681_LOPORRITC04681_000_055,（★未使用／削除予定★）
+102,TEXT_BANLOP001_04681_DREAMINGWAY_000_060,"돌아오셨군요!
 다들 어떤 상태인지 보고 오셨나요……?"
-103,"TEXT_BANLOP001_04681_DREAMINGWAY_000_061","상당히 상태가 심각한 레포릿도 있었죠?
+103,TEXT_BANLOP001_04681_DREAMINGWAY_000_061,"상당히 상태가 심각한 레포릿도 있었죠?
 그들을 기운 나게 하려면 어떻게 하는 게 좋을까요……?"
-104,"TEXT_BANLOP001_04681_Q2_000_000","뭐라고 말씀하시겠습니까?"
-105,"TEXT_BANLOP001_04681_A2_000_001","모두의 꿈을 함께 생각해주자!"
-106,"TEXT_BANLOP001_04681_A2_000_002","드리밍웨이의 꿈을 모두에게 말해보는 게 어때?"
-107,"TEXT_BANLOP001_04681_DREAMINGWAY_000_062","모두의 꿈을 함께 생각하자고요……?
+104,TEXT_BANLOP001_04681_Q2_000_000,뭐라고 말씀하시겠습니까?
+105,TEXT_BANLOP001_04681_A2_000_001,모두의 꿈을 함께 생각해주자!
+106,TEXT_BANLOP001_04681_A2_000_002,드리밍웨이의 꿈을 모두에게 말해보는 게 어때?
+107,TEXT_BANLOP001_04681_DREAMINGWAY_000_062,"모두의 꿈을 함께 생각하자고요……?
 그건 전에도……"
-108,"TEXT_BANLOP001_04681_DREAMINGWAY_000_063","제 꿈을 모두에게 말해보란 말씀이시군요…….
+108,TEXT_BANLOP001_04681_DREAMINGWAY_000_063,"제 꿈을 모두에게 말해보란 말씀이시군요…….
 그건 혹시……"
-109,"TEXT_BANLOP001_04681_DREAMINGWAY_000_064","……그래요!
-지금 다른 레포릿들은 <Highlight>ObjectParameter(1)</Highlight> 님을 만나
+109,TEXT_BANLOP001_04681_DREAMINGWAY_000_064,"……그래요!
+지금 다른 레포릿들은 Player Player 님을 만나
 '꿈'을 찾기 전의 제 모습과 같군요~!"
-110,"TEXT_BANLOP001_04681_DREAMINGWAY_000_065","（★未使用／削除予定★）"
-111,"TEXT_BANLOP001_04681_DREAMINGWAY_000_066","（★未使用／削除予定★）"
-112,"TEXT_BANLOP001_04681_DREAMINGWAY_000_067","（★未使用／削除予定★）"
-113,"TEXT_BANLOP001_04681_DREAMINGWAY_000_068","그럼 제가 그랬듯이
+110,TEXT_BANLOP001_04681_DREAMINGWAY_000_065,（★未使用／削除予定★）
+111,TEXT_BANLOP001_04681_DREAMINGWAY_000_066,（★未使用／削除予定★）
+112,TEXT_BANLOP001_04681_DREAMINGWAY_000_067,（★未使用／削除予定★）
+113,TEXT_BANLOP001_04681_DREAMINGWAY_000_068,"그럼 제가 그랬듯이
 모두들 자신의 꿈을 찾는 것이 제일 좋을 텐데요……"
-114,"TEXT_BANLOP001_04681_DREAMINGWAY_000_069","흠, 그럼…… 이런 건 어떨까요~?"
-115,"TEXT_BANLOP001_04681_DREAMINGWAY_000_070","이미 자신의 꿈을 갖고 있는 레포릿들을 모아
+114,TEXT_BANLOP001_04681_DREAMINGWAY_000_069,"흠, 그럼…… 이런 건 어떨까요~?"
+115,TEXT_BANLOP001_04681_DREAMINGWAY_000_070,"이미 자신의 꿈을 갖고 있는 레포릿들을 모아
 꿈에 열중하는 모습을 보여줄 수 있는 장소를 만드는 거예요."
-116,"TEXT_BANLOP001_04681_DREAMINGWAY_000_071","그런 동료의 모습을 보면
+116,TEXT_BANLOP001_04681_DREAMINGWAY_000_071,"그런 동료의 모습을 보면
 같은 일에 관심이 생기거나
 어쩌면 새로운 꿈을 찾게 될지도 모르잖아요!?"
-117,"TEXT_BANLOP001_04681_DREAMINGWAY_000_072","하지만 그런 장소를 만들려면
+117,TEXT_BANLOP001_04681_DREAMINGWAY_000_072,"하지만 그런 장소를 만들려면
 리빙웨이에게 허가를 받아야 할 텐데~"
-118,"TEXT_BANLOP001_04681_DREAMINGWAY_000_073","이곳에서 위쪽으로 올라가면 만날 수 있을 거예요.
-<Highlight>ObjectParameter(1)</Highlight> 님도 같이 가주실래요!?"
-119,"TEXT_BANLOP001_04681_DREAMINGWAY_100_080","앗! 리빙웨이가 왔어요~!"
-120,"TEXT_BANLOP001_04681_LIVINGWAY_110_080","어, <Highlight>ObjectParameter(1)</Highlight> 님!
+118,TEXT_BANLOP001_04681_DREAMINGWAY_000_073,"이곳에서 위쪽으로 올라가면 만날 수 있을 거예요.
+Player Player 님도 같이 가주실래요!?"
+119,TEXT_BANLOP001_04681_DREAMINGWAY_100_080,앗! 리빙웨이가 왔어요~!
+120,TEXT_BANLOP001_04681_LIVINGWAY_110_080,"어, Player Player 님!
 안녕하세요!"
-121,"TEXT_BANLOP001_04681_LIVINGWAY_000_080","드리밍웨이도 같이 있군요.
+121,TEXT_BANLOP001_04681_LIVINGWAY_000_080,"드리밍웨이도 같이 있군요.
 저에게 무슨 볼일이라도 있나요?"
-122,"TEXT_BANLOP001_04681_DREAMINGWAY_000_081","실은 들어줬으면 하는 이야기가 있어~!
+122,TEXT_BANLOP001_04681_DREAMINGWAY_000_081,"실은 들어줬으면 하는 이야기가 있어~!
 그게 뭐냐면 말이지……"
-123,"TEXT_BANLOP001_04681_DREAMINGWAY_000_082","（★未使用／削除予定★）"
-124,"TEXT_BANLOP001_04681_LIVINGWAY_000_083","그렇군요, 무슨 말인지는 알겠어요.
+123,TEXT_BANLOP001_04681_DREAMINGWAY_000_082,（★未使用／削除予定★）
+124,TEXT_BANLOP001_04681_LIVINGWAY_000_083,"그렇군요, 무슨 말인지는 알겠어요.
 사실 저도 최근에 동료들을 보면서
 뭔가 해결책이 필요하다는 생각을 하고 있었거든요……"
-125,"TEXT_BANLOP001_04681_LIVINGWAY_000_084","（★未使用／削除予定★）"
-126,"TEXT_BANLOP001_04681_LIVINGWAY_000_085","……좋아요!
+125,TEXT_BANLOP001_04681_LIVINGWAY_000_084,（★未使用／削除予定★）
+126,TEXT_BANLOP001_04681_LIVINGWAY_000_085,"……좋아요!
 드리밍웨이, 당신의 제안을 받아들이겠어요!"
-127,"TEXT_BANLOP001_04681_LIVINGWAY_000_086","（★未使用／削除予定★）"
-128,"TEXT_BANLOP001_04681_LIVINGWAY_000_087","게다가 당신의 계획대로
+127,TEXT_BANLOP001_04681_LIVINGWAY_000_086,（★未使用／削除予定★）
+128,TEXT_BANLOP001_04681_LIVINGWAY_000_087,"게다가 당신의 계획대로
 꿈에 열중하는 모습을 보여주기에 딱 적합한 동료가 있어요.
 지금 바로 얘기해보고 이쪽으로 데려올게요."
-129,"TEXT_BANLOP001_04681_LIVINGWAY_000_088","오래 기다리셨죠?
+129,TEXT_BANLOP001_04681_LIVINGWAY_000_088,"오래 기다리셨죠?
 그럼 바로 소개할게요."
-130,"TEXT_BANLOP001_04681_LIVINGWAY_000_089","먼저 코이닝웨이.
+130,TEXT_BANLOP001_04681_LIVINGWAY_000_089,"먼저 코이닝웨이.
 경제 활동과 관련된 일에 관심이 지대해서
 독자적인 화폐를 발행하고 싶다는 꿈을 가지고 있어요."
-131,"TEXT_BANLOP001_04681_LIVINGWAY_000_090","많은 동료들의 협력을 구하게 된다면 대가가 필요하겠죠…….
+131,TEXT_BANLOP001_04681_LIVINGWAY_000_090,"많은 동료들의 협력을 구하게 된다면 대가가 필요하겠죠…….
 그쪽 분야에서 실력을 발휘해줄 거예요!"
-132,"TEXT_BANLOP001_04681_LIVINGWAY_000_091","（★未使用／削除予定★）"
-133,"TEXT_BANLOP001_04681_COININGWAY_000_091","후훗…… 드디어 본인의 능력을 발휘할 수 있겠군요.
+132,TEXT_BANLOP001_04681_LIVINGWAY_000_091,（★未使用／削除予定★）
+133,TEXT_BANLOP001_04681_COININGWAY_000_091,"후훗…… 드디어 본인의 능력을 발휘할 수 있겠군요.
 이전부터 구상해 오던 달 경제권 창생 계획을 구현해
 협력자의 마음을 사로잡아 보겠습니다."
-134,"TEXT_BANLOP001_04681_LIVINGWAY_000_092","그리고 그 옆은 매니징웨이예요.
+134,TEXT_BANLOP001_04681_LIVINGWAY_000_092,"그리고 그 옆은 매니징웨이예요.
 원래는 달의 환경 개발 분야에서 일하며 인력을 배정하고
 각종 작업의 진행 관리 등을 담당했었어요."
-135,"TEXT_BANLOP001_04681_LIVINGWAY_000_093","그런데 종말이 해결되면서 개발 계획이 백지화되고……
+135,TEXT_BANLOP001_04681_LIVINGWAY_000_093,"그런데 종말이 해결되면서 개발 계획이 백지화되고……
 관리 업무가 크게 줄어 열정을 쏟을 곳을 잃은 상태예요.
 당신들이 제안한 활동은 새로운 활약의 장이 될 거예요."
-136,"TEXT_BANLOP001_04681_MANAGINGWAY_000_094","제가 예측하건대, 이번 활동은 말이죠,
+136,TEXT_BANLOP001_04681_MANAGINGWAY_000_094,"제가 예측하건대, 이번 활동은 말이죠,
 면밀한 관리가 없다면 성공하지 못할 거예요……!
 그러니 반드시 제가 꼭 필요한 일이라고 할 수 있겠죠!"
-137,"TEXT_BANLOP001_04681_MANAGINGWAY_100_094","（★未使用／削除予定★）"
-138,"TEXT_BANLOP001_04681_DREAMINGWAY_000_095","오오~ 둘 다 굉장히 든든하네!
+137,TEXT_BANLOP001_04681_MANAGINGWAY_100_094,（★未使用／削除予定★）
+138,TEXT_BANLOP001_04681_DREAMINGWAY_000_095,"오오~ 둘 다 굉장히 든든하네!
 리빙웨이, 고마워~!"
-139,"TEXT_BANLOP001_04681_DREAMINGWAY_000_096","（★未使用／削除予定★）"
-140,"TEXT_BANLOP001_04681_DREAMINGWAY_100_096","맞다!
-<Highlight>ObjectParameter(1)</Highlight> 님께도 부탁이 있어요!"
-141,"TEXT_BANLOP001_04681_DREAMINGWAY_000_097","앞으로 저희 활동을 옆에서 지켜봐주시면 안 될까요~?
+139,TEXT_BANLOP001_04681_DREAMINGWAY_000_096,（★未使用／削除予定★）
+140,TEXT_BANLOP001_04681_DREAMINGWAY_100_096,"맞다!
+Player Player 님께도 부탁이 있어요!"
+141,TEXT_BANLOP001_04681_DREAMINGWAY_000_097,"앞으로 저희 활동을 옆에서 지켜봐주시면 안 될까요~?
 저희끼리는 해결하기 힘든 일도
 분명 생길 거라고 생각하거든요……!"
-142,"TEXT_BANLOP001_04681_MANAGINGWAY_100_097","에헴!"
-143,"TEXT_BANLOP001_04681_MANAGINGWAY_110_097","그 부분은 저도 좀 부탁드리겠습니다.
+142,TEXT_BANLOP001_04681_MANAGINGWAY_100_097,에헴!
+143,TEXT_BANLOP001_04681_MANAGINGWAY_110_097,"그 부분은 저도 좀 부탁드리겠습니다.
 꿈을 펼칠 장소를 앞으로 만들어나가다 보면
 제작에 능숙한 장인의 힘이 반드시 필요할 겁니다!"
-144,"TEXT_BANLOP001_04681_MANAGINGWAY_120_097","<Highlight>ObjectParameter(1)</Highlight> 님은
+144,TEXT_BANLOP001_04681_MANAGINGWAY_120_097,"Player Player 님은
 제작 실력도 아주 훌륭하다는 소문을 들었어요.
 그러니 협력을 부탁드려도 괜찮을까요……?"
-145,"TEXT_BANLOP001_04681_Q3_000_000","뭐라고 대답하시겠습니까?"
-146,"TEXT_BANLOP001_04681_A3_000_001","（★未使用／削除予定★）"
-147,"TEXT_BANLOP001_04681_A3_000_002","알았어, 걱정 말라고~!"
-148,"TEXT_BANLOP001_04681_A3_000_003","미안하지만, 내가 좀 바빠서……"
-149,"TEXT_BANLOP001_04681_DREAMINGWAY_000_098","와아~!
-<Highlight>ObjectParameter(1)</Highlight> 님이라면
+145,TEXT_BANLOP001_04681_Q3_000_000,뭐라고 대답하시겠습니까?
+146,TEXT_BANLOP001_04681_A3_000_001,（★未使用／削除予定★）
+147,TEXT_BANLOP001_04681_A3_000_002,"알았어, 걱정 말라고~!"
+148,TEXT_BANLOP001_04681_A3_000_003,"미안하지만, 내가 좀 바빠서……"
+149,TEXT_BANLOP001_04681_DREAMINGWAY_000_098,"와아~!
+Player Player 님이라면
 그렇게 말씀해주실 줄 알았어요~!"
-150,"TEXT_BANLOP001_04681_DREAMINGWAY_000_099","응응, 그렇죠, 바쁘신 거죠……"
-151,"TEXT_BANLOP001_04681_DREAMINGWAY_000_100","……네? 네에에에에엣!?"
-152,"TEXT_BANLOP001_04681_DREAMINGWAY_000_101","그, 그렇게 매정하게 말씀하지 마시고 부탁 좀 드릴게요~!
+150,TEXT_BANLOP001_04681_DREAMINGWAY_000_099,"응응, 그렇죠, 바쁘신 거죠……"
+151,TEXT_BANLOP001_04681_DREAMINGWAY_000_100,……네? 네에에에에엣!?
+152,TEXT_BANLOP001_04681_DREAMINGWAY_000_101,"그, 그렇게 매정하게 말씀하지 마시고 부탁 좀 드릴게요~!
 네? 제발요오~~~!"
-153,"TEXT_BANLOP001_04681_DREAMINGWAY_100_101","와아~!
+153,TEXT_BANLOP001_04681_DREAMINGWAY_100_101,"와아~!
 고맙습니다~!"
-154,"TEXT_BANLOP001_04681_LIVINGWAY_100_102","<Highlight>ObjectParameter(1)</Highlight> 님에게
+154,TEXT_BANLOP001_04681_LIVINGWAY_100_102,"Player Player 님에게
 폐를 끼치지 않도록 주의해주셔야 합니다!"
-155,"TEXT_BANLOP001_04681_LIVINGWAY_000_102","……자, 이제 활동 거점에 대해서 말인데요.
+155,TEXT_BANLOP001_04681_LIVINGWAY_000_102,"……자, 이제 활동 거점에 대해서 말인데요.
 운이 좋게도 적당해 보이는 장소가 있어요."
-156,"TEXT_BANLOP001_04681_LIVINGWAY_000_103","저 문 안쪽으로 예비 공간이 있는데요.
+156,TEXT_BANLOP001_04681_LIVINGWAY_000_103,"저 문 안쪽으로 예비 공간이 있는데요.
 지금은 창고처럼 쓰여지는 정도이니
 자유롭게 사용하셔도 된답니다."
-157,"TEXT_BANLOP001_04681_LIVINGWAY_000_104","（★未使用／削除予定★）"
-158,"TEXT_BANLOP001_04681_DREAMINGWAY_000_105","고마워~!
+157,TEXT_BANLOP001_04681_LIVINGWAY_000_104,（★未使用／削除予定★）
+158,TEXT_BANLOP001_04681_DREAMINGWAY_000_105,"고마워~!
 진짜로 완전 고마워~!"
-159,"TEXT_BANLOP001_04681_DREAMINGWAY_000_106","그럼, 다 같이!
+159,TEXT_BANLOP001_04681_DREAMINGWAY_000_106,"그럼, 다 같이!
 당장 저 방으로 가보자~!"
-160,"TEXT_BANLOP001_04681_LIVINGWAY_000_107","이번 기회에 '그 아이'가 돌아와준다면
+160,TEXT_BANLOP001_04681_LIVINGWAY_000_107,"이번 기회에 '그 아이'가 돌아와준다면
 정말 좋을 텐데……."
-161,"TEXT_BANLOP001_04681_MANAGINGWAY_000_108","앞으로 여기저기 손을 좀 보면……
+161,TEXT_BANLOP001_04681_MANAGINGWAY_000_108,"앞으로 여기저기 손을 좀 보면……
 꽤 괜찮아질 것 같아요……!"
-162,"TEXT_BANLOP001_04681_COININGWAY_000_109","흠…… 본인이 상상했던 것보다 훨씬 넓군요."
-163,"TEXT_BANLOP001_04681_SUPPORTER_000_110","처음 뵙겠습니다!
+162,TEXT_BANLOP001_04681_COININGWAY_000_109,흠…… 본인이 상상했던 것보다 훨씬 넓군요.
+163,TEXT_BANLOP001_04681_SUPPORTER_000_110,"처음 뵙겠습니다!
 드리밍웨이 님의 계획을, 도와드릴,
 꿈 도우미입니다!"
-164,"TEXT_BANLOP001_04681_DREAMINGWAY_000_120","우와아아아~!
+164,TEXT_BANLOP001_04681_DREAMINGWAY_000_120,"우와아아아~!
 이곳에서 우리들의 꿈이 시작되겠군요~!"
-165,"TEXT_BANLOP001_04681_DREAMINGWAY_000_121","그럼, 다들~!
+165,TEXT_BANLOP001_04681_DREAMINGWAY_000_121,"그럼, 다들~!
 바로 꿈을 펼칠 수 있는 장소의 제작 준비를 시작합시다~!"
-166,"TEXT_BANLOP001_04681_MANAGINGWAY_000_122","……엣헴!"
-167,"TEXT_BANLOP001_04681_MANAGINGWAY_000_123","먼저 시작하기 전에 어떤 장소를 만들지,
+166,TEXT_BANLOP001_04681_MANAGINGWAY_000_122,……엣헴!
+167,TEXT_BANLOP001_04681_MANAGINGWAY_000_123,"먼저 시작하기 전에 어떤 장소를 만들지,
 명확한 비전을 그려 공유하는 게 좋아요.
 쓸데없이 다시 작업하는 일이 발생하지 않도록 말이죠."
-168,"TEXT_BANLOP001_04681_DREAMINGWAY_000_124","그, 그렇구나……
+168,TEXT_BANLOP001_04681_DREAMINGWAY_000_124,"그, 그렇구나……
 그럼 난 음악을 좋아하니까
 모두가 음악을 즐길 수 있는 무대를 만들고 싶은데~!"
-169,"TEXT_BANLOP001_04681_COININGWAY_000_126","여러 물건을 살 수 있는 판매 구역도 만들지 않겠습니까?
+169,TEXT_BANLOP001_04681_COININGWAY_000_126,"여러 물건을 살 수 있는 판매 구역도 만들지 않겠습니까?
 본인이 발행하는 독자 통화를 이용해서
 다채로운 물품을 구입할 수 있도록 말이죠……!"
-170,"TEXT_BANLOP001_04681_COININGWAY_100_126","（★未使用／削除予定★）"
-171,"TEXT_BANLOP001_04681_DREAMINGWAY_110_126","응, 좋은 생각이야~!"
-172,"TEXT_BANLOP001_04681_COININGWAY_000_127","그럼 유통시킬 화폐와 상품의 가격 책정 등에 관한 준비는
+170,TEXT_BANLOP001_04681_COININGWAY_100_126,（★未使用／削除予定★）
+171,TEXT_BANLOP001_04681_DREAMINGWAY_110_126,"응, 좋은 생각이야~!"
+172,TEXT_BANLOP001_04681_COININGWAY_000_127,"그럼 유통시킬 화폐와 상품의 가격 책정 등에 관한 준비는
 본인이 진행해 두겠습니다."
-173,"TEXT_BANLOP001_04681_MANAGINGWAY_000_128","난 빌딩웨이에게 협력을 타진해 볼게요.
+173,TEXT_BANLOP001_04681_MANAGINGWAY_000_128,"난 빌딩웨이에게 협력을 타진해 볼게요.
 그가 다루는 건축 시스템은 설치와 운영에 도움이 될 테니까요."
-174,"TEXT_BANLOP001_04681_DREAMINGWAY_000_129","（★未使用／削除予定★）"
-175,"TEXT_BANLOP001_04681_DREAMINGWAY_000_130","（★未使用／削除予定★）"
-176,"TEXT_BANLOP001_04681_MANAGINGWAY_000_131","（★未使用／削除予定★）"
-177,"TEXT_BANLOP001_04681_MANAGINGWAY_000_132","（★未使用／削除予定★）"
-178,"TEXT_BANLOP001_04681_DREAMINGWAY_000_133","（★未使用／削除予定★）"
-179,"TEXT_BANLOP001_04681_MANAGINGWAY_000_134","그런데 가장 중요한 부재는
+174,TEXT_BANLOP001_04681_DREAMINGWAY_000_129,（★未使用／削除予定★）
+175,TEXT_BANLOP001_04681_DREAMINGWAY_000_130,（★未使用／削除予定★）
+176,TEXT_BANLOP001_04681_MANAGINGWAY_000_131,（★未使用／削除予定★）
+177,TEXT_BANLOP001_04681_MANAGINGWAY_000_132,（★未使用／削除予定★）
+178,TEXT_BANLOP001_04681_DREAMINGWAY_000_133,（★未使用／削除予定★）
+179,TEXT_BANLOP001_04681_MANAGINGWAY_000_134,"그런데 가장 중요한 부재는
 장인 기술로 만든 고품질 자재가 있어야 해요.
-<Highlight>ObjectParameter(1)</Highlight> 님, 부탁드려도 될까요?"
-180,"TEXT_BANLOP001_04681_MANAGINGWAY_100_134","（★未使用／削除予定★）"
-181,"TEXT_BANLOP001_04681_MANAGINGWAY_110_134","고맙습니다!
+Player Player 님, 부탁드려도 될까요?"
+180,TEXT_BANLOP001_04681_MANAGINGWAY_100_134,（★未使用／削除予定★）
+181,TEXT_BANLOP001_04681_MANAGINGWAY_110_134,"고맙습니다!
 그럼 상세한 내용을 설명해드릴게요."
-182,"TEXT_BANLOP001_04681_MANAGINGWAY_000_135","<Highlight>ObjectParameter(1)</Highlight> 님은
-'<Sheet(Item,38843,0)/>'인
+182,TEXT_BANLOP001_04681_MANAGINGWAY_000_135,"Player Player 님은
+''인
 특수한 금속 부품을 제작해 주시겠어요?"
-183,"TEXT_BANLOP001_04681_MANAGINGWAY_000_136","<Highlight>ObjectParameter(1)</Highlight> 님은
-'<Sheet(Item,38843,0)/>'인
+183,TEXT_BANLOP001_04681_MANAGINGWAY_000_136,"Player Player 님은
+''인
 충격흡수재를 제작해 주시겠어요?"
-184,"TEXT_BANLOP001_04681_MANAGINGWAY_000_137","<Highlight>ObjectParameter(1)</Highlight> 님은
-'<Sheet(Item,38843,0)/>'인
+184,TEXT_BANLOP001_04681_MANAGINGWAY_000_137,"Player Player 님은
+''인
 특수한 도료를 제작해 주시겠어요?"
-185,"TEXT_BANLOP001_04681_MANAGINGWAY_000_138","재료는 사전에 우리가 다 구비해 두었어요.
+185,TEXT_BANLOP001_04681_MANAGINGWAY_000_138,"재료는 사전에 우리가 다 구비해 두었어요.
 이것을 사용해 주세요."
-186,"TEXT_BANLOP001_04681_MANAGINGWAY_000_139","이 꿈 도우미에게 여분의 재료를 맡겨 놓았으니
+186,TEXT_BANLOP001_04681_MANAGINGWAY_000_139,"이 꿈 도우미에게 여분의 재료를 맡겨 놓았으니
 부족해지면 이용해 주세요.
 그럼 저희도 준비 작업을 시작할게요."
-187,"TEXT_BANLOP001_04681_MANAGINGWAY_000_140","이런, 재료가 부족해졌나요?
+187,TEXT_BANLOP001_04681_MANAGINGWAY_000_140,"이런, 재료가 부족해졌나요?
 꿈 도우미에게 받을 수 있으니 이용해 주세요."
-188,"TEXT_BANLOP001_04681_MANAGINGWAY_000_141","이런, 재료가 부족해졌나요?
+188,TEXT_BANLOP001_04681_MANAGINGWAY_000_141,"이런, 재료가 부족해졌나요?
 꿈 도우미에게 받을 수 있으니 이용해 주세요."
-189,"TEXT_BANLOP001_04681_MANAGINGWAY_000_142","이런, 재료가 부족해졌나요?
+189,TEXT_BANLOP001_04681_MANAGINGWAY_000_142,"이런, 재료가 부족해졌나요?
 꿈 도우미에게 받을 수 있으니 이용해 주세요."
-190,"TEXT_BANLOP001_04681_SUPPORTER_000_143","재료를, 드리겠습니다…… 아니!?
+190,TEXT_BANLOP001_04681_SUPPORTER_000_143,"재료를, 드리겠습니다…… 아니!?
 이미 필요한 재료를, 갖고 있으신데요!"
-191,"TEXT_BANLOP001_04681_SUPPORTER_000_144","재료를, 드리겠습니다…… 아니!?
+191,TEXT_BANLOP001_04681_SUPPORTER_000_144,"재료를, 드리겠습니다…… 아니!?
 이미 필요한 재료를, 갖고 있으신데요!"
-192,"TEXT_BANLOP001_04681_SUPPORTER_000_145","재료를, 드리겠습니다…… 아니!?
+192,TEXT_BANLOP001_04681_SUPPORTER_000_145,"재료를, 드리겠습니다…… 아니!?
 이미 필요한 재료를, 갖고 있으신데요!"
-193,"TEXT_BANLOP001_04681_SUPPORTER_000_146","어이쿠, 재료가, 없습니까?
+193,TEXT_BANLOP001_04681_SUPPORTER_000_146,"어이쿠, 재료가, 없습니까?
 자, 이걸 사용해 주세요!"
-194,"TEXT_BANLOP001_04681_SUPPORTER_000_147","어이쿠, 재료가, 없습니까?
+194,TEXT_BANLOP001_04681_SUPPORTER_000_147,"어이쿠, 재료가, 없습니까?
 자, 이걸 사용해 주세요!"
-195,"TEXT_BANLOP001_04681_SUPPORTER_000_148","어이쿠, 재료가, 없습니까?
+195,TEXT_BANLOP001_04681_SUPPORTER_000_148,"어이쿠, 재료가, 없습니까?
 자, 이걸 사용해 주세요!"
-196,"TEXT_BANLOP001_04681_DREAMINGWAY_000_149","매니징웨이가 의뢰한 물품 제작,
+196,TEXT_BANLOP001_04681_DREAMINGWAY_000_149,"매니징웨이가 의뢰한 물품 제작,
 잘 부탁드립니다~!"
-197,"TEXT_BANLOP001_04681_COININGWAY_100_149","유통시킬 화폐와 상품 가격 책정 등에 관한 준비는
+197,TEXT_BANLOP001_04681_COININGWAY_100_149,"유통시킬 화폐와 상품 가격 책정 등에 관한 준비는
 본인이 다 해둘 테니 걱정 마십시오!"
-198,"TEXT_BANLOP001_04681_MANAGINGWAY_000_150","부탁드린 건 무사히 제작하셨나요?"
-199,"TEXT_BANLOP001_04681_MANAGINGWAY_000_151","역시 <Highlight>ObjectParameter(1)</Highlight> 님…….
+198,TEXT_BANLOP001_04681_MANAGINGWAY_000_150,부탁드린 건 무사히 제작하셨나요?
+199,TEXT_BANLOP001_04681_MANAGINGWAY_000_151,"역시 Player Player 님…….
 아주 훌륭합니다!"
-200,"TEXT_BANLOP001_04681_MANAGINGWAY_000_152","우리도 준비가 다 끝났으니,
+200,TEXT_BANLOP001_04681_MANAGINGWAY_000_152,"우리도 준비가 다 끝났으니,
 지금 바로 무대와 상품 판매 구역을 설치하도록 하죠!"
-201,"TEXT_BANLOP001_04681_DREAMINGWAY_000_160","이것 보세요!
+201,TEXT_BANLOP001_04681_DREAMINGWAY_000_160,"이것 보세요!
 저의 꿈, 음악을 즐길 수 있는 무대,
 음악 체험관이 완성되었어요~!"
-202,"TEXT_BANLOP001_04681_DREAMINGWAY_000_161","우후후…… 멋지죠~!?"
-203,"TEXT_BANLOP001_04681_DREAMINGWAY_000_162","자, 음악 시작!"
-204,"TEXT_BANLOP001_04681_DREAMINGWAY_000_163","보다시피 이렇게 제 음악을 크게 틀어놓고
+202,TEXT_BANLOP001_04681_DREAMINGWAY_000_161,우후후…… 멋지죠~!?
+203,TEXT_BANLOP001_04681_DREAMINGWAY_000_162,"자, 음악 시작!"
+204,TEXT_BANLOP001_04681_DREAMINGWAY_000_163,"보다시피 이렇게 제 음악을 크게 틀어놓고
 모두가 즐겁게 즐길 수 있는 공간이에요~!"
-205,"TEXT_BANLOP001_04681_MANAGINGWAY_000_164","그나저나 우리를 위해서 처음 만든 시설이
+205,TEXT_BANLOP001_04681_MANAGINGWAY_000_164,"그나저나 우리를 위해서 처음 만든 시설이
 이런 것일 줄은 예상하지 못했어요……."
-206,"TEXT_BANLOP001_04681_COININGWAY_000_165","이 쇼핑 체험관에서는
+206,TEXT_BANLOP001_04681_COININGWAY_000_165,"이 쇼핑 체험관에서는
 본인의 꿈인 독자 화폐 '당근화'로
 쇼핑을 즐길 수 있습니다!"
-207,"TEXT_BANLOP001_04681_MANAGINGWAY_000_166","아, 저 미끄럼틀도 파는 건가요……!?
+207,TEXT_BANLOP001_04681_MANAGINGWAY_000_166,"아, 저 미끄럼틀도 파는 건가요……!?
 저런 걸 굳이 사러 올 손님이 있을까요……."
-208,"TEXT_BANLOP001_04681_COININGWAY_000_167","아, 그리고……
+208,TEXT_BANLOP001_04681_COININGWAY_000_167,"아, 그리고……
 상품 재료를 준비하면서 따로 마련한 게 있습니다만…….
 드리밍웨이, 매니징웨이, 이쪽으로……."
-209,"TEXT_BANLOP001_04681_COININGWAY_000_168","어떻습니까?
+209,TEXT_BANLOP001_04681_COININGWAY_000_168,"어떻습니까?
 똑같은 유니폼을 입으니 결속력이 강해지는 것 같지 않습니까?"
-210,"TEXT_BANLOP001_04681_MANAGINGWAY_000_169","그래요, 다 같이 열심히 하자는 기분이 드는 것 같네요……!"
-211,"TEXT_BANLOP001_04681_COININGWAY_000_170","특히 드리밍웨이에게는 선글라스를 준비했습니다.
+210,TEXT_BANLOP001_04681_MANAGINGWAY_000_169,"그래요, 다 같이 열심히 하자는 기분이 드는 것 같네요……!"
+211,TEXT_BANLOP001_04681_COININGWAY_000_170,"특히 드리밍웨이에게는 선글라스를 준비했습니다.
 동료들 말로는, 아이테리스에서는 음악가나 음유시인이
 눈에 띄는 옷을 입는다더군요…… 우리들의 리더라는 증표입니다!"
-212,"TEXT_BANLOP001_04681_DREAMINGWAY_000_171","고마워, 코이닝웨이!
+212,TEXT_BANLOP001_04681_DREAMINGWAY_000_171,"고마워, 코이닝웨이!
 리더라니 부끄럽지만……
 왠지 의욕이 생기고 있어~!"
-213,"TEXT_BANLOP001_04681_LOPORRIT04681_000_172","신나는 음악에 이끌려서
+213,TEXT_BANLOP001_04681_LOPORRIT04681_000_172,"신나는 음악에 이끌려서
 나도 모르게 여기로 왔는데……
 여기서 대체 뭘 하고 있는 거야?"
-214,"TEXT_BANLOP001_04681_DREAMINGWAY_000_173","잘 왔어!
+214,TEXT_BANLOP001_04681_DREAMINGWAY_000_173,"잘 왔어!
 여기는 우리 레포릿들이 꿈을 보여주고
 그리고 새로운 꿈을 찾기 위한 공방……."
-215,"TEXT_BANLOP001_04681_DREAMINGWAY_000_174","이름하여 '꿈꾸는 체험관'이야!
+215,TEXT_BANLOP001_04681_DREAMINGWAY_000_174,"이름하여 '꿈꾸는 체험관'이야!
 그리고 신나는 음악은 내 꿈이지!
 자, 마음껏 즐겨줘!"
-216,"TEXT_BANLOP001_04681_LOPORRIT04681_000_175","꿈……이라…….
+216,TEXT_BANLOP001_04681_LOPORRIT04681_000_175,"꿈……이라…….
 왠지 즐거워 보이는데, 뭘 하면 되는 거지……
 상담을 요청하면 해주려나……?"
-217,"TEXT_BANLOP001_04681_MANAGINGWAY_000_176","엣헴!
+217,TEXT_BANLOP001_04681_MANAGINGWAY_000_176,"엣헴!
 제가 나설 차례인 것 같군요!"
-218,"TEXT_BANLOP001_04681_DREAMINGWAY_000_177","제가 그랬듯이
+218,TEXT_BANLOP001_04681_DREAMINGWAY_000_177,"제가 그랬듯이
 사실은 다들 하고 싶은 것이 있을 거예요.
 저 아이도 열중할 수 있는 꿈을 찾으면 좋겠네요……!"
-219,"TEXT_BANLOP001_04681_DREAMINGWAY_000_178","첫걸음치고는 괜찮은 성과였어요!
+219,TEXT_BANLOP001_04681_DREAMINGWAY_000_178,"첫걸음치고는 괜찮은 성과였어요!
 하지만 저희 활동은 이제 시작이에요……."
-220,"TEXT_BANLOP001_04681_DREAMINGWAY_000_179","더 많은 동료들을 모아서
+220,TEXT_BANLOP001_04681_DREAMINGWAY_000_179,"더 많은 동료들을 모아서
 각각의 꿈을 이 체험관에서 펼칠 수 있다면
 다른 레포릿들도 꿈 찾기가 수월해질 거예요!"
-221,"TEXT_BANLOP001_04681_DREAMINGWAY_000_180","그러기 위해서는
-<Highlight>ObjectParameter(1)</Highlight> 님의 힘이 필요해요!
+221,TEXT_BANLOP001_04681_DREAMINGWAY_000_180,"그러기 위해서는
+Player Player 님의 힘이 필요해요!
 앞으로도 잘 부탁드려요~!"
-222,"TEXT_BANLOP001_04681_TALKINGWAY_000_181","(-???-)자기들끼리 신났네, 멍청이들……
+222,TEXT_BANLOP001_04681_TALKINGWAY_000_181,"(-???-)자기들끼리 신났네, 멍청이들……
 이제 와서 대체 뭘 하겠다는 거야……."
-223,"TEXT_BANLOP001_04681_SYSTEM_000_182","꿈꾸는 체험관이 설치되어
+223,TEXT_BANLOP001_04681_SYSTEM_000_182,"꿈꾸는 체험관이 설치되어
 음악 체험관과 쇼핑 체험관이
 완성되었습니다!"
-224,"TEXT_BANLOP001_04681_SYSTEM_100_182","앞으로 많은 레포릿들이 꿈을 찾을 수 있도록
+224,TEXT_BANLOP001_04681_SYSTEM_100_182,"앞으로 많은 레포릿들이 꿈을 찾을 수 있도록
 계속 확장해 나갑시다!"
-225,"TEXT_BANLOP001_04681_SYSTEM_000_183","'꿈꾸는 체험관'의 우호 관계가
+225,TEXT_BANLOP001_04681_SYSTEM_000_183,"'꿈꾸는 체험관'의 우호 관계가
 모험가의 활약에 힘입어 3단계인 '우호'를 달성하여
 레포릿족의 '우호부족 퀘스트'가 개방되었습니다."
-226,"TEXT_BANLOP001_04681_SYSTEM_000_184","앞으로 꿈꾸는 체험관에 있는
+226,TEXT_BANLOP001_04681_SYSTEM_000_184,"앞으로 꿈꾸는 체험관에 있는
 '매니징웨이'에게 반복 가능한
 '우호부족 일일 퀘스트'를 받을 수 있습니다."
-227,"TEXT_BANLOP001_04681_SYSTEM_000_185","또 '코이닝웨이'를 통해
+227,TEXT_BANLOP001_04681_SYSTEM_000_185,"또 '코이닝웨이'를 통해
 우호부족이 취급하는 아이템을 구매할 수 있습니다.
 앞으로 모험에 활용해보세요!"
-228,"TEXT_BANLOP001_04681_SYSTEM_000_186","또한 베스트웨이 피난처의 에테라이트 부근과
+228,TEXT_BANLOP001_04681_SYSTEM_000_186,"또한 베스트웨이 피난처의 에테라이트 부근과
 꿈꾸는 체험관을 이동할 수 있는
 전송장치를 사용할 수 있게 되었습니다."

@@ -1,142 +1,139 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_001","현재 개최 중인 트리플 트라이어드 대회는……
-'<Sheet(TripleTriadCompetition,IntegerParameter(2),0)/>'입니다!
-이번 대회의 주목 상품은 바로 '<Sheet(Item,IntegerParameter(1),0)/>'!"
-1,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_002","이곳은 '트리플 트라이어드' 대회 접수창구입니다.
+#,Unknown0,Unknown1
+0,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_001,"현재 개최 중인 트리플 트라이어드 대회는……
+''입니다!
+이번 대회의 주목 상품은 바로 ''!"
+1,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_002,"이곳은 '트리플 트라이어드' 대회 접수창구입니다.
 ……손님께선 아직 경기 규칙을 모르시는 것 같군요."
-2,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_003","대회에 참가하기에 앞서
+2,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_000_003,"대회에 참가하기에 앞서
 먼저 '트리플 트라이어드 마스터'를 찾아가
 경기에 대한 기본 설명을 들어보시는 게 어떻습니까?"
-3,"TEXT_CMNGSCTRIPLETRIADCUP_00247_Q1_000_001","무엇을 하시겠습니까?"
-4,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_001","대회에 참가한다"
-5,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_002","현재 순위를 확인한다"
-6,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_006","순위를 확인하는 방법을 물어본다"
-7,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_003","대회 상품에 대해 물어본다"
-8,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_004","대회에 대한 설명을 듣는다"
-9,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_005","취소"
-10,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_010_001","<Sheet(TripleTriadCompetition,IntegerParameter(1),0)/>에 참가하시겠습니까?"
-11,"TEXT_CMNGSCTRIPLETRIADCUP_00247_Q2_000_001","'<Sheet(TripleTriadCompetition,IntegerParameter(1),0)/>'에 참가하시겠습니까?"
-12,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A2_000_001","예"
-13,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A2_000_002","아니요"
-14,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_001","알겠습니다. <Highlight>ObjectParameter(1)</Highlight> 님을
-'<Sheet(TripleTriadCompetition,IntegerParameter(1),0)/>' 참가 선수로 등록했습니다.
+3,TEXT_CMNGSCTRIPLETRIADCUP_00247_Q1_000_001,무엇을 하시겠습니까?
+4,TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_001,대회에 참가한다
+5,TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_002,현재 순위를 확인한다
+6,TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_006,순위를 확인하는 방법을 물어본다
+7,TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_003,대회 상품에 대해 물어본다
+8,TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_004,대회에 대한 설명을 듣는다
+9,TEXT_CMNGSCTRIPLETRIADCUP_00247_A1_000_005,취소
+10,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_010_001,에 참가하시겠습니까?
+11,TEXT_CMNGSCTRIPLETRIADCUP_00247_Q2_000_001,''에 참가하시겠습니까?
+12,TEXT_CMNGSCTRIPLETRIADCUP_00247_A2_000_001,예
+13,TEXT_CMNGSCTRIPLETRIADCUP_00247_A2_000_002,아니요
+14,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_001,"알겠습니다. Player Player 님을
+'' 참가 선수로 등록했습니다.
 입상을 목표로 최선을 다해주세요!"
-15,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_002","'<Sheet(TripleTriadCompetition,IntegerParameter(1),0)/>' 개최 기간은
-(현실 시간) <Time(IntegerParameter(2))/><Value>TopLevelParameter(222)</Value>년 <Value>TopLevelParameter(221)</Value>월 <Value>TopLevelParameter(219)</Value>일 (<Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>) <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
-<Time(IntegerParameter(3))/><Value>TopLevelParameter(222)</Value>년 <Value>TopLevelParameter(221)</Value>월 <Value>TopLevelParameter(219)</Value>일 (<Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>) <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시까지입니다."
-16,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_103","대회 대결은 '카드 대결장' 안에서만 할 수 있습니다.
+15,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_002,"'' 개최 기간은
+(현실 시간) 2013년 8월 27일 (화) 오전 8시부터
+2013년 8월 27일 (화) 오전 8시까지입니다."
+16,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_103,"대회 대결은 '카드 대결장' 안에서만 할 수 있습니다.
 대결장 내 '트리플 트라이어드 도우미'를 통해
 '참가 등록(대회 대결)'을 선택하여 대결하세요."
-17,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_004","대회 대결을 한 번이라도 실행하면
+17,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_004,"대회 대결을 한 번이라도 실행하면
 순위를 집계하기 위해 골드 소서의 '카드 광장'으로
 나가게 됩니다."
-18,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_005","또한, 대회 종료 시간 (현실 시간) 15분 전이 되면
+18,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_005,"또한, 대회 종료 시간 (현실 시간) 15분 전이 되면
 골드 소서로 자동으로 퇴장하므로 주의하시기 바랍니다."
-19,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_003","대회 종료 후 (현실 시간) 1주일이 지나면
+19,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_011_003,"대회 종료 후 (현실 시간) 1주일이 지나면
 다음 대회가 시작되어 상품을 받을 수 없게 됩니다.
 대회가 끝나면 꼭 '대회 접수원'을 찾아주시기 바랍니다."
-20,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_020_001","<Sheet(TripleTriadCompetition,IntegerParameter(1),0)/>의
+20,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_020_001,"의
 현재 순위는 다음과 같습니다."
-21,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_020_002","손님의 순위는
+21,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_020_002,"손님의 순위는
 골드 소서 '카드 광장'에 설치된
 '순위 게시판'에서 확인하실 수 있습니다!"
-22,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_000","대회 상품은
+22,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_000,"대회 상품은
 '별의 신 니메이아배'나 '오란 기념 대회' 등
 개최되는 대회에 따라 상품이 달라집니다."
-23,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_001","<Sheet(TripleTriadCompetition,IntegerParameter(2),0)/>에서
+23,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_001,"에서
 1위부터 3위까지, 입상하신 분께는
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 증정됩니다!"
-24,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_101","또 순위에 따른 MGP를 부상으로 획득할 수 있습니다!
-이번 대회에서는 최고 <Format(IntegerParameter(1),FF022C)/> MGP가 지급됩니다!"
-25,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_002","4위부터 6위에 든 참가자들께는
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
+'' 증정됩니다!"
+24,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_101,"또 순위에 따른 MGP를 부상으로 획득할 수 있습니다!
+이번 대회에서는 최고 0 MGP가 지급됩니다!"
+25,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_002,"4위부터 6위에 든 참가자들께는
+''
 순위에 따른 MGP가 증정됩니다."
-26,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_007","7위부터 10위에 든 참가자들께는
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
+26,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_007,"7위부터 10위에 든 참가자들께는
+''
 순위에 따른 MGP가 증정됩니다."
-27,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_003","그리고 11위부터 20위에 든 참가자들께는
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
+27,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_003,"그리고 11위부터 20위에 든 참가자들께는
+''
 순위에 따른 MGP가 증정됩니다."
-28,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_004","아쉽게도 순위권에 들지 못한 분께는
-참가상으로 <Format(IntegerParameter(1),FF022C)/> MGP가 지급됩니다."
-29,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_005","또한, 대회 종료 시까지 획득한 '승점'에 따라
+28,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_004,"아쉽게도 순위권에 들지 못한 분께는
+참가상으로 0 MGP가 지급됩니다."
+29,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_005,"또한, 대회 종료 시까지 획득한 '승점'에 따라
 MGP 보상이 추가됩니다!"
-30,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_006","그뿐만 아니라, <Sheet(Item,IntegerParameter(1),0)/>도
+30,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_030_006,"그뿐만 아니라, 도
 승점에 따라 추가 지급되오니
 적극적으로 참여해주시기 바랍니다!"
-31,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_001","골드 소서에서는 지금 큰 인기를 끌고 있는
+31,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_001,"골드 소서에서는 지금 큰 인기를 끌고 있는
 '트리플 트라이어드' 대회가 진행되고 있습니다!"
-32,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_002","대회에 참가하면 다른 모험가분들과 '승점'을 겨루는
+32,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_002,"대회에 참가하면 다른 모험가분들과 '승점'을 겨루는
 랭킹 형식의 '대회 대결'을 하실 수 있습니다."
-33,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_003","대회에는 모험가들뿐 아니라
+33,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_003,"대회에는 모험가들뿐 아니라
 '카드 대결장'에 있는 실력자들도 참가한답니다!"
-34,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_004","단, '대회 대결' 중에는
+34,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_004,"단, '대회 대결' 중에는
 대결 규칙이 대회 전용 규칙으로 고정되오니
 이 점 주의하세요!"
-35,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_005","'대회 대결'을 하시면 '승점'을 획득할 수 있습니다.
+35,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_005,"'대회 대결'을 하시면 '승점'을 획득할 수 있습니다.
 대결에 승리하면 '승점'을 많이 얻을 수 있습니다!"
-36,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_006","경기 가능한 횟수는 대회마다 정해져 있습니다.
+36,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_006,"경기 가능한 횟수는 대회마다 정해져 있습니다.
 제한된 경기 횟수를 잘 이용해서
 보다 많은 '승점'을 획득해보세요!"
-37,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_007","진행 중인 대회의 현재 순위는
-<If(Equal(IntegerParameter(1),0))>제게 물어보시거나 옆에 있는 순위 게시판에서 확인하세요<Else/>골드 소서의 카드 광장에 설치된
-순위 게시판에서 확인하실 수 있습니다</If>."
-38,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_008","개최 기간이 끝나면
+37,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_007,"진행 중인 대회의 현재 순위는
+제게 물어보시거나 옆에 있는 순위 게시판에서 확인하세요."
+38,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_008,"개최 기간이 끝나면
 획득한 '승점'에 따라 순위가 결정됩니다."
-39,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_009","상위에 입상하신 분께는 특별한 카드가 증정되오니,
+39,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_009,"상위에 입상하신 분께는 특별한 카드가 증정되오니,
 대회에 참가하시게 되면
 입상을 목표로 최선을 다해주세요!"
-40,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_010","또, 참가자 여러분께서 획득한 '승점'에 따라
-MGP 및 <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13>
+40,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_010,"또, 참가자 여러분께서 획득한 '승점'에 따라
+MGP 및 
 추가 보상으로 받으실 수 있습니다!"
-41,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_011","'승점'을 많이 획득할수록
+41,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_040_011,"'승점'을 많이 획득할수록
 더 많은 추가 보상을 얻으실 수 있으니,
 포기하지 말고 마지막까지 최선을 다해 싸워주세요!"
-42,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_140_006","최종 순위를 결정할 때
+42,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_140_006,"최종 순위를 결정할 때
 획득 승점이 동일한 참가자가 있는 경우에는
 승수가 많은 사람이 상위를 차지하게 됩니다."
-43,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_240_006","승수가 동일한 경우에는 경기 횟수가 적은 쪽이,
+43,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_240_006,"승수가 동일한 경우에는 경기 횟수가 적은 쪽이,
 경기 횟수까지 동일한 경우에는 순위 게시판에
 먼저 이름이 등재된 참가자가 상위를 차지하게 됩니다."
-44,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_100_001","수고하셨습니다!
-'<Sheet(TripleTriadCompetition,IntegerParameter(1),0)/>'<13>FF2002281CFF17547269706C655472696164436F6D7065746974696F6EE8020103FF04EAB080FF04EC9DB4</13> 종료되었습니다.
-그럼 <Highlight>ObjectParameter(1)</Highlight> 님의 순위를 확인하겠습니다."
-45,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_110_001","축하드립니다!
-<Highlight>ObjectParameter(1)</Highlight> 님은 '<Format(IntegerParameter(1),FF022C)/>위'를 차지하셨습니다!"
-46,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_110_002","상품으로 '<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EC9980FF04EAB3BC</13>
+44,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_100_001,"수고하셨습니다!
+'' 종료되었습니다.
+그럼 Player Player 님의 순위를 확인하겠습니다."
+45,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_110_001,"축하드립니다!
+Player Player 님은 '0위'를 차지하셨습니다!"
+46,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_110_002,"상품으로 ''
 승점 보너스가 가산된
-<Format(IntegerParameter(2),FF022C)/> MGP를 드리겠습니다!"
-47,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_110_003","승점 보너스를 가산하여
-<Format(IntegerParameter(1),FF022C)/> MGP를 드리겠습니다!"
-48,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_110_010","그리고 <Highlight>ObjectParameter(1)</Highlight> 님께는 추가로
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 증정됩니다."
-49,"TEXT_CMNGSCTRIPLETRIADCUP_00247_Q3_000_001","상품을 받으시겠습니까?"
-50,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A3_000_001","예"
-51,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A3_000_002","아니요"
-52,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_110_004","다음 대회도 꼭 참가해주세요!"
-53,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_120_001","아쉽게도 <Highlight>ObjectParameter(1)</Highlight> 님은
+0 MGP를 드리겠습니다!"
+47,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_110_003,"승점 보너스를 가산하여
+0 MGP를 드리겠습니다!"
+48,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_110_010,"그리고 Player Player 님께는 추가로
+'' 증정됩니다."
+49,TEXT_CMNGSCTRIPLETRIADCUP_00247_Q3_000_001,상품을 받으시겠습니까?
+50,TEXT_CMNGSCTRIPLETRIADCUP_00247_A3_000_001,예
+51,TEXT_CMNGSCTRIPLETRIADCUP_00247_A3_000_002,아니요
+52,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_110_004,다음 대회도 꼭 참가해주세요!
+53,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_120_001,"아쉽게도 Player Player 님은
 이번 대회에 입상하지 못하셨네요……."
-54,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_120_002","그럼 승점 보너스를 가산하여
-<Format(IntegerParameter(1),FF022C)/> MGP를 드리겠습니다."
-55,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_120_005","그럼 참가상으로
-<Format(IntegerParameter(1),FF022C)/> MGP를 드리겠습니다."
-56,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_120_010","그리고 <Highlight>ObjectParameter(1)</Highlight> 님께는 추가로
-'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EAB080FF04EC9DB4</13> 증정됩니다."
-57,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_130_001","수고하셨습니다!
+54,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_120_002,"그럼 승점 보너스를 가산하여
+0 MGP를 드리겠습니다."
+55,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_120_005,"그럼 참가상으로
+0 MGP를 드리겠습니다."
+56,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_120_010,"그리고 Player Player 님께는 추가로
+'' 증정됩니다."
+57,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_130_001,"수고하셨습니다!
 대회 결과는 골드 소서 '카드 광장'에서
 확인하실 수 있습니다!"
-58,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_200_001","저는 '트리플 트라이어드' 대회에서
+58,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_200_001,"저는 '트리플 트라이어드' 대회에서
 참가 접수 등을 담당하고 있습니다.
 무엇을 도와드릴까요?"
-59,"TEXT_CMNGSCTRIPLETRIADCUP_00247_Q4_000_001","무엇을 하시겠습니까?"
-60,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A4_000_001","다음 대회에 대해 물어본다"
-61,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A4_000_002","대회에 대한 설명을 듣는다"
-62,"TEXT_CMNGSCTRIPLETRIADCUP_00247_A4_000_003","취소"
-63,"TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_210_001","다음 대회는 '<Sheet(TripleTriadCompetition,IntegerParameter(2),0)/>'입니다.
-주목 상품은 '<Sheet(Item,IntegerParameter(1),0)/>'입니다!
+59,TEXT_CMNGSCTRIPLETRIADCUP_00247_Q4_000_001,무엇을 하시겠습니까?
+60,TEXT_CMNGSCTRIPLETRIADCUP_00247_A4_000_001,다음 대회에 대해 물어본다
+61,TEXT_CMNGSCTRIPLETRIADCUP_00247_A4_000_002,대회에 대한 설명을 듣는다
+62,TEXT_CMNGSCTRIPLETRIADCUP_00247_A4_000_003,취소
+63,TEXT_CMNGSCTRIPLETRIADCUP_00247_TTCUP_210_001,"다음 대회는 ''입니다.
+주목 상품은 ''입니다!
 실력을 기르면서 기다려주세요!"
-64,"TEXT_CMNGSCTRIPLETRIADCUP_00247_SYSTEM_210_002","다음 대회인 '<Sheet(TripleTriadCompetition,IntegerParameter(1),0)/>'의 개최 기간은
-(현실 시간) <Time(IntegerParameter(2))/><Value>TopLevelParameter(222)</Value>년 <Value>TopLevelParameter(221)</Value>월 <Value>TopLevelParameter(219)</Value>일 (<Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>) <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
-<Time(IntegerParameter(3))/><Value>TopLevelParameter(222)</Value>년 <Value>TopLevelParameter(221)</Value>월 <Value>TopLevelParameter(219)</Value>일 (<Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>) <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시까지입니다."
+64,TEXT_CMNGSCTRIPLETRIADCUP_00247_SYSTEM_210_002,"다음 대회인 ''의 개최 기간은
+(현실 시간) 2013년 8월 27일 (화) 오전 8시부터
+2013년 8월 27일 (화) 오전 8시까지입니다."

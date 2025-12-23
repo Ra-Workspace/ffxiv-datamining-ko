@@ -1,109 +1,107 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANIXA205_01508_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANIXA205_01508_SEQ_00,"**특수 규칙:  레벨 보정**
 ※ 이 퀘스트의 권장 레벨은 ""제작자 클래스 3, 전투 클래스 43 이상""입니다.
 
 에카틀 실험장의 왕언니 메툴리 카틀란은 모험가에게 물품 조달을 의뢰하고자 한다."
-1,"TEXT_BANIXA205_01508_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+1,TEXT_BANIXA205_01508_SEQ_01,"※ 이 퀘스트에는 **** 레벨 보정
  적용됩니다.
 
-왕언니 메툴리 카틀란이 <Sheet(ItemHQ,　8099,0)/> 제작을 의뢰했다. 먼저 산길잡이 바위굴에 있는 '아데마르'에게 <Sheet(EventItem,2001386,0)/><13>FF15022811FF0A4576656E744974656DF61E89EA0103FF04EBA5BCFF04EC9D84</13> 받자."
-2,"TEXT_BANIXA205_01508_SEQ_02","아데마르에게 <Sheet(EventItem,2001386,0)/><13>FF15022811FF0A4576656E744974656DF61E89EA0103FF04EBA5BCFF04EC9D84</13> 받았다. 가을박 마을 '둥둥 뜬 코르크 여관'에 있는 '힐데야드'에게 <Sheet(EventItem,2001386,0)/><13>FF15022811FF0A4576656E744974656DF61E89EA0103FF04EBA5BCFF04EC9D84</13> 건네고 제작시설 사용 허가를 받자."
-3,"TEXT_BANIXA205_01508_SEQ_03","제작시설을 사용할 준비가 끝났다. <Sheet(Item,　8060,0)/><14>FF15022811FF054974656DFF08E38080383036300103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(ItemHQ,　8099,0)/><13>FF17022813FF074974656D4851FF08E38080383039390103FF04EBA5BCFF04EC9D84</13> 2개 제작하여 에카틀 실험장에 있는 '왕언니 메툴리 카틀란'에게 납품하자.
+왕언니 메툴리 카틀란이  제작을 의뢰했다. 먼저 산길잡이 바위굴에 있는 '아데마르'에게  받자."
+2,TEXT_BANIXA205_01508_SEQ_02,아데마르에게  받았다. 가을박 마을 '둥둥 뜬 코르크 여관'에 있는 '힐데야드'에게  건네고 제작시설 사용 허가를 받자.
+3,TEXT_BANIXA205_01508_SEQ_03,"제작시설을 사용할 준비가 끝났다.   2개 제작하여 에카틀 실험장에 있는 '왕언니 메툴리 카틀란'에게 납품하자.
 
-※ 강화 효과 '제작시설: 고급제작'이 끝나거나 <Sheet(Item,　8060,0)/><13>FF15022811FF054974656DFF08E38080383036300103FF04EBA5BCFF04EC9D84</13> 잃어버렸을 때에는 힐데야드에게 말을 걸어주세요. 강화 효과와 재료를 다시 받아서 재도전할 수 있습니다."
-4,"TEXT_BANIXA205_01508_SEQ_04","왕언니 메툴리 카틀란에게 <Sheet(ItemHQ,　8099,0)/><13>FF17022813FF074974656D4851FF08E38080383039390103FF04EBA5BCFF04EC9D84</13> 납품했다. 의뢰인인 메툴리도, 재료를 제공해 준 아데마르도 이구동성으로 작업용 도구의 중요성을 논했다. 종족은 달라도 기술자가 도구에 쏟는 관심과 정성은 똑같은가 보다."
-5,"TEXT_BANIXA205_01508_SEQ_05",""
-6,"TEXT_BANIXA205_01508_SEQ_06",""
-7,"TEXT_BANIXA205_01508_SEQ_07",""
-8,"TEXT_BANIXA205_01508_SEQ_08",""
-9,"TEXT_BANIXA205_01508_SEQ_09",""
-10,"TEXT_BANIXA205_01508_SEQ_10",""
-11,"TEXT_BANIXA205_01508_SEQ_11",""
-12,"TEXT_BANIXA205_01508_SEQ_12",""
-13,"TEXT_BANIXA205_01508_SEQ_13",""
-14,"TEXT_BANIXA205_01508_SEQ_14",""
-15,"TEXT_BANIXA205_01508_SEQ_15",""
-16,"TEXT_BANIXA205_01508_SEQ_16",""
-17,"TEXT_BANIXA205_01508_SEQ_17",""
-18,"TEXT_BANIXA205_01508_SEQ_18",""
-19,"TEXT_BANIXA205_01508_SEQ_19",""
-20,"TEXT_BANIXA205_01508_SEQ_20",""
-21,"TEXT_BANIXA205_01508_SEQ_21",""
-22,"TEXT_BANIXA205_01508_SEQ_22",""
-23,"TEXT_BANIXA205_01508_SEQ_23",""
-24,"TEXT_BANIXA205_01508_TODO_00","산길잡이 바위굴에서 아데마르와 대화"
-25,"TEXT_BANIXA205_01508_TODO_01","가을박 마을에서 힐데야드에게 <Sheet(EventItem,2001386,0)/> 전달"
-26,"TEXT_BANIXA205_01508_TODO_02","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트 레벨 3：<Sheet(ItemHQ,　8099,0)/> 제작<Else/>왕언니 메툴리 카틀란에게 <Sheet(ItemHQ,　8099,0)/> 납품</If>"
-27,"TEXT_BANIXA205_01508_TODO_03",""
-28,"TEXT_BANIXA205_01508_TODO_04",""
-29,"TEXT_BANIXA205_01508_TODO_05",""
-30,"TEXT_BANIXA205_01508_TODO_06",""
-31,"TEXT_BANIXA205_01508_TODO_07",""
-32,"TEXT_BANIXA205_01508_TODO_08",""
-33,"TEXT_BANIXA205_01508_TODO_09",""
-34,"TEXT_BANIXA205_01508_TODO_10",""
-35,"TEXT_BANIXA205_01508_TODO_11",""
-36,"TEXT_BANIXA205_01508_TODO_12",""
-37,"TEXT_BANIXA205_01508_TODO_13",""
-38,"TEXT_BANIXA205_01508_TODO_14",""
-39,"TEXT_BANIXA205_01508_TODO_15",""
-40,"TEXT_BANIXA205_01508_TODO_16",""
-41,"TEXT_BANIXA205_01508_TODO_17",""
-42,"TEXT_BANIXA205_01508_TODO_18",""
-43,"TEXT_BANIXA205_01508_TODO_19",""
-44,"TEXT_BANIXA205_01508_TODO_20",""
-45,"TEXT_BANIXA205_01508_TODO_21",""
-46,"TEXT_BANIXA205_01508_TODO_22",""
-47,"TEXT_BANIXA205_01508_TODO_23",""
-48,"TEXT_BANIXA205_01508_METHULICATTLAN_000_000","야, 동력부를 조립하는 데 쓸 고품질 <Sheet(ItemHQ,　8099,0)/> 2개만 가져와!
+※ 강화 효과 '제작시설: 고급제작'이 끝나거나  잃어버렸을 때에는 힐데야드에게 말을 걸어주세요. 강화 효과와 재료를 다시 받아서 재도전할 수 있습니다."
+4,TEXT_BANIXA205_01508_SEQ_04,"왕언니 메툴리 카틀란에게  납품했다. 의뢰인인 메툴리도, 재료를 제공해 준 아데마르도 이구동성으로 작업용 도구의 중요성을 논했다. 종족은 달라도 기술자가 도구에 쏟는 관심과 정성은 똑같은가 보다."
+5,TEXT_BANIXA205_01508_SEQ_05,
+6,TEXT_BANIXA205_01508_SEQ_06,
+7,TEXT_BANIXA205_01508_SEQ_07,
+8,TEXT_BANIXA205_01508_SEQ_08,
+9,TEXT_BANIXA205_01508_SEQ_09,
+10,TEXT_BANIXA205_01508_SEQ_10,
+11,TEXT_BANIXA205_01508_SEQ_11,
+12,TEXT_BANIXA205_01508_SEQ_12,
+13,TEXT_BANIXA205_01508_SEQ_13,
+14,TEXT_BANIXA205_01508_SEQ_14,
+15,TEXT_BANIXA205_01508_SEQ_15,
+16,TEXT_BANIXA205_01508_SEQ_16,
+17,TEXT_BANIXA205_01508_SEQ_17,
+18,TEXT_BANIXA205_01508_SEQ_18,
+19,TEXT_BANIXA205_01508_SEQ_19,
+20,TEXT_BANIXA205_01508_SEQ_20,
+21,TEXT_BANIXA205_01508_SEQ_21,
+22,TEXT_BANIXA205_01508_SEQ_22,
+23,TEXT_BANIXA205_01508_SEQ_23,
+24,TEXT_BANIXA205_01508_TODO_00,산길잡이 바위굴에서 아데마르와 대화
+25,TEXT_BANIXA205_01508_TODO_01,가을박 마을에서 힐데야드에게  전달
+26,TEXT_BANIXA205_01508_TODO_02,제작수첩 우호부족 퀘스트 레벨 3： 제작
+27,TEXT_BANIXA205_01508_TODO_03,
+28,TEXT_BANIXA205_01508_TODO_04,
+29,TEXT_BANIXA205_01508_TODO_05,
+30,TEXT_BANIXA205_01508_TODO_06,
+31,TEXT_BANIXA205_01508_TODO_07,
+32,TEXT_BANIXA205_01508_TODO_08,
+33,TEXT_BANIXA205_01508_TODO_09,
+34,TEXT_BANIXA205_01508_TODO_10,
+35,TEXT_BANIXA205_01508_TODO_11,
+36,TEXT_BANIXA205_01508_TODO_12,
+37,TEXT_BANIXA205_01508_TODO_13,
+38,TEXT_BANIXA205_01508_TODO_14,
+39,TEXT_BANIXA205_01508_TODO_15,
+40,TEXT_BANIXA205_01508_TODO_16,
+41,TEXT_BANIXA205_01508_TODO_17,
+42,TEXT_BANIXA205_01508_TODO_18,
+43,TEXT_BANIXA205_01508_TODO_19,
+44,TEXT_BANIXA205_01508_TODO_20,
+45,TEXT_BANIXA205_01508_TODO_21,
+46,TEXT_BANIXA205_01508_TODO_22,
+47,TEXT_BANIXA205_01508_TODO_23,
+48,TEXT_BANIXA205_01508_METHULICATTLAN_000_000,"야, 동력부를 조립하는 데 쓸 고품질  2개만 가져와!
 ……뭐? 화낸 거 아니다 키잇!
 난 원래 성깔 있는 여자니까 그냥 넘어가라 키잇!"
-49,"TEXT_BANIXA205_01508_METHULICATTLAN_000_010","……네가 제작해줘야 할 건 아주아주 딴딴한 망치다 키잇!
+49,TEXT_BANIXA205_01508_METHULICATTLAN_000_010,"……네가 제작해줘야 할 건 아주아주 딴딴한 망치다 키잇!
 가을박 마을에 있는 '힐데야드'란 여자 알지 키잇?
 그년한테 제작시설을 빌려서 만들어와라 키잇!"
-50,"TEXT_BANIXA205_01508_METHULICATTLAN_000_020","……네가 제작해줘야 할 건 특급 품질의 기계유다 키잇!
+50,TEXT_BANIXA205_01508_METHULICATTLAN_000_020,"……네가 제작해줘야 할 건 특급 품질의 기계유다 키잇!
 가을박 마을에 있는 '힐데야드'란 여자 알지 키잇?
 그년한테 제작시설을 빌려서 만들어와라 키잇!"
-51,"TEXT_BANIXA205_01508_METHULICATTLAN_000_030","……네가 제작해줘야 할 건 가죽을 덧댄 나무망치다 키잇!
+51,TEXT_BANIXA205_01508_METHULICATTLAN_000_030,"……네가 제작해줘야 할 건 가죽을 덧댄 나무망치다 키잇!
 가을박 마을에 있는 '힐데야드'란 여자 알지 키잇?
 그년한테 제작시설을 빌려서 만들어와라 키잇!"
-52,"TEXT_BANIXA205_01508_METHULICATTLAN_000_040","재료는 저 꼬맹이를 통해서 준비해놓았다 키잇!
+52,TEXT_BANIXA205_01508_METHULICATTLAN_000_040,"재료는 저 꼬맹이를 통해서 준비해놓았다 키잇!
 '산길잡이 바위굴'에 있는 '아데마르'란 놈이
 가지고 있다니까 빨랑 받으러 가라 키잇!"
-53,"TEXT_BANIXA205_01508_METHULICATTLAN_000_050","필요한 건 고품질 <Sheet(ItemHQ,　8099,0)/>이다 키잇!
+53,TEXT_BANIXA205_01508_METHULICATTLAN_000_050,"필요한 건 고품질 이다 키잇!
 재료는 '산길잡이 바위굴'에 있는 '아데마르'란 놈이
 가지고 있다니까 빨랑 받으러 가라 키잇!"
-54,"TEXT_BANIXA205_01508_ADEMAR_000_060","안녕! 수고가 많군!
-주문한 <Sheet(EventItem,2001386,0)/><13>FF15022811FF0A4576656E744974656DF61E89EA0103FF04EB8A94FF04EC9D80</13> 여기 준비해놨어."
-55,"TEXT_BANIXA205_01508_ADEMAR_000_061","우리도 작업용 도구가 없으면 아무것도 못 하는 직업이라,
+54,TEXT_BANIXA205_01508_ADEMAR_000_060,"안녕! 수고가 많군!
+주문한  여기 준비해놨어."
+55,TEXT_BANIXA205_01508_ADEMAR_000_061,"우리도 작업용 도구가 없으면 아무것도 못 하는 직업이라,
 언제라도 수리 가능하도록 도구 재료는 넉넉히 마련해놓고 있지.
 돈만 내면 얼마든지 넘겨줄 수 있어."
-56,"TEXT_BANIXA205_01508_ADEMAR_000_080","우리도 작업용 도구가 없으면 아무것도 못 하는 직업이라,
+56,TEXT_BANIXA205_01508_ADEMAR_000_080,"우리도 작업용 도구가 없으면 아무것도 못 하는 직업이라,
 언제라도 수리 가능하도록 도구 재료는 넉넉히 마련해놓고 있지.
 돈만 내면 얼마든지 넘겨줄 수 있어."
-57,"TEXT_BANIXA205_01508_HILDEYERD_000_090","안~녕~하~세~요~!
-우리 <If(PlayerParameter(4))>아가씨<Else/>도련님</If> 친구, 또 만났네요~!
-여길 이용하고 싶으면~ 가져온 재료를 이 <If(PlayerParameter(4))>언니<Else/>누나</If>한테 맡겨주세요!"
-58,"TEXT_BANIXA205_01508_HILDEYERD_000_091","어머나, 많이도 가져왔네요?
+57,TEXT_BANIXA205_01508_HILDEYERD_000_090,"안~녕~하~세~요~!
+우리 아가씨 친구, 또 만났네요~!
+여길 이용하고 싶으면~ 가져온 재료를 이 언니한테 맡겨주세요!"
+58,TEXT_BANIXA205_01508_HILDEYERD_000_091,"어머나, 많이도 가져왔네요?
 재료는 제작하는 데 필요한 만큼 내드릴 테니
 행여나 실패하면 언제든지 다시 재료를 받아가세요!"
-59,"TEXT_BANIXA205_01508_HILDEYERD_000_100","재료는 제작하는 데 필요한 만큼 내드릴 테니
+59,TEXT_BANIXA205_01508_HILDEYERD_000_100,"재료는 제작하는 데 필요한 만큼 내드릴 테니
 행여나 실패하면 언제든지 다시 재료를 받아가세요!"
-60,"TEXT_BANIXA205_01508_HILDEYERD_100_100","일을 다 했으면 이제 납품하러 가야 하지요~!
+60,TEXT_BANIXA205_01508_HILDEYERD_100_100,"일을 다 했으면 이제 납품하러 가야 하지요~!
 혹시 납품하러 가는 길에 만든 걸 잃어버린 경우에는
-<If(PlayerParameter(4))>언니<Else/>누나</If>한테 와서 다시 만들면 돼요!"
-61,"TEXT_BANIXA205_01508_METHULICATTLAN_000_130","가져오라는 물건은 어떻게 됐냐 키잇?
+언니한테 와서 다시 만들면 돼요!"
+61,TEXT_BANIXA205_01508_METHULICATTLAN_000_130,"가져오라는 물건은 어떻게 됐냐 키잇?
 아직 멀었다는 소리 하기만 해봐,
 모가지를 확 뽑아버릴 테니까 키잇!"
-62,"TEXT_BANIXA205_01508_METHULICATTLAN_000_131","좋았어, 일 하나 똑 부러지게 잘하는구만 키잇!
+62,TEXT_BANIXA205_01508_METHULICATTLAN_000_131,"좋았어, 일 하나 똑 부러지게 잘하는구만 키잇!
 딴 데도 아닌 동력부를 가공하는 데 쓸 거라
 어설픈 물건은 안 된다 키잇!"
-63,"TEXT_BANIXA205_01508_METHULICATTLAN_000_132","이제 우리 비공정도 점점 완성의 날이 다가오고 있다 키잇.
+63,TEXT_BANIXA205_01508_METHULICATTLAN_000_132,"이제 우리 비공정도 점점 완성의 날이 다가오고 있다 키잇.
 세즐 단장님을 믿고 따라온 보람이 있어 키잇!
 땅바닥을 기어다니는 놈들을 높은 곳에서 비웃어주자고 키잇!"
-64,"TEXT_BANIXA205_01508_POPMESSAGE_000_200","제작할 준비가 되었습니다."
-65,"TEXT_BANIXA205_01508_SYSTEM_200_200","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+64,TEXT_BANIXA205_01508_POPMESSAGE_000_200,제작할 준비가 되었습니다.
+65,TEXT_BANIXA205_01508_SYSTEM_200_200,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."

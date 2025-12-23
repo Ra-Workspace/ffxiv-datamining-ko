@@ -1,573 +1,571 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_VOICEMAN_05100_000010_KRILE","어머, 와줬구나."
-1,"TEXT_VOICEMAN_05100_000020_TATARU","그래서…… 다들 좀 어떠신가용?"
-2,"TEXT_VOICEMAN_05100_000030_KRILE","여전히 혼수상태야.
+#,Unknown0,Unknown1
+0,TEXT_VOICEMAN_05100_000010_KRILE,"어머, 와줬구나."
+1,TEXT_VOICEMAN_05100_000020_TATARU,그래서…… 다들 좀 어떠신가용?
+2,TEXT_VOICEMAN_05100_000030_KRILE,"여전히 혼수상태야.
 마치 자고 있는 것처럼 몸에 별 이상은……"
-3,"TEXT_VOICEMAN_05100_000040_KRILE","……없다고 말하고 싶은데,
+3,TEXT_VOICEMAN_05100_000040_KRILE,"……없다고 말하고 싶은데,
 사실은 변화의 조짐이 보여."
-4,"TEXT_VOICEMAN_05100_000050_TATARU","변화……라구용?"
-5,"TEXT_VOICEMAN_05100_000060_TATARU","앗……?
+4,TEXT_VOICEMAN_05100_000050_TATARU,변화……라구용?
+5,TEXT_VOICEMAN_05100_000060_TATARU,"앗……?
 혹시 의논하고 싶으시다는 게 이거였나용……!?"
-6,"TEXT_VOICEMAN_05100_000070_KRILE","그래, 맞아."
-7,"TEXT_VOICEMAN_05100_000080_KRILE","아주 미미하긴 하지만…… 모두의 몸에 남아 있는 에테르,
+6,TEXT_VOICEMAN_05100_000070_KRILE,"그래, 맞아."
+7,TEXT_VOICEMAN_05100_000080_KRILE,"아주 미미하긴 하지만…… 모두의 몸에 남아 있는 에테르,
 다시 말해 혼 이외의 생명력이라고 하면 될까?
 그게 흔들리고 있어."
-8,"TEXT_VOICEMAN_05100_000090_KRILE","당장 무슨 일이 생길 듯한 변화는 아니지만,
+8,TEXT_VOICEMAN_05100_000090_KRILE,"당장 무슨 일이 생길 듯한 변화는 아니지만,
 그 흔들림에 개인차가 있다는 게 마음에 걸려."
-9,"TEXT_VOICEMAN_05100_000100_KRILE","흔들림이 가장 심한 건 산크레드 씨야.
+9,TEXT_VOICEMAN_05100_000100_KRILE,"흔들림이 가장 심한 건 산크레드 씨야.
 그다음이 야슈톨라와 위리앙제 씨…….
 반면에 알피노와 알리제는 거의 변화가 없어."
-10,"TEXT_VOICEMAN_05100_000110_TATARU","그건…… 쓰러진 순서잖아용!"
-11,"TEXT_VOICEMAN_05100_000120_KRILE","맞아.
+10,TEXT_VOICEMAN_05100_000110_TATARU,그건…… 쓰러진 순서잖아용!
+11,TEXT_VOICEMAN_05100_000120_KRILE,"맞아.
 즉 혼이 분리된 지 오래된 사람일수록
 생명력의 흔들림이 심하다는 뜻이야."
-12,"TEXT_VOICEMAN_05100_000130_KRILE","이건 추론에 불과하지만,
+12,TEXT_VOICEMAN_05100_000130_KRILE,"이건 추론에 불과하지만,
 혼과 육체의 연결이 점점 약해지고 있는 걸지도 몰라."
-13,"TEXT_VOICEMAN_05100_000140_TATARU","어, 어머나!! 그, 그러면 큰일이잖아용!
+13,TEXT_VOICEMAN_05100_000140_TATARU,"어, 어머나!! 그, 그러면 큰일이잖아용!
 그 연결이 완전히 끊어지면,
 어떻게 되는 건가용!?"
-14,"TEXT_VOICEMAN_05100_000150_KRILE","이런 증상은 처음이라 확실한 건 아무것도 알 수 없어.
+14,TEXT_VOICEMAN_05100_000150_KRILE,"이런 증상은 처음이라 확실한 건 아무것도 알 수 없어.
 하지만 결코 결과가 좋을 것 같진 않아."
-15,"TEXT_VOICEMAN_05100_000160_KRILE","아까도 말했지만, 흔들림은 아직 미미해.
+15,TEXT_VOICEMAN_05100_000160_KRILE,"아까도 말했지만, 흔들림은 아직 미미해.
 일단 나도 마토야 님과 힘을 합쳐서
 육체를 유지하기 위한 노력을 해볼 생각이야."
-16,"TEXT_VOICEMAN_05100_000170_KRILE","그러니까 그동안……
+16,TEXT_VOICEMAN_05100_000170_KRILE,"그러니까 그동안……
 당신은 그들의 혼을 귀환시킬 방법을 찾아줬으면 해."
-17,"TEXT_VOICEMAN_05100_Q1_000_001_NONE_VOICE","뭐라고 대답하시겠습니까?"
-18,"TEXT_VOICEMAN_05100_A1_000_001_NONE_VOICE","걱정 마!"
-19,"TEXT_VOICEMAN_05100_A1_000_002_NONE_VOICE","그럴 줄 알았어"
-20,"TEXT_VOICEMAN_05100_000180_KRILE","고마워, 믿고 맡길게."
-21,"TEXT_VOICEMAN_05100_000190_KRILE","두 세계를 구하는 싸움을 끝낸 지 얼마 지나지도 않았는데,
+17,TEXT_VOICEMAN_05100_Q1_000_001_NONE_VOICE,뭐라고 대답하시겠습니까?
+18,TEXT_VOICEMAN_05100_A1_000_001_NONE_VOICE,걱정 마!
+19,TEXT_VOICEMAN_05100_A1_000_002_NONE_VOICE,그럴 줄 알았어
+20,TEXT_VOICEMAN_05100_000180_KRILE,"고마워, 믿고 맡길게."
+21,TEXT_VOICEMAN_05100_000190_KRILE,"두 세계를 구하는 싸움을 끝낸 지 얼마 지나지도 않았는데,
 이런 부탁해서 미안해."
-22,"TEXT_VOICEMAN_05100_000200_TATARU","그런데용, 방법을 어떻게 찾지용!?
+22,TEXT_VOICEMAN_05100_000200_TATARU,"그런데용, 방법을 어떻게 찾지용!?
 지금껏 전문가분들의 힘을 빌려서 조사해봤지만
 아직…… 아무런 단서도 얻지 못했는걸용?"
-23,"TEXT_VOICEMAN_05100_000210_KRILE","……당신의 보고에 따르면,
+23,TEXT_VOICEMAN_05100_000210_KRILE,"……당신의 보고에 따르면,
 수정공은 소환자인 자신의 목숨을 희생해서
 현인들의 혼을 원초세계로 돌려보낼 생각이었다고 했지?"
-24,"TEXT_VOICEMAN_05100_000220_KRILE","샬레이안에 있던 시절의 라하를 생각하면
+24,TEXT_VOICEMAN_05100_000220_KRILE,"샬레이안에 있던 시절의 라하를 생각하면
 그 결단에 짐작이 가는 부분도 있지만……."
-25,"TEXT_VOICEMAN_05100_000230_KRILE","어찌 됐든 다행히 그는 목숨을 건졌고,
+25,TEXT_VOICEMAN_05100_000230_KRILE,"어찌 됐든 다행히 그는 목숨을 건졌고,
 결과적으로 현인들은 제1세계에 남게 된 거잖아."
-26,"TEXT_VOICEMAN_05100_000240_KRILE","역시 그들의 혼을 귀환시키기 위해서는
+26,TEXT_VOICEMAN_05100_000240_KRILE,"역시 그들의 혼을 귀환시키기 위해서는
 소환술을 사용한 수정공의 도움이 반드시 필요해."
-27,"TEXT_VOICEMAN_05100_000250_KRILE","당신은 다시 제1세계로 건너가 수정공과 현인들에게
+27,TEXT_VOICEMAN_05100_000250_KRILE,"당신은 다시 제1세계로 건너가 수정공과 현인들에게
 육체에 변화가 생겼다는 정보를 전달하고 대책을 논의해줘."
-28,"TEXT_VOICEMAN_05100_000260_KRILE","물론 원초세계 쪽에서 도울 일이 있다면 뭐든 할게.
+28,TEXT_VOICEMAN_05100_000260_KRILE,"물론 원초세계 쪽에서 도울 일이 있다면 뭐든 할게.
 그러니까…… 잘 부탁해!"
-29,"TEXT_VOICEMAN_05100_000270_URIANGER","죄송합니다…… 늦었군요……."
-30,"TEXT_VOICEMAN_05100_000280_YSHTOLA","어머, 산크레드와 린도
+29,TEXT_VOICEMAN_05100_000270_URIANGER,죄송합니다…… 늦었군요…….
+30,TEXT_VOICEMAN_05100_000280_YSHTOLA,"어머, 산크레드와 린도
 함께 있었던 것 아니었나요?"
-31,"TEXT_VOICEMAN_05100_000290_URIANGER","그들은 '무의 대지' 조사에 집중하고 싶다더군요.
+31,TEXT_VOICEMAN_05100_000290_URIANGER,"그들은 '무의 대지' 조사에 집중하고 싶다더군요.
 급한 일이 생기면 불러달라는 부탁을 받았습니다."
-32,"TEXT_VOICEMAN_05100_000300_MYSTERYVOICE","그래, 그들이 맡은 조사도 아주 중요하지.
+32,TEXT_VOICEMAN_05100_000300_MYSTERYVOICE,"그래, 그들이 맡은 조사도 아주 중요하지.
 지금은 여기 모인 사람들끼리 문제를 검토하세."
-33,"TEXT_VOICEMAN_05100_000310_MYSTERYVOICE","모두에게는 이미 대략적인 내용을 전달하긴 했지만……
+33,TEXT_VOICEMAN_05100_000310_MYSTERYVOICE,"모두에게는 이미 대략적인 내용을 전달하긴 했지만……
 그대가 원초세계에서 들은 사실을 다시 보고해주겠나?"
-34,"TEXT_VOICEMAN_05100_000320_ALPHINAUD","생명력의 흔들림이라……."
-35,"TEXT_VOICEMAN_05100_000330_YSHTOLA","혼만 존재하는 이쪽 세계의 우리는
+34,TEXT_VOICEMAN_05100_000320_ALPHINAUD,생명력의 흔들림이라…….
+35,TEXT_VOICEMAN_05100_000330_YSHTOLA,"혼만 존재하는 이쪽 세계의 우리는
 아직까진 별다른 이상은 없어 보여요……."
-36,"TEXT_VOICEMAN_05100_000340_YSHTOLA","그렇다고 이 상태를 계속 유지할 수 있을 거란 확증도 없죠……
+36,TEXT_VOICEMAN_05100_000340_YSHTOLA,"그렇다고 이 상태를 계속 유지할 수 있을 거란 확증도 없죠……
 어찌 됐든 귀환 방법을 진지하게 찾아야 할 것 같군요."
-37,"TEXT_VOICEMAN_05100_000350_MYSTERYVOICE","이번 기회에 그대에게도
+37,TEXT_VOICEMAN_05100_000350_MYSTERYVOICE,"이번 기회에 그대에게도
 내가 사용한 소환술에 대해서 자세히 설명해두는 게 좋겠군."
-38,"TEXT_VOICEMAN_05100_000360_MYSTERYVOICE","……원래 난 우수한 마법사는 아니라서
+38,TEXT_VOICEMAN_05100_000360_MYSTERYVOICE,"……원래 난 우수한 마법사는 아니라서
 대규모 술법을 사용할 때는
 이 탑의 기능과 이곳에 축적된 에너지를 이용하고 있네."
-39,"TEXT_VOICEMAN_05100_000370_MYSTERYVOICE","그대들을 소환한 술법도 예외는 아니야.
+39,TEXT_VOICEMAN_05100_000370_MYSTERYVOICE,"그대들을 소환한 술법도 예외는 아니야.
 먼 미래에 확립되어 나를 제1세계로 보냈던 기능……
 그것을 아주 힘들게 응용한 거였지."
-40,"TEXT_VOICEMAN_05100_000380_MYSTERYVOICE","좀 거칠게 표현하자면,
+40,TEXT_VOICEMAN_05100_000380_MYSTERYVOICE,"좀 거칠게 표현하자면,
 세계 사이의 벽에 특정 대상자만 지나갈 수 있는 구멍을 뚫어서
 이 탑 쪽으로 오게끔 끌어당긴 거라고 할 수 있는데……."
-41,"TEXT_VOICEMAN_05100_000390_MYSTERYVOICE","그대를 제외한 다른 사람들은 예상치 못했던 소환이었기 때문에
+41,TEXT_VOICEMAN_05100_000390_MYSTERYVOICE,"그대를 제외한 다른 사람들은 예상치 못했던 소환이었기 때문에
 그 구멍이 완벽하게 열리지 않은 상태였다고…… 생각하면 돼."
-42,"TEXT_VOICEMAN_05100_000400_MYSTERYVOICE","……난 이제 앞으로 어떤 사명을 짊어지더라도
+42,TEXT_VOICEMAN_05100_000400_MYSTERYVOICE,"……난 이제 앞으로 어떤 사명을 짊어지더라도
 삶을 포기하지 않을 거야."
-43,"TEXT_VOICEMAN_05100_000410_MYSTERYVOICE","그 깊은 바닷속까지 구하러 와준 그대에게 맹세코……
+43,TEXT_VOICEMAN_05100_000410_MYSTERYVOICE,"그 깊은 바닷속까지 구하러 와준 그대에게 맹세코……
 이번 일도 반드시 해결법을 찾아낼 거야."
-44,"TEXT_VOICEMAN_05100_000420_MYSTERYVOICE","하지만…… 혹시라도 너무 늦어서
+44,TEXT_VOICEMAN_05100_000420_MYSTERYVOICE,"하지만…… 혹시라도 너무 늦어서
 모두의 몸에 위기가 닥치게 된다면……
 주저하지 말고 처음 그 방법을 선택해 주게."
-45,"TEXT_VOICEMAN_05100_000430_MYSTERYVOICE","아얏!?"
-46,"TEXT_VOICEMAN_05100_000440_MYSTERYVOICE","갑자기 이게 무슨……?"
-47,"TEXT_VOICEMAN_05100_000450_ALISAIE","'혹시라도'라는 말을 왜 해?
+45,TEXT_VOICEMAN_05100_000430_MYSTERYVOICE,아얏!?
+46,TEXT_VOICEMAN_05100_000440_MYSTERYVOICE,갑자기 이게 무슨……?
+47,TEXT_VOICEMAN_05100_000450_ALISAIE,"'혹시라도'라는 말을 왜 해?
 그렇게 살아남아봤자 저 사람이 슬퍼한다면
 그게 최악의 방법이 아니고 뭐겠어!"
-48,"TEXT_VOICEMAN_05100_000460_YSHTOLA","여러 사람에게 사랑받는 것도 힘들죠, 영웅님?"
-49,"TEXT_VOICEMAN_05100_000470_ALISAIE","뭐어!?"
-50,"TEXT_VOICEMAN_05100_000480_MYSTERYVOICE","아니……!"
-51,"TEXT_VOICEMAN_05100_000485_YSHTOLA","あ"
-52,"TEXT_VOICEMAN_05100_000490_YSHTOLA","자, 그럼 이제 논의를 마저 해볼까요."
-53,"TEXT_VOICEMAN_05100_000500_YSHTOLA","일단 검토해야 할 건,
+48,TEXT_VOICEMAN_05100_000460_YSHTOLA,"여러 사람에게 사랑받는 것도 힘들죠, 영웅님?"
+49,TEXT_VOICEMAN_05100_000470_ALISAIE,뭐어!?
+50,TEXT_VOICEMAN_05100_000480_MYSTERYVOICE,아니……!
+51,TEXT_VOICEMAN_05100_000485_YSHTOLA,あ
+52,TEXT_VOICEMAN_05100_000490_YSHTOLA,"자, 그럼 이제 논의를 마저 해볼까요."
+53,TEXT_VOICEMAN_05100_000500_YSHTOLA,"일단 검토해야 할 건,
 우리 같은 불완전한 전송 사례는 아니라고 생각해요.
 완벽하게 성공한 사례가 지금 이 자리에 있으니까요……."
-54,"TEXT_VOICEMAN_05100_000510_YSHTOLA","그리고 그의 경우,
+54,TEXT_VOICEMAN_05100_000510_YSHTOLA,"그리고 그의 경우,
 혼과 육체뿐 아니라 장비와 소지품 같은 물질도 함께
 차원의 틈새를 넘어왔다는 점에 주목할 필요가 있어요."
-55,"TEXT_VOICEMAN_05100_000520_YSHTOLA","텔레포 같은 전송 마법을 쓸 때는
+55,TEXT_VOICEMAN_05100_000520_YSHTOLA,"텔레포 같은 전송 마법을 쓸 때는
 자신의 연장선상에 물질을 놓아서 전송을 실현시켜요.
 그때 중요한 건 그걸 자신의 물건이라고 인식하는 거죠."
-56,"TEXT_VOICEMAN_05100_000530_ALPHINAUD","그렇군.
+56,TEXT_VOICEMAN_05100_000530_ALPHINAUD,"그렇군.
 즉 그가 우리들의 혼을 '자신의 물건'이라고 인식하면
 원초세계로 가지고 돌아갈 수 있다는 뜻인가?"
-57,"TEXT_VOICEMAN_05100_000540_ALPHINAUD","그렇군.
+57,TEXT_VOICEMAN_05100_000540_ALPHINAUD,"그렇군.
 즉 그녀가 우리들의 혼을  '자신의 물건'이라고 인식하면
 원초세계로 가지고 돌아갈 수 있다는 뜻인가?"
-58,"TEXT_VOICEMAN_05100_000550_ALISAIE","그 방법이 가능하다면 얘기는 빠르겠네."
-59,"TEXT_VOICEMAN_05100_000560_ALISAIE","하지만 다른 사람을 내 물건이라고 생각하는 게 쉬울까?
+58,TEXT_VOICEMAN_05100_000550_ALISAIE,그 방법이 가능하다면 얘기는 빠르겠네.
+59,TEXT_VOICEMAN_05100_000560_ALISAIE,"하지만 다른 사람을 내 물건이라고 생각하는 게 쉬울까?
 조금이라도 의심하는 순간, 차원의 틈새로
 튕겨져 나가버리면 어떡하려고…… 너무 위험한 방법 같은데."
-60,"TEXT_VOICEMAN_05100_000570_URIANGER","알리제 님의 우려는 이해합니다."
-61,"TEXT_VOICEMAN_05100_000580_URIANGER","하지만 혼을 어떤 물체 속에 담는다면 얘기가 다를 겁니다.
+60,TEXT_VOICEMAN_05100_000570_URIANGER,알리제 님의 우려는 이해합니다.
+61,TEXT_VOICEMAN_05100_000580_URIANGER,"하지만 혼을 어떤 물체 속에 담는다면 얘기가 다를 겁니다.
 우리 마녀님은 그렇게 말하고 싶은 게 아닐까요?"
-62,"TEXT_VOICEMAN_05100_000590_URIANGER","그렇다면 '백성석'이 도움이 될 것입니다…….
+62,TEXT_VOICEMAN_05100_000590_URIANGER,"그렇다면 '백성석'이 도움이 될 것입니다…….
 백성석은 원래 아씨엔의 혼을 넣기 위해 만들어진 마법도구니까요.
 혼의 질량이 적은 우리라면 당연히 들어갈 것입니다."
-63,"TEXT_VOICEMAN_05100_000600_URIANGER","'백성석'에 담은 혼을 안전하게 유지하는 방법,
+63,TEXT_VOICEMAN_05100_000600_URIANGER,"'백성석'에 담은 혼을 안전하게 유지하는 방법,
 그리고 그것을 육체로 옮기는 방법,
 이 두 가지만 알아내면 원초세계로 귀환할 수 있을 것입니다."
-64,"TEXT_VOICEMAN_05100_000610_MYSTERYVOICE","혼을 유지하고 육체로 옮기는 방법이라…….
+64,TEXT_VOICEMAN_05100_000610_MYSTERYVOICE,"혼을 유지하고 육체로 옮기는 방법이라…….
 그렇다면 한 가지 제안하고 싶은 것이 있다."
-65,"TEXT_VOICEMAN_05100_000620_MYSTERYVOICE","레이크랜드에 있는 '태초의 호수',
+65,TEXT_VOICEMAN_05100_000620_MYSTERYVOICE,"레이크랜드에 있는 '태초의 호수',
 그 건너편에는 과거 엘프들이 지어 놓은 궁전이 있네."
-66,"TEXT_VOICEMAN_05100_000630_MYSTERYVOICE","'빛의 범람'이 일어났을 때 방치된 모양인데,
+66,TEXT_VOICEMAN_05100_000630_MYSTERYVOICE,"'빛의 범람'이 일어났을 때 방치된 모양인데,
 그곳에서 살고 있는 특이한 응 모우족 은자가 있어."
-67,"TEXT_VOICEMAN_05100_000640_MYSTERYVOICE","그는 과거 푀부트 왕국의 왕궁을 출입하던 마도사인데
+67,TEXT_VOICEMAN_05100_000640_MYSTERYVOICE,"그는 과거 푀부트 왕국의 왕궁을 출입하던 마도사인데
 특히나 '혼'에 관한 연구로 유명했다고 하더군.
 그 은자에게 지혜를 빌려보면 어떻겠나?"
-68,"TEXT_VOICEMAN_05100_000650_ALISAIE","물론 반대할 생각은 없지만……
+68,TEXT_VOICEMAN_05100_000650_ALISAIE,"물론 반대할 생각은 없지만……
 그렇게 명성 높은 마도사가 폐허에 숨어 살다니
 뭔가 말 못할 사정이 있을 것 같은데?"
-69,"TEXT_VOICEMAN_05100_000660_MYSTERYVOICE","아마도 그럴 거다.
+69,TEXT_VOICEMAN_05100_000660_MYSTERYVOICE,"아마도 그럴 거다.
 나도 수십 년 전에 죄식자 대책에 관한 협력을 구하려고
 접촉을 시도한 적이 있는데……"
-70,"TEXT_VOICEMAN_05100_000670_MYSTERYVOICE","사역마를 조종해서 공격하는 바람에 제대로 협상도 못했네.
+70,TEXT_VOICEMAN_05100_000670_MYSTERYVOICE,"사역마를 조종해서 공격하는 바람에 제대로 협상도 못했네.
 어지간히 사람을 싫어하는 것 같더군……."
-71,"TEXT_VOICEMAN_05100_000680_MYSTERYVOICE","하지만 까다로운 일 메그의 요정들하고도
+71,TEXT_VOICEMAN_05100_000680_MYSTERYVOICE,"하지만 까다로운 일 메그의 요정들하고도
 인연을 맺은 그대들이라면 가능할 수도 있잖나."
-72,"TEXT_VOICEMAN_05100_000690_MYSTERYVOICE","어쩌면 험난한 과정이 될 수도 있겠지만……
+72,TEXT_VOICEMAN_05100_000690_MYSTERYVOICE,"어쩌면 험난한 과정이 될 수도 있겠지만……
 그래도 혹시 모르니 그 은자를 찾아가보는 게 어떤가.
 물론 그대들만 괜찮다면 말이지."
-73,"TEXT_VOICEMAN_05100_000700_BEQLUGG","오, 이런 이런. 나의 귀여운 사역마까지 쓰러뜨릴 줄이야……."
-74,"TEXT_VOICEMAN_05100_000710_MYSTERYVOICE","궁전에 살고 있는 은자, '베크 러그' 님이 맞으신가."
-75,"TEXT_VOICEMAN_05100_000720_MYSTERYVOICE","우리가 초대받지 않은 손님이란 건 알고 있다.
+73,TEXT_VOICEMAN_05100_000700_BEQLUGG,"오, 이런 이런. 나의 귀여운 사역마까지 쓰러뜨릴 줄이야……."
+74,TEXT_VOICEMAN_05100_000710_MYSTERYVOICE,"궁전에 살고 있는 은자, '베크 러그' 님이 맞으신가."
+75,TEXT_VOICEMAN_05100_000720_MYSTERYVOICE,"우리가 초대받지 않은 손님이란 건 알고 있다.
 다소 거친 환영 인사를 받는 바람에
 무례인 줄 알면서도 전력을 다해 대응했지만……."
-76,"TEXT_VOICEMAN_05100_000730_MYSTERYVOICE","사실 싸운 건 우리의 본심이 아니야.
+76,TEXT_VOICEMAN_05100_000730_MYSTERYVOICE,"사실 싸운 건 우리의 본심이 아니야.
 우리는 당신의 협력을 '부탁'하고자 이곳을 찾아온 거다."
-77,"TEXT_VOICEMAN_05100_000740_BEQLUGG","……부탁……이라고?"
-78,"TEXT_VOICEMAN_05100_000750_MYSTERYVOICE","그렇다, 나의 동료들의 목숨을 구하기 위해,
+77,TEXT_VOICEMAN_05100_000740_BEQLUGG,……부탁……이라고?
+78,TEXT_VOICEMAN_05100_000750_MYSTERYVOICE,"그렇다, 나의 동료들의 목숨을 구하기 위해,
 오랜 세월 혼을 연구해 온 당신의 지혜를 빌리고 싶다.
 그 '부탁'을 하러 온 거야."
-79,"TEXT_VOICEMAN_05100_000760_BEQLUGG","으윽……'부탁'……
+79,TEXT_VOICEMAN_05100_000760_BEQLUGG,"으윽……'부탁'……
 이 얼마나 거부하기 어려운 감미로운 단어인가……!"
-80,"TEXT_VOICEMAN_05100_000770_BEQLUGG","그 단어를 듣지 않으려고
+80,TEXT_VOICEMAN_05100_000770_BEQLUGG,"그 단어를 듣지 않으려고
 일부러 마을과 이렇게나 멀리 떨어진 폐허에 살고 있는데!"
-81,"TEXT_VOICEMAN_05100_000780_BEQLUGG","아니야, 안 돼, 안 돼……!
+81,TEXT_VOICEMAN_05100_000780_BEQLUGG,"아니야, 안 돼, 안 돼……!
 나는 인간의 악의에 절망하여 평생 부탁을 들어주지 않겠다고
 맹세했단 말이다……!"
-82,"TEXT_VOICEMAN_05100_000790_ALPHINAUD","대가를 중시하는 응 모우족이
+82,TEXT_VOICEMAN_05100_000790_ALPHINAUD,"대가를 중시하는 응 모우족이
 거래를 거부하는 데에는 나름의 이유가 있겠지요."
-83,"TEXT_VOICEMAN_05100_000800_ALPHINAUD","그렇지만, 저도 거듭 '부탁'을 드리고 싶습니다.
+83,TEXT_VOICEMAN_05100_000800_ALPHINAUD,"그렇지만, 저도 거듭 '부탁'을 드리고 싶습니다.
 저를 포함해 여러 명의 목숨이 걸린 사안입니다…….
 모쪼록 이야기만이라도 들어주시지 않겠습니까?"
-84,"TEXT_VOICEMAN_05100_000810_BEQLUGG","으아아아악!"
-85,"TEXT_VOICEMAN_05100_000820_BEQLUGG","이야기만……? 정말로 듣기만 해도 되나……?
+84,TEXT_VOICEMAN_05100_000810_BEQLUGG,으아아아악!
+85,TEXT_VOICEMAN_05100_000820_BEQLUGG,"이야기만……? 정말로 듣기만 해도 되나……?
 그 정도라면……"
-86,"TEXT_VOICEMAN_05100_000830_BEQLUGG","아니야, 역시 안 되겠어, 맹세했단 말이다!"
-87,"TEXT_VOICEMAN_05100_000840_BEQLUGG","자네들은 왜 하필 내 지혜를 구하는 것이냐?
+86,TEXT_VOICEMAN_05100_000830_BEQLUGG,"아니야, 역시 안 되겠어, 맹세했단 말이다!"
+87,TEXT_VOICEMAN_05100_000840_BEQLUGG,"자네들은 왜 하필 내 지혜를 구하는 것이냐?
 과거 내가 왕국을 배신한 궁정 마도사에게 지혜를 빌려준 탓에
 수많은 희생자가 나왔거늘……!"
-88,"TEXT_VOICEMAN_05100_000850_BEQLUGG","자네들은 그 끔찍한 사건을 모르니까
+88,TEXT_VOICEMAN_05100_000850_BEQLUGG,"자네들은 그 끔찍한 사건을 모르니까
 지혜를 빌리고 싶다는 둥 그런 말이 쉽게 나오는 거라네!"
-89,"TEXT_VOICEMAN_05100_Q2_000_001_NONE_VOICE","뭐라고 대답하시겠습니까?"
-90,"TEXT_VOICEMAN_05100_A2_000_001_NONE_VOICE","그래도 '부탁'하고 싶다!"
-91,"TEXT_VOICEMAN_05100_A2_000_002_NONE_VOICE","결코 지혜를 악용하지 않겠다고 맹세한다!"
-92,"TEXT_VOICEMAN_05100_A2_000_003_NONE_VOICE","푀부트 왕국의 마물화 사건을 말하는 건가?"
-93,"TEXT_VOICEMAN_05100_000860_BEQLUGG","후우, 후우……!"
-94,"TEXT_VOICEMAN_05100_000870_BEQLUGG","도, 도저히 못 참겠어……!
+89,TEXT_VOICEMAN_05100_Q2_000_001_NONE_VOICE,뭐라고 대답하시겠습니까?
+90,TEXT_VOICEMAN_05100_A2_000_001_NONE_VOICE,그래도 '부탁'하고 싶다!
+91,TEXT_VOICEMAN_05100_A2_000_002_NONE_VOICE,결코 지혜를 악용하지 않겠다고 맹세한다!
+92,TEXT_VOICEMAN_05100_A2_000_003_NONE_VOICE,푀부트 왕국의 마물화 사건을 말하는 건가?
+93,TEXT_VOICEMAN_05100_000860_BEQLUGG,"후우, 후우……!"
+94,TEXT_VOICEMAN_05100_000870_BEQLUGG,"도, 도저히 못 참겠어……!
 이렇게 계속해서 '부탁'을 하면…… 어쩌란 말이냐!!"
-95,"TEXT_VOICEMAN_05100_000880_BEQLUGG","내 지혜를 동료들의 목숨을 구하는데에만 쓰겠단 말이냐……?"
-96,"TEXT_VOICEMAN_05100_000890_BEQLUGG","진심으로 맹세할 수 있느냐?"
-97,"TEXT_VOICEMAN_05100_000900_BEQLUGG","아니, 그 사건을 알고 있단 말인가!"
-98,"TEXT_VOICEMAN_05100_000910_BEQLUGG","그때는 내가 지혜를 빌려줬기 때문에
+95,TEXT_VOICEMAN_05100_000880_BEQLUGG,내 지혜를 동료들의 목숨을 구하는데에만 쓰겠단 말이냐……?
+96,TEXT_VOICEMAN_05100_000890_BEQLUGG,진심으로 맹세할 수 있느냐?
+97,TEXT_VOICEMAN_05100_000900_BEQLUGG,"아니, 그 사건을 알고 있단 말인가!"
+98,TEXT_VOICEMAN_05100_000910_BEQLUGG,"그때는 내가 지혜를 빌려줬기 때문에
 그자가 마물화 마법을 완성시킬 수 있었단 말이네!
 정녕 그 불길한 지혜를 빌려달라는 것이냐……?"
-99,"TEXT_VOICEMAN_05100_000920_BEQLUGG","으응, 으응……."
-100,"TEXT_VOICEMAN_05100_000930_BEQLUGG","조, 좋다……."
-101,"TEXT_VOICEMAN_05100_000940_BEQLUGG","잘 듣거라, 아주 쬐~~~끔 이야기를 듣기만 할 거다……?
+99,TEXT_VOICEMAN_05100_000920_BEQLUGG,"으응, 으응……."
+100,TEXT_VOICEMAN_05100_000930_BEQLUGG,"조, 좋다……."
+101,TEXT_VOICEMAN_05100_000940_BEQLUGG,"잘 듣거라, 아주 쬐~~~끔 이야기를 듣기만 할 거다……?
 그에 대한 '대가'는 반드시 치러야 한다……?"
-102,"TEXT_VOICEMAN_05100_000950_MYSTERYVOICE","적절한 대가를 약속하겠네."
-103,"TEXT_VOICEMAN_05100_000960_MYSTERYVOICE","그럼 우리와 함께 크리스타리움으로 가주겠나.
+102,TEXT_VOICEMAN_05100_000950_MYSTERYVOICE,적절한 대가를 약속하겠네.
+103,TEXT_VOICEMAN_05100_000960_MYSTERYVOICE,"그럼 우리와 함께 크리스타리움으로 가주겠나.
 다소 복잡한 사정이니 그곳에서 우리의 이야기를 들어주었으면 한다."
-104,"TEXT_VOICEMAN_05100_000970_BEQLUGG","……세상에나,
+104,TEXT_VOICEMAN_05100_000970_BEQLUGG,"……세상에나,
 자네들이 밤의 어둠을 되찾아주었다니……."
-105,"TEXT_VOICEMAN_05100_000980_BEQLUGG","게다가 다른 세계에서 왔단 말이더냐……?"
-106,"TEXT_VOICEMAN_05100_000990_MYSTERYVOICE","아주 먼 옛날, 13개로 갈라진 거울 세계…….
+105,TEXT_VOICEMAN_05100_000980_BEQLUGG,게다가 다른 세계에서 왔단 말이더냐……?
+106,TEXT_VOICEMAN_05100_000990_MYSTERYVOICE,"아주 먼 옛날, 13개로 갈라진 거울 세계…….
 그리고 과거 발생했던 7번의 재해로 인한 세계의 통합.
 지금까지 내가 한 이야기는 모두 사실이다."
-107,"TEXT_VOICEMAN_05100_001000_MYSTERYVOICE","쉽게 믿기 어려운 이야기란 것도 안다."
-108,"TEXT_VOICEMAN_05100_001010_MYSTERYVOICE","하지만 혼에 대해 오랜 세월 연구를 해온 당신이라면
+107,TEXT_VOICEMAN_05100_001000_MYSTERYVOICE,쉽게 믿기 어려운 이야기란 것도 안다.
+108,TEXT_VOICEMAN_05100_001010_MYSTERYVOICE,"하지만 혼에 대해 오랜 세월 연구를 해온 당신이라면
 이들의 혼이 이 세계 사람들과는 근본적으로 다르다는 걸
 알 수 있지 않은가?"
-109,"TEXT_VOICEMAN_05100_001020_BEQLUGG","그래…… 말도 안 되는 소리라고 일축하고 싶은 이야기인데,
+109,TEXT_VOICEMAN_05100_001020_BEQLUGG,"그래…… 말도 안 되는 소리라고 일축하고 싶은 이야기인데,
 아주 세심히 주의 깊게 관찰해보니까
 혼의 농도가 심상치 않고 육체가 없다는 것도 알겠구먼."
-110,"TEXT_VOICEMAN_05100_001030_BEQLUGG","특히 이 사람은 남달리 진한 혼을 가졌군그래."
-111,"TEXT_VOICEMAN_05100_001040_BEQLUGG","게다가 육체 또한 일시적인 것이 아니고, 진짜구먼."
-112,"TEXT_VOICEMAN_05100_001050_BEQLUGG","흐음……."
-113,"TEXT_VOICEMAN_05100_001060_MYSTERYVOICE","거듭 말하지만, 다른 세계에서 온 이들의 협력이 없었다면
+110,TEXT_VOICEMAN_05100_001030_BEQLUGG,특히 이 사람은 남달리 진한 혼을 가졌군그래.
+111,TEXT_VOICEMAN_05100_001040_BEQLUGG,"게다가 육체 또한 일시적인 것이 아니고, 진짜구먼."
+112,TEXT_VOICEMAN_05100_001050_BEQLUGG,흐음…….
+113,TEXT_VOICEMAN_05100_001060_MYSTERYVOICE,"거듭 말하지만, 다른 세계에서 온 이들의 협력이 없었다면
 이 세계에 어둠을 되찾는 일은 불가능했다네."
-114,"TEXT_VOICEMAN_05100_001070_MYSTERYVOICE","그 은혜를 갚기 위해서라도
+114,TEXT_VOICEMAN_05100_001070_MYSTERYVOICE,"그 은혜를 갚기 위해서라도
 반드시 모두를 무사히 원래 세계로 돌려보내고 싶네.
 모쪼록 우리를 도와줄 수 없겠는가……?"
-115,"TEXT_VOICEMAN_05100_001080_BEQLUGG","후우……."
-116,"TEXT_VOICEMAN_05100_001090_BEQLUGG","이야기를 듣기만 해도 대가를 받기로 약속했지만,
+115,TEXT_VOICEMAN_05100_001080_BEQLUGG,후우…….
+116,TEXT_VOICEMAN_05100_001090_BEQLUGG,"이야기를 듣기만 해도 대가를 받기로 약속했지만,
 지금 들은 정보만으로도 충분히 가치가 있군그래."
-117,"TEXT_VOICEMAN_05100_001100_BEQLUGG","무엇보다 빛으로 뒤덮인 하늘에 어둠을 되찾아 준 사람들이라면,
+117,TEXT_VOICEMAN_05100_001100_BEQLUGG,"무엇보다 빛으로 뒤덮인 하늘에 어둠을 되찾아 준 사람들이라면,
 은혜를 갚는 것이 도리가 아니겠나……."
-118,"TEXT_VOICEMAN_05100_001110_MYSTERYVOICE","그렇다면……!?"
-119,"TEXT_VOICEMAN_05100_001120_BEQLUGG","그래.
+118,TEXT_VOICEMAN_05100_001110_MYSTERYVOICE,그렇다면……!?
+119,TEXT_VOICEMAN_05100_001120_BEQLUGG,"그래.
 내 지혜라도 괜찮다면, 기꺼이 빌려주도록 하지."
-120,"TEXT_VOICEMAN_05100_001130_BEQLUGG","하지만, 나 같은 늙은이가
+120,TEXT_VOICEMAN_05100_001130_BEQLUGG,"하지만, 나 같은 늙은이가
 혼자서 새로운 연구를 시작한다는 건 여간 힘든 일이 아니야.
 조사나 실험 같은 건 자네들의 힘을 빌려도 괜찮겠느냐?"
-121,"TEXT_VOICEMAN_05100_001140_ALPHINAUD","물론입니다.
+121,TEXT_VOICEMAN_05100_001140_ALPHINAUD,"물론입니다.
 이건 저희 문제입니다.
 당연히 손발이 되어 일하도록 하겠습니다."
-122,"TEXT_VOICEMAN_05100_001150_BEQLUGG","그럼 시작하겠네."
-123,"TEXT_VOICEMAN_05100_001160_BEQLUGG","지금까지 모은 재료는
+122,TEXT_VOICEMAN_05100_001150_BEQLUGG,그럼 시작하겠네.
+123,TEXT_VOICEMAN_05100_001160_BEQLUGG,"지금까지 모은 재료는
 모두 잘게 부수어 점토랑 섞어놨느냐?"
-124,"TEXT_VOICEMAN_05100_001170_BEQLUGG","흠, 좋다.
+124,TEXT_VOICEMAN_05100_001170_BEQLUGG,"흠, 좋다.
 그럼 그것을 돼지 모양으로 빚어 보거라."
-125,"TEXT_VOICEMAN_05100_001175_BEQLUGG","아주, 귀엽게…… 말이다."
-126,"TEXT_VOICEMAN_05100_001180_ALISAIE","알겠어요……."
-127,"TEXT_VOICEMAN_05100_001190_ALISAIE","다, 다 됐다……!"
-128,"TEXT_VOICEMAN_05100_001200_ALPHINAUD","알리제, 네 작품은……
+125,TEXT_VOICEMAN_05100_001175_BEQLUGG,"아주, 귀엽게…… 말이다."
+126,TEXT_VOICEMAN_05100_001180_ALISAIE,알겠어요…….
+127,TEXT_VOICEMAN_05100_001190_ALISAIE,"다, 다 됐다……!"
+128,TEXT_VOICEMAN_05100_001200_ALPHINAUD,"알리제, 네 작품은……
 옛날부터…… 너무  독창적이라니까…… 크크크……."
-129,"TEXT_VOICEMAN_05100_001210_ALPHINAUD","크크크크……."
-130,"TEXT_VOICEMAN_05100_001220_ALISAIE","잠깐, 그렇게 웃을 일이야?"
-131,"TEXT_VOICEMAN_05100_001230_BEQLUGG","괜찮다, 작품의 완성도는 상관이 없어.
+129,TEXT_VOICEMAN_05100_001210_ALPHINAUD,크크크크…….
+130,TEXT_VOICEMAN_05100_001220_ALISAIE,"잠깐, 그렇게 웃을 일이야?"
+131,TEXT_VOICEMAN_05100_001230_BEQLUGG,"괜찮다, 작품의 완성도는 상관이 없어.
 이 뭉개진 푸딩 같은 것을 술사인 자네가
 '아주 귀여운 돼지'라고 인식만 할 수 있다면 되는 게야."
-132,"TEXT_VOICEMAN_05100_001240_ALISAIE","저기요, 하나도 위로가 안 되는데요……."
-133,"TEXT_VOICEMAN_05100_001250_BEQLUGG","잘 듣게나…….
+132,TEXT_VOICEMAN_05100_001240_ALISAIE,"저기요, 하나도 위로가 안 되는데요……."
+133,TEXT_VOICEMAN_05100_001250_BEQLUGG,"잘 듣게나…….
 마법이란 공상을 현실로 바꾸는 술법이네."
-134,"TEXT_VOICEMAN_05100_001260_BEQLUGG","그러니 술사의 인식이 무엇보다 중요해.
+134,TEXT_VOICEMAN_05100_001260_BEQLUGG,"그러니 술사의 인식이 무엇보다 중요해.
 인식만 확고하다면 겉으로 보이는 것에 현혹될 필요는 없어.
 잘 기억해 두게."
-135,"TEXT_VOICEMAN_05100_001270_BEQLUGG","자, 알려준 술식을 외워 돼지 점토에 마력을 넣어 보거라."
-136,"TEXT_VOICEMAN_05100_001280_ALISAIE","돼지는 날지 않고 흙은 일어서지 않으며 생명은 나눌 수 없는 것이
+135,TEXT_VOICEMAN_05100_001270_BEQLUGG,"자, 알려준 술식을 외워 돼지 점토에 마력을 넣어 보거라."
+136,TEXT_VOICEMAN_05100_001280_ALISAIE,"돼지는 날지 않고 흙은 일어서지 않으며 생명은 나눌 수 없는 것이
 세상의 이치이나, 나의 생명의 힘이여, 지금 그 이치를 깨고
 하늘을 나는 돼지가 되어라……."
-137,"TEXT_VOICEMAN_05100_001281_ALISAIE","あ"
-138,"TEXT_VOICEMAN_05100_001290_BEQLUGG","흠, 잘했군."
-139,"TEXT_VOICEMAN_05100_001300_BEQLUGG","그럼 이 사역마를 이용해서
+137,TEXT_VOICEMAN_05100_001281_ALISAIE,あ
+138,TEXT_VOICEMAN_05100_001290_BEQLUGG,"흠, 잘했군."
+139,TEXT_VOICEMAN_05100_001300_BEQLUGG,"그럼 이 사역마를 이용해서
 할리크에게 '혼의 활성화'를 시도해 보세.
 자, 환자를 이쪽으로 데리고 오게."
-140,"TEXT_VOICEMAN_05100_001310_BEQLUGG","알리제,
+140,TEXT_VOICEMAN_05100_001310_BEQLUGG,"알리제,
 자네가 만든 사역마에는 이미 혼을 활성화시킬 수 있는
 일종의 강화 마법이 들어가 있네."
-141,"TEXT_VOICEMAN_05100_001320_BEQLUGG","지금부터는 자신의 마력을 쏟아 넣으면서
+141,TEXT_VOICEMAN_05100_001320_BEQLUGG,"지금부터는 자신의 마력을 쏟아 넣으면서
 마음속으로 정한 사역마의 이름을 불러주기만 하면 된다네."
-142,"TEXT_VOICEMAN_05100_001330_ALISAIE","이 아이의 이름…………."
-143,"TEXT_VOICEMAN_05100_001340_ALISAIE","응, 정했어요…… 해 볼게요!"
-144,"TEXT_VOICEMAN_05100_001350_ALISAIE","부탁해, 안젤로!"
-145,"TEXT_VOICEMAN_05100_001360_HALRIC","아…… 아으으아으……"
-146,"TEXT_VOICEMAN_05100_001370_HALRIC","엄마…… 나, 는……"
-147,"TEXT_VOICEMAN_05100_001380_DULIACHAI","두 사람 모두…… 와주었구나!
+142,TEXT_VOICEMAN_05100_001330_ALISAIE,이 아이의 이름………….
+143,TEXT_VOICEMAN_05100_001340_ALISAIE,"응, 정했어요…… 해 볼게요!"
+144,TEXT_VOICEMAN_05100_001350_ALISAIE,"부탁해, 안젤로!"
+145,TEXT_VOICEMAN_05100_001360_HALRIC,아…… 아으으아으……
+146,TEXT_VOICEMAN_05100_001370_HALRIC,"엄마…… 나, 는……"
+147,TEXT_VOICEMAN_05100_001380_DULIACHAI,"두 사람 모두…… 와주었구나!
 카이 시르, 찾아줘서 고마워!"
-148,"TEXT_VOICEMAN_05100_001390_ALPHINAUD","둘리아 부인, 대체 무슨 일이십니까?"
-149,"TEXT_VOICEMAN_05100_001400_DULIACHAI","아흑, 나 이제 어떻게 해야 좋을지 모르겠어……!
+148,TEXT_VOICEMAN_05100_001390_ALPHINAUD,"둘리아 부인, 대체 무슨 일이십니까?"
+149,TEXT_VOICEMAN_05100_001400_DULIACHAI,"아흑, 나 이제 어떻게 해야 좋을지 모르겠어……!
 혼자서 어디 의지할 데도 없고……!"
-150,"TEXT_VOICEMAN_05100_001410_ALPHINAUD","혼자……?
+150,TEXT_VOICEMAN_05100_001410_ALPHINAUD,"혼자……?
 그러고 보니 남편분의 모습이 안 보이는 것 같습니다만……."
-151,"TEXT_VOICEMAN_05100_001420_DULIACHAI","그래, 그래, 그렇다니까……!
+151,TEXT_VOICEMAN_05100_001420_DULIACHAI,"그래, 그래, 그렇다니까……!
 그 사람이 날 두고 떠나 버렸지 뭐야!"
-152,"TEXT_VOICEMAN_05100_001430_ALPHINAUD","뭐라고요!?
+152,TEXT_VOICEMAN_05100_001430_ALPHINAUD,"뭐라고요!?
 아니, 어쩌다가 그런 일이……!"
-153,"TEXT_VOICEMAN_05100_001440_DULIACHAI","그게 말이야…… 알피노는
+153,TEXT_VOICEMAN_05100_001440_DULIACHAI,"그게 말이야…… 알피노는
 율모어에 한동안 남아 있었으니까
 알고는 있을 거라 생각하는데……."
-154,"TEXT_VOICEMAN_05100_001450_DULIACHAI","그 뒤로 우리…… 자유시민들이 모여서
+154,TEXT_VOICEMAN_05100_001450_DULIACHAI,"그 뒤로 우리…… 자유시민들이 모여서
 율모어의 새로운 원수를 선출하려고 했어."
-155,"TEXT_VOICEMAN_05100_001460_ALPHINAUD","바우스리의 후임을 결정하기 위해
+155,TEXT_VOICEMAN_05100_001460_ALPHINAUD,"바우스리의 후임을 결정하기 위해
 선거를 실시할 계획이었던 걸로 알고 있습니다만."
-156,"TEXT_VOICEMAN_05100_001470_DULIACHAI","맞아…….
+156,TEXT_VOICEMAN_05100_001470_DULIACHAI,"맞아…….
 하지만 입후보하는 사람이 아무도 없었어."
-157,"TEXT_VOICEMAN_05100_001480_DULIACHAI","우리 자유시민은 너무 오랫동안 나태하게 지냈잖아.
+157,TEXT_VOICEMAN_05100_001480_DULIACHAI,"우리 자유시민은 너무 오랫동안 나태하게 지냈잖아.
 자기 몸 하나 챙기기도 힘든 판에
 누가 이 혼란스러운 나라를 이끌려고 하겠어."
-158,"TEXT_VOICEMAN_05100_001490_DULIACHAI","그러다 후보자 없이 자유롭게 투표하자는 얘기가 나왔고……
+158,TEXT_VOICEMAN_05100_001490_DULIACHAI,"그러다 후보자 없이 자유롭게 투표하자는 얘기가 나왔고……
 그 결과, 우리 남편이 뽑히고 만 거야."
-159,"TEXT_VOICEMAN_05100_001500_ALPHINAUD","흠…… 차이 누즈 공은 거대 탈로스를 제작하실 때에도
+159,TEXT_VOICEMAN_05100_001500_ALPHINAUD,"흠…… 차이 누즈 공은 거대 탈로스를 제작하실 때에도
 훌륭하게 사람들을 이끄신 바 있죠.
 적임자라는 생각이 듭니다만……."
-160,"TEXT_VOICEMAN_05100_001510_DULIACHAI","나도 그렇게 생각했어.
+160,TEXT_VOICEMAN_05100_001510_DULIACHAI,"나도 그렇게 생각했어.
 그이는 다이달로스 사를 이끌었던 멋진 사람이니까."
-161,"TEXT_VOICEMAN_05100_001520_DULIACHAI","그래서 나는 그이가 뽑혔을 때,
+161,TEXT_VOICEMAN_05100_001520_DULIACHAI,"그래서 나는 그이가 뽑혔을 때,
 당신은 잘할 수 있을 거라고 응원해줬단 말이야."
-162,"TEXT_VOICEMAN_05100_001530_DULIACHAI","그런데 그러면 안 됐었나봐…….
+162,TEXT_VOICEMAN_05100_001530_DULIACHAI,"그런데 그러면 안 됐었나봐…….
 그 사람, 그 이후로 자취를 감춰버리고 말았어……."
-163,"TEXT_VOICEMAN_05100_001531_DULIACHAI","흐흑흑흑……."
-164,"TEXT_VOICEMAN_05100_001540_ALPHINAUD","원치 않는 중대한 임무를 맡게 되자
+163,TEXT_VOICEMAN_05100_001531_DULIACHAI,흐흑흑흑…….
+164,TEXT_VOICEMAN_05100_001540_ALPHINAUD,"원치 않는 중대한 임무를 맡게 되자
 그 중압감을 견디지 못해 자취를 감추었다고요……?"
-165,"TEXT_VOICEMAN_05100_001550_ALPHINAUD","둘리아 부인, 고개를 드십시오."
-166,"TEXT_VOICEMAN_05100_001560_ALPHINAUD","저는 남편분께서 사랑하는 부인을 놔두고
+165,TEXT_VOICEMAN_05100_001550_ALPHINAUD,"둘리아 부인, 고개를 드십시오."
+166,TEXT_VOICEMAN_05100_001560_ALPHINAUD,"저는 남편분께서 사랑하는 부인을 놔두고
 도망가실 분이 아니라고 생각합니다.
 틀림없이 이유가 있어 잠시 외출하셨을 겁니다."
-167,"TEXT_VOICEMAN_05100_001570_DULIACHAI","알피노, 정말……?"
-168,"TEXT_VOICEMAN_05100_001580_DULIACHAI","너도 그렇게 생각하니?"
-169,"TEXT_VOICEMAN_05100_Q3_000_001_NONE_VOICE","알피노의 의견에 찬성하십니까?"
-170,"TEXT_VOICEMAN_05100_A3_000_001_NONE_VOICE","찬성한다, 도망갔을 리가 없다"
-171,"TEXT_VOICEMAN_05100_A3_000_002_NONE_VOICE","찬성하지 않는다, 도망간 게 틀림없다"
-172,"TEXT_VOICEMAN_05100_001600_ALPHINAUD","들으셨지요, 둘리아 부인…….
+167,TEXT_VOICEMAN_05100_001570_DULIACHAI,"알피노, 정말……?"
+168,TEXT_VOICEMAN_05100_001580_DULIACHAI,너도 그렇게 생각하니?
+169,TEXT_VOICEMAN_05100_Q3_000_001_NONE_VOICE,알피노의 의견에 찬성하십니까?
+170,TEXT_VOICEMAN_05100_A3_000_001_NONE_VOICE,"찬성한다, 도망갔을 리가 없다"
+171,TEXT_VOICEMAN_05100_A3_000_002_NONE_VOICE,"찬성하지 않는다, 도망간 게 틀림없다"
+172,TEXT_VOICEMAN_05100_001600_ALPHINAUD,"들으셨지요, 둘리아 부인…….
 차이 누즈 공께서 누구보다도 부인을 사랑하시는 것은
 여기 있는 모든 사람이 알고 있습니다."
-173,"TEXT_VOICEMAN_05100_001590_ALPHINAUD","아니, 확실히 '도망가지 않았다'고 장담하네……
+173,TEXT_VOICEMAN_05100_001590_ALPHINAUD,"아니, 확실히 '도망가지 않았다'고 장담하네……
 잘 생각해 보게, 차이 누즈 공은
 언제나 둘리아 부인 곁에 꼭 붙어 계셨잖나!"
-174,"TEXT_VOICEMAN_05100_001610_ALPHINAUD","남편분은 제가 꼭 찾아내겠으니
+174,TEXT_VOICEMAN_05100_001610_ALPHINAUD,"남편분은 제가 꼭 찾아내겠으니
 부디 마음을 다잡으시고 기다려 주십시오."
-175,"TEXT_VOICEMAN_05100_001620_DULIACHAI","고마워, 알피노.
+175,TEXT_VOICEMAN_05100_001620_DULIACHAI,"고마워, 알피노.
 너희를 부르길 정말 잘한 것 같아……!
 그럼 난 늘 있던 귀부인의 거실에서 그이를 기다리고 있을게!"
-176,"TEXT_VOICEMAN_05100_001630_WRENDEN","누군가 했더니…… 또 당신이군……."
-177,"TEXT_VOICEMAN_05100_001640_WRENDEN","게다가 뭘 이렇게 주렁주렁 달고 왔지……
+176,TEXT_VOICEMAN_05100_001630_WRENDEN,누군가 했더니…… 또 당신이군…….
+177,TEXT_VOICEMAN_05100_001640_WRENDEN,"게다가 뭘 이렇게 주렁주렁 달고 왔지……
 혼자서 설득 못할 것 같으니 조력자라도 불러온 겐가?"
-178,"TEXT_VOICEMAN_05100_001650_CHAINUZZ","부른 건 아니지만…… 이 사람들은 조력자가 맞네.
+178,TEXT_VOICEMAN_05100_001650_CHAINUZZ,"부른 건 아니지만…… 이 사람들은 조력자가 맞네.
 아니, 정확히는 도움을 준 은인이지."
-179,"TEXT_VOICEMAN_05100_001660_CHAINUZZ","이들은 돈 바우스리 밑에서 나태하게 지내던 우리를
+179,TEXT_VOICEMAN_05100_001660_CHAINUZZ,"이들은 돈 바우스리 밑에서 나태하게 지내던 우리를
 정신 차리게 해준 '어둠의 전사'들이라네."
-180,"TEXT_VOICEMAN_05100_001670_WRENDEN","호오…… '어둠의 전사'란 말이지……."
-181,"TEXT_VOICEMAN_05100_001680_CHAINUZZ","하지만 언제까지나
+180,TEXT_VOICEMAN_05100_001670_WRENDEN,호오…… '어둠의 전사'란 말이지…….
+181,TEXT_VOICEMAN_05100_001680_CHAINUZZ,"하지만 언제까지나
 은인들의 온정에 기대어 도움만 받고 있을 순 없어."
-182,"TEXT_VOICEMAN_05100_001690_CHAINUZZ","그러면 바우스리에게 모든 걸 맡긴 채
+182,TEXT_VOICEMAN_05100_001690_CHAINUZZ,"그러면 바우스리에게 모든 걸 맡긴 채
 아무것도 안 하고 있던 시절과 다를 바가 없으니까…….
 이들은 조력자가 아니라 '참관인'이라고 생각해주게."
-183,"TEXT_VOICEMAN_05100_001700_ALPHINAUD","차이 누즈 공……."
-184,"TEXT_VOICEMAN_05100_001710_WRENDEN","흥, 기특한 생각이다만…… 글쎄."
-185,"TEXT_VOICEMAN_05100_001720_WRENDEN","나는 나 자신을 '관료'라고 생각해왔다.
+183,TEXT_VOICEMAN_05100_001700_ALPHINAUD,차이 누즈 공…….
+184,TEXT_VOICEMAN_05100_001710_WRENDEN,"흥, 기특한 생각이다만…… 글쎄."
+185,TEXT_VOICEMAN_05100_001720_WRENDEN,"나는 나 자신을 '관료'라고 생각해왔다.
 시민을 위해, 국가를 위해, 정무를 담당하는 자에게 조언을 하고
 그 방침을 최선의 방법으로 실현시키려 노력했다는 자부심이 있지."
-186,"TEXT_VOICEMAN_05100_001730_WRENDEN","하지만 그것은 어디까지나 지향하는 이상이 같을 때 이야기다…….
+186,TEXT_VOICEMAN_05100_001730_WRENDEN,"하지만 그것은 어디까지나 지향하는 이상이 같을 때 이야기다…….
 국민, 국가 그리고 지도자가 이상으로 삼는 '낙원'에
 공감할 수 없게 되었기에 나는 율모어를 떠난 것이다."
-187,"TEXT_VOICEMAN_05100_001740_WRENDEN","차이 누즈라고 했나…….
+187,TEXT_VOICEMAN_05100_001740_WRENDEN,"차이 누즈라고 했나…….
 바우스리 밑에서 자유분방한 생활을 누려온 자네가
 대체 어떤 국가를 세울 수 있다는 겐가!"
-188,"TEXT_VOICEMAN_05100_001750_CHAINUZZ","그, 그 질문에 한마디로 대답할 말을
+188,TEXT_VOICEMAN_05100_001750_CHAINUZZ,"그, 그 질문에 한마디로 대답할 말을
 나는…… 나는 아직 찾지 못했네."
-189,"TEXT_VOICEMAN_05100_001760_CHAINUZZ","하지만……!"
-190,"TEXT_VOICEMAN_05100_001770_CHAINUZZ","어떤 국가를 세울지 시민이 다 같이 논할 수 있는,
+189,TEXT_VOICEMAN_05100_001760_CHAINUZZ,하지만……!
+190,TEXT_VOICEMAN_05100_001770_CHAINUZZ,"어떤 국가를 세울지 시민이 다 같이 논할 수 있는,
 그런 국가를 만들고 싶네!"
-191,"TEXT_VOICEMAN_05100_001780_CHAINUZZ","언제 죄식자가 습격해 올지 몰라 두려움에 떨던 세계에서
+191,TEXT_VOICEMAN_05100_001780_CHAINUZZ,"언제 죄식자가 습격해 올지 몰라 두려움에 떨던 세계에서
 나를 포함한 수많은 사람들이 안전한 장소와 식량을 찾아
 율모어로 모여 들었지."
-192,"TEXT_VOICEMAN_05100_001790_CHAINUZZ","재능이 있어서 처신이 정해진 노동시민은 그렇다 치고,
+192,TEXT_VOICEMAN_05100_001790_CHAINUZZ,"재능이 있어서 처신이 정해진 노동시민은 그렇다 치고,
 지금 마을 주변에 사는 자들은 식량 배급이 끊겨서
 하루하루 힘겹게 버티고 있네."
-193,"TEXT_VOICEMAN_05100_001800_CHAINUZZ","자유시민은 더 심해.
+193,TEXT_VOICEMAN_05100_001800_CHAINUZZ,"자유시민은 더 심해.
 아직까지도 술과 쾌락에 빠져 현실을 외면하는 사람도 적지 않아."
-194,"TEXT_VOICEMAN_05100_001810_CHAINUZZ","그러다 조만간 가진 돈을 탕진하는 자도 나타나겠지.
+194,TEXT_VOICEMAN_05100_001810_CHAINUZZ,"그러다 조만간 가진 돈을 탕진하는 자도 나타나겠지.
 내가 원수가 된다면 그 권한으로
 과거 국가에서 걷었던 재산을 재분배할 생각이라네."
-195,"TEXT_VOICEMAN_05100_001820_CHAINUZZ","가난한 사람이든 부자든,
+195,TEXT_VOICEMAN_05100_001820_CHAINUZZ,"가난한 사람이든 부자든,
 이런 상태에서 국가의 미래를 어찌 논할 수 있겠나……!"
-196,"TEXT_VOICEMAN_05100_001830_CHAINUZZ","조속한 식량 확보, 주변 마을과의 관계 개선,
+196,TEXT_VOICEMAN_05100_001830_CHAINUZZ,"조속한 식량 확보, 주변 마을과의 관계 개선,
 붕괴된 산업의 재건, 타 지역과의 연대 강화 등등…….
 해야 할 일이 그야말로 산더미라네."
-197,"TEXT_VOICEMAN_05100_001840_CHAINUZZ","나는 정치가도 아니고, 국왕도 아니네.
+197,TEXT_VOICEMAN_05100_001840_CHAINUZZ,"나는 정치가도 아니고, 국왕도 아니네.
 다이달로스 사의 후계자…… 기업가에 불과해……!"
-198,"TEXT_VOICEMAN_05100_001850_CHAINUZZ","내가 할 수 있는 일은
+198,TEXT_VOICEMAN_05100_001850_CHAINUZZ,"내가 할 수 있는 일은
 문제를 분석해 개선안을 기획하고
 수익을 올려서 부하들을 먹여살리는 것뿐이라네……."
-199,"TEXT_VOICEMAN_05100_001860_CHAINUZZ","그러니 렌덴 공…… 율모어 시민들이
+199,TEXT_VOICEMAN_05100_001860_CHAINUZZ,"그러니 렌덴 공…… 율모어 시민들이
 이상적인 국가의 모습을 그리며 정치에 참여할 수 있게 되기까지……
 모쪼록 힘을 빌려주게!"
-200,"TEXT_VOICEMAN_05100_001870_WRENDEN","어떤 국가를 세울지 시민이 논할 수 있는 국가라……"
-201,"TEXT_VOICEMAN_05100_001880_WRENDEN","나쁘지 않은 방침이군."
-202,"TEXT_VOICEMAN_05100_001890_WRENDEN","차이 누즈…….
+200,TEXT_VOICEMAN_05100_001870_WRENDEN,어떤 국가를 세울지 시민이 논할 수 있는 국가라……
+201,TEXT_VOICEMAN_05100_001880_WRENDEN,나쁘지 않은 방침이군.
+202,TEXT_VOICEMAN_05100_001890_WRENDEN,"차이 누즈…….
 일시적이라고는 하나, 당신이 국정을 담당하기에 걸맞은 그릇인지
 시험해 보도록 하지."
-203,"TEXT_VOICEMAN_05100_001900_CHAINUZZ","뭐, 뭘 하면 되겠나……!?"
-204,"TEXT_VOICEMAN_05100_001910_WRENDEN","지금 율모어가 떠안고 있는 문제 중 하나를 해결해 봐.
+203,TEXT_VOICEMAN_05100_001900_CHAINUZZ,"뭐, 뭘 하면 되겠나……!?"
+204,TEXT_VOICEMAN_05100_001910_WRENDEN,"지금 율모어가 떠안고 있는 문제 중 하나를 해결해 봐.
 그것도 못하면 개혁 따위는 뜬구름 잡는 소리가 될 거다.
 아무도 당신을 따르지 않을 테니까……."
-205,"TEXT_VOICEMAN_05100_001911_WRENDEN","흥."
-206,"TEXT_VOICEMAN_05100_001920_CHAINUZZ","좋아, 일렬로 서서
+205,TEXT_VOICEMAN_05100_001911_WRENDEN,흥.
+206,TEXT_VOICEMAN_05100_001920_CHAINUZZ,"좋아, 일렬로 서서
 율모어로 출발!"
-207,"TEXT_VOICEMAN_05100_001930_DIRTYMAN","음? 이게 무슨 소리지……?"
-208,"TEXT_VOICEMAN_05100_001940_DIRTYMAN","타, 탈로스……!?
+207,TEXT_VOICEMAN_05100_001930_DIRTYMAN,음? 이게 무슨 소리지……?
+208,TEXT_VOICEMAN_05100_001940_DIRTYMAN,"타, 탈로스……!?
 고장난 탈로스가 폭주하는 건가……?"
-209,"TEXT_VOICEMAN_05100_001950_DIRTYMAN","어이, 누가…… 파수병 좀 불러와!"
-210,"TEXT_VOICEMAN_05100_001960_EULMORANSOLDIER","(-율모어군 병사-)시민 여러분! 뒤로 물러나십시오……!"
-211,"TEXT_VOICEMAN_05100_001970_DULIACHAI","잠깐만요……!"
-212,"TEXT_VOICEMAN_05100_001980_DULIACHAI","아아, 여보……!"
-213,"TEXT_VOICEMAN_05100_001990_CHAINUZZ","다, 당연히 돌아올……"
-214,"TEXT_VOICEMAN_05100_002000_CHAINUZZ","으윽…… 사, 사람 살……"
-215,"TEXT_VOICEMAN_05100_002010_DULIACHAI","어머어머, 세상에나, 이를 어쩜 좋지……?"
-216,"TEXT_VOICEMAN_05100_002020_CHAINUZZ","휴우…… 살았다……."
-217,"TEXT_VOICEMAN_05100_002030_DULIACHAI","미안해, 여보……
+209,TEXT_VOICEMAN_05100_001950_DIRTYMAN,"어이, 누가…… 파수병 좀 불러와!"
+210,TEXT_VOICEMAN_05100_001960_EULMORANSOLDIER,(-율모어군 병사-)시민 여러분! 뒤로 물러나십시오……!
+211,TEXT_VOICEMAN_05100_001970_DULIACHAI,잠깐만요……!
+212,TEXT_VOICEMAN_05100_001980_DULIACHAI,"아아, 여보……!"
+213,TEXT_VOICEMAN_05100_001990_CHAINUZZ,"다, 당연히 돌아올……"
+214,TEXT_VOICEMAN_05100_002000_CHAINUZZ,"으윽…… 사, 사람 살……"
+215,TEXT_VOICEMAN_05100_002010_DULIACHAI,"어머어머, 세상에나, 이를 어쩜 좋지……?"
+216,TEXT_VOICEMAN_05100_002020_CHAINUZZ,휴우…… 살았다…….
+217,TEXT_VOICEMAN_05100_002030_DULIACHAI,"미안해, 여보……
 자기가 돌아온 게 너무 기뻐서 그만."
-218,"TEXT_VOICEMAN_05100_002040_CHAINUZZ","아니, 괜찮아.
+218,TEXT_VOICEMAN_05100_002040_CHAINUZZ,"아니, 괜찮아.
 나도 참, 쪽지만 두고 나올 게 아니라
 당신에게 말을 확실히 하고 나왔어야 했어."
-219,"TEXT_VOICEMAN_05100_002050_DULIACHAI","그럼……"
-220,"TEXT_VOICEMAN_05100_002060_CHAINUZZ","……그, 그래.
+219,TEXT_VOICEMAN_05100_002050_DULIACHAI,그럼……
+220,TEXT_VOICEMAN_05100_002060_CHAINUZZ,"……그, 그래.
 난 원수직을 맡기 싫어서
 율모어를 떠났던 게 아니야……."
-221,"TEXT_VOICEMAN_05100_002070_CHAINUZZ","렌덴 공에게 보좌관을 맡아달라고 설득하러 간 거였다고.
+221,TEXT_VOICEMAN_05100_002070_CHAINUZZ,"렌덴 공에게 보좌관을 맡아달라고 설득하러 간 거였다고.
 그의 조력을 얻었으니, 이제 당당하게 말할 수 있어."
-222,"TEXT_VOICEMAN_05100_002080_CHAINUZZ","율모어 원수직을
+222,TEXT_VOICEMAN_05100_002080_CHAINUZZ,"율모어 원수직을
 받아들일게."
-223,"TEXT_VOICEMAN_05100_002090_DULIACHAI","어머어머어머!
+223,TEXT_VOICEMAN_05100_002090_DULIACHAI,"어머어머어머!
 여보, 너무너무 잘됐다……!"
-224,"TEXT_VOICEMAN_05100_002091_CHAINUZZ","あ"
-225,"TEXT_VOICEMAN_05100_002095_CHAINUZZ","으아아아아악!!!"
-226,"TEXT_VOICEMAN_05100_002100_CHAINUZZ","아, 저기……."
-227,"TEXT_VOICEMAN_05100_002110_DULIACHAI","여보……."
-228,"TEXT_VOICEMAN_05100_002120_CHAINUZZ","다들 이렇게 모여줘서 고맙다."
-229,"TEXT_VOICEMAN_05100_002130_CHAINUZZ","그럼 먼저 자유시민 제군…….
+224,TEXT_VOICEMAN_05100_002091_CHAINUZZ,あ
+225,TEXT_VOICEMAN_05100_002095_CHAINUZZ,으아아아아악!!!
+226,TEXT_VOICEMAN_05100_002100_CHAINUZZ,"아, 저기……."
+227,TEXT_VOICEMAN_05100_002110_DULIACHAI,여보…….
+228,TEXT_VOICEMAN_05100_002120_CHAINUZZ,다들 이렇게 모여줘서 고맙다.
+229,TEXT_VOICEMAN_05100_002130_CHAINUZZ,"그럼 먼저 자유시민 제군…….
 주위를 한번 둘러봐주길 바란다."
-230,"TEXT_VOICEMAN_05100_002140_CHAINUZZ","돈 바우스리가 지배하던 20년 동안, 이 자리에
+230,TEXT_VOICEMAN_05100_002140_CHAINUZZ,"돈 바우스리가 지배하던 20년 동안, 이 자리에
 함께할 수 없었던 얼굴들이 보일 것이다."
-231,"TEXT_VOICEMAN_05100_002150_CHAINUZZ","우리를 위해 일해주던
+231,TEXT_VOICEMAN_05100_002150_CHAINUZZ,"우리를 위해 일해주던
 노동시민들은 물론……"
-232,"TEXT_VOICEMAN_05100_002160_CHAINUZZ","폐선 거리와 문전촌에 사는, 시민권이 없는 자도 있다…….
+232,TEXT_VOICEMAN_05100_002160_CHAINUZZ,"폐선 거리와 문전촌에 사는, 시민권이 없는 자도 있다…….
 그리고 무엇보다……"
-233,"TEXT_VOICEMAN_05100_002170_CHAINUZZ","우리를 눈뜨게 해준 은인,
+233,TEXT_VOICEMAN_05100_002170_CHAINUZZ,"우리를 눈뜨게 해준 은인,
 '어둠의 전사'들도 오늘, 새로운 출발을 맞이하여
 참관인 자격으로 이 자리에 함께 해주고 있다."
-234,"TEXT_VOICEMAN_05100_002180_CHAINUZZ","며칠 전 자유시민들이 실시한 선거를 통해
+234,TEXT_VOICEMAN_05100_002180_CHAINUZZ,"며칠 전 자유시민들이 실시한 선거를 통해
 나, 차이 누즈가 돈 바우스리의 뒤를 이을
 새로운 원수로 선출되었다."
-235,"TEXT_VOICEMAN_05100_002190_CHAINUZZ","그리고 지금 나는,
+235,TEXT_VOICEMAN_05100_002190_CHAINUZZ,"그리고 지금 나는,
 이 명예로운 임무를 받아들일 것을,
 이 자리에 있는 여러분 앞에서 선언하고자 한다."
-236,"TEXT_VOICEMAN_05100_002200_CHAINUZZ","단, 기한이 정해져 있는 일시적인 '원수 대행'으로 말이다."
-237,"TEXT_VOICEMAN_05100_002210_CHAINUZZ","자유시민과 노동시민의 관계……
+236,TEXT_VOICEMAN_05100_002200_CHAINUZZ,"단, 기한이 정해져 있는 일시적인 '원수 대행'으로 말이다."
+237,TEXT_VOICEMAN_05100_002210_CHAINUZZ,"자유시민과 노동시민의 관계……
 그리고 시민과 시민이 아닌 자의 관계……."
-238,"TEXT_VOICEMAN_05100_002220_CHAINUZZ","돈 바우스리 밑에서 정해진 일그러진 제도를 바로 세우고
+238,TEXT_VOICEMAN_05100_002220_CHAINUZZ,"돈 바우스리 밑에서 정해진 일그러진 제도를 바로 세우고
 율모어라는 국가를 어떤 국가로 만들 것인지……."
-239,"TEXT_VOICEMAN_05100_002230_CHAINUZZ","이 중대한 문제를,
+239,TEXT_VOICEMAN_05100_002230_CHAINUZZ,"이 중대한 문제를,
 나는 이곳에 있는 모든 사람이 다 함께 의견을 나누고
 논의해야 한다고 생각한다."
-240,"TEXT_VOICEMAN_05100_002240_CHAINUZZ","하지만 우리 앞에 닥친 현실적인 문제 앞에서
+240,TEXT_VOICEMAN_05100_002240_CHAINUZZ,"하지만 우리 앞에 닥친 현실적인 문제 앞에서
 이상을 논할 여유가 없는 것이 현재의 실정이다."
-241,"TEXT_VOICEMAN_05100_002250_CHAINUZZ","메올에만 의존해온 식량 문제,
+241,TEXT_VOICEMAN_05100_002250_CHAINUZZ,"메올에만 의존해온 식량 문제,
 악화된 주변 마을 및 다른 지역과의 관계 개선,
 치안 유지에 산업 부흥까지…… 시급한 문제가 너무나도 많다."
-242,"TEXT_VOICEMAN_05100_002260_CHAINUZZ","나는 기업가로서 우선적으로
+242,TEXT_VOICEMAN_05100_002260_CHAINUZZ,"나는 기업가로서 우선적으로
 여기에 있는 모두가 안전하게 그리고 안심하며 살 수 있는
 환경을 만들고자 한다."
-243,"TEXT_VOICEMAN_05100_002270_CHAINUZZ","물론 바우스리가 만든 거짓된 낙원에서
+243,TEXT_VOICEMAN_05100_002270_CHAINUZZ,"물론 바우스리가 만든 거짓된 낙원에서
 게으르고 나태하게 살아온, 나를 포함한 자유시민들에게는
 고통스러운 개혁이 될 수도 있을 것이다."
-244,"TEXT_VOICEMAN_05100_002280_CHAINUZZ","하지만 꿈에서 눈을 뜬 우리는 현실을 살아야 한다."
-245,"TEXT_VOICEMAN_05100_002290_CHAINUZZ","우리를 위해 목숨 걸고
+244,TEXT_VOICEMAN_05100_002280_CHAINUZZ,하지만 꿈에서 눈을 뜬 우리는 현실을 살아야 한다.
+245,TEXT_VOICEMAN_05100_002290_CHAINUZZ,"우리를 위해 목숨 걸고
 하늘에서 빛을 걷어 어둠을 되돌려준
 '어둠의 전사'들에게 부끄럽지 않은 삶을 말이다……!"
-246,"TEXT_VOICEMAN_05100_002300_CHAINUZZ","그리고 모두의 삶이 안정되면 그때 다시
+246,TEXT_VOICEMAN_05100_002300_CHAINUZZ,"그리고 모두의 삶이 안정되면 그때 다시
 이상적인 율모어에 대해서 다 함께 논의했으면 한다."
-247,"TEXT_VOICEMAN_05100_002310_CHAINUZZ","그러니 그때까지 나에게……
+247,TEXT_VOICEMAN_05100_002310_CHAINUZZ,"그러니 그때까지 나에게……
 아니, 율모어라는 희망에 모두가 힘을 빌려주길 바란다!"
-248,"TEXT_VOICEMAN_05100_002320_KRILE","오래 기다렸지."
-249,"TEXT_VOICEMAN_05100_002330_KRILE","마토야 님 조언을 듣고
+248,TEXT_VOICEMAN_05100_002320_KRILE,오래 기다렸지.
+249,TEXT_VOICEMAN_05100_002330_KRILE,"마토야 님 조언을 듣고
 모두의 몸에 일단 응급 처치를 해놓았어.
 이제 당분간 생명력의 흔들림은 안정될 거야."
-250,"TEXT_VOICEMAN_05100_002340_KRILE","그래서 제1세계에 있는
+250,TEXT_VOICEMAN_05100_002340_KRILE,"그래서 제1세계에 있는
 그들의 상태는 어땠어?"
-251,"TEXT_VOICEMAN_05100_002350_TATARU","그렇군용……
+251,TEXT_VOICEMAN_05100_002350_TATARU,"그렇군용……
 베크 러그 님이라는 분의 협력으로
 돌아오는 방법에 대한 연구가 조금씩 진행되고 있군용."
-252,"TEXT_VOICEMAN_05100_002360_KRILE","그래, '백성석'을 사용해서 혼을 운반하겠다는 건
+252,TEXT_VOICEMAN_05100_002360_KRILE,"그래, '백성석'을 사용해서 혼을 운반하겠다는 건
 좋은 생각인 것 같아."
-253,"TEXT_VOICEMAN_05100_002370_KRILE","그렇다면 우리는 그 연구가 성공할 것이라 믿고
+253,TEXT_VOICEMAN_05100_002370_KRILE,"그렇다면 우리는 그 연구가 성공할 것이라 믿고
 육체 유지에 전력을 다해야겠네……."
-254,"TEXT_VOICEMAN_05100_002380_ESTINIEN","(-???-)마침 와 있었군.
+254,TEXT_VOICEMAN_05100_002380_ESTINIEN,"(-???-)마침 와 있었군.
 번거롭지 않아 좋군그래."
-255,"TEXT_VOICEMAN_05100_002390_ESTINIEN","무사히 여행에서 돌아왔나 보군."
-256,"TEXT_VOICEMAN_05100_002400_TATARU","에스티니앙 님……!
+255,TEXT_VOICEMAN_05100_002390_ESTINIEN,무사히 여행에서 돌아왔나 보군.
+256,TEXT_VOICEMAN_05100_002400_TATARU,"에스티니앙 님……!
 연락이 안 돼서 걱정하고 있었어용!"
-257,"TEXT_VOICEMAN_05100_002410_ESTINIEN","전란이 일어난 제국 수도에서 탈출해 귀환하던 길에
+257,TEXT_VOICEMAN_05100_002410_ESTINIEN,"전란이 일어난 제국 수도에서 탈출해 귀환하던 길에
 리올이라고 하는 '새벽'의 밀정을 만났거든…….
 그래서 일단 여기부터 들른 거다."
-258,"TEXT_VOICEMAN_05100_002420_TATARU","제국 수도에서 전란이 일어났다니용…….
+258,TEXT_VOICEMAN_05100_002420_TATARU,"제국 수도에서 전란이 일어났다니용…….
 대체 무슨 일이 있었던 건가용?"
-259,"TEXT_VOICEMAN_05100_002430_ESTINIEN","흠, 어디서부터 얘기를 할까……."
-260,"TEXT_VOICEMAN_05100_002435_ESTINIEN","너희에게 제국의 비밀 병기 조사와 폐기를 의뢰 받고,
+259,TEXT_VOICEMAN_05100_002430_ESTINIEN,"흠, 어디서부터 얘기를 할까……."
+260,TEXT_VOICEMAN_05100_002435_ESTINIEN,"너희에게 제국의 비밀 병기 조사와 폐기를 의뢰 받고,
 라자한을 경유해서 제국 영토로 잠입했는데……"
-261,"TEXT_VOICEMAN_05100_002440_ESTINIEN","어느 식민지의 마도 공장에서
+261,TEXT_VOICEMAN_05100_002440_ESTINIEN,"어느 식민지의 마도 공장에서
 칠흑의 늑대…… 아니 지금은 그림자 사냥꾼이라고 하던가.
 아무튼 가이우스 바일사르를 만난 거다."
-262,"TEXT_VOICEMAN_05100_002450_ESTINIEN","그는 내게 함께 싸우지 않겠냐는 제안을 했고,
+262,TEXT_VOICEMAN_05100_002450_ESTINIEN,"그는 내게 함께 싸우지 않겠냐는 제안을 했고,
 결국 제국 수도까지 같이 가게 되었지."
-263,"TEXT_VOICEMAN_05100_002460_ESTINIEN","그리고 그 중심부…… 마도성에서
+263,TEXT_VOICEMAN_05100_002460_ESTINIEN,"그리고 그 중심부…… 마도성에서
 우리는 깜짝 놀랄 만한 인물과 마주쳤다."
-264,"TEXT_VOICEMAN_05100_002470_ESTINIEN","아씨엔으로부터 육체를 다시 빼앗은 남자……"
-265,"TEXT_VOICEMAN_05100_002475_ESTINIEN","제노스 예 갈부스……!"
-266,"TEXT_VOICEMAN_05100_002480_ESTINIEN","게다가 그놈은 우리 눈앞에서
+264,TEXT_VOICEMAN_05100_002470_ESTINIEN,아씨엔으로부터 육체를 다시 빼앗은 남자……
+265,TEXT_VOICEMAN_05100_002475_ESTINIEN,제노스 예 갈부스……!
+266,TEXT_VOICEMAN_05100_002480_ESTINIEN,"게다가 그놈은 우리 눈앞에서
 자신의 아버지, 황제 바리스를 살해했다…….
 그러자 격분한 가이우스가 제노스에게 달려들었는데……"
-267,"TEXT_VOICEMAN_05100_002490_ESTINIEN","이, 이봐……!"
-268,"TEXT_VOICEMAN_05100_002670_TATARU","괜찮으신가용, 모험가님, 쿠루루 님!"
-269,"TEXT_VOICEMAN_05100_002680_ESTINIEN","내 과거를 봤나?"
-270,"TEXT_VOICEMAN_05100_002690_KRILE","내가 본 광경도 똑같아.
+267,TEXT_VOICEMAN_05100_002490_ESTINIEN,"이, 이봐……!"
+268,TEXT_VOICEMAN_05100_002670_TATARU,"괜찮으신가용, 모험가님, 쿠루루 님!"
+269,TEXT_VOICEMAN_05100_002680_ESTINIEN,내 과거를 봤나?
+270,TEXT_VOICEMAN_05100_002690_KRILE,"내가 본 광경도 똑같아.
 간접 체험을 할 정도로 강렬한 환상은 아니었지만."
-271,"TEXT_VOICEMAN_05100_002700_ESTINIEN","나 참, 그 이상한 능력을 직접 보는 건 오랜만이지만,
+271,TEXT_VOICEMAN_05100_002700_ESTINIEN,"나 참, 그 이상한 능력을 직접 보는 건 오랜만이지만,
 볼 때마다 신기하단 말이지."
-272,"TEXT_VOICEMAN_05100_002710_ESTINIEN","아무튼 육체를 되찾은 제노스는
+272,TEXT_VOICEMAN_05100_002710_ESTINIEN,"아무튼 육체를 되찾은 제노스는
 근위병이 오자 흥이 깨졌다면서 그 길로 사라졌다.
 그 뒤로 행방은 묘연해."
-273,"TEXT_VOICEMAN_05100_002720_KRILE","……그때 알라미고에서 했던 '초월하는 힘'의 연구가
+273,TEXT_VOICEMAN_05100_002720_KRILE,"……그때 알라미고에서 했던 '초월하는 힘'의 연구가
 일을 이렇게 크게 만들 줄은 꿈에도 몰랐어."
-274,"TEXT_VOICEMAN_05100_002730_KRILE","죽음을 초월해서 타인에게 빙의하는 걸로도 모자라
+274,TEXT_VOICEMAN_05100_002730_KRILE,"죽음을 초월해서 타인에게 빙의하는 걸로도 모자라
 이젠 자신의 몸까지 되찾았다니…… 이게 가능한 일이야?
 그야말로 불멸의 아씨엔이잖아!"
-275,"TEXT_VOICEMAN_05100_002740_ESTINIEN","뭐, 상식 밖이라는 점에서는 차원의 틈을 넘어
+275,TEXT_VOICEMAN_05100_002740_ESTINIEN,"뭐, 상식 밖이라는 점에서는 차원의 틈을 넘어
 이세계를 여행하고 온, 어느 영웅도 크게 다를 바 없지만 말이지."
-276,"TEXT_VOICEMAN_05100_002750_ESTINIEN","아무튼 황제를 잃은 데다
+276,TEXT_VOICEMAN_05100_002750_ESTINIEN,"아무튼 황제를 잃은 데다
 황태자였던 제노스도 사라져서 제국은 혼란스러운 상태다."
-277,"TEXT_VOICEMAN_05100_002760_ESTINIEN","당분간은 침략 전쟁이니 뭐니 여력이 없을 거야.
+277,TEXT_VOICEMAN_05100_002760_ESTINIEN,"당분간은 침략 전쟁이니 뭐니 여력이 없을 거야.
 '검은 장미'에 관해서도 이유는 모르겠지만,
 제노스가 사용을 막고 있고."
-278,"TEXT_VOICEMAN_05100_002770_ESTINIEN","이 정보들은 지금쯤 리올이라는 자가
+278,TEXT_VOICEMAN_05100_002770_ESTINIEN,"이 정보들은 지금쯤 리올이라는 자가
 에오르제아 동맹군에게 전달하고 있을 거다.
 이후부터는 아이메리크와 그 높으신 분들이 알아서 하겠지."
-279,"TEXT_VOICEMAN_05100_002780_KRILE","그러면 김리트의 전장도 조용해지겠구나.
+279,TEXT_VOICEMAN_05100_002780_KRILE,"그러면 김리트의 전장도 조용해지겠구나.
 그나저나 내란이 일어났다니 제국 식민지가 걱정이네……."
-280,"TEXT_VOICEMAN_05100_002790_KRILE","그런데 가이우스는 어떻게 됐어?
+280,TEXT_VOICEMAN_05100_002790_KRILE,"그런데 가이우스는 어떻게 됐어?
 중간까지는 같이 있었다면서?"
-281,"TEXT_VOICEMAN_05100_002800_ESTINIEN","그래, 그 녀석하곤 제국을 탈출한 뒤에 헤어졌다.
+281,TEXT_VOICEMAN_05100_002800_ESTINIEN,"그래, 그 녀석하곤 제국을 탈출한 뒤에 헤어졌다.
 뭐라더라, '새로운 위협'을 알아차렸다나……."
-282,"TEXT_VOICEMAN_05100_002810_ESTINIEN","자세히는 모르겠지만 녀석과 과거에 인연이 있던 존재가
+282,TEXT_VOICEMAN_05100_002810_ESTINIEN,"자세히는 모르겠지만 녀석과 과거에 인연이 있던 존재가
 황제가 없는 이 상황에 움직이기 시작했나 보더군."
-283,"TEXT_VOICEMAN_05100_002820_ESTINIEN","잠깐이었지만 함께 행동해보니 알겠는데,
+283,TEXT_VOICEMAN_05100_002820_ESTINIEN,"잠깐이었지만 함께 행동해보니 알겠는데,
 가이우스는 이제 에오르제아 침략을 꾸밀 만한 놈이 아니다.
 자유롭게 행동하라고 내버려둬도 돼."
-284,"TEXT_VOICEMAN_05100_002830_TATARU","그렇겠지용.
+284,TEXT_VOICEMAN_05100_002830_TATARU,"그렇겠지용.
 하지만 '새로운 위협'이라고 하니까
 왠지 모르게 불안하네용."
-285,"TEXT_VOICEMAN_05100_002840_TATARU","리올 님이랑 동방의 닌자분들에게도 정보를 공유하고
+285,TEXT_VOICEMAN_05100_002840_TATARU,"리올 님이랑 동방의 닌자분들에게도 정보를 공유하고
 경계를 강화하는 게 좋겠어용."
-286,"TEXT_VOICEMAN_05100_002850_ESTINIEN","자, 그럼 내 보고는 이상이다.
+286,TEXT_VOICEMAN_05100_002850_ESTINIEN,"자, 그럼 내 보고는 이상이다.
 폐기를 의뢰 받았던 '검은 장미'의 위협도 사라졌으니
 이제 계약은 끝났다고 봐도 되겠나?"
-287,"TEXT_VOICEMAN_05100_002860_TATARU","아, 네…… 그건 그런데용…….
+287,TEXT_VOICEMAN_05100_002860_TATARU,"아, 네…… 그건 그런데용…….
 현인분들도 아직 눈을 뜨지 않은 상태고용.
 괜찮으시다면 조금만 더 같이……!"
-288,"TEXT_VOICEMAN_05100_002870_ESTINIEN","미안하지만, 약속은 약속이야.
+288,TEXT_VOICEMAN_05100_002870_ESTINIEN,"미안하지만, 약속은 약속이야.
 ……나도 가이우스처럼
 자유롭게 움직이게 해줘."
-289,"TEXT_VOICEMAN_05100_002880_KRILE","갑작스럽게 도움을 요청했는데도 응해줘서 고마워.
+289,TEXT_VOICEMAN_05100_002880_KRILE,"갑작스럽게 도움을 요청했는데도 응해줘서 고마워.
 알피노가 왜 그렇게 따르는지, 그 이유를 알 것 같아."
-290,"TEXT_VOICEMAN_05100_002890_ESTINIEN","……훗."
-291,"TEXT_VOICEMAN_05100_002900_ESTINIEN","그럼 난 갈게, 친구.
+290,TEXT_VOICEMAN_05100_002890_ESTINIEN,……훗.
+291,TEXT_VOICEMAN_05100_002900_ESTINIEN,"그럼 난 갈게, 친구.
 다음번엔 전장에서 쓰러지지 마라, 위험하니까."
-292,"TEXT_VOICEMAN_05100_002910_KRILE","그럼 우리도 이만 해산하자.
+292,TEXT_VOICEMAN_05100_002910_KRILE,"그럼 우리도 이만 해산하자.
 현인들의 육체는 우리한테 맡기고
 당신은 편히 쉬도록 해."

@@ -1,20 +1,18 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_000","죄송합니다…….
+#,Unknown0,Unknown1
+0,TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_000,"죄송합니다…….
 현재 보급 물자를 확인 중입니다.
 물자 지급에 관해서는 조금 더 기다려 주십시오."
-1,"TEXT_CTSMYCEXORCISMTRADE_00679_Q1_000_000","무엇을 하시겠습니까? [보즈야 클러스터 보유 수：<Value>IntegerParameter(1)</Value>개]"
-2,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_000","'비상 교전' 우선 참가권 취득하기
-　필요 수：<Value>IntegerParameter(1)</Value>개"
-3,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_001","아이템 교환"
-4,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_002","'보즈야 클러스터'에 대해 자세히 묻기"
-5,"TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_003","취소"
-6,"TEXT_CTSMYCEXORCISMTRADE_00679_Q2_000_000","'비상 교전' 우선 참가권을 취득하시겠습니까?
-　보즈야 클러스터 보유 수：<Value>IntegerParameter(1)</Value>개"
-7,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_001","지원군 출현 시 공격 요청은
-'보즈야 클러스터' <Value>IntegerParameter(1)</Value>개로 하실 수 있습니다.
+1,TEXT_CTSMYCEXORCISMTRADE_00679_Q1_000_000,무엇을 하시겠습니까? [보즈야 클러스터 보유 수：UNKNOWN개]
+2,TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_000,"'비상 교전' 우선 참가권 취득하기
+　필요 수：UNKNOWN개"
+3,TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_001,아이템 교환
+4,TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_002,'보즈야 클러스터'에 대해 자세히 묻기
+5,TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_003,취소
+6,TEXT_CTSMYCEXORCISMTRADE_00679_Q2_000_000,"'비상 교전' 우선 참가권을 취득하시겠습니까?
+　보즈야 클러스터 보유 수：UNKNOWN개"
+7,TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_001,"지원군 출현 시 공격 요청은
+'보즈야 클러스터' UNKNOWN개로 하실 수 있습니다.
 죄송합니다만, 보유 수가 부족하시군요……."
-8,"TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_002","알겠습니다!
+8,TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_002,"알겠습니다!
 강력한 적이 출현할 시
 우선적으로 공격 요청을 해드리겠습니다."

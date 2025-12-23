@@ -1,162 +1,160 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBAST560_02023_SEQ_00","성 겡리올 점성원의 잔키나르는 모험가에게 좋은 소식을 전하고 싶은 듯하다."
-1,"TEXT_JOBAST560_02023_SEQ_01","레베바에게 치료 활동을 해달라는 의뢰가 들어왔다고 한다. 고지 드라바니아 '꼬리깃 마을'에 있는 '레베바'와 대화하자."
-2,"TEXT_JOBAST560_02023_SEQ_02","레베바와 대화했다. 꼬리깃 마을에 있는 '부상당한 사냥꾼'에게 '별읽기: 베네피크'를 사용하자."
-3,"TEXT_JOBAST560_02023_SEQ_03","부상당한 사냥꾼들을 치료했다. 꼬리깃 마을에 있는 '레베바'와 대화하자."
-4,"TEXT_JOBAST560_02023_SEQ_04","레베바와 대화했다. 고지 드라바니아 '초코보 숲' 남서쪽에 있는 '레베바'와 대화하자."
-5,"TEXT_JOBAST560_02023_SEQ_05","레베바와 대화하고 샬레이안 자객을 물리쳤다. 성 겡리올 점성원에 있는 '잔키나르'와 대화하자."
-6,"TEXT_JOBAST560_02023_SEQ_06","잔키나르와 대화했다. 레베바는 죄인이 될 각오로 이슈가르드에 왔다고 한다. 레베바를 돕기 위해 점성술 수련에 힘쓰자.
+#,Unknown0,Unknown1
+0,TEXT_JOBAST560_02023_SEQ_00,성 겡리올 점성원의 잔키나르는 모험가에게 좋은 소식을 전하고 싶은 듯하다.
+1,TEXT_JOBAST560_02023_SEQ_01,레베바에게 치료 활동을 해달라는 의뢰가 들어왔다고 한다. 고지 드라바니아 '꼬리깃 마을'에 있는 '레베바'와 대화하자.
+2,TEXT_JOBAST560_02023_SEQ_02,레베바와 대화했다. 꼬리깃 마을에 있는 '부상당한 사냥꾼'에게 '별읽기: 베네피크'를 사용하자.
+3,TEXT_JOBAST560_02023_SEQ_03,부상당한 사냥꾼들을 치료했다. 꼬리깃 마을에 있는 '레베바'와 대화하자.
+4,TEXT_JOBAST560_02023_SEQ_04,레베바와 대화했다. 고지 드라바니아 '초코보 숲' 남서쪽에 있는 '레베바'와 대화하자.
+5,TEXT_JOBAST560_02023_SEQ_05,레베바와 대화하고 샬레이안 자객을 물리쳤다. 성 겡리올 점성원에 있는 '잔키나르'와 대화하자.
+6,TEXT_JOBAST560_02023_SEQ_06,"잔키나르와 대화했다. 레베바는 죄인이 될 각오로 이슈가르드에 왔다고 한다. 레베바를 돕기 위해 점성술 수련에 힘쓰자.
 
 ※ 점성술사 레벨이 58 이상 되면 성 겡리올 점성원에 있는 잔키나르에게 다음 점성술사 퀘스트를 받을 수 있습니다."
-7,"TEXT_JOBAST560_02023_SEQ_07",""
-8,"TEXT_JOBAST560_02023_SEQ_08",""
-9,"TEXT_JOBAST560_02023_SEQ_09",""
-10,"TEXT_JOBAST560_02023_SEQ_10",""
-11,"TEXT_JOBAST560_02023_SEQ_11",""
-12,"TEXT_JOBAST560_02023_SEQ_12",""
-13,"TEXT_JOBAST560_02023_SEQ_13",""
-14,"TEXT_JOBAST560_02023_SEQ_14",""
-15,"TEXT_JOBAST560_02023_SEQ_15",""
-16,"TEXT_JOBAST560_02023_SEQ_16",""
-17,"TEXT_JOBAST560_02023_SEQ_17",""
-18,"TEXT_JOBAST560_02023_SEQ_18",""
-19,"TEXT_JOBAST560_02023_SEQ_19",""
-20,"TEXT_JOBAST560_02023_SEQ_20",""
-21,"TEXT_JOBAST560_02023_SEQ_21",""
-22,"TEXT_JOBAST560_02023_SEQ_22",""
-23,"TEXT_JOBAST560_02023_SEQ_23",""
-24,"TEXT_JOBAST560_02023_TODO_00","꼬리깃 마을에서 레베바와 대화"
-25,"TEXT_JOBAST560_02023_TODO_01","부상당한 사냥꾼에게 '별읽기: 베네피크' 사용"
-26,"TEXT_JOBAST560_02023_TODO_02","레베바와 대화"
-27,"TEXT_JOBAST560_02023_TODO_03","레베바와 다시 대화"
-28,"TEXT_JOBAST560_02023_TODO_04","성 겡리올 점성원에서 잔키나르와 대화"
-29,"TEXT_JOBAST560_02023_TODO_05",""
-30,"TEXT_JOBAST560_02023_TODO_06",""
-31,"TEXT_JOBAST560_02023_TODO_07",""
-32,"TEXT_JOBAST560_02023_TODO_08",""
-33,"TEXT_JOBAST560_02023_TODO_09",""
-34,"TEXT_JOBAST560_02023_TODO_10",""
-35,"TEXT_JOBAST560_02023_TODO_11",""
-36,"TEXT_JOBAST560_02023_TODO_12",""
-37,"TEXT_JOBAST560_02023_TODO_13",""
-38,"TEXT_JOBAST560_02023_TODO_14",""
-39,"TEXT_JOBAST560_02023_TODO_15",""
-40,"TEXT_JOBAST560_02023_TODO_16",""
-41,"TEXT_JOBAST560_02023_TODO_17",""
-42,"TEXT_JOBAST560_02023_TODO_18",""
-43,"TEXT_JOBAST560_02023_TODO_19",""
-44,"TEXT_JOBAST560_02023_TODO_20",""
-45,"TEXT_JOBAST560_02023_TODO_21",""
-46,"TEXT_JOBAST560_02023_TODO_22",""
-47,"TEXT_JOBAST560_02023_TODO_23",""
-48,"TEXT_JOBAST560_02023_JANNEQUINARD_000_000","안녕하십니까, <Highlight>ObjectParameter(1)</Highlight> 님.
+7,TEXT_JOBAST560_02023_SEQ_07,
+8,TEXT_JOBAST560_02023_SEQ_08,
+9,TEXT_JOBAST560_02023_SEQ_09,
+10,TEXT_JOBAST560_02023_SEQ_10,
+11,TEXT_JOBAST560_02023_SEQ_11,
+12,TEXT_JOBAST560_02023_SEQ_12,
+13,TEXT_JOBAST560_02023_SEQ_13,
+14,TEXT_JOBAST560_02023_SEQ_14,
+15,TEXT_JOBAST560_02023_SEQ_15,
+16,TEXT_JOBAST560_02023_SEQ_16,
+17,TEXT_JOBAST560_02023_SEQ_17,
+18,TEXT_JOBAST560_02023_SEQ_18,
+19,TEXT_JOBAST560_02023_SEQ_19,
+20,TEXT_JOBAST560_02023_SEQ_20,
+21,TEXT_JOBAST560_02023_SEQ_21,
+22,TEXT_JOBAST560_02023_SEQ_22,
+23,TEXT_JOBAST560_02023_SEQ_23,
+24,TEXT_JOBAST560_02023_TODO_00,꼬리깃 마을에서 레베바와 대화
+25,TEXT_JOBAST560_02023_TODO_01,부상당한 사냥꾼에게 '별읽기: 베네피크' 사용
+26,TEXT_JOBAST560_02023_TODO_02,레베바와 대화
+27,TEXT_JOBAST560_02023_TODO_03,레베바와 다시 대화
+28,TEXT_JOBAST560_02023_TODO_04,성 겡리올 점성원에서 잔키나르와 대화
+29,TEXT_JOBAST560_02023_TODO_05,
+30,TEXT_JOBAST560_02023_TODO_06,
+31,TEXT_JOBAST560_02023_TODO_07,
+32,TEXT_JOBAST560_02023_TODO_08,
+33,TEXT_JOBAST560_02023_TODO_09,
+34,TEXT_JOBAST560_02023_TODO_10,
+35,TEXT_JOBAST560_02023_TODO_11,
+36,TEXT_JOBAST560_02023_TODO_12,
+37,TEXT_JOBAST560_02023_TODO_13,
+38,TEXT_JOBAST560_02023_TODO_14,
+39,TEXT_JOBAST560_02023_TODO_15,
+40,TEXT_JOBAST560_02023_TODO_16,
+41,TEXT_JOBAST560_02023_TODO_17,
+42,TEXT_JOBAST560_02023_TODO_18,
+43,TEXT_JOBAST560_02023_TODO_19,
+44,TEXT_JOBAST560_02023_TODO_20,
+45,TEXT_JOBAST560_02023_TODO_21,
+46,TEXT_JOBAST560_02023_TODO_22,
+47,TEXT_JOBAST560_02023_TODO_23,
+48,TEXT_JOBAST560_02023_JANNEQUINARD_000_000,"안녕하십니까, Player Player 님.
 그 후로 레베바 스승님은 각지를 순회하며
 열심히 치료 활동에 전념하고 계십니다."
-49,"TEXT_JOBAST560_02023_JANNEQUINARD_000_001","그런데 이번에는 놀랍게도 '꼬리깃 마을' 사냥꾼들이
+49,TEXT_JOBAST560_02023_JANNEQUINARD_000_001,"그런데 이번에는 놀랍게도 '꼬리깃 마을' 사냥꾼들이
 먼저 나서서 치료 활동을 의뢰하더군요. 이건 큰 발전입니다!
 우리도 어서 가서 레베바 스승님을 도와드립시다."
-50,"TEXT_JOBAST560_02023_JANNEQUINARD_000_009","서둘러 레베바 스승님과 합류해 준비를 도와드립시다."
-51,"TEXT_JOBAST560_02023_LEVEVA_000_010","오, <Highlight>ObjectParameter(1)</Highlight>. 와주어서 고맙다.
+50,TEXT_JOBAST560_02023_JANNEQUINARD_000_009,서둘러 레베바 스승님과 합류해 준비를 도와드립시다.
+51,TEXT_JOBAST560_02023_LEVEVA_000_010,"오, Player Player. 와주어서 고맙다.
 지금까지는 자발적으로 치료 활동을 해왔지만
 누군가에게 부탁받아서 가는 건 이번이 처음이야."
-52,"TEXT_JOBAST560_02023_LEVEVA_000_011","사람들이 점성술을 조금씩 받아들이기 시작했다는 증거지…….
+52,TEXT_JOBAST560_02023_LEVEVA_000_011,"사람들이 점성술을 조금씩 받아들이기 시작했다는 증거지…….
 그대들도 아무쪼록 잘 도와주기 바란다.
 지금부터 '부상당한 사냥꾼'을 치료해다오."
-53,"TEXT_JOBAST560_02023_LEVEVA_000_020","자, '부상당한 사냥꾼'을 치료해다오."
-54,"TEXT_JOBAST560_02023_JANNEQUINARD_000_020","저들에게 점성마법의 치유력을 보여줍시다."
-55,"TEXT_JOBAST560_02023_WOUNDEDA02023_100_030","아야야야……."
-56,"TEXT_JOBAST560_02023_WOUNDEDA02023_000_030","마법은 잘 모르지만 이 은혜는 잊지 않으마!"
-57,"TEXT_JOBAST560_02023_WOUNDEDB02023_100_030","너무 아파서 말하는 것도 힘들어……."
-58,"TEXT_JOBAST560_02023_WOUNDEDB02023_000_030","고맙다. 점성술도 치료 효과가 괜찮은데?"
-59,"TEXT_JOBAST560_02023_WOUNDEDC02023_100_030","난 이제 틀렸어……."
-60,"TEXT_JOBAST560_02023_WOUNDEDC02023_000_030","정말 감사합니다…… 덕분에 살았습니다."
-61,"TEXT_JOBAST560_02023_JANNEQUINARD_000_039","이제 다 치료한 모양이군요."
-62,"TEXT_JOBAST560_02023_LEVEVA_000_040","그쪽도 끝났나 보군.
+53,TEXT_JOBAST560_02023_LEVEVA_000_020,"자, '부상당한 사냥꾼'을 치료해다오."
+54,TEXT_JOBAST560_02023_JANNEQUINARD_000_020,저들에게 점성마법의 치유력을 보여줍시다.
+55,TEXT_JOBAST560_02023_WOUNDEDA02023_100_030,아야야야…….
+56,TEXT_JOBAST560_02023_WOUNDEDA02023_000_030,마법은 잘 모르지만 이 은혜는 잊지 않으마!
+57,TEXT_JOBAST560_02023_WOUNDEDB02023_100_030,너무 아파서 말하는 것도 힘들어…….
+58,TEXT_JOBAST560_02023_WOUNDEDB02023_000_030,고맙다. 점성술도 치료 효과가 괜찮은데?
+59,TEXT_JOBAST560_02023_WOUNDEDC02023_100_030,난 이제 틀렸어…….
+60,TEXT_JOBAST560_02023_WOUNDEDC02023_000_030,정말 감사합니다…… 덕분에 살았습니다.
+61,TEXT_JOBAST560_02023_JANNEQUINARD_000_039,이제 다 치료한 모양이군요.
+62,TEXT_JOBAST560_02023_LEVEVA_000_040,"그쪽도 끝났나 보군.
 치료가 필요했던 환자들은 다 돌본 것 같다."
-63,"TEXT_JOBAST560_02023_JANNEQUINARD_000_041","예, 다행히 부상이 심각한 분은 없더군요.
+63,TEXT_JOBAST560_02023_JANNEQUINARD_000_041,"예, 다행히 부상이 심각한 분은 없더군요.
 그런데, 다들 치료 활동에는 감사하고 있지만
 점성마법에는 별 관심이 없는 것 같습니다."
-64,"TEXT_JOBAST560_02023_LEVEVA_000_042","그야 그들은 평범한 사냥꾼이니……
+64,TEXT_JOBAST560_02023_LEVEVA_000_042,"그야 그들은 평범한 사냥꾼이니……
 점성술을 배우고자 우리를 초청한 것이 아니다.
 그럼 나는 잠시 하늘이나 보면서 앞일에 대해 생각해보마."
-65,"TEXT_JOBAST560_02023_QUIMPERAIN_000_043","（★未使用／削除予定★）"
-66,"TEXT_JOBAST560_02023_JANNEQUINARD_000_044","<Highlight>ObjectParameter(1)</Highlight> 님과 캥페랭은
+65,TEXT_JOBAST560_02023_QUIMPERAIN_000_043,（★未使用／削除予定★）
+66,TEXT_JOBAST560_02023_JANNEQUINARD_000_044,"Player Player 님과 캥페랭은
 레베바 스승님과 함께 가십시오.
 저는 마지막으로 마을을 한 바퀴 둘러보고 오겠습니다."
-67,"TEXT_JOBAST560_02023_LEVEVA_000_050","왔나? <Highlight>ObjectParameter(1)</Highlight>도 하늘을 올려다봐라.
+67,TEXT_JOBAST560_02023_LEVEVA_000_050,"왔나? Player Player도 하늘을 올려다봐라.
 난 어렸을 적부터 뭔가가 잘 풀리지 않을 때는
 낮이나 밤이나 하늘을 보며 별을 생각했지."
-68,"TEXT_JOBAST560_02023_LEVEVA_000_051","저 별들이 아버님과 나를 이어주는 것만 같아서…….
+68,TEXT_JOBAST560_02023_LEVEVA_000_051,"저 별들이 아버님과 나를 이어주는 것만 같아서…….
 그런데 일기를 읽어보니 아버님도 그러셨더군.
 역시 피는 못 속이나 보다 하고 기쁜 마음이 들었어……."
-69,"TEXT_JOBAST560_02023_CELIE_000_052","……효심이 지극한 아가씨네.
+69,TEXT_JOBAST560_02023_CELIE_000_052,"……효심이 지극한 아가씨네.
 그런데 지금은 왜 아버지의 원수에게 지식을 전하려는 걸까나?
 미개한 자들의 말로를 관찰하고 기록하는 일이 더 유익할 텐데."
-70,"TEXT_JOBAST560_02023_LEVEVA_000_053","역시 나타났군…… 점성술사는 운명을 개척하는 자…….
+70,TEXT_JOBAST560_02023_LEVEVA_000_053,"역시 나타났군…… 점성술사는 운명을 개척하는 자…….
 어두운 미래가 예견된다면 그것을 피할 방법을 전하고
 함께 운명에 맞서 싸우는 것이 점성술사의 사명이다!"
-71,"TEXT_JOBAST560_02023_CELIE_000_054","지금까지는 우리 주인님의 '개인적인 배려'로 움직였지만
+71,TEXT_JOBAST560_02023_CELIE_000_054,"지금까지는 우리 주인님의 '개인적인 배려'로 움직였지만
 회의에서 정식으로 처분이 내려지면 사정이 달라진다…….
 본국의 정예들이 널 잡으러 올 거야!"
-72,"TEXT_JOBAST560_02023_CELIE_000_055","일이 커지기 전에 결판을 내는 게 좋지 않겠어?
+72,TEXT_JOBAST560_02023_CELIE_000_055,"일이 커지기 전에 결판을 내는 게 좋지 않겠어?
 나도 계속 실패만 하면 주인님을 뵐 면목이 없거든.
 이번에는 무슨 수를 써서라도 끌고 가겠다!"
-73,"TEXT_JOBAST560_02023_CELIE_000_056","（★未使用／削除予定★）"
-74,"TEXT_JOBAST560_02023_CELIE_000_057","얘들아, 저 어리석은 점성술사들을 제압해라……!"
-75,"TEXT_JOBAST560_02023_QIB_001_TODO_1","습격자를 쓰러뜨려라!"
-76,"TEXT_JOBAST560_02023_QIB_001_LEVEVA_BATTLETALK_01","나는 이 땅에서 운명을 개척하리라고 결심했다!"
-77,"TEXT_JOBAST560_02023_QIB_001_CELIE_BATTLETALK_01","이년이 정말 고집 하나는……!
+73,TEXT_JOBAST560_02023_CELIE_000_056,（★未使用／削除予定★）
+74,TEXT_JOBAST560_02023_CELIE_000_057,"얘들아, 저 어리석은 점성술사들을 제압해라……!"
+75,TEXT_JOBAST560_02023_QIB_001_TODO_1,습격자를 쓰러뜨려라!
+76,TEXT_JOBAST560_02023_QIB_001_LEVEVA_BATTLETALK_01,나는 이 땅에서 운명을 개척하리라고 결심했다!
+77,TEXT_JOBAST560_02023_QIB_001_CELIE_BATTLETALK_01,"이년이 정말 고집 하나는……!
 안 되겠다, 전원 돌격!"
-78,"TEXT_JOBAST560_02023_QIB_001_LEVEVA_BATTLETALK_02","큭, 복병이 이렇게 많다니……!?
+78,TEXT_JOBAST560_02023_QIB_001_LEVEVA_BATTLETALK_02,"큭, 복병이 이렇게 많다니……!?
 큰일이군…… 수적으로 너무 열세야……."
-79,"TEXT_JOBAST560_02023_QIB_001_WOUNDEDC02023_BATTLETALK_01","우리도 거들겠다!
+79,TEXT_JOBAST560_02023_QIB_001_WOUNDEDC02023_BATTLETALK_01,"우리도 거들겠다!
 당신들한테 받은 은혜를 갚아야지!"
-80,"TEXT_JOBAST560_02023_QIB_001_CELIE_BATTLETALK_02","에잇, 말이 안 통하는군. 이젠 안 봐준다!"
-81,"TEXT_JOBAST560_02023_QIB_001_CELIE_BATTLETALK_03","큭, 점성술사의 역량을 가늠하지 못했어……."
-82,"TEXT_JOBAST560_02023_QIB_001_QUIMPERAIN_BATTLETALK_DEAD","죄송합니다, 나머진 부탁드립니다……."
-83,"TEXT_JOBAST560_02023_QIB_001_LEVEVA_BATTLETALK_DEAD","큭, 이런 곳에서 운명이 다하다니……."
-84,"TEXT_JOBAST560_02023_QIB_001_LUNA_BATTLETALK_01","（★未使用／削除予定★）"
-85,"TEXT_JOBAST560_02023_QIB_001_BOSS_BATTLETALK_01","（★未使用／削除予定★）"
-86,"TEXT_JOBAST560_02023_QIB_001_LUNA_BATTLETALK_02","（★未使用／削除予定★）"
-87,"TEXT_JOBAST560_02023_QIB_001_HUNTER_BATTLETALK_01","（★未使用／削除予定★）"
-88,"TEXT_JOBAST560_02023_QIB_001_BOSS_BATTLETALK_02","（★未使用／削除予定★）"
-89,"TEXT_JOBAST560_02023_QIB_001_SEBASTIAN_BATTLETALK_01","（★未使用／削除予定★）"
-90,"TEXT_JOBAST560_02023_QIB_001_LUNA_BATTLETALK_03","（★未使用／削除予定★）"
-91,"TEXT_JOBAST560_02023_JANNEQUINARD_000_060","여러분, 괜찮으십니까……!?
+80,TEXT_JOBAST560_02023_QIB_001_CELIE_BATTLETALK_02,"에잇, 말이 안 통하는군. 이젠 안 봐준다!"
+81,TEXT_JOBAST560_02023_QIB_001_CELIE_BATTLETALK_03,"큭, 점성술사의 역량을 가늠하지 못했어……."
+82,TEXT_JOBAST560_02023_QIB_001_QUIMPERAIN_BATTLETALK_DEAD,"죄송합니다, 나머진 부탁드립니다……."
+83,TEXT_JOBAST560_02023_QIB_001_LEVEVA_BATTLETALK_DEAD,"큭, 이런 곳에서 운명이 다하다니……."
+84,TEXT_JOBAST560_02023_QIB_001_LUNA_BATTLETALK_01,（★未使用／削除予定★）
+85,TEXT_JOBAST560_02023_QIB_001_BOSS_BATTLETALK_01,（★未使用／削除予定★）
+86,TEXT_JOBAST560_02023_QIB_001_LUNA_BATTLETALK_02,（★未使用／削除予定★）
+87,TEXT_JOBAST560_02023_QIB_001_HUNTER_BATTLETALK_01,（★未使用／削除予定★）
+88,TEXT_JOBAST560_02023_QIB_001_BOSS_BATTLETALK_02,（★未使用／削除予定★）
+89,TEXT_JOBAST560_02023_QIB_001_SEBASTIAN_BATTLETALK_01,（★未使用／削除予定★）
+90,TEXT_JOBAST560_02023_QIB_001_LUNA_BATTLETALK_03,（★未使用／削除予定★）
+91,TEXT_JOBAST560_02023_JANNEQUINARD_000_060,"여러분, 괜찮으십니까……!?
 레베바 스승님께서 위험에 처하셨다고 하여
 급히 달려왔습니다."
-92,"TEXT_JOBAST560_02023_LEVEVA_000_061","여기 있는 사람들 덕분에 습격자를 물리칠 수 있었다.
+92,TEXT_JOBAST560_02023_LEVEVA_000_061,"여기 있는 사람들 덕분에 습격자를 물리칠 수 있었다.
 ……진심으로 감사한다."
-93,"TEXT_JOBAST560_02023_WOUNDEDC02023_000_062","(-꼬리깃 마을 사냥꾼-)하핫, 이 정도야 별거 아냐.
+93,TEXT_JOBAST560_02023_WOUNDEDC02023_000_062,"(-꼬리깃 마을 사냥꾼-)하핫, 이 정도야 별거 아냐.
 그나저나 함께 싸워보니 잘 알겠더군.
 점성마법은 이슈가르드의 점성술과 완전히 딴판이더구만!"
-94,"TEXT_JOBAST560_02023_WOUNDEDC02023_000_063","(-꼬리깃 마을 사냥꾼-)성도에 사는 친구들한테도 이 얘길 해줘야겠어.
+94,TEXT_JOBAST560_02023_WOUNDEDC02023_000_063,"(-꼬리깃 마을 사냥꾼-)성도에 사는 친구들한테도 이 얘길 해줘야겠어.
 그럼 조심해서 돌아가라!"
-95,"TEXT_JOBAST560_02023_JANNEQUINARD_000_064","레베바 스승님…… 들으셨습니까?
+95,TEXT_JOBAST560_02023_JANNEQUINARD_000_064,"레베바 스승님…… 들으셨습니까?
 저들은 진심으로 점성마법을 받아들였습니다.
 운명은 틀림없이 변화하고 있습니다!"
-96,"TEXT_JOBAST560_02023_LEVEVA_000_065","그래. 이 흐름을 끊어서는 안 돼.
+96,TEXT_JOBAST560_02023_LEVEVA_000_065,"그래. 이 흐름을 끊어서는 안 돼.
 설령 샬레이안 본국에서 강제 귀국명령이 떨어지더라도 말이다."
-97,"TEXT_JOBAST560_02023_JANNEQUINARD_000_066","강제 귀국명령……?"
-98,"TEXT_JOBAST560_02023_JANNEQUINARD_000_067","……점성마법은 샬레이안에서 만들어진 지식이다.
+97,TEXT_JOBAST560_02023_JANNEQUINARD_000_066,강제 귀국명령……?
+98,TEXT_JOBAST560_02023_JANNEQUINARD_000_067,"……점성마법은 샬레이안에서 만들어진 지식이다.
 회의의 결정에 따라서는 이를 전파하는 것조차 죄가 된다……
 그런 말씀이신가요?"
-99,"TEXT_JOBAST560_02023_LEVEVA_000_068","그렇다. 할아버님도 죄인이 될 각오로 날 도와주셨지.
-증표를 <Highlight>ObjectParameter(1)</Highlight>에게 맡기신 것도
+99,TEXT_JOBAST560_02023_LEVEVA_000_068,"그렇다. 할아버님도 죄인이 될 각오로 날 도와주셨지.
+증표를 Player Player에게 맡기신 것도
 그런 이유에서였다."
-100,"TEXT_JOBAST560_02023_JANNEQUINARD_000_069","그렇게 큰 각오를 하셨다니…… 다시 한번 감사드립니다.
+100,TEXT_JOBAST560_02023_JANNEQUINARD_000_069,"그렇게 큰 각오를 하셨다니…… 다시 한번 감사드립니다.
 할아버님의 은혜에 보답하기 위해서라도
 반드시 뜻을 이루어야겠군요……!"
-101,"TEXT_JOBAST560_02023_LEVEVA_000_070","그래, 그대 말이 옳다…… 그래서 나는 결심했지.
+101,TEXT_JOBAST560_02023_LEVEVA_000_070,"그래, 그대 말이 옳다…… 그래서 나는 결심했지.
 앞으로 당분간 꼬리깃 마을에 남아 치료 활동을 계속하겠다.
 그대들은 성도로 돌아가 수련을 계속해라."
-102,"TEXT_JOBAST560_02023_JANNEQUINARD_000_080","<Highlight>ObjectParameter(1)</Highlight> 님, 수고하셨습니다.
+102,TEXT_JOBAST560_02023_JANNEQUINARD_000_080,"Player Player 님, 수고하셨습니다.
 꼬리깃 마을에선 큰 성과를 거뒀군요.
 레베바 스승님을 노리는 자들도 물리쳤고요."
-103,"TEXT_JOBAST560_02023_JANNEQUINARD_000_081","하지만 샬레이안 본국의 '철학자 의회'에서
+103,TEXT_JOBAST560_02023_JANNEQUINARD_000_081,"하지만 샬레이안 본국의 '철학자 의회'에서
 어떤 결정이 내려질지에 따라
 레베바 스승님이 또다시 위험에 처할 수 있습니다."
-104,"TEXT_JOBAST560_02023_JANNEQUINARD_000_082","그때 레베바 스승님의 힘이 되어드릴 수 있도록……
+104,TEXT_JOBAST560_02023_JANNEQUINARD_000_082,"그때 레베바 스승님의 힘이 되어드릴 수 있도록……
 부디 계속해서 수련을 부탁드립니다."

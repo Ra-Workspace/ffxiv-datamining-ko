@@ -1,258 +1,256 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBDRK600_02064_SEQ_00","잊힌 기사 주점에 있는 시두르구는 모험가에게 할 말이 있는 듯하다."
-1,"TEXT_JOBDRK600_02064_SEQ_01","마침내 결투의 시간이 다가왔다. 출발하기 전에 잊힌 기사 주점에 있는 '리엘'과 대화하자."
-2,"TEXT_JOBDRK600_02064_SEQ_02","리엘의 결의를 확인했다. 드디어 결투에 임할 때가 왔다. 커르다스 서부고지 '점판암 산맥' 부근에서 '시두르구'와 합류하자."
-3,"TEXT_JOBDRK600_02064_SEQ_03","시두르구와 함께 이스트리드가 이끄는 기사들을 물리치고 리엘을 지켜냈다. 잊힌 기사 주점으로 돌아가 '시두르구'와 대화하자."
-4,"TEXT_JOBDRK600_02064_SEQ_04","시두르구와 대화했다. 암흑기사의 극의를 체득한 시두르구와 모험가는 각자가 지켜야 할 사람을 위해 앞으로도 싸울 것을 맹세했다. 사랑이 있는 한, 그들은 결코 좌절하지 않고 나아가리라.
+#,Unknown0,Unknown1
+0,TEXT_JOBDRK600_02064_SEQ_00,잊힌 기사 주점에 있는 시두르구는 모험가에게 할 말이 있는 듯하다.
+1,TEXT_JOBDRK600_02064_SEQ_01,마침내 결투의 시간이 다가왔다. 출발하기 전에 잊힌 기사 주점에 있는 '리엘'과 대화하자.
+2,TEXT_JOBDRK600_02064_SEQ_02,리엘의 결의를 확인했다. 드디어 결투에 임할 때가 왔다. 커르다스 서부고지 '점판암 산맥' 부근에서 '시두르구'와 합류하자.
+3,TEXT_JOBDRK600_02064_SEQ_03,시두르구와 함께 이스트리드가 이끄는 기사들을 물리치고 리엘을 지켜냈다. 잊힌 기사 주점으로 돌아가 '시두르구'와 대화하자.
+4,TEXT_JOBDRK600_02064_SEQ_04,"시두르구와 대화했다. 암흑기사의 극의를 체득한 시두르구와 모험가는 각자가 지켜야 할 사람을 위해 앞으로도 싸울 것을 맹세했다. 사랑이 있는 한, 그들은 결코 좌절하지 않고 나아가리라.
 
 ※'주요 퀘스트: 용시전쟁 전후편' 중 '숙명의 끝'을 완료하면
  잊힌 기사 주점의 시두르구에게서 새로운 잡 퀘스트를 받을 수 있습니다."
-5,"TEXT_JOBDRK600_02064_SEQ_05",""
-6,"TEXT_JOBDRK600_02064_SEQ_06",""
-7,"TEXT_JOBDRK600_02064_SEQ_07",""
-8,"TEXT_JOBDRK600_02064_SEQ_08",""
-9,"TEXT_JOBDRK600_02064_SEQ_09",""
-10,"TEXT_JOBDRK600_02064_SEQ_10",""
-11,"TEXT_JOBDRK600_02064_SEQ_11",""
-12,"TEXT_JOBDRK600_02064_SEQ_12",""
-13,"TEXT_JOBDRK600_02064_SEQ_13",""
-14,"TEXT_JOBDRK600_02064_SEQ_14",""
-15,"TEXT_JOBDRK600_02064_SEQ_15",""
-16,"TEXT_JOBDRK600_02064_SEQ_16",""
-17,"TEXT_JOBDRK600_02064_SEQ_17",""
-18,"TEXT_JOBDRK600_02064_SEQ_18",""
-19,"TEXT_JOBDRK600_02064_SEQ_19",""
-20,"TEXT_JOBDRK600_02064_SEQ_20",""
-21,"TEXT_JOBDRK600_02064_SEQ_21",""
-22,"TEXT_JOBDRK600_02064_SEQ_22",""
-23,"TEXT_JOBDRK600_02064_SEQ_23",""
-24,"TEXT_JOBDRK600_02064_TODO_00","리엘과 대화"
-25,"TEXT_JOBDRK600_02064_TODO_01","점판암 산맥 부근에서 시두르구와 합류"
-26,"TEXT_JOBDRK600_02064_TODO_02","이슈가르드에서 시두르구와 대화"
-27,"TEXT_JOBDRK600_02064_TODO_03",""
-28,"TEXT_JOBDRK600_02064_TODO_04",""
-29,"TEXT_JOBDRK600_02064_TODO_05",""
-30,"TEXT_JOBDRK600_02064_TODO_06",""
-31,"TEXT_JOBDRK600_02064_TODO_07",""
-32,"TEXT_JOBDRK600_02064_TODO_08",""
-33,"TEXT_JOBDRK600_02064_TODO_09",""
-34,"TEXT_JOBDRK600_02064_TODO_10",""
-35,"TEXT_JOBDRK600_02064_TODO_11",""
-36,"TEXT_JOBDRK600_02064_TODO_12",""
-37,"TEXT_JOBDRK600_02064_TODO_13",""
-38,"TEXT_JOBDRK600_02064_TODO_14",""
-39,"TEXT_JOBDRK600_02064_TODO_15",""
-40,"TEXT_JOBDRK600_02064_TODO_16",""
-41,"TEXT_JOBDRK600_02064_TODO_17",""
-42,"TEXT_JOBDRK600_02064_TODO_18",""
-43,"TEXT_JOBDRK600_02064_TODO_19",""
-44,"TEXT_JOBDRK600_02064_TODO_20",""
-45,"TEXT_JOBDRK600_02064_TODO_21",""
-46,"TEXT_JOBDRK600_02064_TODO_22",""
-47,"TEXT_JOBDRK600_02064_TODO_23",""
-48,"TEXT_JOBDRK600_02064_SIDURGU_000_000","<Highlight>ObjectParameter(1)</Highlight>…….
+5,TEXT_JOBDRK600_02064_SEQ_05,
+6,TEXT_JOBDRK600_02064_SEQ_06,
+7,TEXT_JOBDRK600_02064_SEQ_07,
+8,TEXT_JOBDRK600_02064_SEQ_08,
+9,TEXT_JOBDRK600_02064_SEQ_09,
+10,TEXT_JOBDRK600_02064_SEQ_10,
+11,TEXT_JOBDRK600_02064_SEQ_11,
+12,TEXT_JOBDRK600_02064_SEQ_12,
+13,TEXT_JOBDRK600_02064_SEQ_13,
+14,TEXT_JOBDRK600_02064_SEQ_14,
+15,TEXT_JOBDRK600_02064_SEQ_15,
+16,TEXT_JOBDRK600_02064_SEQ_16,
+17,TEXT_JOBDRK600_02064_SEQ_17,
+18,TEXT_JOBDRK600_02064_SEQ_18,
+19,TEXT_JOBDRK600_02064_SEQ_19,
+20,TEXT_JOBDRK600_02064_SEQ_20,
+21,TEXT_JOBDRK600_02064_SEQ_21,
+22,TEXT_JOBDRK600_02064_SEQ_22,
+23,TEXT_JOBDRK600_02064_SEQ_23,
+24,TEXT_JOBDRK600_02064_TODO_00,리엘과 대화
+25,TEXT_JOBDRK600_02064_TODO_01,점판암 산맥 부근에서 시두르구와 합류
+26,TEXT_JOBDRK600_02064_TODO_02,이슈가르드에서 시두르구와 대화
+27,TEXT_JOBDRK600_02064_TODO_03,
+28,TEXT_JOBDRK600_02064_TODO_04,
+29,TEXT_JOBDRK600_02064_TODO_05,
+30,TEXT_JOBDRK600_02064_TODO_06,
+31,TEXT_JOBDRK600_02064_TODO_07,
+32,TEXT_JOBDRK600_02064_TODO_08,
+33,TEXT_JOBDRK600_02064_TODO_09,
+34,TEXT_JOBDRK600_02064_TODO_10,
+35,TEXT_JOBDRK600_02064_TODO_11,
+36,TEXT_JOBDRK600_02064_TODO_12,
+37,TEXT_JOBDRK600_02064_TODO_13,
+38,TEXT_JOBDRK600_02064_TODO_14,
+39,TEXT_JOBDRK600_02064_TODO_15,
+40,TEXT_JOBDRK600_02064_TODO_16,
+41,TEXT_JOBDRK600_02064_TODO_17,
+42,TEXT_JOBDRK600_02064_TODO_18,
+43,TEXT_JOBDRK600_02064_TODO_19,
+44,TEXT_JOBDRK600_02064_TODO_20,
+45,TEXT_JOBDRK600_02064_TODO_21,
+46,TEXT_JOBDRK600_02064_TODO_22,
+47,TEXT_JOBDRK600_02064_TODO_23,
+48,TEXT_JOBDRK600_02064_SIDURGU_000_000,"Player Player…….
 이스트리드가 보낸 사람이 왔다.
 결투 장소는 커르다스 서부고지라는군."
-49,"TEXT_JOBDRK600_02064_SIDURGU_000_001","장소만 봐도 제대로 된 결투재판이라고 할 수 없어.
+49,TEXT_JOBDRK600_02064_SIDURGU_000_001,"장소만 봐도 제대로 된 결투재판이라고 할 수 없어.
 아마 상당히 불리한 전투가 될 것이다."
-50,"TEXT_JOBDRK600_02064_SIDURGU_000_002","……그러나 스승님께서 말씀하시길, 극의를 얻은 '암흑기사'는
+50,TEXT_JOBDRK600_02064_SIDURGU_000_002,"……그러나 스승님께서 말씀하시길, 극의를 얻은 '암흑기사'는
 ""피를 바치고 살을 깎는 고통에도 맞설 수 있다""고 하셨다."
-51,"TEXT_JOBDRK600_02064_SIDURGU_000_003","나 또한 당당히 맞설 것이다…….
+51,TEXT_JOBDRK600_02064_SIDURGU_000_003,"나 또한 당당히 맞설 것이다…….
 극의를 오롯이 내 것으로 만들기 위해서,
 그리고 무엇보다…… 리엘을 위해서."
-52,"TEXT_JOBDRK600_02064_SIDURGU_000_004","……자, 곧 출발할 시간이다.
+52,TEXT_JOBDRK600_02064_SIDURGU_000_004,"……자, 곧 출발할 시간이다.
 참, 리엘이 네게 하고 싶은 말이 있다더군.
 출발 전에 가서 얘기해봐라."
-53,"TEXT_JOBDRK600_02064_SIDURGU_000_010","리엘이 네게 하고 싶은 말이 있다더군.
+53,TEXT_JOBDRK600_02064_SIDURGU_000_010,"리엘이 네게 하고 싶은 말이 있다더군.
 출발 전에 가서 얘기해봐라."
-54,"TEXT_JOBDRK600_02064_RIELLE_000_020","<Highlight>ObjectParameter(1)</Highlight>…… 있잖아요…………
+54,TEXT_JOBDRK600_02064_RIELLE_000_020,"Player Player…… 있잖아요…………
 지금까지 되게 많이 고마웠어요."
-55,"TEXT_JOBDRK600_02064_RIELLE_000_021","난 지금까지 뒤에 숨어있기만 했지만……
+55,TEXT_JOBDRK600_02064_RIELLE_000_021,"난 지금까지 뒤에 숨어있기만 했지만……
 두 사람의 등을 보면서 조금씩 강해진 것 같아요."
-56,"TEXT_JOBDRK600_02064_RIELLE_000_022","'암흑기사'가 겁먹지 않고 적을 향해 돌진하는 모습……
+56,TEXT_JOBDRK600_02064_RIELLE_000_022,"'암흑기사'가 겁먹지 않고 적을 향해 돌진하는 모습……
 그리고 등뒤에 있는 사람을 지키려는 마음……
 그런 것들을 접하면서 용기가 생겼거든요."
-57,"TEXT_JOBDRK600_02064_RIELLE_000_023","이젠…… 나도 당당하게 싸울 거예요.
+57,TEXT_JOBDRK600_02064_RIELLE_000_023,"이젠…… 나도 당당하게 싸울 거예요.
 끝까지 포기하지 않고 살아남으면……
 내일도 나랑 같이 놀아주세요."
-58,"TEXT_JOBDRK600_02064_SIDURGU_000_024","얘기 다 했지?
+58,TEXT_JOBDRK600_02064_SIDURGU_000_024,"얘기 다 했지?
 ……그럼 슬슬 가자고."
-59,"TEXT_JOBDRK600_02064_SIDURGU_000_025","결투 장소는 커르다스 서부고지……
+59,TEXT_JOBDRK600_02064_SIDURGU_000_025,"결투 장소는 커르다스 서부고지……
 '점판암 산맥' 기슭이다.
 그곳에서 이스트리드와 결판을 낸다……!"
-60,"TEXT_JOBDRK600_02064_SIDURGU_000_030","우리 사정 따윈 아랑곳하지 않는 상대다.
+60,TEXT_JOBDRK600_02064_SIDURGU_000_030,"우리 사정 따윈 아랑곳하지 않는 상대다.
 준비는 철저히 해둬.
 결투 장소는 커르다스 서부고지의 '점판암 산맥' 기슭이다."
-61,"TEXT_JOBDRK600_02064_RIELLE_000_035","가자, <Highlight>ObjectParameter(1)</Highlight>……!"
-62,"TEXT_JOBDRK600_02064_RIELLE_000_040","곧 엄마가 올 거예요…….
+61,TEXT_JOBDRK600_02064_RIELLE_000_035,"가자, Player Player……!"
+62,TEXT_JOBDRK600_02064_RIELLE_000_040,"곧 엄마가 올 거예요…….
 콜리뇽 가의 딸을 없애기 위해……."
-63,"TEXT_JOBDRK600_02064_SIDURGU_000_050","여기가 그쪽에서 지정한 결투 장소다…….
+63,TEXT_JOBDRK600_02064_SIDURGU_000_050,"여기가 그쪽에서 지정한 결투 장소다…….
 시간이 되면 이스트리드가 올 텐데, 준비됐겠지?"
-64,"TEXT_JOBDRK600_02064_YSTRIDE_000_051","각자 빠짐없이 모였군.
+64,TEXT_JOBDRK600_02064_YSTRIDE_000_051,"각자 빠짐없이 모였군.
 여기서 도망가는 어리석은 선택을 하지 않아 다행이야."
-65,"TEXT_JOBDRK600_02064_YSTRIDE_000_052","……정말 눈엣가시 같은 계집이다.
+65,TEXT_JOBDRK600_02064_YSTRIDE_000_052,"……정말 눈엣가시 같은 계집이다.
 점점 더 제 아비를 닮아가는군."
-66,"TEXT_JOBDRK600_02064_YSTRIDE_000_053","그날 내가 감옥을 찾아가지 않았더라면……
+66,TEXT_JOBDRK600_02064_YSTRIDE_000_053,"그날 내가 감옥을 찾아가지 않았더라면……
 네 얼굴을 보고 그 남자를 떠올리지만 않았더라면
 감옥 안에서라도 살아남을 수 있었을 것을."
-67,"TEXT_JOBDRK600_02064_SIDURGU_000_054","너의 이기심에 치가 떨리는군.
+67,TEXT_JOBDRK600_02064_SIDURGU_000_054,"너의 이기심에 치가 떨리는군.
 쇠창살로, 그 혓바닥으로 이 아이를 얼마나 괴롭혔나?"
-68,"TEXT_JOBDRK600_02064_SIDURGU_000_055","더는 상처받게 하지 않겠다!
+68,TEXT_JOBDRK600_02064_SIDURGU_000_055,"더는 상처받게 하지 않겠다!
 네가 아무리 강한 힘을 휘두른다 해도
 방패가 된 우리를 뚫을 수 없을 것이다!!"
-69,"TEXT_JOBDRK600_02064_YSTRIDE_000_056","어차피 생판 남인 주제에 잘난 척은…….
+69,TEXT_JOBDRK600_02064_YSTRIDE_000_056,"어차피 생판 남인 주제에 잘난 척은…….
 내 분노…… 고귀한 콜리뇽의 피가 더럽혀진 이 분노가
 불사르지 못하는 것은 없다."
-70,"TEXT_JOBDRK600_02064_YSTRIDE_000_057","자, 결투를 시작하자!
+70,TEXT_JOBDRK600_02064_YSTRIDE_000_057,"자, 결투를 시작하자!
 계집의 목과 내 목, 둘 중 하나가 떨어지면 끝이다."
-71,"TEXT_JOBDRK600_02064_YSTRIDE_000_058","그러나 네놈들 같은 부정한 자들에게
+71,TEXT_JOBDRK600_02064_YSTRIDE_000_058,"그러나 네놈들 같은 부정한 자들에게
 내 목을 내어주진 않을 것이야……!"
-72,"TEXT_JOBDRK600_02064_SIDURGU_000_059","리엘, 프레이한테 환술 배웠지?
-그걸로 나랑 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EBA5BCFF04EC9D84</13> 지원해라."
-73,"TEXT_JOBDRK600_02064_SIDURGU_000_060","그리고……
+72,TEXT_JOBDRK600_02064_SIDURGU_000_059,"리엘, 프레이한테 환술 배웠지?
+그걸로 나랑 Player Player 지원해라."
+73,TEXT_JOBDRK600_02064_SIDURGU_000_060,"그리고……
 우리 곁에서 절대 떨어지지 마라!"
-74,"TEXT_JOBDRK600_02064_RIELLE_000_061","네……!"
-75,"TEXT_JOBDRK600_02064_SIDURGU_000_100","우오오오오오오오오오오……!"
-76,"TEXT_JOBDRK600_02064_YSTRIDE_000_101","네 이놈……!"
-77,"TEXT_JOBDRK600_02064_YSTRIDE_000_102","큭…… 어째서 이렇게까지……
+74,TEXT_JOBDRK600_02064_RIELLE_000_061,네……!
+75,TEXT_JOBDRK600_02064_SIDURGU_000_100,우오오오오오오오오오오……!
+76,TEXT_JOBDRK600_02064_YSTRIDE_000_101,네 이놈……!
+77,TEXT_JOBDRK600_02064_YSTRIDE_000_102,"큭…… 어째서 이렇게까지……
 왜 자신의 몸을 던지면서까지 리엘을 지키려는 거냐!?"
-78,"TEXT_JOBDRK600_02064_YSTRIDE_000_103","네놈과는 전혀 관계없는 계집이 아니냐.
+78,TEXT_JOBDRK600_02064_YSTRIDE_000_103,"네놈과는 전혀 관계없는 계집이 아니냐.
 아무런 명예도 따르지 않는데 왜!?"
-79,"TEXT_JOBDRK600_02064_SIDURGU_000_104","명예라…….
+79,TEXT_JOBDRK600_02064_SIDURGU_000_104,"명예라…….
 모그리족이 했던 질문이 오히려 훨씬 인간적이군."
-80,"TEXT_JOBDRK600_02064_SIDURGU_000_105","넌 영원히 이해하지 못하겠지.
+80,TEXT_JOBDRK600_02064_SIDURGU_000_105,"넌 영원히 이해하지 못하겠지.
 하지만 이것이 '암흑기사'의 긍지이자 힘이다……!"
-81,"TEXT_JOBDRK600_02064_SIDURGU_000_106","……지금은 네 목을 붙여두겠다.
+81,TEXT_JOBDRK600_02064_SIDURGU_000_106,"……지금은 네 목을 붙여두겠다.
 하지만, 이건 내가 자비로워서가 아니라
 리엘 앞에서 널 죽여 상처를 주고 싶지 않을 뿐이다."
-82,"TEXT_JOBDRK600_02064_SIDURGU_000_107","네가 누구 덕에 목숨을 건졌는지……
+82,TEXT_JOBDRK600_02064_SIDURGU_000_107,"네가 누구 덕에 목숨을 건졌는지……
 이해했으면 꺼져라. 영원히!"
-83,"TEXT_JOBDRK600_02064_YSTRIDE_000_108","후후…… 물러 터졌군!
+83,TEXT_JOBDRK600_02064_YSTRIDE_000_108,"후후…… 물러 터졌군!
 그 대검은 장식품이냐?
 여기서 내 목을 치지 않으면 난 또다시 네놈들을 쫓을 것이다."
-84,"TEXT_JOBDRK600_02064_YSTRIDE_000_109","모든 부하를 잃고 이 몸이 부서지는 한이 있더라도……
+84,TEXT_JOBDRK600_02064_YSTRIDE_000_109,"모든 부하를 잃고 이 몸이 부서지는 한이 있더라도……
 내 몸을 더럽힌 증오스러운 과거를 청산하고야 말 것이다.
 네놈들의 미래에 평화는 없다!"
-85,"TEXT_JOBDRK600_02064_YSTRIDE_000_110","후……후후…………
+85,TEXT_JOBDRK600_02064_YSTRIDE_000_110,"후……후후…………
 큭큭큭…… 하하하…… 아하하하하하하하핫!"
-86,"TEXT_JOBDRK600_02064_SIDURGU_000_111","리엘……?"
-87,"TEXT_JOBDRK600_02064_RIELLE_000_112","도망치다 보면 언젠가……
+86,TEXT_JOBDRK600_02064_SIDURGU_000_111,리엘……?
+87,TEXT_JOBDRK600_02064_RIELLE_000_112,"도망치다 보면 언젠가……
 꿈이 깨듯이 다 끝날 줄 알았어요."
-88,"TEXT_JOBDRK600_02064_RIELLE_000_113","하지만 그런 날 지키기 위해
-시두르구와 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EAB080FF04EC9DB4</13> 입은 상처가,
+88,TEXT_JOBDRK600_02064_RIELLE_000_113,"하지만 그런 날 지키기 위해
+시두르구와 Player Player 입은 상처가,
 내게 앞으로 나아가라고 재촉하는 아픔이라면……."
-89,"TEXT_JOBDRK600_02064_RIELLE_000_114","나도 그 아픔을 받아들일게요.
+89,TEXT_JOBDRK600_02064_RIELLE_000_114,"나도 그 아픔을 받아들일게요.
 아프고, 슬퍼도…… 포기하지 않겠다고 약속했으니까요."
-90,"TEXT_JOBDRK600_02064_RIELLE_000_115","시두르구…….
+90,TEXT_JOBDRK600_02064_RIELLE_000_115,"시두르구…….
 나에게 힘을 빌려주세요."
-91,"TEXT_JOBDRK600_02064_RIELLE_000_116","콜리뇽의 딸은 당신과 함께 죽을 겁니다.
+91,TEXT_JOBDRK600_02064_RIELLE_000_116,"콜리뇽의 딸은 당신과 함께 죽을 겁니다.
 하지만 나는 살아갈 거예요…… 엄마!"
-92,"TEXT_JOBDRK600_02064_SIDURGU_000_117","……눈물은 멈춘 모양이군.
+92,TEXT_JOBDRK600_02064_SIDURGU_000_117,"……눈물은 멈춘 모양이군.
 그래도 아직………… 아프겠지."
-93,"TEXT_JOBDRK600_02064_RIELLE_000_118","네, 너무 아파요…….
+93,TEXT_JOBDRK600_02064_RIELLE_000_118,"네, 너무 아파요…….
 하지만…… 아프니까 살아있는 거죠…….
 이젠 콜리뇽의 딸이 아니지만…… 앞으로도……."
-94,"TEXT_JOBDRK600_02064_RIELLE_000_119","시두르구…… 그리고 <Highlight>ObjectParameter(1)</Highlight>……
+94,TEXT_JOBDRK600_02064_RIELLE_000_119,"시두르구…… 그리고 Player Player……
 끝까지 지켜줘서 고마워요."
-95,"TEXT_JOBDRK600_02064_SIDURGU_000_120","그래.
+95,TEXT_JOBDRK600_02064_SIDURGU_000_120,"그래.
 ……돌아가자."
-96,"TEXT_JOBDRK600_02064_RIELLE_000_130","이제 리엘 드 콜리뇽이란 이름이 불리는 일은 없을 거예요.
+96,TEXT_JOBDRK600_02064_RIELLE_000_130,"이제 리엘 드 콜리뇽이란 이름이 불리는 일은 없을 거예요.
 그래도 난 이렇게 살아있어요.
 ……지켜줘서 고마워요."
-97,"TEXT_JOBDRK600_02064_SIDURGU_000_140","<Highlight>ObjectParameter(1)</Highlight>, 탈 없이 도착해서 다행이군.
+97,TEXT_JOBDRK600_02064_SIDURGU_000_140,"Player Player, 탈 없이 도착해서 다행이군.
 ……이렇게 확인하는 것도 이제 마지막인가."
-98,"TEXT_JOBDRK600_02064_SIDURGU_000_141","우리는 끝까지 지켜냈다.
+98,TEXT_JOBDRK600_02064_SIDURGU_000_141,"우리는 끝까지 지켜냈다.
 물론 그 과정에서 많은 상처를 입고 업보를 지게 됐지만……
 그렇기에 더욱 강해질 수 있었어."
-99,"TEXT_JOBDRK600_02064_SIDURGU_000_142","내 가슴을 가득 채운, 분노보다 고요하고 흔들림 없는 이 마음.
+99,TEXT_JOBDRK600_02064_SIDURGU_000_142,"내 가슴을 가득 채운, 분노보다 고요하고 흔들림 없는 이 마음.
 이 마음이 우리가 추구해온 극의라고 한다면……
 '암흑기사'는 결코 좌절하지 않을 것이다."
-100,"TEXT_JOBDRK600_02064_RIELLE_000_143","두 사람은……
+100,TEXT_JOBDRK600_02064_RIELLE_000_143,"두 사람은……
 앞으로도 '암흑기사'로서 싸울 건가 보네요."
-101,"TEXT_JOBDRK600_02064_SIDURGU_000_144","물론이지.
+101,TEXT_JOBDRK600_02064_SIDURGU_000_144,"물론이지.
 ……왜, 불만이냐?"
-102,"TEXT_JOBDRK600_02064_RIELLE_000_145","'암흑기사'는 자신의 몸을 방패로 삼잖아요…….
+102,TEXT_JOBDRK600_02064_RIELLE_000_145,"'암흑기사'는 자신의 몸을 방패로 삼잖아요…….
 소중한 사람들이 다치는 건 싫어요……."
-103,"TEXT_JOBDRK600_02064_RIELLE_000_146","하지만…… 상처를 입으면서도 나아가는 모습은
+103,TEXT_JOBDRK600_02064_RIELLE_000_146,"하지만…… 상처를 입으면서도 나아가는 모습은
 나 같은 처지의 누군가에게 용기를 주겠죠……."
-104,"TEXT_JOBDRK600_02064_RIELLE_000_147","그런 두 사람의 등이 이 세상에서 제일 멋있다는 거……
+104,TEXT_JOBDRK600_02064_RIELLE_000_147,"그런 두 사람의 등이 이 세상에서 제일 멋있다는 거……
 죽을 때까지 잊지 않을 거예요."
-105,"TEXT_JOBDRK600_02064_SIDURGU_000_148","……마음대로 떠들어라."
-106,"TEXT_JOBDRK600_02064_SIDURGU_000_149","그건 그렇다 치고……
-<Highlight>ObjectParameter(1)</Highlight>, 넌 앞으로 어쩔 거냐?"
-107,"TEXT_JOBDRK600_02064_SIDURGU_000_150","난 당분간 리엘과 함께 여기 있을 생각이다.
+105,TEXT_JOBDRK600_02064_SIDURGU_000_148,……마음대로 떠들어라.
+106,TEXT_JOBDRK600_02064_SIDURGU_000_149,"그건 그렇다 치고……
+Player Player, 넌 앞으로 어쩔 거냐?"
+107,TEXT_JOBDRK600_02064_SIDURGU_000_150,"난 당분간 리엘과 함께 여기 있을 생각이다.
 이제 추격자 걱정은 안 해도 되겠지만
 혹시 모르니 정교 측 동향을 감시하려고……."
-108,"TEXT_JOBDRK600_02064_SIDURGU_000_151","게다가 이슈가르드는 지금 혼란스러운 시기다.
+108,TEXT_JOBDRK600_02064_SIDURGU_000_151,"게다가 이슈가르드는 지금 혼란스러운 시기다.
 '암흑기사'의 도움이 필요한 '누군가의 목소리'가
 언제 어디서 들릴지 몰라."
-109,"TEXT_JOBDRK600_02064_SIDURGU_000_152","하지만 우리가 각자 지켜야 할 사람이
+109,TEXT_JOBDRK600_02064_SIDURGU_000_152,"하지만 우리가 각자 지켜야 할 사람이
 꼭 같으리라는 법도 없지.
 넌…… 누구를 위한 방패가 될 거냐?"
-110,"TEXT_JOBDRK600_02064_Q1_000_153","누구를 위한 방패가 되겠습니까?"
-111,"TEXT_JOBDRK600_02064_A1_000_154","사랑하는 동료들을 위해"
-112,"TEXT_JOBDRK600_02064_A1_000_155","에오르제아를 위해"
-113,"TEXT_JOBDRK600_02064_A1_000_156","이번에야말로 자기 자신을 위해"
-114,"TEXT_JOBDRK600_02064_SIDURGU_000_160","……그렇군.
+110,TEXT_JOBDRK600_02064_Q1_000_153,누구를 위한 방패가 되겠습니까?
+111,TEXT_JOBDRK600_02064_A1_000_154,사랑하는 동료들을 위해
+112,TEXT_JOBDRK600_02064_A1_000_155,에오르제아를 위해
+113,TEXT_JOBDRK600_02064_A1_000_156,이번에야말로 자기 자신을 위해
+114,TEXT_JOBDRK600_02064_SIDURGU_000_160,"……그렇군.
 너라면 그 어떤 강적이 나타나더라도
 동료들을 반드시 지켜낼 수 있겠지."
-115,"TEXT_JOBDRK600_02064_SIDURGU_000_165","…………흐음.
+115,TEXT_JOBDRK600_02064_SIDURGU_000_165,"…………흐음.
 순간 네 '암흑'의 힘이 강해진 것처럼 보였는데……
 착각인가?"
-116,"TEXT_JOBDRK600_02064_SIDURGU_000_166","뭐, 아무튼 너라면 진정으로 자신을 위한 길이 무엇인지
+116,TEXT_JOBDRK600_02064_SIDURGU_000_166,"뭐, 아무튼 너라면 진정으로 자신을 위한 길이 무엇인지
 올바른 선택을 할 수 있겠지.
 누군가를 지킨다는 것 또한 그 연장선에 있는 건지도 모르겠어."
-117,"TEXT_JOBDRK600_02064_SIDURGU_000_170","……'암흑기사'의 길은 가시밭길이라고 누군가가 말했다."
-118,"TEXT_JOBDRK600_02064_SIDURGU_000_171","그래도 지나온 길을 돌이켜보면……
+117,TEXT_JOBDRK600_02064_SIDURGU_000_170,……'암흑기사'의 길은 가시밭길이라고 누군가가 말했다.
+118,TEXT_JOBDRK600_02064_SIDURGU_000_171,"그래도 지나온 길을 돌이켜보면……
 우린 결코 혼자가 아니었어."
-119,"TEXT_JOBDRK600_02064_SIDURGU_000_172","<Highlight>ObjectParameter(1)</Highlight>, 믿음을 가지고 나아가라.
+119,TEXT_JOBDRK600_02064_SIDURGU_000_172,"Player Player, 믿음을 가지고 나아가라.
 ……나도 그렇게 할 테니까."
-120,"TEXT_JOBDRK600_02064_SYSTEM_000_500","'암흑기사'의 이야기가 일단락되었습니다!
+120,TEXT_JOBDRK600_02064_SYSTEM_000_500,"'암흑기사'의 이야기가 일단락되었습니다!
 다음 '암흑기사'의 잡 퀘스트를 시작하기 위해서는
 다음 조건을 충족시켜야 합니다."
-121,"TEXT_JOBDRK600_02064_SYSTEM_000_501","'주요 퀘스트: 용시전쟁 전후편' 중 '숙명의 끝'을 완료할 것."
-122,"TEXT_JOBDRK600_02064_SYSTEM_000_502","조건을 충족시킨 후 잊힌 기사 주점의
+121,TEXT_JOBDRK600_02064_SYSTEM_000_501,'주요 퀘스트: 용시전쟁 전후편' 중 '숙명의 끝'을 완료할 것.
+122,TEXT_JOBDRK600_02064_SYSTEM_000_502,"조건을 충족시킨 후 잊힌 기사 주점의
 '시두르구'에게 말을 걸어
 새로운 잡 퀘스트를 시작해보세요!"
-123,"TEXT_JOBDRK600_02064_QIB_001_TODO_1","리엘을 지켜내라!"
-124,"TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_00","큭……! <Highlight>ObjectParameter(1)</Highlight>, 부탁한다……!
+123,TEXT_JOBDRK600_02064_QIB_001_TODO_1,리엘을 지켜내라!
+124,TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_00,"큭……! Player Player, 부탁한다……!
 리엘을…… 지켜다오……!"
-125,"TEXT_JOBDRK600_02064_RIELLE_BATTLETALK_00","아, 안 돼…… 난………… 살아서…………."
-126,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_01","자, 시작이다!
+125,TEXT_JOBDRK600_02064_RIELLE_BATTLETALK_00,"아, 안 돼…… 난………… 살아서…………."
+126,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_01,"자, 시작이다!
 저 계집의 목을 쳐라!"
-127,"TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_01","예상은 했지만, 수적으로 밀리는군……."
-128,"TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_02","<Highlight>ObjectParameter(1)</Highlight>, 무슨 일이 있어도 리엘을 지켜내라!
+127,TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_01,"예상은 했지만, 수적으로 밀리는군……."
+128,TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_02,"Player Player, 무슨 일이 있어도 리엘을 지켜내라!
 ……죽지 마!"
-129,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_02","과연, 지금까지 추격자를 유유히 물리쳐왔을 법하군.
+129,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_02,"과연, 지금까지 추격자를 유유히 물리쳐왔을 법하군.
 하지만 이번엔 어떨까…… 2분대, 가랏!"
-130,"TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_03","지원군인가……
+130,TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_03,"지원군인가……
 다 덤벼라, 모조리 해치워 주겠다!"
-131,"TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_04","반드시 지켜주겠다고 약속했다…….
+131,TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_04,"반드시 지켜주겠다고 약속했다…….
 그러니 우리는 절대로 지지 않아!"
-132,"TEXT_JOBDRK600_02064_RIELLE_BATTLETALK_01","시두르구, <Highlight>ObjectParameter(1)</Highlight>……!
+132,TEXT_JOBDRK600_02064_RIELLE_BATTLETALK_01,"시두르구, Player Player……!
 내 몸에 잠든 힘이여…… 두 사람에게 치유를!"
-133,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_03","에잇…… 3분대 나와라!
+133,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_03,"에잇…… 3분대 나와라!
 이번에야말로 저 계집의 비리한 목을 쳐라!"
-134,"TEXT_JOBDRK600_02064_RIELLE_BATTLETALK_02","엄마, 난 죽기 싫어요…… 살고 싶어요!"
-135,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_04","지금 내게 허락을 구하는 거냐?
+134,TEXT_JOBDRK600_02064_RIELLE_BATTLETALK_02,"엄마, 난 죽기 싫어요…… 살고 싶어요!"
+135,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_04,"지금 내게 허락을 구하는 거냐?
 그럼 죽어라! 이 나약하고 어리석은 계집!"
-136,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_05","어두운 감옥에서 울며 매달리는 것조차 포기했던 네가
+136,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_05,"어두운 감옥에서 울며 매달리는 것조차 포기했던 네가
 무슨 수로 살아남겠다는 거냐!"
-137,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_06","너는 고통의 상징! 부정의 상징이다!
+137,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_06,"너는 고통의 상징! 부정의 상징이다!
 가두어도 사라지지 않는다면 내 손으로 없애는 수밖에!"
-138,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_07","네 이놈, 네 이노옴……!
+138,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_07,"네 이놈, 네 이노옴……!
 전원 돌격! 이 더러운 놈들을 말살하라!"
-139,"TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_05","네 뜻대로 되진 않을 것이다!
+139,TEXT_JOBDRK600_02064_SIDURGU_BATTLETALK_05,"네 뜻대로 되진 않을 것이다!
 피를 바치고 살을 깎는 고통에도…… 우린 물러서지 않아!"
-140,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_08","결판을 내자꾸나, 리엘!
+140,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_08,"결판을 내자꾸나, 리엘!
 내 심장을 태우는 과거의 불씨여……!"
-141,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_09","나를 속인 네 아버지를 용서할 수 없다!
+141,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_09,"나를 속인 네 아버지를 용서할 수 없다!
 그 피를 물려받은 너 또한 용서할 수 없어!"
-142,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_10","그리고 그 기만의 나날을 향유한 나 자신도……
+142,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_10,"그리고 그 기만의 나날을 향유한 나 자신도……
 아아, 심장이 타는구나!"
-143,"TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_11","널 죽이고 과거를 묻어버리겠어!
+143,TEXT_JOBDRK600_02064_YSTRIDE_BATTLETALK_11,"널 죽이고 과거를 묻어버리겠어!
 죽어! 죽어! 죽어라아아아아앗!"
-144,"TEXT_JOBDRK600_02064_READER_BATTLETALK_01","（★未使用／削除予定★）"
-145,"TEXT_JOBDRK600_02064_RIELLE_BATTLETALK_03","（★未使用／削除予定★）"
+144,TEXT_JOBDRK600_02064_READER_BATTLETALK_01,（★未使用／削除予定★）
+145,TEXT_JOBDRK600_02064_RIELLE_BATTLETALK_03,（★未使用／削除予定★）

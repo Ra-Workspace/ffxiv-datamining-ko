@@ -1,294 +1,289 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CHRHDY301_04771_SEQ_00","<UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow>특수 규칙:  직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_CHRHDY301_04771_SEQ_00,"**특수 규칙:  직업 고정**
 알키미야 제약당에 있는 게롤트는 어쩐지 나른한 듯하다."
-1,"TEXT_CHRHDY301_04771_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201F6</UIForeground><UIGlow>F201F7</UIGlow> 직업 고정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 적용됩니다.
+1,TEXT_CHRHDY301_04771_SEQ_01,"※ 이 퀘스트에는 ** 직업 고정**이 적용됩니다.
    퀘스트 수락 시의 직업으로만 퀘스트를 진행할 수 있습니다.
 
-게롤트와 대화하다가 고드베르트를 불러와 맨더빌 웨폰을 개량하는 작업을 하게 되었다. 하지만 게롤트는 일할 의욕이 없다고 한다. 아무래도 게롤트는 고드베르트에게 마음의 응어리가 있는 것 같아 술을 마시며 진심을 터놓고 얘기하기로 했다. 라자한의 메리드의 주막에 있는 '<Sheet(EObj,2013384,0)/>'에서 대기하자."
-2,"TEXT_CHRHDY301_04771_SEQ_02","다 같이 술을 마시며 마음을 터놓은 결과, 게롤트의 응어리는 해소된 듯하다. 모험가는 맨더빌 웨폰의 개량에 필요한 재료를 모으기로 했다. '<Sheet(Item,40322,0)/>' 3개를 모아서 '맨더빌 웨폰'을 소지품에 보유한 상태로 알키미야 제약당에 있는 '게롤트'에게 전달하자. 
+게롤트와 대화하다가 고드베르트를 불러와 맨더빌 웨폰을 개량하는 작업을 하게 되었다. 하지만 게롤트는 일할 의욕이 없다고 한다. 아무래도 게롤트는 고드베르트에게 마음의 응어리가 있는 것 같아 술을 마시며 진심을 터놓고 얘기하기로 했다. 라자한의 메리드의 주막에 있는 ''에서 대기하자."
+2,TEXT_CHRHDY301_04771_SEQ_02,"다 같이 술을 마시며 마음을 터놓은 결과, 게롤트의 응어리는 해소된 듯하다. 모험가는 맨더빌 웨폰의 개량에 필요한 재료를 모으기로 했다. '' 3개를 모아서 '맨더빌 웨폰'을 소지품에 보유한 상태로 알키미야 제약당에 있는 '게롤트'에게 전달하자. 
 
-'<Sheet(Item,40322,0)/>'<13>FF0F02280BFF054974656DF29D820103FF04EB8A94FF04EC9D80</13> 에테라이트 광장에 있는 '주브룬나'를 통해 교환할 수 있습니다."
-3,"TEXT_CHRHDY301_04771_SEQ_03","게롤트에게 <Sheet(Item,40322,0)/><13>FF0F02280BFF054974656DF29D820103FF04EBA5BCFF04EC9D84</13> 전달하고, 맨더빌 웨폰을 개량했다. 하지만 맨더빌 웨폰의 완성까지는 한 단계 더 남아 있다고 한다. 마지막 공정의 준비가 다 될 때까지 개량한 무기의 사용감을 확인해두자."
-4,"TEXT_CHRHDY301_04771_SEQ_04",""
-5,"TEXT_CHRHDY301_04771_SEQ_05",""
-6,"TEXT_CHRHDY301_04771_SEQ_06",""
-7,"TEXT_CHRHDY301_04771_SEQ_07",""
-8,"TEXT_CHRHDY301_04771_SEQ_08",""
-9,"TEXT_CHRHDY301_04771_SEQ_09",""
-10,"TEXT_CHRHDY301_04771_SEQ_10",""
-11,"TEXT_CHRHDY301_04771_SEQ_11",""
-12,"TEXT_CHRHDY301_04771_SEQ_12",""
-13,"TEXT_CHRHDY301_04771_SEQ_13",""
-14,"TEXT_CHRHDY301_04771_SEQ_14",""
-15,"TEXT_CHRHDY301_04771_SEQ_15",""
-16,"TEXT_CHRHDY301_04771_SEQ_16",""
-17,"TEXT_CHRHDY301_04771_SEQ_17",""
-18,"TEXT_CHRHDY301_04771_SEQ_18",""
-19,"TEXT_CHRHDY301_04771_SEQ_19",""
-20,"TEXT_CHRHDY301_04771_SEQ_20",""
-21,"TEXT_CHRHDY301_04771_SEQ_21",""
-22,"TEXT_CHRHDY301_04771_SEQ_22",""
-23,"TEXT_CHRHDY301_04771_SEQ_23",""
-24,"TEXT_CHRHDY301_04771_TODO_00","<Sheet(EObj,2013384,0)/>에서 대기"
-25,"TEXT_CHRHDY301_04771_TODO_01","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><Sheet(Item,40322,0)/><13>FF0F02280BFF054974656DF29D820103FF04EBA5BCFF04EC9D84</13> 획득<Else/><If(Equal(IntegerParameter(4),19))><Sheet(Item,39144,0)/><13>FF0F02280BFF054974656DF298E80103FF04EC9980FF04EAB3BC</13>
-<Sheet(Item,39163,0)/><13>FF0F02280BFF054974656DF298FB0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),20))><Sheet(Item,39145,0)/><13>FF0F02280BFF054974656DF298E90103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),21))><Sheet(Item,39146,0)/><13>FF0F02280BFF054974656DF298EA0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),22))><Sheet(Item,39147,0)/><13>FF0F02280BFF054974656DF298EB0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),23))><Sheet(Item,39148,0)/><13>FF0F02280BFF054974656DF298EC0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),24))><Sheet(Item,39152,0)/><13>FF0F02280BFF054974656DF298F00103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),25))><Sheet(Item,39153,0)/><13>FF0F02280BFF054974656DF298F10103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),27))><Sheet(Item,39154,0)/><13>FF0F02280BFF054974656DF298F20103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),28))><Sheet(Item,39155,0)/><13>FF0F02280BFF054974656DF298F30103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),30))><Sheet(Item,39149,0)/><13>FF0F02280BFF054974656DF298ED0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),31))><Sheet(Item,39151,0)/><13>FF0F02280BFF054974656DF298EF0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),32))><Sheet(Item,39150,0)/><13>FF0F02280BFF054974656DF298EE0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),33))><Sheet(Item,39156,0)/><13>FF0F02280BFF054974656DF298F40103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),34))><Sheet(Item,39157,0)/><13>FF0F02280BFF054974656DF298F50103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),35))><Sheet(Item,39158,0)/><13>FF0F02280BFF054974656DF298F60103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),37))><Sheet(Item,39159,0)/><13>FF0F02280BFF054974656DF298F70103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),38))><Sheet(Item,39160,0)/><13>FF0F02280BFF054974656DF298F80103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),39))><Sheet(Item,39162,0)/><13>FF0F02280BFF054974656DF298FA0103FF04EBA5BCFF04EC9D84</13><Else/><If(Equal(IntegerParameter(4),40))><Sheet(Item,39161,0)/><13>FF0F02280BFF054974656DF298F90103FF04EBA5BCFF04EC9D84</13><Else/></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If></If> 장비에서 해제하고
-소지품에 보유한 상태로
-게롤트에게 <Sheet(Item,40322,0)/> 전달</If>"
-26,"TEXT_CHRHDY301_04771_TODO_02",""
-27,"TEXT_CHRHDY301_04771_TODO_03",""
-28,"TEXT_CHRHDY301_04771_TODO_04",""
-29,"TEXT_CHRHDY301_04771_TODO_05",""
-30,"TEXT_CHRHDY301_04771_TODO_06",""
-31,"TEXT_CHRHDY301_04771_TODO_07",""
-32,"TEXT_CHRHDY301_04771_TODO_08",""
-33,"TEXT_CHRHDY301_04771_TODO_09",""
-34,"TEXT_CHRHDY301_04771_TODO_10",""
-35,"TEXT_CHRHDY301_04771_TODO_11",""
-36,"TEXT_CHRHDY301_04771_TODO_12",""
-37,"TEXT_CHRHDY301_04771_TODO_13",""
-38,"TEXT_CHRHDY301_04771_TODO_14",""
-39,"TEXT_CHRHDY301_04771_TODO_15",""
-40,"TEXT_CHRHDY301_04771_TODO_16",""
-41,"TEXT_CHRHDY301_04771_TODO_17",""
-42,"TEXT_CHRHDY301_04771_TODO_18",""
-43,"TEXT_CHRHDY301_04771_TODO_19",""
-44,"TEXT_CHRHDY301_04771_TODO_20",""
-45,"TEXT_CHRHDY301_04771_TODO_21",""
-46,"TEXT_CHRHDY301_04771_TODO_22",""
-47,"TEXT_CHRHDY301_04771_TODO_23",""
-48,"TEXT_CHRHDY301_04771_SYSTEM_000_000","퀘스트 '장인의 술자리'에서 획득할 수 있는 무기는
-현재 직업인 '<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If>' 전용 맨더빌 웨폰입니다."
-49,"TEXT_CHRHDY301_04771_SYSTEM_000_001","'장인의 술자리'를
-<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If><14>FF3B020837E3E94509FF1202280EFF09436C6173734A6F62E9450103FF1E02081AE1E94513FF1202280EFF09436C6173734A6F62E9450103FF010303FF04EBA19CFF07EC9CBCEBA19C</14> 수락하시겠습니까?"
-50,"TEXT_CHRHDY301_04771_Q4_000_001","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 맨더빌 웨폰을 만드시겠습니까?"
-51,"TEXT_CHRHDY301_04771_A4_000_002","조금 더 생각한다"
-52,"TEXT_CHRHDY301_04771_A4_000_003","<If(LessThan(PlayerParameter(68),8))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/><If(GreaterThan(PlayerParameter(68),18))><Sheet(ClassJob,PlayerParameter(68),0)/><Else/></If></If> 전용 맨더빌 웨폰 만들기"
-53,"TEXT_CHRHDY301_04771_SYSTEM_000_005","퀘스트 '장인의 술자리'를 수락하면
+'' 에테라이트 광장에 있는 '주브룬나'를 통해 교환할 수 있습니다."
+3,TEXT_CHRHDY301_04771_SEQ_03,"게롤트에게  전달하고, 맨더빌 웨폰을 개량했다. 하지만 맨더빌 웨폰의 완성까지는 한 단계 더 남아 있다고 한다. 마지막 공정의 준비가 다 될 때까지 개량한 무기의 사용감을 확인해두자."
+4,TEXT_CHRHDY301_04771_SEQ_04,
+5,TEXT_CHRHDY301_04771_SEQ_05,
+6,TEXT_CHRHDY301_04771_SEQ_06,
+7,TEXT_CHRHDY301_04771_SEQ_07,
+8,TEXT_CHRHDY301_04771_SEQ_08,
+9,TEXT_CHRHDY301_04771_SEQ_09,
+10,TEXT_CHRHDY301_04771_SEQ_10,
+11,TEXT_CHRHDY301_04771_SEQ_11,
+12,TEXT_CHRHDY301_04771_SEQ_12,
+13,TEXT_CHRHDY301_04771_SEQ_13,
+14,TEXT_CHRHDY301_04771_SEQ_14,
+15,TEXT_CHRHDY301_04771_SEQ_15,
+16,TEXT_CHRHDY301_04771_SEQ_16,
+17,TEXT_CHRHDY301_04771_SEQ_17,
+18,TEXT_CHRHDY301_04771_SEQ_18,
+19,TEXT_CHRHDY301_04771_SEQ_19,
+20,TEXT_CHRHDY301_04771_SEQ_20,
+21,TEXT_CHRHDY301_04771_SEQ_21,
+22,TEXT_CHRHDY301_04771_SEQ_22,
+23,TEXT_CHRHDY301_04771_SEQ_23,
+24,TEXT_CHRHDY301_04771_TODO_00,에서 대기
+25,TEXT_CHRHDY301_04771_TODO_01, 획득
+26,TEXT_CHRHDY301_04771_TODO_02,
+27,TEXT_CHRHDY301_04771_TODO_03,
+28,TEXT_CHRHDY301_04771_TODO_04,
+29,TEXT_CHRHDY301_04771_TODO_05,
+30,TEXT_CHRHDY301_04771_TODO_06,
+31,TEXT_CHRHDY301_04771_TODO_07,
+32,TEXT_CHRHDY301_04771_TODO_08,
+33,TEXT_CHRHDY301_04771_TODO_09,
+34,TEXT_CHRHDY301_04771_TODO_10,
+35,TEXT_CHRHDY301_04771_TODO_11,
+36,TEXT_CHRHDY301_04771_TODO_12,
+37,TEXT_CHRHDY301_04771_TODO_13,
+38,TEXT_CHRHDY301_04771_TODO_14,
+39,TEXT_CHRHDY301_04771_TODO_15,
+40,TEXT_CHRHDY301_04771_TODO_16,
+41,TEXT_CHRHDY301_04771_TODO_17,
+42,TEXT_CHRHDY301_04771_TODO_18,
+43,TEXT_CHRHDY301_04771_TODO_19,
+44,TEXT_CHRHDY301_04771_TODO_20,
+45,TEXT_CHRHDY301_04771_TODO_21,
+46,TEXT_CHRHDY301_04771_TODO_22,
+47,TEXT_CHRHDY301_04771_TODO_23,
+48,TEXT_CHRHDY301_04771_SYSTEM_000_000,"퀘스트 '장인의 술자리'에서 획득할 수 있는 무기는
+현재 직업인 '' 전용 맨더빌 웨폰입니다."
+49,TEXT_CHRHDY301_04771_SYSTEM_000_001,"'장인의 술자리'를
+ 수락하시겠습니까?"
+50,TEXT_CHRHDY301_04771_Q4_000_001, 전용 맨더빌 웨폰을 만드시겠습니까?
+51,TEXT_CHRHDY301_04771_A4_000_002,조금 더 생각한다
+52,TEXT_CHRHDY301_04771_A4_000_003, 전용 맨더빌 웨폰 만들기
+53,TEXT_CHRHDY301_04771_SYSTEM_000_005,"퀘스트 '장인의 술자리'를 수락하면
 퀘스트를 완료하거나 포기할 때까지
 다른 직업으로 '장인의 술자리'를 수락할 수 없습니다."
-54,"TEXT_CHRHDY301_04771_SYSTEM_000_006","맨더빌 웨폰을 만들고 싶은 직업으로 변경한 후
+54,TEXT_CHRHDY301_04771_SYSTEM_000_006,"맨더빌 웨폰을 만들고 싶은 직업으로 변경한 후
 다시 게롤트에게 말을 거십시오."
-55,"TEXT_CHRHDY301_04771_SYSTEM_000_007","'<Sheet(Item,IntegerParameter(1),0)/>' 및
-'<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
+55,TEXT_CHRHDY301_04771_SYSTEM_000_007,"'' 및
+'' 소지하거나 장비하지 않으면
 '장인의 술자리'를 수락할 수 없습니다."
-56,"TEXT_CHRHDY301_04771_SYSTEM_000_008","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> 소지하거나 장비하지 않으면
+56,TEXT_CHRHDY301_04771_SYSTEM_000_008,"'' 소지하거나 장비하지 않으면
 '장인의 술자리'를 수락할 수 없습니다."
-57,"TEXT_CHRHDY301_04771_GEROLT_000_010","흥, 너냐……"
-58,"TEXT_CHRHDY301_04771_GEROLT_000_011","그러고 보니 고드베르트 영감탱이가
+57,TEXT_CHRHDY301_04771_GEROLT_000_010,"흥, 너냐……"
+58,TEXT_CHRHDY301_04771_GEROLT_000_011,"그러고 보니 고드베르트 영감탱이가
 맨더빌 웨폰을 개량하고 싶다던데……."
-59,"TEXT_CHRHDY301_04771_CRAFTER04653_000_012","당장 당주님을 불러오겠습니다……."
-60,"TEXT_CHRHDY301_04771_GODBERT_000_013","헛허, <Highlight>ObjectParameter(1)</Highlight> 님,
+59,TEXT_CHRHDY301_04771_CRAFTER04653_000_012,당장 당주님을 불러오겠습니다…….
+60,TEXT_CHRHDY301_04771_GODBERT_000_013,"헛허, Player Player 님,
 또 힘을 빌려주시겠다고요, 정말로 감사합니다!"
-61,"TEXT_CHRHDY301_04771_GODBERT_000_014","예로부터 저희 가문에 전해 내려오는 수수께끼 유물을 통해
+61,TEXT_CHRHDY301_04771_GODBERT_000_014,"예로부터 저희 가문에 전해 내려오는 수수께끼 유물을 통해
 맨더빌 웨폰의 개량법을 알아냈습니다."
-62,"TEXT_CHRHDY301_04771_GODBERT_000_015","제작법의 기록을 고문서에서 유물로 변경한 건
+62,TEXT_CHRHDY301_04771_GODBERT_000_015,"제작법의 기록을 고문서에서 유물로 변경한 건
 지식의 악용을 막기 위해 기밀성을 높이기 위한 전략…….
 우리가 제작하고 있는 건 그만큼 강력하다는 뜻이겠지요."
-63,"TEXT_CHRHDY301_04771_GODBERT_000_016","그나저나 이번 개량에서는 성능을 한층 더 높이기 위해
+63,TEXT_CHRHDY301_04771_GODBERT_000_016,"그나저나 이번 개량에서는 성능을 한층 더 높이기 위해
 디자인을 싹 다 뒤집어엎겠습니다."
-64,"TEXT_CHRHDY301_04771_GODBERT_000_017","보아하니 제 선조인 고드브랜드는 사용자를 생각해서
+64,TEXT_CHRHDY301_04771_GODBERT_000_017,"보아하니 제 선조인 고드브랜드는 사용자를 생각해서
 무기의 능력을 조정할 수 있도록 만든 것 같더군요."
-65,"TEXT_CHRHDY301_04771_GODBERT_000_018","표면에 바르는 새로운 기름……
+65,TEXT_CHRHDY301_04771_GODBERT_000_018,"표면에 바르는 새로운 기름……
 이름하여 '맥시맨더빌 기름'의 조합을 바꾸면
 에테르 전도율을 변화시킬 수 있다고 합니다."
-66,"TEXT_CHRHDY301_04771_GEROLT_000_019","쳇, 또 기름이냐고……."
-67,"TEXT_CHRHDY301_04771_GODBERT_000_020","맥시맨더빌 기름의 주성분은
-이번에도 운석인 '<Sheet(Item,40322,0)/>'입니다."
-68,"TEXT_CHRHDY301_04771_GODBERT_000_021","맨더빌 웨폰이 외계인의 기술로 만들어진 것을 알게 된 지금,
+66,TEXT_CHRHDY301_04771_GEROLT_000_019,"쳇, 또 기름이냐고……."
+67,TEXT_CHRHDY301_04771_GODBERT_000_020,"맥시맨더빌 기름의 주성분은
+이번에도 운석인 ''입니다."
+68,TEXT_CHRHDY301_04771_GODBERT_000_021,"맨더빌 웨폰이 외계인의 기술로 만들어진 것을 알게 된 지금,
 운석이라는 별 밖의 재료가 필요한 게 이해가 되는군요."
-69,"TEXT_CHRHDY301_04771_GEROLT_000_022","외, 외계인이라고?
+69,TEXT_CHRHDY301_04771_GEROLT_000_022,"외, 외계인이라고?
 어쩐지 알 수 없는 기술이더라니……."
-70,"TEXT_CHRHDY301_04771_GODBERT_000_023","늘 그랬듯이 다른 재료는 제가 준비하겠습니다만,
-<Sheet(Item,40322,0)/> 만큼은 당신에게 부탁드리고 싶군요."
-71,"TEXT_CHRHDY301_04771_GEROLT_000_024","핫, 편리하기도 하구만.
+70,TEXT_CHRHDY301_04771_GODBERT_000_023,"늘 그랬듯이 다른 재료는 제가 준비하겠습니다만,
+ 만큼은 당신에게 부탁드리고 싶군요."
+71,TEXT_CHRHDY301_04771_GEROLT_000_024,"핫, 편리하기도 하구만.
 당신 정도의 자금이 있으면 그런 건 얼마든지 구할 수 있는 거 아냐?"
-72,"TEXT_CHRHDY301_04771_GODBERT_000_025","그러고 싶은 마음은 굴뚝 같습니다만……
+72,TEXT_CHRHDY301_04771_GODBERT_000_025,"그러고 싶은 마음은 굴뚝 같습니다만……
 수가 얼마 되지 않는 희소 운석을 거래하려면
 대가로 반드시 석판이 필요하거든요."
-73,"TEXT_CHRHDY301_04771_GODBERT_000_026","또다시 당신의 손을 빌리게 되어 죄송하지만,
+73,TEXT_CHRHDY301_04771_GODBERT_000_026,"또다시 당신의 손을 빌리게 되어 죄송하지만,
 부디 협력을 부탁드립니다."
-74,"TEXT_CHRHDY301_04771_GODBERT_000_027","그리고 이번 개량은 무기를 거의 다시 만드는 수준이니까
+74,TEXT_CHRHDY301_04771_GODBERT_000_027,"그리고 이번 개량은 무기를 거의 다시 만드는 수준이니까
 게롤트 님은 한층 더 힘을 내 주셨으면 합니다."
-75,"TEXT_CHRHDY301_04771_GEROLT_000_028","그래, 그래, 하면 되잖아, 하면……."
-76,"TEXT_CHRHDY301_04771_GODBERT_000_029","흠, 아까부터 게롤트 님에게서
+75,TEXT_CHRHDY301_04771_GEROLT_000_028,"그래, 그래, 하면 되잖아, 하면……."
+76,TEXT_CHRHDY301_04771_GODBERT_000_029,"흠, 아까부터 게롤트 님에게서
 도저히 의욕이 느껴지질 않는군요."
-77,"TEXT_CHRHDY301_04771_GEROLT_000_030","흠, 들켰군……."
-78,"TEXT_CHRHDY301_04771_GEROLT_000_031","사실 지금까지 받은 월급으로 술집 외상값을 싹 다 갚았거든.
+77,TEXT_CHRHDY301_04771_GEROLT_000_030,"흠, 들켰군……."
+78,TEXT_CHRHDY301_04771_GEROLT_000_031,"사실 지금까지 받은 월급으로 술집 외상값을 싹 다 갚았거든.
 원래 돈 때문에 하겠다고 한 일이라서……
 솔직히 더 이상 당신이랑 일할 의욕이 생기지 않는다고."
-79,"TEXT_CHRHDY301_04771_GODBERT_000_032","흠…….
+79,TEXT_CHRHDY301_04771_GODBERT_000_032,"흠…….
 당신은 처음부터 저를 안 좋게 보시는 것 같았습니다."
-80,"TEXT_CHRHDY301_04771_GODBERT_000_033","마음속에 그런 응어리를 갖고 있으면
+80,TEXT_CHRHDY301_04771_GODBERT_000_033,"마음속에 그런 응어리를 갖고 있으면
 무기 강화에도 지장이 생길 것 같군요……."
-81,"TEXT_CHRHDY301_04771_GODBERT_000_034","이번 기회에 술이라도 한잔하면서 속마음을 털어놓아 봅시다!
+81,TEXT_CHRHDY301_04771_GODBERT_000_034,"이번 기회에 술이라도 한잔하면서 속마음을 털어놓아 봅시다!
 물론 제가 사겠습니다!"
-82,"TEXT_CHRHDY301_04771_GEROLT_000_035","그래, 공짜 술이라면 얼마든지 마셔주지!"
-83,"TEXT_CHRHDY301_04771_GODBERT_000_036","좋은 기회니까 <Highlight>ObjectParameter(1)</Highlight> 님도
+82,TEXT_CHRHDY301_04771_GEROLT_000_035,"그래, 공짜 술이라면 얼마든지 마셔주지!"
+83,TEXT_CHRHDY301_04771_GODBERT_000_036,"좋은 기회니까 Player Player 님도
 함께 하시죠.
 메리드의 주막에서 기다려 주십시오."
-84,"TEXT_CHRHDY301_04771_GEROLT_000_040","헤헤헤, 공짜 술을 먹게 될 줄이야.
+84,TEXT_CHRHDY301_04771_GEROLT_000_040,"헤헤헤, 공짜 술을 먹게 될 줄이야.
 좋았어! 코가 삐뚤어지게 마셔줄 테다!"
-85,"TEXT_CHRHDY301_04771_GODBERT_000_200","헛헛허!
+85,TEXT_CHRHDY301_04771_GODBERT_000_200,"헛헛허!
 오늘 밤은 거하게 마셔봅시다!"
-86,"TEXT_CHRHDY301_04771_GEROLT_000_201","헤헤헤, 당신이 쏜다고 했지?
+86,TEXT_CHRHDY301_04771_GEROLT_000_201,"헤헤헤, 당신이 쏜다고 했지?
 난 이런 건 사양하지 않는다고……
 최고급 라자한 증류주를 마셔주겠어!"
-87,"TEXT_CHRHDY301_04771_GODBERT_000_202","<Highlight>ObjectParameter(1)</Highlight> 님은
+87,TEXT_CHRHDY301_04771_GODBERT_000_202,"Player Player 님은
 술을 좀 드실 수 있으십니까?"
-88,"TEXT_CHRHDY301_04771_Q1_000_000","뭐라고 말씀하시겠습니까?"
-89,"TEXT_CHRHDY301_04771_A1_000_001","물론!"
-90,"TEXT_CHRHDY301_04771_A1_000_002","적당히 분위기만 맞추는 정도…… "
-91,"TEXT_CHRHDY301_04771_A1_000_003","술은 마시지 않는다"
-92,"TEXT_CHRHDY301_04771_GODBERT_000_203","알겠습니다.
+88,TEXT_CHRHDY301_04771_Q1_000_000,뭐라고 말씀하시겠습니까?
+89,TEXT_CHRHDY301_04771_A1_000_001,물론!
+90,TEXT_CHRHDY301_04771_A1_000_002,적당히 분위기만 맞추는 정도…… 
+91,TEXT_CHRHDY301_04771_A1_000_003,술은 마시지 않는다
+92,TEXT_CHRHDY301_04771_GODBERT_000_203,"알겠습니다.
 그럼 같은 증류주를 주문하겠습니다."
-93,"TEXT_CHRHDY301_04771_GODBERT_000_204","알겠습니다.
+93,TEXT_CHRHDY301_04771_GODBERT_000_204,"알겠습니다.
 당신에게는 무알코올 음료를 주문해 드리지요."
-94,"TEXT_CHRHDY301_04771_MIHLEEL_000_205","오래 기다리셨습니다!
+94,TEXT_CHRHDY301_04771_MIHLEEL_000_205,"오래 기다리셨습니다!
 주문하신 음료 나왔습니다!"
-95,"TEXT_CHRHDY301_04771_GODBERT_000_206","그럼, 건배……!"
-96,"TEXT_CHRHDY301_04771_GEROLT_000_207","자, 한마디 하겠는데……
+95,TEXT_CHRHDY301_04771_GODBERT_000_206,"그럼, 건배……!"
+96,TEXT_CHRHDY301_04771_GEROLT_000_207,"자, 한마디 하겠는데……
 난 말이지, 아주 예전부터 당신이 마음에 안 들었다고."
-97,"TEXT_CHRHDY301_04771_GODBERT_000_208","호오……
+97,TEXT_CHRHDY301_04771_GODBERT_000_208,"호오……
 대체 이유가 뭐지요?"
-98,"TEXT_CHRHDY301_04771_GEROLT_000_209","잘 들어, 장인은 말이야.
+98,TEXT_CHRHDY301_04771_GEROLT_000_209,"잘 들어, 장인은 말이야.
 순수하게 제작에만 몰두하는 게 무엇보다도 중요하다고."
-99,"TEXT_CHRHDY301_04771_GEROLT_000_210","그런데 당신은 말이야,
+99,TEXT_CHRHDY301_04771_GEROLT_000_210,"그런데 당신은 말이야,
 상회를 열질 않나, 대중을 위한 오락시설을 만들질 않나……
 대놓고 상업적이잖아!"
-100,"TEXT_CHRHDY301_04771_GODBERT_000_211","알겠습니다, 제가 불순하다는 말을 하고 싶으신 거군요?
+100,TEXT_CHRHDY301_04771_GODBERT_000_211,"알겠습니다, 제가 불순하다는 말을 하고 싶으신 거군요?
 하지만 제작에 전념하려면 돈이 필요하지 않습니까?
 경제적 여유가 제작의 폭을 넓혀준다고 생각하실 순 없겠습니까?"
-101,"TEXT_CHRHDY301_04771_GODBERT_000_212","사실 저는 사업으로 얻은 자금 덕분에
+101,TEXT_CHRHDY301_04771_GODBERT_000_212,"사실 저는 사업으로 얻은 자금 덕분에
 제가 좋아하는 보석공예에 몰두할 수가 있습니다."
-102,"TEXT_CHRHDY301_04771_GODBERT_000_213","듣기로는, 게롤트 님은 본인의 의지와는 무관하게
+102,TEXT_CHRHDY301_04771_GODBERT_000_213,"듣기로는, 게롤트 님은 본인의 의지와는 무관하게
 생활비와 채무 변제를 위해서 주전자를 만드신다고 하더군요.
 충분한 자금이 있다면 그런 사소한 일에서 해방되지 않을까요?"
-103,"TEXT_CHRHDY301_04771_GEROLT_000_214","어이! 여기 술, 술 좀 더 갖고 와!"
-104,"TEXT_CHRHDY301_04771_GEROLT_000_215","내가 참을 수 없었던 건
+103,TEXT_CHRHDY301_04771_GEROLT_000_214,"어이! 여기 술, 술 좀 더 갖고 와!"
+104,TEXT_CHRHDY301_04771_GEROLT_000_215,"내가 참을 수 없었던 건
 당신이 모래전갈회의 일원이 되었다는 사실이야…… 딸꾹.
 정치에 매인 몸으로 어떻게 좋은 물건을 만들겠냐고!"
-105,"TEXT_CHRHDY301_04771_GODBERT_000_216","외람된 말씀이지만, 저는 울다하의 의정에 관여하면서
+105,TEXT_CHRHDY301_04771_GODBERT_000_216,"외람된 말씀이지만, 저는 울다하의 의정에 관여하면서
 시야가 넓어져 제작에 큰 영감을 얻었습니다."
-106,"TEXT_CHRHDY301_04771_GEROLT_000_217","영…… 영감…… 뭐?
+106,TEXT_CHRHDY301_04771_GEROLT_000_217,"영…… 영감…… 뭐?
 아무튼 말야 난 권력자라는 놈들이 제일 싫어!
 ……딸꾹."
-107,"TEXT_CHRHDY301_04771_GEROLT_000_218","젠장~! 이 말 하면 저 말 하고!
+107,TEXT_CHRHDY301_04771_GEROLT_000_218,"젠장~! 이 말 하면 저 말 하고!
 뭐 한마디를 지는 법이 없어!"
-108,"TEXT_CHRHDY301_04771_GEROLT_000_219","당신처럼 뭐든 다 갖고 있는 사람이
+108,TEXT_CHRHDY301_04771_GEROLT_000_219,"당신처럼 뭐든 다 갖고 있는 사람이
 내 기분을 어떻게 알겠어……
 이 홀딱 벗고 다니는 영감탱이야~!"
-109,"TEXT_CHRHDY301_04771_GODBERT_000_220","헛헛허, 알몸을 사랑하는 마음은 피차일반 아니겠습니까.
+109,TEXT_CHRHDY301_04771_GODBERT_000_220,"헛헛허, 알몸을 사랑하는 마음은 피차일반 아니겠습니까.
 그런 점에서 우리는 동지라고 할 수 있겠군요!"
-110,"TEXT_CHRHDY301_04771_GEROLT_000_221","알~ 게따고오~
+110,TEXT_CHRHDY301_04771_GEROLT_000_221,"알~ 게따고오~
 당신은 엄청난 장인이라고오~"
-111,"TEXT_CHRHDY301_04771_GEROLT_000_222","그에 비해 나는~
+111,TEXT_CHRHDY301_04771_GEROLT_000_222,"그에 비해 나는~
 욱욱욱……."
-112,"TEXT_CHRHDY301_04771_GEROLT_000_223","뭐야, 로웨나잖아……?
+112,TEXT_CHRHDY301_04771_GEROLT_000_223,"뭐야, 로웨나잖아……?
 언제부터 있었어?"
-113,"TEXT_CHRHDY301_04771_GEROLT_000_224","뭐, 됐고……
+113,TEXT_CHRHDY301_04771_GEROLT_000_224,"뭐, 됐고……
 어쨌든 내가 이런 글러 먹은 장인이어서 미안해~"
-114,"TEXT_CHRHDY301_04771_GODBERT_000_225","흠, 다른 사람으로 착각하고 있는 것 같은데……
+114,TEXT_CHRHDY301_04771_GODBERT_000_225,"흠, 다른 사람으로 착각하고 있는 것 같은데……
 상황이 이러니 당신이 대답을 해 드리면 어떨까요?"
-115,"TEXT_CHRHDY301_04771_Q2_000_000","뭐라고 말씀하시겠습니까?"
-116,"TEXT_CHRHDY301_04771_A2_000_001","게롤트는 훌륭한 장인이야"
-117,"TEXT_CHRHDY301_04771_A2_000_002","당신은 정말 글러 먹은 대머리야!"
-118,"TEXT_CHRHDY301_04771_GEROLT_000_226","다, 당신이 그런 말을 해주다니……
+115,TEXT_CHRHDY301_04771_Q2_000_000,뭐라고 말씀하시겠습니까?
+116,TEXT_CHRHDY301_04771_A2_000_001,게롤트는 훌륭한 장인이야
+117,TEXT_CHRHDY301_04771_A2_000_002,당신은 정말 글러 먹은 대머리야!
+118,TEXT_CHRHDY301_04771_GEROLT_000_226,"다, 당신이 그런 말을 해주다니……
 고마워어~"
-119,"TEXT_CHRHDY301_04771_GEROLT_000_227","그치, 그렇게 날 험하게 다뤄야 당신이지……
+119,TEXT_CHRHDY301_04771_GEROLT_000_227,"그치, 그렇게 날 험하게 다뤄야 당신이지……
 고마워어~"
-120,"TEXT_CHRHDY301_04771_GEROLT_000_228","좋아~ 의욕이 생겼어~
+120,TEXT_CHRHDY301_04771_GEROLT_000_228,"좋아~ 의욕이 생겼어~
 돈이 목적이 아냐~, 내 장인 정신을 위해서 강화해주게써~"
-121,"TEXT_CHRHDY301_04771_GODBERT_000_229","마음의 응어리가 좀 풀린 것 같지요?
+121,TEXT_CHRHDY301_04771_GODBERT_000_229,"마음의 응어리가 좀 풀린 것 같지요?
 당근 주스로 저렇게까지 취할 줄은 몰랐지만요……"
-122,"TEXT_CHRHDY301_04771_GODBERT_000_230","실은 게롤트 님의 건강을 생각해서
+122,TEXT_CHRHDY301_04771_GODBERT_000_230,"실은 게롤트 님의 건강을 생각해서
 중간에 술잔의 내용물을 바꿨습니다.
 술 때문에 몸이 망가지면 아무 소용이 없으니까요."
-123,"TEXT_CHRHDY301_04771_GODBERT_000_231","생각해보니…… 저도 게롤트 님처럼
+123,TEXT_CHRHDY301_04771_GODBERT_000_231,"생각해보니…… 저도 게롤트 님처럼
 순수하게 제작에만 몰두하던 때가 있었습니다."
-124,"TEXT_CHRHDY301_04771_GODBERT_000_232","하지만 사업을 시작하니 책임질 일이 많아 그럴 수 없게 됐죠.
+124,TEXT_CHRHDY301_04771_GODBERT_000_232,"하지만 사업을 시작하니 책임질 일이 많아 그럴 수 없게 됐죠.
 장인으로서 순수하게 작품만을 생각하는 게롤트 님은
 어떤 의미로는 제 동경의 대상입니다."
-125,"TEXT_CHRHDY301_04771_GODBERT_000_233","그럼 번거로우시겠지만,
-<Sheet(Item,40322,0)/> 3개를 구해와주십시오."
-126,"TEXT_CHRHDY301_04771_SYSTEM_000_240","'<Sheet(Item,40322,0)/>'<13>FF0F02280BFF054974656DF29D820103FF04EB8A94FF04EC9D80</13>
+125,TEXT_CHRHDY301_04771_GODBERT_000_233,"그럼 번거로우시겠지만,
+ 3개를 구해와주십시오."
+126,TEXT_CHRHDY301_04771_SYSTEM_000_240,"''
 에테라이트 광장에 있는 '주브룬나'를 통해
 교환할 수 있습니다."
-127,"TEXT_CHRHDY301_04771_GEROLT_000_241","으으, 너무 많이 마셨어…….
-그런데 '<Sheet(Item,40322,0)/>'<13>FF0F02280BFF054974656DF29D820103FF04EB8A94FF04EC9D80</13> 가져왔어?
+127,TEXT_CHRHDY301_04771_GEROLT_000_241,"으으, 너무 많이 마셨어…….
+그런데 '' 가져왔어?
 아직 다 못 모았으면 다 모아서 갖고 와."
-128,"TEXT_CHRHDY301_04771_SYSTEM_000_242","'<Sheet(Item,40322,0)/>'<13>FF0F02280BFF054974656DF29D820103FF04EB8A94FF04EC9D80</13>
+128,TEXT_CHRHDY301_04771_SYSTEM_000_242,"''
 에테라이트 광장에 있는 '주브룬나'를 통해
 교환할 수 있습니다."
-129,"TEXT_CHRHDY301_04771_GEROLT_000_250","재료는 다 모아서 갖고 온 것 같으니……
+129,TEXT_CHRHDY301_04771_GEROLT_000_250,"재료는 다 모아서 갖고 온 것 같으니……
 먼저 '맨더빌 웨폰'을 장비에서 해제해."
-130,"TEXT_CHRHDY301_04771_GEROLT_000_251","술은 진작에 다 깼어.
-'<Sheet(Item,40322,0)/>'<13>FF0F02280BFF054974656DF29D820103FF04EBA5BCFF04EC9D84</13> 모아 왔으면 이리 줘."
-131,"TEXT_CHRHDY301_04771_GEROLT_000_252","좋아, 준비는 다 됐어.
+130,TEXT_CHRHDY301_04771_GEROLT_000_251,"술은 진작에 다 깼어.
+'' 모아 왔으면 이리 줘."
+131,TEXT_CHRHDY301_04771_GEROLT_000_252,"좋아, 준비는 다 됐어.
 그런데 술자리에서 있었던 일이 잘 기억나지 않는데,
 왠지 로웨나도 거기에 있었던 것 같은……"
-132,"TEXT_CHRHDY301_04771_GEROLT_000_253","뭐, 됐어! 내 장인 정신이 사그라지기 전에
+132,TEXT_CHRHDY301_04771_GEROLT_000_253,"뭐, 됐어! 내 장인 정신이 사그라지기 전에
 영감탱이도 불러서 개량을 시작해 보자고!"
-133,"TEXT_CHRHDY301_04771_GODBERT_000_254","지금부터 마무리로 맥시맨더빌 기름을 바르겠습니다.
+133,TEXT_CHRHDY301_04771_GODBERT_000_254,"지금부터 마무리로 맥시맨더빌 기름을 바르겠습니다.
 기름의 조합에 따라 무기 능력을 조정할 수 있으니
 사용자인 당신의 취향을 말씀해 주십시오."
-134,"TEXT_CHRHDY301_04771_GODBERT_000_255","어떤 능력을 희망하시는지,
+134,TEXT_CHRHDY301_04771_GODBERT_000_255,"어떤 능력을 희망하시는지,
 잘 생각해서 결정하시기 바랍니다……."
-135,"TEXT_CHRHDY301_04771_Q3_000_000","무엇을 하시겠습니까?"
-136,"TEXT_CHRHDY301_04771_A3_000_001","'맨더빌 웨폰'의 능력치 조정하기"
-137,"TEXT_CHRHDY301_04771_A3_000_002","설명 듣기"
-138,"TEXT_CHRHDY301_04771_A3_000_003","취소"
-139,"TEXT_CHRHDY301_04771_SYSTEM_000_260","개량한 맨더빌 웨폰에
+135,TEXT_CHRHDY301_04771_Q3_000_000,무엇을 하시겠습니까?
+136,TEXT_CHRHDY301_04771_A3_000_001,'맨더빌 웨폰'의 능력치 조정하기
+137,TEXT_CHRHDY301_04771_A3_000_002,설명 듣기
+138,TEXT_CHRHDY301_04771_A3_000_003,취소
+139,TEXT_CHRHDY301_04771_SYSTEM_000_260,"개량한 맨더빌 웨폰에
 3종류의 능력치를 선택해서 부여할 수 있습니다.
 그중 하나는 부여할 수 있는 수치가 낮아집니다."
-140,"TEXT_CHRHDY301_04771_SYSTEM_000_261","능력치를 고르고 나서
+140,TEXT_CHRHDY301_04771_SYSTEM_000_261,"능력치를 고르고 나서
 '부여'를 선택하면
 해당 능력치가 부여됩니다."
-141,"TEXT_CHRHDY301_04771_SYSTEM_000_262","재조정을 할 경우에도
-'<Sheet(Item,40322,0)/>'<13>FF0F02280BFF054974656DF29D820103FF04EAB080FF04EC9DB4</13> 필요하므로
+141,TEXT_CHRHDY301_04771_SYSTEM_000_262,"재조정을 할 경우에도
+'' 필요하므로
 신중하게 능력치를 조정하세요."
-142,"TEXT_CHRHDY301_04771_GODBERT_000_270","알겠습니다!
+142,TEXT_CHRHDY301_04771_GODBERT_000_270,"알겠습니다!
 그럼 마무리 작업을 하겠습니다……!!"
-143,"TEXT_CHRHDY301_04771_GODBERT_000_280","완성했습니다, <Highlight>ObjectParameter(1)</Highlight> 님!"
-144,"TEXT_CHRHDY301_04771_GEROLT_000_281","그것이 바로 우리 장인 정신의 결정체
+143,TEXT_CHRHDY301_04771_GODBERT_000_280,"완성했습니다, Player Player 님!"
+144,TEXT_CHRHDY301_04771_GEROLT_000_281,"그것이 바로 우리 장인 정신의 결정체
 맨더빌 웨폰의 새로운 단계……"
-145,"TEXT_CHRHDY301_04771_GEROLT_000_282","'<Sheet(Item,IntegerParameter(1),0)/>',
-그리고 '<Sheet(Item,IntegerParameter(2),0)/>'<13>FF0E02280AFF054974656DE8030103FF04EB8BA4FF07EC9DB4EB8BA4</13>!"
-146,"TEXT_CHRHDY301_04771_GEROLT_000_283","'<Sheet(Item,IntegerParameter(1),0)/>'<13>FF0E02280AFF054974656DE8020103FF04EB8BA4FF07EC9DB4EB8BA4</13>!"
-147,"TEXT_CHRHDY301_04771_GODBERT_000_284","멋지게 개량에 성공하셨군요!
+145,TEXT_CHRHDY301_04771_GEROLT_000_282,"'',
+그리고 ''!"
+146,TEXT_CHRHDY301_04771_GEROLT_000_283,''!
+147,TEXT_CHRHDY301_04771_GODBERT_000_284,"멋지게 개량에 성공하셨군요!
 게롤트 님과 술자리에서 마음을 터놓은 보람이 있습니다……!"
-148,"TEXT_CHRHDY301_04771_GEROLT_000_285","그게 말이야, 사실 거의 기억이 안 나는데……
+148,TEXT_CHRHDY301_04771_GEROLT_000_285,"그게 말이야, 사실 거의 기억이 안 나는데……
 의욕이 생긴 건 확실하니까 뭐 그런 걸로 치자."
-149,"TEXT_CHRHDY301_04771_GODBERT_000_286","혹시 다른 맨더빌 웨폰도 갖고 계시고
+149,TEXT_CHRHDY301_04771_GODBERT_000_286,"혹시 다른 맨더빌 웨폰도 갖고 계시고
 이번에 개량한 무기와는 다른 종류를 개량하고 싶은 경우에는
 다시 '맨더빌 가 장인'에게 말을 걸어 주십시오."
-150,"TEXT_CHRHDY301_04771_CRAFTER04653_000_287","고드베르트 님, 몹시 죄송한 말씀이지만……
+150,TEXT_CHRHDY301_04771_CRAFTER04653_000_287,"고드베르트 님, 몹시 죄송한 말씀이지만……
 마무리에 사용하는 맥시맨더빌 기름의 추출은 난이도가 높아서
 제 미숙한 실력으로는 감당하기 어렵습니다."
-151,"TEXT_CHRHDY301_04771_GEROLT_000_288","나도 연금술은 전문 분야가 아니라서 말이야……
+151,TEXT_CHRHDY301_04771_GEROLT_000_288,"나도 연금술은 전문 분야가 아니라서 말이야……
 그건 도움을 못 주겠는걸."
-152,"TEXT_CHRHDY301_04771_GODBERT_000_289","헛허, 그것까지 이미 다 계산해서
+152,TEXT_CHRHDY301_04771_GODBERT_000_289,"헛허, 그것까지 이미 다 계산해서
 전임 연금술사를 준비해 놓았습니다."
-153,"TEXT_CHRHDY301_04771_GEROLT_000_290","뭐, 홀딱 벗지는 않아서 다행이긴 한데……
+153,TEXT_CHRHDY301_04771_GEROLT_000_290,"뭐, 홀딱 벗지는 않아서 다행이긴 한데……
 무슨 취향인지는 잘 모르겠군."
-154,"TEXT_CHRHDY301_04771_GODBERT_000_291","다른 종류의 무기를 개량할 때는 이쪽 맨더빌 가 연금술사가
+154,TEXT_CHRHDY301_04771_GODBERT_000_291,"다른 종류의 무기를 개량할 때는 이쪽 맨더빌 가 연금술사가
 맥시맨더빌 기름을 추출해 드릴 테니 걱정 마십시오."
-155,"TEXT_CHRHDY301_04771_GODBERT_000_292","또한 무기 능력치를 재조정하고 싶은 경우에는
-'<Sheet(Item,40322,0)/>'<13>FF0F02280BFF054974656DF29D820103FF04EBA5BCFF04EC9D84</13> 준비한 뒤에
+155,TEXT_CHRHDY301_04771_GODBERT_000_292,"또한 무기 능력치를 재조정하고 싶은 경우에는
+'' 준비한 뒤에
 맨더빌 가 연금술사에게 말을 거시면 대응해 드릴 겁니다."
-156,"TEXT_CHRHDY301_04771_GODBERT_000_293","자, 이제 개량은 성공했습니다만,
+156,TEXT_CHRHDY301_04771_GODBERT_000_293,"자, 이제 개량은 성공했습니다만,
 사실은 맨더빌 웨폰의 완성까지 한 단계가 더 남아 있습니다."
-157,"TEXT_CHRHDY301_04771_GEROLT_000_294","참나, 내가 이럴 줄 알았다고.
+157,TEXT_CHRHDY301_04771_GEROLT_000_294,"참나, 내가 이럴 줄 알았다고.
 어차피 좀 더 기다리라고 할 거지?"
-158,"TEXT_CHRHDY301_04771_GODBERT_000_295","맞습니다!
+158,TEXT_CHRHDY301_04771_GODBERT_000_295,"맞습니다!
 아직 마지막 공정이 준비되지 않아서
 시간이 잠시 필요합니다."
-159,"TEXT_CHRHDY301_04771_GODBERT_000_296","저는 빨리 가서 준비해야 하니
+159,TEXT_CHRHDY301_04771_GODBERT_000_296,"저는 빨리 가서 준비해야 하니
 이쯤에서 실례하겠습니다."
-160,"TEXT_CHRHDY301_04771_SYSTEM_000_300","앞으로 알키미야 제약당에 있는 '맨더빌 가 연금술사'를 통해
+160,TEXT_CHRHDY301_04771_SYSTEM_000_300,"앞으로 알키미야 제약당에 있는 '맨더빌 가 연금술사'를 통해
 개량한 맨더빌 웨폰의 능력을
 재조정할 수 있게 되었습니다."
-161,"TEXT_CHRHDY301_04771_SYSTEM_000_301","'<Sheet(Item,40322,0)/>'<13>FF0F02280BFF054974656DF29D820103FF04EBA5BCFF04EC9D84</13> 모아서
+161,TEXT_CHRHDY301_04771_SYSTEM_000_301,"'' 모아서
 재조정하고 싶은 맨더빌 웨폰을 장비하고
 맨더빌 가 연금술사에게 말을 걸어 주세요."

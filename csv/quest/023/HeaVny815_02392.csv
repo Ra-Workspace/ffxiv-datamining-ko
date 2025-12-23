@@ -1,97 +1,95 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_HEAVNY815_02392_SEQ_00","정 많은 모험가는 부탁하고 싶은 일이 있는 듯하다."
-1,"TEXT_HEAVNY815_02392_SEQ_01","정 많은 모험가에게 의뢰를 받았다. 자세한 내용을 듣기 위해 이딜샤이어 '로웨나 종합문화회관' 근처에 있는 '쿠로 알리아포'와 대화하자."
-2,"TEXT_HEAVNY815_02392_SEQ_02","쿠로 알리아포와 대화했다. 그녀는 친구에게 들려줄 이야기를 짓기 위해 모험담을 모으고 있다고 한다. 지금까지 겪은 모험을 떠올리며, 그녀에게 받은 '쿠로의 공상 수첩'에 적어보자."
-3,"TEXT_HEAVNY815_02392_SEQ_03",""
-4,"TEXT_HEAVNY815_02392_SEQ_04",""
-5,"TEXT_HEAVNY815_02392_SEQ_05",""
-6,"TEXT_HEAVNY815_02392_SEQ_06",""
-7,"TEXT_HEAVNY815_02392_SEQ_07",""
-8,"TEXT_HEAVNY815_02392_SEQ_08",""
-9,"TEXT_HEAVNY815_02392_SEQ_09",""
-10,"TEXT_HEAVNY815_02392_SEQ_10",""
-11,"TEXT_HEAVNY815_02392_SEQ_11",""
-12,"TEXT_HEAVNY815_02392_SEQ_12",""
-13,"TEXT_HEAVNY815_02392_SEQ_13",""
-14,"TEXT_HEAVNY815_02392_SEQ_14",""
-15,"TEXT_HEAVNY815_02392_SEQ_15",""
-16,"TEXT_HEAVNY815_02392_SEQ_16",""
-17,"TEXT_HEAVNY815_02392_SEQ_17",""
-18,"TEXT_HEAVNY815_02392_SEQ_18",""
-19,"TEXT_HEAVNY815_02392_SEQ_19",""
-20,"TEXT_HEAVNY815_02392_SEQ_20",""
-21,"TEXT_HEAVNY815_02392_SEQ_21",""
-22,"TEXT_HEAVNY815_02392_SEQ_22",""
-23,"TEXT_HEAVNY815_02392_SEQ_23",""
-24,"TEXT_HEAVNY815_02392_TODO_00","쿠로 알리아포와 대화"
-25,"TEXT_HEAVNY815_02392_TODO_01",""
-26,"TEXT_HEAVNY815_02392_TODO_02",""
-27,"TEXT_HEAVNY815_02392_TODO_03",""
-28,"TEXT_HEAVNY815_02392_TODO_04",""
-29,"TEXT_HEAVNY815_02392_TODO_05",""
-30,"TEXT_HEAVNY815_02392_TODO_06",""
-31,"TEXT_HEAVNY815_02392_TODO_07",""
-32,"TEXT_HEAVNY815_02392_TODO_08",""
-33,"TEXT_HEAVNY815_02392_TODO_09",""
-34,"TEXT_HEAVNY815_02392_TODO_10",""
-35,"TEXT_HEAVNY815_02392_TODO_11",""
-36,"TEXT_HEAVNY815_02392_TODO_12",""
-37,"TEXT_HEAVNY815_02392_TODO_13",""
-38,"TEXT_HEAVNY815_02392_TODO_14",""
-39,"TEXT_HEAVNY815_02392_TODO_15",""
-40,"TEXT_HEAVNY815_02392_TODO_16",""
-41,"TEXT_HEAVNY815_02392_TODO_17",""
-42,"TEXT_HEAVNY815_02392_TODO_18",""
-43,"TEXT_HEAVNY815_02392_TODO_19",""
-44,"TEXT_HEAVNY815_02392_TODO_20",""
-45,"TEXT_HEAVNY815_02392_TODO_21",""
-46,"TEXT_HEAVNY815_02392_TODO_22",""
-47,"TEXT_HEAVNY815_02392_TODO_23",""
-48,"TEXT_HEAVNY815_02392_ADVENTURER02392_000_000","……자네, <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04ECA780FF07EC9DB4ECA780</13>?
+#,Unknown0,Unknown1
+0,TEXT_HEAVNY815_02392_SEQ_00,정 많은 모험가는 부탁하고 싶은 일이 있는 듯하다.
+1,TEXT_HEAVNY815_02392_SEQ_01,정 많은 모험가에게 의뢰를 받았다. 자세한 내용을 듣기 위해 이딜샤이어 '로웨나 종합문화회관' 근처에 있는 '쿠로 알리아포'와 대화하자.
+2,TEXT_HEAVNY815_02392_SEQ_02,"쿠로 알리아포와 대화했다. 그녀는 친구에게 들려줄 이야기를 짓기 위해 모험담을 모으고 있다고 한다. 지금까지 겪은 모험을 떠올리며, 그녀에게 받은 '쿠로의 공상 수첩'에 적어보자."
+3,TEXT_HEAVNY815_02392_SEQ_03,
+4,TEXT_HEAVNY815_02392_SEQ_04,
+5,TEXT_HEAVNY815_02392_SEQ_05,
+6,TEXT_HEAVNY815_02392_SEQ_06,
+7,TEXT_HEAVNY815_02392_SEQ_07,
+8,TEXT_HEAVNY815_02392_SEQ_08,
+9,TEXT_HEAVNY815_02392_SEQ_09,
+10,TEXT_HEAVNY815_02392_SEQ_10,
+11,TEXT_HEAVNY815_02392_SEQ_11,
+12,TEXT_HEAVNY815_02392_SEQ_12,
+13,TEXT_HEAVNY815_02392_SEQ_13,
+14,TEXT_HEAVNY815_02392_SEQ_14,
+15,TEXT_HEAVNY815_02392_SEQ_15,
+16,TEXT_HEAVNY815_02392_SEQ_16,
+17,TEXT_HEAVNY815_02392_SEQ_17,
+18,TEXT_HEAVNY815_02392_SEQ_18,
+19,TEXT_HEAVNY815_02392_SEQ_19,
+20,TEXT_HEAVNY815_02392_SEQ_20,
+21,TEXT_HEAVNY815_02392_SEQ_21,
+22,TEXT_HEAVNY815_02392_SEQ_22,
+23,TEXT_HEAVNY815_02392_SEQ_23,
+24,TEXT_HEAVNY815_02392_TODO_00,쿠로 알리아포와 대화
+25,TEXT_HEAVNY815_02392_TODO_01,
+26,TEXT_HEAVNY815_02392_TODO_02,
+27,TEXT_HEAVNY815_02392_TODO_03,
+28,TEXT_HEAVNY815_02392_TODO_04,
+29,TEXT_HEAVNY815_02392_TODO_05,
+30,TEXT_HEAVNY815_02392_TODO_06,
+31,TEXT_HEAVNY815_02392_TODO_07,
+32,TEXT_HEAVNY815_02392_TODO_08,
+33,TEXT_HEAVNY815_02392_TODO_09,
+34,TEXT_HEAVNY815_02392_TODO_10,
+35,TEXT_HEAVNY815_02392_TODO_11,
+36,TEXT_HEAVNY815_02392_TODO_12,
+37,TEXT_HEAVNY815_02392_TODO_13,
+38,TEXT_HEAVNY815_02392_TODO_14,
+39,TEXT_HEAVNY815_02392_TODO_15,
+40,TEXT_HEAVNY815_02392_TODO_16,
+41,TEXT_HEAVNY815_02392_TODO_17,
+42,TEXT_HEAVNY815_02392_TODO_18,
+43,TEXT_HEAVNY815_02392_TODO_19,
+44,TEXT_HEAVNY815_02392_TODO_20,
+45,TEXT_HEAVNY815_02392_TODO_21,
+46,TEXT_HEAVNY815_02392_TODO_22,
+47,TEXT_HEAVNY815_02392_TODO_23,
+48,TEXT_HEAVNY815_02392_ADVENTURER02392_000_000,"……자네, Player Player?
 소문으로만 듣던 영웅과 만나다니, 운이 좋군!"
-49,"TEXT_HEAVNY815_02392_ADVENTURER02392_000_001","난 지금 어떤 일을 도와줄 만한 모험가를 찾는 중이야.
+49,TEXT_HEAVNY815_02392_ADVENTURER02392_000_001,"난 지금 어떤 일을 도와줄 만한 모험가를 찾는 중이야.
 실력 없는 놈에겐 부탁할 수 없는 일이라,
 자네라면 안심하고 부탁할 수 있겠어."
-50,"TEXT_HEAVNY815_02392_ADVENTURER02392_000_002","자네에게도 손해 보는 이야기는 아닐 거야.
+50,TEXT_HEAVNY815_02392_ADVENTURER02392_000_002,"자네에게도 손해 보는 이야기는 아닐 거야.
 자세한 내용은 '로웨나 종합문화회관' 근처에 있는
 우리 쿠로……가 아니라 '쿠로 알리아포'에게 듣도록 해."
-51,"TEXT_HEAVNY815_02392_ADVENTURER02392_000_003","……자네만 한 모험가라면 그럴 일은 없겠지만,
+51,TEXT_HEAVNY815_02392_ADVENTURER02392_000_003,"……자네만 한 모험가라면 그럴 일은 없겠지만,
 결코! 그 애를 울리지는 말아줘.
 그럼 부탁할게."
-52,"TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_010","야호~, <If(PlayerParameter(4))>언니<Else/>오빠</If>!
+52,TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_010,"야호~, 언니!
 우리 가게엔 무슨 일이야?"
-53,"TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_011","와아, 내 부탁을 들어주는 거야!?
+53,TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_011,"와아, 내 부탁을 들어주는 거야!?
 응, 그러니까, 내가 부탁하려는 일은
 다양한 모험 이야기를 모으는 거야!"
-54,"TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_012","친구 중에 아빠랑 엄마가 돌아오지 않아서
+54,TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_012,"친구 중에 아빠랑 엄마가 돌아오지 않아서
 쭈욱~ 외롭게 지내는 아이가 있거든…….
 그래서 난 소설을 써서 그 애한테 들려주곤 해!"
-55,"TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_013","그 애는 내가 지어낸 이야기를 좋아하지만,
+55,TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_013,"그 애는 내가 지어낸 이야기를 좋아하지만,
 난 더 많~이 좋아해줬으면 좋겠거든!
 하지만 요즘 들어 약간 '신선함'이 떨어진 것 같아……."
-56,"TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_014","그래서 생각했어!
+56,TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_014,"그래서 생각했어!
 모험가 언니 오빠들이 겪은 이야기를 많~이 모아서
 조각조각 이으면 새로운 소설을 쓸 수 있지 않을까!?"
-57,"TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_015","난 로웨나 아줌마 심부름도 하고 있어서
+57,TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_015,"난 로웨나 아줌마 심부름도 하고 있어서
 모험가 언니 오빠들이 좋아하는 상품도 줄 수 있어!
 '석판'이란 이상한 돌멩이라든가, 다른 것도 많아!"
-58,"TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_016","그러니까 지금까지 겪은 모험을 떠올려서
+58,TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_016,"그러니까 지금까지 겪은 모험을 떠올려서
 이 '쿠로의 공상 수첩'에 이야기를 잔~뜩 써줄래?"
-59,"TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_017","그걸 잘 이어서 재미있는 소설이 완성되면
+59,TEXT_HEAVNY815_02392_KHLOEALIAPOF_000_017,"그걸 잘 이어서 재미있는 소설이 완성되면
 상품을 많~이 줄게!
-잘 부탁해, <Highlight>ObjectParameter(1)</Highlight> <If(PlayerParameter(4))>언니<Else/>오빠</If>!"
-60,"TEXT_HEAVNY815_02392_SYSTEM_000_020","'쿠로의 공상 수첩'이 개방되었습니다!"
-61,"TEXT_HEAVNY815_02392_SYSTEM_000_021","공상 수첩에는 16가지 임무가 지정되어 있으며,
+잘 부탁해, Player Player 언니!"
+60,TEXT_HEAVNY815_02392_SYSTEM_000_020,'쿠로의 공상 수첩'이 개방되었습니다!
+61,TEXT_HEAVNY815_02392_SYSTEM_000_021,"공상 수첩에는 16가지 임무가 지정되어 있으며,
 그중에서 원하는 임무를 완료하면
 4×4 크기의 총 16개 칸 중 최대 9칸에 스티커를 붙일 수 있습니다."
-62,"TEXT_HEAVNY815_02392_SYSTEM_000_022","'스티커 9장 붙이기', '스티커 한 줄 채우기' 등,
+62,TEXT_HEAVNY815_02392_SYSTEM_000_022,"'스티커 9장 붙이기', '스티커 한 줄 채우기' 등,
 특정 조건을 충족하고 '쿠로 알리아포'에게
 공상 수첩을 건네면 보상을 받을 수 있습니다."
-63,"TEXT_HEAVNY815_02392_SYSTEM_000_023","스티커 부착 현황과 보상 획득 기한 등은
+63,TEXT_HEAVNY815_02392_SYSTEM_000_023,"스티커 부착 현황과 보상 획득 기한 등은
 임무용 아이템에 있는 '쿠로의 공상 수첩'을 통해
 언제든지 확인할 수 있습니다."
-64,"TEXT_HEAVNY815_02392_SYSTEM_000_024","공상 수첩은 일주일에 한 번 받을 수 있습니다.
-새로운 공상 수첩을 얻고자 할 때는 (현실 시간) 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일
-<If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시 이후 '쿠로 알리아포'에게 말을 걸어보세요."
+64,TEXT_HEAVNY815_02392_SYSTEM_000_024,"공상 수첩은 일주일에 한 번 받을 수 있습니다.
+새로운 공상 수첩을 얻고자 할 때는 (현실 시간) 매주 화요일
+오후 5시 이후 '쿠로 알리아포'에게 말을 걸어보세요."

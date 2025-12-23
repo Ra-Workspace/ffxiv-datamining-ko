@@ -1,65 +1,63 @@
-﻿key,0,1,2,3
-#,Class{Singular},,VoiceLine,Class{Plural}
-int32,str,str,uint32,str
-0,"","",0,""
-1,"Academician","알피노",8202013,"학사"
-2,"Red Mage","알리제",8202035,"적마도사"
-3,"Gunbreaker","산크레드",8202052,"건브레이커"
-4,"Oracle of Light","민필리아",8202073,"빛의 무녀"
-5,"Astrologian","위리앙제",8202088,"점성술사"
-6,"Sorceress","야슈톨라",8202109,"마녀"
-7,"Oracle of Light","린",8202073,"빛의 무녀"
-8,"Guard Captain","라이나",8202143,"위병단장"
-9,"All-Rounder","수정공",8202131,"만능"
-10,"All-Rounder","그라하 티아",8202346,"만능"
-11,"Sage","알피노",8203013,"현자"
-12,"Dragoon","에스티니앙",8203064,"용기사"
-13,"Lithomancer","위리앙제",8202092,"비석술사"
-14,"All-Rounder","베네스",8203122,"만능"
-15,"The Third Seat","에메트셀크",8203219,"제3의 자리"
-16,"Soulseer","휘틀로다이우스",8203239,"혼을 보는 자"
-17,"Marauder","기백 있는 도끼술사",0,"도끼술사"
-18,"Lancer","기백 있는 창술사",0,"창술사"
-19,"Thaumaturge","기백 있는 주술사",0,"주술사"
-20,"Conjurer","기백 있는 환술사",0,"환술사"
-21,"Marauder","새벽의 도끼술사",0,"도끼술사"
-22,"Lancer","새벽의 창술사",0,"창술사"
-23,"Thaumaturge","새벽의 주술사",0,"주술사"
-24,"Conjurer","새벽의 환술사",0,"환술사"
-25,"Marauder","흑와단 도끼술사",0,"도끼술사"
-26,"Lancer","쌍사당 창술사",0,"창술사"
-27,"Thaumaturge","불멸대 주술사",0,"주술사"
-28,"Conjurer","쌍사당 환술사",0,"환술사"
-29,"Satrap","바르샨",8203440,"태수"
-30,"Oracle of Frost","이젤",0,"얼음의 무녀"
-31,"Temple Knight","신전기사단 기사",0,"신전기사"
-32,"Temple Banneret","신전기사단 창기병",0,"창기병"
-33,"Temple Chirurgeon","신전기사단 치료사",0,"치료사"
-34,"Chivalric Knight","오르슈팡",0,"정기사"
-35,"Poroggo","페로 록고",0,"포록고"
-36,"Lord Commander","아이메리크",0,"총장"
-37,"Knight","포르탕 가 기사",0,"기사"
-38,"Banneret","포르탕 가 창기병",0,"창기병"
-39,"Archer","포르탕 가 궁수",0,"궁수"
-40,"Archon","산크레드",0,"현인"
-41,"Memoriate","제로",8203467,"메모리아술사"
-42,"Archon","야슈톨라",0,"현인"
-43,"Marauder","카르발랭",0,"도끼술사"
-44,"Pugilist","리세",0,"격투사"
-45,"Samurai","고우세츠",0,"사무라이"
-46,"Samurai","히엔",0,"사무라이"
-47,"Shaman","몰족 젊은이",0,"제사장"
-48,"Ninja","유우기리",0,"닌자"
-49,"Samurai","도마 열사",0,"사무라이"
-50,"Fushi","도마 무격",0,"무격"
-51,"Gladiator","해방군 투사",0,"검술사"
-52,"Pikedancer","해방군 창병",0,"창병"
-53,"Gladiator","아렌발드",0,"검술사"
-54,"Pugilist","리세",0,"격투사"
-55,"Champion Gladiator","라우반",0,"검투사"
-56,"Lancer","자몰바",0,"창술사"
-57,"Intrepid","우크라마트",8205048,"용사"
-58,"Viper","조라쟈",8205115,"바이퍼"
-59,"Innovator","쿼나",8205098,"혁신자"
-60,"Pictomancer","쿠루루",8205029,"픽토맨서"
-61,"Zoemancer","스펜",8206020,"생명술사"
+#,Unknown0,ClassPlural,VoiceLine,ClassSingular
+0,,,0,
+1,알피노,학사,8202013,Academician
+2,알리제,적마도사,8202035,Red Mage
+3,산크레드,건브레이커,8202052,Gunbreaker
+4,민필리아,빛의 무녀,8202073,Oracle of Light
+5,위리앙제,점성술사,8202088,Astrologian
+6,야슈톨라,마녀,8202109,Sorceress
+7,린,빛의 무녀,8202073,Oracle of Light
+8,라이나,위병단장,8202143,Guard Captain
+9,수정공,만능,8202131,All-Rounder
+10,그라하 티아,만능,8202346,All-Rounder
+11,알피노,현자,8203013,Sage
+12,에스티니앙,용기사,8203064,Dragoon
+13,위리앙제,비석술사,8202092,Lithomancer
+14,베네스,만능,8203122,All-Rounder
+15,에메트셀크,제3의 자리,8203219,The Third Seat
+16,휘틀로다이우스,혼을 보는 자,8203239,Soulseer
+17,기백 있는 도끼술사,도끼술사,0,Marauder
+18,기백 있는 창술사,창술사,0,Lancer
+19,기백 있는 주술사,주술사,0,Thaumaturge
+20,기백 있는 환술사,환술사,0,Conjurer
+21,새벽의 도끼술사,도끼술사,0,Marauder
+22,새벽의 창술사,창술사,0,Lancer
+23,새벽의 주술사,주술사,0,Thaumaturge
+24,새벽의 환술사,환술사,0,Conjurer
+25,흑와단 도끼술사,도끼술사,0,Marauder
+26,쌍사당 창술사,창술사,0,Lancer
+27,불멸대 주술사,주술사,0,Thaumaturge
+28,쌍사당 환술사,환술사,0,Conjurer
+29,바르샨,태수,8203440,Satrap
+30,이젤,얼음의 무녀,0,Oracle of Frost
+31,신전기사단 기사,신전기사,0,Temple Knight
+32,신전기사단 창기병,창기병,0,Temple Banneret
+33,신전기사단 치료사,치료사,0,Temple Chirurgeon
+34,오르슈팡,정기사,0,Chivalric Knight
+35,페로 록고,포록고,0,Poroggo
+36,아이메리크,총장,0,Lord Commander
+37,포르탕 가 기사,기사,0,Knight
+38,포르탕 가 창기병,창기병,0,Banneret
+39,포르탕 가 궁수,궁수,0,Archer
+40,산크레드,현인,0,Archon
+41,제로,메모리아술사,8203467,Memoriate
+42,야슈톨라,현인,0,Archon
+43,카르발랭,도끼술사,0,Marauder
+44,리세,격투사,0,Pugilist
+45,고우세츠,사무라이,0,Samurai
+46,히엔,사무라이,0,Samurai
+47,몰족 젊은이,제사장,0,Shaman
+48,유우기리,닌자,0,Ninja
+49,도마 열사,사무라이,0,Samurai
+50,도마 무격,무격,0,Fushi
+51,해방군 투사,검술사,0,Gladiator
+52,해방군 창병,창병,0,Pikedancer
+53,아렌발드,검술사,0,Gladiator
+54,리세,격투사,0,Pugilist
+55,라우반,검투사,0,Champion Gladiator
+56,자몰바,창술사,0,Lancer
+57,우크라마트,용사,8205048,Intrepid
+58,조라쟈,바이퍼,8205115,Viper
+59,쿼나,혁신자,8205098,Innovator
+60,쿠루루,픽토맨서,8205029,Pictomancer
+61,스펜,생명술사,8206020,Zoemancer

@@ -1,102 +1,100 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANDWA113_03914_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANDWA113_03914_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 와츠의 망치 작업장에 있는 레기트는 엔진의 열효율을 연구하고 싶은 듯하다."
-1,"TEXT_BANDWA113_03914_SEQ_01","결백의 증명 근방에 있는 연구 담당 드워프와 대화"
-2,"TEXT_BANDWA113_03914_SEQ_02","결백의 증명 근방에 있는 연구 담당 드워프와 얘기했다.
+1,TEXT_BANDWA113_03914_SEQ_01,결백의 증명 근방에 있는 연구 담당 드워프와 대화
+2,TEXT_BANDWA113_03914_SEQ_02,"결백의 증명 근방에 있는 연구 담당 드워프와 얘기했다.
 레기트에게 의뢰받은 물품을 납품"
-3,"TEXT_BANDWA113_03914_SEQ_03",""
-4,"TEXT_BANDWA113_03914_SEQ_04",""
-5,"TEXT_BANDWA113_03914_SEQ_05",""
-6,"TEXT_BANDWA113_03914_SEQ_06",""
-7,"TEXT_BANDWA113_03914_SEQ_07",""
-8,"TEXT_BANDWA113_03914_SEQ_08",""
-9,"TEXT_BANDWA113_03914_SEQ_09",""
-10,"TEXT_BANDWA113_03914_SEQ_10",""
-11,"TEXT_BANDWA113_03914_SEQ_11",""
-12,"TEXT_BANDWA113_03914_SEQ_12",""
-13,"TEXT_BANDWA113_03914_SEQ_13",""
-14,"TEXT_BANDWA113_03914_SEQ_14",""
-15,"TEXT_BANDWA113_03914_SEQ_15",""
-16,"TEXT_BANDWA113_03914_SEQ_16",""
-17,"TEXT_BANDWA113_03914_SEQ_17",""
-18,"TEXT_BANDWA113_03914_SEQ_18",""
-19,"TEXT_BANDWA113_03914_SEQ_19",""
-20,"TEXT_BANDWA113_03914_SEQ_20",""
-21,"TEXT_BANDWA113_03914_SEQ_21",""
-22,"TEXT_BANDWA113_03914_SEQ_22",""
-23,"TEXT_BANDWA113_03914_SEQ_23",""
-24,"TEXT_BANDWA113_03914_TODO_00","결백의 증명 근방에 있는 연구 담당 드워프와 대화"
-25,"TEXT_BANDWA113_03914_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANDWA113_03914_TODO_02",""
-27,"TEXT_BANDWA113_03914_TODO_03",""
-28,"TEXT_BANDWA113_03914_TODO_04",""
-29,"TEXT_BANDWA113_03914_TODO_05",""
-30,"TEXT_BANDWA113_03914_TODO_06",""
-31,"TEXT_BANDWA113_03914_TODO_07",""
-32,"TEXT_BANDWA113_03914_TODO_08",""
-33,"TEXT_BANDWA113_03914_TODO_09",""
-34,"TEXT_BANDWA113_03914_TODO_10",""
-35,"TEXT_BANDWA113_03914_TODO_11",""
-36,"TEXT_BANDWA113_03914_TODO_12",""
-37,"TEXT_BANDWA113_03914_TODO_13",""
-38,"TEXT_BANDWA113_03914_TODO_14",""
-39,"TEXT_BANDWA113_03914_TODO_15",""
-40,"TEXT_BANDWA113_03914_TODO_16",""
-41,"TEXT_BANDWA113_03914_TODO_17",""
-42,"TEXT_BANDWA113_03914_TODO_18",""
-43,"TEXT_BANDWA113_03914_TODO_19",""
-44,"TEXT_BANDWA113_03914_TODO_20",""
-45,"TEXT_BANDWA113_03914_TODO_21",""
-46,"TEXT_BANDWA113_03914_TODO_22",""
-47,"TEXT_BANDWA113_03914_TODO_23",""
-48,"TEXT_BANDWA113_03914_REGITT_000_001","드워프 에탄올은
+3,TEXT_BANDWA113_03914_SEQ_03,
+4,TEXT_BANDWA113_03914_SEQ_04,
+5,TEXT_BANDWA113_03914_SEQ_05,
+6,TEXT_BANDWA113_03914_SEQ_06,
+7,TEXT_BANDWA113_03914_SEQ_07,
+8,TEXT_BANDWA113_03914_SEQ_08,
+9,TEXT_BANDWA113_03914_SEQ_09,
+10,TEXT_BANDWA113_03914_SEQ_10,
+11,TEXT_BANDWA113_03914_SEQ_11,
+12,TEXT_BANDWA113_03914_SEQ_12,
+13,TEXT_BANDWA113_03914_SEQ_13,
+14,TEXT_BANDWA113_03914_SEQ_14,
+15,TEXT_BANDWA113_03914_SEQ_15,
+16,TEXT_BANDWA113_03914_SEQ_16,
+17,TEXT_BANDWA113_03914_SEQ_17,
+18,TEXT_BANDWA113_03914_SEQ_18,
+19,TEXT_BANDWA113_03914_SEQ_19,
+20,TEXT_BANDWA113_03914_SEQ_20,
+21,TEXT_BANDWA113_03914_SEQ_21,
+22,TEXT_BANDWA113_03914_SEQ_22,
+23,TEXT_BANDWA113_03914_SEQ_23,
+24,TEXT_BANDWA113_03914_TODO_00,결백의 증명 근방에 있는 연구 담당 드워프와 대화
+25,TEXT_BANDWA113_03914_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANDWA113_03914_TODO_02,
+27,TEXT_BANDWA113_03914_TODO_03,
+28,TEXT_BANDWA113_03914_TODO_04,
+29,TEXT_BANDWA113_03914_TODO_05,
+30,TEXT_BANDWA113_03914_TODO_06,
+31,TEXT_BANDWA113_03914_TODO_07,
+32,TEXT_BANDWA113_03914_TODO_08,
+33,TEXT_BANDWA113_03914_TODO_09,
+34,TEXT_BANDWA113_03914_TODO_10,
+35,TEXT_BANDWA113_03914_TODO_11,
+36,TEXT_BANDWA113_03914_TODO_12,
+37,TEXT_BANDWA113_03914_TODO_13,
+38,TEXT_BANDWA113_03914_TODO_14,
+39,TEXT_BANDWA113_03914_TODO_15,
+40,TEXT_BANDWA113_03914_TODO_16,
+41,TEXT_BANDWA113_03914_TODO_17,
+42,TEXT_BANDWA113_03914_TODO_18,
+43,TEXT_BANDWA113_03914_TODO_19,
+44,TEXT_BANDWA113_03914_TODO_20,
+45,TEXT_BANDWA113_03914_TODO_21,
+46,TEXT_BANDWA113_03914_TODO_22,
+47,TEXT_BANDWA113_03914_TODO_23,
+48,TEXT_BANDWA113_03914_REGITT_000_001,"드워프 에탄올은
 무거운 드워프 전차를 달릴 수 있게 만드는 훌륭한 연료야라리.
 하지만 엔진이 발열되기 쉽다는 문제도 있어라리."
-49,"TEXT_BANDWA113_03914_REGITT_000_002","엔진 과열은 아주 큰 문제야라리~.
+49,TEXT_BANDWA113_03914_REGITT_000_002,"엔진 과열은 아주 큰 문제야라리~.
 이 문제에 대처하기 위한 냉각 기구 연구를 도와줬으면 해라리."
-50,"TEXT_BANDWA113_03914_REGITT_000_003","'연구 담당 드워프'가 결백의 증명 부근으로
+50,TEXT_BANDWA113_03914_REGITT_000_003,"'연구 담당 드워프'가 결백의 증명 부근으로
 냉매로 사용할 만한 광석을 채굴하러 가 있어라리~.
 현지에서 합류해 연구를 도와줘라리~!"
-51,"TEXT_BANDWA113_03914_AUTOMATON03914_100_010","삐삐…………"
-52,"TEXT_BANDWA113_03914_DAILYDWARF03914_000_010","네가 레기트의 심부름꾼이야?
+51,TEXT_BANDWA113_03914_AUTOMATON03914_100_010,삐삐…………
+52,TEXT_BANDWA113_03914_DAILYDWARF03914_000_010,"네가 레기트의 심부름꾼이야?
 마침 얼음속성의 힘을 띠고 있는 돌을 발견했어."
-53,"TEXT_BANDWA113_03914_DAILYDWARF03914_000_012","그러니 이 재료를 사용해서
-방열용 '<Sheet(Item,31165,0)/>'<13>FF0F02280BFF054974656DF279BD0103FF04EBA5BCFF04EC9D84</13> 2개 만들어줬으면 해.
+53,TEXT_BANDWA113_03914_DAILYDWARF03914_000_012,"그러니 이 재료를 사용해서
+방열용 '' 2개 만들어줬으면 해.
 재료의 여유분은 재료 조달 자동인형이 갖고 있어! "
-54,"TEXT_BANDWA113_03914_DAILYDWARF03914_000_013","그러니 이 재료를 사용해서
-냉매 순환에 사용할 '<Sheet(Item,31165,0)/>'<13>FF0F02280BFF054974656DF279BD0103FF04EBA5BCFF04EC9D84</13> 2개 만들어줬으면 해.
+54,TEXT_BANDWA113_03914_DAILYDWARF03914_000_013,"그러니 이 재료를 사용해서
+냉매 순환에 사용할 '' 2개 만들어줬으면 해.
 재료의 여유분은 재료 조달 자동인형이 갖고 있어!"
-55,"TEXT_BANDWA113_03914_DAILYDWARF03914_000_014","그러니 이 재료를 사용해서
-'<Sheet(Item,31165,0)/>'<13>FF0F02280BFF054974656DF279BD0103FF04EAB080FF04EC9DB4</13> 될 냉매를 2개 만들어줬으면 해.
+55,TEXT_BANDWA113_03914_DAILYDWARF03914_000_014,"그러니 이 재료를 사용해서
+'' 될 냉매를 2개 만들어줬으면 해.
 재료의 여유분은 재료 조달 자동인형이 갖고 있어!"
-56,"TEXT_BANDWA113_03914_DAILYDWARF03914_000_016","아 참, 완성한 물품은 '레기트'에게 주도록 해.
+56,TEXT_BANDWA113_03914_DAILYDWARF03914_000_016,"아 참, 완성한 물품은 '레기트'에게 주도록 해.
 작업장의 동료와 새로운 냉각 기구를 조립해서
 시험해볼 생각이야!"
-57,"TEXT_BANDWA113_03914_DAILYDWARF03914_000_116","재료의 여유분은 재료 조달 자동인형이 갖고 있어!"
-58,"TEXT_BANDWA113_03914_DAILYDWARF03914_000_117","재료의 여유분은 재료 조달 자동인형이 갖고 있어!"
-59,"TEXT_BANDWA113_03914_DAILYDWARF03914_000_118","재료의 여유분은 재료 조달 자동인형이 갖고 있어!"
-60,"TEXT_BANDWA113_03914_AUTOMATON03914_000_017","삐삐…… 재료 필요해?
+57,TEXT_BANDWA113_03914_DAILYDWARF03914_000_116,재료의 여유분은 재료 조달 자동인형이 갖고 있어!
+58,TEXT_BANDWA113_03914_DAILYDWARF03914_000_117,재료의 여유분은 재료 조달 자동인형이 갖고 있어!
+59,TEXT_BANDWA113_03914_DAILYDWARF03914_000_118,재료의 여유분은 재료 조달 자동인형이 갖고 있어!
+60,TEXT_BANDWA113_03914_AUTOMATON03914_000_017,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-61,"TEXT_BANDWA113_03914_AUTOMATON03914_000_018","삐삐…… 재료 필요해?
+61,TEXT_BANDWA113_03914_AUTOMATON03914_000_018,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-62,"TEXT_BANDWA113_03914_AUTOMATON03914_000_019","삐삐…… 재료 필요해?
+62,TEXT_BANDWA113_03914_AUTOMATON03914_000_019,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-63,"TEXT_BANDWA113_03914_AUTOMATON03914_000_020","삐삐…… 재료 필요해?
+63,TEXT_BANDWA113_03914_AUTOMATON03914_000_020,"삐삐…… 재료 필요해?
 가져가ー."
-64,"TEXT_BANDWA113_03914_AUTOMATON03914_000_021","삐삐…… 재료 필요해?
+64,TEXT_BANDWA113_03914_AUTOMATON03914_000_021,"삐삐…… 재료 필요해?
 가져가ー."
-65,"TEXT_BANDWA113_03914_AUTOMATON03914_000_022","삐삐…… 재료 필요해?
+65,TEXT_BANDWA113_03914_AUTOMATON03914_000_022,"삐삐…… 재료 필요해?
 가져가ー."
-66,"TEXT_BANDWA113_03914_DAILYDWARF03914_000_023","부탁한 부품은 완성했어?
+66,TEXT_BANDWA113_03914_DAILYDWARF03914_000_023,"부탁한 부품은 완성했어?
 작업장에서 기다리고 있는 '레기트'에게 건네줘!"
-67,"TEXT_BANDWA113_03914_REGITT_000_030","협력해줘서 고마워라리~!
+67,TEXT_BANDWA113_03914_REGITT_000_030,"협력해줘서 고마워라리~!
 내가 말한 물건은 가져왔어라리……?"
-68,"TEXT_BANDWA113_03914_REGITT_000_031","오오~, 이 부품도 은근히 차갑구나라리!
+68,TEXT_BANDWA113_03914_REGITT_000_031,"오오~, 이 부품도 은근히 차갑구나라리!
 바로 작업장 동료에게 줘서 냉각 기구 실험을 시작해야겠다라리!"
-69,"TEXT_BANDWA113_03914_REGITT_000_032","참고로 이걸 응용하면
+69,TEXT_BANDWA113_03914_REGITT_000_032,"참고로 이걸 응용하면
 맥주를 아주 차갑게 만들 수 있는 장치도 가능할 듯한…….
 아니, 드워프 전차 개발이 가장 우선이란 건 알고 있거든라리?"

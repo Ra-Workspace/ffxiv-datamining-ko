@@ -1,99 +1,97 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANDWA110_03911_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANDWA110_03911_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 와츠의 망치 작업장에 있는 레기트는 엔진 손질을 꼼꼼하게 하고 싶은 듯하다."
-1,"TEXT_BANDWA110_03911_SEQ_01","시기트와 대화"
-2,"TEXT_BANDWA110_03911_SEQ_02","시기트와 대화했다.
+1,TEXT_BANDWA110_03911_SEQ_01,시기트와 대화
+2,TEXT_BANDWA110_03911_SEQ_02,"시기트와 대화했다.
 레기트에게 의뢰받은 물품 납품"
-3,"TEXT_BANDWA110_03911_SEQ_03",""
-4,"TEXT_BANDWA110_03911_SEQ_04",""
-5,"TEXT_BANDWA110_03911_SEQ_05",""
-6,"TEXT_BANDWA110_03911_SEQ_06",""
-7,"TEXT_BANDWA110_03911_SEQ_07",""
-8,"TEXT_BANDWA110_03911_SEQ_08",""
-9,"TEXT_BANDWA110_03911_SEQ_09",""
-10,"TEXT_BANDWA110_03911_SEQ_10",""
-11,"TEXT_BANDWA110_03911_SEQ_11",""
-12,"TEXT_BANDWA110_03911_SEQ_12",""
-13,"TEXT_BANDWA110_03911_SEQ_13",""
-14,"TEXT_BANDWA110_03911_SEQ_14",""
-15,"TEXT_BANDWA110_03911_SEQ_15",""
-16,"TEXT_BANDWA110_03911_SEQ_16",""
-17,"TEXT_BANDWA110_03911_SEQ_17",""
-18,"TEXT_BANDWA110_03911_SEQ_18",""
-19,"TEXT_BANDWA110_03911_SEQ_19",""
-20,"TEXT_BANDWA110_03911_SEQ_20",""
-21,"TEXT_BANDWA110_03911_SEQ_21",""
-22,"TEXT_BANDWA110_03911_SEQ_22",""
-23,"TEXT_BANDWA110_03911_SEQ_23",""
-24,"TEXT_BANDWA110_03911_TODO_00","시기트와 대화"
-25,"TEXT_BANDWA110_03911_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>레기트에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANDWA110_03911_TODO_02",""
-27,"TEXT_BANDWA110_03911_TODO_03",""
-28,"TEXT_BANDWA110_03911_TODO_04",""
-29,"TEXT_BANDWA110_03911_TODO_05",""
-30,"TEXT_BANDWA110_03911_TODO_06",""
-31,"TEXT_BANDWA110_03911_TODO_07",""
-32,"TEXT_BANDWA110_03911_TODO_08",""
-33,"TEXT_BANDWA110_03911_TODO_09",""
-34,"TEXT_BANDWA110_03911_TODO_10",""
-35,"TEXT_BANDWA110_03911_TODO_11",""
-36,"TEXT_BANDWA110_03911_TODO_12",""
-37,"TEXT_BANDWA110_03911_TODO_13",""
-38,"TEXT_BANDWA110_03911_TODO_14",""
-39,"TEXT_BANDWA110_03911_TODO_15",""
-40,"TEXT_BANDWA110_03911_TODO_16",""
-41,"TEXT_BANDWA110_03911_TODO_17",""
-42,"TEXT_BANDWA110_03911_TODO_18",""
-43,"TEXT_BANDWA110_03911_TODO_19",""
-44,"TEXT_BANDWA110_03911_TODO_20",""
-45,"TEXT_BANDWA110_03911_TODO_21",""
-46,"TEXT_BANDWA110_03911_TODO_22",""
-47,"TEXT_BANDWA110_03911_TODO_23",""
-48,"TEXT_BANDWA110_03911_REGITT_000_001","드워프 전차에서
+3,TEXT_BANDWA110_03911_SEQ_03,
+4,TEXT_BANDWA110_03911_SEQ_04,
+5,TEXT_BANDWA110_03911_SEQ_05,
+6,TEXT_BANDWA110_03911_SEQ_06,
+7,TEXT_BANDWA110_03911_SEQ_07,
+8,TEXT_BANDWA110_03911_SEQ_08,
+9,TEXT_BANDWA110_03911_SEQ_09,
+10,TEXT_BANDWA110_03911_SEQ_10,
+11,TEXT_BANDWA110_03911_SEQ_11,
+12,TEXT_BANDWA110_03911_SEQ_12,
+13,TEXT_BANDWA110_03911_SEQ_13,
+14,TEXT_BANDWA110_03911_SEQ_14,
+15,TEXT_BANDWA110_03911_SEQ_15,
+16,TEXT_BANDWA110_03911_SEQ_16,
+17,TEXT_BANDWA110_03911_SEQ_17,
+18,TEXT_BANDWA110_03911_SEQ_18,
+19,TEXT_BANDWA110_03911_SEQ_19,
+20,TEXT_BANDWA110_03911_SEQ_20,
+21,TEXT_BANDWA110_03911_SEQ_21,
+22,TEXT_BANDWA110_03911_SEQ_22,
+23,TEXT_BANDWA110_03911_SEQ_23,
+24,TEXT_BANDWA110_03911_TODO_00,시기트와 대화
+25,TEXT_BANDWA110_03911_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANDWA110_03911_TODO_02,
+27,TEXT_BANDWA110_03911_TODO_03,
+28,TEXT_BANDWA110_03911_TODO_04,
+29,TEXT_BANDWA110_03911_TODO_05,
+30,TEXT_BANDWA110_03911_TODO_06,
+31,TEXT_BANDWA110_03911_TODO_07,
+32,TEXT_BANDWA110_03911_TODO_08,
+33,TEXT_BANDWA110_03911_TODO_09,
+34,TEXT_BANDWA110_03911_TODO_10,
+35,TEXT_BANDWA110_03911_TODO_11,
+36,TEXT_BANDWA110_03911_TODO_12,
+37,TEXT_BANDWA110_03911_TODO_13,
+38,TEXT_BANDWA110_03911_TODO_14,
+39,TEXT_BANDWA110_03911_TODO_15,
+40,TEXT_BANDWA110_03911_TODO_16,
+41,TEXT_BANDWA110_03911_TODO_17,
+42,TEXT_BANDWA110_03911_TODO_18,
+43,TEXT_BANDWA110_03911_TODO_19,
+44,TEXT_BANDWA110_03911_TODO_20,
+45,TEXT_BANDWA110_03911_TODO_21,
+46,TEXT_BANDWA110_03911_TODO_22,
+47,TEXT_BANDWA110_03911_TODO_23,
+48,TEXT_BANDWA110_03911_REGITT_000_001,"드워프 전차에서
 엔진은 심장이라고도 할 수 있는 중요한 부품이야라리!"
-49,"TEXT_BANDWA110_03911_REGITT_000_002","복잡한 기계라서 매일 관리할 때도
+49,TEXT_BANDWA110_03911_REGITT_000_002,"복잡한 기계라서 매일 관리할 때도
 우리의 소중한 수염 이상으로 조심스럽게 해야 해라리.
-그래서 '<Sheet(ItemHQ,31161,0)/>'<13>FF1102280DFF074974656D4851F279B90103FF04EBA5BCFF04EC9D84</13> 준비해줬으면 해라리~!"
-50,"TEXT_BANDWA110_03911_REGITT_000_003","상세한 내용은 '시기트'에게 들어줘라리.
+그래서 '' 준비해줬으면 해라리~!"
+50,TEXT_BANDWA110_03911_REGITT_000_003,"상세한 내용은 '시기트'에게 들어줘라리.
 네게 줄 재료를 가지고 기다리고 있을 거야라리~!"
-51,"TEXT_BANDWA110_03911_SHIGITT_000_010","……<Sheet(ItemHQ,31161,0)/> 건 때문에 왔지?
+51,TEXT_BANDWA110_03911_SHIGITT_000_010,"…… 건 때문에 왔지?
 안전과 관련된 물품이지만 섬세한 너에게는 맡길 수 있겠어."
-52,"TEXT_BANDWA110_03911_SHIGITT_000_012","의뢰하고 싶은 건 아주 작은 교환용 나사 1개다.
+52,TEXT_BANDWA110_03911_SHIGITT_000_012,"의뢰하고 싶은 건 아주 작은 교환용 나사 1개다.
 물론 엄선된 재료는 준비되어 있어…….
 부족하면 재료 조달 자동인형에게 받으면 돼."
-53,"TEXT_BANDWA110_03911_SHIGITT_000_013","의뢰하고 싶은 건 특수 섬유 클로스 1장이다.
+53,TEXT_BANDWA110_03911_SHIGITT_000_013,"의뢰하고 싶은 건 특수 섬유 클로스 1장이다.
 물론 엄선된 재료는 준비되어 있어…….
 부족하면 재료 조달 자동인형에게 받으면 돼."
-54,"TEXT_BANDWA110_03911_SHIGITT_000_014","의뢰하고 싶은 건 특수 엔진 오일 1병이다.
+54,TEXT_BANDWA110_03911_SHIGITT_000_014,"의뢰하고 싶은 건 특수 엔진 오일 1병이다.
 물론 엄선된 재료는 준비되어 있어…….
 부족하면 재료 조달 자동인형에게 받으면 돼."
-55,"TEXT_BANDWA110_03911_SHIGITT_000_016","그리고 의뢰품을 완성하면
+55,TEXT_BANDWA110_03911_SHIGITT_000_016,"그리고 의뢰품을 완성하면
 늘 그렇듯이 '레기트'에게 주도록 해.
 그럼, 엔진 담당에게 전달될 테니 말이야."
-56,"TEXT_BANDWA110_03911_AUTOMATON03910_000_017","삐삐…… 재료 필요해?
+56,TEXT_BANDWA110_03911_AUTOMATON03910_000_017,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-57,"TEXT_BANDWA110_03911_AUTOMATON03910_000_018","삐삐…… 재료 필요해?
+57,TEXT_BANDWA110_03911_AUTOMATON03910_000_018,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-58,"TEXT_BANDWA110_03911_AUTOMATON03910_000_019","삐삐…… 재료 필요해?
+58,TEXT_BANDWA110_03911_AUTOMATON03910_000_019,"삐삐…… 재료 필요해?
 ……지금은 필요 없겠네."
-59,"TEXT_BANDWA110_03911_AUTOMATON03910_000_020","삐삐…… 재료 필요해?
+59,TEXT_BANDWA110_03911_AUTOMATON03910_000_020,"삐삐…… 재료 필요해?
 가져가ー."
-60,"TEXT_BANDWA110_03911_AUTOMATON03910_000_021","삐삐…… 재료 필요해?
+60,TEXT_BANDWA110_03911_AUTOMATON03910_000_021,"삐삐…… 재료 필요해?
 가져가ー."
-61,"TEXT_BANDWA110_03911_AUTOMATON03910_000_022","삐삐…… 재료 필요해?
+61,TEXT_BANDWA110_03911_AUTOMATON03910_000_022,"삐삐…… 재료 필요해?
 가져가ー."
-62,"TEXT_BANDWA110_03911_REGITT_000_030","수고했어라리~!
-'<Sheet(ItemHQ,31161,0)/>', 마련했어라리?"
-63,"TEXT_BANDWA110_03911_REGITT_000_031","으음, 더할 나위 없는 품질이야라리!
+62,TEXT_BANDWA110_03911_REGITT_000_030,"수고했어라리~!
+'', 마련했어라리?"
+63,TEXT_BANDWA110_03911_REGITT_000_031,"으음, 더할 나위 없는 품질이야라리!
 이걸로 엔진을 관리하면
 틀림없이 더 잘 움직여 주겠지라리?"
-64,"TEXT_BANDWA110_03911_REGITT_000_032","우리 설계대로 치밀하게 움직이는 기계 심장……
+64,TEXT_BANDWA110_03911_REGITT_000_032,"우리 설계대로 치밀하게 움직이는 기계 심장……
 그것이 '와츠의 망치제 9기통 별 모양 엔진'이야라리!
 드워프 전차의 낭만의 중심이니 소중하게 관리할게라리~!"
-65,"TEXT_BANDWA110_03911_SYSTEM_000_033","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+65,TEXT_BANDWA110_03911_SYSTEM_000_033,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."

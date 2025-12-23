@@ -1,118 +1,116 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_STMBDZ426_02749_SEQ_00","무이강 유역에서 교링은 모험가의 도움을 기대하며 기다리는 모양이다."
-1,"TEXT_STMBDZ426_02749_SEQ_01","교링과 대화했다. 한 발 먼저 채광할 장소를 찾으러 떠난 교링을 뒤쫓아 무이강 유역에 있는 '교링'과 대화하자."
-2,"TEXT_STMBDZ426_02749_SEQ_02","교링과 대화했다. 나마즈오 사이에 전해 내려오는 나마즈오식 수염 탐지술로 좋은 광물이 있는 곳을 찾던 중이라고 한다. 교링을 뒤쫓아 가서 무이강 유역에 있는'교링'과 다시 대화하자."
-3,"TEXT_STMBDZ426_02749_SEQ_03","교링과 대화했다. 괜찮은 장소를 발견했지만 근처에 마물이 있다고 한다. 무이강 유역에서 <Sheet(BNpcName,5903,0)/> 2마리를 처치하자."
-4,"TEXT_STMBDZ426_02749_SEQ_04","<Sheet(BNpcName,5903,0)/><13>FF1302280FFF09424E70634E616D65F2170F0103FF04EBA5BCFF04EC9D84</13> 처치했다. 무이강 유역에 있는 '교링'과 대화하자."
-5,"TEXT_STMBDZ426_02749_SEQ_05","교링과 대화했다. 자신이 광물을 모으는 동안 먼저 저택으로 돌아가 있으라고 한다. 무이강 유역의 <Sheet(EObj,2008801,0)/>에서 대기하자."
-6,"TEXT_STMBDZ426_02749_SEQ_06","<Sheet(EObj,2008801,0)/>에서 대기했다. 교링이 돌아와 광물에 정통한 교후에게 자신이 모은 광물을 보여줬지만 온통 가치가 없는 것뿐이라고 한다. 교링은 결과에 크게 낙담하며 그 자리를 떠나고 말았다. 무이강 유역에 있는 '교링'과 대화하자. "
-7,"TEXT_STMBDZ426_02749_SEQ_07","교링과 대화했다. 자신의 수염은 광물 탐색에 적합하지 않은 것 같으니 다른 돈벌이가 없는지 찾아보겠다고 한다."
-8,"TEXT_STMBDZ426_02749_SEQ_08",""
-9,"TEXT_STMBDZ426_02749_SEQ_09",""
-10,"TEXT_STMBDZ426_02749_SEQ_10",""
-11,"TEXT_STMBDZ426_02749_SEQ_11",""
-12,"TEXT_STMBDZ426_02749_SEQ_12",""
-13,"TEXT_STMBDZ426_02749_SEQ_13",""
-14,"TEXT_STMBDZ426_02749_SEQ_14",""
-15,"TEXT_STMBDZ426_02749_SEQ_15",""
-16,"TEXT_STMBDZ426_02749_SEQ_16",""
-17,"TEXT_STMBDZ426_02749_SEQ_17",""
-18,"TEXT_STMBDZ426_02749_SEQ_18",""
-19,"TEXT_STMBDZ426_02749_SEQ_19",""
-20,"TEXT_STMBDZ426_02749_SEQ_20",""
-21,"TEXT_STMBDZ426_02749_SEQ_21",""
-22,"TEXT_STMBDZ426_02749_SEQ_22",""
-23,"TEXT_STMBDZ426_02749_SEQ_23",""
-24,"TEXT_STMBDZ426_02749_TODO_00","교링과 대화"
-25,"TEXT_STMBDZ426_02749_TODO_01","교링과 다시 대화"
-26,"TEXT_STMBDZ426_02749_TODO_02","<Sheet(BNpcName,5903,0)/> 처치"
-27,"TEXT_STMBDZ426_02749_TODO_03","교링과 대화"
-28,"TEXT_STMBDZ426_02749_TODO_04","<Sheet(EObj,2008801,0)/>에서 대기"
-29,"TEXT_STMBDZ426_02749_TODO_05","교링과 대화"
-30,"TEXT_STMBDZ426_02749_TODO_06",""
-31,"TEXT_STMBDZ426_02749_TODO_07",""
-32,"TEXT_STMBDZ426_02749_TODO_08",""
-33,"TEXT_STMBDZ426_02749_TODO_09",""
-34,"TEXT_STMBDZ426_02749_TODO_10",""
-35,"TEXT_STMBDZ426_02749_TODO_11",""
-36,"TEXT_STMBDZ426_02749_TODO_12",""
-37,"TEXT_STMBDZ426_02749_TODO_13",""
-38,"TEXT_STMBDZ426_02749_TODO_14",""
-39,"TEXT_STMBDZ426_02749_TODO_15",""
-40,"TEXT_STMBDZ426_02749_TODO_16",""
-41,"TEXT_STMBDZ426_02749_TODO_17",""
-42,"TEXT_STMBDZ426_02749_TODO_18",""
-43,"TEXT_STMBDZ426_02749_TODO_19",""
-44,"TEXT_STMBDZ426_02749_TODO_20",""
-45,"TEXT_STMBDZ426_02749_TODO_21",""
-46,"TEXT_STMBDZ426_02749_TODO_22",""
-47,"TEXT_STMBDZ426_02749_TODO_23",""
-48,"TEXT_STMBDZ426_02749_GYORIN_000_000","함께해줘서 정말 고마웡♪
+#,Unknown0,Unknown1
+0,TEXT_STMBDZ426_02749_SEQ_00,무이강 유역에서 교링은 모험가의 도움을 기대하며 기다리는 모양이다.
+1,TEXT_STMBDZ426_02749_SEQ_01,교링과 대화했다. 한 발 먼저 채광할 장소를 찾으러 떠난 교링을 뒤쫓아 무이강 유역에 있는 '교링'과 대화하자.
+2,TEXT_STMBDZ426_02749_SEQ_02,교링과 대화했다. 나마즈오 사이에 전해 내려오는 나마즈오식 수염 탐지술로 좋은 광물이 있는 곳을 찾던 중이라고 한다. 교링을 뒤쫓아 가서 무이강 유역에 있는'교링'과 다시 대화하자.
+3,TEXT_STMBDZ426_02749_SEQ_03,교링과 대화했다. 괜찮은 장소를 발견했지만 근처에 마물이 있다고 한다. 무이강 유역에서  2마리를 처치하자.
+4,TEXT_STMBDZ426_02749_SEQ_04, 처치했다. 무이강 유역에 있는 '교링'과 대화하자.
+5,TEXT_STMBDZ426_02749_SEQ_05,교링과 대화했다. 자신이 광물을 모으는 동안 먼저 저택으로 돌아가 있으라고 한다. 무이강 유역의 에서 대기하자.
+6,TEXT_STMBDZ426_02749_SEQ_06,에서 대기했다. 교링이 돌아와 광물에 정통한 교후에게 자신이 모은 광물을 보여줬지만 온통 가치가 없는 것뿐이라고 한다. 교링은 결과에 크게 낙담하며 그 자리를 떠나고 말았다. 무이강 유역에 있는 '교링'과 대화하자. 
+7,TEXT_STMBDZ426_02749_SEQ_07,교링과 대화했다. 자신의 수염은 광물 탐색에 적합하지 않은 것 같으니 다른 돈벌이가 없는지 찾아보겠다고 한다.
+8,TEXT_STMBDZ426_02749_SEQ_08,
+9,TEXT_STMBDZ426_02749_SEQ_09,
+10,TEXT_STMBDZ426_02749_SEQ_10,
+11,TEXT_STMBDZ426_02749_SEQ_11,
+12,TEXT_STMBDZ426_02749_SEQ_12,
+13,TEXT_STMBDZ426_02749_SEQ_13,
+14,TEXT_STMBDZ426_02749_SEQ_14,
+15,TEXT_STMBDZ426_02749_SEQ_15,
+16,TEXT_STMBDZ426_02749_SEQ_16,
+17,TEXT_STMBDZ426_02749_SEQ_17,
+18,TEXT_STMBDZ426_02749_SEQ_18,
+19,TEXT_STMBDZ426_02749_SEQ_19,
+20,TEXT_STMBDZ426_02749_SEQ_20,
+21,TEXT_STMBDZ426_02749_SEQ_21,
+22,TEXT_STMBDZ426_02749_SEQ_22,
+23,TEXT_STMBDZ426_02749_SEQ_23,
+24,TEXT_STMBDZ426_02749_TODO_00,교링과 대화
+25,TEXT_STMBDZ426_02749_TODO_01,교링과 다시 대화
+26,TEXT_STMBDZ426_02749_TODO_02, 처치
+27,TEXT_STMBDZ426_02749_TODO_03,교링과 대화
+28,TEXT_STMBDZ426_02749_TODO_04,에서 대기
+29,TEXT_STMBDZ426_02749_TODO_05,교링과 대화
+30,TEXT_STMBDZ426_02749_TODO_06,
+31,TEXT_STMBDZ426_02749_TODO_07,
+32,TEXT_STMBDZ426_02749_TODO_08,
+33,TEXT_STMBDZ426_02749_TODO_09,
+34,TEXT_STMBDZ426_02749_TODO_10,
+35,TEXT_STMBDZ426_02749_TODO_11,
+36,TEXT_STMBDZ426_02749_TODO_12,
+37,TEXT_STMBDZ426_02749_TODO_13,
+38,TEXT_STMBDZ426_02749_TODO_14,
+39,TEXT_STMBDZ426_02749_TODO_15,
+40,TEXT_STMBDZ426_02749_TODO_16,
+41,TEXT_STMBDZ426_02749_TODO_17,
+42,TEXT_STMBDZ426_02749_TODO_18,
+43,TEXT_STMBDZ426_02749_TODO_19,
+44,TEXT_STMBDZ426_02749_TODO_20,
+45,TEXT_STMBDZ426_02749_TODO_21,
+46,TEXT_STMBDZ426_02749_TODO_22,
+47,TEXT_STMBDZ426_02749_TODO_23,
+48,TEXT_STMBDZ426_02749_GYORIN_000_000,"함께해줘서 정말 고마웡♪
 바로 광물을 찾으러 갈 생각인데
 저택의 서쪽에서 광물을 캘 곳을 찾아볼 생각이양."
-49,"TEXT_STMBDZ426_02749_GYORIN_000_001","먼저 가서 찾고 있을 테니까
-<Highlight>ObjectParameter(1)</Highlight>도 뒤따라왕~!"
-50,"TEXT_STMBDZ426_02749_GYORIN_000_010","어디 있니, 어디 있닝~♪
+49,TEXT_STMBDZ426_02749_GYORIN_000_001,"먼저 가서 찾고 있을 테니까
+Player Player도 뒤따라왕~!"
+50,TEXT_STMBDZ426_02749_GYORIN_000_010,"어디 있니, 어디 있닝~♪
 광물아, 어디 있닝~♪"
-51,"TEXT_STMBDZ426_02749_GYORIN_000_011","……앗, 언제 왔엉!?
+51,TEXT_STMBDZ426_02749_GYORIN_000_011,"……앗, 언제 왔엉!?
 왔으면 말을 하지, 깜짝 놀랐잖앙!"
-52,"TEXT_STMBDZ426_02749_GYORIN_000_012","우리들 사이에 전해지는 나마즈오식 수염 탐지술로
+52,TEXT_STMBDZ426_02749_GYORIN_000_012,"우리들 사이에 전해지는 나마즈오식 수염 탐지술로
 좋은 광물이 있을 만한 곳을 찾던 중이양."
-53,"TEXT_STMBDZ426_02749_GYORIN_000_013","그리고 글쎄……
+53,TEXT_STMBDZ426_02749_GYORIN_000_013,"그리고 글쎄……
 괜찮은 장소를 찾아낸 거 있징!
 엄청나지? 에헴!"
-54,"TEXT_STMBDZ426_02749_GYORIN_000_014","내 멋진 수염이 북쪽 방향에서
+54,TEXT_STMBDZ426_02749_GYORIN_000_014,"내 멋진 수염이 북쪽 방향에서
 벼락부자의 기운을 팍팍 느끼고 있엉!
 빨리 가보장!"
-55,"TEXT_STMBDZ426_02749_GYORIN_000_020","괜찮은 장소를 발견한 것까지는 좋은데
+55,TEXT_STMBDZ426_02749_GYORIN_000_020,"괜찮은 장소를 발견한 것까지는 좋은데
 근처에 무섭게 생긴 마물이 있는 것 같앙…….
-<Highlight>ObjectParameter(1)</Highlight>, 그놈을 없애주랑!"
-56,"TEXT_STMBDZ426_02749_GYORIN_000_021","괜찮은 장소를 발견한 것까지는 좋은데
+Player Player, 그놈을 없애주랑!"
+56,TEXT_STMBDZ426_02749_GYORIN_000_021,"괜찮은 장소를 발견한 것까지는 좋은데
 근처에 무섭게 생긴 마물이 있는 것 같앙…….
-<Highlight>ObjectParameter(1)</Highlight>, 그놈을 없애주랑!"
-57,"TEXT_STMBDZ426_02749_POPMESSAGE_100_030","적이 공격해옵니다!!"
-58,"TEXT_STMBDZ426_02749_GYORIN_000_030","<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 강하구나, 깜짝 놀랐엉!
+Player Player, 그놈을 없애주랑!"
+57,TEXT_STMBDZ426_02749_POPMESSAGE_100_030,적이 공격해옵니다!!
+58,TEXT_STMBDZ426_02749_GYORIN_000_030,"Player Player 강하구나, 깜짝 놀랐엉!
 여기부터는 나한테 맡경!"
-59,"TEXT_STMBDZ426_02749_GYORIN_000_031","이 부근을 파서 광물을 잔뜩 가져갈 테니까
-<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 창고 옆에서 기다령!
+59,TEXT_STMBDZ426_02749_GYORIN_000_031,"이 부근을 파서 광물을 잔뜩 가져갈 테니까
+Player Player 창고 옆에서 기다령!
 기대해도 좋앙♪"
-60,"TEXT_STMBDZ426_02749_GYORIN_000_032","이 부근을 파서 광물을 잔뜩 가져갈 테니까
-<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 창고 옆에서 기다령!
+60,TEXT_STMBDZ426_02749_GYORIN_000_032,"이 부근을 파서 광물을 잔뜩 가져갈 테니까
+Player Player 창고 옆에서 기다령!
 기대해도 좋앙♪"
-61,"TEXT_STMBDZ426_02749_GYORIN_000_040","응훗훗후웃~♪
-<Highlight>ObjectParameter(1)</Highlight>한테도
+61,TEXT_STMBDZ426_02749_GYORIN_000_040,"응훗훗후웃~♪
+Player Player한테도
 광물을 캐는 내 멋진 모습을 보여주고 싶었는뎅♪"
-62,"TEXT_STMBDZ426_02749_GYORIN_000_041","이제 틀림없이
+62,TEXT_STMBDZ426_02749_GYORIN_000_041,"이제 틀림없이
 벼락부자가 되겠징~ 응훗♪"
-63,"TEXT_STMBDZ426_02749_GYORIN_000_042","이 광물은 장사라면 모르는 게 없는
+63,TEXT_STMBDZ426_02749_GYORIN_000_042,"이 광물은 장사라면 모르는 게 없는
 교후 씨한테 먼저 보여줘야겠엉.
 지금 빨리 가보장♪"
-64,"TEXT_STMBDZ426_02749_GYORIN_000_043","교후 씨~!
+64,TEXT_STMBDZ426_02749_GYORIN_000_043,"교후 씨~!
 실은 보여주고 싶은 게 있엉♪"
-65,"TEXT_STMBDZ426_02749_GYOFU_000_044","왜 그래, 교링?
+65,TEXT_STMBDZ426_02749_GYOFU_000_044,"왜 그래, 교링?
 웬일로 기분이 엄청 좋아보임메?"
-66,"TEXT_STMBDZ426_02749_GYORIN_000_045","응훗…… 사실은 광물을 캐서 가져왔엉!
+66,TEXT_STMBDZ426_02749_GYORIN_000_045,"응훗…… 사실은 광물을 캐서 가져왔엉!
 그래서 얼마에 팔 수 있을지 교후 씨가
 좀 봐줬으면 해서 말이징♪"
-67,"TEXT_STMBDZ426_02749_GYOFU_000_047","호오, 네가 광물을 캤다곰메?
+67,TEXT_STMBDZ426_02749_GYOFU_000_047,"호오, 네가 광물을 캤다곰메?
 그럼 어디 한 번 보겠슴메!"
-68,"TEXT_STMBDZ426_02749_GYOFU_000_048","교링……. 솔직히 말해도 되겠슴메?"
-69,"TEXT_STMBDZ426_02749_GYORIN_000_049","응, 물론이징!
+68,TEXT_STMBDZ426_02749_GYOFU_000_048,교링……. 솔직히 말해도 되겠슴메?
+69,TEXT_STMBDZ426_02749_GYORIN_000_049,"응, 물론이징!
 기대된당, 응후훗♪"
-70,"TEXT_STMBDZ426_02749_GYOFU_000_050","네가 가져온 광물은
+70,TEXT_STMBDZ426_02749_GYOFU_000_050,"네가 가져온 광물은
 가격을 매기기 어려울 만큼……"
-71,"TEXT_STMBDZ426_02749_GYOFU_000_051","쓰레기나 다름없는, 가치 없는 돌멩임메!!"
-72,"TEXT_STMBDZ426_02749_GYORIN_000_052","마, 말도 안 돼…….
+71,TEXT_STMBDZ426_02749_GYOFU_000_051,"쓰레기나 다름없는, 가치 없는 돌멩임메!!"
+72,TEXT_STMBDZ426_02749_GYORIN_000_052,"마, 말도 안 돼…….
 열심히 찾은 건데 어떻게 그럴 수가 있징."
-73,"TEXT_STMBDZ426_02749_GYORIN_000_053","다른 돈벌이가 또 없는지 생각해볼겡.
+73,TEXT_STMBDZ426_02749_GYORIN_000_053,"다른 돈벌이가 또 없는지 생각해볼겡.
 교후 씨, 봐줘서 고마웡……."
-74,"TEXT_STMBDZ426_02749_GYOFU_000_054","교링 녀석, 기가 팍 죽었슴메.
+74,TEXT_STMBDZ426_02749_GYOFU_000_054,"교링 녀석, 기가 팍 죽었슴메.
 그래도 가치가 없는 건 사실이라 어쩔 수 없슴메."
-75,"TEXT_STMBDZ426_02749_GYORIN_000_060","스승님이 가르쳐준 탐지술대로 했는데…….
+75,TEXT_STMBDZ426_02749_GYORIN_000_060,"스승님이 가르쳐준 탐지술대로 했는데…….
 혹시 내 수염은
 좋은 광물을 찾는 데 적합하지 않은 걸깡?"
-76,"TEXT_STMBDZ426_02749_GYORIN_000_061","나, 다른 돈벌이를 찾아볼겡.
+76,TEXT_STMBDZ426_02749_GYORIN_000_061,"나, 다른 돈벌이를 찾아볼겡.
 뭔가 좋은 방법을 찾으면 말해줄 테니까
 이번에도 함께해주랑……."

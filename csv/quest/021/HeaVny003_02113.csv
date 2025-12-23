@@ -1,118 +1,116 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_HEAVNY003_02113_SEQ_00","이슈가르드 비공정 승강장에 있는 노트렐샹은 모험가에게 할 말이 있는 모양이다."
-1,"TEXT_HEAVNY003_02113_SEQ_01","웨지가 모험가를 찾고 있다고 한다. 아지스 라 '마과학 연구소' 입구에 있는 '웨지'와 대화하자."
-2,"TEXT_HEAVNY003_02113_SEQ_02","웨지가 고장 난 '유도 시스템'을 고치기 위해 새로운 기판을 구해달라고 한다. 기판은 '무한연속 박물함'에 있을지도 모른다고 한다. 아지스 라 '제VI전송고리'에 있는 '알라그 전송 장치'를 조사하자."
-3,"TEXT_HEAVNY003_02113_SEQ_03","무한연속 박물함에 들어갈 수 있게 되었다. '무한연속 박물함'을 공략하자.
+#,Unknown0,Unknown1
+0,TEXT_HEAVNY003_02113_SEQ_00,이슈가르드 비공정 승강장에 있는 노트렐샹은 모험가에게 할 말이 있는 모양이다.
+1,TEXT_HEAVNY003_02113_SEQ_01,웨지가 모험가를 찾고 있다고 한다. 아지스 라 '마과학 연구소' 입구에 있는 '웨지'와 대화하자.
+2,TEXT_HEAVNY003_02113_SEQ_02,웨지가 고장 난 '유도 시스템'을 고치기 위해 새로운 기판을 구해달라고 한다. 기판은 '무한연속 박물함'에 있을지도 모른다고 한다. 아지스 라 '제VI전송고리'에 있는 '알라그 전송 장치'를 조사하자.
+3,TEXT_HEAVNY003_02113_SEQ_03,"무한연속 박물함에 들어갈 수 있게 되었다. '무한연속 박물함'을 공략하자.
 
 ※ '임무 찾기'를 통해, 본 임무의 공략에 참가할 수 있습니다."
-4,"TEXT_HEAVNY003_02113_SEQ_04","무한연속 박물함에서 <Sheet(EventItem,2001882,0)/><13>FF15022811FF0A4576656E744974656DF61E8BDA0103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 마과학 연구소 입구에 있는 '웨지'에게 <Sheet(EventItem,2001882,0)/><13>FF15022811FF0A4576656E744974656DF61E8BDA0103FF04EBA5BCFF04EC9D84</13> 건네자."
-5,"TEXT_HEAVNY003_02113_SEQ_05","새로운 기판을 얻은 '유도 시스템'은 온전히 되살아났다. 지금까지 외톨이로 지내왔던 유도 시스템과 함께 세계를 누비면서, 이 세상에는 많은 사람들이 함께하고 있다는 것을 가르쳐주자."
-6,"TEXT_HEAVNY003_02113_SEQ_06",""
-7,"TEXT_HEAVNY003_02113_SEQ_07",""
-8,"TEXT_HEAVNY003_02113_SEQ_08",""
-9,"TEXT_HEAVNY003_02113_SEQ_09",""
-10,"TEXT_HEAVNY003_02113_SEQ_10",""
-11,"TEXT_HEAVNY003_02113_SEQ_11",""
-12,"TEXT_HEAVNY003_02113_SEQ_12",""
-13,"TEXT_HEAVNY003_02113_SEQ_13",""
-14,"TEXT_HEAVNY003_02113_SEQ_14",""
-15,"TEXT_HEAVNY003_02113_SEQ_15",""
-16,"TEXT_HEAVNY003_02113_SEQ_16",""
-17,"TEXT_HEAVNY003_02113_SEQ_17",""
-18,"TEXT_HEAVNY003_02113_SEQ_18",""
-19,"TEXT_HEAVNY003_02113_SEQ_19",""
-20,"TEXT_HEAVNY003_02113_SEQ_20",""
-21,"TEXT_HEAVNY003_02113_SEQ_21",""
-22,"TEXT_HEAVNY003_02113_SEQ_22",""
-23,"TEXT_HEAVNY003_02113_SEQ_23",""
-24,"TEXT_HEAVNY003_02113_TODO_00","마과학 연구소 입구에서 웨지와 대화"
-25,"TEXT_HEAVNY003_02113_TODO_01","알라그 전송 장치 조사"
-26,"TEXT_HEAVNY003_02113_TODO_02","'무한연속 박물함' 공략"
-27,"TEXT_HEAVNY003_02113_TODO_03","마과학 연구소 입구에서 웨지에게 <Sheet(EventItem,2001882,0)/> 전달"
-28,"TEXT_HEAVNY003_02113_TODO_04",""
-29,"TEXT_HEAVNY003_02113_TODO_05",""
-30,"TEXT_HEAVNY003_02113_TODO_06",""
-31,"TEXT_HEAVNY003_02113_TODO_07",""
-32,"TEXT_HEAVNY003_02113_TODO_08",""
-33,"TEXT_HEAVNY003_02113_TODO_09",""
-34,"TEXT_HEAVNY003_02113_TODO_10",""
-35,"TEXT_HEAVNY003_02113_TODO_11",""
-36,"TEXT_HEAVNY003_02113_TODO_12",""
-37,"TEXT_HEAVNY003_02113_TODO_13",""
-38,"TEXT_HEAVNY003_02113_TODO_14",""
-39,"TEXT_HEAVNY003_02113_TODO_15",""
-40,"TEXT_HEAVNY003_02113_TODO_16",""
-41,"TEXT_HEAVNY003_02113_TODO_17",""
-42,"TEXT_HEAVNY003_02113_TODO_18",""
-43,"TEXT_HEAVNY003_02113_TODO_19",""
-44,"TEXT_HEAVNY003_02113_TODO_20",""
-45,"TEXT_HEAVNY003_02113_TODO_21",""
-46,"TEXT_HEAVNY003_02113_TODO_22",""
-47,"TEXT_HEAVNY003_02113_TODO_23",""
-48,"TEXT_HEAVNY003_02113_NOTRELCHAMPS_000_000","아, <Highlight>ObjectParameter(1)</Highlight> 님.
+4,TEXT_HEAVNY003_02113_SEQ_04,무한연속 박물함에서  손에 넣었다. 마과학 연구소 입구에 있는 '웨지'에게  건네자.
+5,TEXT_HEAVNY003_02113_SEQ_05,"새로운 기판을 얻은 '유도 시스템'은 온전히 되살아났다. 지금까지 외톨이로 지내왔던 유도 시스템과 함께 세계를 누비면서, 이 세상에는 많은 사람들이 함께하고 있다는 것을 가르쳐주자."
+6,TEXT_HEAVNY003_02113_SEQ_06,
+7,TEXT_HEAVNY003_02113_SEQ_07,
+8,TEXT_HEAVNY003_02113_SEQ_08,
+9,TEXT_HEAVNY003_02113_SEQ_09,
+10,TEXT_HEAVNY003_02113_SEQ_10,
+11,TEXT_HEAVNY003_02113_SEQ_11,
+12,TEXT_HEAVNY003_02113_SEQ_12,
+13,TEXT_HEAVNY003_02113_SEQ_13,
+14,TEXT_HEAVNY003_02113_SEQ_14,
+15,TEXT_HEAVNY003_02113_SEQ_15,
+16,TEXT_HEAVNY003_02113_SEQ_16,
+17,TEXT_HEAVNY003_02113_SEQ_17,
+18,TEXT_HEAVNY003_02113_SEQ_18,
+19,TEXT_HEAVNY003_02113_SEQ_19,
+20,TEXT_HEAVNY003_02113_SEQ_20,
+21,TEXT_HEAVNY003_02113_SEQ_21,
+22,TEXT_HEAVNY003_02113_SEQ_22,
+23,TEXT_HEAVNY003_02113_SEQ_23,
+24,TEXT_HEAVNY003_02113_TODO_00,마과학 연구소 입구에서 웨지와 대화
+25,TEXT_HEAVNY003_02113_TODO_01,알라그 전송 장치 조사
+26,TEXT_HEAVNY003_02113_TODO_02,'무한연속 박물함' 공략
+27,TEXT_HEAVNY003_02113_TODO_03,마과학 연구소 입구에서 웨지에게  전달
+28,TEXT_HEAVNY003_02113_TODO_04,
+29,TEXT_HEAVNY003_02113_TODO_05,
+30,TEXT_HEAVNY003_02113_TODO_06,
+31,TEXT_HEAVNY003_02113_TODO_07,
+32,TEXT_HEAVNY003_02113_TODO_08,
+33,TEXT_HEAVNY003_02113_TODO_09,
+34,TEXT_HEAVNY003_02113_TODO_10,
+35,TEXT_HEAVNY003_02113_TODO_11,
+36,TEXT_HEAVNY003_02113_TODO_12,
+37,TEXT_HEAVNY003_02113_TODO_13,
+38,TEXT_HEAVNY003_02113_TODO_14,
+39,TEXT_HEAVNY003_02113_TODO_15,
+40,TEXT_HEAVNY003_02113_TODO_16,
+41,TEXT_HEAVNY003_02113_TODO_17,
+42,TEXT_HEAVNY003_02113_TODO_18,
+43,TEXT_HEAVNY003_02113_TODO_19,
+44,TEXT_HEAVNY003_02113_TODO_20,
+45,TEXT_HEAVNY003_02113_TODO_21,
+46,TEXT_HEAVNY003_02113_TODO_22,
+47,TEXT_HEAVNY003_02113_TODO_23,
+48,TEXT_HEAVNY003_02113_NOTRELCHAMPS_000_000,"아, Player Player 님.
 당신을 찾고 있었습니다.
 ……웨지 님께서 은밀히 말씀을 전해달라고 하시더군요."
-49,"TEXT_HEAVNY003_02113_NOTRELCHAMPS_000_001","'마대륙'에 있는 '마과학 연구소' 입구로 와달라고 하십니다.
+49,TEXT_HEAVNY003_02113_NOTRELCHAMPS_000_001,"'마대륙'에 있는 '마과학 연구소' 입구로 와달라고 하십니다.
 둘만의 '초 극비계획'이 어쩌고 하시던데……
 아무튼 전 분명히 전해드렸습니다."
-50,"TEXT_HEAVNY003_02113_NOTRELCHAMPS_000_005","（★未使用／削除予定★）"
-51,"TEXT_HEAVNY003_02113_WEDGE_000_010","<Highlight>ObjectParameter(1)</Highlight>, 기다리고 있었슴다!
+50,TEXT_HEAVNY003_02113_NOTRELCHAMPS_000_005,（★未使用／削除予定★）
+51,TEXT_HEAVNY003_02113_WEDGE_000_010,"Player Player, 기다리고 있었슴다!
 혹시 이거 기억나심까?
 제가 주운 공……이 아니라 '유도 시스템'!"
-52,"TEXT_HEAVNY003_02113_WEDGE_000_011","너무 걱정이 돼서 두목 몰래 여기저기 찾아봤슴다.
+52,TEXT_HEAVNY003_02113_WEDGE_000_011,"너무 걱정이 돼서 두목 몰래 여기저기 찾아봤슴다.
 그래서 겨우 발견하긴 했는데,
 기능이 완전히 멈춰서 뭘 해도 반응이 없지 말임다."
-53,"TEXT_HEAVNY003_02113_WEDGE_000_012","이 녀석은 자기 사명을 다하기 위해
+53,TEXT_HEAVNY003_02113_WEDGE_000_012,"이 녀석은 자기 사명을 다하기 위해
 수천 년 동안이나 혼자서 방문자를 기다렸잖슴까?"
-54,"TEXT_HEAVNY003_02113_WEDGE_000_013","그런데 자기 할 일을 다하자마자
+54,TEXT_HEAVNY003_02113_WEDGE_000_013,"그런데 자기 할 일을 다하자마자
 그대로 멈춰버리다니…… 너무 불쌍함다.
 그래서 전 이 녀석을 꼭 살려주고 싶슴다!"
-55,"TEXT_HEAVNY003_02113_WEDGE_000_014","그런데 문제는 공 본체의 수명이 다 돼서
+55,TEXT_HEAVNY003_02113_WEDGE_000_014,"그런데 문제는 공 본체의 수명이 다 돼서
 제 실력으론 고칠 수가 없다는 검다…….
 하지만 새 몸체가 있으면 어떻게든 될 것 같슴다!"
-56,"TEXT_HEAVNY003_02113_WEDGE_000_015","즉 유도 시스템의 '마음'을
+56,TEXT_HEAVNY003_02113_WEDGE_000_015,"즉 유도 시스템의 '마음'을
 건강한 새 '몸체'로 옮기는 거란 말임다!"
-57,"TEXT_HEAVNY003_02113_WEDGE_000_016","여기 있는 정보 단말로 조사해봤는데,
+57,TEXT_HEAVNY003_02113_WEDGE_000_016,"여기 있는 정보 단말로 조사해봤는데,
 '무한연속 박물함'이라고 하는 박물전함이
 여기서 남쪽으로 쭉 가면 있다고 함다."
-58,"TEXT_HEAVNY003_02113_WEDGE_000_017","박물전함이라면 새 공이 있을지도 모르지 않슴까!?
+58,TEXT_HEAVNY003_02113_WEDGE_000_017,"박물전함이라면 새 공이 있을지도 모르지 않슴까!?
 제VI전송고리를 타면 갈 수 있는 것 같슴다.
 만약 거기 새 기판이 있으면 저한테 가져다주시기 바람다!"
-59,"TEXT_HEAVNY003_02113_WEDGE_000_020","'무한연속 박물함'이라고 하는 박물전함이
+59,TEXT_HEAVNY003_02113_WEDGE_000_020,"'무한연속 박물함'이라고 하는 박물전함이
 여기서 남쪽으로 쭉 가면 있다고 함다.
 그럼 이 녀석한테 새 몸체를 가져다주시기 바람다!"
-60,"TEXT_HEAVNY003_02113_CONTROLPANEL02113_000_030","이곳에서는 박물전함 '무한연속 박물함'으로 이동하실 수 있습니다."
-61,"TEXT_HEAVNY003_02113_CONTROLPANEL02113_000_031","함내 견학에는 3등급 이상의 알라그 제국 납세 코드……
+60,TEXT_HEAVNY003_02113_CONTROLPANEL02113_000_030,이곳에서는 박물전함 '무한연속 박물함'으로 이동하실 수 있습니다.
+61,TEXT_HEAVNY003_02113_CONTROLPANEL02113_000_031,"함내 견학에는 3등급 이상의 알라그 제국 납세 코드……
 또는 특별 승선 코드가 필요합니다."
-62,"TEXT_HEAVNY003_02113_CONTROLPANEL02113_000_032","유효한 코드를 소지하지 않은 상태로 승선한 경우에는
+62,TEXT_HEAVNY003_02113_CONTROLPANEL02113_000_032,"유효한 코드를 소지하지 않은 상태로 승선한 경우에는
 함내 방어 시스템이 제거행동을 실행할 수 있으니
 이 점 양해해주시기 바랍니다……."
-63,"TEXT_HEAVNY003_02113_SYSTEM_000_032","（★未使用／削除予定★）"
-64,"TEXT_HEAVNY003_02113_SYSTEM_000_033","허가 없이 '무한연속 박물함'에 들어가면
+63,TEXT_HEAVNY003_02113_SYSTEM_000_032,（★未使用／削除予定★）
+64,TEXT_HEAVNY003_02113_SYSTEM_000_033,"허가 없이 '무한연속 박물함'에 들어가면
 함내 방어 시스템이 제거행동을 실행한다고 한다…….
 승선할 때는 주의하자."
-65,"TEXT_HEAVNY003_02113_WEDGE_000_050","<Highlight>ObjectParameter(1)</Highlight>, 어떻게 됐슴까?
+65,TEXT_HEAVNY003_02113_WEDGE_000_050,"Player Player, 어떻게 됐슴까?
 새 몸체는 찾으셨슴까!?"
-66,"TEXT_HEAVNY003_02113_WEDGE_000_051","<Sheet(EventItem,2001882,0)/>……!
+66,TEXT_HEAVNY003_02113_WEDGE_000_051,"……!
 이거면 어떻게든 될 것 같슴다!"
-67,"TEXT_HEAVNY003_02113_DALAMUD02113_000_052","……………………삐삐."
-68,"TEXT_HEAVNY003_02113_DALAMUD02113_000_053","삐삐…… '유도 시스템' 기동…….
+67,TEXT_HEAVNY003_02113_DALAMUD02113_000_052,……………………삐삐.
+68,TEXT_HEAVNY003_02113_DALAMUD02113_000_053,"삐삐…… '유도 시스템' 기동…….
 ……재시작 설정을 진행합니다……."
-69,"TEXT_HEAVNY003_02113_DALAMUD02113_100_053","웨지 님, <Highlight>ObjectParameter(1)</Highlight> 님…….
+69,TEXT_HEAVNY003_02113_DALAMUD02113_100_053,"웨지 님, Player Player 님…….
 '아지스 라'에 오신 것을 환영합니다!"
-70,"TEXT_HEAVNY003_02113_WEDGE_000_054","……'유도 시스템' 맞슴까!?"
-71,"TEXT_HEAVNY003_02113_DALAMUD02113_000_055","삐삐…… 예, 웨지 님.
+70,TEXT_HEAVNY003_02113_WEDGE_000_054,……'유도 시스템' 맞슴까!?
+71,TEXT_HEAVNY003_02113_DALAMUD02113_000_055,"삐삐…… 예, 웨지 님.
 약 5000년 만의 점검 덕분에
 '유도 시스템'은 최상의 상태로 작동하고 있습니다."
-72,"TEXT_HEAVNY003_02113_WEDGE_000_056","우리가 해냈슴다! '유도 시스템'이 살아났슴다!
+72,TEXT_HEAVNY003_02113_WEDGE_000_056,"우리가 해냈슴다! '유도 시스템'이 살아났슴다!
 앞으로는 혼자 쓸쓸하게 있게 하지 않을 검다!"
-73,"TEXT_HEAVNY003_02113_WEDGE_000_057","<Highlight>ObjectParameter(1)</Highlight>, 부탁이 있슴다.
+73,TEXT_HEAVNY003_02113_WEDGE_000_057,"Player Player, 부탁이 있슴다.
 '유도 시스템'을 모험에 데려가 주셨으면 함다!
 이 녀석한테 더 넓은 세상을 보여주고 싶슴다!!"
-74,"TEXT_HEAVNY003_02113_WEDGE_000_058","오늘부터 이 녀석 이름은 '추종 시스템'임다!
+74,TEXT_HEAVNY003_02113_WEDGE_000_058,"오늘부터 이 녀석 이름은 '추종 시스템'임다!
 '추종 시스템'이랑 같이 여기저기 모험하면서
 세상은 너 혼자가 아니라고 가르쳐주시기 바람다!!"
-75,"TEXT_HEAVNY003_02113_CONTROLPANEL02113_000_040","（★未使用／削除予定★）"
-76,"TEXT_HEAVNY003_02113_CONTROLPANEL02113_000_041","（★未使用／削除予定★）"
+75,TEXT_HEAVNY003_02113_CONTROLPANEL02113_000_040,（★未使用／削除予定★）
+76,TEXT_HEAVNY003_02113_CONTROLPANEL02113_000_041,（★未使用／削除予定★）

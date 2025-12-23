@@ -1,104 +1,102 @@
-﻿key,0,1,2,3,4,5,6,7
-#,Name,Description,Icon,Action,Pet,MasterOrder,DisableOrder,
-int32,str,str,Image,Action,Pet,bit&01,bit&02,bit&04
-0,"","",405,0,0,False,True,False
-1,"귀환","소환수를 돌려보냅니다.",530,0,0,False,True,False
-2,"추종","소환수가 자기를 따라다니게 합니다.",529,0,0,False,True,False
-3,"이동","소환수를 지정 지점까지 이동시킵니다.",527,0,0,False,True,False
-4,"대기","소환수를 그 자리에서 대기시킵니다.",528,0,0,False,True,False
-5,"공격","자신이 공격하거나 공격당하기 전에는 전투를 시작하지 않도록 명령합니다.",531,0,0,False,True,False
-6,"평화","소환수에게 자신이 지시를 내릴 때까지 전투 행동을 하지 않도록 명령합니다.",532,0,0,False,True,False
-7,"자유 전투","소환수가 자유롭게 공격하도록 합니다.",786,0,0,True,False,False
-8,"지시 전투","소환수가 자유롭게 공격하도록 합니다. 단, 일부 기술은 명령을 받을 때까지 실행하지 않습니다.",786,0,0,True,False,False
-9,"돌풍","대상에게 바람속성 마법 공격을 가합니다.  <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 90",786,637,1,True,False,False
-10,"날리기","대상에게 바람속성 마법 공격을 가하고 15m 밀쳐냅니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 80
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,638,1,True,False,False
-11,"하강 기류","대상과 그 주위 적에게 바람속성 범위 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 80
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,639,1,True,False,False
-12,"에메랄드의 광휘","15초 동안 대상이 받는 마법 피해량이 10% 증가합니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,640,1,True,False,False
-13,"할퀴기","대상에게 땅속성 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 70
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 적개심 상승",786,633,2,True,False,False
-14,"토파즈의 빛","소환수를 중심으로 주위 적에게 땅속성 범위 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 적개심 상승
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,634,2,True,False,False
-15,"웅크리기","20초 동안 소환수가 받는 피해량이 20% 감소합니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,635,2,True,False,False
-16,"몸통 박치기","대상에게 땅속성 마법 공격을 가하고 2초 동안 기절시킵니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 60
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,636,2,True,False,False
-17,"바람의 칼날","대상에게 바람속성 마법 공격을 가합니다.  <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 110",786,792,5,True,False,False
-18,"충격 파동","대상에게 바람속성 마법 공격을 가합니다.  <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 90
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 대상을 15m 밀어냄
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,793,5,True,False,False
-19,"대기 난도질","대상과 그 주위 적에게 바람속성 범위 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 90
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,794,5,True,False,False
-20,"악화","15초 동안 대상이 받는 마법 피해량이 10% 증가합니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,795,5,True,False,False
-21,"대기 폭발","대상과 그 주위 적에게 바람속성 범위 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 250
-주인이 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>점화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하면 기술을 사용합니다.",786,796,5,True,False,False
-22,"바위 쪼개기","대상에게 땅속성 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 85
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 적개심 상승",786,787,4,True,False,False
-23,"산 쪼개기","소환수를 중심으로 주위 적에게 땅속성 범위 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 70
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>추가 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 적개심 상승
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,788,4,True,False,False
-24,"대지의 수호","20초 동안 소환수가 받는 피해량이 20% 감소합니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,789,4,True,False,False
-25,"산사태","대상에게 땅속성 마법 공격을 가하고 2초 동안 기절시킵니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 70
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,790,4,True,False,False
-26,"대지의 분노","주위 적에게 땅속성 범위 마법 공격을 가하고 15초 동안 지속되는 지속 피해 영역을 생성합니다. 
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 20
-주인이 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>점화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하면 기술을 사용합니다.",786,791,4,True,False,False
-27,"진홍 회오리","대상에게 불속성 마법 공격을 가하고 2초 동안 기절시킵니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 110
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,797,3,True,False,False
-28,"불타는 일격","대상에게 불속성 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 135",786,798,3,True,False,False
-29,"광휘의 방패","자신과 주위 파티원에게 20초 동안 보호막을 칩니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>보호막 효과<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 공격을 받을 때마다 100% 확률로 4초 동안 공격자가 받는 물리 피해량을 2% 증가시킵니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,799,3,True,False,False
-30,"화염 작열","자신을 중심으로 주위 적에게 불속성 범위 마법 공격을 가합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 110
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,800,3,True,False,False
-31,"지옥의 화염","대상을 향해 전방 부채꼴 범위 불속성 마법 공격을 가하고 15초 동안 불속성 지속 피해를 줍니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 200
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>지속 피해 위력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 20
-주인이 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>점화<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하면 기술을 사용합니다.",786,801,3,True,False,False
-32,"빛의 치유","대상의 HP를 회복합니다.  <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>250",786,802,6,True,False,False
-33,"빛의 속삭임","요정을 중심으로 21초 동안 주위 파티원의 HP를 지속적으로 회복합니다.
-<UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>120
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,803,6,True,False,False
-34,"요정의 서약","요정을 중심으로 20초 동안 주위 파티원의 마법 방어력이 20% 증가합니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>",786,804,6,True,False,False
-35,"요정의 광휘","요정을 중심으로 20초 동안 주위 파티원의 회복마법 회복량이 10% 상승합니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,805,6,True,False,False
-36,"빛의 치유","대상의 HP를 회복합니다.  <UIForeground>F201F8</UIForeground><UIGlow>F201F9</UIGlow>회복력<UIGlow>01</UIGlow><UIForeground>01</UIForeground>: 250",786,806,7,True,False,False
-37,"빛의 침묵","대상을 1초 동안 침묵시킵니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,807,7,True,False,False
-38,"요정의 손길","주위 파티원에게 부여된 일부 약화 효과를 1개 해제합니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,810,7,True,False,False
-39,"요정의 바람","요정을 중심으로 30초 동안 주위 파티원의 자동 공격 주기, 기술 시전 속도, 재사용 대기 시간이 3% 단축됩니다.
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>지시 전투<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,811,7,True,False,False
-40,"공격 지시","적을 공격하도록 지시합니다.",405,0,8,True,False,False
-41,"보조 지시","보조 효과를 발동하도록 지시합니다.",405,0,8,True,False,False
-42,"","",405,7428,10,True,False,False
-43,"","",405,7449,10,True,False,False
-44,"","",405,7450,0,True,False,False
-45,"","",405,7416,8,True,False,False
-46,"","",405,7417,9,True,False,False
-47,"","",405,7438,0,True,False,False
-48,"","",405,7440,0,True,False,False
-49,"","",405,7441,0,True,False,False
-50,"","",405,8879,0,True,False,False
-51,"","",405,8881,0,True,False,False
-52,"","",405,9127,0,True,False,False
+#,Name,Description,Icon,Action,Pet,MasterOrder,DisableOrder,Unknown0
+0,,,405,0,0,False,True,False
+1,귀환,소환수를 돌려보냅니다.,530,0,0,False,True,False
+2,추종,소환수가 자기를 따라다니게 합니다.,529,0,0,False,True,False
+3,이동,소환수를 지정 지점까지 이동시킵니다.,527,0,0,False,True,False
+4,대기,소환수를 그 자리에서 대기시킵니다.,528,0,0,False,True,False
+5,공격,자신이 공격하거나 공격당하기 전에는 전투를 시작하지 않도록 명령합니다.,531,0,0,False,True,False
+6,평화,소환수에게 자신이 지시를 내릴 때까지 전투 행동을 하지 않도록 명령합니다.,532,0,0,False,True,False
+7,자유 전투,소환수가 자유롭게 공격하도록 합니다.,786,0,0,True,False,False
+8,지시 전투,"소환수가 자유롭게 공격하도록 합니다. 단, 일부 기술은 명령을 받을 때까지 실행하지 않습니다.",786,0,0,True,False,False
+9,돌풍,대상에게 바람속성 마법 공격을 가합니다.  **위력**: 90,786,637,1,True,False,False
+10,날리기,"대상에게 바람속성 마법 공격을 가하고 15m 밀쳐냅니다.
+**위력**: 80
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.**",786,638,1,True,False,False
+11,하강 기류,"대상과 그 주위 적에게 바람속성 범위 마법 공격을 가합니다.
+**위력**: 80
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.**",786,639,1,True,False,False
+12,에메랄드의 광휘,"15초 동안 대상이 받는 마법 피해량이 10% 증가합니다.
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,640,1,True,False,False
+13,할퀴기,"대상에게 땅속성 마법 공격을 가합니다.
+**위력**: 70
+**추가 효과**: 적개심 상승",786,633,2,True,False,False
+14,토파즈의 빛,"소환수를 중심으로 주위 적에게 땅속성 범위 마법 공격을 가합니다.
+**위력**: 60
+**추가 효과**: 적개심 상승
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,634,2,True,False,False
+15,웅크리기,"20초 동안 소환수가 받는 피해량이 20% 감소합니다.
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.**",786,635,2,True,False,False
+16,몸통 박치기,"대상에게 땅속성 마법 공격을 가하고 2초 동안 기절시킵니다.
+**위력**: 60
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,636,2,True,False,False
+17,바람의 칼날,대상에게 바람속성 마법 공격을 가합니다.  **위력**: 110,786,792,5,True,False,False
+18,충격 파동,"대상에게 바람속성 마법 공격을 가합니다.  **위력**: 90
+**추가 효과**: 대상을 15m 밀어냄
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.**",786,793,5,True,False,False
+19,대기 난도질,"대상과 그 주위 적에게 바람속성 범위 마법 공격을 가합니다.
+**위력**: 90
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.**",786,794,5,True,False,False
+20,악화,"15초 동안 대상이 받는 마법 피해량이 10% 증가합니다.
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,795,5,True,False,False
+21,대기 폭발,"대상과 그 주위 적에게 바람속성 범위 마법 공격을 가합니다.
+**위력**: 250
+주인이 **점화**를 실행하면 기술을 사용합니다.",786,796,5,True,False,False
+22,바위 쪼개기,"대상에게 땅속성 마법 공격을 가합니다.
+**위력**: 85
+**추가 효과**: 적개심 상승",786,787,4,True,False,False
+23,산 쪼개기,"소환수를 중심으로 주위 적에게 땅속성 범위 마법 공격을 가합니다.
+**위력**: 70
+**추가 효과**: 적개심 상승
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,788,4,True,False,False
+24,대지의 수호,"20초 동안 소환수가 받는 피해량이 20% 감소합니다.
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.**",786,789,4,True,False,False
+25,산사태,"대상에게 땅속성 마법 공격을 가하고 2초 동안 기절시킵니다.
+**위력**: 70
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,790,4,True,False,False
+26,대지의 분노,"주위 적에게 땅속성 범위 마법 공격을 가하고 15초 동안 지속되는 지속 피해 영역을 생성합니다. 
+**위력**: 200
+**지속 피해 위력**: 20
+주인이 **점화**를 실행하면 기술을 사용합니다.",786,791,4,True,False,False
+27,진홍 회오리,"대상에게 불속성 마법 공격을 가하고 2초 동안 기절시킵니다.
+**위력**: 110
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,797,3,True,False,False
+28,불타는 일격,"대상에게 불속성 마법 공격을 가합니다.
+**위력**: 135",786,798,3,True,False,False
+29,광휘의 방패,"자신과 주위 파티원에게 20초 동안 보호막을 칩니다.
+**보호막 효과**: 공격을 받을 때마다 100% 확률로 4초 동안 공격자가 받는 물리 피해량을 2% 증가시킵니다.
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,799,3,True,False,False
+30,화염 작열,"자신을 중심으로 주위 적에게 불속성 범위 마법 공격을 가합니다.
+**위력**: 110
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,800,3,True,False,False
+31,지옥의 화염,"대상을 향해 전방 부채꼴 범위 불속성 마법 공격을 가하고 15초 동안 불속성 지속 피해를 줍니다.
+**위력**: 200
+**지속 피해 위력**: 20
+주인이 **점화**를 실행하면 기술을 사용합니다.",786,801,3,True,False,False
+32,빛의 치유,대상의 HP를 회복합니다.  **회복력: **250,786,802,6,True,False,False
+33,빛의 속삭임,"요정을 중심으로 21초 동안 주위 파티원의 HP를 지속적으로 회복합니다.
+**회복력: **120
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,803,6,True,False,False
+34,요정의 서약,"요정을 중심으로 20초 동안 주위 파티원의 마법 방어력이 20% 증가합니다.
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.**",786,804,6,True,False,False
+35,요정의 광휘,"요정을 중심으로 20초 동안 주위 파티원의 회복마법 회복량이 10% 상승합니다.
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,805,6,True,False,False
+36,빛의 치유,대상의 HP를 회복합니다.  **회복력**: 250,786,806,7,True,False,False
+37,빛의 침묵,"대상을 1초 동안 침묵시킵니다.
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,807,7,True,False,False
+38,요정의 손길,"주위 파티원에게 부여된 일부 약화 효과를 1개 해제합니다.
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,810,7,True,False,False
+39,요정의 바람,"요정을 중심으로 30초 동안 주위 파티원의 자동 공격 주기, 기술 시전 속도, 재사용 대기 시간이 3% 단축됩니다.
+**지시 전투** 상태일 때는 명령을 받을 때까지 실행하지 않습니다.",786,811,7,True,False,False
+40,공격 지시,적을 공격하도록 지시합니다.,405,0,8,True,False,False
+41,보조 지시,보조 효과를 발동하도록 지시합니다.,405,0,8,True,False,False
+42,,,405,7428,10,True,False,False
+43,,,405,7449,10,True,False,False
+44,,,405,7450,0,True,False,False
+45,,,405,7416,8,True,False,False
+46,,,405,7417,9,True,False,False
+47,,,405,7438,0,True,False,False
+48,,,405,7440,0,True,False,False
+49,,,405,7441,0,True,False,False
+50,,,405,8879,0,True,False,False
+51,,,405,8881,0,True,False,False
+52,,,405,9127,0,True,False,False

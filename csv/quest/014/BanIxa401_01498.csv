@@ -1,111 +1,109 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANIXA401_01498_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANIXA401_01498_SEQ_00,"**특수 규칙:  레벨 보정**
 ※ 이 퀘스트의 권장 레벨은 ""제작자 클래스 10, 전투 클래스 47 이상""입니다.
 
 에카틀 실험장의 학구열 넘치는 타젤 메예안은 모험가에게 천재적인 의뢰를 하려는 것 같다."
-1,"TEXT_BANIXA401_01498_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+1,TEXT_BANIXA401_01498_SEQ_01,"※ 이 퀘스트에는 **** 레벨 보정
  적용됩니다.
 
-학구열 넘치는 타젤 메예안이 <Sheet(ItemHQ,　8105,0)/> 제작을 의뢰했다. 재료와 교환할 물건을 마련하기 위해, 원예가가 되어 영광의 개울에 있는 성목에서 <Sheet(EventItem,2001388,0)/> 15개, <Sheet(EventItem,2001389,0)/> 5개를 벌채하자."
-2,"TEXT_BANIXA401_01498_SEQ_02","재료와 교환 가능한 목재를 벌채했다. 가을박 마을에 있는 '검은토끼 무역상사 상인'에게 교환을 제의하자."
-3,"TEXT_BANIXA401_01498_SEQ_03","검은토끼 무역상사 상인에게 <Sheet(EventItem,2001387,0)/><13>FF15022811FF0A4576656E744974656DF61E89EB0103FF04EBA5BCFF04EC9D84</13> 받았다. 가을박 마을 '둥둥 뜬 코르크 여관'에 있는 '힐데야드'에게 <Sheet(EventItem,2001387,0)/><13>FF15022811FF0A4576656E744974656DF61E89EB0103FF04EBA5BCFF04EC9D84</13> 건네고 제작시설 사용 허가를 받자."
-4,"TEXT_BANIXA401_01498_SEQ_04","제작시설을 사용할 준비가 끝났다. <Sheet(Item,　8066,0)/><14>FF15022811FF054974656DFF08E38080383036360103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(ItemHQ,　8105,0)/><13>FF17022813FF074974656D4851FF08E38080383130350103FF04EBA5BCFF04EC9D84</13> 4개 제작하여 에카틀 실험장에 있는 '학구열 넘치는 타젤 메예안'에게 납품하자.
+학구열 넘치는 타젤 메예안이  제작을 의뢰했다. 재료와 교환할 물건을 마련하기 위해, 원예가가 되어 영광의 개울에 있는 성목에서  15개,  5개를 벌채하자."
+2,TEXT_BANIXA401_01498_SEQ_02,재료와 교환 가능한 목재를 벌채했다. 가을박 마을에 있는 '검은토끼 무역상사 상인'에게 교환을 제의하자.
+3,TEXT_BANIXA401_01498_SEQ_03,검은토끼 무역상사 상인에게  받았다. 가을박 마을 '둥둥 뜬 코르크 여관'에 있는 '힐데야드'에게  건네고 제작시설 사용 허가를 받자.
+4,TEXT_BANIXA401_01498_SEQ_04,"제작시설을 사용할 준비가 끝났다.   4개 제작하여 에카틀 실험장에 있는 '학구열 넘치는 타젤 메예안'에게 납품하자.
 
-※ 강화 효과 '제작시설: 고급제작'이 끝나거나 <Sheet(Item,　8066,0)/><13>FF15022811FF054974656DFF08E38080383036360103FF04EBA5BCFF04EC9D84</13> 잃어버렸을 때에는 힐데야드에게 말을 걸어주세요. 강화 효과와 재료를 다시 받아서 재도전할 수 있습니다."
-5,"TEXT_BANIXA401_01498_SEQ_05","학구열 넘치는 타젤 메예안에게 <Sheet(ItemHQ,　8105,0)/><13>FF17022813FF074974656D4851FF08E38080383130350103FF04EBA5BCFF04EC9D84</13> 납품했다. 그는 모험가를, 자신의 천재적인 발상을 구체화할 실력이 있는 오른팔적인 존재로 인정해주었다. 그의 기대를 저버리지 않도록 계속해서 기술 혁신에 매진하자."
-6,"TEXT_BANIXA401_01498_SEQ_06",""
-7,"TEXT_BANIXA401_01498_SEQ_07",""
-8,"TEXT_BANIXA401_01498_SEQ_08",""
-9,"TEXT_BANIXA401_01498_SEQ_09",""
-10,"TEXT_BANIXA401_01498_SEQ_10",""
-11,"TEXT_BANIXA401_01498_SEQ_11",""
-12,"TEXT_BANIXA401_01498_SEQ_12",""
-13,"TEXT_BANIXA401_01498_SEQ_13",""
-14,"TEXT_BANIXA401_01498_SEQ_14",""
-15,"TEXT_BANIXA401_01498_SEQ_15",""
-16,"TEXT_BANIXA401_01498_SEQ_16",""
-17,"TEXT_BANIXA401_01498_SEQ_17",""
-18,"TEXT_BANIXA401_01498_SEQ_18",""
-19,"TEXT_BANIXA401_01498_SEQ_19",""
-20,"TEXT_BANIXA401_01498_SEQ_20",""
-21,"TEXT_BANIXA401_01498_SEQ_21",""
-22,"TEXT_BANIXA401_01498_SEQ_22",""
-23,"TEXT_BANIXA401_01498_SEQ_23",""
-24,"TEXT_BANIXA401_01498_TODO_00","원예가가 되어 영광의 개울에 있는 성목에서
- <Sheet(EventItem,2001388,0)/> 벌채"
-25,"TEXT_BANIXA401_01498_TODO_01","원예가가 되어 영광의 개울에 있는 성목에서
- <Sheet(EventItem,2001389,0)/> 벌채"
-26,"TEXT_BANIXA401_01498_TODO_02","가을박 마을에서 검은토끼 무역상사 상인에게 
-<Sheet(EventItem,2001388,0)/> 및 <Sheet(EventItem,2001389,0)/> 전달"
-27,"TEXT_BANIXA401_01498_TODO_03","가을박 마을에서 힐데야드에게 <Sheet(EventItem,2001387,0)/> 전달"
-28,"TEXT_BANIXA401_01498_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트 레벨 10：<Sheet(ItemHQ,　8105,0)/> 제작<Else/>학구열 넘치는 타젤 메예안에게 <Sheet(ItemHQ,　8105,0)/> 납품</If>"
-29,"TEXT_BANIXA401_01498_TODO_05",""
-30,"TEXT_BANIXA401_01498_TODO_06",""
-31,"TEXT_BANIXA401_01498_TODO_07",""
-32,"TEXT_BANIXA401_01498_TODO_08",""
-33,"TEXT_BANIXA401_01498_TODO_09",""
-34,"TEXT_BANIXA401_01498_TODO_10",""
-35,"TEXT_BANIXA401_01498_TODO_11",""
-36,"TEXT_BANIXA401_01498_TODO_12",""
-37,"TEXT_BANIXA401_01498_TODO_13",""
-38,"TEXT_BANIXA401_01498_TODO_14",""
-39,"TEXT_BANIXA401_01498_TODO_15",""
-40,"TEXT_BANIXA401_01498_TODO_16",""
-41,"TEXT_BANIXA401_01498_TODO_17",""
-42,"TEXT_BANIXA401_01498_TODO_18",""
-43,"TEXT_BANIXA401_01498_TODO_19",""
-44,"TEXT_BANIXA401_01498_TODO_20",""
-45,"TEXT_BANIXA401_01498_TODO_21",""
-46,"TEXT_BANIXA401_01498_TODO_22",""
-47,"TEXT_BANIXA401_01498_TODO_23",""
-48,"TEXT_BANIXA401_01498_TAZELMEYEAN_000_000","끼히히히히힛! 가능해…… 이 제조법을 쓰면 할 수 있어 키잇!
+※ 강화 효과 '제작시설: 고급제작'이 끝나거나  잃어버렸을 때에는 힐데야드에게 말을 걸어주세요. 강화 효과와 재료를 다시 받아서 재도전할 수 있습니다."
+5,TEXT_BANIXA401_01498_SEQ_05,"학구열 넘치는 타젤 메예안에게  납품했다. 그는 모험가를, 자신의 천재적인 발상을 구체화할 실력이 있는 오른팔적인 존재로 인정해주었다. 그의 기대를 저버리지 않도록 계속해서 기술 혁신에 매진하자."
+6,TEXT_BANIXA401_01498_SEQ_06,
+7,TEXT_BANIXA401_01498_SEQ_07,
+8,TEXT_BANIXA401_01498_SEQ_08,
+9,TEXT_BANIXA401_01498_SEQ_09,
+10,TEXT_BANIXA401_01498_SEQ_10,
+11,TEXT_BANIXA401_01498_SEQ_11,
+12,TEXT_BANIXA401_01498_SEQ_12,
+13,TEXT_BANIXA401_01498_SEQ_13,
+14,TEXT_BANIXA401_01498_SEQ_14,
+15,TEXT_BANIXA401_01498_SEQ_15,
+16,TEXT_BANIXA401_01498_SEQ_16,
+17,TEXT_BANIXA401_01498_SEQ_17,
+18,TEXT_BANIXA401_01498_SEQ_18,
+19,TEXT_BANIXA401_01498_SEQ_19,
+20,TEXT_BANIXA401_01498_SEQ_20,
+21,TEXT_BANIXA401_01498_SEQ_21,
+22,TEXT_BANIXA401_01498_SEQ_22,
+23,TEXT_BANIXA401_01498_SEQ_23,
+24,TEXT_BANIXA401_01498_TODO_00,"원예가가 되어 영광의 개울에 있는 성목에서
+  벌채"
+25,TEXT_BANIXA401_01498_TODO_01,"원예가가 되어 영광의 개울에 있는 성목에서
+  벌채"
+26,TEXT_BANIXA401_01498_TODO_02,"가을박 마을에서 검은토끼 무역상사 상인에게 
+ 및  전달"
+27,TEXT_BANIXA401_01498_TODO_03,가을박 마을에서 힐데야드에게  전달
+28,TEXT_BANIXA401_01498_TODO_04,제작수첩 우호부족 퀘스트 레벨 10： 제작
+29,TEXT_BANIXA401_01498_TODO_05,
+30,TEXT_BANIXA401_01498_TODO_06,
+31,TEXT_BANIXA401_01498_TODO_07,
+32,TEXT_BANIXA401_01498_TODO_08,
+33,TEXT_BANIXA401_01498_TODO_09,
+34,TEXT_BANIXA401_01498_TODO_10,
+35,TEXT_BANIXA401_01498_TODO_11,
+36,TEXT_BANIXA401_01498_TODO_12,
+37,TEXT_BANIXA401_01498_TODO_13,
+38,TEXT_BANIXA401_01498_TODO_14,
+39,TEXT_BANIXA401_01498_TODO_15,
+40,TEXT_BANIXA401_01498_TODO_16,
+41,TEXT_BANIXA401_01498_TODO_17,
+42,TEXT_BANIXA401_01498_TODO_18,
+43,TEXT_BANIXA401_01498_TODO_19,
+44,TEXT_BANIXA401_01498_TODO_20,
+45,TEXT_BANIXA401_01498_TODO_21,
+46,TEXT_BANIXA401_01498_TODO_22,
+47,TEXT_BANIXA401_01498_TODO_23,
+48,TEXT_BANIXA401_01498_TAZELMEYEAN_000_000,"끼히히히히힛! 가능해…… 이 제조법을 쓰면 할 수 있어 키잇!
 이 몸의 천재적 발상을 구현해야겠으니,
-거기 너! 고품질 <Sheet(ItemHQ,　8105,0)/><13>FF17022813FF074974656D4851FF08E38080383130350103FF04EBA5BCFF04EC9D84</13> 4개 만들어와라 키잇!"
-49,"TEXT_BANIXA401_01498_TAZELMEYEAN_000_010","뭘 말이냐니, 당연히 우현 에테르 날개의 골격이지 키잇!
+거기 너! 고품질  4개 만들어와라 키잇!"
+49,TEXT_BANIXA401_01498_TAZELMEYEAN_000_010,"뭘 말이냐니, 당연히 우현 에테르 날개의 골격이지 키잇!
 이 개량형 부품은 강도와 경량화 두 마리 토끼를 잡는다고 키잇!
 전에 썼던 가을박 마을의 제작시설에서 만들어와라 키잇!"
-50,"TEXT_BANIXA401_01498_TAZELMEYEAN_000_020","뭘 말이냐니, 당연히 고전도율 에테르 도료지 키잇!
+50,TEXT_BANIXA401_01498_TAZELMEYEAN_000_020,"뭘 말이냐니, 당연히 고전도율 에테르 도료지 키잇!
 날개에 바르면 바람속성 에테르의 효율이 극대화된다고 키잇!
 전에 썼던 가을박 마을의 제작시설에서 만들어와라 키잇!"
-51,"TEXT_BANIXA401_01498_TAZELMEYEAN_000_030","뭘 말이냐니, 당연히 에테르 피막이지 키잇!
+51,TEXT_BANIXA401_01498_TAZELMEYEAN_000_030,"뭘 말이냐니, 당연히 에테르 피막이지 키잇!
 바람속성 에테르를 꽉 잡고 놔주질 않는, 쩌는 범포라고 키잇!
 전에 썼던 가을박 마을의 제작시설에서 만들어와라 키잇!"
-52,"TEXT_BANIXA401_01498_TAZELMEYEAN_000_040","……맞다, 제작하려면 먼저 재료가 있어야지 키잇!
+52,TEXT_BANIXA401_01498_TAZELMEYEAN_000_040,"……맞다, 제작하려면 먼저 재료가 있어야지 키잇!
 마침 가을박 마을에 물건을 도매하러 온
 '검은토끼 무역상사 상인'이 물물교환도 해준다고 한다 키잇!"
-53,"TEXT_BANIXA401_01498_TAZELMEYEAN_000_041","교환 대가는…… <Sheet(EventItem,2001388,0)/> 15개,
-<Sheet(EventItem,2001389,0)/> 5개 정도 가져가면 충분하겠지 키잇!
+53,TEXT_BANIXA401_01498_TAZELMEYEAN_000_041,"교환 대가는……  15개,
+ 5개 정도 가져가면 충분하겠지 키잇!
 나무는 영광의 개울에서 벌채해가라 키잇!"
-54,"TEXT_BANIXA401_01498_TAZELMEYEAN_000_050","고품질 <Sheet(ItemHQ,　8105,0)/><13>FF17022813FF074974656D4851FF08E38080383130350103FF04EBA5BCFF04EC9D84</13> 부탁한다 키잇!
+54,TEXT_BANIXA401_01498_TAZELMEYEAN_000_050,"고품질  부탁한다 키잇!
 이 몸의 천재적 발상을 구현하기 위해서는
 필수불가결한 부재임을 명심해라 키잇!"
-55,"TEXT_BANIXA401_01498_GARDENER1498_000_060","어서 옵쇼!
+55,TEXT_BANIXA401_01498_GARDENER1498_000_060,"어서 옵쇼!
 원하시는 물건이 있으면 물물교환해드립니다!"
-56,"TEXT_BANIXA401_01498_GARDENER1498_000_061","……오오!
+56,TEXT_BANIXA401_01498_GARDENER1498_000_061,"……오오!
 아름다운 나뭇결, 풍부한 향기…… 나무랄 데 없는 목재로군요!"
-57,"TEXT_BANIXA401_01498_GARDENER1498_000_062","그럼 원하시는 물건과 교환해드리겠습니다!
+57,TEXT_BANIXA401_01498_GARDENER1498_000_062,"그럼 원하시는 물건과 교환해드리겠습니다!
 다음에 또 오십쇼!"
-58,"TEXT_BANIXA401_01498_HILDEYERD_000_070","안~녕~하~세~요~!
-우리 <If(PlayerParameter(4))>아가씨<Else/>도련님</If> 친구, 또 만났네요~!
-여길 이용하고 싶으면~ 가져온 재료를 이 <If(PlayerParameter(4))>언니<Else/>누나</If>한테 맡겨주세요!"
-59,"TEXT_BANIXA401_01498_HILDEYERD_000_071","어머나, 많이도 가져왔네요?
+58,TEXT_BANIXA401_01498_HILDEYERD_000_070,"안~녕~하~세~요~!
+우리 아가씨 친구, 또 만났네요~!
+여길 이용하고 싶으면~ 가져온 재료를 이 언니한테 맡겨주세요!"
+59,TEXT_BANIXA401_01498_HILDEYERD_000_071,"어머나, 많이도 가져왔네요?
 재료는 제작하는 데 필요한 만큼 내드릴 테니
 행여나 실패하면 언제든지 다시 재료를 받아가세요!"
-60,"TEXT_BANIXA401_01498_HILDEYERD_000_100","재료는 제작하는 데 필요한 만큼 내드릴 테니
+60,TEXT_BANIXA401_01498_HILDEYERD_000_100,"재료는 제작하는 데 필요한 만큼 내드릴 테니
 행여나 실패하면 언제든지 다시 재료를 받아가세요!"
-61,"TEXT_BANIXA401_01498_HILDEYERD_100_100","일을 다 했으면 이제 납품하러 가야 하지요~!
+61,TEXT_BANIXA401_01498_HILDEYERD_100_100,"일을 다 했으면 이제 납품하러 가야 하지요~!
 혹시 납품하러 가는 길에 만든 걸 잃어버린 경우에는
-<If(PlayerParameter(4))>언니<Else/>누나</If>한테 와서 다시 만들면 돼요!"
-62,"TEXT_BANIXA401_01498_TAZELMEYEAN_000_130","이 몸의 천재적 발상을 감당할 수 있는 <Sheet(ItemHQ,　8105,0)/>……
+언니한테 와서 다시 만들면 돼요!"
+62,TEXT_BANIXA401_01498_TAZELMEYEAN_000_130,"이 몸의 천재적 발상을 감당할 수 있는 ……
 과연 네가 만들 수 있겠는가 키잇!"
-63,"TEXT_BANIXA401_01498_TAZELMEYEAN_000_131","호오, 이거 죽이는데! 어딜 봐도 흠잡을 데 없이 완벽하군 키잇!
+63,TEXT_BANIXA401_01498_TAZELMEYEAN_000_131,"호오, 이거 죽이는데! 어딜 봐도 흠잡을 데 없이 완벽하군 키잇!
 이 몸의 두뇌와 너의 기술이 만나면 그야말로 천하무적이겠어!
 앞으로도 잘 부탁한다, 끼히히히힛!"
-64,"TEXT_BANIXA401_01498_POPMESSAGE_000_200","제작할 준비가 되었습니다."
-65,"TEXT_BANIXA401_01498_SYSTEM_200_200","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+64,TEXT_BANIXA401_01498_POPMESSAGE_000_200,제작할 준비가 되었습니다.
+65,TEXT_BANIXA401_01498_SYSTEM_200_200,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."
-66,"TEXT_BANIXA401_01498_SYSTEM_000_900","이 퀘스트엔 '원예가' 클래스가 필요합니다.
+66,TEXT_BANIXA401_01498_SYSTEM_000_900,"이 퀘스트엔 '원예가' 클래스가 필요합니다.
 원예가의 '주 도구'를 갖추고 진행해주세요!"

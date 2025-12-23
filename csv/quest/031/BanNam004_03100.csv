@@ -1,297 +1,295 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANNAM004_03100_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANNAM004_03100_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 도로 일로에 있는 교신은 또다시 모험가에게 상의하고 싶은 것이 있는 모양이다."
-1,"TEXT_BANNAM004_03100_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+1,TEXT_BANNAM004_03100_SEQ_01,"※ 이 퀘스트에는
+ '**** 레벨 보정(직업 변경 제한)' 적용됩니다.
    퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
 
 교신과 대화했다. 광풍원 세이게츠가 또다시 조언하여, 교신과 함께 아우라 젤라의 마을을 돌며 제전에 관한 지식을 수집하게 되었다. 먼저, 아짐 대초원의 몰 일로에 있는 '시리나'에게 이야기를 들어보자."
-2,"TEXT_BANNAM004_03100_SEQ_02","시리나에게 이야기를 들었다. 몰족에 전해지는 경마라는 제전에 대한 지식을 얻었다. 다음으로 아짐 대초원의 여명의 옥좌에 있는 '마그나이'에게 이야기를 들어보자."
-3,"TEXT_BANNAM004_03100_SEQ_03","마그나이에게 이야기를 들었다. 오로니르족에 전해지는 격투기 '아짐 부흐'에 대한 지식을 얻었다. 다음으로 아짐 대초원의 도탈 카에 있는 '사두'에게 이야기를 들어보자."
-4,"TEXT_BANNAM004_03100_SEQ_04","사두의 이야기를 들었다. 도탈족에게 전해지는 활쏘기라는 경기에 대한 지식을 얻었다. 먼저 돌아간 교신을 따라 도로 일로로 가서 '교레이'와 대화하자."
-5,"TEXT_BANNAM004_03100_SEQ_05","교레이와 이야기했다. 모험가와 교신은 활쏘기를 준비하게 되었다. 교신이 부탁한 물건을 준비하여 도로 일로에 있는 '교신'에게 납품하자."
-6,"TEXT_BANNAM004_03100_SEQ_06","교신이 부탁한 물건을 준비하여 교신에게 건넸다. 이어서 활을 쏘기 위해 도로 일로에 있는 '교레이'와 대화하자."
-7,"TEXT_BANNAM004_03100_SEQ_07","교레이와 대화하고 활쏘기를 실시했다. 도로 일로에 있는 '교신'과 이야기하자."
-8,"TEXT_BANNAM004_03100_SEQ_08","교신과 대화했다. 도로 일로에서 아우라족의 유목민풍 제전이 시작되었다. 계속해서 제전의 분위기를 띄우기 위해 교신 일행에게 협력하자."
-9,"TEXT_BANNAM004_03100_SEQ_09",""
-10,"TEXT_BANNAM004_03100_SEQ_10",""
-11,"TEXT_BANNAM004_03100_SEQ_11",""
-12,"TEXT_BANNAM004_03100_SEQ_12",""
-13,"TEXT_BANNAM004_03100_SEQ_13",""
-14,"TEXT_BANNAM004_03100_SEQ_14",""
-15,"TEXT_BANNAM004_03100_SEQ_15",""
-16,"TEXT_BANNAM004_03100_SEQ_16",""
-17,"TEXT_BANNAM004_03100_SEQ_17",""
-18,"TEXT_BANNAM004_03100_SEQ_18",""
-19,"TEXT_BANNAM004_03100_SEQ_19",""
-20,"TEXT_BANNAM004_03100_SEQ_20",""
-21,"TEXT_BANNAM004_03100_SEQ_21",""
-22,"TEXT_BANNAM004_03100_SEQ_22",""
-23,"TEXT_BANNAM004_03100_SEQ_23",""
-24,"TEXT_BANNAM004_03100_TODO_00","시리나와 대화"
-25,"TEXT_BANNAM004_03100_TODO_01","마그나이와 대화"
-26,"TEXT_BANNAM004_03100_TODO_02","사두와 대화"
-27,"TEXT_BANNAM004_03100_TODO_03","교레이에게 보고"
-28,"TEXT_BANNAM004_03100_TODO_04","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교신에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교신에게<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교신에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교신에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교신에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교신에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교신에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교신에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>재회시장 남쪽의 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>교신에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>재회시장 남쪽의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>교신에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>도탈 카에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>교신에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
-29,"TEXT_BANNAM004_03100_TODO_05","교레이와 대화"
-30,"TEXT_BANNAM004_03100_TODO_06","교신과 대화"
-31,"TEXT_BANNAM004_03100_TODO_07",""
-32,"TEXT_BANNAM004_03100_TODO_08",""
-33,"TEXT_BANNAM004_03100_TODO_09",""
-34,"TEXT_BANNAM004_03100_TODO_10",""
-35,"TEXT_BANNAM004_03100_TODO_11",""
-36,"TEXT_BANNAM004_03100_TODO_12",""
-37,"TEXT_BANNAM004_03100_TODO_13",""
-38,"TEXT_BANNAM004_03100_TODO_14",""
-39,"TEXT_BANNAM004_03100_TODO_15",""
-40,"TEXT_BANNAM004_03100_TODO_16",""
-41,"TEXT_BANNAM004_03100_TODO_17",""
-42,"TEXT_BANNAM004_03100_TODO_18",""
-43,"TEXT_BANNAM004_03100_TODO_19",""
-44,"TEXT_BANNAM004_03100_TODO_20",""
-45,"TEXT_BANNAM004_03100_TODO_21",""
-46,"TEXT_BANNAM004_03100_TODO_22",""
-47,"TEXT_BANNAM004_03100_TODO_23",""
-48,"TEXT_BANNAM004_03100_GYOSHIN_000_001","<If(PlayerParameter(4))>누님<Else/>형님</If>, 또다시 상의하고 싶은 것이 있담메.
+2,TEXT_BANNAM004_03100_SEQ_02,시리나에게 이야기를 들었다. 몰족에 전해지는 경마라는 제전에 대한 지식을 얻었다. 다음으로 아짐 대초원의 여명의 옥좌에 있는 '마그나이'에게 이야기를 들어보자.
+3,TEXT_BANNAM004_03100_SEQ_03,마그나이에게 이야기를 들었다. 오로니르족에 전해지는 격투기 '아짐 부흐'에 대한 지식을 얻었다. 다음으로 아짐 대초원의 도탈 카에 있는 '사두'에게 이야기를 들어보자.
+4,TEXT_BANNAM004_03100_SEQ_04,사두의 이야기를 들었다. 도탈족에게 전해지는 활쏘기라는 경기에 대한 지식을 얻었다. 먼저 돌아간 교신을 따라 도로 일로로 가서 '교레이'와 대화하자.
+5,TEXT_BANNAM004_03100_SEQ_05,교레이와 이야기했다. 모험가와 교신은 활쏘기를 준비하게 되었다. 교신이 부탁한 물건을 준비하여 도로 일로에 있는 '교신'에게 납품하자.
+6,TEXT_BANNAM004_03100_SEQ_06,교신이 부탁한 물건을 준비하여 교신에게 건넸다. 이어서 활을 쏘기 위해 도로 일로에 있는 '교레이'와 대화하자.
+7,TEXT_BANNAM004_03100_SEQ_07,교레이와 대화하고 활쏘기를 실시했다. 도로 일로에 있는 '교신'과 이야기하자.
+8,TEXT_BANNAM004_03100_SEQ_08,교신과 대화했다. 도로 일로에서 아우라족의 유목민풍 제전이 시작되었다. 계속해서 제전의 분위기를 띄우기 위해 교신 일행에게 협력하자.
+9,TEXT_BANNAM004_03100_SEQ_09,
+10,TEXT_BANNAM004_03100_SEQ_10,
+11,TEXT_BANNAM004_03100_SEQ_11,
+12,TEXT_BANNAM004_03100_SEQ_12,
+13,TEXT_BANNAM004_03100_SEQ_13,
+14,TEXT_BANNAM004_03100_SEQ_14,
+15,TEXT_BANNAM004_03100_SEQ_15,
+16,TEXT_BANNAM004_03100_SEQ_16,
+17,TEXT_BANNAM004_03100_SEQ_17,
+18,TEXT_BANNAM004_03100_SEQ_18,
+19,TEXT_BANNAM004_03100_SEQ_19,
+20,TEXT_BANNAM004_03100_SEQ_20,
+21,TEXT_BANNAM004_03100_SEQ_21,
+22,TEXT_BANNAM004_03100_SEQ_22,
+23,TEXT_BANNAM004_03100_SEQ_23,
+24,TEXT_BANNAM004_03100_TODO_00,시리나와 대화
+25,TEXT_BANNAM004_03100_TODO_01,마그나이와 대화
+26,TEXT_BANNAM004_03100_TODO_02,사두와 대화
+27,TEXT_BANNAM004_03100_TODO_03,교레이에게 보고
+28,TEXT_BANNAM004_03100_TODO_04,제작수첩 우호부족 퀘스트: 제작
+29,TEXT_BANNAM004_03100_TODO_05,교레이와 대화
+30,TEXT_BANNAM004_03100_TODO_06,교신과 대화
+31,TEXT_BANNAM004_03100_TODO_07,
+32,TEXT_BANNAM004_03100_TODO_08,
+33,TEXT_BANNAM004_03100_TODO_09,
+34,TEXT_BANNAM004_03100_TODO_10,
+35,TEXT_BANNAM004_03100_TODO_11,
+36,TEXT_BANNAM004_03100_TODO_12,
+37,TEXT_BANNAM004_03100_TODO_13,
+38,TEXT_BANNAM004_03100_TODO_14,
+39,TEXT_BANNAM004_03100_TODO_15,
+40,TEXT_BANNAM004_03100_TODO_16,
+41,TEXT_BANNAM004_03100_TODO_17,
+42,TEXT_BANNAM004_03100_TODO_18,
+43,TEXT_BANNAM004_03100_TODO_19,
+44,TEXT_BANNAM004_03100_TODO_20,
+45,TEXT_BANNAM004_03100_TODO_21,
+46,TEXT_BANNAM004_03100_TODO_22,
+47,TEXT_BANNAM004_03100_TODO_23,
+48,TEXT_BANNAM004_03100_GYOSHIN_000_001,"누님, 또다시 상의하고 싶은 것이 있담메.
 모두 불러올 테니 잠시만 기다려 달람메~!"
-49,"TEXT_BANNAM004_03100_GYOSHIN_000_002","가마를 메고 행진하는 즐거움이란……
+49,TEXT_BANNAM004_03100_GYOSHIN_000_002,"가마를 메고 행진하는 즐거움이란……
 정말 무서울 정도담메……."
-50,"TEXT_BANNAM004_03100_GYOSHIN_000_003","나도 모르게 밤낮으로 쉬지 않고 가마만 메고 다니다
+50,TEXT_BANNAM004_03100_GYOSHIN_000_003,"나도 모르게 밤낮으로 쉬지 않고 가마만 메고 다니다
 정신을 차려 보니 기절했지 뭔감메."
-51,"TEXT_BANNAM004_03100_GYOREI_000_004","기절한 상태로 정신을 차렸다는 게 말이 됌메?"
-52,"TEXT_BANNAM004_03100_GYOSHIN_000_005","그래서 무섭다는 거담메…….
+51,TEXT_BANNAM004_03100_GYOREI_000_004,기절한 상태로 정신을 차렸다는 게 말이 됌메?
+52,TEXT_BANNAM004_03100_GYOSHIN_000_005,"그래서 무섭다는 거담메…….
 한창 기절했을 때 또 조상님 꿈을 꿔서……
 그래서 정신을 차렸다는 거담메."
-53,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_006","어차피 또 일족이 멸망에 처했다느니 하는 소릴 하겠지?
+53,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_006,"어차피 또 일족이 멸망에 처했다느니 하는 소릴 하겠지?
 발전이 없군…… 없어도 너무 없어…… 지난번이랑 똑같은 상황이잖아!
 괴기 소설이었다면 진부한 나머지 찢어버리고 싶을 정도다!"
-54,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_007","하지만 이 광풍원 세이게츠,
+54,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_007,"하지만 이 광풍원 세이게츠,
 두 번 일어난 일은 세 번도 일어날 수 있다는 것을 꿰뚫어 보았지!"
-55,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_008","잘 들어, '문명 흥망론'에서도 지적된 바와 같이
+55,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_008,"잘 들어, '문명 흥망론'에서도 지적된 바와 같이
 제전은 문화이며, 문화란 전파되는 것이다."
-56,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_009","이주와 교역 등을 통해
+56,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_009,"이주와 교역 등을 통해
 문화의 씨앗이 되는 지식이 전달되어 널리 퍼져 나간다는 뜻이다.
 그리고 전파된 지식은 형태를 바꿔, 다른 문화에 흡수되어 간다."
-57,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_010","아직 끼어들지 마라, 교신 군!
+57,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_010,"아직 끼어들지 마라, 교신 군!
 지금부터 쉽고 친절한 3줄 요약으로 결론을 말하겠다!
 잠자코 들어!"
-58,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_011","수백 년 전, 이곳 아짐 대초원에서 큰메기 대제전이 열렸다!"
-59,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_100_011","그걸 본 유목민이 제전 지식을 얻어 계승했을 가능성도 있고!"
-60,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_110_011","대제전이 그들의 문화에 흡수되었어도 이상할 게 없지!"
-61,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_012","자, 길을 떠나라, 교신 군!
+58,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_011,"수백 년 전, 이곳 아짐 대초원에서 큰메기 대제전이 열렸다!"
+59,TEXT_BANNAM004_03100_KOFUINSEIGETSU_100_011,그걸 본 유목민이 제전 지식을 얻어 계승했을 가능성도 있고!
+60,TEXT_BANNAM004_03100_KOFUINSEIGETSU_110_011,대제전이 그들의 문화에 흡수되었어도 이상할 게 없지!
+61,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_012,"자, 길을 떠나라, 교신 군!
 아우라 젤라의 마을을 돌면서 유목민들에게서
 제전에 관한 지식을 있는 대로 모아와라!"
-62,"TEXT_BANNAM004_03100_GYOSHIN_000_013","무시무시한 기세담메…….
+62,TEXT_BANNAM004_03100_GYOSHIN_000_013,"무시무시한 기세담메…….
 교훙을 더 자극하기도 뭣하니
-<If(PlayerParameter(4))>누님<Else/>형님</If>, 함께 조사하러 가잠메."
-63,"TEXT_BANNAM004_03100_GYOSHIN_000_014","일단은 몰 일로부터 가잠메…….
-<If(PlayerParameter(4))>누님<Else/>형님</If>, 이번에도 중개 역할을 부탁한담메.
+누님, 함께 조사하러 가잠메."
+63,TEXT_BANNAM004_03100_GYOSHIN_000_014,"일단은 몰 일로부터 가잠메…….
+누님, 이번에도 중개 역할을 부탁한담메.
 유목민의 제전에 대해 이야기를 들어보고 싶담메."
-64,"TEXT_BANNAM004_03100_GYOREI_000_015","이번에는 쿠가네의 제전이 아니라
+64,TEXT_BANNAM004_03100_GYOREI_000_015,"이번에는 쿠가네의 제전이 아니라
 아짐 대초원에서 열리는 제전을 흉내내게 될 것 같담메."
-65,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_020","（★未使用／削除予定★）"
-66,"TEXT_BANNAM004_03100_GYOSHIN_000_025","이 누님이 날 지긋이 바라보면
+65,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_020,（★未使用／削除予定★）
+66,TEXT_BANNAM004_03100_GYOSHIN_000_025,"이 누님이 날 지긋이 바라보면
 왠지 가슴이 콩닥콩닥 뛴담메."
-67,"TEXT_BANNAM004_03100_TEMULUN_000_026","제전은 꽤나 활기차게 거행되고 있는 모양이군요."
-68,"TEXT_BANNAM004_03100_CIRINA_000_030","어머, 참 맛있게 생긴…………"
-69,"TEXT_BANNAM004_03100_CIRINA_100_030","어라, <Highlight>ObjectParameter(1)</Highlight> 님, 무슨 일이세요?"
-70,"TEXT_BANNAM004_03100_CIRINA_000_031","……그렇군요, 사정은 잘 알았어요.
+67,TEXT_BANNAM004_03100_TEMULUN_000_026,제전은 꽤나 활기차게 거행되고 있는 모양이군요.
+68,TEXT_BANNAM004_03100_CIRINA_000_030,"어머, 참 맛있게 생긴…………"
+69,TEXT_BANNAM004_03100_CIRINA_100_030,"어라, Player Player 님, 무슨 일이세요?"
+70,TEXT_BANNAM004_03100_CIRINA_000_031,"……그렇군요, 사정은 잘 알았어요.
 그럼 몰족에 전해지는 제전에 대해 알려드릴게요."
-71,"TEXT_BANNAM004_03100_CIRINA_000_032","몰족은 일정 나이에 달한 아이들이 기수가 되어
+71,TEXT_BANNAM004_03100_CIRINA_000_032,"몰족은 일정 나이에 달한 아이들이 기수가 되어
 말을 타고 초원을 달리는 경마를 연답니다."
-72,"TEXT_BANNAM004_03100_CIRINA_000_033","유목민인 저희에게 말은 이동 수단인 동시에
+72,TEXT_BANNAM004_03100_CIRINA_000_033,"유목민인 저희에게 말은 이동 수단인 동시에
 생활의 양식이자 가족이기도 한 소중한 존재랍니다."
-73,"TEXT_BANNAM004_03100_CIRINA_000_034","소중하게 키운 말의 속도와 말을 조련하는 아이들의 기술을
+73,TEXT_BANNAM004_03100_CIRINA_000_034,"소중하게 키운 말의 속도와 말을 조련하는 아이들의 기술을
 초원의 신들께 보여드리고, 대지의 은혜에 감사하는 것…….
 그것이 우리 몰족의 제전이에요."
-74,"TEXT_BANNAM004_03100_GYOSHIN_000_035","경마가 제전이라니, 예상 밖이담메.
+74,TEXT_BANNAM004_03100_GYOSHIN_000_035,"경마가 제전이라니, 예상 밖이담메.
 하지만 아주 좋은 이야기를 들었담메.
 고맙담메!"
-75,"TEXT_BANNAM004_03100_GYOSHIN_000_036","그럼, <If(PlayerParameter(4))>누님<Else/>형님</If>,
+75,TEXT_BANNAM004_03100_GYOSHIN_000_036,"그럼, 누님,
 다음은 '여명의 옥좌'에서 이야기를 들어보잠메.
 먼저 가 있을 테니 오로니르족을 소개해줬음 한담메."
-76,"TEXT_BANNAM004_03100_CIRINA_000_040","메기처럼 생긴 분들은
+76,TEXT_BANNAM004_03100_CIRINA_000_040,"메기처럼 생긴 분들은
 어쩜 저렇게 맛있어 보일까요."
-77,"TEXT_BANNAM004_03100_GYOSHIN_000_045","이 커다란 남자가 날 지긋이 바라보면
+77,TEXT_BANNAM004_03100_GYOSHIN_000_045,"이 커다란 남자가 날 지긋이 바라보면
 왠지 속이 꿀렁거린담메."
-78,"TEXT_BANNAM004_03100_MAGNAI_000_050","흠…… 누군가 했더니 너였군…….
+78,TEXT_BANNAM004_03100_MAGNAI_000_050,"흠…… 누군가 했더니 너였군…….
 혹시 거기 꾀죄죄하고 물고기가 되다 만 듯하게 생긴 생물은
 이 몸에게 헌상하는 물건인가?"
-79,"TEXT_BANNAM004_03100_MAGNAI_000_051","오랜만에 얼굴을 내비친다 했더니
+79,TEXT_BANNAM004_03100_MAGNAI_000_051,"오랜만에 얼굴을 내비친다 했더니
 오로니르족이 치르는 제전에 대해 알려달라고……."
-80,"TEXT_BANNAM004_03100_MAGNAI_000_052","그래 좋다, 들려주지.
+80,TEXT_BANNAM004_03100_MAGNAI_000_052,"그래 좋다, 들려주지.
 오로니르족에 있어 가장 중요한 제전은 '형제 대련'이다."
-81,"TEXT_BANNAM004_03100_MAGNAI_000_053","초원에 전해지는 격투기 '아짐 부흐'를 통해
+81,TEXT_BANNAM004_03100_MAGNAI_000_053,"초원에 전해지는 격투기 '아짐 부흐'를 통해
 힘을 겨루고 일족 내의 서열을 정하는 것이지.
 오로니르족은 이를 통해 태양신에게 자신의 강인함을 증명한다."
-82,"TEXT_BANNAM004_03100_MAGNAI_000_054","'계절끝 합전'에서 용맹함을 보여준 너라면 모를까
+82,TEXT_BANNAM004_03100_MAGNAI_000_054,"'계절끝 합전'에서 용맹함을 보여준 너라면 모를까
 물고기가 되다 만 듯한 저 생물은 흉내조차 낼 수 없을걸."
-83,"TEXT_BANNAM004_03100_GYOSHIN_000_055","말도 태도도 예의가 없담메…….
+83,TEXT_BANNAM004_03100_GYOSHIN_000_055,"말도 태도도 예의가 없담메…….
 그러다 장가도 못 갈 수 있으니, 고치는 게 좋을 거담메.
 하지만 매우 유익한 이야기를 들었담메! 고맙담메!"
-84,"TEXT_BANNAM004_03100_GYOSHIN_000_056","그럼 <If(PlayerParameter(4))>누님<Else/>형님</If>,
+84,TEXT_BANNAM004_03100_GYOSHIN_000_056,"그럼 누님,
 다음은 '도탈 카'에서 이야기를 들어보잠메.
 먼저 가 있을 테니 도탈족을 소개해줬음 한담메."
-85,"TEXT_BANNAM004_03100_MAGNAI_100_060","…………말과 태도…… 말과 태도가 문제……인가?"
-86,"TEXT_BANNAM004_03100_MAGNAI_000_060","…………말과 태도…… 말과 태도가 문제……인가?"
-87,"TEXT_BANNAM004_03100_GYOSHIN_000_065","이 눈매가 날카로운 사람이 날 지긋이 바라보면
+85,TEXT_BANNAM004_03100_MAGNAI_100_060,…………말과 태도…… 말과 태도가 문제……인가?
+86,TEXT_BANNAM004_03100_MAGNAI_000_060,…………말과 태도…… 말과 태도가 문제……인가?
+87,TEXT_BANNAM004_03100_GYOSHIN_000_065,"이 눈매가 날카로운 사람이 날 지긋이 바라보면
 왠지 목숨이 위태로워지는 것 같담메."
-88,"TEXT_BANNAM004_03100_SADU_000_070","아아, 네놈이었군…….
+88,TEXT_BANNAM004_03100_SADU_000_070,"아아, 네놈이었군…….
 아까부터 어설픈 훈 촐로오가 이쪽을 쳐다보는데
 혹시 네놈 것이냐?"
-89,"TEXT_BANNAM004_03100_SADU_000_071","그렇군…… 절벽 위에서 조몰락거리는 게 네놈들이었냐.
+89,TEXT_BANNAM004_03100_SADU_000_071,"그렇군…… 절벽 위에서 조몰락거리는 게 네놈들이었냐.
 그래, 도탈족의 제전에 대해 알고 싶다고?"
-90,"TEXT_BANNAM004_03100_SADU_000_072","좋아, 그 정도는 알려주지.
+90,TEXT_BANNAM004_03100_SADU_000_072,"좋아, 그 정도는 알려주지.
 알다시피 도탈족은 전사인 동시에 사냥꾼이기도 하다.
 그렇지 않으면 가혹한 나아마 사막에서 살아남을 수 없거든."
-91,"TEXT_BANNAM004_03100_SADU_000_073","때문에 달의 신 나아마에게
+91,TEXT_BANNAM004_03100_SADU_000_073,"때문에 달의 신 나아마에게
 이 땅에서 살아남는 기술을 지니고 있다는 걸 증명하기 위해
 활쏘기를 선보인다."
-92,"TEXT_BANNAM004_03100_SADU_000_074","제전이라고는 하나 절반은 여흥이나 마찬가지지.
+92,TEXT_BANNAM004_03100_SADU_000_074,"제전이라고는 하나 절반은 여흥이나 마찬가지지.
 멀리 있는 과녁에 화살을 몇 개나 명중시키는지 겨루는 것 뿐이니까."
-93,"TEXT_BANNAM004_03100_GYOSHIN_000_075","어쩐지 제전이라기보다 경기 같은 느낌이담메.
+93,TEXT_BANNAM004_03100_GYOSHIN_000_075,"어쩐지 제전이라기보다 경기 같은 느낌이담메.
 하지만 아주 좋은 얘기를 들었담메.
 고맙담메!"
-94,"TEXT_BANNAM004_03100_GYOSHIN_000_076","그럼 <If(PlayerParameter(4))>누님<Else/>형님</If>,
+94,TEXT_BANNAM004_03100_GYOSHIN_000_076,"그럼 누님,
 조사는 여기까지 하기로 하고 '도로 일로'로 돌아가잠메.
 수집한 정보를 토대로 제전 내용을 생각하잠메!"
-95,"TEXT_BANNAM004_03100_SADU_000_080","그나저나 네놈이 훈 촐로오처럼 생긴 녀석이랑 제전이라니.
+95,TEXT_BANNAM004_03100_SADU_000_080,"그나저나 네놈이 훈 촐로오처럼 생긴 녀석이랑 제전이라니.
 이거 걸작인데!"
-96,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_085","（★未使用／削除予定★）"
-97,"TEXT_BANNAM004_03100_GYOSHIN_000_090","드디어 돌아왔구남메.
+96,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_085,（★未使用／削除予定★）
+97,TEXT_BANNAM004_03100_GYOSHIN_000_090,"드디어 돌아왔구남메.
 바로 '교레이'한테 알려주잠메."
-98,"TEXT_BANNAM004_03100_GYOREI_000_100","어서 오람메!
+98,TEXT_BANNAM004_03100_GYOREI_000_100,"어서 오람메!
 유목민의 제전에 대한 정보는 모았엄메?"
-99,"TEXT_BANNAM004_03100_GYOSHIN_000_101","물론이담메!
+99,TEXT_BANNAM004_03100_GYOSHIN_000_101,"물론이담메!
 경마, 아짐 부흐, 활쏘기……
 아우라 젤라의 제전은 하나같이 실력을 겨루는 거친 내용이었담메!"
-100,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_102","그래서 '계절끝 합전'이 존재하는 것이겠지.
+100,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_102,"그래서 '계절끝 합전'이 존재하는 것이겠지.
 싸움을 제한하지 않으면 순식간에 동료끼리 싸워 전멸할 게 틀림없다."
-101,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_103","아무튼 그들의 제전에 관한 정보를 모았으니
+101,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_103,"아무튼 그들의 제전에 관한 정보를 모았으니
 당장 준비를 시작하자."
-102,"TEXT_BANNAM004_03100_GYOSHIN_000_104","3가지 제전을 준비하려니 바빠지겠담메.
+102,TEXT_BANNAM004_03100_GYOSHIN_000_104,"3가지 제전을 준비하려니 바빠지겠담메.
 교레이는 경마…… 광풍원 세이게츠는 아짐 부흐……
-<If(PlayerParameter(4))>누님<Else/>형님</If>과 난, 활쏘기를 준비하잠메!"
-103,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_100_104","알았다. 빈틈없이 준비를 진행하지.
+누님과 난, 활쏘기를 준비하잠메!"
+103,TEXT_BANNAM004_03100_KOFUINSEIGETSU_100_104,"알았다. 빈틈없이 준비를 진행하지.
 난 천막 쪽으로 돌아갈 테니 부디 농땡이 피우지 마라, 교신 군."
-104,"TEXT_BANNAM004_03100_GYOSHIN_000_105","<If(PlayerParameter(4))>누님<Else/>형님</If>은 천막 옆에 있는 상자에서 재료를 꺼내
-금속제 '<Sheet(ItemHQ,22723,0)/>'<13>FF1102280DFF074974656D4851F258C30103FF04EBA5BCFF04EC9D84</13> 뚝딱 만들어줘람메!
+104,TEXT_BANNAM004_03100_GYOSHIN_000_105,"누님은 천막 옆에 있는 상자에서 재료를 꺼내
+금속제 '' 뚝딱 만들어줘람메!
 만약 재료가 부족해지거든 상자를 살펴보람메!"
-105,"TEXT_BANNAM004_03100_GYOSHIN_000_106","<If(PlayerParameter(4))>누님<Else/>형님</If>은 천막 옆에 있는 상자에서 재료를 꺼내
-목재나 섬유로 '<Sheet(ItemHQ,22723,0)/>'<13>FF1102280DFF074974656D4851F258C30103FF04EBA5BCFF04EC9D84</13> 뚝딱 만들어줘람메!
+105,TEXT_BANNAM004_03100_GYOSHIN_000_106,"누님은 천막 옆에 있는 상자에서 재료를 꺼내
+목재나 섬유로 '' 뚝딱 만들어줘람메!
 만약 재료가 부족해지거든 상자를 살펴보람메!"
-106,"TEXT_BANNAM004_03100_GYOSHIN_000_107","<If(PlayerParameter(4))>누님<Else/>형님</If>은 천막 옆에 있는 상자에서 재료를 꺼내
-마감용 도료 등 '<Sheet(ItemHQ,22723,0)/>'<13>FF1102280DFF074974656D4851F258C30103FF04EBA5BCFF04EC9D84</13> 만들어줘람메!
+106,TEXT_BANNAM004_03100_GYOSHIN_000_107,"누님은 천막 옆에 있는 상자에서 재료를 꺼내
+마감용 도료 등 '' 만들어줘람메!
 만약 재료가 부족하다면 상자를 조사하람메!"
-107,"TEXT_BANNAM004_03100_GYOSHIN_000_108","<If(PlayerParameter(4))>누님<Else/>형님</If>은
-화살촉에 사용할 '<Sheet(Item,22619,0)/>'<13>FF0F02280BFF054974656DF2585B0103FF04EBA5BCFF04EC9D84</13> 모아와줬음 한담메!
+107,TEXT_BANNAM004_03100_GYOSHIN_000_108,"누님은
+화살촉에 사용할 '' 모아와줬음 한담메!
 재회시장의 남쪽 일대에서 찾을 수 있담메!"
-108,"TEXT_BANNAM004_03100_GYOSHIN_000_109","<If(PlayerParameter(4))>누님<Else/>형님</If>은
-화살에 사용할 '<Sheet(Item,22645,0)/>'<13>FF0F02280BFF054974656DF258750103FF04EBA5BCFF04EC9D84</13> 모아와줬음 한담메!
+108,TEXT_BANNAM004_03100_GYOSHIN_000_109,"누님은
+화살에 사용할 '' 모아와줬음 한담메!
 재회시장의 남쪽 일대에서 찾을 수 있담메!"
-109,"TEXT_BANNAM004_03100_GYOSHIN_000_110","<If(PlayerParameter(4))>누님<Else/>형님</If>은
-화살촉에 사용할 '<Sheet(Item,22671,0)/>'<13>FF0F02280BFF054974656DF2588F0103FF04EBA5BCFF04EC9D84</13> 모아와줬음 한담메!
-'<Sheet(Item,20613,0)/>'<13>FF0F02280BFF054974656DF250850103FF04EBA5BCFF04EC9D84</13> 사용하면 '도탈 카'에서 잡을 수 있담메!"
-110,"TEXT_BANNAM004_03100_GYOSHIN_000_111","부탁한 물건이 갖춰지면 나한테 갖다달람메.
+109,TEXT_BANNAM004_03100_GYOSHIN_000_110,"누님은
+화살촉에 사용할 '' 모아와줬음 한담메!
+'' 사용하면 '도탈 카'에서 잡을 수 있담메!"
+110,TEXT_BANNAM004_03100_GYOSHIN_000_111,"부탁한 물건이 갖춰지면 나한테 갖다달람메.
 준비가 끝나면 단숨에 조립하겠담메!"
-111,"TEXT_BANNAM004_03100_GYOREI_000_112","경마 준비는 나한테 맡기람메.
+111,TEXT_BANNAM004_03100_GYOREI_000_112,"경마 준비는 나한테 맡기람메.
 재료가 부족하면 천막 옆에 있는 상자에서 꺼내람메!"
-112,"TEXT_BANNAM004_03100_GYOREI_100_112","경마 준비는 나한테 맡기람메.
+112,TEXT_BANNAM004_03100_GYOREI_100_112,"경마 준비는 나한테 맡기람메.
 재료가 부족하면 천막 옆에 있는 상자에서 꺼내람메!"
-113,"TEXT_BANNAM004_03100_GYOREI_110_112","경마 준비는 나한테 맡기람메.
+113,TEXT_BANNAM004_03100_GYOREI_110_112,"경마 준비는 나한테 맡기람메.
 재료가 부족하면 천막 옆에 있는 상자에서 꺼내람메!"
-114,"TEXT_BANNAM004_03100_GYOREI_200_112","경마 준비는 나한테 맡기람메.
+114,TEXT_BANNAM004_03100_GYOREI_200_112,"경마 준비는 나한테 맡기람메.
 필요한 물건을 모았으면 교신한테 갖다주람메!"
-115,"TEXT_BANNAM004_03100_GYOREI_210_112","경마 준비는 나한테 맡기람메.
+115,TEXT_BANNAM004_03100_GYOREI_210_112,"경마 준비는 나한테 맡기람메.
 필요한 물건을 모았으면 교신한테 갖다주람메!"
-116,"TEXT_BANNAM004_03100_GYOREI_220_112","경마 준비는 나한테 맡기람메.
+116,TEXT_BANNAM004_03100_GYOREI_220_112,"경마 준비는 나한테 맡기람메.
 필요한 물건을 모았으면 교신한테 갖다주람메!"
-117,"TEXT_BANNAM004_03100_SYSTEM_000_113","재료가 들어있는 상자가 있다.
+117,TEXT_BANNAM004_03100_SYSTEM_000_113,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-118,"TEXT_BANNAM004_03100_SYSTEM_100_113","재료가 들어있는 상자가 있다.
+118,TEXT_BANNAM004_03100_SYSTEM_100_113,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-119,"TEXT_BANNAM004_03100_SYSTEM_110_113","재료가 들어있는 상자가 있다.
+119,TEXT_BANNAM004_03100_SYSTEM_110_113,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-120,"TEXT_BANNAM004_03100_SYSTEM_120_113","재료가 들어있는 상자가 있다.
+120,TEXT_BANNAM004_03100_SYSTEM_120_113,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-121,"TEXT_BANNAM004_03100_SYSTEM_000_114","상자에서 필요한 재료를 꺼냈다!"
-122,"TEXT_BANNAM004_03100_SYSTEM_100_114","상자에서 필요한 재료를 꺼냈다!"
-123,"TEXT_BANNAM004_03100_SYSTEM_110_114","상자에서 필요한 재료를 꺼냈다!"
-124,"TEXT_BANNAM004_03100_GYOREI_120_114","부탁한 물건이 준비됐나 보넴메.
+121,TEXT_BANNAM004_03100_SYSTEM_000_114,상자에서 필요한 재료를 꺼냈다!
+122,TEXT_BANNAM004_03100_SYSTEM_100_114,상자에서 필요한 재료를 꺼냈다!
+123,TEXT_BANNAM004_03100_SYSTEM_110_114,상자에서 필요한 재료를 꺼냈다!
+124,TEXT_BANNAM004_03100_GYOREI_120_114,"부탁한 물건이 준비됐나 보넴메.
 '교신'에게 건네주람메♪"
-125,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_115","（★未使用／削除予定★）"
-126,"TEXT_BANNAM004_03100_GYOSHIN_000_120","부탁한 물건은 준비됐남메?"
-127,"TEXT_BANNAM004_03100_GYOSHIN_000_121","고맙담메!
+125,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_115,（★未使用／削除予定★）
+126,TEXT_BANNAM004_03100_GYOSHIN_000_120,부탁한 물건은 준비됐남메?
+127,TEXT_BANNAM004_03100_GYOSHIN_000_121,"고맙담메!
 이것으로 제례용 활과 화살이 준비되었담메."
-128,"TEXT_BANNAM004_03100_GYOSHIN_000_122","<If(PlayerParameter(4))>누님<Else/>형님</If>이 작업하는 동안
+128,TEXT_BANNAM004_03100_GYOSHIN_000_122,"누님이 작업하는 동안
 나도 과녁을 설계해두었담메.
 바로 뚝딱 완성하겠담메!"
-129,"TEXT_BANNAM004_03100_GYOSHIN_000_123","어떤감메?
+129,TEXT_BANNAM004_03100_GYOSHIN_000_123,"어떤감메?
 완벽한 과녁이짐메?"
-130,"TEXT_BANNAM004_03100_GYOREI_000_124","역시 교신이담메.
+130,TEXT_BANNAM004_03100_GYOREI_000_124,"역시 교신이담메.
 아주 꼼꼼하게 잘 만들었담메.
 그런데 그 과녁을 어떻게 세워놓을 생각이얌메?"
-131,"TEXT_BANNAM004_03100_GYOSHIN_000_125","…………깜빡했담메.
+131,TEXT_BANNAM004_03100_GYOSHIN_000_125,"…………깜빡했담메.
 과녁에 집중하느라 받침대는 새카맣게 잊고 있었담메."
-132,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_126","교신 군, 그게 바로 자업자득이다.
+132,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_126,"교신 군, 그게 바로 자업자득이다.
 그대로 귀군이 과녁을 들고 받침대 역할을 하면 되겠군."
-133,"TEXT_BANNAM004_03100_GYOSHIN_000_127","너, 너무하담메!"
-134,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_128","걱정 마라, 괜찮아.
-<Highlight>ObjectParameter(1)</Highlight> 군에게 활쏘기를 부탁하면
+133,TEXT_BANNAM004_03100_GYOSHIN_000_127,"너, 너무하담메!"
+134,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_128,"걱정 마라, 괜찮아.
+Player Player 군에게 활쏘기를 부탁하면
 틀림없이 백발백중일 테니…… 메메메!"
-135,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_129","처형장……이 아니라, 활터는 천막 뒤편이 좋겠군.
-<Highlight>ObjectParameter(1)</Highlight> 군, 준비되면
+135,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_129,"처형장……이 아니라, 활터는 천막 뒤편이 좋겠군.
+Player Player 군, 준비되면
 '교레이'에게 제례용 활과 화살을 받아라."
-136,"TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_130","（★未使用／削除予定★）"
-137,"TEXT_BANNAM004_03100_GYOSHIN_000_135","……절대로 날 쏘면 안 된담메!?
+136,TEXT_BANNAM004_03100_KOFUINSEIGETSU_000_130,（★未使用／削除予定★）
+137,TEXT_BANNAM004_03100_GYOSHIN_000_135,"……절대로 날 쏘면 안 된담메!?
 절대롬메!!"
-138,"TEXT_BANNAM004_03100_GYOREI_000_140","덜렁대는 교신을 뉘우치게 할 좋은 기회얌메."
-139,"TEXT_BANNAM004_03100_GYOREI_000_141","자 <Highlight>ObjectParameter(1)</Highlight> 님,
+138,TEXT_BANNAM004_03100_GYOREI_000_140,덜렁대는 교신을 뉘우치게 할 좋은 기회얌메.
+139,TEXT_BANNAM004_03100_GYOREI_000_141,"자 Player Player 님,
 제례용 활과 화살을 준비했으니, 교신이 들고 있는 과녁을 향해
 힘껏 활을 쏘람메!"
-140,"TEXT_BANNAM004_03100_SYSTEM_000_142","제례용 활을 사용하여 활쏘기를 시작합니다.
+140,TEXT_BANNAM004_03100_SYSTEM_000_142,"제례용 활을 사용하여 활쏘기를 시작합니다.
 '제전용 과녁'을 발견하면 카메라를 확대/축소하여
-<If(Equal(PlayerParameter(80),0))><UIForeground>F20222</UIForeground>왼쪽 클릭<UIForeground>01</UIForeground><Else/><CommandIcon(15)/>버튼/<CommandIcon(8)/>버튼</If>으로 활을 쏘세요!"
-141,"TEXT_BANNAM004_03100_GYOSHIN_000_143","훌, 훌륭해, 명중이담메~!"
-142,"TEXT_BANNAM004_03100_GYOSHIN_000_144","교교교!
+**왼쪽 클릭으로 활을 쏘세요!"
+141,TEXT_BANNAM004_03100_GYOSHIN_000_143,"훌, 훌륭해, 명중이담메~!"
+142,TEXT_BANNAM004_03100_GYOSHIN_000_144,"교교교!
 화, 화살촉이 이렇게 예리할 수가……
 설계는……완벽……했담……메……."
-143,"TEXT_BANNAM004_03100_GYOREI_000_145","자, 한 번 더 도전하람메!
+143,TEXT_BANNAM004_03100_GYOREI_000_145,"자, 한 번 더 도전하람메!
 과녁을 맞힐 때까지 몇 번이든…… 반복하는 거얌메!"
-144,"TEXT_BANNAM004_03100_GYOREI_000_150","활을 쏠 때의 <Highlight>ObjectParameter(1)</Highlight> 님,
+144,TEXT_BANNAM004_03100_GYOREI_000_150,"활을 쏠 때의 Player Player 님,
 멋있었엄메♪"
-145,"TEXT_BANNAM004_03100_GYOSHIN_000_160","……설마 내가 과녁이 될 줄은
+145,TEXT_BANNAM004_03100_GYOSHIN_000_160,"……설마 내가 과녁이 될 줄은
 생각지도 못했담메."
-146,"TEXT_BANNAM004_03100_GYOSHIN_000_161","그래도 활쏘기를 제대로 할 수 있다는 건 증명했담메.
+146,TEXT_BANNAM004_03100_GYOSHIN_000_161,"그래도 활쏘기를 제대로 할 수 있다는 건 증명했담메.
 경마와 아짐 부흐 준비도 단숨에 끝내겠담메!"
-147,"TEXT_BANNAM004_03100_SYSTEM_000_162","교신 일행과 협력하여 유목민풍 제전을 준비했습니다!
+147,TEXT_BANNAM004_03100_SYSTEM_000_162,"교신 일행과 협력하여 유목민풍 제전을 준비했습니다!
 경마, 아짐 부흐, 활쏘기 제전이 시작되었습니다!"
-148,"TEXT_BANNAM004_03100_SYSTEM_000_163","7년 후, 냉해로 인해 식량난에 직면한 아우라 젤라가
+148,TEXT_BANNAM004_03100_SYSTEM_000_163,"7년 후, 냉해로 인해 식량난에 직면한 아우라 젤라가
 통통하게 살이 올라 맛있어 보이는 나마즈오를 발견하게 되어
 다수의 사상자가 나올 운명이었다."
-149,"TEXT_BANNAM004_03100_SYSTEM_000_164","하지만, 유목민풍 제전이 7년에 걸쳐 계속된 결과,
+149,TEXT_BANNAM004_03100_SYSTEM_000_164,"하지만, 유목민풍 제전이 7년에 걸쳐 계속된 결과,
 아우라 젤라와 나마즈오의 상호 이해가 깊어져
 일어날 뻔했던 학살은 일어나지 않았다."
-150,"TEXT_BANNAM004_03100_SYSTEM_000_165","멸종될 운명이 바뀌기 시작했다.
+150,TEXT_BANNAM004_03100_SYSTEM_000_165,"멸종될 운명이 바뀌기 시작했다.
 7년 후 일어날 비극은, 이리하여 아무도 모르게 비껴간 것이다!"
-151,"TEXT_BANNAM004_03100_SYSTEM_000_166","'큰메기 대제전 실행위원회'와의 우호 관계가
+151,TEXT_BANNAM004_03100_SYSTEM_000_166,"'큰메기 대제전 실행위원회'와의 우호 관계가
 '명예'로 바뀌었습니다.
 유목민풍 제전에 힘을 보태어 신뢰를 얻은 듯합니다."
-152,"TEXT_BANNAM004_03100_SYSTEM_000_167","앞으로 도로 일로에 있는 '광풍원 세이게츠'에게
+152,TEXT_BANNAM004_03100_SYSTEM_000_167,"앞으로 도로 일로에 있는 '광풍원 세이게츠'에게
 새로운 '우호부족 일일 퀘스트'를 받을 수 있습니다."
-153,"TEXT_BANNAM004_03100_SYSTEM_000_168","또, 우호 단계가 상승한 당일에 한해
+153,TEXT_BANNAM004_03100_SYSTEM_000_168,"또, 우호 단계가 상승한 당일에 한해
 '광풍원 세이게츠'에게 일일 퀘스트를 3회 더 받을 수 있습니다."
-154,"TEXT_BANNAM004_03100_SYSTEM_000_169","우호 단계가 상승하기 전에 발행된 일일 퀘스트를
+154,TEXT_BANNAM004_03100_SYSTEM_000_169,"우호 단계가 상승하기 전에 발행된 일일 퀘스트를
 모두 수주하면 추가분이 발행됩니다.
 수주권이 남아있으면 이를 수주할 수 있습니다."
-155,"TEXT_BANNAM004_03100_SYSTEM_000_170","또 '교쇼'에게서 구입할 수 있는
+155,TEXT_BANNAM004_03100_SYSTEM_000_170,"또 '교쇼'에게서 구입할 수 있는
 아이템이 늘어났습니다.
 앞으로 모험에 활용해보세요!"
-156,"TEXT_BANNAM004_03100_SYSTEM_000_171","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+156,TEXT_BANNAM004_03100_SYSTEM_000_171,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."
-157,"TEXT_BANNAM004_03100_SYSTEM_000_172","퀘스트 수행 중에 일반 품질 아이템이 채집되었습니다.
+157,TEXT_BANNAM004_03100_SYSTEM_000_172,"퀘스트 수행 중에 일반 품질 아이템이 채집되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."

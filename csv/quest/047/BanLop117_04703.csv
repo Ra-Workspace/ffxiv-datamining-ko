@@ -1,120 +1,110 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANLOP117_04703_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANLOP117_04703_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 희망찬 화물실에 있는 매니징웨이는 멀리 외출한 동료를 걱정하고 있는 듯하다."
-1,"TEXT_BANLOP117_04703_SEQ_01","야광버섯 동굴에 있는 종종걸음 레포릿과 대화"
-2,"TEXT_BANLOP117_04703_SEQ_02","종종걸음 레포릿에게 의뢰받은 물품 납품"
-3,"TEXT_BANLOP117_04703_SEQ_03","매니징웨이에게 보고"
-4,"TEXT_BANLOP117_04703_SEQ_04",""
-5,"TEXT_BANLOP117_04703_SEQ_05",""
-6,"TEXT_BANLOP117_04703_SEQ_06",""
-7,"TEXT_BANLOP117_04703_SEQ_07",""
-8,"TEXT_BANLOP117_04703_SEQ_08",""
-9,"TEXT_BANLOP117_04703_SEQ_09",""
-10,"TEXT_BANLOP117_04703_SEQ_10",""
-11,"TEXT_BANLOP117_04703_SEQ_11",""
-12,"TEXT_BANLOP117_04703_SEQ_12",""
-13,"TEXT_BANLOP117_04703_SEQ_13",""
-14,"TEXT_BANLOP117_04703_SEQ_14",""
-15,"TEXT_BANLOP117_04703_SEQ_15",""
-16,"TEXT_BANLOP117_04703_SEQ_16",""
-17,"TEXT_BANLOP117_04703_SEQ_17",""
-18,"TEXT_BANLOP117_04703_SEQ_18",""
-19,"TEXT_BANLOP117_04703_SEQ_19",""
-20,"TEXT_BANLOP117_04703_SEQ_20",""
-21,"TEXT_BANLOP117_04703_SEQ_21",""
-22,"TEXT_BANLOP117_04703_SEQ_22",""
-23,"TEXT_BANLOP117_04703_SEQ_23",""
-24,"TEXT_BANLOP117_04703_TODO_00","야광버섯 동굴에 있는 종종걸음 레포릿과 대화"
-25,"TEXT_BANLOP117_04703_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>야광버섯 동굴에 있는 종종걸음 레포릿에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>야광버섯 동굴에 있는 종종걸음 레포릿에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>야광버섯 동굴에 있는 종종걸음 레포릿에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>야광버섯 동굴에 있는 종종걸음 레포릿에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>야광버섯 동굴에 있는 종종걸음 레포릿에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>야광버섯 동굴에 있는 종종걸음 레포릿에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>야광버섯 동굴에 있는 종종걸음 레포릿에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>야광버섯 동굴에 있는 종종걸음 레포릿에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANLOP117_04703_TODO_02","매니징웨이에게 보고"
-27,"TEXT_BANLOP117_04703_TODO_03",""
-28,"TEXT_BANLOP117_04703_TODO_04",""
-29,"TEXT_BANLOP117_04703_TODO_05",""
-30,"TEXT_BANLOP117_04703_TODO_06",""
-31,"TEXT_BANLOP117_04703_TODO_07",""
-32,"TEXT_BANLOP117_04703_TODO_08",""
-33,"TEXT_BANLOP117_04703_TODO_09",""
-34,"TEXT_BANLOP117_04703_TODO_10",""
-35,"TEXT_BANLOP117_04703_TODO_11",""
-36,"TEXT_BANLOP117_04703_TODO_12",""
-37,"TEXT_BANLOP117_04703_TODO_13",""
-38,"TEXT_BANLOP117_04703_TODO_14",""
-39,"TEXT_BANLOP117_04703_TODO_15",""
-40,"TEXT_BANLOP117_04703_TODO_16",""
-41,"TEXT_BANLOP117_04703_TODO_17",""
-42,"TEXT_BANLOP117_04703_TODO_18",""
-43,"TEXT_BANLOP117_04703_TODO_19",""
-44,"TEXT_BANLOP117_04703_TODO_20",""
-45,"TEXT_BANLOP117_04703_TODO_21",""
-46,"TEXT_BANLOP117_04703_TODO_22",""
-47,"TEXT_BANLOP117_04703_TODO_23",""
-48,"TEXT_BANLOP117_04703_MANAGINGWAY_000_000","쿠킹웨이의 영향을 받은 동료가
+1,TEXT_BANLOP117_04703_SEQ_01,야광버섯 동굴에 있는 종종걸음 레포릿과 대화
+2,TEXT_BANLOP117_04703_SEQ_02,종종걸음 레포릿에게 의뢰받은 물품 납품
+3,TEXT_BANLOP117_04703_SEQ_03,매니징웨이에게 보고
+4,TEXT_BANLOP117_04703_SEQ_04,
+5,TEXT_BANLOP117_04703_SEQ_05,
+6,TEXT_BANLOP117_04703_SEQ_06,
+7,TEXT_BANLOP117_04703_SEQ_07,
+8,TEXT_BANLOP117_04703_SEQ_08,
+9,TEXT_BANLOP117_04703_SEQ_09,
+10,TEXT_BANLOP117_04703_SEQ_10,
+11,TEXT_BANLOP117_04703_SEQ_11,
+12,TEXT_BANLOP117_04703_SEQ_12,
+13,TEXT_BANLOP117_04703_SEQ_13,
+14,TEXT_BANLOP117_04703_SEQ_14,
+15,TEXT_BANLOP117_04703_SEQ_15,
+16,TEXT_BANLOP117_04703_SEQ_16,
+17,TEXT_BANLOP117_04703_SEQ_17,
+18,TEXT_BANLOP117_04703_SEQ_18,
+19,TEXT_BANLOP117_04703_SEQ_19,
+20,TEXT_BANLOP117_04703_SEQ_20,
+21,TEXT_BANLOP117_04703_SEQ_21,
+22,TEXT_BANLOP117_04703_SEQ_22,
+23,TEXT_BANLOP117_04703_SEQ_23,
+24,TEXT_BANLOP117_04703_TODO_00,야광버섯 동굴에 있는 종종걸음 레포릿과 대화
+25,TEXT_BANLOP117_04703_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANLOP117_04703_TODO_02,매니징웨이에게 보고
+27,TEXT_BANLOP117_04703_TODO_03,
+28,TEXT_BANLOP117_04703_TODO_04,
+29,TEXT_BANLOP117_04703_TODO_05,
+30,TEXT_BANLOP117_04703_TODO_06,
+31,TEXT_BANLOP117_04703_TODO_07,
+32,TEXT_BANLOP117_04703_TODO_08,
+33,TEXT_BANLOP117_04703_TODO_09,
+34,TEXT_BANLOP117_04703_TODO_10,
+35,TEXT_BANLOP117_04703_TODO_11,
+36,TEXT_BANLOP117_04703_TODO_12,
+37,TEXT_BANLOP117_04703_TODO_13,
+38,TEXT_BANLOP117_04703_TODO_14,
+39,TEXT_BANLOP117_04703_TODO_15,
+40,TEXT_BANLOP117_04703_TODO_16,
+41,TEXT_BANLOP117_04703_TODO_17,
+42,TEXT_BANLOP117_04703_TODO_18,
+43,TEXT_BANLOP117_04703_TODO_19,
+44,TEXT_BANLOP117_04703_TODO_20,
+45,TEXT_BANLOP117_04703_TODO_21,
+46,TEXT_BANLOP117_04703_TODO_22,
+47,TEXT_BANLOP117_04703_TODO_23,
+48,TEXT_BANLOP117_04703_MANAGINGWAY_000_000,"쿠킹웨이의 영향을 받은 동료가
 새로운 꿈에 도전하고 있다고 해요!
 동료들끼리 서로 좋은 영향을 주고받는 건 정말 멋진 일이에요!"
-49,"TEXT_BANLOP117_04703_MANAGINGWAY_000_001","하지만 꿈을 이루기 위한 길에 시련이 없을 순 없죠.
+49,TEXT_BANLOP117_04703_MANAGINGWAY_000_001,"하지만 꿈을 이루기 위한 길에 시련이 없을 순 없죠.
 식재료를 모으기 위해서 길을 떠났던 그 동료에게
 도구가 부서졌다면서 지원 요청이 들어왔어요."
-50,"TEXT_BANLOP117_04703_MANAGINGWAY_000_002","당신은 월면에서 하는 활동도 익숙하시잖아요!
+50,TEXT_BANLOP117_04703_MANAGINGWAY_000_002,"당신은 월면에서 하는 활동도 익숙하시잖아요!
 종종거리며 야광버섯 동굴에 간 동료를 찾아
 도구의 수리를 도와주세요!"
-51,"TEXT_BANLOP117_04703_SUPPORTER04703_000_005","삐삐삐…… 재료 제공 의뢰를 위해 대기 중입니다……."
-52,"TEXT_BANLOP117_04703_LOPORRIT04703_000_010","으앙, 도구가 부서졌어요, 어쩌면 좋아요……!
+51,TEXT_BANLOP117_04703_SUPPORTER04703_000_005,삐삐삐…… 재료 제공 의뢰를 위해 대기 중입니다…….
+52,TEXT_BANLOP117_04703_LOPORRIT04703_000_010,"으앙, 도구가 부서졌어요, 어쩌면 좋아요……!
 새로운 요리 메뉴를 생각해보려고
 식재료를 모으러 왔는데 버섯이 너무 단단한 거예요……!"
-53,"TEXT_BANLOP117_04703_LOPORRIT04703_000_011","칼의 이가 나갔기에 대신해서 날카로운 칼날이 될
-'<Sheet(Item,38877,0)/>'<13>FF0F02280BFF054974656DF297DD0103FF04EBA5BCFF04EC9D84</13> 부탁드려요!
+53,TEXT_BANLOP117_04703_LOPORRIT04703_000_011,"칼의 이가 나갔기에 대신해서 날카로운 칼날이 될
+'' 부탁드려요!
 재료가 부족할 때는 데리고 온 도우미에게 받아 주세요!"
-54,"TEXT_BANLOP117_04703_LOPORRIT04703_000_012","손잡이가 부서졌어요, 손잡이에 감아서 쓸
-'<Sheet(Item,38877,0)/>'<13>FF0F02280BFF054974656DF297DD0103FF04EBA5BCFF04EC9D84</13> 부탁드려요!
+54,TEXT_BANLOP117_04703_LOPORRIT04703_000_012,"손잡이가 부서졌어요, 손잡이에 감아서 쓸
+'' 부탁드려요!
 재료가 부족할 때는 데리고 온 도우미에게 받아 주세요!"
-55,"TEXT_BANLOP117_04703_LOPORRIT04703_000_013","칼날이 무뎌졌어요, 날붙이용 기름으로 쓸
-'<Sheet(Item,38877,0)/>'<13>FF0F02280BFF054974656DF297DD0103FF04EBA5BCFF04EC9D84</13> 부탁드려요!
+55,TEXT_BANLOP117_04703_LOPORRIT04703_000_013,"칼날이 무뎌졌어요, 날붙이용 기름으로 쓸
+'' 부탁드려요!
 재료가 부족할 때는 데리고 온 도우미에게 받아 주세요!"
-56,"TEXT_BANLOP117_04703_LOPORRIT04703_000_014","'<Sheet(Item,38877,0)/>'<13>FF0F02280BFF054974656DF297DD0103FF04EAB080FF04EC9DB4</13> 준비되시면
+56,TEXT_BANLOP117_04703_LOPORRIT04703_000_014,"'' 준비되시면
 여기서 수리 준비를 하고 있을 테니 저에게 주세요!
 버섯의 맛있는 부분을 얻을 때까지 안 돌아갈 거예요~!"
-57,"TEXT_BANLOP117_04703_SUPPORTER04703_000_015","삐삐삐…… 스캔 시작……
+57,TEXT_BANLOP117_04703_SUPPORTER04703_000_015,"삐삐삐…… 스캔 시작……
 오류…… 부족한 재료가 확인되지 않습니다."
-58,"TEXT_BANLOP117_04703_SUPPORTER04703_000_016","삐삐삐…… 스캔 시작……
+58,TEXT_BANLOP117_04703_SUPPORTER04703_000_016,"삐삐삐…… 스캔 시작……
 오류…… 부족한 재료가 확인되지 않습니다."
-59,"TEXT_BANLOP117_04703_SUPPORTER04703_000_017","삐삐삐…… 스캔 시작……
+59,TEXT_BANLOP117_04703_SUPPORTER04703_000_017,"삐삐삐…… 스캔 시작……
 오류…… 부족한 재료가 확인되지 않습니다."
-60,"TEXT_BANLOP117_04703_SUPPORTER04703_000_018","삐삐삐…… 스캔 시작……
+60,TEXT_BANLOP117_04703_SUPPORTER04703_000_018,"삐삐삐…… 스캔 시작……
 부족한 재료가 확인되었습니다.
 이것을 사용해 주십시오."
-61,"TEXT_BANLOP117_04703_SUPPORTER04703_000_019","삐삐삐…… 스캔 시작……
+61,TEXT_BANLOP117_04703_SUPPORTER04703_000_019,"삐삐삐…… 스캔 시작……
 부족한 재료가 확인되었습니다.
 이것을 사용해 주십시오."
-62,"TEXT_BANLOP117_04703_SUPPORTER04703_000_020","삐삐삐…… 스캔 시작……
+62,TEXT_BANLOP117_04703_SUPPORTER04703_000_020,"삐삐삐…… 스캔 시작……
 부족한 재료가 확인되었습니다.
 이것을 사용해 주십시오."
-63,"TEXT_BANLOP117_04703_LOPORRIT04703_000_025","부탁했던 '<Sheet(Item,38877,0)/>'<13>FF0F02280BFF054974656DF297DD0103FF04EB8A94FF04EC9D80</13>
+63,TEXT_BANLOP117_04703_LOPORRIT04703_000_025,"부탁했던 ''
 준비되었나요?"
-64,"TEXT_BANLOP117_04703_LOPORRIT04703_000_026","야호, 감사합니다!!
+64,TEXT_BANLOP117_04703_LOPORRIT04703_000_026,"야호, 감사합니다!!
 이걸로 도구를 고쳐서 버섯을 채집할 수 있겠어요!
 저도 쿠킹웨이처럼 요리할 거라고요~!"
-65,"TEXT_BANLOP117_04703_LOPORRIT04703_000_027","전 버섯을 최대한 채집해서 돌아갈 거예요!
+65,TEXT_BANLOP117_04703_LOPORRIT04703_000_027,"전 버섯을 최대한 채집해서 돌아갈 거예요!
 '매니징웨이'에게 가서
 이제 괜찮다고 전해주세요~!"
-66,"TEXT_BANLOP117_04703_MANAGINGWAY_000_030","<Highlight>ObjectParameter(1)</Highlight> 님, 어서 오세요!
+66,TEXT_BANLOP117_04703_MANAGINGWAY_000_030,"Player Player 님, 어서 오세요!
 동료가 괜찮다니 다행이에요!"
-67,"TEXT_BANLOP117_04703_MANAGINGWAY_000_031","그의 꿈은 진화 균류를 조리해서 먹을 수 있도록 하는 거래요.
+67,TEXT_BANLOP117_04703_MANAGINGWAY_000_031,"그의 꿈은 진화 균류를 조리해서 먹을 수 있도록 하는 거래요.
 그러면 균의 박멸과 먹는 즐거움을 동시에 얻을 수 있다나요.
 버섯 요리는 지상에서도 인기가 많다던데 흥미로운 도전이네요!"
-68,"TEXT_BANLOP117_04703_MANAGINGWAY_000_032","새로운 버섯 요리의 탄생이 먼저일지,
+68,TEXT_BANLOP117_04703_MANAGINGWAY_000_032,"새로운 버섯 요리의 탄생이 먼저일지,
 아니면 방해되는 진화 균류의 박멸이 먼저일지…….
 어느 쪽이든 결과는 해피엔딩 아닌가요!?"
-69,"TEXT_BANLOP117_04703_LOPORRIT04703_000_028","（★未使用／削除予定★）"
-70,"TEXT_BANLOP117_04703_SUPPORTER04703_000_029","（★未使用／削除予定★）"
+69,TEXT_BANLOP117_04703_LOPORRIT04703_000_028,（★未使用／削除予定★）
+70,TEXT_BANLOP117_04703_SUPPORTER04703_000_029,（★未使用／削除予定★）

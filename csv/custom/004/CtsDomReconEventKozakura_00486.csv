@@ -1,237 +1,235 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_000","여기서 모두가 사용하는 자재나 물건의 입출고를 관리하고 있답니다.
+#,Unknown0,Unknown1
+0,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_000,"여기서 모두가 사용하는 자재나 물건의 입출고를 관리하고 있답니다.
 모처럼 어르신들께서 젊은이들에게 맡겨주신 일이니……
 훌륭하게 해내고 말겠어요!"
-1,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_010","<Highlight>ObjectParameter(1)</Highlight> 님, 어서 오세요.
+1,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_010,"Player Player 님, 어서 오세요.
 이곳은 질경이 자치회입니다!"
-2,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_Q1_000_011","무엇을 물어보시겠습니까?"
-3,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_012","도마 도읍지의 상황에 대해서"
-4,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_013","'물자 기부' 방법에 대해서"
-5,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_014","'물자 재매입' 방법에 대해서"
-6,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_015","취소"
-7,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_016","도마 도읍지 부흥 계획이 드디어 시작되었습니다!
+2,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_Q1_000_011,무엇을 물어보시겠습니까?
+3,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_012,도마 도읍지의 상황에 대해서
+4,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_013,'물자 기부' 방법에 대해서
+5,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_014,'물자 재매입' 방법에 대해서
+6,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_A1_000_015,취소
+7,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_016,"도마 도읍지 부흥 계획이 드디어 시작되었습니다!
 우선 식생활을 담당하게 될 '만물시장'을 건설하려고 합니다.
 모쪼록 협력해 주시기 바랍니다……!"
-8,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_017","필요 없는 물건이나 기부하실 물건을
-<Sheet(EObj,2009567,0)/>에 넣어주시면
+8,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_017,"필요 없는 물건이나 기부하실 물건을
+에 넣어주시면
 약소하나마 사례금을 드립니다."
-9,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_018","다만, 저희 질경이 자치회에는
+9,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_018,"다만, 저희 질경이 자치회에는
 정해진 예산이 있으니 주의해 주세요."
-10,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_019","질경이 자치회에 있는 <Sheet(EObj,2009567,0)/>에 아이템을 기부하면
+10,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_019,"질경이 자치회에 있는 에 아이템을 기부하면
 도마 도읍지에 물자가 공급되어 거리가 발전합니다."
-11,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_020","일반 상인에게 판매할 수 있는 아이템이라면
+11,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_020,"일반 상인에게 판매할 수 있는 아이템이라면
 무엇이든지 기부할 수 있습니다."
-12,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_021","또한, 아이템을 기부하면 매입가의 일정 비율에 해당하는
+12,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_021,"또한, 아이템을 기부하면 매입가의 일정 비율에 해당하는
 사례금을 받을 수도 있습니다. "
-13,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_022","도마 도읍지 부흥이 진행될수록
+13,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_022,"도마 도읍지 부흥이 진행될수록
 사례금으로 책정되는 비율이 증가합니다."
-14,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_023","단, 질경이 자치회의 주간 예산이 한정되어 있으므로
+14,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_023,"단, 질경이 자치회의 주간 예산이 한정되어 있으므로
 예산을 초과하면 그 주에는 거래할 수 없습니다."
-15,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_024","질경이 자치회의 예산은
-현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시에 초기화됩니다.
+15,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_024,"질경이 자치회의 예산은
+현실 시간으로 매주 화요일 오후 5시에 초기화됩니다.
 초기화된 이후에 다시 거래하십시오."
-16,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_025","기부 시 받아야 할 사례금이 남은 예산보다 많을 경우
+16,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_025,"기부 시 받아야 할 사례금이 남은 예산보다 많을 경우
 초과한 금액은 받을 수 없으니 주의하십시오."
-17,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_026","기부하신 물자는
+17,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_026,"기부하신 물자는
 용도가 정해질 때까지 이 자치회에서 보관한답니다.
 보관하는 동안에는 다시 가져가실 수도 있습니다만……."
-18,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_027","<Sheet(EObj,2009567,0)/>에 기부한 아이템은
-자치회 뒤편에 있는 <Sheet(EObj,2009568,0)/>에서
+18,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_027,"에 기부한 아이템은
+자치회 뒤편에 있는 에서
 재매입할 수 있습니다."
-19,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_028","다만, 일반 상점에서 재매입할 때와 마찬가지로
+19,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_028,"다만, 일반 상점에서 재매입할 때와 마찬가지로
 지역 이동이나 접속 종료를 거치면 재매입할 수 없게 되니
 주의하십시오."
-20,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_100_028","재매입하더라도 주간 예산 액수는 다시 늘어나지 않습니다.
+20,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_100_028,"재매입하더라도 주간 예산 액수는 다시 늘어나지 않습니다.
 재매입한 가격 이상의 물자를 다시 기부할 때까지
 부흥에 이바지할 수 없으므로 신중하게 검토하십시오."
-21,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_029","또한, 재매입 금액은
+21,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_029,"또한, 재매입 금액은
 기부 시 받은 사례금에 수수료가 더해져 책정됩니다."
-22,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_030","'만물시장' 건설도 조금 진전되었습니다.
+22,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_030,"'만물시장' 건설도 조금 진전되었습니다.
 부디 '미츠바' 씨를 찾아가셔서
 얼마나 발전했는지 확인해 주세요!"
-23,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_040","초원의 아우라족이 거래를 요청하다니……
+23,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_040,"초원의 아우라족이 거래를 요청하다니……
 참으로 신기한 인연이군요.
 계속해서 '만물시장' 건설을 진행하겠습니다!"
-24,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_041","이것이 도마 도읍지의 현재 조감도입니다."
-25,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_050","부디 '미츠바' 씨를 찾아가셔서
+24,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_041,이것이 도마 도읍지의 현재 조감도입니다.
+25,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_050,"부디 '미츠바' 씨를 찾아가셔서
 시장의 현재 모습을 봐주세요!"
-26,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_060","해적 형제단에는 도마 출신인 사람이 많다고 들었습니다.
+26,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_060,"해적 형제단에는 도마 출신인 사람이 많다고 들었습니다.
 이렇게 다시 손을 맞잡게 되다니 얼마나 다행인지 모릅니다.
 '만물시장' 건설도 이제 막바지에 접어들었습니다!"
-27,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_061","이것이 도마 도읍지의 현재 조감도입니다."
-28,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_070","자, 저와 함께 '미츠바' 씨에게 가시지요!
+27,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_061,이것이 도마 도읍지의 현재 조감도입니다.
+28,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_070,"자, 저와 함께 '미츠바' 씨에게 가시지요!
 꼭 당신을 모셔오라고 신신당부하셨거든요!"
-29,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_080","덕분에 만물시장이 완성되었습니다.
+29,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_080,"덕분에 만물시장이 완성되었습니다.
 다음에는 물건 제작의 중심지가 될 '장인 거리'를
 정비하려고 합니다!"
-30,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_081","이것이 도마 도읍지의 현재 조감도입니다."
-31,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_090","괜찮으시다면 <Highlight>ObjectParameter(1)</Highlight> 님도
+30,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_081,이것이 도마 도읍지의 현재 조감도입니다.
+31,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_090,"괜찮으시다면 Player Player 님도
 '장인 거리'에 있는 '츠라누키' 씨의
 이야기를 들어주시지 않으시겠어요?"
-32,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_100","지금은 '장인 거리'의 건설이 진행되고 있습니다.
+32,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_100,"지금은 '장인 거리'의 건설이 진행되고 있습니다.
 하루빨리 공방을 완성시켜서
 장인 여러분들께서 솜씨를 발휘하셨으면 합니다!"
-33,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_101","이것이 도마 도읍지의 현재 조감도입니다."
-34,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_110","'장인 거리'에 제지 공방을 만들기 시작했답니다!
+33,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_101,이것이 도마 도읍지의 현재 조감도입니다.
+34,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_110,"'장인 거리'에 제지 공방을 만들기 시작했답니다!
 공방 건설을 지휘하고 계시는 '아라라기' 씨를 만나러
 함께 가지 않으시겠어요?"
-35,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_120","츠라누키 씨의 공방과 아라라기 씨의 공방…….
+35,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_120,"츠라누키 씨의 공방과 아라라기 씨의 공방…….
 어, 어디가 우선이랄 것도 없이
 '장인 거리' 전체의 완성을 목표로 하고 있습니다!"
-36,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_121","이것이 도마 도읍지의 현재 조감도입니다."
-37,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_130","계속해서 도와주신 덕분에
+36,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_121,이것이 도마 도읍지의 현재 조감도입니다.
+37,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_130,"계속해서 도와주신 덕분에
 '장인 거리'는 순조롭게 발전하고 있답니다.
 부디 '츠라누키' 씨에게 이야기를 들어 보세요."
-38,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_140","'장인 거리'는 만물시장보다 규모가 크기 때문에
+38,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_140,"'장인 거리'는 만물시장보다 규모가 크기 때문에
 보다 많은 물자가 필요하답니다.
-<Highlight>ObjectParameter(1)</Highlight> 님, 혹시 부담스럽지는 않으신가요……?"
-39,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_141","이것이 도마 도읍지의 현재 조감도입니다."
-40,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_150","자, 지난번보다 나아진 곳을 보러 가보시지요!
+Player Player 님, 혹시 부담스럽지는 않으신가요……?"
+39,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_141,이것이 도마 도읍지의 현재 조감도입니다.
+40,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_150,"자, 지난번보다 나아진 곳을 보러 가보시지요!
 뒤편에 '아라라기' 씨가 계실 거예요!"
-41,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_160","'장인 거리'에 있는 모든 공방의 건물이
+41,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_160,"'장인 거리'에 있는 모든 공방의 건물이
 거의 다 완성돼가고 있습니다.
 드디어, 가장 중요한 작업장을 정비하고 있어요!"
-42,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_161","이것이 도마 도읍지의 현재 조감도입니다."
-43,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_170","'장인 거리'에서 '츠라누키' 씨와 장인 여러분이 일하는 모습을
+42,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_161,이것이 도마 도읍지의 현재 조감도입니다.
+43,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_170,"'장인 거리'에서 '츠라누키' 씨와 장인 여러분이 일하는 모습을
 보러 가보시면 어떨까요?"
-44,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_180","이제 제지 공방만 건설하면 '장인 거리'가 완성된답니다!
+44,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_180,"이제 제지 공방만 건설하면 '장인 거리'가 완성된답니다!
 모쪼록 조금만 더 힘을 보태주세요……!"
-45,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_181","이것이 도마 도읍지의 현재 조감도입니다."
-46,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_190","완성된 '장인 거리'를 보여드리고 싶습니다.
+45,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_181,이것이 도마 도읍지의 현재 조감도입니다.
+46,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_190,"완성된 '장인 거리'를 보여드리고 싶습니다.
 부디 '아라라기' 씨를 찾아가 주시기 바랍니다!"
-47,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_200","만물시장과 장인 거리…….
+47,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_200,"만물시장과 장인 거리…….
 질경이 자치회가 처음에 계획한 구획은 모두 건설되었는데
 츠라누키 씨와 다른 분들은 대체 뭘 하시려는 걸까요……?"
-48,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_201","이것이 도마 도읍지의 현재 조감도입니다."
-49,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_210","이 장소와 이 옷에 부끄럽지 않도록
+48,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_201,이것이 도마 도읍지의 현재 조감도입니다.
+49,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_210,"이 장소와 이 옷에 부끄럽지 않도록
 앞으로도 도마 도읍지를 위해 분골쇄신하겠습니다!
 다음 계획이 세워지면 또 부탁드릴게요……!"
-50,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_210","아이템 기부는 계속할 수 있지만,
+50,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_210,"아이템 기부는 계속할 수 있지만,
 다음 계획이 정해질 때까지 도읍지는 더 발전하지 않습니다.
 업데이트를 기다려 주세요!"
-51,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_215","<Highlight>ObjectParameter(1)</Highlight> 님……
+51,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_215,"Player Player 님……
 여기까지 와주셔서 감사합니다.
 그런데 바쁘진 않으신가요?"
-52,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_216","당신을 기다리고 있는 분들이 계실지도 모릅니다.
+52,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_216,"당신을 기다리고 있는 분들이 계실지도 모릅니다.
 그분들을 만나러 가주세요.
 그동안 저희들 나름대로 마을을 꾸려나가고 있겠습니다!"
-53,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_217","앞으로 도마 도읍지를 부흥시키려면
+53,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_217,"앞으로 도마 도읍지를 부흥시키려면
 주요 퀘스트 ''새벽'의 소년'을
 완료해야 합니다."
-54,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_220","<Highlight>ObjectParameter(1)</Highlight> 님!
+54,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_220,"Player Player 님!
 어서 오세요."
-55,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_221","며칠 전 질경이 자치회에서
+55,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_221,"며칠 전 질경이 자치회에서
 앞으로의 부흥 계획 방침이 결정되어서,
 말씀드려야겠다고 생각하고 있었답니다."
-56,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_222","먼저 도읍지분들 덕분에
+56,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_222,"먼저 도읍지분들 덕분에
 이 마을의 잔해들은 대부분 치웠어요."
-57,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_223","쓸 수 있는 땅이 넓어졌으니 앞으로는 그곳을 중심으로
+57,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_223,"쓸 수 있는 땅이 넓어졌으니 앞으로는 그곳을 중심으로
 새로운 시설들을 건설해나갈 예정입니다!"
-58,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_224","하지만 그러기 위해선
+58,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_224,"하지만 그러기 위해선
 훨씬 더 많은 물자가 필요해지니……
 앞으로도 물자 기부를 해주시면 감사하겠습니다."
-59,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_225","자, 가장 중요한 이번에 착수할 장소는 말이죠……"
-60,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_226","(-???-)그다음부턴 내가 말을 해도 되겠나."
-61,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_227","(-덩치 큰 농부-)자네, 날 기억하는가?
+59,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_225,"자, 가장 중요한 이번에 착수할 장소는 말이죠……"
+60,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_226,(-???-)그다음부턴 내가 말을 해도 되겠나.
+61,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_227,"(-덩치 큰 농부-)자네, 날 기억하는가?
 카스트룸 플루미니스에 징용되어 있을 때,
 자네가 닌자 아가씨와 함께 날 구출해주었다네."
-62,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_228","(-덩치 큰 농부-)그땐 정신이 없어서 이름도 못 밝히고 미안했다네.
+62,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_228,"(-덩치 큰 농부-)그땐 정신이 없어서 이름도 못 밝히고 미안했다네.
 난 이하세라고 하네.
 이번에 질경이 자치회에 지원을 부탁한 '농경지' 책임자일세."
-63,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_229","도마는 보다시피 물이 풍부한 나라라네.
+63,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_229,"도마는 보다시피 물이 풍부한 나라라네.
 그래서 주위엔 벼농사를 짓는 마을이 많아.
 나를 포함해 이 도읍지엔 그런 마을의 출신들도 많이 있지."
-64,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_230","지금은 부흥이 한차례 이루어진 터라 손이 잠시 비었다네.
+64,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_230,"지금은 부흥이 한차례 이루어진 터라 손이 잠시 비었다네.
 그러다 보니 우리 농부들은 벼농사를 짓고 싶어진 거지.
 얀샤는 대륙 유일의 곡창이니 부흥에 벼농사는 필수 아니겠나."
-65,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_231","그래서 코자쿠라 씨한테
+65,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_231,"그래서 코자쿠라 씨한테
 공터를 논으로 만들었으면 한다고 부탁했다네."
-66,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_232","자네는 협력자니 한 번 '농경지'를 보러 왔음 하네.
+66,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_IHASE_000_232,"자네는 협력자니 한 번 '농경지'를 보러 왔음 하네.
 북서쪽에 있는 넓은 부지로 와주지 않겠나."
-67,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_233","…………얘기를 들으셨다시피
+67,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_233,"…………얘기를 들으셨다시피
 이번 부흥 예정지는 '농경지'랍니다!"
-68,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_234","맛있는 쌀은 교역품으로도 가치가 높은 데다가
+68,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_234,"맛있는 쌀은 교역품으로도 가치가 높은 데다가
 외부에 추천할 수 있는 것이 생긴다는 건
 자치회 입장에서도 좋은 일이죠. 개발이 기대되네요!"
-69,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_235","'이하세' 씨가 기다리고 계신다고 하니
+69,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_235,"'이하세' 씨가 기다리고 계신다고 하니
 꼭 한 번 '농경지'를 시찰해주세요!"
-70,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_240","'이하세' 씨가 기다리고 계신다고 하니
+70,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_240,"'이하세' 씨가 기다리고 계신다고 하니
 꼭 한 번 '농경지'를 시찰해주세요!"
-71,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_250","'농경지'에서 농부분들이 벼농사를 시작하셨어요.
+71,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_250,"'농경지'에서 농부분들이 벼농사를 시작하셨어요.
 건축 자재뿐 아니라 농기구나 비료 같은 것도
 구하고 있던 참이었답니다!"
-72,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_251","이것이 도마 도읍지의 현재 조감도입니다."
-73,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_260","<Highlight>ObjectParameter(1)</Highlight> 님도 꼭
+72,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_251,이것이 도마 도읍지의 현재 조감도입니다.
+73,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_260,"Player Player 님도 꼭
 '이하세' 씨를 찾아가셔서
 '농경지'를 보셨으면 좋겠어요!"
-74,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_280","'이하세' 씨가 '농경지'에서 기다리고 계신다고 하니
+74,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_280,"'이하세' 씨가 '농경지'에서 기다리고 계신다고 하니
 꼭 찾아가셔서 논을 한 번 보셨으면 해요!"
-75,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_290","'농경지' 지원은 현재 끝난 상태고요,
+75,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_290,"'농경지' 지원은 현재 끝난 상태고요,
 지금은 '율재학당' 건설이 시작되었어요.
 아이들의 활기찬 목소리 덕분에 기운이 난답니다!"
-76,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_291","이것이 도마 도읍지의 현재 조감도입니다."
-77,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_300","아이들도 굉장히 기뻐한다고 하니,
+76,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_291,이것이 도마 도읍지의 현재 조감도입니다.
+77,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_300,"아이들도 굉장히 기뻐한다고 하니,
 '율재학당'에 있는 '미나즈키' 씨를 찾아가셔서
 꼭 한 번 직접 보셨으면 해요!"
-78,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_310","'율재학당'은 시설이 계속 지어지고 있는 중이지만……
+78,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_310,"'율재학당'은 시설이 계속 지어지고 있는 중이지만……
 이미 수업이 시작되었다고 해요.
 미나즈키 씨도 아이들도 아주 열심이랍니다."
-79,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_311","이것이 도마 도읍지의 현재 조감도입니다."
-80,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_320","<Highlight>ObjectParameter(1)</Highlight> 님,
+79,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_311,이것이 도마 도읍지의 현재 조감도입니다.
+80,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_320,"Player Player 님,
 꼭 한 번 '율재학당'을 직접 보셨으면 해요.
 '미나즈키' 씨가 기다리고 계신답니다!"
-81,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_340","자, 그럼 함께 '율재학당'에 가도록 해요!
+81,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_340,"자, 그럼 함께 '율재학당'에 가도록 해요!
 아이들과 '미나즈키' 씨가
 기다리고 있다고 하니까요!"
-82,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_350","덕분에 율재학당이 완성되었기에
+82,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_350,"덕분에 율재학당이 완성되었기에
 지금은 '자경본부' 건설이 진행되고 있답니다.
 괜찮으시다면 꼭 한 번 시찰을 가보시길 바랍니다!"
-83,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_351","이것이 도마 도읍지의 현재 조감도입니다."
-84,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_360","<Highlight>ObjectParameter(1)</Highlight> 님,
+83,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_351,이것이 도마 도읍지의 현재 조감도입니다.
+84,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_360,"Player Player 님,
 '자경본부'에 계시는 '마우토우' 씨한테서
 이야기를 들어주세요!"
-85,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_370","'자경본부' 건설은 순조롭게 진행 중이에요.
+85,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_370,"'자경본부' 건설은 순조롭게 진행 중이에요.
 총괄하는 마우토우 오라…… 마우토우 씨는
 굉장히 믿음직스러운 분이랍니다!"
-86,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_371","이것이 도마 도읍지의 현재 조감도입니다."
-87,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_380","'마우토우' 오라버니가 기다리고 계세요.
+86,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_371,이것이 도마 도읍지의 현재 조감도입니다.
+87,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_380,"'마우토우' 오라버니가 기다리고 계세요.
 저와 함께 '자경본부'로 가도록 해요!"
-88,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_390","자경본부가 완성되어 마을이 훨씬 더 안전해졌어요!
+88,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_390,"자경본부가 완성되어 마을이 훨씬 더 안전해졌어요!
 대부분의 시설들의 건설은 끝났기 때문에
 지금은 제국의 감시탑을 철거하고 있답니다."
-89,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_391","이것이 도마 도읍지의 현재 조감도입니다."
-90,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_400","'망루'에는 목수 '이시부시' 님이 계세요.
+89,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_391,이것이 도마 도읍지의 현재 조감도입니다.
+90,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_400,"'망루'에는 목수 '이시부시' 님이 계세요.
 작업의 진척 상황을 꼭 한 번 보러 가주세요!"
-91,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_410","제국의 망루를 철거한 뒤에는
+91,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_410,"제국의 망루를 철거한 뒤에는
 도마식 '망루'를 건설할 예정이래요.
 어떤 탑이 생길지 기대가 되네요!"
-92,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_411","이것이 도마 도읍지의 현재 조감도입니다."
-93,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_420","'망루'가 완성되었다고 하니,
+92,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_411,이것이 도마 도읍지의 현재 조감도입니다.
+93,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_420,"'망루'가 완성되었다고 하니,
 한 번 가까이서 보러 가보세요!
 '이시부시' 님한테서도 자세한 얘길 들으실 수 있을 거예요!"
-94,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_430","목수분들의 부탁으로
+94,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_430,"목수분들의 부탁으로
 물자 지원은 계속 하고 있는데요…….
 나중으로 미뤄뒀다던 시설은 어디일까요?"
-95,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_431","이것이 도마 도읍지의 현재 조감도입니다."
-96,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_440","이 도마 도읍지에 정원이 생기는 날이 오다니……!
+95,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_431,이것이 도마 도읍지의 현재 조감도입니다.
+96,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_440,"이 도마 도읍지에 정원이 생기는 날이 오다니……!
 꿈만 같습니다.
 완성이 너무 기대되네요!"
-97,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_441","이것이 도마 도읍지의 현재 조감도입니다."
-98,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_450","<Highlight>ObjectParameter(1)</Highlight> 님,
+97,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_441,이것이 도마 도읍지의 현재 조감도입니다.
+98,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_450,"Player Player 님,
 같이 '무이정원'으로 가시죠!
 '타우야쿠' 씨께서 기다리고 계시대요!"
-99,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_460","덕분에 이번 부흥 계획은 대성공이었어요.
+99,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_460,"덕분에 이번 부흥 계획은 대성공이었어요.
 앞으로도 도읍지를 풍요로운 곳으로 만들기 위해
 필요 없는 물건이 있으시면 양도해주세요."
-100,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_461","여기서 더 마을의 모습이 바뀌지는 않지만,
+100,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_461,"여기서 더 마을의 모습이 바뀌지는 않지만,
 계속해서 주간 예산 내에서 아이템을 양도할 수 있습니다."
-101,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_462","또한 마을 내 부흥 계획이 완료되었기 때문에
+101,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_SYSTEM_000_462,"또한 마을 내 부흥 계획이 완료되었기 때문에
 물자의 거래 예산액이 더 인상되었습니다.
 앞으로도 도마 도읍지에 협력합시다!"
-102,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_236","（★未使用／削除予定★）"
-103,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_270","（★未使用／削除予定★）"
-104,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_271","（★未使用／削除予定★）"
-105,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_330","（★未使用／削除予定★）"
-106,"TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_331","（★未使用／削除予定★）"
+102,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_236,（★未使用／削除予定★）
+103,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_270,（★未使用／削除予定★）
+104,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_271,（★未使用／削除予定★）
+105,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_330,（★未使用／削除予定★）
+106,TEXT_CTSDOMRECONEVENTKOZAKURA_00486_KOZAKURA_000_331,（★未使用／削除予定★）

@@ -1,195 +1,192 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_LUCKZH303_03535_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_LUCKZH303_03535_SEQ_00,"**특수 규칙:  레벨 보정**
 오스탈 엄명성에 있는 마윌은 톨라스에게서 이야기를 듣고 싶어 한다."
-1,"TEXT_LUCKZH303_03535_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+1,TEXT_LUCKZH303_03535_SEQ_01,"※ 이 퀘스트에는 **** 레벨 보정
 　적용됩니다.
 
 마윌은 톨라스가 제대로 휴가를 내는지 지켜봐달라고 부탁했다. 오스탈 엄명성에서 '톨라스'와 대화하자."
-2,"TEXT_LUCKZH303_03535_SEQ_02","톨라스는 맑은 설수에서 휴가를 보내려는 모양이다. 레이크랜드의 맑은 설수에 있는 '톨라스'와 대화하자."
-3,"TEXT_LUCKZH303_03535_SEQ_03","톨라스와 대화했다. 준비를 마치면 맑은 설수 '<Sheet(EObj,2010210,0)/>'<14>FF1002280CFF05454F626AF61EAC620103FF04EBA19CFF07EC9CBCEBA19C</14> 가자."
-4,"TEXT_LUCKZH303_03535_SEQ_04","수송대가 습격을 받아 마윌이 실종된 모양이다. 맑은 설수에서 '톨라스'와 대화하자."
-5,"TEXT_LUCKZH303_03535_SEQ_05","톨라스는 마윌을 위해 자신이 할 수 있는 일을 하겠다며 의욕을 불태웠다. 트라우마는 아직 극복하지 못했지만, 한 걸음 앞으로 나아간 것 같다."
-6,"TEXT_LUCKZH303_03535_SEQ_06",""
-7,"TEXT_LUCKZH303_03535_SEQ_07",""
-8,"TEXT_LUCKZH303_03535_SEQ_08",""
-9,"TEXT_LUCKZH303_03535_SEQ_09",""
-10,"TEXT_LUCKZH303_03535_SEQ_10",""
-11,"TEXT_LUCKZH303_03535_SEQ_11",""
-12,"TEXT_LUCKZH303_03535_SEQ_12",""
-13,"TEXT_LUCKZH303_03535_SEQ_13",""
-14,"TEXT_LUCKZH303_03535_SEQ_14",""
-15,"TEXT_LUCKZH303_03535_SEQ_15",""
-16,"TEXT_LUCKZH303_03535_SEQ_16",""
-17,"TEXT_LUCKZH303_03535_SEQ_17",""
-18,"TEXT_LUCKZH303_03535_SEQ_18",""
-19,"TEXT_LUCKZH303_03535_SEQ_19",""
-20,"TEXT_LUCKZH303_03535_SEQ_20",""
-21,"TEXT_LUCKZH303_03535_SEQ_21",""
-22,"TEXT_LUCKZH303_03535_SEQ_22",""
-23,"TEXT_LUCKZH303_03535_SEQ_23",""
-24,"TEXT_LUCKZH303_03535_TODO_00","톨라스와 대화"
-25,"TEXT_LUCKZH303_03535_TODO_01","맑은 설수에서 톨라스와 대화"
-26,"TEXT_LUCKZH303_03535_TODO_02","<Sheet(EObj,2010210,0)/><14>FF1002280CFF05454F626AF61EAC620103FF04EBA19CFF07EC9CBCEBA19C</14> 이동"
-27,"TEXT_LUCKZH303_03535_TODO_03","톨라스와 대화"
-28,"TEXT_LUCKZH303_03535_TODO_04",""
-29,"TEXT_LUCKZH303_03535_TODO_05",""
-30,"TEXT_LUCKZH303_03535_TODO_06",""
-31,"TEXT_LUCKZH303_03535_TODO_07",""
-32,"TEXT_LUCKZH303_03535_TODO_08",""
-33,"TEXT_LUCKZH303_03535_TODO_09",""
-34,"TEXT_LUCKZH303_03535_TODO_10",""
-35,"TEXT_LUCKZH303_03535_TODO_11",""
-36,"TEXT_LUCKZH303_03535_TODO_12",""
-37,"TEXT_LUCKZH303_03535_TODO_13",""
-38,"TEXT_LUCKZH303_03535_TODO_14",""
-39,"TEXT_LUCKZH303_03535_TODO_15",""
-40,"TEXT_LUCKZH303_03535_TODO_16",""
-41,"TEXT_LUCKZH303_03535_TODO_17",""
-42,"TEXT_LUCKZH303_03535_TODO_18",""
-43,"TEXT_LUCKZH303_03535_TODO_19",""
-44,"TEXT_LUCKZH303_03535_TODO_20",""
-45,"TEXT_LUCKZH303_03535_TODO_21",""
-46,"TEXT_LUCKZH303_03535_TODO_22",""
-47,"TEXT_LUCKZH303_03535_TODO_23",""
-48,"TEXT_LUCKZH303_03535_TOLAS_100_000","…………."
-49,"TEXT_LUCKZH303_03535_MAUWYL_000_000","톨라스, 평소의 너답지 않아.
+2,TEXT_LUCKZH303_03535_SEQ_02,톨라스는 맑은 설수에서 휴가를 보내려는 모양이다. 레이크랜드의 맑은 설수에 있는 '톨라스'와 대화하자.
+3,TEXT_LUCKZH303_03535_SEQ_03,톨라스와 대화했다. 준비를 마치면 맑은 설수 '' 가자.
+4,TEXT_LUCKZH303_03535_SEQ_04,수송대가 습격을 받아 마윌이 실종된 모양이다. 맑은 설수에서 '톨라스'와 대화하자.
+5,TEXT_LUCKZH303_03535_SEQ_05,"톨라스는 마윌을 위해 자신이 할 수 있는 일을 하겠다며 의욕을 불태웠다. 트라우마는 아직 극복하지 못했지만, 한 걸음 앞으로 나아간 것 같다."
+6,TEXT_LUCKZH303_03535_SEQ_06,
+7,TEXT_LUCKZH303_03535_SEQ_07,
+8,TEXT_LUCKZH303_03535_SEQ_08,
+9,TEXT_LUCKZH303_03535_SEQ_09,
+10,TEXT_LUCKZH303_03535_SEQ_10,
+11,TEXT_LUCKZH303_03535_SEQ_11,
+12,TEXT_LUCKZH303_03535_SEQ_12,
+13,TEXT_LUCKZH303_03535_SEQ_13,
+14,TEXT_LUCKZH303_03535_SEQ_14,
+15,TEXT_LUCKZH303_03535_SEQ_15,
+16,TEXT_LUCKZH303_03535_SEQ_16,
+17,TEXT_LUCKZH303_03535_SEQ_17,
+18,TEXT_LUCKZH303_03535_SEQ_18,
+19,TEXT_LUCKZH303_03535_SEQ_19,
+20,TEXT_LUCKZH303_03535_SEQ_20,
+21,TEXT_LUCKZH303_03535_SEQ_21,
+22,TEXT_LUCKZH303_03535_SEQ_22,
+23,TEXT_LUCKZH303_03535_SEQ_23,
+24,TEXT_LUCKZH303_03535_TODO_00,톨라스와 대화
+25,TEXT_LUCKZH303_03535_TODO_01,맑은 설수에서 톨라스와 대화
+26,TEXT_LUCKZH303_03535_TODO_02, 이동
+27,TEXT_LUCKZH303_03535_TODO_03,톨라스와 대화
+28,TEXT_LUCKZH303_03535_TODO_04,
+29,TEXT_LUCKZH303_03535_TODO_05,
+30,TEXT_LUCKZH303_03535_TODO_06,
+31,TEXT_LUCKZH303_03535_TODO_07,
+32,TEXT_LUCKZH303_03535_TODO_08,
+33,TEXT_LUCKZH303_03535_TODO_09,
+34,TEXT_LUCKZH303_03535_TODO_10,
+35,TEXT_LUCKZH303_03535_TODO_11,
+36,TEXT_LUCKZH303_03535_TODO_12,
+37,TEXT_LUCKZH303_03535_TODO_13,
+38,TEXT_LUCKZH303_03535_TODO_14,
+39,TEXT_LUCKZH303_03535_TODO_15,
+40,TEXT_LUCKZH303_03535_TODO_16,
+41,TEXT_LUCKZH303_03535_TODO_17,
+42,TEXT_LUCKZH303_03535_TODO_18,
+43,TEXT_LUCKZH303_03535_TODO_19,
+44,TEXT_LUCKZH303_03535_TODO_20,
+45,TEXT_LUCKZH303_03535_TODO_21,
+46,TEXT_LUCKZH303_03535_TODO_22,
+47,TEXT_LUCKZH303_03535_TODO_23,
+48,TEXT_LUCKZH303_03535_TOLAS_100_000,………….
+49,TEXT_LUCKZH303_03535_MAUWYL_000_000,"톨라스, 평소의 너답지 않아.
 무슨 일이 있었는지 말해주지 않을래?"
-50,"TEXT_LUCKZH303_03535_TOLAS_000_001","…………."
-51,"TEXT_LUCKZH303_03535_MAUWYL_000_002","<Highlight>ObjectParameter(1)</Highlight> 씨,
+50,TEXT_LUCKZH303_03535_TOLAS_000_001,………….
+51,TEXT_LUCKZH303_03535_MAUWYL_000_002,"Player Player 씨,
 무슨 일이 있었는지 당신이 말해줘.
 톨라스는 나한테 말하기 싫은가 봐."
-52,"TEXT_LUCKZH303_03535_TOLAS_000_003","……아니, 내가 설명하지.
+52,TEXT_LUCKZH303_03535_TOLAS_000_003,"……아니, 내가 설명하지.
 말해야 할지 말지 망설였지만,
 역시 너한텐 내 입으로 직접 전해야 할 것 같군."
-53,"TEXT_LUCKZH303_03535_TOLAS_000_004","（★未使用／削除予定★）"
-54,"TEXT_LUCKZH303_03535_MAUWYL_000_005","대습격 때 그런 일이 있었다니……."
-55,"TEXT_LUCKZH303_03535_TOLAS_000_006","나는 내 몸 하나 지키자고 동료를 버린 겁쟁이다.
+53,TEXT_LUCKZH303_03535_TOLAS_000_004,（★未使用／削除予定★）
+54,TEXT_LUCKZH303_03535_MAUWYL_000_005,대습격 때 그런 일이 있었다니…….
+55,TEXT_LUCKZH303_03535_TOLAS_000_006,"나는 내 몸 하나 지키자고 동료를 버린 겁쟁이다.
 기사의 피를 이어받은 주제에 죄식자를 겁내는 남자 따위
 네가 걱정해줄 가치조차 없어."
-56,"TEXT_LUCKZH303_03535_MAUWYL_000_007","무슨 소리야!
+56,TEXT_LUCKZH303_03535_MAUWYL_000_007,"무슨 소리야!
 그런 괴물을 앞에 두고 두려워지는 건 당연한 일이지!"
-57,"TEXT_LUCKZH303_03535_MAUWYL_000_008","나였다면 진작에 혼비백산해서 꽁무니를 뺐을 거야!
+57,TEXT_LUCKZH303_03535_MAUWYL_000_008,"나였다면 진작에 혼비백산해서 꽁무니를 뺐을 거야!
 죄식자를 두려워하는 위병도 얼마든지 있을 수 있잖아!
 네가 그걸 부끄러워할 필요는 없어!"
-58,"TEXT_LUCKZH303_03535_MAUWYL_000_009","살아남은 건 기쁜 일이고
+58,TEXT_LUCKZH303_03535_MAUWYL_000_009,"살아남은 건 기쁜 일이고
 동료를 버렸다고 자책할 필요도 없어!
 적어도 나는 네가 살아있다는 것만으로 충분히 고맙단 말이야!"
-59,"TEXT_LUCKZH303_03535_TOLAS_000_010","……네 마음은 기쁘게 받아들일게.
+59,TEXT_LUCKZH303_03535_TOLAS_000_010,"……네 마음은 기쁘게 받아들일게.
 하지만 그래도 나는 나 자신을 용서할 수가 없어.
 지금도 마물 따위에게 겁을 먹고 벌벌 떠는 지경이니까……."
-60,"TEXT_LUCKZH303_03535_TOLAS_000_011","증조부님은 오스탈 공과 함께 백성을, 동료를 지키기 위해 싸우셨다.
+60,TEXT_LUCKZH303_03535_TOLAS_000_011,"증조부님은 오스탈 공과 함께 백성을, 동료를 지키기 위해 싸우셨다.
 그 피를 이어받은 내가 이러고 있으면 말이 안 돼!"
-61,"TEXT_LUCKZH303_03535_TOLAS_000_012","나는 아직 멀었어. 혹독한 단련이 필요해.
+61,TEXT_LUCKZH303_03535_TOLAS_000_012,"나는 아직 멀었어. 혹독한 단련이 필요해.
 그래, 지금부터라도 당장……."
-62,"TEXT_LUCKZH303_03535_MAUWYL_000_013","안 돼!
+62,TEXT_LUCKZH303_03535_MAUWYL_000_013,"안 돼!
 너한테 필요한 건 충분한 휴식이야!"
-63,"TEXT_LUCKZH303_03535_MAUWYL_100_013","어때, <Highlight>ObjectParameter(1)</Highlight> 씨?
+63,TEXT_LUCKZH303_03535_MAUWYL_100_013,"어때, Player Player 씨?
 당신도 그렇게 생각하지!?"
-64,"TEXT_LUCKZH303_03535_MAUWYL_000_014","거봐, <Highlight>ObjectParameter(1)</Highlight> 씨도 그렇다잖아!
+64,TEXT_LUCKZH303_03535_MAUWYL_000_014,"거봐, Player Player 씨도 그렇다잖아!
 더구나 너, 지금은 옛날처럼 못 싸우지?"
-65,"TEXT_LUCKZH303_03535_MAUWYL_000_015","그런 상태라면 다음엔 진짜로
+65,TEXT_LUCKZH303_03535_MAUWYL_000_015,"그런 상태라면 다음엔 진짜로
 너 때문에 동료들이 다치게 될지도 모른다고.
 그런 판단도 못하는 사람이 아니었잖아!"
-66,"TEXT_LUCKZH303_03535_TOLAS_000_016","……네 말이 맞다.
+66,TEXT_LUCKZH303_03535_TOLAS_000_016,"……네 말이 맞다.
 그래, 당분간 휴가를 받아야겠어."
-67,"TEXT_LUCKZH303_03535_MAUWYL_000_017","톨라스……!
+67,TEXT_LUCKZH303_03535_MAUWYL_000_017,"톨라스……!
 다행이다. 마음 먹은 김에
 빨리 상관한테 전하러 가자!"
-68,"TEXT_LUCKZH303_03535_TOLAS_000_018","너, 이 뒤에 일 있다고 하지 않았어?
+68,TEXT_LUCKZH303_03535_TOLAS_000_018,"너, 이 뒤에 일 있다고 하지 않았어?
 아무리 그래도 휴가 신청을 못할 만큼 망가지진 않았다고."
-69,"TEXT_LUCKZH303_03535_MAUWYL_000_019","……이런, 일이 있다는 걸 깜빡했네.
-<Highlight>ObjectParameter(1)</Highlight> 씨, 톨라스가 진짜 휴가를 내는지
+69,TEXT_LUCKZH303_03535_MAUWYL_000_019,"……이런, 일이 있다는 걸 깜빡했네.
+Player Player 씨, 톨라스가 진짜 휴가를 내는지
 나 대신 지켜봐줘!"
-70,"TEXT_LUCKZH303_03535_MAUWYL_000_020","고마워!
+70,TEXT_LUCKZH303_03535_MAUWYL_000_020,"고마워!
 그럼 난 가볼게!
 톨라스를 잘 부탁해!"
-71,"TEXT_LUCKZH303_03535_ATLI_100_030","오오, <Highlight>ObjectParameter(1)</Highlight> 공!
+71,TEXT_LUCKZH303_03535_ATLI_100_030,"오오, Player Player 공!
 지난번 전투에서는 신세 많이 졌네.
 귀공 덕에 얼마나 많은 병사들의 목숨을 건졌는지!"
-72,"TEXT_LUCKZH303_03535_TOLAS_000_030","아아, <Highlight>ObjectParameter(1)</Highlight> 공.
+72,TEXT_LUCKZH303_03535_TOLAS_000_030,"아아, Player Player 공.
 마윌이 날 지켜보란 말이라도 했나 보지?
 녀석의 배려를 저버리는 일은 안 해."
-73,"TEXT_LUCKZH303_03535_ATLI_000_031","오오, <Highlight>ObjectParameter(1)</Highlight> 공!
+73,TEXT_LUCKZH303_03535_ATLI_000_031,"오오, Player Player 공!
 지난번 전투에서는 신세 많이 졌네.
 귀공 덕에 얼마나 많은 병사들의 목숨을 건졌는지!"
-74,"TEXT_LUCKZH303_03535_ATLI_000_032","톨라스에게는 휴가를 명한 참이네.
+74,TEXT_LUCKZH303_03535_ATLI_000_032,"톨라스에게는 휴가를 명한 참이네.
 이번 기회에 둘이 맑은 설수에라도 가서
 전투의 피로를 풀고 오게."
-75,"TEXT_LUCKZH303_03535_TOLAS_000_033","흠…… 온천이라, 나쁘지 않군.
-<Highlight>ObjectParameter(1)</Highlight> 공, 어떻게 할래?"
-76,"TEXT_LUCKZH303_03535_TOLAS_000_034","물론 무리해서 응할 필요는 없어.
+75,TEXT_LUCKZH303_03535_TOLAS_000_033,"흠…… 온천이라, 나쁘지 않군.
+Player Player 공, 어떻게 할래?"
+76,TEXT_LUCKZH303_03535_TOLAS_000_034,"물론 무리해서 응할 필요는 없어.
 마음이 있으면 '맑은 설수'로 오도록 해."
-77,"TEXT_LUCKZH303_03535_ATLI_000_035","이번 기회에
+77,TEXT_LUCKZH303_03535_ATLI_000_035,"이번 기회에
 귀공도 맑은 설수에서
 '톨라스'와 함께 전투의 피로를 풀고 오게."
-78,"TEXT_LUCKZH303_03535_SIR03535_100_030","（★未使用／削除予定★）"
-79,"TEXT_LUCKZH303_03535_SIR03535_000_031","（★未使用／削除予定★）"
-80,"TEXT_LUCKZH303_03535_SIR03535_000_032","（★未使用／削除予定★）"
-81,"TEXT_LUCKZH303_03535_SIR03535_000_035","（★未使用／削除予定★）"
-82,"TEXT_LUCKZH303_03535_TOLAS_000_040","이 안에서 옷을 벗으면 되는 건가?
+78,TEXT_LUCKZH303_03535_SIR03535_100_030,（★未使用／削除予定★）
+79,TEXT_LUCKZH303_03535_SIR03535_000_031,（★未使用／削除予定★）
+80,TEXT_LUCKZH303_03535_SIR03535_000_032,（★未使用／削除予定★）
+81,TEXT_LUCKZH303_03535_SIR03535_000_035,（★未使用／削除予定★）
+82,TEXT_LUCKZH303_03535_TOLAS_000_040,"이 안에서 옷을 벗으면 되는 건가?
 아아, 사실 여기는 처음 와봐서
 어떻게 해야 하는지 통 모르겠군."
-83,"TEXT_LUCKZH303_03535_TOLAS_000_041","준비가 됐으면 먼저 탕에 몸을 담그고 있어.
+83,TEXT_LUCKZH303_03535_TOLAS_000_041,"준비가 됐으면 먼저 탕에 몸을 담그고 있어.
 나는 조금 더 시간이 걸릴 것 같으니."
-84,"TEXT_LUCKZH303_03535_Q3_000_000","현재 장비로 동영상을 재생하시겠습니까?"
-85,"TEXT_LUCKZH303_03535_TOLAS_000_050","（★未使用／削除予定★）"
-86,"TEXT_LUCKZH303_03535_TOLAS_000_051","……당신도 그 대습격 때 싸웠다면서?
+84,TEXT_LUCKZH303_03535_Q3_000_000,현재 장비로 동영상을 재생하시겠습니까?
+85,TEXT_LUCKZH303_03535_TOLAS_000_050,（★未使用／削除予定★）
+86,TEXT_LUCKZH303_03535_TOLAS_000_051,"……당신도 그 대습격 때 싸웠다면서?
 그렇게 많은 죄식자를 앞에 두고 두렵다는 생각은 안 들었어?"
-87,"TEXT_LUCKZH303_03535_Q1_000_052","뭐라고 하시겠습니까?"
-88,"TEXT_LUCKZH303_03535_A1_000_053","이미 익숙한 일이다"
-89,"TEXT_LUCKZH303_03535_A1_000_054","더 강한 적도 있었다"
-90,"TEXT_LUCKZH303_03535_TOLAS_000_055","그 공포에 익숙하다고?
+87,TEXT_LUCKZH303_03535_Q1_000_052,뭐라고 하시겠습니까?
+88,TEXT_LUCKZH303_03535_A1_000_053,이미 익숙한 일이다
+89,TEXT_LUCKZH303_03535_A1_000_054,더 강한 적도 있었다
+90,TEXT_LUCKZH303_03535_TOLAS_000_055,"그 공포에 익숙하다고?
 대체 어떤 경험을 하면
 그런 경지에 이를 수 있지……?"
-91,"TEXT_LUCKZH303_03535_TOLAS_000_056","죄식자를 뛰어넘는 적이라고?
+91,TEXT_LUCKZH303_03535_TOLAS_000_056,"죄식자를 뛰어넘는 적이라고?
 그, 그런 위협이 이 세계에 있단 말이냐!?"
-92,"TEXT_LUCKZH303_03535_TOLAS_000_057","……아니, 당신을 의심하는 건 아냐.
+92,TEXT_LUCKZH303_03535_TOLAS_000_057,"……아니, 당신을 의심하는 건 아냐.
 무기를 쥔 손, 상처의 흔적. 모든 것이 당신의 경험을 말해주니까."
-93,"TEXT_LUCKZH303_03535_TOLAS_000_058","<If(PlayerParameter(4))>미안. 여성에게 실례되는 발언이었나?
+93,TEXT_LUCKZH303_03535_TOLAS_000_058,"미안. 여성에게 실례되는 발언이었나?
 잠깐. 하지만 당신 정도의 무인이면
-이렇게 신경 쓰는 것 자체가 실례인가……?<Else/>역시 나는 아직 멀었어.
-나도 당신처럼 용맹한 무인이 되고 싶은데…….</If>"
-94,"TEXT_LUCKZH303_03535_TOLAS_000_059","……나도 뛰어난 무인이 되고자 단련을 쌓아왔지만
+이렇게 신경 쓰는 것 자체가 실례인가……?"
+94,TEXT_LUCKZH303_03535_TOLAS_000_059,"……나도 뛰어난 무인이 되고자 단련을 쌓아왔지만
 지금은 제대로 싸우지도 못하는 얼빠진 사내가 되고 말았어.
 왜 지금까지 싸워왔는지조차 모를 지경이다."
-95,"TEXT_LUCKZH303_03535_TOLAS_000_060","<Highlight>ObjectParameter(1)</Highlight> 공,
+95,TEXT_LUCKZH303_03535_TOLAS_000_060,"Player Player 공,
 당신은 왜 싸워?
 대체 무엇을 위해 싸우는 거지?"
-96,"TEXT_LUCKZH303_03535_Q2_000_061","무엇을 위해 싸우십니까?"
-97,"TEXT_LUCKZH303_03535_A2_000_062","이어받은 마음이 있다"
-98,"TEXT_LUCKZH303_03535_A2_000_063","지키고 싶은 것이 있다"
-99,"TEXT_LUCKZH303_03535_A2_000_064","…………"
-100,"TEXT_LUCKZH303_03535_TOLAS_000_065","이어받은 마음이라…….
+96,TEXT_LUCKZH303_03535_Q2_000_061,무엇을 위해 싸우십니까?
+97,TEXT_LUCKZH303_03535_A2_000_062,이어받은 마음이 있다
+98,TEXT_LUCKZH303_03535_A2_000_063,지키고 싶은 것이 있다
+99,TEXT_LUCKZH303_03535_A2_000_064,…………
+100,TEXT_LUCKZH303_03535_TOLAS_000_065,"이어받은 마음이라…….
 당신이 짊어진 마음은 아마 나보다 훨씬 무겁겠지."
-101,"TEXT_LUCKZH303_03535_TOLAS_000_066","지키고 싶은 것이라…….
+101,TEXT_LUCKZH303_03535_TOLAS_000_066,"지키고 싶은 것이라…….
 내가 지키고 싶은 건……."
-102,"TEXT_LUCKZH303_03535_TOLAS_000_067","미안, 가볍게 말할 만한 것이 아닐 텐데
+102,TEXT_LUCKZH303_03535_TOLAS_000_067,"미안, 가볍게 말할 만한 것이 아닐 텐데
 내가 경솔한 질문을 했군."
-103,"TEXT_LUCKZH303_03535_TOLAS_000_068","……나는 뭘 위해 싸워왔을까.
+103,TEXT_LUCKZH303_03535_TOLAS_000_068,"……나는 뭘 위해 싸워왔을까.
 증조부님처럼 약자를 지키는 '훌륭한 기사'가 되기 위해서?
 그 피를 이어받은 자로서 긍지를 가졌기 때문인가?"
-104,"TEXT_LUCKZH303_03535_TOLAS_000_069","그 마음은 지금도 가슴속에 남아있는데
+104,TEXT_LUCKZH303_03535_TOLAS_000_069,"그 마음은 지금도 가슴속에 남아있는데
 어째서 나는 싸우지 못하게 되었지……?"
-105,"TEXT_LUCKZH303_03535_SOLDIER03535_000_070","휴가 중에 죄송합니다!"
-106,"TEXT_LUCKZH303_03535_SOLDIER03535_000_071","물자를 옮기던 수송대가 떠돌이 죄식자의 공격을 받았습니다!
+105,TEXT_LUCKZH303_03535_SOLDIER03535_000_070,휴가 중에 죄송합니다!
+106,TEXT_LUCKZH303_03535_SOLDIER03535_000_071,"물자를 옮기던 수송대가 떠돌이 죄식자의 공격을 받았습니다!
 현재 마윌 씨가 실종 상태라고 합니다!"
-107,"TEXT_LUCKZH303_03535_TOLAS_000_072","뭐라고!?"
-108,"TEXT_LUCKZH303_03535_SOLDIER03535_000_073","수송대는 라디스카 망루에서
+107,TEXT_LUCKZH303_03535_TOLAS_000_072,뭐라고!?
+108,TEXT_LUCKZH303_03535_SOLDIER03535_000_073,"수송대는 라디스카 망루에서
 엄명성 방면으로 출발한 직후에 습격을 당한 것 같습니다!
 친구인 톨라스 씨에게 전달하라고 장교님께서……!"
-109,"TEXT_LUCKZH303_03535_TOLAS_000_074","……알겠다! 금방 가지!
+109,TEXT_LUCKZH303_03535_TOLAS_000_074,"……알겠다! 금방 가지!
 너는 마윌 수색에 합류해줘!"
-110,"TEXT_LUCKZH303_03535_SOLDIER03535_000_075","예! 이만 실례하겠습니다!"
-111,"TEXT_LUCKZH303_03535_Q3_000_076","뭐라고 하시겠습니까?"
-112,"TEXT_LUCKZH303_03535_A3_000_077","같이 가자!"
-113,"TEXT_LUCKZH303_03535_A3_000_078","싸울 수 있나?"
-114,"TEXT_LUCKZH303_03535_TOLAS_000_079","……고맙다!
+110,TEXT_LUCKZH303_03535_SOLDIER03535_000_075,예! 이만 실례하겠습니다!
+111,TEXT_LUCKZH303_03535_Q3_000_076,뭐라고 하시겠습니까?
+112,TEXT_LUCKZH303_03535_A3_000_077,같이 가자!
+113,TEXT_LUCKZH303_03535_A3_000_078,싸울 수 있나?
+114,TEXT_LUCKZH303_03535_TOLAS_000_079,"……고맙다!
 싸울 수 있을지 자신은 없지만, 당신이 있어주면 든든할 거야!"
-115,"TEXT_LUCKZH303_03535_TOLAS_000_080","……모르겠군.
+115,TEXT_LUCKZH303_03535_TOLAS_000_080,"……모르겠군.
 하지만 가지 않으면 반드시 후회할 거야.
 여기서 그저 기다리고 있을 수는 없어!"
-116,"TEXT_LUCKZH303_03535_TOLAS_000_090","<Highlight>ObjectParameter(1)</Highlight> 공, 힘을 빌려줘서 고맙다.
+116,TEXT_LUCKZH303_03535_TOLAS_000_090,"Player Player 공, 힘을 빌려줘서 고맙다.
 예전처럼 싸울 수 있을지는 모르겠지만
 나는 내가 할 수 있는 일을 할 거야."

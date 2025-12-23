@@ -1,141 +1,139 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_STMBDZ425_02748_SEQ_00","유즈카 대관 저택에서 교링은 신기하다는 듯이 모험가를 쳐다보고 있다."
-1,"TEXT_STMBDZ425_02748_SEQ_01","교링과 대화했다. 벼락부자 상인이 될 수 있도록 힘을 빌려달라고 한다. 근처의 창고에 교링이 모은 물건이 있다고 하니 무이강 유역에 있는 '교링'과 대화하자."
-2,"TEXT_STMBDZ425_02748_SEQ_02","교링과 대화했다. 교링이 모은 물건을 살펴봤지만 인간에게는 팔리지 않을 듯한 물건뿐이었다. 그 사실을 전하자 낚시를 하겠다는 교링. 무이강 유역에 있는 '교링'과 대화하자."
-3,"TEXT_STMBDZ425_02748_SEQ_03","교링과 대화했다. 낚시를 하려던 도중에 낚싯대를 물에 빠뜨린 모양이다. 무이강 유역에 있는 <Sheet(EventItem,2002327,0)/><13>FF15022811FF0A4576656E744974656DF61E8D970103FF04EBA5BCFF04EC9D84</13> 손에 넣자."
-4,"TEXT_STMBDZ425_02748_SEQ_04","<Sheet(EventItem,2002327,0)/><13>FF15022811FF0A4576656E744974656DF61E8D970103FF04EBA5BCFF04EC9D84</13> 손에 넣었다. 무이강 유역에 있는 '교링'에게 <Sheet(EventItem,2002327,0)/><13>FF15022811FF0A4576656E744974656DF61E8D970103FF04EBA5BCFF04EC9D84</13> 전달하자."
-5,"TEXT_STMBDZ425_02748_SEQ_05","교링에게 <Sheet(EventItem,2002327,0)/><13>FF15022811FF0A4576656E744974656DF61E8D970103FF04EBA5BCFF04EC9D84</13> 전달했다. 교링은 낚싯대를 물에 빠뜨리고 곰곰이 생각해봤는데 낚시 이외에 돈을 벌 다른 방법을 찾아보겠다고 한다. 무이강 유역에서 '교링'과 대화하자."
-6,"TEXT_STMBDZ425_02748_SEQ_06","교링과 대화했다. 교링은 화첩을 다시 살펴본 후, 이번에는 광물 탐색을 해보겠다고 한다."
-7,"TEXT_STMBDZ425_02748_SEQ_07",""
-8,"TEXT_STMBDZ425_02748_SEQ_08",""
-9,"TEXT_STMBDZ425_02748_SEQ_09",""
-10,"TEXT_STMBDZ425_02748_SEQ_10",""
-11,"TEXT_STMBDZ425_02748_SEQ_11",""
-12,"TEXT_STMBDZ425_02748_SEQ_12",""
-13,"TEXT_STMBDZ425_02748_SEQ_13",""
-14,"TEXT_STMBDZ425_02748_SEQ_14",""
-15,"TEXT_STMBDZ425_02748_SEQ_15",""
-16,"TEXT_STMBDZ425_02748_SEQ_16",""
-17,"TEXT_STMBDZ425_02748_SEQ_17",""
-18,"TEXT_STMBDZ425_02748_SEQ_18",""
-19,"TEXT_STMBDZ425_02748_SEQ_19",""
-20,"TEXT_STMBDZ425_02748_SEQ_20",""
-21,"TEXT_STMBDZ425_02748_SEQ_21",""
-22,"TEXT_STMBDZ425_02748_SEQ_22",""
-23,"TEXT_STMBDZ425_02748_SEQ_23",""
-24,"TEXT_STMBDZ425_02748_TODO_00","교링과 대화"
-25,"TEXT_STMBDZ425_02748_TODO_01","교링과 다시 대화"
-26,"TEXT_STMBDZ425_02748_TODO_02","<Sheet(EventItem,2002327,0)/> 입수"
-27,"TEXT_STMBDZ425_02748_TODO_03","교링에게 <Sheet(EventItem,2002327,0)/> 전달"
-28,"TEXT_STMBDZ425_02748_TODO_04","교링과 대화"
-29,"TEXT_STMBDZ425_02748_TODO_05",""
-30,"TEXT_STMBDZ425_02748_TODO_06",""
-31,"TEXT_STMBDZ425_02748_TODO_07",""
-32,"TEXT_STMBDZ425_02748_TODO_08",""
-33,"TEXT_STMBDZ425_02748_TODO_09",""
-34,"TEXT_STMBDZ425_02748_TODO_10",""
-35,"TEXT_STMBDZ425_02748_TODO_11",""
-36,"TEXT_STMBDZ425_02748_TODO_12",""
-37,"TEXT_STMBDZ425_02748_TODO_13",""
-38,"TEXT_STMBDZ425_02748_TODO_14",""
-39,"TEXT_STMBDZ425_02748_TODO_15",""
-40,"TEXT_STMBDZ425_02748_TODO_16",""
-41,"TEXT_STMBDZ425_02748_TODO_17",""
-42,"TEXT_STMBDZ425_02748_TODO_18",""
-43,"TEXT_STMBDZ425_02748_TODO_19",""
-44,"TEXT_STMBDZ425_02748_TODO_20",""
-45,"TEXT_STMBDZ425_02748_TODO_21",""
-46,"TEXT_STMBDZ425_02748_TODO_22",""
-47,"TEXT_STMBDZ425_02748_TODO_23",""
-48,"TEXT_STMBDZ425_02748_GYORIN_000_000","이 근방에서는 보기 힘든
+#,Unknown0,Unknown1
+0,TEXT_STMBDZ425_02748_SEQ_00,유즈카 대관 저택에서 교링은 신기하다는 듯이 모험가를 쳐다보고 있다.
+1,TEXT_STMBDZ425_02748_SEQ_01,교링과 대화했다. 벼락부자 상인이 될 수 있도록 힘을 빌려달라고 한다. 근처의 창고에 교링이 모은 물건이 있다고 하니 무이강 유역에 있는 '교링'과 대화하자.
+2,TEXT_STMBDZ425_02748_SEQ_02,교링과 대화했다. 교링이 모은 물건을 살펴봤지만 인간에게는 팔리지 않을 듯한 물건뿐이었다. 그 사실을 전하자 낚시를 하겠다는 교링. 무이강 유역에 있는 '교링'과 대화하자.
+3,TEXT_STMBDZ425_02748_SEQ_03,교링과 대화했다. 낚시를 하려던 도중에 낚싯대를 물에 빠뜨린 모양이다. 무이강 유역에 있는  손에 넣자.
+4,TEXT_STMBDZ425_02748_SEQ_04, 손에 넣었다. 무이강 유역에 있는 '교링'에게  전달하자.
+5,TEXT_STMBDZ425_02748_SEQ_05,교링에게  전달했다. 교링은 낚싯대를 물에 빠뜨리고 곰곰이 생각해봤는데 낚시 이외에 돈을 벌 다른 방법을 찾아보겠다고 한다. 무이강 유역에서 '교링'과 대화하자.
+6,TEXT_STMBDZ425_02748_SEQ_06,"교링과 대화했다. 교링은 화첩을 다시 살펴본 후, 이번에는 광물 탐색을 해보겠다고 한다."
+7,TEXT_STMBDZ425_02748_SEQ_07,
+8,TEXT_STMBDZ425_02748_SEQ_08,
+9,TEXT_STMBDZ425_02748_SEQ_09,
+10,TEXT_STMBDZ425_02748_SEQ_10,
+11,TEXT_STMBDZ425_02748_SEQ_11,
+12,TEXT_STMBDZ425_02748_SEQ_12,
+13,TEXT_STMBDZ425_02748_SEQ_13,
+14,TEXT_STMBDZ425_02748_SEQ_14,
+15,TEXT_STMBDZ425_02748_SEQ_15,
+16,TEXT_STMBDZ425_02748_SEQ_16,
+17,TEXT_STMBDZ425_02748_SEQ_17,
+18,TEXT_STMBDZ425_02748_SEQ_18,
+19,TEXT_STMBDZ425_02748_SEQ_19,
+20,TEXT_STMBDZ425_02748_SEQ_20,
+21,TEXT_STMBDZ425_02748_SEQ_21,
+22,TEXT_STMBDZ425_02748_SEQ_22,
+23,TEXT_STMBDZ425_02748_SEQ_23,
+24,TEXT_STMBDZ425_02748_TODO_00,교링과 대화
+25,TEXT_STMBDZ425_02748_TODO_01,교링과 다시 대화
+26,TEXT_STMBDZ425_02748_TODO_02, 입수
+27,TEXT_STMBDZ425_02748_TODO_03,교링에게  전달
+28,TEXT_STMBDZ425_02748_TODO_04,교링과 대화
+29,TEXT_STMBDZ425_02748_TODO_05,
+30,TEXT_STMBDZ425_02748_TODO_06,
+31,TEXT_STMBDZ425_02748_TODO_07,
+32,TEXT_STMBDZ425_02748_TODO_08,
+33,TEXT_STMBDZ425_02748_TODO_09,
+34,TEXT_STMBDZ425_02748_TODO_10,
+35,TEXT_STMBDZ425_02748_TODO_11,
+36,TEXT_STMBDZ425_02748_TODO_12,
+37,TEXT_STMBDZ425_02748_TODO_13,
+38,TEXT_STMBDZ425_02748_TODO_14,
+39,TEXT_STMBDZ425_02748_TODO_15,
+40,TEXT_STMBDZ425_02748_TODO_16,
+41,TEXT_STMBDZ425_02748_TODO_17,
+42,TEXT_STMBDZ425_02748_TODO_18,
+43,TEXT_STMBDZ425_02748_TODO_19,
+44,TEXT_STMBDZ425_02748_TODO_20,
+45,TEXT_STMBDZ425_02748_TODO_21,
+46,TEXT_STMBDZ425_02748_TODO_22,
+47,TEXT_STMBDZ425_02748_TODO_23,
+48,TEXT_STMBDZ425_02748_GYORIN_000_000,"이 근방에서는 보기 힘든
 그 차림새…… 혹시 여행자양?
 그럼 나 좀 도와줄 수 있엉?"
-49,"TEXT_STMBDZ425_02748_GYORIN_000_001","자세한 얘기를 하기 전에…… 안녕? 난 교링이양!
+49,TEXT_STMBDZ425_02748_GYORIN_000_001,"자세한 얘기를 하기 전에…… 안녕? 난 교링이양!
 이 저택에서 모두 함께 살고 있는데
 나한테는 어떤 꿈이 있엉."
-50,"TEXT_STMBDZ425_02748_GYORIN_000_002","바로 '벼락부자 상인'이 되는 거야!
+50,TEXT_STMBDZ425_02748_GYORIN_000_002,"바로 '벼락부자 상인'이 되는 거야!
 부자가 되어서 나만의 특별한 앞치마를
 만드는 게 내 꿈이양! 에헴!"
-51,"TEXT_STMBDZ425_02748_GYORIN_000_003","사실 저택에 있던 화첩 중에
+51,TEXT_STMBDZ425_02748_GYORIN_000_003,"사실 저택에 있던 화첩 중에
 가난한 상인이 떼돈을 벌어 부자가 되는 옛날이야기가 있는데……
 그걸 읽은 후로 내 머릿속은 벼락부자가 될 생각뿐이야!"
-52,"TEXT_STMBDZ425_02748_GYORIN_000_004","그 옛날이야기를 보면 '척척박사 여행자'가 나타나서
+52,TEXT_STMBDZ425_02748_GYORIN_000_004,"그 옛날이야기를 보면 '척척박사 여행자'가 나타나서
 상인에게 다양한 지혜를 알려주거등.
 그런데 진짜로 나그네가 내 눈앞에 딱……. 이건 운명이양!"
-53,"TEXT_STMBDZ425_02748_GYORIN_000_005","……그러고 보니 아직 못 물어봤는데
+53,TEXT_STMBDZ425_02748_GYORIN_000_005,"……그러고 보니 아직 못 물어봤는데
 당신은 이름이 뭐양?"
-54,"TEXT_STMBDZ425_02748_GYORIN_000_006","이름이 <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EC9691FF07EC9DB4EC9691</13>?
+54,TEXT_STMBDZ425_02748_GYORIN_000_006,"이름이 Player Player?
 그럼 그렇게 부를게!
 ……가만, 근데 무슨 얘기를 하고 있었더라?"
-55,"TEXT_STMBDZ425_02748_GYORIN_000_007","……맞당! 도와달라는 얘기였징!
+55,TEXT_STMBDZ425_02748_GYORIN_000_007,"……맞당! 도와달라는 얘기였징!
 하마터면 까먹을 뻔했넹.
 나도 참…… 응훗♪"
-56,"TEXT_STMBDZ425_02748_GYORIN_000_008","있잖아, 근처에 창고가 하나 있는데
+56,TEXT_STMBDZ425_02748_GYORIN_000_008,"있잖아, 근처에 창고가 하나 있는데
 거기에 내가 지금까지 모은 물건이 이것저것 있엉.
 그중에 팔릴 만한 물건이 있는지 봐주랑!"
-57,"TEXT_STMBDZ425_02748_GYORIN_000_009","자, <Highlight>ObjectParameter(1)</Highlight>! 이쪽이야, 이쪽!
+57,TEXT_STMBDZ425_02748_GYORIN_000_009,"자, Player Player! 이쪽이야, 이쪽!
 날 따라왕~!"
-58,"TEXT_STMBDZ425_02748_GYORIN_100_010","금방 가져올게, 잠깐만 기다령!"
-59,"TEXT_STMBDZ425_02748_GYORIN_000_010","짜잔~!
+58,TEXT_STMBDZ425_02748_GYORIN_100_010,"금방 가져올게, 잠깐만 기다령!"
+59,TEXT_STMBDZ425_02748_GYORIN_000_010,"짜잔~!
 이게 내가 지금까지 모은 물건들이야.
 엄청나지~?"
-60,"TEXT_STMBDZ425_02748_GYORIN_000_011","구운 하루살이랑 말린 파리!
+60,TEXT_STMBDZ425_02748_GYORIN_000_011,"구운 하루살이랑 말린 파리!
 그리고 들어가 있으면 아~주 편안한 이 단지가 일등 상품이양♪"
-61,"TEXT_STMBDZ425_02748_GYORIN_000_012","어때, 어때?
+61,TEXT_STMBDZ425_02748_GYORIN_000_012,"어때, 어때?
 인간들이 좋아할 물건이 있엉?"
-62,"TEXT_STMBDZ425_02748_Q1_000_000","뭐라고 대답하시겠습니까?"
-63,"TEXT_STMBDZ425_02748_A1_000_001","대단해! 팔릴 물건이 하나도 없어!"
-64,"TEXT_STMBDZ425_02748_A1_000_002","대단해! 전부 잘 팔리겠어……."
-65,"TEXT_STMBDZ425_02748_GYORIN_000_013","뭐어? 진짜양!?
+62,TEXT_STMBDZ425_02748_Q1_000_000,뭐라고 대답하시겠습니까?
+63,TEXT_STMBDZ425_02748_A1_000_001,대단해! 팔릴 물건이 하나도 없어!
+64,TEXT_STMBDZ425_02748_A1_000_002,대단해! 전부 잘 팔리겠어…….
+65,TEXT_STMBDZ425_02748_GYORIN_000_013,"뭐어? 진짜양!?
 열심히 모았는데 팔릴 만한 물건이 없다니
 내 멋진 수염이 흐늘흐늘해지잖앙……."
-66,"TEXT_STMBDZ425_02748_GYORIN_000_014","……굳이 거짓말할 필요 없어.
+66,TEXT_STMBDZ425_02748_GYORIN_000_014,"……굳이 거짓말할 필요 없어.
 눈이…… 눈이 진실을 말해주넹…….
 팔릴 물건이 하나도 없구낭……."
-67,"TEXT_STMBDZ425_02748_GYORIN_000_015","……그치만 그렇다면 내 손으로
+67,TEXT_STMBDZ425_02748_GYORIN_000_015,"……그치만 그렇다면 내 손으로
 인간들이 좋아할 물건을 구하면 되잖앙!
 난 벼락부자 상인이 되고 말 거양!"
-68,"TEXT_STMBDZ425_02748_GYORIN_000_016","……하고 큰소리는 쳤는데
+68,TEXT_STMBDZ425_02748_GYORIN_000_016,"……하고 큰소리는 쳤는데
 뭘 하면 될깡?"
-69,"TEXT_STMBDZ425_02748_GYORIN_000_017","……그래, 낚시가 어떨깡?
+69,TEXT_STMBDZ425_02748_GYORIN_000_017,"……그래, 낚시가 어떨깡?
 물고기는 인간도 먹으니까 잘 팔리겠징?"
-70,"TEXT_STMBDZ425_02748_GYORIN_000_018","당장 낚시터에서 물고기를 낚을 테니까
-<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB8A94FF04EC9D80</13> 내가 낚은 물고기가
+70,TEXT_STMBDZ425_02748_GYORIN_000_018,"당장 낚시터에서 물고기를 낚을 테니까
+Player Player 내가 낚은 물고기가
 인간에게 잘 팔릴 물고기인지 확인해줭!"
-71,"TEXT_STMBDZ425_02748_GYORIN_000_019","우리 나마즈오와 인간은 좋아하는 물고기가 다를 테니까 말이양.
+71,TEXT_STMBDZ425_02748_GYORIN_000_019,"우리 나마즈오와 인간은 좋아하는 물고기가 다를 테니까 말이양.
 그럼 기다리고 있을 테니까 꼭 왕~!"
-72,"TEXT_STMBDZ425_02748_GYORIN_000_030","으으으…… 너무행……."
-73,"TEXT_STMBDZ425_02748_GYORIN_000_031","낚시를 하려다가……
+72,TEXT_STMBDZ425_02748_GYORIN_000_030,으으으…… 너무행…….
+73,TEXT_STMBDZ425_02748_GYORIN_000_031,"낚시를 하려다가……
 미끄러져서 낚싯대를 물에 빠뜨렸엉……. 으으……."
-74,"TEXT_STMBDZ425_02748_GYORIN_000_032","들어가서 꺼내올 수 없냐공?
+74,TEXT_STMBDZ425_02748_GYORIN_000_032,"들어가서 꺼내올 수 없냐공?
 우리처럼 야생에서 살지 않는 나마즈오는
 육지 생활에 적응해서 강에서는 헤엄치기 어려웡!"
-75,"TEXT_STMBDZ425_02748_GYORIN_000_033","<Highlight>ObjectParameter(1)</Highlight>,
+75,TEXT_STMBDZ425_02748_GYORIN_000_033,"Player Player,
 내 소중하디 소중한 낚싯대를 되찾아줄랭?
 부탁이양……. 으으……."
-76,"TEXT_STMBDZ425_02748_GYORIN_000_034","<Highlight>ObjectParameter(1)</Highlight>,
+76,TEXT_STMBDZ425_02748_GYORIN_000_034,"Player Player,
 내 소중하디 소중한 낚싯대를 되찾아줄랭?
 부탁이양……. 으으……."
-77,"TEXT_STMBDZ425_02748_GYORIN_000_040","내 소중하디 소중한 낚싯대가……. 으으……."
-78,"TEXT_STMBDZ425_02748_GYORIN_000_041","이, 이건…… 내가 빠뜨린 낚싯대양!
+77,TEXT_STMBDZ425_02748_GYORIN_000_040,내 소중하디 소중한 낚싯대가……. 으으…….
+78,TEXT_STMBDZ425_02748_GYORIN_000_041,"이, 이건…… 내가 빠뜨린 낚싯대양!
 되찾아준 거양!?
 고마워, 정말 기쁘다……. 응훗♪"
-79,"TEXT_STMBDZ425_02748_GYORIN_000_042","근데 낚싯대를 빠뜨리고 나서 생각해봤는데
+79,TEXT_STMBDZ425_02748_GYORIN_000_042,"근데 낚싯대를 빠뜨리고 나서 생각해봤는데
 곰곰이 따져보니까 물고기는
 나 말고도 다들 이미 팔고 있더라공……."
-80,"TEXT_STMBDZ425_02748_GYORIN_000_043","그리고 부자가 되려면
+80,TEXT_STMBDZ425_02748_GYORIN_000_043,"그리고 부자가 되려면
 남들이 하지 않는 일을 해야 한다고
 화첩에 쓰여 있던 게 생각났엉."
-81,"TEXT_STMBDZ425_02748_GYORIN_000_044","그러니까 다른 돈벌이가 없는지
+81,TEXT_STMBDZ425_02748_GYORIN_000_044,"그러니까 다른 돈벌이가 없는지
 다시 생각해보기로 결정했어!
 ……난 그만 저택으로 돌아갈랭♪"
-82,"TEXT_STMBDZ425_02748_GYORIN_000_050","아, <Highlight>ObjectParameter(1)</Highlight>!
+82,TEXT_STMBDZ425_02748_GYORIN_000_050,"아, Player Player!
 내가 화첩을 다시 살펴보다가
 새로운 사실을 알아냈엉!"
-83,"TEXT_STMBDZ425_02748_GYORIN_000_051","보아하니 광물이라는 것도
+83,TEXT_STMBDZ425_02748_GYORIN_000_051,"보아하니 광물이라는 것도
 종류에 따라서는 돈벌이가 되는 모양이양.
 그래서 이번에는 광물 탐색을 해볼까 행!"
-84,"TEXT_STMBDZ425_02748_GYORIN_000_052","<Highlight>ObjectParameter(1)</Highlight>도 같이 갈 거징!?
+84,TEXT_STMBDZ425_02748_GYORIN_000_052,"Player Player도 같이 갈 거징!?
 잘 부탁할겡♪"

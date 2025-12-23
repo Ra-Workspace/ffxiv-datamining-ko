@@ -1,171 +1,169 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_JOBSCH601_02923_SEQ_00","도끼술사 길드에 있는 알카 졸카는 누군가를 기다리는 듯하다."
-1,"TEXT_JOBSCH601_02923_SEQ_01","지금까지의 이야기:
+#,Unknown0,Unknown1
+0,TEXT_JOBSCH601_02923_SEQ_00,도끼술사 길드에 있는 알카 졸카는 누군가를 기다리는 듯하다.
+1,TEXT_JOBSCH601_02923_SEQ_01,"지금까지의 이야기:
 모험가는 '톤베리병'의 원인이 마법도시 '마하'가 보낸 요마의 소행이라는 것을 밝혀내고 처치하는 데 성공한다. 이에 스리토 카리토와 할가 톨가는 모험가와 알카 졸카를 다음 시대의 '해병단'이라 칭했다. 스리토 카리토는 요마에게서 채취한 심장핵의 조사와 연구를 진행하여 반드시 '톤베리병'이 진행하는 것을 막을 방법을 찾겠다고 맹세한다. 
 　　　　　　　　　　　　*　*　*
 알카 졸카로부터 의뢰를 받았다. 고지 라노시아 '방랑자의 궁전'에 있는 '스리토 카리토'와 대화하자."
-2,"TEXT_JOBSCH601_02923_SEQ_02","스리토 카리토와 대화했다. '톤베리병' 치료 연구의 피검사자인 세토토가 마물로 등록되었는지 확인하기 위해 림사 로민사 '흑와단 군사령부'에 있는 '마물 사냥 담당관'과 대화하자."
-3,"TEXT_JOBSCH601_02923_SEQ_03","마물 사냥 담당관이 말하길, 현재 등록된 톤베리형의 마물은 마베리뿐이라고 한다. 르아샤 대령에게 몸집이 작은 밀항자에 관한 소문을 들었다. 서부 다날란의 저녁별 만에서 밀항자를 찾기 위해 '알카 졸카'와 합류하자."
-4,"TEXT_JOBSCH601_02923_SEQ_04","알카 졸카와 합류한 후, 거무스름한 선원의 얘기를 들었다. 몸집이 작은 밀항자의 행방을 구리칼날단이 쫓고 있다고 한다. 방랑자의 궁전에 있는 '스리토 카리토'에게 경과를 보고하자."
-5,"TEXT_JOBSCH601_02923_SEQ_05","스리토 카리토가 말하길, 세토토가 알데나드 소대륙에 건너갔다면 닥치는 대로 찾아봤자 쉽게 찾기는 어려울 거라고 한다. 일단은 정보가 모일 때까지 기다리기로 하자. 
+2,TEXT_JOBSCH601_02923_SEQ_02,스리토 카리토와 대화했다. '톤베리병' 치료 연구의 피검사자인 세토토가 마물로 등록되었는지 확인하기 위해 림사 로민사 '흑와단 군사령부'에 있는 '마물 사냥 담당관'과 대화하자.
+3,TEXT_JOBSCH601_02923_SEQ_03,"마물 사냥 담당관이 말하길, 현재 등록된 톤베리형의 마물은 마베리뿐이라고 한다. 르아샤 대령에게 몸집이 작은 밀항자에 관한 소문을 들었다. 서부 다날란의 저녁별 만에서 밀항자를 찾기 위해 '알카 졸카'와 합류하자."
+4,TEXT_JOBSCH601_02923_SEQ_04,"알카 졸카와 합류한 후, 거무스름한 선원의 얘기를 들었다. 몸집이 작은 밀항자의 행방을 구리칼날단이 쫓고 있다고 한다. 방랑자의 궁전에 있는 '스리토 카리토'에게 경과를 보고하자."
+5,TEXT_JOBSCH601_02923_SEQ_05,"스리토 카리토가 말하길, 세토토가 알데나드 소대륙에 건너갔다면 닥치는 대로 찾아봤자 쉽게 찾기는 어려울 거라고 한다. 일단은 정보가 모일 때까지 기다리기로 하자. 
 
 ※ 학자 레벨이 63 이상 되면 방랑자의 궁전에 있는 스리토 카리토에게 다음 학자 퀘스트를 받을 수 있습니다."
-6,"TEXT_JOBSCH601_02923_SEQ_06",""
-7,"TEXT_JOBSCH601_02923_SEQ_07",""
-8,"TEXT_JOBSCH601_02923_SEQ_08",""
-9,"TEXT_JOBSCH601_02923_SEQ_09",""
-10,"TEXT_JOBSCH601_02923_SEQ_10",""
-11,"TEXT_JOBSCH601_02923_SEQ_11",""
-12,"TEXT_JOBSCH601_02923_SEQ_12",""
-13,"TEXT_JOBSCH601_02923_SEQ_13",""
-14,"TEXT_JOBSCH601_02923_SEQ_14",""
-15,"TEXT_JOBSCH601_02923_SEQ_15",""
-16,"TEXT_JOBSCH601_02923_SEQ_16",""
-17,"TEXT_JOBSCH601_02923_SEQ_17",""
-18,"TEXT_JOBSCH601_02923_SEQ_18",""
-19,"TEXT_JOBSCH601_02923_SEQ_19",""
-20,"TEXT_JOBSCH601_02923_SEQ_20",""
-21,"TEXT_JOBSCH601_02923_SEQ_21",""
-22,"TEXT_JOBSCH601_02923_SEQ_22",""
-23,"TEXT_JOBSCH601_02923_SEQ_23",""
-24,"TEXT_JOBSCH601_02923_TODO_00","방랑자의 궁전에 있는 스리토 카리토와 대화"
-25,"TEXT_JOBSCH601_02923_TODO_01","흑와단 군사령부에서 마물 사냥 담당관과 대화"
-26,"TEXT_JOBSCH601_02923_TODO_02","저녁별 만에서 알카 졸카와 합류"
-27,"TEXT_JOBSCH601_02923_TODO_03","방랑자의 궁전에 있는 스리토 카리토에게 보고"
-28,"TEXT_JOBSCH601_02923_TODO_04",""
-29,"TEXT_JOBSCH601_02923_TODO_05",""
-30,"TEXT_JOBSCH601_02923_TODO_06",""
-31,"TEXT_JOBSCH601_02923_TODO_07",""
-32,"TEXT_JOBSCH601_02923_TODO_08",""
-33,"TEXT_JOBSCH601_02923_TODO_09",""
-34,"TEXT_JOBSCH601_02923_TODO_10",""
-35,"TEXT_JOBSCH601_02923_TODO_11",""
-36,"TEXT_JOBSCH601_02923_TODO_12",""
-37,"TEXT_JOBSCH601_02923_TODO_13",""
-38,"TEXT_JOBSCH601_02923_TODO_14",""
-39,"TEXT_JOBSCH601_02923_TODO_15",""
-40,"TEXT_JOBSCH601_02923_TODO_16",""
-41,"TEXT_JOBSCH601_02923_TODO_17",""
-42,"TEXT_JOBSCH601_02923_TODO_18",""
-43,"TEXT_JOBSCH601_02923_TODO_19",""
-44,"TEXT_JOBSCH601_02923_TODO_20",""
-45,"TEXT_JOBSCH601_02923_TODO_21",""
-46,"TEXT_JOBSCH601_02923_TODO_22",""
-47,"TEXT_JOBSCH601_02923_TODO_23",""
-48,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_001","이게 누구야, <Highlight>ObjectParameter(1)</Highlight>!
+6,TEXT_JOBSCH601_02923_SEQ_06,
+7,TEXT_JOBSCH601_02923_SEQ_07,
+8,TEXT_JOBSCH601_02923_SEQ_08,
+9,TEXT_JOBSCH601_02923_SEQ_09,
+10,TEXT_JOBSCH601_02923_SEQ_10,
+11,TEXT_JOBSCH601_02923_SEQ_11,
+12,TEXT_JOBSCH601_02923_SEQ_12,
+13,TEXT_JOBSCH601_02923_SEQ_13,
+14,TEXT_JOBSCH601_02923_SEQ_14,
+15,TEXT_JOBSCH601_02923_SEQ_15,
+16,TEXT_JOBSCH601_02923_SEQ_16,
+17,TEXT_JOBSCH601_02923_SEQ_17,
+18,TEXT_JOBSCH601_02923_SEQ_18,
+19,TEXT_JOBSCH601_02923_SEQ_19,
+20,TEXT_JOBSCH601_02923_SEQ_20,
+21,TEXT_JOBSCH601_02923_SEQ_21,
+22,TEXT_JOBSCH601_02923_SEQ_22,
+23,TEXT_JOBSCH601_02923_SEQ_23,
+24,TEXT_JOBSCH601_02923_TODO_00,방랑자의 궁전에 있는 스리토 카리토와 대화
+25,TEXT_JOBSCH601_02923_TODO_01,흑와단 군사령부에서 마물 사냥 담당관과 대화
+26,TEXT_JOBSCH601_02923_TODO_02,저녁별 만에서 알카 졸카와 합류
+27,TEXT_JOBSCH601_02923_TODO_03,방랑자의 궁전에 있는 스리토 카리토에게 보고
+28,TEXT_JOBSCH601_02923_TODO_04,
+29,TEXT_JOBSCH601_02923_TODO_05,
+30,TEXT_JOBSCH601_02923_TODO_06,
+31,TEXT_JOBSCH601_02923_TODO_07,
+32,TEXT_JOBSCH601_02923_TODO_08,
+33,TEXT_JOBSCH601_02923_TODO_09,
+34,TEXT_JOBSCH601_02923_TODO_10,
+35,TEXT_JOBSCH601_02923_TODO_11,
+36,TEXT_JOBSCH601_02923_TODO_12,
+37,TEXT_JOBSCH601_02923_TODO_13,
+38,TEXT_JOBSCH601_02923_TODO_14,
+39,TEXT_JOBSCH601_02923_TODO_15,
+40,TEXT_JOBSCH601_02923_TODO_16,
+41,TEXT_JOBSCH601_02923_TODO_17,
+42,TEXT_JOBSCH601_02923_TODO_18,
+43,TEXT_JOBSCH601_02923_TODO_19,
+44,TEXT_JOBSCH601_02923_TODO_20,
+45,TEXT_JOBSCH601_02923_TODO_21,
+46,TEXT_JOBSCH601_02923_TODO_22,
+47,TEXT_JOBSCH601_02923_TODO_23,
+48,TEXT_JOBSCH601_02923_ALKAZOLKA_000_001,"이게 누구야, Player Player!
 마침 잘 왔어!"
-49,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_002","스리토 카리토 님이 편지를 보냈는데
+49,TEXT_JOBSCH601_02923_ALKAZOLKA_000_002,"스리토 카리토 님이 편지를 보냈는데
 아무래도 우리 신생 '해병단'의 힘이 필요한 사건이 발생했나 봐!
 대선배가 위기에 처했는데 어떻게 거절하겠어!?"
-50,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_003","'스리토 카리토' 님은 고지 라노시아 '청동호수'의
+50,TEXT_JOBSCH601_02923_ALKAZOLKA_000_003,"'스리토 카리토' 님은 고지 라노시아 '청동호수'의
 방랑자의 궁전이 보이는 장소에서 우릴 기다리고 계실 거야!"
-51,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_004","좋았어, 신생 '해병단' 출동이다!
-가자, <Highlight>ObjectParameter(1)</Highlight>!"
-52,"TEXT_JOBSCH601_02923_SURITOCARITO_000_010","<Highlight>ObjectParameter(1)</Highlight> 군, 알카 졸카 군,
+51,TEXT_JOBSCH601_02923_ALKAZOLKA_000_004,"좋았어, 신생 '해병단' 출동이다!
+가자, Player Player!"
+52,TEXT_JOBSCH601_02923_SURITOCARITO_000_010,"Player Player 군, 알카 졸카 군,
 잘 와줬네!"
-53,"TEXT_JOBSCH601_02923_SURITOCARITO_000_011","지난번 자네들이 쓰러뜨렸던 요마를 기억하는가?"
-54,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_012","네, '톤베리병'을 퍼뜨렸던 무서운 녀석 말이시죠?
+53,TEXT_JOBSCH601_02923_SURITOCARITO_000_011,지난번 자네들이 쓰러뜨렸던 요마를 기억하는가?
+54,TEXT_JOBSCH601_02923_ALKAZOLKA_000_012,"네, '톤베리병'을 퍼뜨렸던 무서운 녀석 말이시죠?
 마하의 마도사들이 소환했다는……."
-55,"TEXT_JOBSCH601_02923_SURITOCARITO_000_013","그래 맞아.
+55,TEXT_JOBSCH601_02923_SURITOCARITO_000_013,"그래 맞아.
 그 후로 나는 그 요마에게서 꺼낸 심장핵을 분석하여
 마침내 '톤베리병'의 진행을 억제할 치료법을 완성했다네."
-56,"TEXT_JOBSCH601_02923_SURITOCARITO_000_014","하지만 어디까지나 악화되는 것을 막을 뿐이지
+56,TEXT_JOBSCH601_02923_SURITOCARITO_000_014,"하지만 어디까지나 악화되는 것을 막을 뿐이지
 병을 완전히 낫게 할 정도는 아닐세.
 원래 모습으로 돌아가려면 한참 더 연구해야 한다네."
-57,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_015","그래도 한발 앞으로 나아갔네요!
+57,TEXT_JOBSCH601_02923_ALKAZOLKA_000_015,"그래도 한발 앞으로 나아갔네요!
 역시 '니므 해병단'의 군학자, 스리토 카리토 님이라니까!"
-58,"TEXT_JOBSCH601_02923_SURITOCARITO_000_016","헌데, 한 가지 곤란한 일이 있다네.
+58,TEXT_JOBSCH601_02923_SURITOCARITO_000_016,"헌데, 한 가지 곤란한 일이 있다네.
 치료법 연구를 위해 검사에 협력해주던 세토토가
 청동호수에서 자취를 감추고 말았어."
-59,"TEXT_JOBSCH601_02923_SURITOCARITO_000_017","'괴물'처럼 생긴 우리가 바깥 세계에 나가면
+59,TEXT_JOBSCH601_02923_SURITOCARITO_000_017,"'괴물'처럼 생긴 우리가 바깥 세계에 나가면
 '마물 사냥꾼'들에게 험한 꼴을 당할 수도 있건만……."
-60,"TEXT_JOBSCH601_02923_SURITOCARITO_000_018","지금 당장이라도 찾으러 가고 싶네만 다른 '톤베리병' 환자들과
+60,TEXT_JOBSCH601_02923_SURITOCARITO_000_018,"지금 당장이라도 찾으러 가고 싶네만 다른 '톤베리병' 환자들과
 치료법 연구를 내팽개치고 갈 수도 없는 노릇이라
 자네들 신생 '해병단'에 세토토의 수색을 부탁하고 싶네."
-61,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_019","맡겨만 주세요!
+61,TEXT_JOBSCH601_02923_ALKAZOLKA_000_019,"맡겨만 주세요!
 위대한 대선배의 부탁이라면 뭐든지 들어 드려야죠!"
-62,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_020","좋아, <Highlight>ObjectParameter(1)</Highlight>!
+62,TEXT_JOBSCH601_02923_ALKAZOLKA_000_020,"좋아, Player Player!
 우선은 세토토가 '마물'로 등록되어 있는지 확인해 보자고!"
-63,"TEXT_JOBSCH601_02923_SURITOCARITO_000_021","마물……."
-64,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_022","좋았어, 그럼 당장 출발하자!
+63,TEXT_JOBSCH601_02923_SURITOCARITO_000_021,마물…….
+64,TEXT_JOBSCH601_02923_ALKAZOLKA_000_022,"좋았어, 그럼 당장 출발하자!
 림사 로민사의 흑와단 군사령부에 있는
 '마물 사냥 담당관'한테 물어보자!"
-65,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_025","이번엔 대체 어떤 의뢰이려나……!
+65,TEXT_JOBSCH601_02923_ALKAZOLKA_000_025,"이번엔 대체 어떤 의뢰이려나……!
 아 정말, 빨리 스리토 카리토 님한테 얘길 들으러 가자고!"
-66,"TEXT_JOBSCH601_02923_HUNTBILLMASTER_000_030","수고 많으십니다.
+66,TEXT_JOBSCH601_02923_HUNTBILLMASTER_000_030,"수고 많으십니다.
 '마물 사냥'에 관한 용건은 제게 말씀하십시오."
-67,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_031","톤베리형 마물이 등록되어 있는지 확인하려고 왔어."
-68,"TEXT_JOBSCH601_02923_HUNTBILLMASTER_000_032","톤베리형 마물이라면
+67,TEXT_JOBSCH601_02923_ALKAZOLKA_000_031,톤베리형 마물이 등록되어 있는지 확인하려고 왔어.
+68,TEXT_JOBSCH601_02923_HUNTBILLMASTER_000_032,"톤베리형 마물이라면
 현재 등록된 건 '마베리'뿐입니다."
-69,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_033","으음, '마베리'가 등록된 건
+69,TEXT_JOBSCH601_02923_ALKAZOLKA_000_033,"으음, '마베리'가 등록된 건
 세토토가 실종되기 전이니까…… 상관이 없겠군.
 그런데 등록되지 않았다면 대체 어디 가서 찾아야 하나……."
-70,"TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_034","어라, 어떻게 둘이 같이 있네?
-<Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EC9980FF04EAB3BC</13>
+70,TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_034,"어라, 어떻게 둘이 같이 있네?
+Player Player
 알카가 친구사이인 줄은 몰랐는걸."
-71,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_035","아샤구나!
+71,TEXT_JOBSCH601_02923_ALKAZOLKA_000_035,"아샤구나!
 지난번엔 같이 수련해 줘서 정말 고마웠어!"
-72,"TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_036","어, 그래. 나도 좋은 운동이 됐는걸 뭐.
+72,TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_036,"어, 그래. 나도 좋은 운동이 됐는걸 뭐.
 그런데 오늘은 무슨 일로 군령부에 온 거야?"
-73,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_037","어떤 톤베리를 찾고 있어.
+73,TEXT_JOBSCH601_02923_ALKAZOLKA_000_037,"어떤 톤베리를 찾고 있어.
 혹시 '마물'로 등록된 건 아닐까 해서 여기로 왔지.
 그런데 허탕을 쳤지 뭐야……."
-74,"TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_038","흐음, 톤베리라……."
-75,"TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_039","그러고 보니……
+74,TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_038,"흐음, 톤베리라……."
+75,TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_039,"그러고 보니……
 며칠 전에 '저녁별 만'에 드나드는 정기선에서
 밀항자가 있다면서 난리가 났었어."
-76,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_040","밀항자라고?"
-77,"TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_041","밀항자는 배가 저녁별 만에 도착하자마자
+76,TEXT_JOBSCH601_02923_ALKAZOLKA_000_040,밀항자라고?
+77,TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_041,"밀항자는 배가 저녁별 만에 도착하자마자
 실린 짐 사이에서 뛰쳐나와 그대로 행방을 감췄다더군."
-78,"TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_042","목격자가 말하길, 밀항자는 라라펠도 키키룬도 아닌,
+78,TEXT_JOBSCH601_02923_RASHAHTRHIKI_000_042,"목격자가 말하길, 밀항자는 라라펠도 키키룬도 아닌,
 몸집이 작고 동글동글한 외모였다는데……."
-79,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_043","틀림없어!
+79,TEXT_JOBSCH601_02923_ALKAZOLKA_000_043,"틀림없어!
 분명 세토토일 거야!
 고마워, 아샤……. 당장 알아봐야겠어."
-80,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_044","<Highlight>ObjectParameter(1)</Highlight>!
+80,TEXT_JOBSCH601_02923_ALKAZOLKA_000_044,"Player Player!
 서둘러 '저녁별 만'으로 가자!"
-81,"TEXT_JOBSCH601_02923_SURITOCARITO_000_045","신생 '해병단'이여, 세토토를 부탁하겠네……."
-82,"TEXT_JOBSCH601_02923_ALKAZOLKA_100_050","왔구나, 파트너!
+81,TEXT_JOBSCH601_02923_SURITOCARITO_000_045,"신생 '해병단'이여, 세토토를 부탁하겠네……."
+82,TEXT_JOBSCH601_02923_ALKAZOLKA_100_050,"왔구나, 파트너!
 어서 이 선원에게
 밀항자를 목격하진 않았는지 물어 보자."
-83,"TEXT_JOBSCH601_02923_DARKSAILOR02923_000_050","몸집이 작은 밀항자를 보지 못 했냐고?
+83,TEXT_JOBSCH601_02923_DARKSAILOR02923_000_050,"몸집이 작은 밀항자를 보지 못 했냐고?
 아아, 내가 확실히 봤지."
-84,"TEXT_JOBSCH601_02923_DARKSAILOR02923_000_051","그 녀석은 라라펠도 아니고 키키룬도 아니었어.
+84,TEXT_JOBSCH601_02923_DARKSAILOR02923_000_051,"그 녀석은 라라펠도 아니고 키키룬도 아니었어.
 고블린이었으면 특징적인 마스크를 했을 테고……
 아무튼 난 처음 보는 마물이더군."
-85,"TEXT_JOBSCH601_02923_DARKSAILOR02923_000_052","일단 구리칼날단이 출동하고 있는 모양인데
+85,TEXT_JOBSCH601_02923_DARKSAILOR02923_000_052,"일단 구리칼날단이 출동하고 있는 모양인데
 밀항자를 체포했다는 얘기는 아직 안 들리더군."
-86,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_053","그렇구나……. 정보 고마워!"
-87,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_054","구리칼날단이 쫓고 있는데도 발견되지 않았다면
+86,TEXT_JOBSCH601_02923_ALKAZOLKA_000_053,그렇구나……. 정보 고마워!
+87,TEXT_JOBSCH601_02923_ALKAZOLKA_000_054,"구리칼날단이 쫓고 있는데도 발견되지 않았다면
 우리가 무턱대고 뒤져봤자 허탕 칠 게 뻔해."
-88,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_055","일단 울다하에 있는 지인을 통해 정보를 모아야겠어.
+88,TEXT_JOBSCH601_02923_ALKAZOLKA_000_055,"일단 울다하에 있는 지인을 통해 정보를 모아야겠어.
 넌 '스리토 카리토' 님에게 돌아가서 경과를 보고해줘."
-89,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_060","（★未使用／削除予定★）"
-90,"TEXT_JOBSCH601_02923_DARKSAILOR02923_100_060","지난번에 배에서 뛰쳐나온 마물…….
+89,TEXT_JOBSCH601_02923_ALKAZOLKA_000_060,（★未使用／削除予定★）
+90,TEXT_JOBSCH601_02923_DARKSAILOR02923_100_060,"지난번에 배에서 뛰쳐나온 마물…….
 그 녀석은 대체 정체가 뭐였을까."
-91,"TEXT_JOBSCH601_02923_SURITOCARITO_000_070","오오, <Highlight>ObjectParameter(1)</Highlight> 군.
+91,TEXT_JOBSCH601_02923_SURITOCARITO_000_070,"오오, Player Player 군.
 어떤가? 세토토는 찾았나?"
-92,"TEXT_JOBSCH601_02923_SURITOCARITO_000_071","뭐라!?
+92,TEXT_JOBSCH601_02923_SURITOCARITO_000_071,"뭐라!?
 세토토가 바다를 건너서 다날란으로 갔을 가능성이 있다고!?
 도대체 무슨 목적으로 그런 행동을……."
-93,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_072","스리토 카리토 님, 제가 왔습니다!"
-94,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_073","울다하의 지인에게 물어봤습니다만
+93,TEXT_JOBSCH601_02923_ALKAZOLKA_000_072,"스리토 카리토 님, 제가 왔습니다!"
+94,TEXT_JOBSCH601_02923_ALKAZOLKA_000_073,"울다하의 지인에게 물어봤습니다만
 구리칼날단이 수색 중이란 것 말곤 알아내지 못했습니다.
 계속해서 정보를 모아 달라고 부탁은 해뒀는데……."
-95,"TEXT_JOBSCH601_02923_SURITOCARITO_000_074","그렇군…….
+95,TEXT_JOBSCH601_02923_SURITOCARITO_000_074,"그렇군…….
 알데나드 소대륙으로 건너갔다면
 무턱대고 찾아봤자 쉽게 찾아낼 수도 없겠지."
-96,"TEXT_JOBSCH601_02923_SURITOCARITO_000_075","자네들의 얘기를 들어 보니
+96,TEXT_JOBSCH601_02923_SURITOCARITO_000_075,"자네들의 얘기를 들어 보니
 지금 당장 '마물 사냥꾼'에게 잡힐 가능성은 없을 것 같군.
 일단은 정보가 모이길 기다려 보세나."
-97,"TEXT_JOBSCH601_02923_ALKAZOLKA_000_076","알겠습니다!
+97,TEXT_JOBSCH601_02923_ALKAZOLKA_000_076,"알겠습니다!
 뭔가 알아내면 곧장 알려 드리겠습니다!"
-98,"TEXT_JOBSCH601_02923_SURITOCARITO_000_077","세토토의 수색은 장기전이 될지도 모르네.
+98,TEXT_JOBSCH601_02923_SURITOCARITO_000_077,"세토토의 수색은 장기전이 될지도 모르네.
 정보가 모일 때까진 자네도 좀 쉬어 두게나."
-99,"TEXT_JOBSCH601_02923_SYSTEM_000_078","새로운 '학자' 잡 퀘스트를 시작했습니다.
+99,TEXT_JOBSCH601_02923_SYSTEM_000_078,"새로운 '학자' 잡 퀘스트를 시작했습니다.
 다음 퀘스트는 학자 레벨이 63 이상 되면
 청동호수에 있는 스리토 카리토에게 받을 수 있습니다."
-100,"TEXT_JOBSCH601_02923_SYSTEM_000_079","이후 '학자' 잡 퀘스트 수락 조건은
+100,TEXT_JOBSCH601_02923_SYSTEM_000_079,"이후 '학자' 잡 퀘스트 수락 조건은
 완료 후 '퀘스트' 메뉴에서 확인할 수 있습니다."

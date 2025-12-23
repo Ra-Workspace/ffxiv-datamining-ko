@@ -1,141 +1,131 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANLOP110_04696_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANLOP110_04696_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 희망찬 화물실에 있는 매니징웨이는 음성을 저장하는 수단에 대해서 생각하고 있는 듯하다."
-1,"TEXT_BANLOP110_04696_SEQ_01","키핑웨이와 대화"
-2,"TEXT_BANLOP110_04696_SEQ_02","당근관 북서쪽에 있는 세이빙웨이에게 의뢰받은 물품 납품"
-3,"TEXT_BANLOP110_04696_SEQ_03","매니징웨이에게 보고"
-4,"TEXT_BANLOP110_04696_SEQ_04",""
-5,"TEXT_BANLOP110_04696_SEQ_05",""
-6,"TEXT_BANLOP110_04696_SEQ_06",""
-7,"TEXT_BANLOP110_04696_SEQ_07",""
-8,"TEXT_BANLOP110_04696_SEQ_08",""
-9,"TEXT_BANLOP110_04696_SEQ_09",""
-10,"TEXT_BANLOP110_04696_SEQ_10",""
-11,"TEXT_BANLOP110_04696_SEQ_11",""
-12,"TEXT_BANLOP110_04696_SEQ_12",""
-13,"TEXT_BANLOP110_04696_SEQ_13",""
-14,"TEXT_BANLOP110_04696_SEQ_14",""
-15,"TEXT_BANLOP110_04696_SEQ_15",""
-16,"TEXT_BANLOP110_04696_SEQ_16",""
-17,"TEXT_BANLOP110_04696_SEQ_17",""
-18,"TEXT_BANLOP110_04696_SEQ_18",""
-19,"TEXT_BANLOP110_04696_SEQ_19",""
-20,"TEXT_BANLOP110_04696_SEQ_20",""
-21,"TEXT_BANLOP110_04696_SEQ_21",""
-22,"TEXT_BANLOP110_04696_SEQ_22",""
-23,"TEXT_BANLOP110_04696_SEQ_23",""
-24,"TEXT_BANLOP110_04696_TODO_00","키핑웨이와 대화"
-25,"TEXT_BANLOP110_04696_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>당근관에 있는 세이빙웨이에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>당근관에 있는 세이빙웨이에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>당근관에 있는 세이빙웨이에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>당근관에 있는 세이빙웨이에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>당근관에 있는 세이빙웨이에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>당근관에 있는 세이빙웨이에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>당근관에 있는 세이빙웨이에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>당근관에 있는 세이빙웨이에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANLOP110_04696_TODO_02","매니징웨이에게 보고"
-27,"TEXT_BANLOP110_04696_TODO_03",""
-28,"TEXT_BANLOP110_04696_TODO_04",""
-29,"TEXT_BANLOP110_04696_TODO_05",""
-30,"TEXT_BANLOP110_04696_TODO_06",""
-31,"TEXT_BANLOP110_04696_TODO_07",""
-32,"TEXT_BANLOP110_04696_TODO_08",""
-33,"TEXT_BANLOP110_04696_TODO_09",""
-34,"TEXT_BANLOP110_04696_TODO_10",""
-35,"TEXT_BANLOP110_04696_TODO_11",""
-36,"TEXT_BANLOP110_04696_TODO_12",""
-37,"TEXT_BANLOP110_04696_TODO_13",""
-38,"TEXT_BANLOP110_04696_TODO_14",""
-39,"TEXT_BANLOP110_04696_TODO_15",""
-40,"TEXT_BANLOP110_04696_TODO_16",""
-41,"TEXT_BANLOP110_04696_TODO_17",""
-42,"TEXT_BANLOP110_04696_TODO_18",""
-43,"TEXT_BANLOP110_04696_TODO_19",""
-44,"TEXT_BANLOP110_04696_TODO_20",""
-45,"TEXT_BANLOP110_04696_TODO_21",""
-46,"TEXT_BANLOP110_04696_TODO_22",""
-47,"TEXT_BANLOP110_04696_TODO_23",""
-48,"TEXT_BANLOP110_04696_MANAGINGWAY_000_000","우리 동료 중에 세이빙웨이라고,
+1,TEXT_BANLOP110_04696_SEQ_01,키핑웨이와 대화
+2,TEXT_BANLOP110_04696_SEQ_02,당근관 북서쪽에 있는 세이빙웨이에게 의뢰받은 물품 납품
+3,TEXT_BANLOP110_04696_SEQ_03,매니징웨이에게 보고
+4,TEXT_BANLOP110_04696_SEQ_04,
+5,TEXT_BANLOP110_04696_SEQ_05,
+6,TEXT_BANLOP110_04696_SEQ_06,
+7,TEXT_BANLOP110_04696_SEQ_07,
+8,TEXT_BANLOP110_04696_SEQ_08,
+9,TEXT_BANLOP110_04696_SEQ_09,
+10,TEXT_BANLOP110_04696_SEQ_10,
+11,TEXT_BANLOP110_04696_SEQ_11,
+12,TEXT_BANLOP110_04696_SEQ_12,
+13,TEXT_BANLOP110_04696_SEQ_13,
+14,TEXT_BANLOP110_04696_SEQ_14,
+15,TEXT_BANLOP110_04696_SEQ_15,
+16,TEXT_BANLOP110_04696_SEQ_16,
+17,TEXT_BANLOP110_04696_SEQ_17,
+18,TEXT_BANLOP110_04696_SEQ_18,
+19,TEXT_BANLOP110_04696_SEQ_19,
+20,TEXT_BANLOP110_04696_SEQ_20,
+21,TEXT_BANLOP110_04696_SEQ_21,
+22,TEXT_BANLOP110_04696_SEQ_22,
+23,TEXT_BANLOP110_04696_SEQ_23,
+24,TEXT_BANLOP110_04696_TODO_00,키핑웨이와 대화
+25,TEXT_BANLOP110_04696_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANLOP110_04696_TODO_02,매니징웨이에게 보고
+27,TEXT_BANLOP110_04696_TODO_03,
+28,TEXT_BANLOP110_04696_TODO_04,
+29,TEXT_BANLOP110_04696_TODO_05,
+30,TEXT_BANLOP110_04696_TODO_06,
+31,TEXT_BANLOP110_04696_TODO_07,
+32,TEXT_BANLOP110_04696_TODO_08,
+33,TEXT_BANLOP110_04696_TODO_09,
+34,TEXT_BANLOP110_04696_TODO_10,
+35,TEXT_BANLOP110_04696_TODO_11,
+36,TEXT_BANLOP110_04696_TODO_12,
+37,TEXT_BANLOP110_04696_TODO_13,
+38,TEXT_BANLOP110_04696_TODO_14,
+39,TEXT_BANLOP110_04696_TODO_15,
+40,TEXT_BANLOP110_04696_TODO_16,
+41,TEXT_BANLOP110_04696_TODO_17,
+42,TEXT_BANLOP110_04696_TODO_18,
+43,TEXT_BANLOP110_04696_TODO_19,
+44,TEXT_BANLOP110_04696_TODO_20,
+45,TEXT_BANLOP110_04696_TODO_21,
+46,TEXT_BANLOP110_04696_TODO_22,
+47,TEXT_BANLOP110_04696_TODO_23,
+48,TEXT_BANLOP110_04696_MANAGINGWAY_000_000,"우리 동료 중에 세이빙웨이라고,
 여러 가지 정보를 기록하는 것을 좋아하는 친구가 있어요.
 그의 꿈은 우리의 음성을 기록하는 것이죠."
-49,"TEXT_BANLOP110_04696_MANAGINGWAY_000_001","그 친구가 꿈을 이루기 위해
+49,TEXT_BANLOP110_04696_MANAGINGWAY_000_001,"그 친구가 꿈을 이루기 위해
 음성을 기록하는 '녹음 도우미'를 개발하고 있다면서
 부재를 제작해 달라는 의뢰를 하더군요."
-50,"TEXT_BANLOP110_04696_MANAGINGWAY_000_002","만약 협력해주신다면 건너편에서 자재 관리를 맡고 있는
+50,TEXT_BANLOP110_04696_MANAGINGWAY_000_002,"만약 협력해주신다면 건너편에서 자재 관리를 맡고 있는
 '키핑웨이'에게 설명을 들어주세요.
 부재 제작에 필요한 재료도 받을 수 있을 거예요!"
-51,"TEXT_BANLOP110_04696_KEEPINGWAY_000_010","세이빙웨이가 의뢰한 건 말이죠~?
+51,TEXT_BANLOP110_04696_KEEPINGWAY_000_010,"세이빙웨이가 의뢰한 건 말이죠~?
 그가 부탁한 '녹음 도우미 개발 부재'의 제조법을 말씀드릴 테니
 이쪽에서 재료를 받아 제작에 착수해 주세요!"
-52,"TEXT_BANLOP110_04696_KEEPINGWAY_000_011","회로의 기판이 될
-'<Sheet(ItemHQ,38867,0)/>'<13>FF1102280DFF074974656D4851F297D30103FF04EBA5BCFF04EC9D84</13> 제작해 주세요!
+52,TEXT_BANLOP110_04696_KEEPINGWAY_000_011,"회로의 기판이 될
+'' 제작해 주세요!
 재료가 부족하면 체험 도우미에게 받으시고요!"
-53,"TEXT_BANLOP110_04696_KEEPINGWAY_000_012","유기 전도 부품이 될
-'<Sheet(ItemHQ,38867,0)/>'<13>FF1102280DFF074974656D4851F297D30103FF04EBA5BCFF04EC9D84</13> 제작해 주세요!
+53,TEXT_BANLOP110_04696_KEEPINGWAY_000_012,"유기 전도 부품이 될
+'' 제작해 주세요!
 재료가 부족하면 체험 도우미에게 받으시고요!"
-54,"TEXT_BANLOP110_04696_KEEPINGWAY_000_013","액체 반도체에 쓰일
-'<Sheet(ItemHQ,38867,0)/>'<13>FF1102280DFF074974656D4851F297D30103FF04EBA5BCFF04EC9D84</13> 제작해 주세요!
+54,TEXT_BANLOP110_04696_KEEPINGWAY_000_013,"액체 반도체에 쓰일
+'' 제작해 주세요!
 재료가 부족하면 체험 도우미에게 받으시고요!"
-55,"TEXT_BANLOP110_04696_KEEPINGWAY_000_014","그리고…… 부재가 완성되면
+55,TEXT_BANLOP110_04696_KEEPINGWAY_000_014,"그리고…… 부재가 완성되면
 당근관 북서쪽에 있는 '세이빙웨이'에게
 가지고 가주세요!"
-56,"TEXT_BANLOP110_04696_SUPPORTER04696_000_015","삐삐삐…… 재료를 다 쓰신 다음에 오십시오.
+56,TEXT_BANLOP110_04696_SUPPORTER04696_000_015,"삐삐삐…… 재료를 다 쓰신 다음에 오십시오.
 자원 절약!!!"
-57,"TEXT_BANLOP110_04696_SUPPORTER04696_000_016","삐삐삐…… 재료를 다 쓰신 다음에 오십시오.
+57,TEXT_BANLOP110_04696_SUPPORTER04696_000_016,"삐삐삐…… 재료를 다 쓰신 다음에 오십시오.
 자원 절약!!!"
-58,"TEXT_BANLOP110_04696_SUPPORTER04696_000_017","삐삐삐…… 재료를 다 쓰신 다음에 오십시오.
+58,TEXT_BANLOP110_04696_SUPPORTER04696_000_017,"삐삐삐…… 재료를 다 쓰신 다음에 오십시오.
 자원 절약!!!"
-59,"TEXT_BANLOP110_04696_SUPPORTER04696_000_018","삐삐삐…… 재료의 완전 소비를 확인했습니다.
+59,TEXT_BANLOP110_04696_SUPPORTER04696_000_018,"삐삐삐…… 재료의 완전 소비를 확인했습니다.
 추가 제공을 승인합니다."
-60,"TEXT_BANLOP110_04696_SUPPORTER04696_000_019","삐삐삐…… 재료의 완전 소비를 확인했습니다.
+60,TEXT_BANLOP110_04696_SUPPORTER04696_000_019,"삐삐삐…… 재료의 완전 소비를 확인했습니다.
 추가 제공을 승인합니다."
-61,"TEXT_BANLOP110_04696_SUPPORTER04696_000_020","삐삐삐…… 재료의 완전 소비를 확인했습니다.
+61,TEXT_BANLOP110_04696_SUPPORTER04696_000_020,"삐삐삐…… 재료의 완전 소비를 확인했습니다.
 추가 제공을 승인합니다."
-62,"TEXT_BANLOP110_04696_LOPORRIT04696_000_025","이제 '<Sheet(ItemHQ,38867,0)/>'만 있으면
+62,TEXT_BANLOP110_04696_LOPORRIT04696_000_025,"이제 ''만 있으면
 '녹음 도우미'의 작동 실험을 할 수 있는데……."
-63,"TEXT_BANLOP110_04696_LOPORRIT04696_000_026","오오~ 이걸 기다리고 있었어, 정말 고마워!
+63,TEXT_BANLOP110_04696_LOPORRIT04696_000_026,"오오~ 이걸 기다리고 있었어, 정말 고마워!
 작동 실험 준비는 완벽하니까
 바로 부재를 끼워서 음성 녹음을 해보자!"
-64,"TEXT_BANLOP110_04696_LOPORRIT04696_000_027","아ー아ー, 나는 세이빙웨이!
+64,TEXT_BANLOP110_04696_LOPORRIT04696_000_027,"아ー아ー, 나는 세이빙웨이!
 녹음 기능 테스트 중!"
-65,"TEXT_BANLOP110_04696_LOPORRIT04696_000_028","……지금 이 소리가 녹음되었을 거야!
+65,TEXT_BANLOP110_04696_LOPORRIT04696_000_028,"……지금 이 소리가 녹음되었을 거야!
 제대로 녹음되었는지 재생해보자!"
-66,"TEXT_BANLOP110_04696_SUPPORTER04696_000_028","""……지직…………
+66,TEXT_BANLOP110_04696_SUPPORTER04696_000_028,"""……지직…………
  아아, 아아, 나는 세이빙웨이!
  녹음 기능 테스트 중!"""
-67,"TEXT_BANLOP110_04696_LOPORRIT04696_000_029","오, 성공이야!
+67,TEXT_BANLOP110_04696_LOPORRIT04696_000_029,"오, 성공이야!
 녹음 음질에 조금 잡음이 들리지만
 그것만 개선하면 될 것 같아!"
-68,"TEXT_BANLOP110_04696_SUPPORTER04696_100_028","(-희미한 녹음 음성-)""……지직…………
+68,TEXT_BANLOP110_04696_SUPPORTER04696_100_028,"(-희미한 녹음 음성-)""……지직…………
  아아, 아아…… 지직…… 웨이! 웨이웨이!
  테스테스, 테스트 중!"""
-69,"TEXT_BANLOP110_04696_LOPORRIT04696_100_029","어, 어랏~!?
+69,TEXT_BANLOP110_04696_LOPORRIT04696_100_029,"어, 어랏~!?
 실패인 것 같네……
 내부 메모리에 저장이 잘 안 됐나……."
-70,"TEXT_BANLOP110_04696_SUPPORTER04696_200_028","(-알 수 없는 노이즈와 울음소리-)""……지직……지……
+70,TEXT_BANLOP110_04696_SUPPORTER04696_200_028,"(-알 수 없는 노이즈와 울음소리-)""……지직……지……
  …………갸아……
  갸아갸아, 갸아갸아갸아갸아……!!"""
-71,"TEXT_BANLOP110_04696_LOPORRIT04696_200_029","히익……!!?
+71,TEXT_BANLOP110_04696_LOPORRIT04696_200_029,"히익……!!?
 이, 이 소리는 뭐지……!?"
-72,"TEXT_BANLOP110_04696_LOPORRIT04696_200_030","으으, 달에서는 들어본 적 없는 소름끼치는 소리였어……!!
+72,TEXT_BANLOP110_04696_LOPORRIT04696_200_030,"으으, 달에서는 들어본 적 없는 소름끼치는 소리였어……!!
 음성 데이터가 파손되었나…… 아니면 우주선의 영향인가……
 잘 조사해볼게……!"
-73,"TEXT_BANLOP110_04696_LOPORRIT04696_000_030","일단 작동은 확인했고 앞으로의 작업 목표도 알게 됐어!
+73,TEXT_BANLOP110_04696_LOPORRIT04696_000_030,"일단 작동은 확인했고 앞으로의 작업 목표도 알게 됐어!
 소중한 사람의 목소리나 노래를 언제든 들을 수 있게 하는 것이
 내 꿈이야…… 실험은 계속할 거니까 또 협력해주면 고맙겠어!"
-74,"TEXT_BANLOP110_04696_LOPORRIT04696_000_031","내 꿈은…… 소중한 사람의 목소리나 노래를 언제든 들을 수
+74,TEXT_BANLOP110_04696_LOPORRIT04696_000_031,"내 꿈은…… 소중한 사람의 목소리나 노래를 언제든 들을 수
 있게 하는 거야. 실험은 계속할 거니까 또 잘 부탁해!"
-75,"TEXT_BANLOP110_04696_MANAGINGWAY_000_031","제작뿐 아니라 작동 실험도 함께 해주셨군요!
+75,TEXT_BANLOP110_04696_MANAGINGWAY_000_031,"제작뿐 아니라 작동 실험도 함께 해주셨군요!
 세이빙웨이도 무척 기뻐했겠어요!
 협력해 주셔서 감사합니다."
-76,"TEXT_BANLOP110_04696_MANAGINGWAY_000_032","체험관의 활기 넘치는 소리와 음악 등
+76,TEXT_BANLOP110_04696_MANAGINGWAY_000_032,"체험관의 활기 넘치는 소리와 음악 등
 남기고 싶은 음성은 많이 있어요.
 언젠가 완성할 수 있도록 앞으로도 함께 조정해 나가요!"
-77,"TEXT_BANLOP110_04696_SYSTEM_000_040","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+77,TEXT_BANLOP110_04696_SYSTEM_000_040,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."

@@ -1,149 +1,137 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANNAM604_03126_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANNAM604_03126_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 도로 일로에 있는 광풍원 세이게츠는 신세를 지고 있는 도탈족에게 감사를 전하고 싶은 듯하다."
-1,"TEXT_BANNAM604_03126_SEQ_01","나아마 사막 북단에 있는 요리를 잘하는 나마즈오와 대화하자."
-2,"TEXT_BANNAM604_03126_SEQ_02","나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 의뢰받은 물건을 납품하자."
-3,"TEXT_BANNAM604_03126_SEQ_03","광풍원 세이게츠에게 보고하자."
-4,"TEXT_BANNAM604_03126_SEQ_04",""
-5,"TEXT_BANNAM604_03126_SEQ_05",""
-6,"TEXT_BANNAM604_03126_SEQ_06",""
-7,"TEXT_BANNAM604_03126_SEQ_07",""
-8,"TEXT_BANNAM604_03126_SEQ_08",""
-9,"TEXT_BANNAM604_03126_SEQ_09",""
-10,"TEXT_BANNAM604_03126_SEQ_10",""
-11,"TEXT_BANNAM604_03126_SEQ_11",""
-12,"TEXT_BANNAM604_03126_SEQ_12",""
-13,"TEXT_BANNAM604_03126_SEQ_13",""
-14,"TEXT_BANNAM604_03126_SEQ_14",""
-15,"TEXT_BANNAM604_03126_SEQ_15",""
-16,"TEXT_BANNAM604_03126_SEQ_16",""
-17,"TEXT_BANNAM604_03126_SEQ_17",""
-18,"TEXT_BANNAM604_03126_SEQ_18",""
-19,"TEXT_BANNAM604_03126_SEQ_19",""
-20,"TEXT_BANNAM604_03126_SEQ_20",""
-21,"TEXT_BANNAM604_03126_SEQ_21",""
-22,"TEXT_BANNAM604_03126_SEQ_22",""
-23,"TEXT_BANNAM604_03126_SEQ_23",""
-24,"TEXT_BANNAM604_03126_TODO_00","나아마 사막 북단에 있는 요리를 잘하는 나마즈오와 대화"
-25,"TEXT_BANNAM604_03126_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>재회시장 남쪽 바위터 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>재회시장 남쪽 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>도탈 카에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANNAM604_03126_TODO_02","광풍원 세이게츠에게 보고"
-27,"TEXT_BANNAM604_03126_TODO_03",""
-28,"TEXT_BANNAM604_03126_TODO_04",""
-29,"TEXT_BANNAM604_03126_TODO_05",""
-30,"TEXT_BANNAM604_03126_TODO_06",""
-31,"TEXT_BANNAM604_03126_TODO_07",""
-32,"TEXT_BANNAM604_03126_TODO_08",""
-33,"TEXT_BANNAM604_03126_TODO_09",""
-34,"TEXT_BANNAM604_03126_TODO_10",""
-35,"TEXT_BANNAM604_03126_TODO_11",""
-36,"TEXT_BANNAM604_03126_TODO_12",""
-37,"TEXT_BANNAM604_03126_TODO_13",""
-38,"TEXT_BANNAM604_03126_TODO_14",""
-39,"TEXT_BANNAM604_03126_TODO_15",""
-40,"TEXT_BANNAM604_03126_TODO_16",""
-41,"TEXT_BANNAM604_03126_TODO_17",""
-42,"TEXT_BANNAM604_03126_TODO_18",""
-43,"TEXT_BANNAM604_03126_TODO_19",""
-44,"TEXT_BANNAM604_03126_TODO_20",""
-45,"TEXT_BANNAM604_03126_TODO_21",""
-46,"TEXT_BANNAM604_03126_TODO_22",""
-47,"TEXT_BANNAM604_03126_TODO_23",""
-48,"TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_000","도탈족한테 활쏘기를 배우기 시작했는데
+1,TEXT_BANNAM604_03126_SEQ_01,나아마 사막 북단에 있는 요리를 잘하는 나마즈오와 대화하자.
+2,TEXT_BANNAM604_03126_SEQ_02,나아마 사막 북단에 있는 요리를 잘하는 나마즈오에게 의뢰받은 물건을 납품하자.
+3,TEXT_BANNAM604_03126_SEQ_03,광풍원 세이게츠에게 보고하자.
+4,TEXT_BANNAM604_03126_SEQ_04,
+5,TEXT_BANNAM604_03126_SEQ_05,
+6,TEXT_BANNAM604_03126_SEQ_06,
+7,TEXT_BANNAM604_03126_SEQ_07,
+8,TEXT_BANNAM604_03126_SEQ_08,
+9,TEXT_BANNAM604_03126_SEQ_09,
+10,TEXT_BANNAM604_03126_SEQ_10,
+11,TEXT_BANNAM604_03126_SEQ_11,
+12,TEXT_BANNAM604_03126_SEQ_12,
+13,TEXT_BANNAM604_03126_SEQ_13,
+14,TEXT_BANNAM604_03126_SEQ_14,
+15,TEXT_BANNAM604_03126_SEQ_15,
+16,TEXT_BANNAM604_03126_SEQ_16,
+17,TEXT_BANNAM604_03126_SEQ_17,
+18,TEXT_BANNAM604_03126_SEQ_18,
+19,TEXT_BANNAM604_03126_SEQ_19,
+20,TEXT_BANNAM604_03126_SEQ_20,
+21,TEXT_BANNAM604_03126_SEQ_21,
+22,TEXT_BANNAM604_03126_SEQ_22,
+23,TEXT_BANNAM604_03126_SEQ_23,
+24,TEXT_BANNAM604_03126_TODO_00,나아마 사막 북단에 있는 요리를 잘하는 나마즈오와 대화
+25,TEXT_BANNAM604_03126_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANNAM604_03126_TODO_02,광풍원 세이게츠에게 보고
+27,TEXT_BANNAM604_03126_TODO_03,
+28,TEXT_BANNAM604_03126_TODO_04,
+29,TEXT_BANNAM604_03126_TODO_05,
+30,TEXT_BANNAM604_03126_TODO_06,
+31,TEXT_BANNAM604_03126_TODO_07,
+32,TEXT_BANNAM604_03126_TODO_08,
+33,TEXT_BANNAM604_03126_TODO_09,
+34,TEXT_BANNAM604_03126_TODO_10,
+35,TEXT_BANNAM604_03126_TODO_11,
+36,TEXT_BANNAM604_03126_TODO_12,
+37,TEXT_BANNAM604_03126_TODO_13,
+38,TEXT_BANNAM604_03126_TODO_14,
+39,TEXT_BANNAM604_03126_TODO_15,
+40,TEXT_BANNAM604_03126_TODO_16,
+41,TEXT_BANNAM604_03126_TODO_17,
+42,TEXT_BANNAM604_03126_TODO_18,
+43,TEXT_BANNAM604_03126_TODO_19,
+44,TEXT_BANNAM604_03126_TODO_20,
+45,TEXT_BANNAM604_03126_TODO_21,
+46,TEXT_BANNAM604_03126_TODO_22,
+47,TEXT_BANNAM604_03126_TODO_23,
+48,TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_000,"도탈족한테 활쏘기를 배우기 시작했는데
 그 보답으로 요리를 대접하기로 했다.
 그래서 '요리를 잘하는 나마즈오'를 보냈는데……."
-49,"TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_001","열의도 있고 실력도 있는 녀석인데 늘 운이 나빠서
+49,TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_001,"열의도 있고 실력도 있는 녀석인데 늘 운이 나빠서
 이번에도 무슨 문제가 생기진 않을지 불안하다…….
 그래서 귀군이 그를 보좌해줬으면 좋겠다."
-50,"TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_002","무기도 없이 '나아마 사막 북단'으로 준비하러 간,
+50,TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_002,"무기도 없이 '나아마 사막 북단'으로 준비하러 간,
 '요리를 잘하는 나마즈오'의 상태를 보고 와다오.
 문제가 생긴 것 같으면 도와주기 바란다."
-51,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_010","언제나 우리들한테 열심히 활쏘기를 가르쳐주는
+51,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_010,"언제나 우리들한테 열심히 활쏘기를 가르쳐주는
 도탈족 사람들한테 요리를 대접하려고 하는데,
 부족한 게 있어서 곤란하던 참이담메……. 도와줘람메!"
-52,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_011","다름이 아니라, 내가 아끼던 식칼이 이유도 없이 갑자기 망가졌담메!
-'<Sheet(ItemHQ,22743,0)/>'인 새로운 날을 만들어주람메.
+52,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_011,"다름이 아니라, 내가 아끼던 식칼이 이유도 없이 갑자기 망가졌담메!
+''인 새로운 날을 만들어주람메.
 재료는 옆에 있는 상자에서 원하는 만큼 가져가도 된담메."
-53,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_012","다름이 아니라, 내가 아끼던 식칼이 이유도 없이 갑자기 망가졌담메!
-'<Sheet(ItemHQ,22743,0)/>'인 새로운 손잡이를 만들어줬음 한담메.
+53,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_012,"다름이 아니라, 내가 아끼던 식칼이 이유도 없이 갑자기 망가졌담메!
+''인 새로운 손잡이를 만들어줬음 한담메.
 재료는 옆에 있는 상자에서 원하는 만큼 가져가도 된담메."
-54,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_013","다름이 아니라, 내가 아끼던 식칼이 이유도 없이 갑자기 망가졌담메!
-'<Sheet(ItemHQ,22743,0)/>'인 접착제를 만들어줬음 한담메.
+54,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_013,"다름이 아니라, 내가 아끼던 식칼이 이유도 없이 갑자기 망가졌담메!
+''인 접착제를 만들어줬음 한담메.
 재료는 옆에 있는 상자에서 원하는 만큼 가져가도 된담메."
-55,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_014","다름이 아니라, 식칼을 갈기 위한 숫돌을 잃어버렸담메!
-재회시장 남쪽에서 구할 수 있는 '<Sheet(Item,22639,0)/>'<13>FF0F02280BFF054974656DF2586F0103FF04EBA5BCFF04EC9D84</13>
+55,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_014,"다름이 아니라, 식칼을 갈기 위한 숫돌을 잃어버렸담메!
+재회시장 남쪽에서 구할 수 있는 ''
 제발 구해왔으면 좋겠담메."
-56,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_015","다름이 아니라, 갖고 온 줄 알았던 식재료가 홀연히 사라져버렸담메!
-재회시장의 남쪽에서 구할 수 있는 '<Sheet(Item,22665,0)/>'<13>FF0F02280BFF054974656DF258890103FF04EBA5BCFF04EC9D84</13>
+56,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_015,"다름이 아니라, 갖고 온 줄 알았던 식재료가 홀연히 사라져버렸담메!
+재회시장의 남쪽에서 구할 수 있는 ''
 제발 구해왔으면 좋겠담메."
-57,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_016","다름이 아니라, 갖고 온 줄 알았던 식재료가 홀연히 사라져버렸담메!
-'도탈 카'에서 <Sheet(Item,20613,0)/> 같은 걸 사용하면 잡을 수 있는
-'<Sheet(Item,22691,0)/>'<13>FF0F02280BFF054974656DF258A30103FF04EBA5BCFF04EC9D84</13> 제발 구해왔으면 좋겠담메."
-58,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_017","부탁한 것이 준비되면 나한테 전달해줘람메!"
-59,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_018","재료는 옆에 있는 상자에서 원하는 만큼 꺼내다 써람메."
-60,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_019","재료는 옆에 있는 상자에서 원하는 만큼 꺼내다 써람메."
-61,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_020","재료는 옆에 있는 상자에서 원하는 만큼 꺼내다 써람메."
-62,"TEXT_BANNAM604_03126_SYSTEM_000_021","재료가 들어있는 상자가 있다.
+57,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_016,"다름이 아니라, 갖고 온 줄 알았던 식재료가 홀연히 사라져버렸담메!
+'도탈 카'에서  같은 걸 사용하면 잡을 수 있는
+'' 제발 구해왔으면 좋겠담메."
+58,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_017,부탁한 것이 준비되면 나한테 전달해줘람메!
+59,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_018,재료는 옆에 있는 상자에서 원하는 만큼 꺼내다 써람메.
+60,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_019,재료는 옆에 있는 상자에서 원하는 만큼 꺼내다 써람메.
+61,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_020,재료는 옆에 있는 상자에서 원하는 만큼 꺼내다 써람메.
+62,TEXT_BANNAM604_03126_SYSTEM_000_021,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-63,"TEXT_BANNAM604_03126_SYSTEM_000_022","재료가 들어있는 상자가 있다.
+63,TEXT_BANNAM604_03126_SYSTEM_000_022,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-64,"TEXT_BANNAM604_03126_SYSTEM_000_023","재료가 들어있는 상자가 있다.
+64,TEXT_BANNAM604_03126_SYSTEM_000_023,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-65,"TEXT_BANNAM604_03126_SYSTEM_000_024","재료가 들어있는 상자가 있다.
+65,TEXT_BANNAM604_03126_SYSTEM_000_024,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-66,"TEXT_BANNAM604_03126_SYSTEM_000_025","상자에서 필요한 재료를 꺼냈다!"
-67,"TEXT_BANNAM604_03126_SYSTEM_000_026","상자에서 필요한 재료를 꺼냈다!"
-68,"TEXT_BANNAM604_03126_SYSTEM_000_027","상자에서 필요한 재료를 꺼냈다!"
-69,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_028","부탁한 물건은 내가 얘기한 곳에서 구할 수 있을 거얌메.
+66,TEXT_BANNAM604_03126_SYSTEM_000_025,상자에서 필요한 재료를 꺼냈다!
+67,TEXT_BANNAM604_03126_SYSTEM_000_026,상자에서 필요한 재료를 꺼냈다!
+68,TEXT_BANNAM604_03126_SYSTEM_000_027,상자에서 필요한 재료를 꺼냈다!
+69,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_028,"부탁한 물건은 내가 얘기한 곳에서 구할 수 있을 거얌메.
 기대하고 있을겜메!"
-70,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_029","부탁한 물건은 내가 얘기한 곳에서 구할 수 있을 거얌메.
+70,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_029,"부탁한 물건은 내가 얘기한 곳에서 구할 수 있을 거얌메.
 기대하고 있을겜메!"
-71,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_030","부탁한 물건은 내가 얘기한 곳에서 구할 수 있을 거얌메.
+71,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_030,"부탁한 물건은 내가 얘기한 곳에서 구할 수 있을 거얌메.
 기대하고 있을겜메!"
-72,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_040","부탁한 물건은 준비되었냠메?"
-73,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_041","어디 보자…… 응, 완벽하고 정확하담메!
+72,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_040,부탁한 물건은 준비되었냠메?
+73,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_041,"어디 보자…… 응, 완벽하고 정확하담메!
 이로써 요리 준비가 다 끝났담메,
 이제 요리는 나한테 맡겨람메!"
-74,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_042","혼신의 힘을 다한 나의 나마즈오 요리를
+74,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_042,"혼신의 힘을 다한 나의 나마즈오 요리를
 도탈족 사람들이 좋아할지 불안하기도 하지만,
 그래도 기대가 된담메!"
-75,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_043","혼신의 힘을 다한 나의 나마즈오 요리를
+75,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_043,"혼신의 힘을 다한 나의 나마즈오 요리를
 도탈족 사람들도 다 좋아하는 것 같으니까
 이번에도 분명히 다들 기뻐할 거담메!"
-76,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_044","덕분에 고마웠담메!
+76,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_044,"덕분에 고마웠담메!
 '광풍원 세이게츠'한테는 안심해도 된다고
 전해주기 바람메!"
-77,"TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_045","덕분에 고마웠담메!
+77,TEXT_BANNAM604_03126_DAILYNAMAZUO03126_000_045,"덕분에 고마웠담메!
 '광풍원 세이게츠'한테는 안심해도 된다고
 전해주기 바람메!"
-78,"TEXT_BANNAM604_03126_KOFUINSEIGETSU_100_050","요리를 잘하는 나마즈오는 무사하던가?"
-79,"TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_050","거 참, 역시 문제가 생겼었군.
+78,TEXT_BANNAM604_03126_KOFUINSEIGETSU_100_050,요리를 잘하는 나마즈오는 무사하던가?
+79,TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_050,"거 참, 역시 문제가 생겼었군.
 그걸 꿰뚫어보다니, 귀군도 내가 대단하단 생각이 들지 않나?"
-80,"TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_051","요리 실력은 확실하니까
+80,TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_051,"요리 실력은 확실하니까
 분명 도탈족 사람들도 기뻐할 거다.
 그 악운을 없앨 방법은 없는지 책이라도 찾아봐야겠다."
-81,"TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_052","그보다 문제인 건 활쏘기를 배우고는 있는데
+81,TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_052,"그보다 문제인 건 활쏘기를 배우고는 있는데
 우리 나마즈오의 팔이 너무 짧아서
 화살을 제대로 쏠 수가 없다는 것이다……."
-82,"TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_053","실력이 늘 기미가 전혀 보이지 않으니
+82,TEXT_BANNAM604_03126_KOFUINSEIGETSU_000_053,"실력이 늘 기미가 전혀 보이지 않으니
 아마 또 사례를 보내야 할 때가 올 것이다.
 그때가 되면 다시 부탁하겠다."
-83,"TEXT_BANNAM604_03126_SYSTEM_000_054","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+83,TEXT_BANNAM604_03126_SYSTEM_000_054,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."
-84,"TEXT_BANNAM604_03126_SYSTEM_000_055","퀘스트 수행 중에 일반 품질 아이템이 채집되었습니다.
+84,TEXT_BANNAM604_03126_SYSTEM_000_055,"퀘스트 수행 중에 일반 품질 아이템이 채집되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."

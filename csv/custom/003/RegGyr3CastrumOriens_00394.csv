@@ -1,31 +1,29 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_000","아, <If(GreaterThan(PlayerParameter(52),0))><If(GreaterThan(PlayerParameter(52),0))><Sheet(GCRankLimsaMaleText,PlayerParameter(52),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(53),0))><If(GreaterThan(PlayerParameter(53),0))><Sheet(GCRankGridaniaMaleText,PlayerParameter(53),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If><If(GreaterThan(PlayerParameter(54),0))><If(GreaterThan(PlayerParameter(54),0))><Sheet(GCRankUldahMaleText,PlayerParameter(54),0)/><Else/></If> <Highlight>ObjectParameter(1)</Highlight><Else/></If> 공 아니십니까.
+#,Unknown0,Unknown1
+0,TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_000,"아,  Player Player Player Player Player Player 공 아니십니까.
 제게 무슨 용무라도 있으신지요?"
-1,"TEXT_REGGYR3CASTRUMORIENS_00394_Q1_000_000","무엇을 물어보시겠습니까?"
-2,"TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_001","당신의 이야기를 들려달라고 한다"
-3,"TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_002","여기는 어떤 곳인지 물어본다"
-4,"TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_003","취소"
-5,"TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_010","저는 쌍사당 장교입니다.
+1,TEXT_REGGYR3CASTRUMORIENS_00394_Q1_000_000,무엇을 물어보시겠습니까?
+2,TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_001,당신의 이야기를 들려달라고 한다
+3,TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_002,여기는 어떤 곳인지 물어본다
+4,TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_003,취소
+5,TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_010,"저는 쌍사당 장교입니다.
 에오르제아 동맹군이 점거한 이곳 카스트룸 오리엔스에
 주둔하기 위해 그리다니아 본국에서 파견되었죠."
-6,"TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_011","에오르제아 동맹군에는 우리 쌍사당뿐 아니라
+6,TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_011,"에오르제아 동맹군에는 우리 쌍사당뿐 아니라
 림사 로민사의 흑와단, 울다하의 불멸대……
 그리고 새롭게 이슈가르드의 신전기사단이 참가하고 있죠."
-7,"TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_012","각 나라마다 격식과 규율이 달라서 문제가 생길 때도 있습니다만
+7,TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_012,"각 나라마다 격식과 규율이 달라서 문제가 생길 때도 있습니다만
 그때마다 서로 의견을 나누고 조율하며 잘 꾸려나가고 있습니다.
 앞으로도 계속 더 굳게 단결해야겠죠."
-8,"TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_020","이곳 카스트룸 오리엔스는 갈레말 제국이
+8,TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_020,"이곳 카스트룸 오리엔스는 갈레말 제국이
 바일사르 장성을 지키는 방위대를 주둔시키기 위해 세운 기지입니다."
-9,"TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_021","원래는 그리다니아령이었던 이곳 극동의 혼합림에는
+9,TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_021,"원래는 그리다니아령이었던 이곳 극동의 혼합림에는
 작은 마을이 여러 곳에 존재했었나 봅니다.
 주민은 대부분 제국 침략 시에 본국으로 피난한 모양입니다만."
-10,"TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_022","그리고 극동의 혼합림은 단풍 전쟁의 무대이기도 합니다.
+10,TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_022,"그리고 극동의 혼합림은 단풍 전쟁의 무대이기도 합니다.
 약 100년 전, 알라미고가 그리다니아를 상대로
 티놀카 동부의 소유권을 주장하면서 일어난 전쟁이죠."
-11,"TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_023","당시 그리다니아는 이슈가르드와 림사 로민사,
+11,TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_023,"당시 그리다니아는 이슈가르드와 림사 로민사,
 울다하에 협력을 요청하고 알라미고에 맞서 싸웠습니다.
 기이하게도 현재 에오르제아 동맹군과 같은 면면들이죠."
-12,"TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_024","그런데 이번엔 알라미고를 구하기 위해서 다시 손을 잡게 되다니……
+12,TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_024,"그런데 이번엔 알라미고를 구하기 위해서 다시 손을 잡게 되다니……
 역사란 건 참 알 수 없군요."

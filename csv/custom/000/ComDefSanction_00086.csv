@@ -1,22 +1,20 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001","저는 <Switch(IntegerParameter(1))><Case(1)>총사령부 '흑와단'</Case><Case(2)>총사령부 '쌍사당'</Case><Case(3)>총사령부 '불멸대'</Case></Switch>의 마법공병입니다!"
-1,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006","저는 <Switch(IntegerParameter(1))><Case(1)>총사령부 '흑와단'</Case><Case(2)>총사령부 '쌍사당'</Case><Case(3)>총사령부 '불멸대'</Case></Switch>의 마법공병입니다!
+#,Unknown0,Unknown1
+0,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001,저는 총사령부 '흑와단'의 마법공병입니다!
+1,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006,"저는 총사령부 '흑와단'의 마법공병입니다!
 계급이 원사 이상인 분들에게 '강화 승인'을 해드리고 있습니다!"
-2,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00","어떻게 하시겠습니까?"
-3,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01","'강화 승인' 받기"
-4,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02","'강화 승인'에 대해서 묻기"
-5,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03","취소"
-6,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011","위대한 제작의 신 비레고시여……
-<Switch(IntegerParameter(1))><Case(1)><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/></Case><Case(2)><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/></Case><Case(3)><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/></Case></Switch> <Highlight>ObjectParameter(1)</Highlight> 님에게 가호를 내려주시옵소서……."
-7,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012","이것으로 '강화 승인'이 완료되었습니다!
-<Switch(IntegerParameter(1))><Case(1)><Sheet(GCRankLimsaMaleText,IntegerParameter(2),0)/></Case><Case(2)><Sheet(GCRankGridaniaMaleText,IntegerParameter(2),0)/></Case><Case(3)><Sheet(GCRankUldahMaleText,IntegerParameter(2),0)/></Case></Switch> <Highlight>ObjectParameter(1)</Highlight> 님의 무운을 빌겠습니다!"
-8,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016","강화 승인이란 <Switch(IntegerParameter(1))><Case(1)>총사령부 '흑와단'이</Case><Case(2)>총사령부 '쌍사당'이</Case><Case(3)>총사령부 '불멸대'가</Case></Switch>
+2,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00,어떻게 하시겠습니까?
+3,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01,'강화 승인' 받기
+4,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02,'강화 승인'에 대해서 묻기
+5,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03,취소
+6,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011,"위대한 제작의 신 비레고시여……
+ Player Player 님에게 가호를 내려주시옵소서……."
+7,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012,"이것으로 '강화 승인'이 완료되었습니다!
+ Player Player 님의 무운을 빌겠습니다!"
+8,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016,"강화 승인이란 총사령부 '흑와단'이
 '에오르제아 도시군사동맹'에 가입한 도시와
 공동으로 개발한 장비 강화술입니다."
-9,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017","제조 단계에서 '특수한 마법 가공'을 해둔 장비에
+9,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017,"제조 단계에서 '특수한 마법 가공'을 해둔 장비에
 특정 강화마법을 걸어주면 일시적으로
 장비의 강도 및 특성이 상승하게 됩니다."
-10,"TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018","우리 <Switch(IntegerParameter(1))><Case(1)>'흑와단'</Case><Case(2)>'쌍사당'</Case><Case(3)>'불멸대'</Case></Switch>에서는 이러한 장비를 지속적으로 생산하고 있습니다.
+10,TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018,"우리 '흑와단'에서는 이러한 장비를 지속적으로 생산하고 있습니다.
 계급이 원사 이상인 분이라면 군표를 내고 장비를 받으실 수 있습니다."

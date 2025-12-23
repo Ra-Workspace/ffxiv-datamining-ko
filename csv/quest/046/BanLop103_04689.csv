@@ -1,103 +1,101 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANLOP103_04689_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANLOP103_04689_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 희망찬 화물실에 있는 매니징웨이는 화폐의 유통을 도와주길 바라는 듯하다."
-1,"TEXT_BANLOP103_04689_SEQ_01","당근관에 있는 모아모아 레포릿과 대화"
-2,"TEXT_BANLOP103_04689_SEQ_02","매니징웨이에게 의뢰받은 물품 납품"
-3,"TEXT_BANLOP103_04689_SEQ_03",""
-4,"TEXT_BANLOP103_04689_SEQ_04",""
-5,"TEXT_BANLOP103_04689_SEQ_05",""
-6,"TEXT_BANLOP103_04689_SEQ_06",""
-7,"TEXT_BANLOP103_04689_SEQ_07",""
-8,"TEXT_BANLOP103_04689_SEQ_08",""
-9,"TEXT_BANLOP103_04689_SEQ_09",""
-10,"TEXT_BANLOP103_04689_SEQ_10",""
-11,"TEXT_BANLOP103_04689_SEQ_11",""
-12,"TEXT_BANLOP103_04689_SEQ_12",""
-13,"TEXT_BANLOP103_04689_SEQ_13",""
-14,"TEXT_BANLOP103_04689_SEQ_14",""
-15,"TEXT_BANLOP103_04689_SEQ_15",""
-16,"TEXT_BANLOP103_04689_SEQ_16",""
-17,"TEXT_BANLOP103_04689_SEQ_17",""
-18,"TEXT_BANLOP103_04689_SEQ_18",""
-19,"TEXT_BANLOP103_04689_SEQ_19",""
-20,"TEXT_BANLOP103_04689_SEQ_20",""
-21,"TEXT_BANLOP103_04689_SEQ_21",""
-22,"TEXT_BANLOP103_04689_SEQ_22",""
-23,"TEXT_BANLOP103_04689_SEQ_23",""
-24,"TEXT_BANLOP103_04689_TODO_00","당근관에 있는 모아모아 레포릿과 대화"
-25,"TEXT_BANLOP103_04689_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>매니징웨이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANLOP103_04689_TODO_02",""
-27,"TEXT_BANLOP103_04689_TODO_03",""
-28,"TEXT_BANLOP103_04689_TODO_04",""
-29,"TEXT_BANLOP103_04689_TODO_05",""
-30,"TEXT_BANLOP103_04689_TODO_06",""
-31,"TEXT_BANLOP103_04689_TODO_07",""
-32,"TEXT_BANLOP103_04689_TODO_08",""
-33,"TEXT_BANLOP103_04689_TODO_09",""
-34,"TEXT_BANLOP103_04689_TODO_10",""
-35,"TEXT_BANLOP103_04689_TODO_11",""
-36,"TEXT_BANLOP103_04689_TODO_12",""
-37,"TEXT_BANLOP103_04689_TODO_13",""
-38,"TEXT_BANLOP103_04689_TODO_14",""
-39,"TEXT_BANLOP103_04689_TODO_15",""
-40,"TEXT_BANLOP103_04689_TODO_16",""
-41,"TEXT_BANLOP103_04689_TODO_17",""
-42,"TEXT_BANLOP103_04689_TODO_18",""
-43,"TEXT_BANLOP103_04689_TODO_19",""
-44,"TEXT_BANLOP103_04689_TODO_20",""
-45,"TEXT_BANLOP103_04689_TODO_21",""
-46,"TEXT_BANLOP103_04689_TODO_22",""
-47,"TEXT_BANLOP103_04689_TODO_23",""
-48,"TEXT_BANLOP103_04689_MANAGINGWAY_000_000","<Highlight>ObjectParameter(1)</Highlight> 님,
+1,TEXT_BANLOP103_04689_SEQ_01,당근관에 있는 모아모아 레포릿과 대화
+2,TEXT_BANLOP103_04689_SEQ_02,매니징웨이에게 의뢰받은 물품 납품
+3,TEXT_BANLOP103_04689_SEQ_03,
+4,TEXT_BANLOP103_04689_SEQ_04,
+5,TEXT_BANLOP103_04689_SEQ_05,
+6,TEXT_BANLOP103_04689_SEQ_06,
+7,TEXT_BANLOP103_04689_SEQ_07,
+8,TEXT_BANLOP103_04689_SEQ_08,
+9,TEXT_BANLOP103_04689_SEQ_09,
+10,TEXT_BANLOP103_04689_SEQ_10,
+11,TEXT_BANLOP103_04689_SEQ_11,
+12,TEXT_BANLOP103_04689_SEQ_12,
+13,TEXT_BANLOP103_04689_SEQ_13,
+14,TEXT_BANLOP103_04689_SEQ_14,
+15,TEXT_BANLOP103_04689_SEQ_15,
+16,TEXT_BANLOP103_04689_SEQ_16,
+17,TEXT_BANLOP103_04689_SEQ_17,
+18,TEXT_BANLOP103_04689_SEQ_18,
+19,TEXT_BANLOP103_04689_SEQ_19,
+20,TEXT_BANLOP103_04689_SEQ_20,
+21,TEXT_BANLOP103_04689_SEQ_21,
+22,TEXT_BANLOP103_04689_SEQ_22,
+23,TEXT_BANLOP103_04689_SEQ_23,
+24,TEXT_BANLOP103_04689_TODO_00,당근관에 있는 모아모아 레포릿과 대화
+25,TEXT_BANLOP103_04689_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANLOP103_04689_TODO_02,
+27,TEXT_BANLOP103_04689_TODO_03,
+28,TEXT_BANLOP103_04689_TODO_04,
+29,TEXT_BANLOP103_04689_TODO_05,
+30,TEXT_BANLOP103_04689_TODO_06,
+31,TEXT_BANLOP103_04689_TODO_07,
+32,TEXT_BANLOP103_04689_TODO_08,
+33,TEXT_BANLOP103_04689_TODO_09,
+34,TEXT_BANLOP103_04689_TODO_10,
+35,TEXT_BANLOP103_04689_TODO_11,
+36,TEXT_BANLOP103_04689_TODO_12,
+37,TEXT_BANLOP103_04689_TODO_13,
+38,TEXT_BANLOP103_04689_TODO_14,
+39,TEXT_BANLOP103_04689_TODO_15,
+40,TEXT_BANLOP103_04689_TODO_16,
+41,TEXT_BANLOP103_04689_TODO_17,
+42,TEXT_BANLOP103_04689_TODO_18,
+43,TEXT_BANLOP103_04689_TODO_19,
+44,TEXT_BANLOP103_04689_TODO_20,
+45,TEXT_BANLOP103_04689_TODO_21,
+46,TEXT_BANLOP103_04689_TODO_22,
+47,TEXT_BANLOP103_04689_TODO_23,
+48,TEXT_BANLOP103_04689_MANAGINGWAY_000_000,"Player Player 님,
 코이닝웨이가 발행한 당근화 덕분에
 달의 경제권이 미치는 영향력이 점점 확대되고 있습니다."
-49,"TEXT_BANLOP103_04689_MANAGINGWAY_000_001","이 기세를 몰아 경제를 더욱 더 발전시키기 위해서는
+49,TEXT_BANLOP103_04689_MANAGINGWAY_000_001,"이 기세를 몰아 경제를 더욱 더 발전시키기 위해서는
 코인 생산을 늘려야 한다는 결론이 나왔어요.
 하지만 코인 제작에는 위조 방지를 위한 고급 기술이 필요해요."
-50,"TEXT_BANLOP103_04689_MANAGINGWAY_000_002","그래서 실력 좋은 장인이신 당신이 도와주셨으면 해요.
+50,TEXT_BANLOP103_04689_MANAGINGWAY_000_002,"그래서 실력 좋은 장인이신 당신이 도와주셨으면 해요.
 물건을 모아 당근관에 쌓아 두고 있는 레포릿이 있으니
 그에게 말을 걸어 코인 증산에 협력해 주세요!"
-51,"TEXT_BANLOP103_04689_LOPORRIT04689_000_010","코인 증산을 도와주려고 왔어?
+51,TEXT_BANLOP103_04689_LOPORRIT04689_000_010,"코인 증산을 도와주려고 왔어?
 이 일은 실력이 좋은 장인이 아니면 못하니까
 네가 협력해주면 정말 고맙지!"
-52,"TEXT_BANLOP103_04689_LOPORRIT04689_000_011","그럼 이 재료로 '<Sheet(Item,38857,0)/>'인
+52,TEXT_BANLOP103_04689_LOPORRIT04689_000_011,"그럼 이 재료로 ''인
 정밀한 금형을 만들어줬으면 해!"
-53,"TEXT_BANLOP103_04689_LOPORRIT04689_000_012","그럼 이 재료로 '<Sheet(Item,38857,0)/>'인
+53,TEXT_BANLOP103_04689_LOPORRIT04689_000_012,"그럼 이 재료로 ''인
 마무리용 연마포를 만들어줬으면 해!"
-54,"TEXT_BANLOP103_04689_LOPORRIT04689_000_013","그럼 이 재료로 '<Sheet(Item,38857,0)/>'인
+54,TEXT_BANLOP103_04689_LOPORRIT04689_000_013,"그럼 이 재료로 ''인
 마무리용 연마제를 만들어줬으면 해!"
-55,"TEXT_BANLOP103_04689_LOPORRIT04689_000_014","혹시 재료가 떨어지면
+55,TEXT_BANLOP103_04689_LOPORRIT04689_000_014,"혹시 재료가 떨어지면
 내가 모아 놓은 재료를 줄게.
 완성하면 '매니징웨이'에게 줘!"
-56,"TEXT_BANLOP103_04689_LOPORRIT04689_000_020","또 재료가 필요해?
+56,TEXT_BANLOP103_04689_LOPORRIT04689_000_020,"또 재료가 필요해?
 ……앗, 벌써 갖고 있구나.
 물건을 모으는 건 내가 하는 일인데!"
-57,"TEXT_BANLOP103_04689_LOPORRIT04689_000_021","또 재료가 필요해?
+57,TEXT_BANLOP103_04689_LOPORRIT04689_000_021,"또 재료가 필요해?
 ……앗, 벌써 갖고 있구나.
 물건을 모으는 건 내가 하는 일인데!"
-58,"TEXT_BANLOP103_04689_LOPORRIT04689_000_022","또 재료가 필요해?
+58,TEXT_BANLOP103_04689_LOPORRIT04689_000_022,"또 재료가 필요해?
 ……앗, 벌써 갖고 있구나.
 물건을 모으는 건 내가 하는 일인데!"
-59,"TEXT_BANLOP103_04689_LOPORRIT04689_000_023","재료는 내가 많이 모아놨어!
+59,TEXT_BANLOP103_04689_LOPORRIT04689_000_023,"재료는 내가 많이 모아놨어!
 자, 유용하게 써줘."
-60,"TEXT_BANLOP103_04689_LOPORRIT04689_000_024","재료는 내가 많이 모아놨어!
+60,TEXT_BANLOP103_04689_LOPORRIT04689_000_024,"재료는 내가 많이 모아놨어!
 자, 유용하게 써줘."
-61,"TEXT_BANLOP103_04689_LOPORRIT04689_000_025","재료는 내가 많이 모아놨어!
+61,TEXT_BANLOP103_04689_LOPORRIT04689_000_025,"재료는 내가 많이 모아놨어!
 자, 유용하게 써줘."
-62,"TEXT_BANLOP103_04689_MANAGINGWAY_000_030","돌아오셨군요!
-'<Sheet(Item,38857,0)/>'<13>FF0F02280BFF054974656DF297C90103FF04EB8A94FF04EC9D80</13> 만드셨나요……?"
-63,"TEXT_BANLOP103_04689_MANAGINGWAY_000_031","감사합니다!
+62,TEXT_BANLOP103_04689_MANAGINGWAY_000_030,"돌아오셨군요!
+'' 만드셨나요……?"
+63,TEXT_BANLOP103_04689_MANAGINGWAY_000_031,"감사합니다!
 그럼 제가 코이닝웨이에게 전달할 테니……
 여기 답례를 받아주세요!"
-64,"TEXT_BANLOP103_04689_MANAGINGWAY_000_032","……코인 제작을 도와주고 보상으로 코인을 받는 것이
+64,TEXT_BANLOP103_04689_MANAGINGWAY_000_032,"……코인 제작을 도와주고 보상으로 코인을 받는 것이
 이상하다고요?"
-65,"TEXT_BANLOP103_04689_MANAGINGWAY_000_033","통화량이 늘면 화폐의 신용도도 높아질 거예요.
+65,TEXT_BANLOP103_04689_MANAGINGWAY_000_033,"통화량이 늘면 화폐의 신용도도 높아질 거예요.
 그럼 거래할 수 있는 물건도 늘어나서
 당신도 손해보진 않을 거랍니다!"
-66,"TEXT_BANLOP103_04689_MANAGINGWAY_000_034","물론 코인을 너무 많이 만들어버리면
+66,TEXT_BANLOP103_04689_MANAGINGWAY_000_034,"물론 코인을 너무 많이 만들어버리면
 가치가 폭락할 위험이 있지만……
 그런 건 적절하게 제가 조절할 테니 안심하세요!"

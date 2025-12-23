@@ -1,181 +1,179 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANMAM006_05260_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANMAM006_05260_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 고크골마 농원에 있는 루보쟈는 쉬려던 참인 듯하다."
-1,"TEXT_BANMAM006_05260_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+1,TEXT_BANMAM006_05260_SEQ_01,"※ 이 퀘스트에는
+ '**** 레벨 보정(직업 변경 제한)' 적용됩니다.
    퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
 
 루보쟈와 대화했다. 새로운 요리를 시식하기 위해 고크골마 농원에 있는 '볼츠테이'와 대화하자."
-2,"TEXT_BANMAM006_05260_SEQ_02","볼츠테이와 대화하고 시식을 마쳤다. 고크골마 농원에 있는 '루보쟈'와 대화하자."
-3,"TEXT_BANMAM006_05260_SEQ_03","루보쟈와 대화했다. 고크골마 농원에서 밭을 살펴보고 있는 '앙기르'와 대화하자."
-4,"TEXT_BANMAM006_05260_SEQ_04","루보쟈와 앙기르는 고크골마 농원에 협력해 준 것에 대해 다시 감사를 표했다. 마무크가 활기를 띠게 되자, 고향을 떠났던 마무쟈족들도 속속 돌아오고 있다고 한다. 고크골마 농원은 마무크에서 많은 사람들이 협력한 증표로서 발전해 나갈 것이다. 앞으로도 고크골마 농원을 통해 마무크에 사는 마무쟈족의 미래를 지켜봐 주자."
-5,"TEXT_BANMAM006_05260_SEQ_05",""
-6,"TEXT_BANMAM006_05260_SEQ_06",""
-7,"TEXT_BANMAM006_05260_SEQ_07",""
-8,"TEXT_BANMAM006_05260_SEQ_08",""
-9,"TEXT_BANMAM006_05260_SEQ_09",""
-10,"TEXT_BANMAM006_05260_SEQ_10",""
-11,"TEXT_BANMAM006_05260_SEQ_11",""
-12,"TEXT_BANMAM006_05260_SEQ_12",""
-13,"TEXT_BANMAM006_05260_SEQ_13",""
-14,"TEXT_BANMAM006_05260_SEQ_14",""
-15,"TEXT_BANMAM006_05260_SEQ_15",""
-16,"TEXT_BANMAM006_05260_SEQ_16",""
-17,"TEXT_BANMAM006_05260_SEQ_17",""
-18,"TEXT_BANMAM006_05260_SEQ_18",""
-19,"TEXT_BANMAM006_05260_SEQ_19",""
-20,"TEXT_BANMAM006_05260_SEQ_20",""
-21,"TEXT_BANMAM006_05260_SEQ_21",""
-22,"TEXT_BANMAM006_05260_SEQ_22",""
-23,"TEXT_BANMAM006_05260_SEQ_23",""
-24,"TEXT_BANMAM006_05260_TODO_00","볼츠테이와 대화"
-25,"TEXT_BANMAM006_05260_TODO_01","루보쟈와 대화"
-26,"TEXT_BANMAM006_05260_TODO_02","앙기르와 대화"
-27,"TEXT_BANMAM006_05260_TODO_03",""
-28,"TEXT_BANMAM006_05260_TODO_04",""
-29,"TEXT_BANMAM006_05260_TODO_05",""
-30,"TEXT_BANMAM006_05260_TODO_06",""
-31,"TEXT_BANMAM006_05260_TODO_07",""
-32,"TEXT_BANMAM006_05260_TODO_08",""
-33,"TEXT_BANMAM006_05260_TODO_09",""
-34,"TEXT_BANMAM006_05260_TODO_10",""
-35,"TEXT_BANMAM006_05260_TODO_11",""
-36,"TEXT_BANMAM006_05260_TODO_12",""
-37,"TEXT_BANMAM006_05260_TODO_13",""
-38,"TEXT_BANMAM006_05260_TODO_14",""
-39,"TEXT_BANMAM006_05260_TODO_15",""
-40,"TEXT_BANMAM006_05260_TODO_16",""
-41,"TEXT_BANMAM006_05260_TODO_17",""
-42,"TEXT_BANMAM006_05260_TODO_18",""
-43,"TEXT_BANMAM006_05260_TODO_19",""
-44,"TEXT_BANMAM006_05260_TODO_20",""
-45,"TEXT_BANMAM006_05260_TODO_21",""
-46,"TEXT_BANMAM006_05260_TODO_22",""
-47,"TEXT_BANMAM006_05260_TODO_23",""
-48,"TEXT_BANMAM006_05260_RUVOLLJA_000_000","<Highlight>ObjectParameter(1)</Highlight>, 마침 잘 왔어.
+2,TEXT_BANMAM006_05260_SEQ_02,볼츠테이와 대화하고 시식을 마쳤다. 고크골마 농원에 있는 '루보쟈'와 대화하자.
+3,TEXT_BANMAM006_05260_SEQ_03,루보쟈와 대화했다. 고크골마 농원에서 밭을 살펴보고 있는 '앙기르'와 대화하자.
+4,TEXT_BANMAM006_05260_SEQ_04,"루보쟈와 앙기르는 고크골마 농원에 협력해 준 것에 대해 다시 감사를 표했다. 마무크가 활기를 띠게 되자, 고향을 떠났던 마무쟈족들도 속속 돌아오고 있다고 한다. 고크골마 농원은 마무크에서 많은 사람들이 협력한 증표로서 발전해 나갈 것이다. 앞으로도 고크골마 농원을 통해 마무크에 사는 마무쟈족의 미래를 지켜봐 주자."
+5,TEXT_BANMAM006_05260_SEQ_05,
+6,TEXT_BANMAM006_05260_SEQ_06,
+7,TEXT_BANMAM006_05260_SEQ_07,
+8,TEXT_BANMAM006_05260_SEQ_08,
+9,TEXT_BANMAM006_05260_SEQ_09,
+10,TEXT_BANMAM006_05260_SEQ_10,
+11,TEXT_BANMAM006_05260_SEQ_11,
+12,TEXT_BANMAM006_05260_SEQ_12,
+13,TEXT_BANMAM006_05260_SEQ_13,
+14,TEXT_BANMAM006_05260_SEQ_14,
+15,TEXT_BANMAM006_05260_SEQ_15,
+16,TEXT_BANMAM006_05260_SEQ_16,
+17,TEXT_BANMAM006_05260_SEQ_17,
+18,TEXT_BANMAM006_05260_SEQ_18,
+19,TEXT_BANMAM006_05260_SEQ_19,
+20,TEXT_BANMAM006_05260_SEQ_20,
+21,TEXT_BANMAM006_05260_SEQ_21,
+22,TEXT_BANMAM006_05260_SEQ_22,
+23,TEXT_BANMAM006_05260_SEQ_23,
+24,TEXT_BANMAM006_05260_TODO_00,볼츠테이와 대화
+25,TEXT_BANMAM006_05260_TODO_01,루보쟈와 대화
+26,TEXT_BANMAM006_05260_TODO_02,앙기르와 대화
+27,TEXT_BANMAM006_05260_TODO_03,
+28,TEXT_BANMAM006_05260_TODO_04,
+29,TEXT_BANMAM006_05260_TODO_05,
+30,TEXT_BANMAM006_05260_TODO_06,
+31,TEXT_BANMAM006_05260_TODO_07,
+32,TEXT_BANMAM006_05260_TODO_08,
+33,TEXT_BANMAM006_05260_TODO_09,
+34,TEXT_BANMAM006_05260_TODO_10,
+35,TEXT_BANMAM006_05260_TODO_11,
+36,TEXT_BANMAM006_05260_TODO_12,
+37,TEXT_BANMAM006_05260_TODO_13,
+38,TEXT_BANMAM006_05260_TODO_14,
+39,TEXT_BANMAM006_05260_TODO_15,
+40,TEXT_BANMAM006_05260_TODO_16,
+41,TEXT_BANMAM006_05260_TODO_17,
+42,TEXT_BANMAM006_05260_TODO_18,
+43,TEXT_BANMAM006_05260_TODO_19,
+44,TEXT_BANMAM006_05260_TODO_20,
+45,TEXT_BANMAM006_05260_TODO_21,
+46,TEXT_BANMAM006_05260_TODO_22,
+47,TEXT_BANMAM006_05260_TODO_23,
+48,TEXT_BANMAM006_05260_RUVOLLJA_000_000,"Player Player, 마침 잘 왔어.
 지금 시간 돼?"
-49,"TEXT_BANMAM006_05260_RUVOLLJA_000_001","볼츠테이에게 초대를 받았거든.
+49,TEXT_BANMAM006_05260_RUVOLLJA_000_001,"볼츠테이에게 초대를 받았거든.
 새로운 요리를 또 개발했으니 시식해 달라나.
 잠깐 쉴 겸 당신도 같이 가보는 게 어때?"
-50,"TEXT_BANMAM006_05260_RUVOLLJA_000_002","（★未使用／削除予定★）"
-51,"TEXT_BANMAM006_05260_RUVOLLJA_000_003","좋아, 그럼 가보자!
+50,TEXT_BANMAM006_05260_RUVOLLJA_000_002,（★未使用／削除予定★）
+51,TEXT_BANMAM006_05260_RUVOLLJA_000_003,"좋아, 그럼 가보자!
 '볼츠테이'는 평소처럼 식당에 있을 거야."
-52,"TEXT_BANMAM006_05260_RUVOLLJA_000_010","여기도 제법 북적북적해졌지?
+52,TEXT_BANMAM006_05260_RUVOLLJA_000_010,"여기도 제법 북적북적해졌지?
 요새는 마무크 밖에서도 사람들이 찾아올 때가 있어."
-53,"TEXT_BANMAM006_05260_BOLTSTEI_000_020","오, <Highlight>ObjectParameter(1)</Highlight>도 함께 와줬군.
+53,TEXT_BANMAM006_05260_BOLTSTEI_000_020,"오, Player Player도 함께 와줬군.
 비어 있는 자리 아무 데나 편하게 앉도록 해."
-54,"TEXT_BANMAM006_05260_RUVOLLJA_000_021","네, 고맙습니다.
+54,TEXT_BANMAM006_05260_RUVOLLJA_000_021,"네, 고맙습니다.
 어디 보자, 편한 자리가……."
-55,"TEXT_BANMAM006_05260_TYATROH_100_021","앗, <Highlight>ObjectParameter(1)</Highlight><13>FF07022903EB0203FF04EB9E91FF07EC9DB4EB9E91</13> 루보쟈잖아!
+55,TEXT_BANMAM006_05260_TYATROH_100_021,"앗, Player Player 루보쟈잖아!
 두 사람도 와 있었구나!"
-56,"TEXT_BANMAM006_05260_TYATROH_000_022","음~ 맛있는 냄새!
+56,TEXT_BANMAM006_05260_TYATROH_000_022,"음~ 맛있는 냄새!
 볼츠테이 할아버지, 티카 셀바스 하나 주세요!"
-57,"TEXT_BANMAM006_05260_RRALVAW_000_023","이 멍청아, 지금은 물건을 전달하러 잠깐 들른 거잖아.
+57,TEXT_BANMAM006_05260_RRALVAW_000_023,"이 멍청아, 지금은 물건을 전달하러 잠깐 들른 거잖아.
 우린 지금 순찰을 돌아야 한다는 걸 잊지 말라고."
-58,"TEXT_BANMAM006_05260_TYATROH_000_024","엥~ 티카 셀바스쯤은 순식간에 해치울 수 있는데…….
+58,TEXT_BANMAM006_05260_TYATROH_000_024,"엥~ 티카 셀바스쯤은 순식간에 해치울 수 있는데…….
 할 수 없지, 순찰 뒤에 즐기기로 하고 지금은 참아야겠네."
-59,"TEXT_BANMAM006_05260_TYATROH_000_025","（★未使用／削除予定★）"
-60,"TEXT_BANMAM006_05260_RUVOLLJA_000_026","（★未使用／削除予定★）"
-61,"TEXT_BANMAM006_05260_TYATROH_000_027","（★未使用／削除予定★）"
-62,"TEXT_BANMAM006_05260_RRALVAW_000_028","（★未使用／削除予定★）"
-63,"TEXT_BANMAM006_05260_TYATROH_000_029","그럼 가 볼게요~!
+59,TEXT_BANMAM006_05260_TYATROH_000_025,（★未使用／削除予定★）
+60,TEXT_BANMAM006_05260_RUVOLLJA_000_026,（★未使用／削除予定★）
+61,TEXT_BANMAM006_05260_TYATROH_000_027,（★未使用／削除予定★）
+62,TEXT_BANMAM006_05260_RRALVAW_000_028,（★未使用／削除予定★）
+63,TEXT_BANMAM006_05260_TYATROH_000_029,"그럼 가 볼게요~!
 순찰을 마치고 돌아가는 길에 들를게요~!"
-64,"TEXT_BANMAM006_05260_RUVOLLJA_000_030","지금 봤다시피 이크브라샤의 젊은이들이
+64,TEXT_BANMAM006_05260_RUVOLLJA_000_030,"지금 봤다시피 이크브라샤의 젊은이들이
 부담 없이 들렀다 가는 곳이 되었어.
 옛날 같았으면 상상도 못 했을 일이지."
-65,"TEXT_BANMAM006_05260_RUVOLLJA_000_031","그럼 이제 우리도 앉아 볼까……"
-66,"TEXT_BANMAM006_05260_TULIYOLLALMAM05260_000_032","저기, 루보쟈!
+65,TEXT_BANMAM006_05260_RUVOLLJA_000_031,그럼 이제 우리도 앉아 볼까……
+66,TEXT_BANMAM006_05260_TULIYOLLALMAM05260_000_032,"저기, 루보쟈!
 다음에 심을 작물 때문에 상의할 게 있는데!
 잠깐 이쪽으로 와줄래?"
-67,"TEXT_BANMAM006_05260_RUVOLLJA_000_033","미안, 잠깐 다녀올게!"
-68,"TEXT_BANMAM006_05260_BOLTSTEI_000_034","보다시피 사람들이 루보쟈를 가만두질 않아.
+67,TEXT_BANMAM006_05260_RUVOLLJA_000_033,"미안, 잠깐 다녀올게!"
+68,TEXT_BANMAM006_05260_BOLTSTEI_000_034,"보다시피 사람들이 루보쟈를 가만두질 않아.
 너무 고생하는 것 같아서 시식을 핑계로
 식사나 하고 가라고 불렀는데…… 이마저도 쉽지 않네."
-69,"TEXT_BANMAM006_05260_BOLTSTEI_000_035","（★未使用／削除予定★）"
-70,"TEXT_BANMAM006_05260_RUVOLLJA_000_036","미안, 내가 같이 오자고 해놓고. 많이 기다렸지?"
-71,"TEXT_BANMAM006_05260_BOLTSTEI_000_037","시식할 때만큼은 잠깐 일을 내려놓고 편히 먹고 가.
+69,TEXT_BANMAM006_05260_BOLTSTEI_000_035,（★未使用／削除予定★）
+70,TEXT_BANMAM006_05260_RUVOLLJA_000_036,"미안, 내가 같이 오자고 해놓고. 많이 기다렸지?"
+71,TEXT_BANMAM006_05260_BOLTSTEI_000_037,"시식할 때만큼은 잠깐 일을 내려놓고 편히 먹고 가.
 새로운 비장의 요리를 3개 정도 개발했으니
 자, 이 중에서 골라 봐."
-72,"TEXT_BANMAM006_05260_Q1_100_000","무엇을 주문하시겠습니까?"
-73,"TEXT_BANMAM006_05260_A1_100_001","밀림의 은혜 샐러드"
-74,"TEXT_BANMAM006_05260_A1_100_002","챠이챠를 푹 끓인 수프"
-75,"TEXT_BANMAM006_05260_A1_100_003","정체불명 전골"
-76,"TEXT_BANMAM006_05260_BOLTSTEI_100_037","갓 수확한 3가지 채소가 들어간 샐러드인데, 투랄에서 재배한
+72,TEXT_BANMAM006_05260_Q1_100_000,무엇을 주문하시겠습니까?
+73,TEXT_BANMAM006_05260_A1_100_001,밀림의 은혜 샐러드
+74,TEXT_BANMAM006_05260_A1_100_002,챠이챠를 푹 끓인 수프
+75,TEXT_BANMAM006_05260_A1_100_003,정체불명 전골
+76,TEXT_BANMAM006_05260_BOLTSTEI_100_037,"갓 수확한 3가지 채소가 들어간 샐러드인데, 투랄에서 재배한
 식용 곡물 퀴노아를 듬뿍 뿌리고 훈제 생선을 곁들였지.
 이 샐러드만 하나만 먹어도 배가 든든해서 한끼 식사로 충분할 거다."
-77,"TEXT_BANMAM006_05260_BOLTSTEI_110_037","농원에서 수확한 토마토와 양파를 주재료로
+77,TEXT_BANMAM006_05260_BOLTSTEI_110_037,"농원에서 수확한 토마토와 양파를 주재료로
 챠이챠 고기가 야들야들해질 때까지 끓인 스튜다.
 직접 만든 향신료를 아낌없이 사용해서 특유의 잡내를 잡았지."
-78,"TEXT_BANMAM006_05260_BOLTSTEI_120_037","호오…… 그걸 고르다니 용기가 가상하군.
+78,TEXT_BANMAM006_05260_BOLTSTEI_120_037,"호오…… 그걸 고르다니 용기가 가상하군.
 재료와 제작법은 굳이 말하지 않으마.
 일단 먹어 보거라."
-79,"TEXT_BANMAM006_05260_BOLTSTEI_130_037","자, 시식 시작!"
-80,"TEXT_BANMAM006_05260_SYSTEM_140_037","밀림의 은혜 샐러드를 단숨에 다 먹었다!
+79,TEXT_BANMAM006_05260_BOLTSTEI_130_037,"자, 시식 시작!"
+80,TEXT_BANMAM006_05260_SYSTEM_140_037,"밀림의 은혜 샐러드를 단숨에 다 먹었다!
 신선한 채소와 고소한 훈제 생선이 너무나 잘 어울리고
 톡톡 터지는 곡물의 식감도 좋다!"
-81,"TEXT_BANMAM006_05260_SYSTEM_150_037","챠이챠를 푹 끓인 수프를 싹싹 비웠다!
+81,TEXT_BANMAM006_05260_SYSTEM_150_037,"챠이챠를 푹 끓인 수프를 싹싹 비웠다!
 뭉근하게 끓인 고기는 입안에서 사르르 녹아 사라졌고,
 국물이 걸쭉하고 진해서 또 먹고 싶어질 맛이다!"
-82,"TEXT_BANMAM006_05260_SYSTEM_160_037","각오를 단단히 하고 정체불명 전골을 입에 넣었다.
-그 맛은 흡사 <Switch(PlayerParameter(71))><Case(1)>바닥을 알 수 없는 독늪</Case><Case(2)>사령이 떠도는 폐가</Case><Case(3)>황금으로 빛나는 이상향</Case><Case(4)>잿더미만 남은 불탄 평원</Case><Case(5)>분화구에서 펄펄 끓는 용암</Case><Case(6)>모든 것이 얼어붙은 극한의 땅</Case><Case(7)>사방이 온통 모래뿐인 사막</Case><Case(8)>허무</Case></Switch>……
-다 먹고 나서 <Switch(PlayerParameter(71))><Case(1)>왜 이걸 골랐을까 후회했다</Case><Case(2)>왜 이걸 골랐을까 후회했다</Case><Case(3)>이걸 고른 자신이 자랑스럽게 느껴졌다</Case><Case(4)>왜 이걸 골랐을까 후회했다</Case><Case(5)>왜 이걸 골랐을까 후회했다</Case><Case(6)>왜 이걸 골랐을까 후회했다</Case><Case(7)>왜 이걸 골랐을까 후회했다</Case><Case(8)>왜 이걸 골랐을까 후회했다</Case></Switch>."
-83,"TEXT_BANMAM006_05260_BOLTSTEI_170_037","소감은 말하지 않아도 알겠다. 둘 다 얼굴에 쓰여 있거든.
+82,TEXT_BANMAM006_05260_SYSTEM_160_037,"각오를 단단히 하고 정체불명 전골을 입에 넣었다.
+그 맛은 흡사 바닥을 알 수 없는 독늪……
+다 먹고 나서 왜 이걸 골랐을까 후회했다."
+83,TEXT_BANMAM006_05260_BOLTSTEI_170_037,"소감은 말하지 않아도 알겠다. 둘 다 얼굴에 쓰여 있거든.
 언젠가 정식 메뉴로 제공할 예정이니,
 또 먹고 싶거든 여기로 오거라."
-84,"TEXT_BANMAM006_05260_BOLTSTEI_000_040","（★未使用／削除予定★）"
-85,"TEXT_BANMAM006_05260_RUVOLLJA_000_050","아무튼 창작 요리에 쏟아붓는 볼츠테이의 의욕은
+84,TEXT_BANMAM006_05260_BOLTSTEI_000_040,（★未使用／削除予定★）
+85,TEXT_BANMAM006_05260_RUVOLLJA_000_050,"아무튼 창작 요리에 쏟아붓는 볼츠테이의 의욕은
 참으로 존경스럽다니까."
-86,"TEXT_BANMAM006_05260_RUVOLLJA_000_051","이 식당을 찾는 사람들을 보고 있으면,
+86,TEXT_BANMAM006_05260_RUVOLLJA_000_051,"이 식당을 찾는 사람들을 보고 있으면,
 이제 마무크에서 식사는 '생존을 위한 것'에서
 '즐길거리 중 하나'로 바뀌고 있다는 걸 실감하게 돼."
-87,"TEXT_BANMAM006_05260_RUVOLLJA_000_052","이건 원래 목표로 하던 변혁과는 다를 수도 있겠지만,
+87,TEXT_BANMAM006_05260_RUVOLLJA_000_052,"이건 원래 목표로 하던 변혁과는 다를 수도 있겠지만,
 기쁜 일이라고 생각해."
-88,"TEXT_BANMAM006_05260_RUVOLLJA_000_053","아, 난 이제 '앙기르'한테 가려고 해.
+88,TEXT_BANMAM006_05260_RUVOLLJA_000_053,"아, 난 이제 '앙기르'한테 가려고 해.
 시간이 나면 상의하고 싶은 게 있다고 하더라고.
 괜찮으면 당신도 같이 가 줄래?"
-89,"TEXT_BANMAM006_05260_RUVOLLJA_000_060","앙기르의 지식이 없었다면 이 농원을 시작하지 못했겠지.
+89,TEXT_BANMAM006_05260_RUVOLLJA_000_060,"앙기르의 지식이 없었다면 이 농원을 시작하지 못했겠지.
 정말 고마운 마음뿐이야."
-90,"TEXT_BANMAM006_05260_ANGGIR_000_070","어머, <Highlight>ObjectParameter(1)</Highlight> 씨.
+90,TEXT_BANMAM006_05260_ANGGIR_000_070,"어머, Player Player 씨.
 당신도 와 줘서 얘기가 빠르겠네."
-91,"TEXT_BANMAM006_05260_ANGGIR_000_071","덕분에 오늘도 고크골마 농원은 잘 돌아가고 있어.
+91,TEXT_BANMAM006_05260_ANGGIR_000_071,"덕분에 오늘도 고크골마 농원은 잘 돌아가고 있어.
 투랄 전체의 농업 협동 조직인 '투랄 농업 협동 조합'에서도
 정식으로 가입하지 않겠냐는 권유를 받았지 뭐야."
-92,"TEXT_BANMAM006_05260_ANGGIR_100_071","도시 밖 사람들도 관심을 가지게 됐으니까……
+92,TEXT_BANMAM006_05260_ANGGIR_100_071,"도시 밖 사람들도 관심을 가지게 됐으니까……
 내가 여기에 왔을 당시의 목적은 달성했다고 봐도 되겠지.
 그래서 난 이제 새로운 길을 걷고자 해."
-93,"TEXT_BANMAM006_05260_RUVOLLJA_000_072","설마 샬레이안으로 돌아갈 생각이야……!?"
-94,"TEXT_BANMAM006_05260_ANGGIR_000_073","어머, 내가 오해하게 말했나 보네.
+93,TEXT_BANMAM006_05260_RUVOLLJA_000_072,설마 샬레이안으로 돌아갈 생각이야……!?
+94,TEXT_BANMAM006_05260_ANGGIR_000_073,"어머, 내가 오해하게 말했나 보네.
 내가 가져온 모든 종자의 재배에 성공했으니까
 이제는 품종 개량에 도전해 봤으면 하고……."
-95,"TEXT_BANMAM006_05260_ANGGIR_110_073","지금보다 맛도 좋고, 영양가도 높고, 수확량도 많은
+95,TEXT_BANMAM006_05260_ANGGIR_110_073,"지금보다 맛도 좋고, 영양가도 높고, 수확량도 많은
 그런 작물이 생긴다면 고크골마 농원도 명성을 얻을 테고
 마무크에도 더욱 활기가 돌 것 아냐?"
-96,"TEXT_BANMAM006_05260_RUVOLLJA_000_074","（★未使用／削除予定★）"
-97,"TEXT_BANMAM006_05260_RUVOLLJA_000_075","그럼, 물론이지!
+96,TEXT_BANMAM006_05260_RUVOLLJA_000_074,（★未使用／削除予定★）
+97,TEXT_BANMAM006_05260_RUVOLLJA_000_075,"그럼, 물론이지!
 이 농원의 성공은 마무크의 변화를 알리고
 툴라이욜라로 이주한 사람들을 돌아오게 해주었어."
-98,"TEXT_BANMAM006_05260_RUVOLLJA_000_076","이곳 마무크가……
+98,TEXT_BANMAM006_05260_RUVOLLJA_000_076,"이곳 마무크가……
 우리 마무쟈족의 사랑하는 고향이라고
 자신 있게 말할 수 있게 된 거야."
-99,"TEXT_BANMAM006_05260_RUVOLLJA_000_077","정말 고마워!
+99,TEXT_BANMAM006_05260_RUVOLLJA_000_077,"정말 고마워!
 두 사람이 도와준 덕분이야."
-100,"TEXT_BANMAM006_05260_ANGGIR_000_078","（★未使用／削除予定★）"
-101,"TEXT_BANMAM006_05260_RUVOLLJA_000_079","（★未使用／削除予定★）"
-102,"TEXT_BANMAM006_05260_RUVOLLJA_000_080","（★未使用／削除予定★）"
-103,"TEXT_BANMAM006_05260_RUVOLLJA_000_081","<Highlight>ObjectParameter(1)</Highlight>,
+100,TEXT_BANMAM006_05260_ANGGIR_000_078,（★未使用／削除予定★）
+101,TEXT_BANMAM006_05260_RUVOLLJA_000_079,（★未使用／削除予定★）
+102,TEXT_BANMAM006_05260_RUVOLLJA_000_080,（★未使用／削除予定★）
+103,TEXT_BANMAM006_05260_RUVOLLJA_000_081,"Player Player,
 난 앞으로도 앙기르와 함께 새로운 도전을 시작할 거야.
 그러니까 또 도와주러 와줘!"
-104,"TEXT_BANMAM006_05260_ANGGIR_000_082","그래, 언제든지 기다리고 있을게.
+104,TEXT_BANMAM006_05260_ANGGIR_000_082,"그래, 언제든지 기다리고 있을게.
 그리고 언젠가 당신도 깜짝 놀랄 정도로
 훌륭한 농원을 만들 테니까 꼭 지켜봐 줬으면 해."
-105,"TEXT_BANMAM006_05260_SYSTEM_000_100","'고크골마 농원'과의 우호 관계가
+105,TEXT_BANMAM006_05260_SYSTEM_000_100,"'고크골마 농원'과의 우호 관계가
 '맹약'으로 바뀌었습니다.
 수많은 일을 도우면서 신뢰를 얻은 듯합니다."
-106,"TEXT_BANMAM006_05260_SYSTEM_000_101","앞으로 '고크골마 농원'의
+106,TEXT_BANMAM006_05260_SYSTEM_000_101,"앞으로 '고크골마 농원'의
 '우호부족 일일 퀘스트'로 획득하는
 경험치 보상이 더욱 증가합니다."
-107,"TEXT_BANMAM006_05260_SYSTEM_100_101","또 '베루쟈'에게서 구입할 수 있는
+107,TEXT_BANMAM006_05260_SYSTEM_100_101,"또 '베루쟈'에게서 구입할 수 있는
 아이템이 늘어났습니다.
 앞으로 모험에 활용해 보세요!"

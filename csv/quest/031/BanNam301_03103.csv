@@ -1,150 +1,137 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANNAM301_03103_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANNAM301_03103_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 ※ 이 퀘스트는 퀘스트 수락 시점의 클래스로만 진행할 수 있습니다.
 
 도로 일로에 있는 광풍원 세이게츠는 어쩐지 초조한 듯하다."
-1,"TEXT_BANNAM301_03103_SEQ_01","온살 하카이르에 있는 착실한 나마즈오와 대화"
-2,"TEXT_BANNAM301_03103_SEQ_02","온살 하카이르에 있는 착실한 나마즈오에게 의뢰받은 물건을 납품"
-3,"TEXT_BANNAM301_03103_SEQ_03","광풍원 세이게츠에게 보고"
-4,"TEXT_BANNAM301_03103_SEQ_04",""
-5,"TEXT_BANNAM301_03103_SEQ_05",""
-6,"TEXT_BANNAM301_03103_SEQ_06",""
-7,"TEXT_BANNAM301_03103_SEQ_07",""
-8,"TEXT_BANNAM301_03103_SEQ_08",""
-9,"TEXT_BANNAM301_03103_SEQ_09",""
-10,"TEXT_BANNAM301_03103_SEQ_10",""
-11,"TEXT_BANNAM301_03103_SEQ_11",""
-12,"TEXT_BANNAM301_03103_SEQ_12",""
-13,"TEXT_BANNAM301_03103_SEQ_13",""
-14,"TEXT_BANNAM301_03103_SEQ_14",""
-15,"TEXT_BANNAM301_03103_SEQ_15",""
-16,"TEXT_BANNAM301_03103_SEQ_16",""
-17,"TEXT_BANNAM301_03103_SEQ_17",""
-18,"TEXT_BANNAM301_03103_SEQ_18",""
-19,"TEXT_BANNAM301_03103_SEQ_19",""
-20,"TEXT_BANNAM301_03103_SEQ_20",""
-21,"TEXT_BANNAM301_03103_SEQ_21",""
-22,"TEXT_BANNAM301_03103_SEQ_22",""
-23,"TEXT_BANNAM301_03103_SEQ_23",""
-24,"TEXT_BANNAM301_03103_TODO_00","온살 하카이르에 있는 착실한 나마즈오와 대화"
-25,"TEXT_BANNAM301_03103_TODO_01","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>몰 일로 동쪽 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>몰 일로 남동쪽 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>하크 칼에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>온살 하카이르의 착실한 나마즈오에게 
-<Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
-26,"TEXT_BANNAM301_03103_TODO_02","광풍원 세이게츠에게 보고"
-27,"TEXT_BANNAM301_03103_TODO_03",""
-28,"TEXT_BANNAM301_03103_TODO_04",""
-29,"TEXT_BANNAM301_03103_TODO_05",""
-30,"TEXT_BANNAM301_03103_TODO_06",""
-31,"TEXT_BANNAM301_03103_TODO_07",""
-32,"TEXT_BANNAM301_03103_TODO_08",""
-33,"TEXT_BANNAM301_03103_TODO_09",""
-34,"TEXT_BANNAM301_03103_TODO_10",""
-35,"TEXT_BANNAM301_03103_TODO_11",""
-36,"TEXT_BANNAM301_03103_TODO_12",""
-37,"TEXT_BANNAM301_03103_TODO_13",""
-38,"TEXT_BANNAM301_03103_TODO_14",""
-39,"TEXT_BANNAM301_03103_TODO_15",""
-40,"TEXT_BANNAM301_03103_TODO_16",""
-41,"TEXT_BANNAM301_03103_TODO_17",""
-42,"TEXT_BANNAM301_03103_TODO_18",""
-43,"TEXT_BANNAM301_03103_TODO_19",""
-44,"TEXT_BANNAM301_03103_TODO_20",""
-45,"TEXT_BANNAM301_03103_TODO_21",""
-46,"TEXT_BANNAM301_03103_TODO_22",""
-47,"TEXT_BANNAM301_03103_TODO_23",""
-48,"TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_000","거 참…… 도대체 어디서 무얼 하고 있는지.
+1,TEXT_BANNAM301_03103_SEQ_01,온살 하카이르에 있는 착실한 나마즈오와 대화
+2,TEXT_BANNAM301_03103_SEQ_02,온살 하카이르에 있는 착실한 나마즈오에게 의뢰받은 물건을 납품
+3,TEXT_BANNAM301_03103_SEQ_03,광풍원 세이게츠에게 보고
+4,TEXT_BANNAM301_03103_SEQ_04,
+5,TEXT_BANNAM301_03103_SEQ_05,
+6,TEXT_BANNAM301_03103_SEQ_06,
+7,TEXT_BANNAM301_03103_SEQ_07,
+8,TEXT_BANNAM301_03103_SEQ_08,
+9,TEXT_BANNAM301_03103_SEQ_09,
+10,TEXT_BANNAM301_03103_SEQ_10,
+11,TEXT_BANNAM301_03103_SEQ_11,
+12,TEXT_BANNAM301_03103_SEQ_12,
+13,TEXT_BANNAM301_03103_SEQ_13,
+14,TEXT_BANNAM301_03103_SEQ_14,
+15,TEXT_BANNAM301_03103_SEQ_15,
+16,TEXT_BANNAM301_03103_SEQ_16,
+17,TEXT_BANNAM301_03103_SEQ_17,
+18,TEXT_BANNAM301_03103_SEQ_18,
+19,TEXT_BANNAM301_03103_SEQ_19,
+20,TEXT_BANNAM301_03103_SEQ_20,
+21,TEXT_BANNAM301_03103_SEQ_21,
+22,TEXT_BANNAM301_03103_SEQ_22,
+23,TEXT_BANNAM301_03103_SEQ_23,
+24,TEXT_BANNAM301_03103_TODO_00,온살 하카이르에 있는 착실한 나마즈오와 대화
+25,TEXT_BANNAM301_03103_TODO_01,제작수첩 우호부족 퀘스트: 제작
+26,TEXT_BANNAM301_03103_TODO_02,광풍원 세이게츠에게 보고
+27,TEXT_BANNAM301_03103_TODO_03,
+28,TEXT_BANNAM301_03103_TODO_04,
+29,TEXT_BANNAM301_03103_TODO_05,
+30,TEXT_BANNAM301_03103_TODO_06,
+31,TEXT_BANNAM301_03103_TODO_07,
+32,TEXT_BANNAM301_03103_TODO_08,
+33,TEXT_BANNAM301_03103_TODO_09,
+34,TEXT_BANNAM301_03103_TODO_10,
+35,TEXT_BANNAM301_03103_TODO_11,
+36,TEXT_BANNAM301_03103_TODO_12,
+37,TEXT_BANNAM301_03103_TODO_13,
+38,TEXT_BANNAM301_03103_TODO_14,
+39,TEXT_BANNAM301_03103_TODO_15,
+40,TEXT_BANNAM301_03103_TODO_16,
+41,TEXT_BANNAM301_03103_TODO_17,
+42,TEXT_BANNAM301_03103_TODO_18,
+43,TEXT_BANNAM301_03103_TODO_19,
+44,TEXT_BANNAM301_03103_TODO_20,
+45,TEXT_BANNAM301_03103_TODO_21,
+46,TEXT_BANNAM301_03103_TODO_22,
+47,TEXT_BANNAM301_03103_TODO_23,
+48,TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_000,"거 참…… 도대체 어디서 무얼 하고 있는지.
 축제 의상의 재료를 조달해달라고 부탁한 자가
 영 돌아오지 않는다."
-49,"TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_001","이 몸은 문명적인 일이 쌓여서 이곳을 비울 수 없어.
+49,TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_001,"이 몸은 문명적인 일이 쌓여서 이곳을 비울 수 없어.
 미안하지만, 상황을 확인하고 혹시 문제가 생긴 것 같으면
 해결을 위해 도와주지 않겠나?"
-50,"TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_002","재료 조달을 부탁한 '착실한 나마즈오'는 몰족의 거류지로 향했다.
+50,TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_002,"재료 조달을 부탁한 '착실한 나마즈오'는 몰족의 거류지로 향했다.
 몰 일로 부근에서 녀석을 찾아 사정을 들어봐다오."
-51,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_010","으윽…… 너무 곤란하담메…….
+51,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_010,"으윽…… 너무 곤란하담메…….
 어떡하면 좋암메……."
-52,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_011","……으메메!?
+52,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_011,"……으메메!?
 옆에 있었다면 말을 걸람메, 깜짝 놀랐담메!"
-53,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_012","……실은 몰족 사람에게
+53,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_012,"……실은 몰족 사람에게
 축제 의상 재료를 받기로 약속되어 있었담메.
 그래서 교환할 물건을 갖고 왔는데……."
-54,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_013","별안간 돌진해온 긴털들소에게 밟히는 바람에
+54,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_013,"별안간 돌진해온 긴털들소에게 밟히는 바람에
 물건이 엉망이 되었담메!"
-55,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_014","별안간 날아온 욜 무리가 낚아채 가는 바람에
+55,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_014,"별안간 날아온 욜 무리가 낚아채 가는 바람에
 물건을 잃어버렸담메!"
-56,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_015","갑자기 쫓아온 부두가족으로부터 도망치다가
+56,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_015,"갑자기 쫓아온 부두가족으로부터 도망치다가
 물건을 떨어뜨려서 잃어버렸담메!"
-57,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_016","어떻게든 새로운 교역품을 만들고자 하는데
+57,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_016,"어떻게든 새로운 교역품을 만들고자 하는데
 나 혼자서는 지느러미가 턱없이 부족해서……
 날 좀 도와주기 바란담메!"
-58,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_017","'<Sheet(Item,22725,0)/>'<13>FF0F02280BFF054974656DF258C50103FF04EBA19CFF07EC9CBCEBA19C</13> 금속제 못을 준비해줬음 한담메.
+58,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_017,"'' 금속제 못을 준비해줬음 한담메.
 내 옆에 있는 상자에 필요한 재료가 있으니
 모험가님 손으로 만들어줬음 좋겠담메."
-59,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_018","'<Sheet(Item,22725,0)/>'<13>FF0F02280BFF054974656DF258C50103FF04EBA19CFF07EC9CBCEBA19C</13> 두툼한 원단을 준비해줬음 한담메.
+59,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_018,"'' 두툼한 원단을 준비해줬음 한담메.
 내 옆에 있는 상자에 필요한 재료가 있으니
 모험가님 손으로 만들어줬음 좋겠담메."
-60,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_019","'<Sheet(Item,22725,0)/>'<13>FF0F02280BFF054974656DF258C50103FF04EBA19CFF07EC9CBCEBA19C</13> 윤활유를 준비해줬음 한담메.
+60,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_019,"'' 윤활유를 준비해줬음 한담메.
 내 옆에 있는 상자에 필요한 재료가 있으니
 모험가님 손으로 만들어줬음 좋겠담메."
-61,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_020","그런데 교역품을 만드는 데 '<Sheet(Item,22621,0)/>'<13>FF0F02280BFF054974656DF2585D0103FF04EAB080FF04EC9DB4</13> 부족하담메.
+61,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_020,"그런데 교역품을 만드는 데 '' 부족하담메.
 몰 일로 동쪽 일대에서 구할 수 있으니
 3개만 모아오람메!"
-62,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_021","그런데 교역품을 만드는 데 '<Sheet(Item,22647,0)/>'<13>FF0F02280BFF054974656DF258770103FF04EAB080FF04EC9DB4</13> 부족하담메.
+62,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_021,"그런데 교역품을 만드는 데 '' 부족하담메.
 몰 일로 남동쪽 일대에서 구할 수 있으니
 3개만 모아오람메!"
-63,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_022","그런데 교역품을 만드는 데 '<Sheet(Item,22673,0)/>'<13>FF0F02280BFF054974656DF258910103FF04EAB080FF04EC9DB4</13> 부족하담메.
+63,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_022,"그런데 교역품을 만드는 데 '' 부족하담메.
 '하크 칼'에 있으니
-<Sheet(Item,20613,0)/><13>FF0F02280BFF054974656DF250850103FF04EBA5BCFF04EC9D84</13> 사용해서 낚아오람메!"
-64,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_023","부탁한 물건이 준비되면 나한테 전달해주기 바란담메.
+ 사용해서 낚아오람메!"
+64,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_023,"부탁한 물건이 준비되면 나한테 전달해주기 바란담메.
 협력 잘 부탁한담메!"
-65,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_024","혹시 재료가 부족한감메?
+65,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_024,"혹시 재료가 부족한감메?
 내 옆에 있는 상자에 필요한 재료는 있으니
 모험가님이 만들어줬음 좋겠담메."
-66,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_025","혹시 재료가 부족한감메?
+66,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_025,"혹시 재료가 부족한감메?
 내 옆에 있는 상자에 필요한 재료는 있으니
 모험가님이 만들어줬음 좋겠담메."
-67,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_026","혹시 재료가 부족한감메?
+67,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_026,"혹시 재료가 부족한감메?
 내 옆에 있는 상자에 필요한 재료는 있으니
 모험가님이 만들어줬음 좋겠담메."
-68,"TEXT_BANNAM301_03103_SYSTEM_000_027","재료가 들어있는 상자가 있다.
+68,TEXT_BANNAM301_03103_SYSTEM_000_027,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-69,"TEXT_BANNAM301_03103_SYSTEM_000_028","재료가 들어있는 상자가 있다.
+69,TEXT_BANNAM301_03103_SYSTEM_000_028,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-70,"TEXT_BANNAM301_03103_SYSTEM_000_029","재료가 들어있는 상자가 있다.
+70,TEXT_BANNAM301_03103_SYSTEM_000_029,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-71,"TEXT_BANNAM301_03103_SYSTEM_000_030","재료가 들어있는 상자가 있다.
+71,TEXT_BANNAM301_03103_SYSTEM_000_030,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-72,"TEXT_BANNAM301_03103_SYSTEM_000_031","상자에서 필요한 재료를 꺼냈다!"
-73,"TEXT_BANNAM301_03103_SYSTEM_000_032","상자에서 필요한 재료를 꺼냈다!"
-74,"TEXT_BANNAM301_03103_SYSTEM_000_033","상자에서 필요한 재료를 꺼냈다!"
-75,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_034","부탁한 물건은 알려준 장소에서 모을 수 있을 거담메.
+72,TEXT_BANNAM301_03103_SYSTEM_000_031,상자에서 필요한 재료를 꺼냈다!
+73,TEXT_BANNAM301_03103_SYSTEM_000_032,상자에서 필요한 재료를 꺼냈다!
+74,TEXT_BANNAM301_03103_SYSTEM_000_033,상자에서 필요한 재료를 꺼냈다!
+75,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_034,"부탁한 물건은 알려준 장소에서 모을 수 있을 거담메.
 협력 잘 부탁한담메!"
-76,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_035","부탁한 물건은 알려준 장소에서 모을 수 있을 거담메.
+76,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_035,"부탁한 물건은 알려준 장소에서 모을 수 있을 거담메.
 협력 잘 부탁한담메!"
-77,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_036","부탁한 물건은 알려준 장소에서 모을 수 있을 거담메.
+77,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_036,"부탁한 물건은 알려준 장소에서 모을 수 있을 거담메.
 협력 잘 부탁한담메!"
-78,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_040","어땠음메, 잘 되었남메!?"
-79,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_041","이거 정말 다행이담메!
+78,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_040,"어땠음메, 잘 되었남메!?"
+79,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_041,"이거 정말 다행이담메!
 마무리는 나 혼자서도 할 수 있을 것 같담메!"
-80,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_042","완성되면 내가 책임지고 몰족에게 전달할 테니
+80,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_042,"완성되면 내가 책임지고 몰족에게 전달할 테니
 '광풍원 세이게츠'한테 잘 전해달람메!"
-81,"TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_043","완성되면 내가 책임지고 몰족에게 전달할 테니
+81,TEXT_BANNAM301_03103_DAILYNAMAZUO03103_000_043,"완성되면 내가 책임지고 몰족에게 전달할 테니
 '광풍원 세이게츠'한테 잘 전해달람메!"
-82,"TEXT_BANNAM301_03103_KOFUINSEIGETSU_100_050","녀석은 찾았나?"
-83,"TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_050","거 참…… 내 그럴 줄 알았다.
+82,TEXT_BANNAM301_03103_KOFUINSEIGETSU_100_050,녀석은 찾았나?
+83,TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_050,"거 참…… 내 그럴 줄 알았다.
 예상했던 대로였군."
-84,"TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_051","녀석은 성실하지만 매우 운이 나쁜 녀석이라서 말이지.
+84,TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_051,"녀석은 성실하지만 매우 운이 나쁜 녀석이라서 말이지.
 그게 일족을 멸망의 길로 이끌지도 모른다."
-85,"TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_052","귀군이 상황을 보고 온 덕에 일이 무사히 끝났다는 건
+85,TEXT_BANNAM301_03103_KOFUINSEIGETSU_000_052,"귀군이 상황을 보고 온 덕에 일이 무사히 끝났다는 건
 일족의 미래에 있어 좋은 일임에 틀림없다.
 ……아마도, 말이야."

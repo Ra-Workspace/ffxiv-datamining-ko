@@ -1,114 +1,112 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANIXA402_01499_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANIXA402_01499_SEQ_00,"**특수 규칙:  레벨 보정**
 ※ 이 퀘스트의 권장 레벨은 ""제작자 클래스 10, 전투 클래스 47 이상""입니다.
 
 에카틀 실험장의 학구열 넘치는 타젤 메예안은 모험가에게 중요한 의뢰를 하려는 것 같다."
-1,"TEXT_BANIXA402_01499_SEQ_01","※ 이 퀘스트에는 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정<13>FF2A024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA095FF04EAB080FF04EC9DB4</13>
+1,TEXT_BANIXA402_01499_SEQ_01,"※ 이 퀘스트에는 **** 레벨 보정
  적용됩니다.
 
-학구열 넘치는 타젤 메예안이 <Sheet(ItemHQ,　8106,0)/> 제작을 의뢰했다. 재료와 교환할 물건을 마련하기 위해, 광부가 되어 평온의 정원 서쪽 광맥에서 <Sheet(EventItem,2001391,0)/> 15개, <Sheet(EventItem,2001392,0)/> 5개를 채굴하자."
-2,"TEXT_BANIXA402_01499_SEQ_02","<Sheet(EventItem,2001391,0)/><13>FF15022811FF0A4576656E744974656DF61E89EF0103FF04EC9980FF04EAB3BC</13> <Sheet(EventItem,2001392,0)/><13>FF15022811FF0A4576656E744974656DF61E89F00103FF04EBA5BCFF04EC9D84</13> 채굴했다. 가을박 마을에 있는 '독립계 교역상인'에게 교환을 제의하자."
-3,"TEXT_BANIXA402_01499_SEQ_03","독립계 교역상인에게 <Sheet(EventItem,2001390,0)/><13>FF15022811FF0A4576656E744974656DF61E89EE0103FF04EBA5BCFF04EC9D84</13> 받았다. 가을박 마을 '둥둥 뜬 코르크 여관'에 있는 '힐데야드'에게 <Sheet(EventItem,2001390,0)/><13>FF15022811FF0A4576656E744974656DF61E89EE0103FF04EBA5BCFF04EC9D84</13> 건네고 제작시설 사용 허가를 받자."
-4,"TEXT_BANIXA402_01499_SEQ_04","제작시설을 사용할 준비가 끝났다. <Sheet(Item,　8067,0)/><14>FF15022811FF054974656DFF08E38080383036370103FF04EBA19CFF07EC9CBCEBA19C</14> <Sheet(ItemHQ,　8106,0)/><13>FF17022813FF074974656D4851FF08E38080383130360103FF04EBA5BCFF04EC9D84</13> 4개 제작하여 에카틀 실험장에 있는 '학구열 넘치는 타젤 메예안'에게 납품하자.
+학구열 넘치는 타젤 메예안이  제작을 의뢰했다. 재료와 교환할 물건을 마련하기 위해, 광부가 되어 평온의 정원 서쪽 광맥에서  15개,  5개를 채굴하자."
+2,TEXT_BANIXA402_01499_SEQ_02,  채굴했다. 가을박 마을에 있는 '독립계 교역상인'에게 교환을 제의하자.
+3,TEXT_BANIXA402_01499_SEQ_03,독립계 교역상인에게  받았다. 가을박 마을 '둥둥 뜬 코르크 여관'에 있는 '힐데야드'에게  건네고 제작시설 사용 허가를 받자.
+4,TEXT_BANIXA402_01499_SEQ_04,"제작시설을 사용할 준비가 끝났다.   4개 제작하여 에카틀 실험장에 있는 '학구열 넘치는 타젤 메예안'에게 납품하자.
 
-※ 강화 효과 '제작시설: 고급제작'이 끝나거나 <Sheet(Item,　8067,0)/><13>FF15022811FF054974656DFF08E38080383036370103FF04EBA5BCFF04EC9D84</13> 잃어버렸을 때에는 힐데야드에게 말을 걸어주세요. 강화 효과와 재료를 다시 받아서 재도전할 수 있습니다."
-5,"TEXT_BANIXA402_01499_SEQ_05","학구열 넘치는 타젤 메예안에게 <Sheet(ItemHQ,　8106,0)/><13>FF17022813FF074974656D4851FF08E38080383130360103FF04EBA5BCFF04EC9D84</13> 납품했다. 그는 훌륭한 완성도에 감탄하며 모험가의 빼어난 가공 숙련도를 크게 칭찬했다. 학구열 넘치는 타젤 메예안의 천재적 발상을 뒷받침할 정도의 실력이 있으니, 적어도 장인으로 먹고살 걱정은 안 해도 될 것 같다."
-6,"TEXT_BANIXA402_01499_SEQ_06",""
-7,"TEXT_BANIXA402_01499_SEQ_07",""
-8,"TEXT_BANIXA402_01499_SEQ_08",""
-9,"TEXT_BANIXA402_01499_SEQ_09",""
-10,"TEXT_BANIXA402_01499_SEQ_10",""
-11,"TEXT_BANIXA402_01499_SEQ_11",""
-12,"TEXT_BANIXA402_01499_SEQ_12",""
-13,"TEXT_BANIXA402_01499_SEQ_13",""
-14,"TEXT_BANIXA402_01499_SEQ_14",""
-15,"TEXT_BANIXA402_01499_SEQ_15",""
-16,"TEXT_BANIXA402_01499_SEQ_16",""
-17,"TEXT_BANIXA402_01499_SEQ_17",""
-18,"TEXT_BANIXA402_01499_SEQ_18",""
-19,"TEXT_BANIXA402_01499_SEQ_19",""
-20,"TEXT_BANIXA402_01499_SEQ_20",""
-21,"TEXT_BANIXA402_01499_SEQ_21",""
-22,"TEXT_BANIXA402_01499_SEQ_22",""
-23,"TEXT_BANIXA402_01499_SEQ_23",""
-24,"TEXT_BANIXA402_01499_TODO_00","광부가 되어 평온의 정원 서쪽 광맥에서
- <Sheet(EventItem,2001391,0)/> 채굴"
-25,"TEXT_BANIXA402_01499_TODO_01","광부가 되어 평온의 정원 서쪽 광맥에서
- <Sheet(EventItem,2001392,0)/> 채굴"
-26,"TEXT_BANIXA402_01499_TODO_02","가을박 마을에서 독립계 교역상인에게 <Sheet(EventItem,2001391,0)/> 및
- <Sheet(EventItem,2001392,0)/> 전달"
-27,"TEXT_BANIXA402_01499_TODO_03","가을박 마을에서 힐데야드에게 <Sheet(EventItem,2001390,0)/> 전달"
-28,"TEXT_BANIXA402_01499_TODO_04","<If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트 레벨 10：<Sheet(ItemHQ,　8106,0)/> 제작<Else/>학구열 넘치는 타젤 메예안에게 <Sheet(ItemHQ,　8106,0)/> 납품</If>"
-29,"TEXT_BANIXA402_01499_TODO_05",""
-30,"TEXT_BANIXA402_01499_TODO_06",""
-31,"TEXT_BANIXA402_01499_TODO_07",""
-32,"TEXT_BANIXA402_01499_TODO_08",""
-33,"TEXT_BANIXA402_01499_TODO_09",""
-34,"TEXT_BANIXA402_01499_TODO_10",""
-35,"TEXT_BANIXA402_01499_TODO_11",""
-36,"TEXT_BANIXA402_01499_TODO_12",""
-37,"TEXT_BANIXA402_01499_TODO_13",""
-38,"TEXT_BANIXA402_01499_TODO_14",""
-39,"TEXT_BANIXA402_01499_TODO_15",""
-40,"TEXT_BANIXA402_01499_TODO_16",""
-41,"TEXT_BANIXA402_01499_TODO_17",""
-42,"TEXT_BANIXA402_01499_TODO_18",""
-43,"TEXT_BANIXA402_01499_TODO_19",""
-44,"TEXT_BANIXA402_01499_TODO_20",""
-45,"TEXT_BANIXA402_01499_TODO_21",""
-46,"TEXT_BANIXA402_01499_TODO_22",""
-47,"TEXT_BANIXA402_01499_TODO_23",""
-48,"TEXT_BANIXA402_01499_TAZELMEYEAN_000_010","야, 고품질 <Sheet(ItemHQ,　8106,0)/> 4개만 만들어와!
+※ 강화 효과 '제작시설: 고급제작'이 끝나거나  잃어버렸을 때에는 힐데야드에게 말을 걸어주세요. 강화 효과와 재료를 다시 받아서 재도전할 수 있습니다."
+5,TEXT_BANIXA402_01499_SEQ_05,"학구열 넘치는 타젤 메예안에게  납품했다. 그는 훌륭한 완성도에 감탄하며 모험가의 빼어난 가공 숙련도를 크게 칭찬했다. 학구열 넘치는 타젤 메예안의 천재적 발상을 뒷받침할 정도의 실력이 있으니, 적어도 장인으로 먹고살 걱정은 안 해도 될 것 같다."
+6,TEXT_BANIXA402_01499_SEQ_06,
+7,TEXT_BANIXA402_01499_SEQ_07,
+8,TEXT_BANIXA402_01499_SEQ_08,
+9,TEXT_BANIXA402_01499_SEQ_09,
+10,TEXT_BANIXA402_01499_SEQ_10,
+11,TEXT_BANIXA402_01499_SEQ_11,
+12,TEXT_BANIXA402_01499_SEQ_12,
+13,TEXT_BANIXA402_01499_SEQ_13,
+14,TEXT_BANIXA402_01499_SEQ_14,
+15,TEXT_BANIXA402_01499_SEQ_15,
+16,TEXT_BANIXA402_01499_SEQ_16,
+17,TEXT_BANIXA402_01499_SEQ_17,
+18,TEXT_BANIXA402_01499_SEQ_18,
+19,TEXT_BANIXA402_01499_SEQ_19,
+20,TEXT_BANIXA402_01499_SEQ_20,
+21,TEXT_BANIXA402_01499_SEQ_21,
+22,TEXT_BANIXA402_01499_SEQ_22,
+23,TEXT_BANIXA402_01499_SEQ_23,
+24,TEXT_BANIXA402_01499_TODO_00,"광부가 되어 평온의 정원 서쪽 광맥에서
+  채굴"
+25,TEXT_BANIXA402_01499_TODO_01,"광부가 되어 평온의 정원 서쪽 광맥에서
+  채굴"
+26,TEXT_BANIXA402_01499_TODO_02,"가을박 마을에서 독립계 교역상인에게  및
+  전달"
+27,TEXT_BANIXA402_01499_TODO_03,가을박 마을에서 힐데야드에게  전달
+28,TEXT_BANIXA402_01499_TODO_04,제작수첩 우호부족 퀘스트 레벨 10： 제작
+29,TEXT_BANIXA402_01499_TODO_05,
+30,TEXT_BANIXA402_01499_TODO_06,
+31,TEXT_BANIXA402_01499_TODO_07,
+32,TEXT_BANIXA402_01499_TODO_08,
+33,TEXT_BANIXA402_01499_TODO_09,
+34,TEXT_BANIXA402_01499_TODO_10,
+35,TEXT_BANIXA402_01499_TODO_11,
+36,TEXT_BANIXA402_01499_TODO_12,
+37,TEXT_BANIXA402_01499_TODO_13,
+38,TEXT_BANIXA402_01499_TODO_14,
+39,TEXT_BANIXA402_01499_TODO_15,
+40,TEXT_BANIXA402_01499_TODO_16,
+41,TEXT_BANIXA402_01499_TODO_17,
+42,TEXT_BANIXA402_01499_TODO_18,
+43,TEXT_BANIXA402_01499_TODO_19,
+44,TEXT_BANIXA402_01499_TODO_20,
+45,TEXT_BANIXA402_01499_TODO_21,
+46,TEXT_BANIXA402_01499_TODO_22,
+47,TEXT_BANIXA402_01499_TODO_23,
+48,TEXT_BANIXA402_01499_TAZELMEYEAN_000_010,"야, 고품질  4개만 만들어와!
 완벽한 가공 숙련도로 좌현 에테르 날개 골격을 만들어줘 키잇!
 에테르 날개의 성능을 좌우할 중요한 물건이다 키잇!"
-49,"TEXT_BANIXA402_01499_TAZELMEYEAN_000_020","야, 고품질 <Sheet(ItemHQ,　8106,0)/> 4개만 만들어와!
+49,TEXT_BANIXA402_01499_TAZELMEYEAN_000_020,"야, 고품질  4개만 만들어와!
 좌현에 바를 고전도율 에테르 도료를 완벽하게 조제해줘 키잇!
 에테르 날개의 성능을 좌우할 중요한 물건이다 키잇!"
-50,"TEXT_BANIXA402_01499_TAZELMEYEAN_000_030","야, 고품질 <Sheet(ItemHQ,　8106,0)/> 4개만 만들어와!
+50,TEXT_BANIXA402_01499_TAZELMEYEAN_000_030,"야, 고품질  4개만 만들어와!
 완벽한 가공 숙련도로 좌현용 에테르 피막을 만들어줘 키잇!
 에테르 날개의 성능을 좌우할 중요한 물건이다 키잇!"
-51,"TEXT_BANIXA402_01499_TAZELMEYEAN_000_040","이 몸이 고안한 천재적 설계는 완벽 그 자체 키잇!
+51,TEXT_BANIXA402_01499_TAZELMEYEAN_000_040,"이 몸이 고안한 천재적 설계는 완벽 그 자체 키잇!
 그러나 여러 번 시험해보고 그 완벽조차도 뛰어넘을 거다 키잇!
 그러려면 당연히 부재도 왕창 필요하지 키잇!"
-52,"TEXT_BANIXA402_01499_TAZELMEYEAN_000_041","재료는 건방진 꼬맹이 빽을 써서 준비해놨다 키잇!
+52,TEXT_BANIXA402_01499_TAZELMEYEAN_000_041,"재료는 건방진 꼬맹이 빽을 써서 준비해놨다 키잇!
 가을박 마을에 있는 '독립계 교역상인'한테 받아내라 키잇!
 제작시설에 대해서도 그 인간한테 물어봐 키잇!"
-53,"TEXT_BANIXA402_01499_TAZELMEYEAN_000_042","그 상인은 건방지게도 물물교환만 해준다는군 키잇!
-<Sheet(EventItem,2001391,0)/> 15개랑 <Sheet(EventItem,2001392,0)/> 5개면 된다고 했다 키잇.
+53,TEXT_BANIXA402_01499_TAZELMEYEAN_000_042,"그 상인은 건방지게도 물물교환만 해준다는군 키잇!
+ 15개랑  5개면 된다고 했다 키잇.
 평온의 정원 서쪽에서 채굴해가라 키잇!"
-54,"TEXT_BANIXA402_01499_TAZELMEYEAN_000_050","내가 원하는 건 고품질 <Sheet(ItemHQ,　8106,0)/> 4개다 키잇!
+54,TEXT_BANIXA402_01499_TAZELMEYEAN_000_050,"내가 원하는 건 고품질  4개다 키잇!
 이 몸의 천재적 두뇌가 요구하는 품질을 감당할 수 있을까 키잇?
 끼히히히히힛!"
-55,"TEXT_BANIXA402_01499_MINER_000_060","제게 무슨 볼일이시죠……?
+55,TEXT_BANIXA402_01499_MINER_000_060,"제게 무슨 볼일이시죠……?
 아, 타타라무 님이 말씀하셨던 분이군요!
 교환할 물건은 가지고 오셨나요?"
-56,"TEXT_BANIXA402_01499_MINER_000_061","훌륭하군요!
+56,TEXT_BANIXA402_01499_MINER_000_061,"훌륭하군요!
 무늬도 아름답고 크기도 실하고, 아주 좋은 화강암입니다.
 그럼 약속한 물건을 가져가십시오."
-57,"TEXT_BANIXA402_01499_MINER_000_062","마지막으로 제작시설에 대해 말씀드리자면……
+57,TEXT_BANIXA402_01499_MINER_000_062,"마지막으로 제작시설에 대해 말씀드리자면……
 이 마을에 있는 '힐데야드' 님에게 빌리시면 되겠습니다.
 그럼 저는 다음 거래를 하러 이만 물러나겠습니다."
-58,"TEXT_BANIXA402_01499_HILDEYERD_000_070","안~녕~하~세~요~!
-우리 <If(PlayerParameter(4))>아가씨<Else/>도련님</If> 친구, 또 만났네요~!
-여길 이용하고 싶으면~ 가져온 재료를 이 <If(PlayerParameter(4))>언니<Else/>누나</If>한테 맡겨주세요!"
-59,"TEXT_BANIXA402_01499_HILDEYERD_000_071","어머나, 많이도 가져왔네요?
+58,TEXT_BANIXA402_01499_HILDEYERD_000_070,"안~녕~하~세~요~!
+우리 아가씨 친구, 또 만났네요~!
+여길 이용하고 싶으면~ 가져온 재료를 이 언니한테 맡겨주세요!"
+59,TEXT_BANIXA402_01499_HILDEYERD_000_071,"어머나, 많이도 가져왔네요?
 재료는 제작하는 데 필요한 만큼 내드릴 테니
 행여나 실패하면 언제든지 다시 재료를 받아가세요!"
-60,"TEXT_BANIXA402_01499_HILDEYERD_000_100","재료는 제작하는 데 필요한 만큼 내드릴 테니
+60,TEXT_BANIXA402_01499_HILDEYERD_000_100,"재료는 제작하는 데 필요한 만큼 내드릴 테니
 행여나 실패하면 언제든지 다시 재료를 받아가세요!"
-61,"TEXT_BANIXA402_01499_HILDEYERD_100_100","일을 다 했으면 이제 납품하러 가야 하지요~!
+61,TEXT_BANIXA402_01499_HILDEYERD_100_100,"일을 다 했으면 이제 납품하러 가야 하지요~!
 혹시 납품하러 가는 길에 만든 걸 잃어버린 경우에는
-<If(PlayerParameter(4))>언니<Else/>누나</If>한테 와서 다시 만들면 돼요!"
-62,"TEXT_BANIXA402_01499_TAZELMEYEAN_000_130","<Sheet(ItemHQ,　8106,0)/><13>FF17022813FF074974656D4851FF08E38080383130360103FF04EB8A94FF04EC9D80</13> 다 됐냐 키잇?
+언니한테 와서 다시 만들면 돼요!"
+62,TEXT_BANIXA402_01499_TAZELMEYEAN_000_130," 다 됐냐 키잇?
 좋아, 당장 이리 내 키잇!"
-63,"TEXT_BANIXA402_01499_TAZELMEYEAN_000_131","끼히히힛! 이거 완벽하구만 키잇!
+63,TEXT_BANIXA402_01499_TAZELMEYEAN_000_131,"끼히히힛! 이거 완벽하구만 키잇!
 너무 죽여줘서 나도 모르게 웃음이 나는데 키잇!
 너만 있으면 몇 번이든 마음 놓고 시험해볼 수 있겠군 키잇!"
-64,"TEXT_BANIXA402_01499_POPMESSAGE_000_200","제작할 준비가 되었습니다."
-65,"TEXT_BANIXA402_01499_SYSTEM_200_200","퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
+64,TEXT_BANIXA402_01499_POPMESSAGE_000_200,제작할 준비가 되었습니다.
+65,TEXT_BANIXA402_01499_SYSTEM_200_200,"퀘스트 수행 중에 일반 품질 아이템이 제작되었습니다.
 HQ 아이템이 아니면 퀘스트를 완료할 수 없으며 판매 불가이므로
 소지품 공간이 부족하다면 버리셔도 됩니다."
-66,"TEXT_BANIXA402_01499_SYSTEM_000_900","이 퀘스트엔 '광부' 클래스가 필요합니다.
+66,TEXT_BANIXA402_01499_SYSTEM_000_900,"이 퀘스트엔 '광부' 클래스가 필요합니다.
 광부의 '주 도구'를 갖추고 진행해주세요!"

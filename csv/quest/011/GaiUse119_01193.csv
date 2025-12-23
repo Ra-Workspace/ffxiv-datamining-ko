@@ -1,195 +1,193 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_GAIUSE119_01193_SEQ_00","모래의 집에 있는 민필리아는 모험가에게 물건 전달을 부탁하려는 듯하다."
-1,"TEXT_GAIUSE119_01193_SEQ_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 모래의 집에 있는 '민필리아'에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_GAIUSE119_01193_SEQ_00,모래의 집에 있는 민필리아는 모험가에게 물건 전달을 부탁하려는 듯하다.
+1,TEXT_GAIUSE119_01193_SEQ_01,"**이 퀘스트의 내용이 조정되었습니다. 일단 포기 후, 모래의 집에 있는 '민필리아'에게 다시 받아주십시오.**
 
 ※ 다음 주요 퀘스트는 '주요 퀘스트 가이드'에서도 확인할 수 있습니다. 주요 퀘스트 가이드의 표시/비표시는 주 메뉴의 '캐릭터 설정'에서 '사용자 인터페이스 설정'을 선택하여 변경해 주십시오."
-2,"TEXT_GAIUSE119_01193_SEQ_02","위리앙제에게 <Sheet(EventItem,2001124,0)/><13>FF15022811FF0A4576656E744974656DF61E88E40103FF04EBA5BCFF04EC9D84</13> 건넸을 때, 민필리아에게 연락이 왔다. 망자의 종소리 '일곱째 낙원'에 있는 '타타루'와 대화하자."
-3,"TEXT_GAIUSE119_01193_SEQ_03","타타루가 '돌의 집' 입구를 가르쳐주었다. 돌의 집에 있는 '민필리아'와 대화하자."
-4,"TEXT_GAIUSE119_01193_SEQ_04","새로운 보금자리를 얻은 '새벽' 동료들은 에오르제아를 구하겠다는 의지를 다시금 확인했다. 한편 민필리아는 또 다른 싸움의 징후에 고민이 많은 것 같은데……. 앞날을 대비해서 모험가로서 실력을 확실히 키워놓자."
-5,"TEXT_GAIUSE119_01193_SEQ_05",""
-6,"TEXT_GAIUSE119_01193_SEQ_06",""
-7,"TEXT_GAIUSE119_01193_SEQ_07",""
-8,"TEXT_GAIUSE119_01193_SEQ_08",""
-9,"TEXT_GAIUSE119_01193_SEQ_09",""
-10,"TEXT_GAIUSE119_01193_SEQ_10",""
-11,"TEXT_GAIUSE119_01193_SEQ_11",""
-12,"TEXT_GAIUSE119_01193_SEQ_12",""
-13,"TEXT_GAIUSE119_01193_SEQ_13",""
-14,"TEXT_GAIUSE119_01193_SEQ_14",""
-15,"TEXT_GAIUSE119_01193_SEQ_15",""
-16,"TEXT_GAIUSE119_01193_SEQ_16",""
-17,"TEXT_GAIUSE119_01193_SEQ_17",""
-18,"TEXT_GAIUSE119_01193_SEQ_18",""
-19,"TEXT_GAIUSE119_01193_SEQ_19",""
-20,"TEXT_GAIUSE119_01193_SEQ_20",""
-21,"TEXT_GAIUSE119_01193_SEQ_21",""
-22,"TEXT_GAIUSE119_01193_SEQ_22",""
-23,"TEXT_GAIUSE119_01193_SEQ_23",""
-24,"TEXT_GAIUSE119_01193_TODO_00","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
-모래의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-25,"TEXT_GAIUSE119_01193_TODO_01","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
-모래의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-26,"TEXT_GAIUSE119_01193_TODO_02","<UIForeground>F20215</UIForeground><UIGlow>F20216</UIGlow><Gui(63)/>이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
-모래의 집에 있는 민필리아에게 다시 받아주십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
-27,"TEXT_GAIUSE119_01193_TODO_03",""
-28,"TEXT_GAIUSE119_01193_TODO_04",""
-29,"TEXT_GAIUSE119_01193_TODO_05",""
-30,"TEXT_GAIUSE119_01193_TODO_06",""
-31,"TEXT_GAIUSE119_01193_TODO_07",""
-32,"TEXT_GAIUSE119_01193_TODO_08",""
-33,"TEXT_GAIUSE119_01193_TODO_09",""
-34,"TEXT_GAIUSE119_01193_TODO_10",""
-35,"TEXT_GAIUSE119_01193_TODO_11",""
-36,"TEXT_GAIUSE119_01193_TODO_12",""
-37,"TEXT_GAIUSE119_01193_TODO_13",""
-38,"TEXT_GAIUSE119_01193_TODO_14",""
-39,"TEXT_GAIUSE119_01193_TODO_15",""
-40,"TEXT_GAIUSE119_01193_TODO_16",""
-41,"TEXT_GAIUSE119_01193_TODO_17",""
-42,"TEXT_GAIUSE119_01193_TODO_18",""
-43,"TEXT_GAIUSE119_01193_TODO_19",""
-44,"TEXT_GAIUSE119_01193_TODO_20",""
-45,"TEXT_GAIUSE119_01193_TODO_21",""
-46,"TEXT_GAIUSE119_01193_TODO_22",""
-47,"TEXT_GAIUSE119_01193_TODO_23",""
-48,"TEXT_GAIUSE119_01193_MINFILIA_000_000","아씨엔 엘리디부스…… 마음에 걸리긴 하지만
+2,TEXT_GAIUSE119_01193_SEQ_02,"위리앙제에게  건넸을 때, 민필리아에게 연락이 왔다. 망자의 종소리 '일곱째 낙원'에 있는 '타타루'와 대화하자."
+3,TEXT_GAIUSE119_01193_SEQ_03,타타루가 '돌의 집' 입구를 가르쳐주었다. 돌의 집에 있는 '민필리아'와 대화하자.
+4,TEXT_GAIUSE119_01193_SEQ_04,새로운 보금자리를 얻은 '새벽' 동료들은 에오르제아를 구하겠다는 의지를 다시금 확인했다. 한편 민필리아는 또 다른 싸움의 징후에 고민이 많은 것 같은데……. 앞날을 대비해서 모험가로서 실력을 확실히 키워놓자.
+5,TEXT_GAIUSE119_01193_SEQ_05,
+6,TEXT_GAIUSE119_01193_SEQ_06,
+7,TEXT_GAIUSE119_01193_SEQ_07,
+8,TEXT_GAIUSE119_01193_SEQ_08,
+9,TEXT_GAIUSE119_01193_SEQ_09,
+10,TEXT_GAIUSE119_01193_SEQ_10,
+11,TEXT_GAIUSE119_01193_SEQ_11,
+12,TEXT_GAIUSE119_01193_SEQ_12,
+13,TEXT_GAIUSE119_01193_SEQ_13,
+14,TEXT_GAIUSE119_01193_SEQ_14,
+15,TEXT_GAIUSE119_01193_SEQ_15,
+16,TEXT_GAIUSE119_01193_SEQ_16,
+17,TEXT_GAIUSE119_01193_SEQ_17,
+18,TEXT_GAIUSE119_01193_SEQ_18,
+19,TEXT_GAIUSE119_01193_SEQ_19,
+20,TEXT_GAIUSE119_01193_SEQ_20,
+21,TEXT_GAIUSE119_01193_SEQ_21,
+22,TEXT_GAIUSE119_01193_SEQ_22,
+23,TEXT_GAIUSE119_01193_SEQ_23,
+24,TEXT_GAIUSE119_01193_TODO_00,"**이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래의 집에 있는 민필리아에게 다시 받아주십시오.**"
+25,TEXT_GAIUSE119_01193_TODO_01,"**이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래의 집에 있는 민필리아에게 다시 받아주십시오.**"
+26,TEXT_GAIUSE119_01193_TODO_02,"**이 퀘스트의 내용이 조정되었습니다. 일단 포기 후,
+모래의 집에 있는 민필리아에게 다시 받아주십시오.**"
+27,TEXT_GAIUSE119_01193_TODO_03,
+28,TEXT_GAIUSE119_01193_TODO_04,
+29,TEXT_GAIUSE119_01193_TODO_05,
+30,TEXT_GAIUSE119_01193_TODO_06,
+31,TEXT_GAIUSE119_01193_TODO_07,
+32,TEXT_GAIUSE119_01193_TODO_08,
+33,TEXT_GAIUSE119_01193_TODO_09,
+34,TEXT_GAIUSE119_01193_TODO_10,
+35,TEXT_GAIUSE119_01193_TODO_11,
+36,TEXT_GAIUSE119_01193_TODO_12,
+37,TEXT_GAIUSE119_01193_TODO_13,
+38,TEXT_GAIUSE119_01193_TODO_14,
+39,TEXT_GAIUSE119_01193_TODO_15,
+40,TEXT_GAIUSE119_01193_TODO_16,
+41,TEXT_GAIUSE119_01193_TODO_17,
+42,TEXT_GAIUSE119_01193_TODO_18,
+43,TEXT_GAIUSE119_01193_TODO_19,
+44,TEXT_GAIUSE119_01193_TODO_20,
+45,TEXT_GAIUSE119_01193_TODO_21,
+46,TEXT_GAIUSE119_01193_TODO_22,
+47,TEXT_GAIUSE119_01193_TODO_23,
+48,TEXT_GAIUSE119_01193_MINFILIA_000_000,"아씨엔 엘리디부스…… 마음에 걸리긴 하지만
 그렇다고 마냥 일을 미룰 순 없죠.
 '모래의 집'에서 할 일도 이제 한 가지뿐이에요."
-49,"TEXT_GAIUSE119_01193_MINFILIA_000_001","……여기 기록이 한 권 있어요.
+49,TEXT_GAIUSE119_01193_MINFILIA_000_001,"……여기 기록이 한 권 있어요.
 이걸 쓴 사람은 갈레말 제국 첩자로 위장해 활동하며
 알라미고 해방군에 제국 정보를 흘리던 남자…… 내 아버지예요."
-50,"TEXT_GAIUSE119_01193_MINFILIA_000_002","아버지는 임무 때문에 울다하에 왔다가
+50,TEXT_GAIUSE119_01193_MINFILIA_000_002,"아버지는 임무 때문에 울다하에 왔다가
 갑작스러운 사고로 돌아가셨죠.
 돌아가시기 직전에 나한테 이 기록을 남기셨고요."
-51,"TEXT_GAIUSE119_01193_MINFILIA_000_003","여기에는 15년 전
+51,TEXT_GAIUSE119_01193_MINFILIA_000_003,"여기에는 15년 전
 아버지와 반 제국파 세력이 모은 정보가 쓰여있어요.
 ……제국 쪽이 가진 야만신 정보도 말이죠."
-52,"TEXT_GAIUSE119_01193_MINFILIA_000_004","오래된 정보지만 앞으로 조사에 도움이 될지도 몰라요.
+52,TEXT_GAIUSE119_01193_MINFILIA_000_004,"오래된 정보지만 앞으로 조사에 도움이 될지도 몰라요.
 이걸 '모래의 집'에 남아서 야만신 조사를 이어갈
 위리앙제 씨한테 드리고 싶은데……"
-53,"TEXT_GAIUSE119_01193_MINFILIA_000_005","여기 '모래의 집'에서 마지막으로 하는 일이니까
-<Highlight>ObjectParameter(1)</Highlight>, 당신한테 부탁하고 싶어요.
+53,TEXT_GAIUSE119_01193_MINFILIA_000_005,"여기 '모래의 집'에서 마지막으로 하는 일이니까
+Player Player, 당신한테 부탁하고 싶어요.
 '모래의 집'에서 태어난 빛의 전사인 당신한테요."
-54,"TEXT_GAIUSE119_01193_MINFILIA_000_006","그럼 난 알아볼 일이 있으니까 먼저 출발할게요.
+54,TEXT_GAIUSE119_01193_MINFILIA_000_006,"그럼 난 알아볼 일이 있으니까 먼저 출발할게요.
 ……잘 부탁해요."
-55,"TEXT_GAIUSE119_01193_MINFILIA_000_007","여기 '모래의 집'에서 마지막으로 하는 일이니까
+55,TEXT_GAIUSE119_01193_MINFILIA_000_007,"여기 '모래의 집'에서 마지막으로 하는 일이니까
 당신한테 부탁하고 싶어요.
 '모래의 집'에서 태어난 빛의 전사인 당신한테요."
-56,"TEXT_GAIUSE119_01193_URIANGER_000_010","……그렇군요.
+56,TEXT_GAIUSE119_01193_URIANGER_000_010,"……그렇군요.
 민필리아가 당신에게 이 기록을 맡기리라는 생각은 했습니다.
 자, 마지막 일은 저와 당신 손으로 해냅시다……."
-57,"TEXT_GAIUSE119_01193_URIANGER_000_011","……현재를 헤매는 자는 과거의 속삭임에 귀 기울여야 하는 법.
+57,TEXT_GAIUSE119_01193_URIANGER_000_011,"……현재를 헤매는 자는 과거의 속삭임에 귀 기울여야 하는 법.
 오랜 벗이 남긴 뜻, 새로운 벗이 이루려는 뜻,
 제가 알아야 할 이야기에 이 기록을 덧붙이겠습니다."
-58,"TEXT_GAIUSE119_01193_URIANGER_000_012","자, 당신은 어서 길을 떠나세요.
+58,TEXT_GAIUSE119_01193_URIANGER_000_012,"자, 당신은 어서 길을 떠나세요.
 타타루 양이 망자의 종소리에 먼저 가 있습니다.
 그녀에게 물으면 새로운 돌의 문이 열릴 것입니다……."
-59,"TEXT_GAIUSE119_01193_MINFILIA_000_020","……들려요?
+59,TEXT_GAIUSE119_01193_MINFILIA_000_020,"……들려요?
 나예요, 민필리아."
-60,"TEXT_GAIUSE119_01193_MINFILIA_000_021","지금쯤이면 위리앙제 씨와 이야기도
+60,TEXT_GAIUSE119_01193_MINFILIA_000_021,"지금쯤이면 위리앙제 씨와 이야기도
 끝났을 것 같아서 연락했어요.
 ……'모래의 집' 마지막 일을 마쳤군요. 수고했어요."
-61,"TEXT_GAIUSE119_01193_MINFILIA_000_022","당신이 모래의 집에서 일하는 것도 이게 마지막이라니
+61,TEXT_GAIUSE119_01193_MINFILIA_000_022,"당신이 모래의 집에서 일하는 것도 이게 마지막이라니
 왠지 조금 아쉽네요.
 아, 그리고……."
-62,"TEXT_GAIUSE119_01193_MINFILIA_000_023","당신한테 할 말이 있어요.
+62,TEXT_GAIUSE119_01193_MINFILIA_000_023,"당신한테 할 말이 있어요.
 '돌의 집'으로 와줄래요?"
-63,"TEXT_GAIUSE119_01193_MINFILIA_000_024","후후, 걱정말아요.
+63,TEXT_GAIUSE119_01193_MINFILIA_000_024,"후후, 걱정말아요.
 텔레포…… 에테라이트 이용 요금은 내가 낼 테니까요."
-64,"TEXT_GAIUSE119_01193_URIANGER_000_025","이제 당신은 떠나십시오…….
+64,TEXT_GAIUSE119_01193_URIANGER_000_025,"이제 당신은 떠나십시오…….
 타타루 양이 망자의 종소리에 먼저 가 있습니다.
 그녀에게 물으면 새로운 돌의 문이 열릴 것입니다……."
-65,"TEXT_GAIUSE119_01193_TATARU_000_030","기다리고 있었습니당!
+65,TEXT_GAIUSE119_01193_TATARU_000_030,"기다리고 있었습니당!
 여기가 바로 우리 새 보금자리……
 '돌의 집' 입구입니당!"
-66,"TEXT_GAIUSE119_01193_TATARU_000_031","민필리아 님이랑 다른 분들이
+66,TEXT_GAIUSE119_01193_TATARU_000_031,"민필리아 님이랑 다른 분들이
 목이 빠져라 기다리고 계십니당.
 어서 후다닥 안으로 들어가세용!"
-67,"TEXT_GAIUSE119_01193_TATARU_000_032","여기가 바로 우리 새 보금자리……
+67,TEXT_GAIUSE119_01193_TATARU_000_032,"여기가 바로 우리 새 보금자리……
 '돌의 집' 입구입니당!"
-68,"TEXT_GAIUSE119_01193_TATARU_000_033","민필리아 님이랑 다른 분들이
+68,TEXT_GAIUSE119_01193_TATARU_000_033,"민필리아 님이랑 다른 분들이
 목이 빠져라 당신만 기다리십니당.
 어서 후다닥 안으로 들어가세용!"
-69,"TEXT_GAIUSE119_01193_MINFILIA_000_040","이제 다 모인 것 같네요.
+69,TEXT_GAIUSE119_01193_MINFILIA_000_040,"이제 다 모인 것 같네요.
 ……전보다는 조금 넓어졌나요?"
-70,"TEXT_GAIUSE119_01193_MINFILIA_000_041","오늘부터 이곳 '돌의 집'이
+70,TEXT_GAIUSE119_01193_MINFILIA_000_041,"오늘부터 이곳 '돌의 집'이
 우리 '새벽의 혈맹' 본부예요."
-71,"TEXT_GAIUSE119_01193_ALPHINAUD_000_042","이제 우리 '새벽'은 세 도시와 어깨를 나란히 하게 되었네.
+71,TEXT_GAIUSE119_01193_ALPHINAUD_000_042,"이제 우리 '새벽'은 세 도시와 어깨를 나란히 하게 되었네.
 앞으로 우리는 당당한 독립 조직으로서 활동해나갈 거야."
-72,"TEXT_GAIUSE119_01193_ALPHINAUD_000_043","정치는 내가 맡을 테니 자네들은
+72,TEXT_GAIUSE119_01193_ALPHINAUD_000_043,"정치는 내가 맡을 테니 자네들은
 지금처럼 우리 목적을 이루기 위해 힘써주게."
-73,"TEXT_GAIUSE119_01193_MINFILIA_000_044","우리 목적은 앞으로도 변함없어요.
+73,TEXT_GAIUSE119_01193_MINFILIA_000_044,"우리 목적은 앞으로도 변함없어요.
 신들에게 사랑받은 땅, 이 에오르제아를 구하는 거죠.
 모두 함께 힘내자고요!"
-74,"TEXT_GAIUSE119_01193_ALL_000_045","(-일동-)좋아!!"
-75,"TEXT_GAIUSE119_01193_MINFILIA_000_046","당신한테 할 말이 있어요.
+74,TEXT_GAIUSE119_01193_ALL_000_045,(-일동-)좋아!!
+75,TEXT_GAIUSE119_01193_MINFILIA_000_046,"당신한테 할 말이 있어요.
 ……아씨엔 때문에요."
-76,"TEXT_GAIUSE119_01193_URIANGER_000_047","……민필리아, 잠시.
+76,TEXT_GAIUSE119_01193_URIANGER_000_047,"……민필리아, 잠시.
 그때부터 발데시온 위원회에 계속 연락을 하고 있으나
 역시 연결이 안 됩니다."
-77,"TEXT_GAIUSE119_01193_MINFILIA_000_048","이상하네요, 본부도요?"
-78,"TEXT_GAIUSE119_01193_MINFILIA_000_049","……무슨 일일까요?
+77,TEXT_GAIUSE119_01193_MINFILIA_000_048,"이상하네요, 본부도요?"
+78,TEXT_GAIUSE119_01193_MINFILIA_000_049,"……무슨 일일까요?
 친구에게 연락해볼게요."
-79,"TEXT_GAIUSE119_01193_MINFILIA_000_050","안 돼요…… 링크셸을 안 받아요.
+79,TEXT_GAIUSE119_01193_MINFILIA_000_050,"안 돼요…… 링크셸을 안 받아요.
 친구한테도, 본부에 있는 어느 부서에도 연결이 안 되다니……."
-80,"TEXT_GAIUSE119_01193_URIANGER_000_051","……무슨 일이 있는 건 아닌지요."
-81,"TEXT_GAIUSE119_01193_MINFILIA_000_052","그럴 리가. 위원회는 강력한 마법 장벽으로 둘러싸여
+80,TEXT_GAIUSE119_01193_URIANGER_000_051,……무슨 일이 있는 건 아닌지요.
+81,TEXT_GAIUSE119_01193_MINFILIA_000_052,"그럴 리가. 위원회는 강력한 마법 장벽으로 둘러싸여
 외부와는 완전히 차단된 곳이에요."
-82,"TEXT_GAIUSE119_01193_MINFILIA_000_053","그 어떠한 존재도 함부로 침입할 수 없을 텐데……
+82,TEXT_GAIUSE119_01193_MINFILIA_000_053,"그 어떠한 존재도 함부로 침입할 수 없을 텐데……
 그래요, 아씨엔이라고 해도……."
-83,"TEXT_GAIUSE119_01193_MINFILIA_000_054","……혹시 이것도 우리가 '인식'하지 못한
+83,TEXT_GAIUSE119_01193_MINFILIA_000_054,"……혹시 이것도 우리가 '인식'하지 못한
 어떤 존재가 한 짓일까요?"
-84,"TEXT_GAIUSE119_01193_MINFILIA_000_055","지부를 통해 확인해볼게요.
+84,TEXT_GAIUSE119_01193_MINFILIA_000_055,"지부를 통해 확인해볼게요.
 혹시 모르니 당신들은 본부로 가주세요."
-85,"TEXT_GAIUSE119_01193_MINFILIA_000_056","……아씨엔에 관한 건 다른 경로로 알아볼 수밖에 없겠네요.
+85,TEXT_GAIUSE119_01193_MINFILIA_000_056,"……아씨엔에 관한 건 다른 경로로 알아볼 수밖에 없겠네요.
 위리앙제 씨."
-86,"TEXT_GAIUSE119_01193_URIANGER_000_057","……그래요, 좋습니다.
+86,TEXT_GAIUSE119_01193_URIANGER_000_057,"……그래요, 좋습니다.
 샬레이안 본국에 연락을 취하지요.
 그들이 손을 내밀어 줄지는 장담할 수 없습니다만……."
-87,"TEXT_GAIUSE119_01193_MINFILIA_000_058","부탁해요."
-88,"TEXT_GAIUSE119_01193_MINFILIA_000_059","당신한테 아씨엔에 관해 알려주고 싶었어요.
+87,TEXT_GAIUSE119_01193_MINFILIA_000_058,부탁해요.
+88,TEXT_GAIUSE119_01193_MINFILIA_000_059,"당신한테 아씨엔에 관해 알려주고 싶었어요.
 우리가 그자들한테 어떻게 맞서야 할지를요."
-89,"TEXT_GAIUSE119_01193_MINFILIA_000_060","당신과 싸운 검은 옷을 입은 아씨엔 라하브레아.
+89,TEXT_GAIUSE119_01193_MINFILIA_000_060,"당신과 싸운 검은 옷을 입은 아씨엔 라하브레아.
 ……그리고 지난번에 나타난 흰옷을 입은 아씨엔."
-90,"TEXT_GAIUSE119_01193_MINFILIA_000_061","그들은 아주 여러 명 존재해요.
+90,TEXT_GAIUSE119_01193_MINFILIA_000_061,"그들은 아주 여러 명 존재해요.
 그리고 불사의 힘을 가졌죠……."
-91,"TEXT_GAIUSE119_01193_MINFILIA_000_062","당신이 산크레드를 구하기 위해 쓰러뜨린 라하브레아도
+91,TEXT_GAIUSE119_01193_MINFILIA_000_062,"당신이 산크레드를 구하기 위해 쓰러뜨린 라하브레아도
 이 세상에서 잠시 사라졌을 뿐이고
 그 본체가 사라진 건 아니에요."
-92,"TEXT_GAIUSE119_01193_MINFILIA_000_063","그자들을 이 세상에서 완전히 없애려면
+92,TEXT_GAIUSE119_01193_MINFILIA_000_063,"그자들을 이 세상에서 완전히 없애려면
 그저 어둠 크리스탈을 부수면 되는 게 아니라
 근본적으로 다른 방법을 써야 해요."
-93,"TEXT_GAIUSE119_01193_MINFILIA_000_064","아씨엔을 이 세상에서 완전히 없앨 방법을
+93,TEXT_GAIUSE119_01193_MINFILIA_000_064,"아씨엔을 이 세상에서 완전히 없앨 방법을
 찾아내는 게 앞으로 우리가 이뤄야 할 목표예요.
 에오르제아를 구하기 위해."
-94,"TEXT_GAIUSE119_01193_MINFILIA_000_065","지난번에 나타난 '선왕 모그루 모그 XII세'.
+94,TEXT_GAIUSE119_01193_MINFILIA_000_065,"지난번에 나타난 '선왕 모그루 모그 XII세'.
 큰 반응을 보이고 있다는 '크리스탈 타워'.
 그리고 어떤 전승도 남아있지 않은 '흰옷을 입은 아씨엔'……."
-95,"TEXT_GAIUSE119_01193_MINFILIA_000_066","요즘 잇따라 일어난 사건들은
+95,TEXT_GAIUSE119_01193_MINFILIA_000_066,"요즘 잇따라 일어난 사건들은
 결코 우연이 겹친 게 아니에요."
-96,"TEXT_GAIUSE119_01193_MINFILIA_000_067","이 에오르제아에 내리려 하는 거대한 어둠이……
+96,TEXT_GAIUSE119_01193_MINFILIA_000_067,"이 에오르제아에 내리려 하는 거대한 어둠이……
 그것들을 '일깨운' 거라고 난 생각해요."
-97,"TEXT_GAIUSE119_01193_MINFILIA_000_068","<Highlight>ObjectParameter(1)</Highlight>…….
+97,TEXT_GAIUSE119_01193_MINFILIA_000_068,"Player Player…….
 당신의 힘이 필요한 날이 다시 찾아올 거예요.
 앞으로도 우릴 도와주겠어요?"
-98,"TEXT_GAIUSE119_01193_MINFILIA_000_069","고마워요……."
-99,"TEXT_GAIUSE119_01193_MINFILIA_000_070","알아낸 게 있으면 다시 연락할게요.
+98,TEXT_GAIUSE119_01193_MINFILIA_000_069,고마워요…….
+99,TEXT_GAIUSE119_01193_MINFILIA_000_070,"알아낸 게 있으면 다시 연락할게요.
 그때까지 당신은 실력을 쌓으며 기다려주세요."
-100,"TEXT_GAIUSE119_01193_MINFILIA_000_071","위원회 본부에 대체 무슨 일이…….
+100,TEXT_GAIUSE119_01193_MINFILIA_000_071,"위원회 본부에 대체 무슨 일이…….
 ……쿠루루, 제발 무사해야 해……."
-101,"TEXT_GAIUSE119_01193_NABRIALESEORZEA_000_080","<UIForeground>F20223</UIForeground>전에 그 모험가를 만나고 온 모양이더군.<UIForeground>01</UIForeground>"
-102,"TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_081","(-아씨엔 엘리디부스-)<UIForeground>F20223</UIForeground>……나브리알레스인가.
-무슨 일로 왔지?<UIForeground>01</UIForeground>"
-103,"TEXT_GAIUSE119_01193_NABRIALESEORZEA_000_082","<UIForeground>F20223</UIForeground>무슨 일이 있는 건 아니야…… 하지만 우리가 움직이기 전에
-조정자님께서 먼저 나서시는 걸 보고 놀라서 말이지.<UIForeground>01</UIForeground>"
-104,"TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_083","(-아씨엔 엘리디부스-)<UIForeground>F20223</UIForeground>놈들은 일곱 번째 '아더'를 겪고도 살아남아 또 힘을 길렀다.
-……함부로 얕볼 수 없는 존재야.<UIForeground>01</UIForeground>"
-105,"TEXT_GAIUSE119_01193_NABRIALESEORZEA_000_084","<UIForeground>F20223</UIForeground>흥…….
-한심한 자식이군.<UIForeground>01</UIForeground>"
-106,"TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_085","(-아씨엔 엘리디부스-)<UIForeground>F20223</UIForeground>너희는 너희가 하고 싶은 대로 해라.
-그것이 조디아크 님의 명령이니까…….<UIForeground>01</UIForeground>"
-107,"TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_086","(-아씨엔 엘리디부스-)<UIForeground>F20223</UIForeground>나도 내 나름대로 해야 할 일이 있다.
-너희와는 다른 명령을 나도 받았으니 그에 따라야지.<UIForeground>01</UIForeground>"
-108,"TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_087","(-아씨엔 엘리디부스-)<UIForeground>F20223</UIForeground>……그래, 인간을 '일깨우는' 것 말이다.<UIForeground>01</UIForeground>"
+101,TEXT_GAIUSE119_01193_NABRIALESEORZEA_000_080,**전에 그 모험가를 만나고 온 모양이더군.
+102,TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_081,"(-아씨엔 엘리디부스-)**……나브리알레스인가.
+무슨 일로 왔지?"
+103,TEXT_GAIUSE119_01193_NABRIALESEORZEA_000_082,"**무슨 일이 있는 건 아니야…… 하지만 우리가 움직이기 전에
+조정자님께서 먼저 나서시는 걸 보고 놀라서 말이지."
+104,TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_083,"(-아씨엔 엘리디부스-)**놈들은 일곱 번째 '아더'를 겪고도 살아남아 또 힘을 길렀다.
+……함부로 얕볼 수 없는 존재야."
+105,TEXT_GAIUSE119_01193_NABRIALESEORZEA_000_084,"**흥…….
+한심한 자식이군."
+106,TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_085,"(-아씨엔 엘리디부스-)**너희는 너희가 하고 싶은 대로 해라.
+그것이 조디아크 님의 명령이니까……."
+107,TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_086,"(-아씨엔 엘리디부스-)**나도 내 나름대로 해야 할 일이 있다.
+너희와는 다른 명령을 나도 받았으니 그에 따라야지."
+108,TEXT_GAIUSE119_01193_ELIDIBUSEORZEA_000_087,"(-아씨엔 엘리디부스-)**……그래, 인간을 '일깨우는' 것 말이다."

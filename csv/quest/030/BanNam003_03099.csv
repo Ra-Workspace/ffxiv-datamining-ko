@@ -1,271 +1,269 @@
-﻿key,0,1
-#,,
-int32,str,str
-0,"TEXT_BANNAM003_03099_SEQ_00","<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>특수 규칙:  레벨 보정(직업 변경 제한)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+#,Unknown0,Unknown1
+0,TEXT_BANNAM003_03099_SEQ_00,"**특수 규칙:  레벨 보정(직업 변경 제한)**
 도로 일로에 있는 교신은 모험가에게 상의하고 싶은 것이 있는 모양이다."
-1,"TEXT_BANNAM003_03099_SEQ_01","※ 이 퀘스트에는
- '<UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><UIGlow>01</UIGlow><UIForeground>01</UIForeground> 레벨 보정(직업 변경 제한)'<13>FF40024804F201FC03024904F201FD03EE82BE0249020103024802010320EBA088EBB2A820EBB3B4ECA09528ECA781EC978520EBB380EAB2BD20ECA09CED959C29FF04EAB080FF04EC9DB4</13> 적용됩니다.
+1,TEXT_BANNAM003_03099_SEQ_01,"※ 이 퀘스트에는
+ '**** 레벨 보정(직업 변경 제한)' 적용됩니다.
    퀘스트 수락 시점의 직업으로만 진행할 수 있습니다.
 
-교신과 대화했다. 공물을 바치는 제전 외에 가마를 메고 대열을 지어 행진하는 제전을 열기로 했다. 쿠가네의 <Sheet(EObj,2009487,0)/>에서 '<Sheet(EventItem,2002473,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E290103FF04EBA5BCFF04EC9D84</13> 사용해 교신을 밖으로 꺼내자."
-2,"TEXT_BANNAM003_03099_SEQ_02","쿠가네의 <Sheet(EObj,2009487,0)/>에서 '<Sheet(EventItem,2002473,0)/>'<13>FF15022811FF0A4576656E744974656DF61E8E290103FF04EBA5BCFF04EC9D84</13> 사용해 교신을 밖으로 꺼냈다. 교신을 교도로 착각한 조선목수에게 가마에 대해 배우게 되었다. 쿠가네의 소부두에서 '거친 조선목수'와 대화하자."
-3,"TEXT_BANNAM003_03099_SEQ_03","거친 조선목수와 대화했다. 도면을 입수한 교신은 도로 일로로 돌아가 제작에 착수하겠다고 한다. 아짐 대초원의 도로 일로에서 '교신'과 대화하자."
-4,"TEXT_BANNAM003_03099_SEQ_04","교신과 대화했다. 교신이 부탁한 가마 제작에 필요한 것을 준비하여 도로 일로에 있는 '교레이'에게 납품하자."
-5,"TEXT_BANNAM003_03099_SEQ_05","교신이 부탁한 가마 제작에 필요한 것을 준비하여 교레이에게 건넸다. 큰메기 가마가 완성되어, 교신이 행진을 해보자고 제안했다. 준비가 되면 도로 일로에 있는 '교신'과 대화하자."
-6,"TEXT_BANNAM003_03099_SEQ_06","교신과 대화했다. 가마에 탄 상태로 도로 일로에 있는 '구경꾼 나마즈오'들에게 '영치기영차'를 하자.
+교신과 대화했다. 공물을 바치는 제전 외에 가마를 메고 대열을 지어 행진하는 제전을 열기로 했다. 쿠가네의 에서 '' 사용해 교신을 밖으로 꺼내자."
+2,TEXT_BANNAM003_03099_SEQ_02,쿠가네의 에서 '' 사용해 교신을 밖으로 꺼냈다. 교신을 교도로 착각한 조선목수에게 가마에 대해 배우게 되었다. 쿠가네의 소부두에서 '거친 조선목수'와 대화하자.
+3,TEXT_BANNAM003_03099_SEQ_03,거친 조선목수와 대화했다. 도면을 입수한 교신은 도로 일로로 돌아가 제작에 착수하겠다고 한다. 아짐 대초원의 도로 일로에서 '교신'과 대화하자.
+4,TEXT_BANNAM003_03099_SEQ_04,교신과 대화했다. 교신이 부탁한 가마 제작에 필요한 것을 준비하여 도로 일로에 있는 '교레이'에게 납품하자.
+5,TEXT_BANNAM003_03099_SEQ_05,"교신이 부탁한 가마 제작에 필요한 것을 준비하여 교레이에게 건넸다. 큰메기 가마가 완성되어, 교신이 행진을 해보자고 제안했다. 준비가 되면 도로 일로에 있는 '교신'과 대화하자."
+6,TEXT_BANNAM003_03099_SEQ_06,"교신과 대화했다. 가마에 탄 상태로 도로 일로에 있는 '구경꾼 나마즈오'들에게 '영치기영차'를 하자.
 
 ※ 도로 일로에 있는 '교신'에게 말을 걸면 가마에 탑승할 수 있습니다."
-7,"TEXT_BANNAM003_03099_SEQ_07","구경꾼 나마즈오들에게 영치기영차를 하여, 가마꾼 지원자를 모으는 데 성공했다. 도로 일로에 있는 '교신'에게 이야기하자."
-8,"TEXT_BANNAM003_03099_SEQ_08","교신과 이야기했다. 교신은 가마에 이어 수레까지 만들었다. 계속해서 제전 분위기를 띄우기 위해 교신 일행에게 협력하자."
-9,"TEXT_BANNAM003_03099_SEQ_09",""
-10,"TEXT_BANNAM003_03099_SEQ_10",""
-11,"TEXT_BANNAM003_03099_SEQ_11",""
-12,"TEXT_BANNAM003_03099_SEQ_12",""
-13,"TEXT_BANNAM003_03099_SEQ_13",""
-14,"TEXT_BANNAM003_03099_SEQ_14",""
-15,"TEXT_BANNAM003_03099_SEQ_15",""
-16,"TEXT_BANNAM003_03099_SEQ_16",""
-17,"TEXT_BANNAM003_03099_SEQ_17",""
-18,"TEXT_BANNAM003_03099_SEQ_18",""
-19,"TEXT_BANNAM003_03099_SEQ_19",""
-20,"TEXT_BANNAM003_03099_SEQ_20",""
-21,"TEXT_BANNAM003_03099_SEQ_21",""
-22,"TEXT_BANNAM003_03099_SEQ_22",""
-23,"TEXT_BANNAM003_03099_SEQ_23",""
-24,"TEXT_BANNAM003_03099_TODO_00","쿠가네의 <Sheet(EObj,2009487,0)/>에서 <Sheet(EventItem,2002473,0)/> 사용"
-25,"TEXT_BANNAM003_03099_TODO_01","거친 조선목수와 대화"
-26,"TEXT_BANNAM003_03099_TODO_02","도로 일로에 있는 교신과 대화"
-27,"TEXT_BANNAM003_03099_TODO_03","<If(Equal(IntegerParameter(4),9))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),10))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),11))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),8))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),12))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),13))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),14))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),15))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>제작수첩 우호부족 퀘스트:<Sheet(Item,IntegerParameter(5),0)/> 제작<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),16))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>여명의 옥좌 북동쪽의 바위터에서 <Sheet(Item,IntegerParameter(5),0)/> 캐기<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),17))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>여명의 옥좌 북동쪽의 약초밭에서 <Sheet(Item,IntegerParameter(5),0)/> 채집<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/><If(Equal(IntegerParameter(4),18))><If(LessThan(IntegerParameter(1),IntegerParameter(2)))>아짐 카트에서 <Sheet(Item,IntegerParameter(5),0)/> 낚기<Else/>교레이에게 <Sheet(Item,IntegerParameter(5),0)/> 납품</If><Else/></If></If></If></If></If></If></If></If></If></If></If>"
-28,"TEXT_BANNAM003_03099_TODO_04","교신과 대화"
-29,"TEXT_BANNAM003_03099_TODO_05","가마를 타고 구경꾼 나마즈오에게
+7,TEXT_BANNAM003_03099_SEQ_07,"구경꾼 나마즈오들에게 영치기영차를 하여, 가마꾼 지원자를 모으는 데 성공했다. 도로 일로에 있는 '교신'에게 이야기하자."
+8,TEXT_BANNAM003_03099_SEQ_08,교신과 이야기했다. 교신은 가마에 이어 수레까지 만들었다. 계속해서 제전 분위기를 띄우기 위해 교신 일행에게 협력하자.
+9,TEXT_BANNAM003_03099_SEQ_09,
+10,TEXT_BANNAM003_03099_SEQ_10,
+11,TEXT_BANNAM003_03099_SEQ_11,
+12,TEXT_BANNAM003_03099_SEQ_12,
+13,TEXT_BANNAM003_03099_SEQ_13,
+14,TEXT_BANNAM003_03099_SEQ_14,
+15,TEXT_BANNAM003_03099_SEQ_15,
+16,TEXT_BANNAM003_03099_SEQ_16,
+17,TEXT_BANNAM003_03099_SEQ_17,
+18,TEXT_BANNAM003_03099_SEQ_18,
+19,TEXT_BANNAM003_03099_SEQ_19,
+20,TEXT_BANNAM003_03099_SEQ_20,
+21,TEXT_BANNAM003_03099_SEQ_21,
+22,TEXT_BANNAM003_03099_SEQ_22,
+23,TEXT_BANNAM003_03099_SEQ_23,
+24,TEXT_BANNAM003_03099_TODO_00,쿠가네의 에서  사용
+25,TEXT_BANNAM003_03099_TODO_01,거친 조선목수와 대화
+26,TEXT_BANNAM003_03099_TODO_02,도로 일로에 있는 교신과 대화
+27,TEXT_BANNAM003_03099_TODO_03,제작수첩 우호부족 퀘스트: 제작
+28,TEXT_BANNAM003_03099_TODO_04,교신과 대화
+29,TEXT_BANNAM003_03099_TODO_05,"가마를 타고 구경꾼 나마즈오에게
  영치기영차 시전"
-30,"TEXT_BANNAM003_03099_TODO_06","교신과 대화"
-31,"TEXT_BANNAM003_03099_TODO_07",""
-32,"TEXT_BANNAM003_03099_TODO_08",""
-33,"TEXT_BANNAM003_03099_TODO_09",""
-34,"TEXT_BANNAM003_03099_TODO_10",""
-35,"TEXT_BANNAM003_03099_TODO_11",""
-36,"TEXT_BANNAM003_03099_TODO_12",""
-37,"TEXT_BANNAM003_03099_TODO_13",""
-38,"TEXT_BANNAM003_03099_TODO_14",""
-39,"TEXT_BANNAM003_03099_TODO_15",""
-40,"TEXT_BANNAM003_03099_TODO_16",""
-41,"TEXT_BANNAM003_03099_TODO_17",""
-42,"TEXT_BANNAM003_03099_TODO_18",""
-43,"TEXT_BANNAM003_03099_TODO_19",""
-44,"TEXT_BANNAM003_03099_TODO_20",""
-45,"TEXT_BANNAM003_03099_TODO_21",""
-46,"TEXT_BANNAM003_03099_TODO_22",""
-47,"TEXT_BANNAM003_03099_TODO_23",""
-48,"TEXT_BANNAM003_03099_GYOSHIN_000_001","<If(PlayerParameter(4))>누님<Else/>형님</If>, 상의하고 싶은 것이 있담메.
+30,TEXT_BANNAM003_03099_TODO_06,교신과 대화
+31,TEXT_BANNAM003_03099_TODO_07,
+32,TEXT_BANNAM003_03099_TODO_08,
+33,TEXT_BANNAM003_03099_TODO_09,
+34,TEXT_BANNAM003_03099_TODO_10,
+35,TEXT_BANNAM003_03099_TODO_11,
+36,TEXT_BANNAM003_03099_TODO_12,
+37,TEXT_BANNAM003_03099_TODO_13,
+38,TEXT_BANNAM003_03099_TODO_14,
+39,TEXT_BANNAM003_03099_TODO_15,
+40,TEXT_BANNAM003_03099_TODO_16,
+41,TEXT_BANNAM003_03099_TODO_17,
+42,TEXT_BANNAM003_03099_TODO_18,
+43,TEXT_BANNAM003_03099_TODO_19,
+44,TEXT_BANNAM003_03099_TODO_20,
+45,TEXT_BANNAM003_03099_TODO_21,
+46,TEXT_BANNAM003_03099_TODO_22,
+47,TEXT_BANNAM003_03099_TODO_23,
+48,TEXT_BANNAM003_03099_GYOSHIN_000_001,"누님, 상의하고 싶은 것이 있담메.
 모두 불러올 테니 잠시만 기다려 달람메~!"
-49,"TEXT_BANNAM003_03099_GYOSHIN_000_002","덕분에 제단도 완성되었고
+49,TEXT_BANNAM003_03099_GYOSHIN_000_002,"덕분에 제단도 완성되었고
 얀샤에서 끊임없이 나마즈오들이 모여들어서
 큰메기 대제전은 활기찬 분위기 속에 이어지고 있담메."
-50,"TEXT_BANNAM003_03099_GYOSHIN_000_003","그런데…… 그 후로도 밤이면 밤마다
+50,TEXT_BANNAM003_03099_GYOSHIN_000_003,"그런데…… 그 후로도 밤이면 밤마다
 큰메기님 꿈만 꾸고 있담메……. "
-51,"TEXT_BANNAM003_03099_GYOREI_000_004","큰메기님은 우리가 바친 공물이 만족스럽지 않으신 거얌메?"
-52,"TEXT_BANNAM003_03099_GYOSHIN_000_005","모르겠담메…….
+51,TEXT_BANNAM003_03099_GYOREI_000_004,큰메기님은 우리가 바친 공물이 만족스럽지 않으신 거얌메?
+52,TEXT_BANNAM003_03099_GYOSHIN_000_005,"모르겠담메…….
 애초에 공물만 바치는 제전으로는 안 되는지도 모른담메.
 만약 제전의 내용이 잘못된 거라면…………"
-53,"TEXT_BANNAM003_03099_GYOSHIN_000_006","7년 후에 우리 나마즈오는 멸망한담메!"
-54,"TEXT_BANNAM003_03099_GYOSHIN_000_007","조, 좀 더 심각한 표정을 지어달람메!"
-55,"TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_008","꿈이 어쩌고 하는 교신의 헛소리는 둘째 치고
+53,TEXT_BANNAM003_03099_GYOSHIN_000_006,7년 후에 우리 나마즈오는 멸망한담메!
+54,TEXT_BANNAM003_03099_GYOSHIN_000_007,"조, 좀 더 심각한 표정을 지어달람메!"
+55,TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_008,"꿈이 어쩌고 하는 교신의 헛소리는 둘째 치고
 제전에는 여러 형태가 있지.
 이쯤에서 좀 더 문명화된 제전을 열어보는 것도 나쁘지 않다."
-56,"TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_009","잘 들어, 제전은 원시적인 시대에는 소박한 형태였지만
+56,TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_009,"잘 들어, 제전은 원시적인 시대에는 소박한 형태였지만
 점차 기도는 점술로 발전했고, 점복 의식에서 마법이 만들어졌다."
-57,"TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_010","그리고 마법의 힘을 다루는 무당과 제사장들은
+57,TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_010,"그리고 마법의 힘을 다루는 무당과 제사장들은
 족장이나 왕과 어깨를 나란히 하거나 대체할 만한 권력자가 됐지.
 이윽고 제전은 그들의 권력을 과시하는 수단이 된 거다."
-58,"TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_011","그로 인해 제전용 의복과 제기는 시대가 흐르면서 호사로워지고
+58,TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_011,"그로 인해 제전용 의복과 제기는 시대가 흐르면서 호사로워지고
 사람들을 많이 끌어들이기 위해 성대해지기 시작했다.
 그 결과 탄생한 것이 대열을 지어 행진하는 제전이다!"
-59,"TEXT_BANNAM003_03099_GYOSHIN_000_012","…………얘기 다 했냠메?
+59,TEXT_BANNAM003_03099_GYOSHIN_000_012,"…………얘기 다 했냠메?
 그래서, 결국 뭘 하면 되는지 알기 쉽게
 3줄 이내로 설명해 달람메."
-60,"TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_013","크흑…… '제방 풍속 문답집'을 보면, 동쪽 나라에는
+60,TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_013,"크흑…… '제방 풍속 문답집'을 보면, 동쪽 나라에는
 '가마'란 것을 메고 행진하는 제전이 있다고 한다.
 그걸 흉내내서 실천해 보는 게 좋겠다!"
-61,"TEXT_BANNAM003_03099_GYOSHIN_000_014","거봐, 잘하잖암메.
+61,TEXT_BANNAM003_03099_GYOSHIN_000_014,"거봐, 잘하잖암메.
 처음부터 그렇게 간단하게 설명해주면 된담메."
-62,"TEXT_BANNAM003_03099_GYOSHIN_000_015","<If(PlayerParameter(4))>누님<Else/>형님</If>, 안내를 부탁해도 되겠남메?
+62,TEXT_BANNAM003_03099_GYOSHIN_000_015,"누님, 안내를 부탁해도 되겠남메?
 나를 짐보따리에라도 넣어서 쿠가네에 데려다주면 좋겠담메.
 본고장에 가서 가마 만드는 법을 배워오겠담메!"
-63,"TEXT_BANNAM003_03099_GYOREI_000_020","조심해서 다녀오람메."
-64,"TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_025","（★未使用／削除予定★）"
-65,"TEXT_BANNAM003_03099_GYOSHIN_000_030","메메메…… <If(PlayerParameter(4))>누님<Else/>형님</If>의 짐보따리 속은
+63,TEXT_BANNAM003_03099_GYOREI_000_020,조심해서 다녀오람메.
+64,TEXT_BANNAM003_03099_KOFUINSEIGETSU_000_025,（★未使用／削除予定★）
+65,TEXT_BANNAM003_03099_GYOSHIN_000_030,"메메메…… 누님의 짐보따리 속은
 무기며 방어구가 그득해서 엄청 불편했담메…….
 정리 정돈 좀 했음 좋겠담메……."
-66,"TEXT_BANNAM003_03099_GYOSHIN_000_031","…………아차, 나도 모르게 본심을 드러내고 말았담메.
+66,TEXT_BANNAM003_03099_GYOSHIN_000_031,"…………아차, 나도 모르게 본심을 드러내고 말았담메.
 데려다줘서 고맙담메~♪"
-67,"TEXT_BANNAM003_03099_GYOSHIN_000_032","그나저나 이곳이 쿠가네란 곳인감메!
+67,TEXT_BANNAM003_03099_GYOSHIN_000_032,"그나저나 이곳이 쿠가네란 곳인감메!
 무지 화려해서 내 장인 정신을 자극하……"
-68,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_033","(-???-)어이, 이 메기 자식!
+68,TEXT_BANNAM003_03099_SHIPWRIGHT_000_033,"(-???-)어이, 이 메기 자식!
 너 잘 만났다…… 각오하라고!"
-69,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_034","당장 내 돈 내놓지 못해!?
+69,TEXT_BANNAM003_03099_SHIPWRIGHT_000_034,"당장 내 돈 내놓지 못해!?
 도망칠 순 없을걸!"
-70,"TEXT_BANNAM003_03099_GYOSHIN_000_035","나, 나, 나한테 왜 이러냠메!?"
-71,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_036","시치미를 뗄 작정이냐, 교도!
+70,TEXT_BANNAM003_03099_GYOSHIN_000_035,"나, 나, 나한테 왜 이러냠메!?"
+71,TEXT_BANNAM003_03099_SHIPWRIGHT_000_036,"시치미를 뗄 작정이냐, 교도!
 네놈한테 마련해준 어선 한 척, 어서 대금을 지불하란 말이다!"
-72,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_037","뭐? 이 녀석 이름은 교신이고,
+72,TEXT_BANNAM003_03099_SHIPWRIGHT_000_037,"뭐? 이 녀석 이름은 교신이고,
 교도 그 망할 메기가 아니라고?"
-73,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_038","이거 미안하군.
+73,TEXT_BANNAM003_03099_SHIPWRIGHT_000_038,"이거 미안하군.
 설마 다른 메기일 줄은……."
-74,"TEXT_BANNAM003_03099_GYOSHIN_000_039","오해가 풀린 것 같아 안심이담메.
+74,TEXT_BANNAM003_03099_GYOSHIN_000_039,"오해가 풀린 것 같아 안심이담메.
 우린 제전용 가마 만드는 법을 배우기 위해 대륙에서 왔담메."
-75,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_040","호오, 메기가 가마를 메겠다고?
+75,TEXT_BANNAM003_03099_SHIPWRIGHT_000_040,"호오, 메기가 가마를 메겠다고?
 꽤 멋진 이야긴데!"
-76,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_041","사실, 쿠가네의 제전 가마는 우리 조선목수들이 만들고 있다.
+76,TEXT_BANNAM003_03099_SHIPWRIGHT_000_041,"사실, 쿠가네의 제전 가마는 우리 조선목수들이 만들고 있다.
 실례를 범한 데 대한 사죄라고 하기엔 뭣하지만
 가마에 관한 건 내가 가르쳐줄 수 있지!"
-77,"TEXT_BANNAM003_03099_GYOSHIN_000_042","정말인감메?
+77,TEXT_BANNAM003_03099_GYOSHIN_000_042,"정말인감메?
 너무 기쁘담메!"
-78,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_043","이 앞에 있는 '쿠가네 조선대'로 같이 가자!
+78,TEXT_BANNAM003_03099_SHIPWRIGHT_000_043,"이 앞에 있는 '쿠가네 조선대'로 같이 가자!
 가마에 대한 모든 것을 알려줄 테니까!"
-79,"TEXT_BANNAM003_03099_GYOSHIN_000_050","당장 가마에 대해 배우겠담메!
+79,TEXT_BANNAM003_03099_GYOSHIN_000_050,"당장 가마에 대해 배우겠담메!
 으메메…… 장인 정신이 불타오른담메!"
-80,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_060","잘 들어라! 제전용 가마는 신을 태우는 탈것이다.
+80,TEXT_BANNAM003_03099_SHIPWRIGHT_000_060,"잘 들어라! 제전용 가마는 신을 태우는 탈것이다.
 평소에는 사당에 계시는 신을 잠시 모시는 장소…….
 즉, 작은 신전이라 할 수 있지."
-81,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_061","그리고 어깨에 메고 행진하기 위해서
+81,TEXT_BANNAM003_03099_SHIPWRIGHT_000_061,"그리고 어깨에 메고 행진하기 위해서
 신전을 들어 올릴 수 있게 막대를 끼운 게
 바로 제전 가마란 말씀!"
-82,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_062","하지만 너희 나마즈오들은
+82,TEXT_BANNAM003_03099_SHIPWRIGHT_000_062,"하지만 너희 나마즈오들은
 하나같이 어깨가 처져서…….
 어떻게 가마를 멜지 궁리해야 할 것 같군."
-83,"TEXT_BANNAM003_03099_GYOSHIN_000_063","그렇구남메.
+83,TEXT_BANNAM003_03099_GYOSHIN_000_063,"그렇구남메.
 많이 참고가 됐담메!"
-84,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_064","좋아!
+84,TEXT_BANNAM003_03099_SHIPWRIGHT_000_064,"좋아!
 도면을 줄 테니 좋은 가마를 만들어 보라고!"
-85,"TEXT_BANNAM003_03099_GYOSHIN_000_065","도면까지 얻다니 땡잡았담메!
-자, <If(PlayerParameter(4))>누님<Else/>형님</If>, 당장 도로 일로로 돌아가서
+85,TEXT_BANNAM003_03099_GYOSHIN_000_065,"도면까지 얻다니 땡잡았담메!
+자, 누님, 당장 도로 일로로 돌아가서
 가마 제작에 착수하잠메!"
-86,"TEXT_BANNAM003_03099_SHIPWRIGHT_000_070","그럼 난 다시 교도를 찾으러 가야겠군.
+86,TEXT_BANNAM003_03099_SHIPWRIGHT_000_070,"그럼 난 다시 교도를 찾으러 가야겠군.
 그 메기 놈…… 찾으면 가만 안 둘 테다."
-87,"TEXT_BANNAM003_03099_GYOREI_000_075","어서 오람메.
+87,TEXT_BANNAM003_03099_GYOREI_000_075,"어서 오람메.
 가마 만드는 법은 제대로 배웠남메?"
-88,"TEXT_BANNAM003_03099_GYOSHIN_000_080","쿠가네에서 돌아오는 길에……
+88,TEXT_BANNAM003_03099_GYOSHIN_000_080,"쿠가네에서 돌아오는 길에……
 나마즈오가 멜 수 있는 가마를 어떻게 만들지
 여러모로 고민한 끝에 좋은 생각이 났담메."
-89,"TEXT_BANNAM003_03099_GYOSHIN_000_081","좀 머리를 써야겠지만
+89,TEXT_BANNAM003_03099_GYOSHIN_000_081,"좀 머리를 써야겠지만
 나한테 맡겨두람메."
-90,"TEXT_BANNAM003_03099_GYOSHIN_000_082","<If(PlayerParameter(4))>누님<Else/>형님</If>은 천막 옆에 있는 상자에서 재료를 꺼내
-호사스런 장식이 들어간 '<Sheet(Item,22722,0)/>'<13>FF0F02280BFF054974656DF258C20103FF04EBA5BCFF04EC9D84</13> 뚝딱 만들어주람메!
+90,TEXT_BANNAM003_03099_GYOSHIN_000_082,"누님은 천막 옆에 있는 상자에서 재료를 꺼내
+호사스런 장식이 들어간 '' 뚝딱 만들어주람메!
 만약 재료가 부족해지거든 상자를 살펴보람메!"
-91,"TEXT_BANNAM003_03099_GYOSHIN_000_083","<If(PlayerParameter(4))>누님<Else/>형님</If>은 천막 옆에 있는 상자에서 재료를 꺼내
-섬세한 장식이 들어간 '<Sheet(Item,22722,0)/>'<13>FF0F02280BFF054974656DF258C20103FF04EBA5BCFF04EC9D84</13> 뚝딱 만들어주람메!
+91,TEXT_BANNAM003_03099_GYOSHIN_000_083,"누님은 천막 옆에 있는 상자에서 재료를 꺼내
+섬세한 장식이 들어간 '' 뚝딱 만들어주람메!
 만약 재료가 부족해지거든 상자를 살펴보람메!"
-92,"TEXT_BANNAM003_03099_GYOSHIN_000_084","<If(PlayerParameter(4))>누님<Else/>형님</If>은 천막 옆에 있는 상자에서 재료를 꺼내
-'<Sheet(Item,22722,0)/>' 마감에 사용할 도료를 만들어주람메!
+92,TEXT_BANNAM003_03099_GYOSHIN_000_084,"누님은 천막 옆에 있는 상자에서 재료를 꺼내
+'' 마감에 사용할 도료를 만들어주람메!
 만약 재료가 부족해지거든 상자를 살펴보람메!"
-93,"TEXT_BANNAM003_03099_GYOSHIN_000_085","<If(PlayerParameter(4))>누님<Else/>형님</If>은 금속 부품 재료로 쓸
-'<Sheet(Item,22618,0)/>' 2개를 모아다 주면 좋겠담메.
+93,TEXT_BANNAM003_03099_GYOSHIN_000_085,"누님은 금속 부품 재료로 쓸
+'' 2개를 모아다 주면 좋겠담메.
 여명의 옥좌 북동쪽 부근에서 구할 수 있을 거담메!"
-94,"TEXT_BANNAM003_03099_GYOSHIN_000_086","<If(PlayerParameter(4))>누님<Else/>형님</If>은 금줄 재료로 쓸
-'<Sheet(Item,22644,0)/>' 2개를 모아다 주면 좋겠담메.
+94,TEXT_BANNAM003_03099_GYOSHIN_000_086,"누님은 금줄 재료로 쓸
+'' 2개를 모아다 주면 좋겠담메.
 여명의 옥좌 북동쪽 부근에서 구할 수 있을 거담메!"
-95,"TEXT_BANNAM003_03099_GYOSHIN_000_087","<If(PlayerParameter(4))>누님<Else/>형님</If>은 장식에 사용할 재료로 쓸
-'<Sheet(Item,22670,0)/>'<13>FF0F02280BFF054974656DF2588E0103FF04EBA5BCFF04EC9D84</13> 모아다 주면 좋겠담메!
-'<Sheet(Item,20613,0)/>'<13>FF0F02280BFF054974656DF250850103FF04EBA5BCFF04EC9D84</13> 사용하면 '아짐 카트'에서 낚을 수 있을 거담메!"
-96,"TEXT_BANNAM003_03099_GYOSHIN_000_088","부탁한 물건은 교레이에게 갖다줘람메.
+95,TEXT_BANNAM003_03099_GYOSHIN_000_087,"누님은 장식에 사용할 재료로 쓸
+'' 모아다 주면 좋겠담메!
+'' 사용하면 '아짐 카트'에서 낚을 수 있을 거담메!"
+96,TEXT_BANNAM003_03099_GYOSHIN_000_088,"부탁한 물건은 교레이에게 갖다줘람메.
 준비가 끝나면 단숨에 조립하겠담메!"
-97,"TEXT_BANNAM003_03099_GYOSHIN_000_089","<If(PlayerParameter(4))>누님<Else/>형님</If>, 재료가 부족해졌남메?
+97,TEXT_BANNAM003_03099_GYOSHIN_000_089,"누님, 재료가 부족해졌남메?
 그렇다면 천막 옆에 있는 상자에서 필요한 만큼 꺼내람메!"
-98,"TEXT_BANNAM003_03099_GYOSHIN_100_089","<If(PlayerParameter(4))>누님<Else/>형님</If>, 재료가 부족해졌남메?
+98,TEXT_BANNAM003_03099_GYOSHIN_100_089,"누님, 재료가 부족해졌남메?
 그렇다면 천막 옆에 있는 상자에서 필요한 만큼 꺼내람메!"
-99,"TEXT_BANNAM003_03099_GYOSHIN_110_089","<If(PlayerParameter(4))>누님<Else/>형님</If>, 재료가 부족해졌남메?
+99,TEXT_BANNAM003_03099_GYOSHIN_110_089,"누님, 재료가 부족해졌남메?
 그렇다면 천막 옆에 있는 상자에서 필요한 만큼 꺼내람메!"
-100,"TEXT_BANNAM003_03099_GYOSHIN_200_089","부탁한 물건은 교레이에게 갖다줘람메.
+100,TEXT_BANNAM003_03099_GYOSHIN_200_089,"부탁한 물건은 교레이에게 갖다줘람메.
 준비가 끝나면 단숨에 조립하겠담메!"
-101,"TEXT_BANNAM003_03099_GYOSHIN_210_089","부탁한 물건은 교레이에게 갖다줘람메.
+101,TEXT_BANNAM003_03099_GYOSHIN_210_089,"부탁한 물건은 교레이에게 갖다줘람메.
 준비가 끝나면 단숨에 조립하겠담메!"
-102,"TEXT_BANNAM003_03099_GYOSHIN_220_089","부탁한 물건은 교레이에게 갖다줘람메.
+102,TEXT_BANNAM003_03099_GYOSHIN_220_089,"부탁한 물건은 교레이에게 갖다줘람메.
 준비가 끝나면 단숨에 조립하겠담메!"
-103,"TEXT_BANNAM003_03099_SYSTEM_000_090","재료가 들어있는 상자가 있다.
+103,TEXT_BANNAM003_03099_SYSTEM_000_090,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-104,"TEXT_BANNAM003_03099_SYSTEM_100_090","재료가 들어있는 상자가 있다.
+104,TEXT_BANNAM003_03099_SYSTEM_100_090,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-105,"TEXT_BANNAM003_03099_SYSTEM_110_090","재료가 들어있는 상자가 있다.
+105,TEXT_BANNAM003_03099_SYSTEM_110_090,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-106,"TEXT_BANNAM003_03099_SYSTEM_120_090","재료가 들어있는 상자가 있다.
+106,TEXT_BANNAM003_03099_SYSTEM_120_090,"재료가 들어있는 상자가 있다.
 지금은 필요 없을 것 같다……."
-107,"TEXT_BANNAM003_03099_SYSTEM_000_091","상자에서 필요한 재료를 꺼냈다!"
-108,"TEXT_BANNAM003_03099_SYSTEM_100_091","상자에서 필요한 재료를 꺼냈다!"
-109,"TEXT_BANNAM003_03099_SYSTEM_110_091","상자에서 필요한 재료를 꺼냈다!"
-110,"TEXT_BANNAM003_03099_GYOSHIN_000_092","으메메, 훌륭한 물건이담메!
+107,TEXT_BANNAM003_03099_SYSTEM_000_091,상자에서 필요한 재료를 꺼냈다!
+108,TEXT_BANNAM003_03099_SYSTEM_100_091,상자에서 필요한 재료를 꺼냈다!
+109,TEXT_BANNAM003_03099_SYSTEM_110_091,상자에서 필요한 재료를 꺼냈다!
+110,TEXT_BANNAM003_03099_GYOSHIN_000_092,"으메메, 훌륭한 물건이담메!
 얼른 교레이에게 갖다줘람메!"
-111,"TEXT_BANNAM003_03099_GYOREI_000_100","부탁한 물건은 가져왔엄메?
+111,TEXT_BANNAM003_03099_GYOREI_000_100,"부탁한 물건은 가져왔엄메?
 교신도 준비된 것 같으니
 바로 마무리 작업에 들어갈겜메!"
-112,"TEXT_BANNAM003_03099_GYOSHIN_000_101","다, 다, 다, 다 됐담메…….
+112,TEXT_BANNAM003_03099_GYOSHIN_000_101,"다, 다, 다, 다 됐담메…….
 이게 바로 우리의 합작, 큰메기 가마담메에에에에!"
-113,"TEXT_BANNAM003_03099_GYOSHIN_000_102","꼭대기에는 꿈에서 본 조상님이 눈부시게 빛나고 있담메…….
+113,TEXT_BANNAM003_03099_GYOSHIN_000_102,"꼭대기에는 꿈에서 본 조상님이 눈부시게 빛나고 있담메…….
 나마즈오가 아주 소중히 여기는 방울도 달았담메!"
-114,"TEXT_BANNAM003_03099_GYOSHIN_000_103","그리고 또, 어깨가 처진 우리도 짊어지기 쉽게
+114,TEXT_BANNAM003_03099_GYOSHIN_000_103,"그리고 또, 어깨가 처진 우리도 짊어지기 쉽게
 신전 부분에 뜬구름풀과 크리스탈을 넣어서
 둥실둥실 떠오르게 만들었담메!"
-115,"TEXT_BANNAM003_03099_GYOSHIN_000_104","자, <If(PlayerParameter(4))>누님<Else/>형님</If>……
+115,TEXT_BANNAM003_03099_GYOSHIN_000_104,"자, 누님……
 준비되면 내게 말을 걸으람메.
 가마를 메고 행진하는 거담메!"
-116,"TEXT_BANNAM003_03099_GYOREI_000_105","보기만 해도 이상하게 기분이 들뜬담메♪
+116,TEXT_BANNAM003_03099_GYOREI_000_105,"보기만 해도 이상하게 기분이 들뜬담메♪
 가마란 신기한 물건이구남메♪"
-117,"TEXT_BANNAM003_03099_GYOSHIN_000_110","준비되었남메!?
+117,TEXT_BANNAM003_03099_GYOSHIN_000_110,"준비되었남메!?
 그럼, 가마꾼들을 불러오겠담메."
-118,"TEXT_BANNAM003_03099_GYOSHIN_000_111","<If(PlayerParameter(4))>누님<Else/>형님</If>은 가마에 올라타람메!
+118,TEXT_BANNAM003_03099_GYOSHIN_000_111,"누님은 가마에 올라타람메!
 조선목수님에게 들은 바로는, 지역에 따라서는 신령의 대리인이
 가마를 타고 가마꾼을 이끈다고 한담메."
-119,"TEXT_BANNAM003_03099_GYOSHIN_000_112","가마꾼들을 완벽하게 이끌어서 행진하고
+119,TEXT_BANNAM003_03099_GYOSHIN_000_112,"가마꾼들을 완벽하게 이끌어서 행진하고
 '구경꾼 나마즈오' 앞에서 '영치기영차'하고 외쳐람메!
 끝나면 나한테 말을 걸어달람메!"
-120,"TEXT_BANNAM003_03099_GYOSHIN_000_115","기수가 내리면 안 된담메.
+120,TEXT_BANNAM003_03099_GYOSHIN_000_115,"기수가 내리면 안 된담메.
 자, 다시 한번 가마꾼들을 불러오겠담메."
-121,"TEXT_BANNAM003_03099_NAMAZUSIGHTSEER_000_116","뭐가 시작되는 건감메?"
-122,"TEXT_BANNAM003_03099_NAMAZUSIGHTSEERB_100_116","심심하담메……."
-123,"TEXT_BANNAM003_03099_GYOREI_100_106","가마꾼 지원자를 더 모집하잠메!"
-124,"TEXT_BANNAM003_03099_GYOSHIN_000_107","영치기영차♪ 영치기영차♪
+121,TEXT_BANNAM003_03099_NAMAZUSIGHTSEER_000_116,뭐가 시작되는 건감메?
+122,TEXT_BANNAM003_03099_NAMAZUSIGHTSEERB_100_116,심심하담메…….
+123,TEXT_BANNAM003_03099_GYOREI_100_106,가마꾼 지원자를 더 모집하잠메!
+124,TEXT_BANNAM003_03099_GYOSHIN_000_107,"영치기영차♪ 영치기영차♪
 왠지 보고 있기만 해도 흥이 난담메♪"
-125,"TEXT_BANNAM003_03099_GYOREI_000_108","영치기영차♪ 영치기영차♪
+125,TEXT_BANNAM003_03099_GYOREI_000_108,"영치기영차♪ 영치기영차♪
 ……그런데 우리가 아니라
 저쪽에 있는 '구경꾼 나마즈오'들에게 보여주고 오람메!"
-126,"TEXT_BANNAM003_03099_SYSTEM_000_109","나마즈오들이 가마에서 인사하길 기다리고 있다…….
+126,TEXT_BANNAM003_03099_SYSTEM_000_109,"나마즈오들이 가마에서 인사하길 기다리고 있다…….
 도로 일로에 있는 '교신'에게 말을 걸어
 큰메기 가마를 타고 '영치기영차'를 보여주자."
-127,"TEXT_BANNAM003_03099_NAMAZUSIGHTSEER_000_117","영치기영차♪ 영치기영차♪
+127,TEXT_BANNAM003_03099_NAMAZUSIGHTSEER_000_117,"영치기영차♪ 영치기영차♪
 뭔지 잘 모르겠지만 즐겁담메!"
-128,"TEXT_BANNAM003_03099_NAMAZUSIGHTSEER_000_118","지금 당장 가마를 메고 싶어졌담메!
+128,TEXT_BANNAM003_03099_NAMAZUSIGHTSEER_000_118,"지금 당장 가마를 메고 싶어졌담메!
 다 같이 가마를 메러 가잠메!"
-129,"TEXT_BANNAM003_03099_NAMAZUSIGHTSEERB_000_119","영치기영차♪ 영치기영차♪
+129,TEXT_BANNAM003_03099_NAMAZUSIGHTSEERB_000_119,"영치기영차♪ 영치기영차♪
 그 화려하게 생긴 탈것은 이름이 뭐람메?"
-130,"TEXT_BANNAM003_03099_NAMAZUSIGHTSEERB_000_120","아무튼 우리도 그걸 메고 싶담메!
+130,TEXT_BANNAM003_03099_NAMAZUSIGHTSEERB_000_120,"아무튼 우리도 그걸 메고 싶담메!
 으메메메메메메메…… 돌격하잠메!"
-131,"TEXT_BANNAM003_03099_GYOSHIN_000_130","여기에서 보고 있었는데 정말 박력이 넘쳤담메.
+131,TEXT_BANNAM003_03099_GYOSHIN_000_130,"여기에서 보고 있었는데 정말 박력이 넘쳤담메.
 문득 나도 가마꾼이 되고 싶은 생각이 들 정도로…….
 장인의 혼이 더욱더 불타오른담메!"
-132,"TEXT_BANNAM003_03099_GYOSHIN_000_131","참, 쿠가네의 조선목수님에게 받은 도면에
+132,TEXT_BANNAM003_03099_GYOSHIN_000_131,"참, 쿠가네의 조선목수님에게 받은 도면에
 제전에 쓰이는 '수레'라는 탈것도 실려 있었담메."
-133,"TEXT_BANNAM003_03099_GYOSHIN_000_132","이 불타오르는 장인의 혼을 진정시키기 위해
+133,TEXT_BANNAM003_03099_GYOSHIN_000_132,"이 불타오르는 장인의 혼을 진정시키기 위해
 수레도 만들어 볼 테니, 보고 가람메!"
-134,"TEXT_BANNAM003_03099_SYSTEM_000_133","교신 일행과 협력하여 가마와 수레를 완성시켰습니다!
+134,TEXT_BANNAM003_03099_SYSTEM_000_133,"교신 일행과 협력하여 가마와 수레를 완성시켰습니다!
 큰메기 가마 행진이 시작되었습니다!"
-135,"TEXT_BANNAM003_03099_SYSTEM_000_134","7년 후, 얀샤의 무이강 유역에서는
+135,TEXT_BANNAM003_03099_SYSTEM_000_134,"7년 후, 얀샤의 무이강 유역에서는
 나마즈오 사이의 어장 이권 다툼이 격렬한 동족상잔으로 번져
 다수의 사망자가 나올 운명이었다."
-136,"TEXT_BANNAM003_03099_SYSTEM_000_135","하지만 무이강 상류에서 7년 간에 걸쳐
+136,TEXT_BANNAM003_03099_SYSTEM_000_135,"하지만 무이강 상류에서 7년 간에 걸쳐
 가마를 멘 행진이 이뤄진 결과, 일족의 결속력이 단단해져
 그 인연은 강철과도 같아졌다."
-137,"TEXT_BANNAM003_03099_SYSTEM_000_136","멸종될 운명이 바뀌기 시작했다.
+137,TEXT_BANNAM003_03099_SYSTEM_000_136,"멸종될 운명이 바뀌기 시작했다.
 7년 후 일어날 비극은, 이리하여 아무도 모르게 비껴간 것이다!"
-138,"TEXT_BANNAM003_03099_SYSTEM_000_137","'큰메기 대제전 실행위원회'와의 우호 관계가
+138,TEXT_BANNAM003_03099_SYSTEM_000_137,"'큰메기 대제전 실행위원회'와의 우호 관계가
 '경의'로 바뀌었습니다.
 가마 제작에 힘을 보태어 신뢰를 얻은 듯합니다."
-139,"TEXT_BANNAM003_03099_SYSTEM_000_138","앞으로 도로 일로에 있는 '광풍원 세이게츠'에게
+139,TEXT_BANNAM003_03099_SYSTEM_000_138,"앞으로 도로 일로에 있는 '광풍원 세이게츠'에게
 새로운 '우호부족 일일 퀘스트'를 받을 수 있습니다."
-140,"TEXT_BANNAM003_03099_SYSTEM_000_139","또, 우호 단계가 상승한 당일에 한해
+140,TEXT_BANNAM003_03099_SYSTEM_000_139,"또, 우호 단계가 상승한 당일에 한해
 '광풍원 세이게츠'에게 일일 퀘스트를 3회 더 받을 수 있습니다."
-141,"TEXT_BANNAM003_03099_SYSTEM_000_140","우호 단계가 상승하기 전에 발행된 일일 퀘스트를
+141,TEXT_BANNAM003_03099_SYSTEM_000_140,"우호 단계가 상승하기 전에 발행된 일일 퀘스트를
 모두 수주하면 추가분이 발행됩니다.
 수주권이 남아있으면 이를 수주할 수 있습니다."
-142,"TEXT_BANNAM003_03099_SYSTEM_000_141","또 '교쇼'에게서 구입할 수 있는
+142,TEXT_BANNAM003_03099_SYSTEM_000_141,"또 '교쇼'에게서 구입할 수 있는
 아이템이 늘어났습니다.
 앞으로 모험에 활용해보세요!"
