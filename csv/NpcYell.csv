@@ -1496,7 +1496,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 1348,0,False,False,False,3,0,0,0,5,False,False,1,25,"드래곤족 졸개!?",0
 1349,0,False,False,False,3,0,0,0,7,False,False,1,25,"드래곤족이 쳐들어왔다!",0
 1350,0,False,False,False,2,0,0,0,5,False,False,1,25,"용서할 수 없다, 물리쳐주마!",0
-1351,0,False,False,False,2,0,0,0,5,False,False,1,25,"날뛰게 내버려 두지 않겠다!",0
+1351,0,False,False,False,2,0,0,0,5,False,False,1,25,"날뛰게 내버려두지 않겠다!",0
 1352,0,False,False,False,2,0,0,0,5,False,False,1,25,"윽, 분하다… 관측기록이…!",0
 1353,0,False,False,False,3,0,0,0,5,False,False,1,25,"자… 성수를 모아야지",0
 1354,0,False,False,False,3,0,0,0,5,False,False,1,25,"마물 때문에 성수가!",0
@@ -7593,7 +7593,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 6017,0,False,False,False,2,0,0,0,3,False,False,1,25,"음!?",0
 6018,0,False,False,False,2,0,0,0,3,False,False,1,25,"저기!
 누군가가 습격당하고 있어!",0
-6019,0,False,False,False,2,0,0,0,3,False,False,1,25,"내버려 두면 큰일 나!",0
+6019,0,False,False,False,2,0,0,0,3,False,False,1,25,"내버려두면 큰일 나!",0
 6020,0,False,False,False,2,0,0,0,3,False,False,1,25,"습격당한 후에는
 인명구조라니…!",0
 6021,0,False,False,False,2,0,0,0,3,False,False,1,25,"금방 구해줄게!",0
@@ -7602,7 +7602,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 6024,0,False,False,False,2,0,0,0,3,False,False,1,25,"혼자서 다니다니
 무모해!",0
 6025,0,False,False,False,2,0,0,0,3,False,False,1,25,"정신을 잃은 모양이야…",0
-6026,0,False,False,False,2,0,0,0,5,False,False,1,25,"이대로 내버려 두고
+6026,0,False,False,False,2,0,0,0,5,False,False,1,25,"이대로 내버려두고
 갈 순 없어",0
 6027,0,False,False,False,2,0,0,0,5,False,False,1,25,"목적지는 아니지만
 여기를 거주지로 삼자",0
@@ -25683,7 +25683,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 18336,0,False,False,False,3,0,0,0,3,False,False,1,25,"한 곳에
 집중되고 있군…!",0
 18337,0,False,False,False,2,0,0,0,3,False,False,1,25,"눈을 감아라!",0
-18338,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18338,0,False,False,False,2,0,0,0,3,False,False,1,25,"히히~잉!",0
 18339,0,False,False,False,2,0,0,0,3,False,False,1,25,"두웅…",0
 18340,0,False,False,False,2,0,0,0,3,False,False,1,25,"카악~ 카악~",0
 18341,0,False,False,False,2,0,0,0,3,False,False,1,25,"뿅뿅",0
@@ -26020,10 +26020,12 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 우주에서 최고로 멋지게 만들어 보자!",0
 18566,13859,False,False,False,4,0,0,0,1,False,False,10,25,"장애물을 치우고 땅을 고르면서
 그때그때 시공 작업도 진행하며 완성해 다오!",0
-18567,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18568,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18569,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18570,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18567,0,False,False,False,2,0,0,0,10,False,False,1,1,"나아가라…",0
+18568,0,False,False,False,2,0,0,0,10,False,False,1,1,"나아가라… 나아가라…",0
+18569,14269,False,False,False,2,0,0,0,6,False,True,1,25,"이제 가볼까?
+이 길 너머로",0
+18570,14269,False,False,False,2,0,0,0,6,False,True,1,25,"불러줘서
+기쁘지 뭐야!",0
 18571,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18572,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18573,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
@@ -26409,10 +26411,10 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 이번 작업의 가장 큰 목표는…… 천체망원경 건설이다!",18844
 18844,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"이 녀석을 완성하면 더욱 먼 별로 갈 수 있다!
 천체망원경을 지탱할 수 있도록 기지의 토대부터 손보자!",0
-18845,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
-18846,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18845,0,False,False,False,2,0,0,0,3,False,False,1,25,"뀨르르!",0
+18846,0,False,False,False,2,0,0,0,3,False,False,1,25,"붕붕",0
 18847,0,False,False,False,2,0,0,0,3,False,False,1,25,"파워~",0
-18848,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18848,0,False,False,False,2,0,0,0,3,False,False,1,25,"요~카~후이~",0
 18849,0,False,False,False,2,0,0,0,3,False,False,1,25,"고고고브",0
 18850,0,False,False,False,2,0,0,0,3,False,False,1,25,"고브브브",0
 18851,0,False,False,False,2,0,0,0,3,False,False,1,25,"알려주지…",0
@@ -26420,7 +26422,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 18853,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18854,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 18855,0,False,False,False,2,0,0,0,3,False,False,1,25,"까~악",0
-18856,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+18856,0,False,False,False,2,0,0,0,3,False,False,1,25,"곁에 있을 거야!",0
 18857,0,False,False,False,2,0,0,0,3,False,False,1,25,"영~원히",0
 18858,0,False,False,False,2,0,0,0,3,False,False,1,25,"주세양~♪",0
 18859,0,False,False,False,2,0,0,0,3,False,False,1,25,"내놔라냥!",0
@@ -26704,7 +26706,7 @@ int32,uint32,bit&01,bit&02,bit&04,byte,byte,uint32,single,single,bit&08,bit&10,b
 너희가 도와주지 않았다면 여기까지 도달할 수 없었을 거다!",19040
 19040,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"작업을 마친 사람부터 푹 쉬어라!
 우리가 완성한 천체망원경의 활약…… 기대되는군!",0
-19041,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
+19041,0,False,False,False,2,0,0,0,3,False,False,1,25,"앙크앙크앙~크",0
 19042,0,False,False,False,0,0,0,0,0,False,False,0,0,"",0
 19043,13859,False,False,False,4,0,73282,0,1,False,False,6,25,"우리라면 유리 암반도 감당할 수 있다!
 그때그때 시공 작업도 진행하겠다!",0

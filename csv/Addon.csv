@@ -8160,6 +8160,7 @@ PvP 시스템이나 대결 규칙에 대해서는
 8376,"꼬마 친구 검색"
 8377,"즐겨찾기"
 8378,"탈것 검색"
+8379,"보물 획득"
 8380,"※ 이 임무에서는 장비 관련 아이템을 일주일에 1개만 획득할 수 있습니다."
 8390,"서버 초월 링크셸 [2]"
 8391,"서버 초월 링크셸 [3]"
@@ -10191,9 +10192,12 @@ MGP는 반환되지 않습니다."
 10201,"취소"
 10202,"당신이 휴식을 취하는 동안 에오르제아에는 많은 일이 있었습니다.
 
-이 세계에서 일어난 일이나 새로 추가된 임무 등을 파악할 수 있을 때까지, 당분간 <Gui(95)/>복귀자로서 활동하시는 것을 권장합니다.
+이 세계에서 일어난 일이나 새로 추가된 임무 등을 파악할 수 있을 때까지,
+당분간 <Gui(95)/>복귀자로서 활동하시는 것을 권장합니다.
 
-<Gui(95)/>복귀자는 <Gui(78)/>멘토와 <Gui(77)/>초보자가 활동하는 초보자 채널에 참가하거나, 멘토와 파티를 맺어 경험치 보너스를 받는 등, 원활한 모험 복귀를 돕는 다양한 지원을 받으실 수 있습니다."
+<Gui(95)/>복귀자는 <Gui(78)/>멘토와 <Gui(77)/>초보자가 활동하는 초보자 채널에 참가하거나,
+멘토와 파티를 맺어 경험치 보너스를 받는 등,
+원활한 모험 복귀를 돕는 다양한 지원을 받으실 수 있습니다."
 10203,"복귀자로 활동한다"
 10204,"지원을 받지 않는다"
 10205,"<Gui(95)/>복귀자는 같은 복귀자나 <Gui(78)/>멘토, <Gui(77)/>초보자와 교류 가능한 '초보자 채널'에 참가할 수 있습니다.
@@ -10392,17 +10396,18 @@ MGP는 반환되지 않습니다."
 10402,"장비"
 10403,"저장 데이터 <Value>IntegerParameter(1)</Value>"
 10404,"처음부터"
-10405,"<If(GreaterThan(IntegerParameter(2),0))><Else/>B</If><Value>IntegerParameter(1)</Value>"
+10405,"<Switch(IntegerParameter(2))><Case(1)>B<Value>IntegerParameter(1)</Value></Case><Case(2)><Value>IntegerParameter(1)</Value></Case><Case(3)>T<Value>IntegerParameter(1)</Value></Case></Switch>"
 10406,"<Sheet(ClassJob,IntegerParameter(1),0)/>
 <Highlight>StringParameter(2)</Highlight>"
 10407,"딥 던전 캐릭터 정보"
 10408,""
 10409,"특수 아이템"
-10410,"고정 파티로 공략한 데이터를 매칭용 개인 데이터로 변환합니다.
+10410,"고정 파티로 공략 중인 저장 데이터를, 파티원이 고정되지 않는 매칭 파티용 저장 데이터로 변환합니다.
 
-개인 데이터로 진행 시, 공략 진행도가 같은 플레이어와 미리 파티를 맺고 입장할 수도 있으며, 이때 부족한 인원은 자동으로 매칭됩니다.
+매칭 파티용 저장 데이터로 진행 시, 공략 진행도가 같은 플레이어와 미리 파티를 맺고 입장할 수도 있으며, 이때 부족한 인원은 자동으로 매칭됩니다.
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>저장 데이터를 변환하면 특수 아이템 보유 상황이 초기화됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>매칭 파티에서는 점수가 기록되지 않습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 
 <If(GreaterThan(IntegerParameter(1),0))><Else/><UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>도전 임무 단계까지 진행한 저장 데이터는 매칭용 개인 데이터로 변환할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
@@ -10411,7 +10416,7 @@ MGP는 반환되지 않습니다."
 10411,"위에 동의하고 저장 데이터 변환"
 10412,"공략 중인 데이터를 삭제하고 처음부터 다시 시작합니다.
 
-저장 데이터를 삭제하면 도달 층수 및 레벨은 초기화되지만, 마기 장비 강화 수치는 그대로 이어집니다.
+저장 데이터를 삭제하면 <Switch(IntegerParameter(3))><Case(1)>도달 층수</Case><Case(2)>도달 층수</Case><Case(3)>도달 지점</Case></Switch> 및 레벨은 초기화되지만, 마기 장비 강화 수치는 그대로 이어집니다.
 
 <UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow>※ 삭제한 데이터는 복구할 수 없으니 신중하게 결정하십시오.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
 10413,"위에 동의하고 저장 데이터 삭제"
@@ -10454,7 +10459,7 @@ MGP는 반환되지 않습니다."
 10449,"파티"
 10450,"---"
 10451,"전멸 횟수: <Value>IntegerParameter(1)</Value>"
-10452,"다음 층에 진입하려면 임무를 개방해야 합니다."
+10452,"다음 <Switch(IntegerParameter(1))><Case(1)>층</Case><Case(2)>층</Case><Case(3)>순례길</Case></Switch>에 진입하려면 임무를 개방해야 합니다."
 10453,"전멸 횟수가 0인 저장 데이터를 선택해야 진입할 수 있습니다."
 10454,"아이템 감정"
 10455,""
@@ -10469,19 +10474,23 @@ MGP는 반환되지 않습니다."
 10464,"초기화할 데이터를 선택하십시오."
 10465,"고정 파티를 해체할 데이터를 선택하십시오."
 10466,"순위 보기"
+10467,"도달 지점"
+10468,"노간주나무 향"
 10469,"<Sheet(ClassJob,IntegerParameter(1),0)/><If(GreaterThan(IntegerParameter(2),0))> / <Sheet(ClassJob,IntegerParameter(2),0)/><Else/></If>"
 10470,"파묻힌 보물이 없습니다."
 10471,"공식 홈페이지에서 순위를 확인하세요!
 <Highlight>StringParameter(1)</Highlight>"
 10472,"<Highlight>StringParameter(1)</Highlight>"
+10473,"광요 촛대"
+10474,"다음"
 10475,"마석"
-10476,"이 층에서 파묻힌 보물의 낌새가 느껴집니다."
+10476,"파묻힌 보물의 낌새가 느껴집니다."
 10477,"부활 등불"
 10478,"전송 등불"
 10479,"부활 등불의 작동 상황을 나타냅니다."
 10480,"전송 등불의 작동 상황을 나타냅니다."
 10481,"도달 층수"
-10482,"<If(Equal(IntegerParameter(1),0))>B1<Else/>1층</If>부터 시작하지 않았으므로
+10482,"<Switch(IntegerParameter(1))><Case(1)>지하 1층</Case><Case(2)>제1층</Case><Case(3)>제1순례길</Case></Switch>부터 시작하지 않았으므로
 단독 공략 업적에 반영되지 않습니다."
 10483,"선택한 데이터에 전멸 기록이 있어 심층에 도전할 수 없습니다.
 그래도 입장하시겠습니까?"
@@ -10493,6 +10502,11 @@ MGP는 반환되지 않습니다."
 10489,"데미클론 생성기"
 10490,"공식 가이드(홈페이지)"
 10491,"딥 던전 설명 보기"
+10492,"재생 제단"
+10493,"전송장치"
+10494,"재생 제단의 작동 상황을 나타냅니다."
+10495,"전송장치의 작동 상황을 나타냅니다."
+10496,"?"
 10500,"임무 지원으로 공략"
 10501,"트러스트로 공략"
 10507,"/"
@@ -10780,6 +10794,13 @@ MGP는 반환되지 않습니다."
 개편이 완료되면 공식 홈페이지에서 알려드릴 예정이오니,
 부디 너른 양해 부탁드립니다."
 10833,"가맹 PC방에서 참가 신청"
+10834,"신성한 공물"
+10835,"합계"
+10836,"보물상자 증가"
+10837,"<If(LessThan(IntegerParameter(1),IntegerParameter(2)))><UIForeground>F201FC</UIForeground><UIGlow>F201FD</UIGlow><Value>IntegerParameter(1)</Value><UIGlow>01</UIGlow><UIForeground>01</UIForeground><Else/><Value>IntegerParameter(1)</Value></If>"
+10838,"도전"
+10839,"뒤로"
+10840,"'시상 드높은 비애 토벌전'에 도전합니다."
 10841,""
 10842,""
 10843,""
@@ -15898,7 +15919,7 @@ Lv<Value>IntegerParameter(7)</Value>"
 15953,"<If(GreaterThan(IntegerParameter(1),0))>가면 무투회<Else/>???</If>"
 15954,"<If(GreaterThan(IntegerParameter(1),0))>가면 무투회<Else/>???</If>
 Lv<Value>IntegerParameter(7)</Value>"
-15955,"<Highlight>StringParameter(1)</Highlight> <If(Equal(IntegerParameter(2),0))>B<Value>IntegerParameter(3)</Value><Else/><Value>IntegerParameter(3)</Value>층</If> 완료하기<Sheet(Addon,15957,0,IntegerParameter(4),IntegerParameter(3))/>"
+15955,"<Highlight>StringParameter(1)</Highlight> <Switch(IntegerParameter(2))><Case(1)>지하 <Value>IntegerParameter(3)</Value>층</Case><Case(2)>제<Value>IntegerParameter(3)</Value>층</Case><Case(3)>제<Value>IntegerParameter(3)</Value>순례길</Case></Switch> 완료하기<Sheet(Addon,15957,0,IntegerParameter(4),IntegerParameter(3))/>"
 15956,"※ 31층부터는 매칭 파티로 입장할 수 없습니다."
 15957,"<If(Equal(IntegerParameter(1),2))><If(GreaterThan(IntegerParameter(2),30))>
 <Sheet(Addon,15956,0,IntegerParameter(1))/><Else/></If><Else/></If>"
@@ -16938,6 +16959,7 @@ Lv<Value>IntegerParameter(7)</Value>"
 17052,"우호부족(<Sheet(BeastTribe,IntegerParameter(1),11)/>)"
 17053,"머리 장비 상세 설정"
 17054,"머리 장비에 귀 표시(해당하는 장비만 가능)"
+17100,"노르브란트 순례길"
 17110,"대화 말풍선 설정"
 17111,""
 17112,"대화별 설정"
