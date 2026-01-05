@@ -1,24 +1,32 @@
-# [![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/Ra-Workspace/ffxiv-datamining-ko.svg?color=%23B61D4B&label=Patch&style=flat-square)](https://github.com/Ra-Workspace/ffxiv-datamining-ko/releases) Datamining of Final Fantasy XIV Korea
+# [![latest](https://img.shields.io/github/tag-date/Ra-Workspace/ffxiv-datamining-ko.svg?color=%23B61D4B&label=Patch&style=flat-square)](https://github.com/Ra-Workspace/ffxiv-datamining-ko/releases) Datamining of Final Fantasy XIV Korea
 
-* This repository is to serve as a place to share data mining information related to Final Fantasy XIV in Korean.
-
-* If you want to know datamining, go [xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining) and [xivapi/SaintCoinach](https://github.com/xivapi/SaintCoinach).
-
+* This repository serves as a place to share data mining information related to Final Fantasy XIV in Korean.
+* For general datamining information, visit [xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining).
 * You can access data for each patch version using [tags](https://github.com/Ra-Workspace/ffxiv-datamining-ko/releases).
+
+> [!IMPORTANT]
+> **SaintCoinach is no longer maintained.**
+> The extraction process has been migrated to a new tool. Please check the **[refactor](https://github.com/Ra-Workspace/ffxiv-datamining-ko/tree/refactor)** branch for the latest data extracted using **xiv-data-oxidizer**.
 
 ---
 
 ## [csv/](https://github.com/Ra-Workspace/ffxiv-datamining-ko/tree/master/csv)
 
-* This repository keeps a record of CSV's extracted via [SaintCoinach](https://github.com/xivapi/SaintCoinach/releases) using the command `rawexd`, this is so they can be easily linked and referenced when datamining, so we have a git history of changes and just to make life easier in some cases :)
+* **Legacy ([SaintCoinach](https://github.com/xivapi/SaintCoinach)):** This branch contains CSVs extracted using the `rawexd` command.
+* **New ([xiv-data-oxidizer](https://github.com/mattantonelli/xiv-data-oxidizer)):** For CSVs extracted using the new toolset, please refer to the **[refactor branch](https://github.com/Ra-Workspace/ffxiv-datamining-ko/tree/refactor/csv)**.
 
-## [Ra-Workspace/ffxiv-datamining-ko-ui](https://github.com/Ra-Workspace/ffxiv-datamining-ko-ui)
+---
 
-* All images of icon, map, and ULD are in [this repository](https://github.com/Ra-Workspace/ffxiv-datamining-ko-ui). The size is very heavy, so it has been separated.
+## Other Languages
 
-## Other language
+The data is now unified in [xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining). You can find the localized CSV files under the `/csv` directory for the following languages:
 
-* Global Version
-  * [English](https://github.com/xivapi/ffxiv-datamining/tree/master/csv)
-  * [Japanese](https://github.com/MansonGit/ffxiv-datamining-jp)
-* [Chinese Version](https://github.com/thewakingsands/ffxiv-datamining-cn)
+| Language | Directory | Regions |
+| :--- | :--- | :--- |
+| **English** | [`/csv/en`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/en) | Global |
+| **Japanese** | [`/csv/ja`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/ja) | Global |
+| **German** | [`/csv/de`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/de) | Global |
+| **French** | [`/csv/fr`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/fr) | Global |
+| **Korean** | [`/csv/ko`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/ko) | Korea |
+| **Chinese (Simplified)** | [`/csv/cn`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/cn) | China |
+| **Chinese (Traditional)** | [`/csv/tc`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/tc) | Taiwan |
