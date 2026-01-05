@@ -19,12 +19,14 @@ This directory contains CSV files extracted from the game data.
 
 ## Other Languages
 
-* **Global Version**
-  * [English](https://github.com/xivapi/ffxiv-datamining)
-  * [Japanese](https://github.com/a1hena/ffxiv-datamining-jp)
+The data is now unified in [xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining). You can find the localized CSV files under the `/csv` directory for the following languages:
 
-* **Chinese Version (Simplified Chinese)**
-  * [Chinese](https://github.com/thewakingsands/ffxiv-datamining-cn)
-
-* **Taiwan Version (Traditional Chinese)**
-  * [Taiwan](https://github.com/thewakingsands/ffxiv-datamining-tc)
+| Language | Directory | Regions |
+| :--- | :--- | :--- |
+| **English** | [`/csv/en`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/en) | Global |
+| **Japanese** | [`/csv/ja`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/ja) | Global |
+| **German** | [`/csv/de`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/de) | Global |
+| **French** | [`/csv/fr`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/fr) | Global |
+| **Korean** | [`/csv/ko`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/ko) | Korea |
+| **Chinese (Simplified)** | [`/csv/cn`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/cn) | China |
+| **Chinese (Traditional)** | [`/csv/tc`](https://github.com/xivapi/ffxiv-datamining/tree/master/csv/tc) | Taiwan |
