@@ -12,8 +12,8 @@
 
 ## [csv/](https://github.com/Ra-Workspace/ffxiv-datamining-ko/tree/master/csv)
 
-* **Legacy ([SaintCoinach](https://github.com/xivapi/SaintCoinach)):** This branch contains CSVs extracted using the `rawexd` command.
-* **New ([xiv-data-oxidizer](https://github.com/mattantonelli/xiv-data-oxidizer)):** For CSVs extracted using the new toolset, please refer to the **[refactor branch](https://github.com/Ra-Workspace/ffxiv-datamining-ko/tree/refactor/csv)**.
+* **Legacy([SaintCoinach](https://github.com/xivapi/SaintCoinach)):** This branch contains CSVs extracted using the `rawexd` command.
+* **New([xiv-data-oxidizer](https://github.com/mattantonelli/xiv-data-oxidizer)):** For CSVs extracted using the new toolset, please refer to the **[refactor branch](https://github.com/Ra-Workspace/ffxiv-datamining-ko/tree/refactor/csv)**.
 
 ---
 
