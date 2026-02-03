@@ -125,7 +125,7 @@ int32,str,str
 발견한 이야기는 수기나 기록 같은 형태로 남습니다.
 
 전용 창에서 인물을 클릭하면, 지금까지 찾아낸 이야기를 읽을 수 있는 창이 열립니다."
-19,"파생 던전에 도전하기","고난도 특수 던전, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파생 던전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 도전할 수 있습니다.
+19,"파생 던전에 도전하기","특수 던전 탐색 외전, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파생 던전<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에 도전할 수 있습니다.
 
 전용 창 상단의 탭을 누르면 파생 던전으로 전환됩니다.
 
@@ -137,13 +137,7 @@ int32,str,str
 20,"파생 던전 제한 사항","파생 던전은 변형 던전과는 달리
 입장 후에 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>직업을 변경할 수 없습니다<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
 전투불능이 되면 레이즈 등 직업 기술로는 부활할 수 없고,
-변형 기술을 통해서만 부활할 수 있습니다.
-
-또한 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파생 던전(영웅)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서는
-변형 기술을 아예 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>사용할 수 없습니다<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
-
-파생 던전(영웅)에 입장하려면
-조건을 갖춘 플레이어 4명을 모아 미리 파티를 구성해야 합니다."
+변형 기술을 통해서만 부활할 수 있습니다."
 21,"파티원 소개","던전이나 토벌전 등의 임무를 시작할 때, 파티원의 초상화가 자동으로 표시됩니다. 임무를 시작할 때 표시되는 파티원 소개는 창 크기를 변경하거나 이동할 수 없습니다.
 
 파티원 소개 메뉴의 톱니바퀴 버튼 또는 캐릭터 설정 메뉴에서 임무 시작 시에 파티원 소개가 표시되지 않도록 변경할 수 있습니다."
@@ -164,3 +158,39 @@ int32,str,str
 평균 아이템 레벨이 낮아도 입장할 수 있습니다."
 26,"파생 던전 매칭 조건","파생 던전 매칭 조건으로 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>공략 완료<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 선택하려면
 해당 임무를 완료한 적이 있어야 합니다."
+27,"빠른 메뉴","빠른 메뉴는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>각종 기능이나 기술을 칸에 자유롭게 등록해서 빠르고 간단하게 실행할 수 있는 편리한 기능<UIGlow>01</UIGlow><UIForeground>01</UIForeground>입니다.
+
+즐겨 쓰는 감정 표현, 좋아하는 탈것, 장비세트, 각종 아이템 등, 화면에 항상 표시할 필요는 없지만 자주 사용하는 항목을 등록해 두면 모험이 더욱 편리해집니다."
+28,"등록 방법","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 조작 모드<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>단축키 지정에서 '빠른 메뉴로 보내기'<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 선택하면 등록할 수 있습니다.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>마우스 조작 모드<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+기능이나 기술을 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>칸에 끌어다 놓으면<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 등록할 수 있습니다."
+29,"이용 설정","화면 우측 상단에 있는 톱니바퀴 표시를 누르거나 세부 메뉴를 열면 빠른 메뉴의 각종 설정을 변경할 수 있습니다.
+
+지정한 탭을 바로 여는 기능, 창 불투명도, 실행 후 창 닫기 여부 등을 자신에게 맞게 설정해 보세요."
+30,"조작 방법","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow><If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 조작 모드<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If>로 조작할 때 빠른 메뉴를 열면 커서가 칸 중앙에서 대기합니다.
+커서 이동 속도 증가 버튼을 활용하면 2번 안에 원하는 칸에 이동할 수 있습니다.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>마우스 조작 모드<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+마우스로 클릭하면 기능이나 기술을 실행할 수 있습니다.
+마우스 휠을 조작해 페이지를 빠르게 변경할 수 있습니다."
+31,"파생 던전(영웅) 제한 사항","<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>파생 던전(영웅)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>에서는
+변형 기술을 아예 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>사용할 수 없습니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+파생 던전(영웅)에 입장하려면
+조건을 갖춘 플레이어 4명을 모아 미리 파티를 구성해야 합니다."
+32,"",""
+33,"",""
+34,"실행 방법","빠른 메뉴는 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>기술 목록의 기타<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 항목에서 실행할 수 있습니다.
+
+각종 단축키를 이용하면 더욱 편리하게 사용할 수 있습니다.
+・단축바에 직접 등록할 수 있는 빠른 메뉴 단축키
+・버튼 기능 설정
+　(시스템 설정: <66>16</66> 설정)
+・단축키 설정
+・명령어
+"
+35,"",""
+36,"",""

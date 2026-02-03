@@ -66,7 +66,7 @@ int32,str,str
 32,"TEXT_HOUFIXMANSIONOFFICER_00363_TALK_006_006_001","개인실 안의 '조명' 밝기를 조절해서
 쾌적한 환경을 만들어보십시오."
 33,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_006_002","'하우징' 메뉴에서 '실내 환경 설정'을 선택하면
-개인실 안의 밝기를 5단계로 조절할 수 있습니다."
+개인실 안의 밝기를 0단계에서 5단계까지 조절할 수 있습니다."
 34,"TEXT_HOUFIXMANSIONOFFICER_00363_SYSTEM_006_007_001","가구 아이템은
 개인실에 설치하는 순간 중고품으로 간주되어
 거래하거나 장터에 출품할 수 없습니다."
@@ -116,8 +116,8 @@ int32,str,str
 57,"TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY","아파트 '단란한 난롯가'의 개인실을 구매하려면
 주요 퀘스트 '최후의 포효'를
 완료해야 합니다."
-58,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1","アパルトメント「<Switch(IntegerParameter(1))><Case(1)>トップマスト</Case><Case(2)>リリーヒルズ</Case><Case(3)>ナナモ大風車</Case><Case(4)>紅梅御殿</Case><Case(5)>イングルサイド</Case></Switch>」へようこそ！
-こちらでは現在、冒険者のみなさんに開放するため、
-準備を進めているところです。"
-59,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_2","現在、「<Switch(IntegerParameter(1))><Case(1)>トップマスト</Case><Case(2)>リリーヒルズ</Case><Case(3)>ナナモ大風車</Case><Case(4)>紅梅御殿</Case><Case(5)>イングルサイド</Case></Switch>」は先行公開期間中となります。
-部屋の販売開始まで、今しばらくお待ちください。"
+58,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1","<Switch(IntegerParameter(1))><Case(1)>중층 돛대</Case><Case(2)>백합 언덕</Case><Case(3)>나나모 대풍차</Case><Case(4)>홍매전</Case><Case(5)> 단란한 난롯가</Case></Switch>에 잘 오셨습니다!
+이곳은 현재 모험가 거주구로 개방하기 위하여
+준비하고 있습니다."
+59,"TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_2","현재 '<Switch(IntegerParameter(1))><Case(1)>중층 돛대는</Case><Case(2)>백합 언덕은</Case><Case(3)>나나모 대풍차는</Case><Case(4)>홍매전은</Case><Case(5)> 단란한 난롯가는</Case></Switch>' 선행 공개 기간입니다.
+주택 판매가 시작될 때까지 잠시만 기다려 주십시오."

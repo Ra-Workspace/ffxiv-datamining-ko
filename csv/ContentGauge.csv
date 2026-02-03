@@ -79,7 +79,7 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 75,0,"에너지 충전율",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 76,0,"에테르 응축률",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 77,0,"구미호의 요기",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
-78,0,"",0,False,"",0,0,0,0,0,0,0
+78,1,"",0,True,"",60,1,0,180,1,0,0
 79,0,"그위드리트의 뇌력",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
 80,0,"오티스의 내구도",2,False,"",30,1,3,70,1,1,0
 81,0,"재앙의 상징",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
@@ -90,3 +90,9 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 86,0,"젤레니아의 에테르",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 87,0,"죽음에 대한 공포",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
 88,1,"",0,True,"",-1,1,0,-1,1,0,0
+89,0,"글라시아 라볼라스의 마력",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+90,0,"쿠루루의 마력",1,True,"ContentGaugeMax_positive",-1,1,0,-1,1,0,0
+91,0,"풀베기 혼",1,True,"",50,1,3,100,1,2,0
+92,0,"",0,False,"",0,0,0,0,0,0,0
+93,0,"거대 그라비데 덩어리",2,False,"",-1,1,0,-1,1,0,0
+94,0,"",0,False,"",0,0,0,0,0,0,0
