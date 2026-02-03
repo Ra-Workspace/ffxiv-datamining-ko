@@ -1,15 +1,17 @@
-#,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4
+#,Name,Default,Minimum,Maximum,Unknown4
 0,,0,0,0,False
-1,,0,0,0,False
-2,,0,0,0,False
-3,,0,0,0,False
-4,,0,0,0,False
-5,,0,0,0,False
-6,,0,0,0,False
-7,,0,0,0,False
-8,,0,0,0,False
-9,,0,0,0,False
-10,,0,0,0,False
-11,,0,0,0,False
-12,,0,0,0,False
+1,크기,100,50,200,True
+2,각도,0,-180,180,True
+3,투명도,0,0,100,True
+4,높이,128,16,384,False
+5,너비,128,16,512,False
+6,범위 각도,90,10,360,False
+7,구멍 크기,50,0,240,False
+8,표시 개수,1,1,5,False
+9,세로 표시 개수,1,1,5,False
+10,가로 표시 개수,1,1,5,False
+11,두께,6,2,10,False
+12,크기,50,10,200,True
 13,,0,0,0,False
+14,,0,0,0,False
+15,,0,0,0,False

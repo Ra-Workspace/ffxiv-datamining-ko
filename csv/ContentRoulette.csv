@@ -1,25 +1,25 @@
-#,Name,Category,Unknown0,Description,DutyType,Unknown1,Image,Unknown2,Unknown3,ItemLevelRequired,ItemLevelSync,RewardTomeA,RewardTomeB,RewardTomeC,Unknown5,InstanceContent,RequiredExVersion,OpenRule,RequiredLevel,SyncedFromLevel,ContentRouletteRoleBonus,SortKey,ClassJobCategory,ContentMemberType,Unknown9,QueueMaxPlayers,ContentType,Unknown12,TimeLimit,TimeLimitMax,LootModeType,Unknown15,PenaltyTimestampArrayIndex,CompletionArrayIndex,IsGoldSaucer,IsInDutyFinder,IsPvP,AppliesHighestAverageDutyItemLevel,Unknown18,AllowConsumableItems,AllowPhoenixDown,AllowReplacement,RatedMatch,Rated,Unknown22,Unknown23,Unknown24,IsRegistrationAllowedFromAnyDataCenter
-0,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0,-1,False,False,False,False,False,True,False,True,False,False,False,False,True,True
+#,Name,Category,Unknown0,Description,DutyType,Unknown1,Image,Unknown2,Unknown3,Unknown6,ItemLevelRequired,ItemLevelSync,RewardTomeA,RewardTomeB,RewardTomeC,Unknown5,InstanceContent,RequiredExVersion,OpenRule,RequiredLevel,SyncedFromLevel,ContentRouletteRoleBonus,SortKey,ClassJobCategory,ContentMemberType,Unknown9,QueueMaxPlayers,ContentType,Unknown12,TimeLimit,TimeLimitMax,LootModeType,Unknown15,PenaltyTimestampArrayIndex,CompletionArrayIndex,IsGoldSaucer,IsInDutyFinder,IsPvP,AppliesHighestAverageDutyItemLevel,Unknown18,AllowConsumableItems,AllowPhoenixDown,AllowReplacement,RatedMatch,Rated,Unknown22,Unknown23,Unknown24,IsRegistrationAllowedFromAnyDataCenter
+0,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,108,0,0,0,0,0,0,0,0,0,0,-1,False,False,False,False,False,True,False,True,False,False,False,False,True,True
 1,무작위 임무: 레벨링,레벨링,,"현재 참가 가능한 던전과 소규모 파티용 토벌전 중에서 무작위로 정해진 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ '무작위 임무: 레벨링'의 경험치 및 길 보너스는 참가한 직업의 레벨에 따라 변동하며, 해당 임무에서 얻을 수 있는 경험치 및 길과의 차액을 보상으로 받게 됩니다.
 ※ 군표 지급량은 참가한 직업의 레벨에 따라 변동합니다.
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
 ※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.
-※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.","해당 임무: 소규모 파티용 던전, 토벌전",0,112034,0,0,0,0,0,100,20,0,0,0,1,16,16,1,4,142,2,0,0,1,0,90,0,2,0,0,0,False,True,False,False,True,True,True,True,False,False,False,False,True,True
+※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.","해당 임무: 소규모 파티용 던전, 토벌전",0,112034,0,0,0,0,0,0,100,20,0,0,0,1,16,16,1,4,142,2,0,0,1,0,90,0,2,0,0,0,False,True,False,False,True,True,True,True,False,False,False,False,True,True
 2,무작위 임무: 상급 레벨링,상급 레벨링,,"현재 참가할 수 있는 레벨 50/60/70/80/90 던전 중에서 무작위로 정해진 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ '무작위 임무: 상급 레벨링'의 경험치와 길 보너스는 참가한 직업의 레벨에 따라 변동하며, 해당 임무에서 얻을 수 있는 경험치 및 길과의 차액을 보상으로 받게 됩니다.
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
 ※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.
-※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 레벨 50/60/70/80/90 소규모 파티용 던전,0,112035,0,0,45,0,100,120,0,0,0,0,1,50,50,2,3,142,2,0,0,1,0,90,0,2,0,0,1,False,True,False,False,True,True,True,True,False,False,False,False,True,True
+※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 레벨 50/60/70/80/90 소규모 파티용 던전,0,112035,0,0,0,45,0,100,120,0,0,0,0,1,50,50,2,3,142,2,0,0,1,0,90,0,2,0,0,1,False,True,False,False,True,True,True,True,False,False,False,False,True,True
 3,무작위 임무: 주요 퀘스트,주요 퀘스트,,"현재 참가 가능한 주요 퀘스트용 임무 중에서 무작위로 정해진 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ 이 무작위 임무에서는 동영상을 건너뛸 수 없습니다.
 ※ '무작위 임무: 주요 퀘스트'의 경험치와 길 보너스는 참가한 직업의 레벨에 따라 변동하며, 해당 임무에서 얻을 수 있는 경험치 및 길과의 차액을 보상으로 받게 됩니다.
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
 ※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.
-※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 대규모 파티용 던전,0,112036,0,0,42,0,350,100,50,0,0,0,1,50,50,3,6,142,2,0,0,1,0,60,120,2,0,0,2,False,True,False,False,True,True,True,True,False,False,False,False,True,True
+※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 대규모 파티용 던전,0,112036,0,0,0,42,0,350,100,50,0,0,0,1,50,50,3,6,142,2,0,0,1,0,60,120,2,0,0,2,False,True,False,False,True,True,True,True,False,False,False,False,True,True
 4,무작위 임무: 길드 작전,길드 작전,,"현재 참가 가능한 길드 작전 중에서 무작위로 정해진 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ '무작위 임무: 길드 작전'의 경험치 및 길 보너스는 참가한 직업의 레벨에 따라 변동하며, 해당 임무에서 얻을 수 있는 경험치 및 길과의 차액을 보상으로 받게 됩니다.
@@ -27,72 +27,72 @@
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
 ※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.
 ※ 4인 파티로 참가할 경우, 4인용 길드 작전이 배정되며 역할을 자유롭게 구성할 수 있습니다. 단, 역할 부족 보너스는 지급되지 않습니다.
-※ 피닉스의 꼬리를 사용할 수 없는 임무도 있습니다.",해당 임무: 길드 작전,0,112037,0,0,0,0,0,0,0,0,0,0,1,10,10,4,7,142,3,0,0,1,0,30,0,2,0,0,3,False,True,False,False,True,True,True,True,False,False,False,False,True,True
+※ 피닉스의 꼬리를 사용할 수 없는 임무도 있습니다.",해당 임무: 길드 작전,0,112037,0,0,0,0,0,0,0,0,0,0,0,1,10,10,4,7,142,3,0,0,1,0,30,0,2,0,0,3,False,True,False,False,True,True,True,True,False,False,False,False,True,True
 5,무작위 임무: 숙련자,숙련자,,"한 번 이상 완료한 적이 있는 숙련자용 던전 중에서 무작위로 정해진 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ '무작위 임무: 숙련자'의 길 보너스는 참가한 직업의 레벨에 따라 결정되며, 해당 임무에서 얻을 수 있는 길과의 차액을 보상으로 받게 됩니다.
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
 ※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.
-※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 소규모 파티용 숙련자 던전,0,112057,0,0,720,0,0,60,40,0,0,5,2,100,100,5,1,142,2,0,0,1,0,90,0,2,0,0,4,False,True,False,False,True,True,True,True,False,False,False,False,True,True
+※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 소규모 파티용 숙련자 던전,0,112057,0,0,0,735,0,0,60,40,0,0,5,2,100,100,5,1,142,2,0,0,1,0,90,0,2,0,0,4,False,True,False,False,True,True,True,True,False,False,False,False,True,True
 6,무작위 임무: 토벌전,토벌전,,"현재 참가 가능한 토벌전 중에서 무작위로 정해진 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
 ※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.
-※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 대규모 파티용 토벌전,0,112056,0,0,90,0,0,60,15,0,0,0,1,50,50,6,5,142,3,0,0,1,0,60,0,2,0,0,5,False,True,False,False,True,True,False,True,False,False,False,False,True,True
+※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 대규모 파티용 토벌전,0,112056,0,0,0,90,0,0,60,15,0,0,0,1,50,50,6,5,142,3,0,0,1,0,60,0,2,0,0,5,False,True,False,False,True,True,False,True,False,False,False,False,True,True
 7,일일 도전: 전장,전장,,"일일 도전 과제로 지정된 전장에 참가합니다. 도전할 전장은 임무 찾기의 '정보'에서 확인할 수 있으며 매일 바뀝니다. 전장을 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
-※ 일일 도전 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.",해당 임무: 온살 하카이르(계절끝 합전),0,112083,1000,1500,0,0,0,50,20,1000,0,0,3,30,30,0,15,146,24,0,0,1,28,20,0,0,0,0,6,False,True,True,False,True,True,True,True,False,False,False,False,True,True
+※ 일일 도전 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.",해당 임무: 온살 하카이르(계절끝 합전),0,112083,1000,1500,0,0,0,0,50,20,1000,0,0,3,30,30,0,15,146,24,0,0,1,28,20,0,0,0,0,6,False,True,True,False,True,True,True,True,False,False,False,False,True,True
 8,무작위 임무: 최고 레벨 던전,최고 레벨 던전,,"한 번 이상 완료한 적이 있는 레벨 100 던전 중에서 무작위로 정해진 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ '무작위 임무: 최고 레벨 던전'의 길 보너스는 참가한 직업의 레벨에 따라 변동하며, 해당 임무에서 얻을 수 있는 길과의 차액을 보상으로 받게 됩니다.
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
 ※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.
-※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 소규모 파티용 던전(레벨 100),0,112123,0,0,690,0,0,100,15,0,0,5,2,100,100,7,2,142,2,0,0,1,0,90,0,2,0,0,7,False,True,False,False,True,True,True,True,False,False,False,False,True,True
+※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 소규모 파티용 던전(레벨 100),0,112123,0,0,0,705,0,0,100,15,0,0,5,2,100,100,7,2,142,2,0,0,1,0,90,0,2,0,0,7,False,True,False,False,True,True,True,True,False,False,False,False,True,True
 9,무작위 임무: 멘토,멘토,,"한 번 이상 완료한 적이 있는 멘토용 임무 중에서 무작위로 정해진 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ 최신 전투 멘토 자격을 취득한 캐릭터로만 참가할 수 있습니다.
 ※ '무작위 임무: 멘토'의 길 보너스는 참가한 직업의 레벨에 따라 변동하며, 해당 임무에서 얻을 수 있는 길과의 차액을 보상으로 받게 됩니다.
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
 ※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.
-※ 피닉스의 꼬리를 사용할 수 없는 임무도 있습니다.",해당 임무: 멘토용 임무,0,112144,0,0,725,0,0,30,10,0,0,5,2,100,100,8,10,142,1,0,0,1,0,30,120,2,0,0,8,False,True,False,False,True,True,True,True,False,False,False,False,True,True
-10,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-11,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-12,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-13,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-14,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+※ 피닉스의 꼬리를 사용할 수 없는 임무도 있습니다.",해당 임무: 멘토용 임무,0,112144,0,0,0,745,0,0,30,10,0,0,5,2,100,100,8,10,142,1,0,0,1,0,30,120,2,0,0,8,False,True,False,False,True,True,True,True,False,False,False,False,True,True
+10,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+11,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+12,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+13,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+14,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 15,무작위 임무: 연합 레이드,연합 레이드,,"현재 참가할 수 있는 24인용 연합 레이드 중에서 무작위로 정해진 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ '무작위 임무: 연합 레이드'의 경험치와 보너스는 참가한 직업의 레벨에 따라 변동하며, 해당 임무에서 얻을 수 있는 경험치 및 길과의 차액을 보상으로 받게 됩니다.
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
-※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.",해당 임무: 연합 파티용 레이드,0,112259,0,0,70,0,120,120,50,0,0,0,1,50,50,9,8,142,5,0,0,1,0,120,0,2,0,0,9,False,True,False,True,True,True,False,True,False,False,False,False,True,True
-16,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.",해당 임무: 연합 파티용 레이드,0,112259,0,0,0,70,0,120,120,50,0,0,0,1,50,50,9,8,142,5,0,0,1,0,120,0,2,0,0,9,False,True,False,True,True,True,False,True,False,False,False,False,True,True
+16,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 17,무작위 임무: 일반 레이드,일반 레이드,,"현재 참가할 수 있는 8인용 일반 레이드 중에서 무작위로 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ '무작위 임무: 일반 레이드'의 경험치와 길 보너스는 참가한 직업의 레벨에 따라 변동하며, 해당 임무에서 얻을 수 있는 경험치 및 길과의 차액을 보상으로 받게 됩니다.
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
 ※ 역할 부족 보너스는 임무에 참가 신청을 한 시점에 부족했던 역할에 적용됩니다.
-※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 일반 레이드,0,112294,0,0,170,0,80,60,20,0,0,1,1,60,60,10,9,142,3,0,0,1,0,90,0,2,0,0,10,False,True,False,False,True,True,False,True,False,False,False,False,True,True
+※ 미리 구성된 파티로 참가하였을 경우, 역할 부족 보너스는 지급되지 않습니다.",해당 임무: 일반 레이드,0,112294,0,0,0,170,0,80,60,20,0,0,1,1,60,60,10,9,142,3,0,0,1,0,90,0,2,0,0,10,False,True,False,False,True,True,False,True,False,False,False,False,True,True
 18,초코보 경주: 사골리 사막,사골리 사막,,"'경주 초코보'를 타고 달려 참가자들끼리 순위를 겨룹니다.
 경주에 도전하여 승리를 거머쥡시다!
 
 ※ 경주 초코보의 '체급'에 따라 출전 등급이 정해집니다.
 ※ 파티로 신청하면 파티원의 초코보 중에서 체급이 가장 낮은 경주 초코보의 등급에 맞춰 경주합니다.
 ※ 선택된 등급보다 능력치가 높은 경주 초코보는 등급에 맞게 능력치가 조정됩니다.
-※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.",,0,112086,0,0,0,0,0,0,0,0,0,0,4,1,0,0,32,109,23,3,8,19,26,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
+※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.",,0,112086,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,32,109,23,3,8,19,26,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
 19,초코보 경주: 코스타 델 솔,코스타 델 솔,,"'경주 초코보'를 타고 달려 참가자들끼리 순위를 겨룹니다.
 경주에 도전하여 승리를 거머쥡시다!
 
 ※ 경주 초코보의 '체급'에 따라 출전 등급이 정해집니다.
 ※ 파티로 신청하면 파티원의 초코보 중에서 체급이 가장 낮은 경주 초코보의 등급에 맞춰 경주합니다.
 ※ 선택된 등급보다 능력치가 높은 경주 초코보는 등급에 맞게 능력치가 조정됩니다.
-※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.",,0,112084,0,0,0,0,0,0,0,0,0,0,4,1,0,0,33,109,23,3,8,19,26,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
+※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.",,0,112084,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,33,109,23,3,8,19,26,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
 20,초코보 경주: 고요한 야영지,고요한 야영지,,"'경주 초코보'를 타고 달려 참가자들끼리 순위를 겨룹니다.
 경주에 도전하여 승리를 거머쥡시다!
 
 ※ 경주 초코보의 '체급'에 따라 출전 등급이 정해집니다.
 ※ 파티로 신청하면 파티원의 초코보 중에서 체급이 가장 낮은 경주 초코보의 등급에 맞춰 경주합니다.
 ※ 선택된 등급보다 능력치가 높은 경주 초코보는 등급에 맞게 능력치가 조정됩니다.
-※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.",,0,112085,0,0,0,0,0,0,0,0,0,0,4,1,0,0,34,109,23,3,8,19,26,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
+※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.",,0,112085,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,34,109,23,3,8,19,26,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
 21,초코보 경주: 무작위 코스,무작위 코스,,"'경주 초코보'를 타고 달려 참가자들끼리 순위를 겨룹니다.
 경주에 도전하여 승리를 거머쥡시다!
 
@@ -100,7 +100,7 @@
 ※ 경주 초코보의 '체급'에 따라 출전 등급이 정해집니다.
 ※ 파티로 신청하면 파티원의 초코보 중에서 체급이 가장 낮은 경주 초코보의 등급에 맞춰 경주합니다.
 ※ 선택된 등급보다 능력치가 높은 경주 초코보는 등급에 맞게 능력치가 조정됩니다.
-※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.",,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,31,109,23,3,8,19,26,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
+※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.",,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,31,109,23,3,8,19,26,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
 22,초코보 경주: 사골리 사막(보상 없음),사골리 사막(보상 없음),,"'경주 초코보'를 타고 달려 참가자들끼리 순위를 겨룹니다.
 경주에 도전하여 승리를 거머쥡시다!
 
@@ -108,7 +108,7 @@
 ※ 파티원의 초코보 중에서 체급이 가장 낮은 경주 초코보의 등급에 맞춰 경주합니다.
 ※ 선택된 등급보다 능력치가 좋은 경주 초코보는 등급에 맞게 능력치가 조정됩니다.
 ※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.
-※ 보상과 경험치를 받을 수 없습니다.",,0,112086,0,0,0,0,0,0,0,0,0,0,4,1,0,0,36,109,23,3,8,19,27,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
+※ 보상과 경험치를 받을 수 없습니다.",,0,112086,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,36,109,23,3,8,19,27,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
 23,초코보 경주: 코스타 델 솔(보상 없음),코스타 델 솔(보상 없음),,"'경주 초코보'를 타고 달려 참가자들끼리 순위를 겨룹니다.
 경주에 도전하여 승리를 거머쥡시다!
 
@@ -116,7 +116,7 @@
 ※ 파티원의 초코보 중에서 체급이 가장 낮은 경주 초코보의 등급에 맞춰 경주합니다.
 ※ 선택된 등급보다 능력치가 좋은 경주 초코보는 등급에 맞게 능력치가 조정됩니다.
 ※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.
-※ 보상과 경험치를 받을 수 없습니다.",,0,112084,0,0,0,0,0,0,0,0,0,0,4,1,0,0,37,109,23,3,8,19,27,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
+※ 보상과 경험치를 받을 수 없습니다.",,0,112084,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,37,109,23,3,8,19,27,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
 24,초코보 경주: 고요한 야영지(보상 없음),고요한 야영지(보상 없음),,"'경주 초코보'를 타고 달려 참가자들끼리 순위를 겨룹니다.
 경주에 도전하여 승리를 거머쥡시다!
 
@@ -124,7 +124,7 @@
 ※ 파티원의 초코보 중에서 체급이 가장 낮은 경주 초코보의 등급에 맞춰 경주합니다.
 ※ 선택된 등급보다 능력치가 좋은 경주 초코보는 등급에 맞게 능력치가 조정됩니다.
 ※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.
-※ 보상과 경험치를 받을 수 없습니다.",,0,112085,0,0,0,0,0,0,0,0,0,0,4,1,0,0,38,109,23,3,8,19,27,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
+※ 보상과 경험치를 받을 수 없습니다.",,0,112085,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,38,109,23,3,8,19,27,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
 25,초코보 경주: 무작위 코스(보상 없음),무작위 코스(보상 없음),,"'경주 초코보'를 타고 달려 참가자들끼리 순위를 겨룹니다.
 경주에 도전하여 승리를 거머쥡시다!
 
@@ -133,29 +133,29 @@
 ※ 파티원의 초코보 중에서 체급이 가장 낮은 경주 초코보의 등급에 맞춰 경주합니다.
 ※ 선택된 등급보다 능력치가 좋은 경주 초코보는 등급에 맞게 능력치가 조정됩니다.
 ※ 경주에 참가한 플레이어끼리는 파티 대화로 이야기할 수 있습니다.
-※ 보상과 경험치를 받을 수 없습니다.",,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,35,109,23,3,8,19,27,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
-26,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,34,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-27,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,35,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-28,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,36,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-29,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,37,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-30,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,38,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-31,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,39,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-32,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,40,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-33,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,41,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-34,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,42,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-35,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,43,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-36,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,44,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-37,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,45,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
-38,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,4,1,0,0,46,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+※ 보상과 경험치를 받을 수 없습니다.",,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,35,109,23,3,8,19,27,10,0,0,0,0,-1,True,True,False,False,True,True,True,False,False,False,False,False,True,True
+26,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,34,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+27,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,35,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+28,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,36,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+29,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,37,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+30,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,38,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+31,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,39,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+32,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,40,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+33,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,41,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+34,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,42,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+35,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,43,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+36,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,44,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+37,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,45,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
+38,초코보 경주: 무작위 코스,무작위 코스,,,,0,112295,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,46,109,23,3,8,19,0,10,0,0,0,0,-1,True,False,False,False,False,True,True,False,False,False,False,False,True,True
 39,무작위 임무: 가맹 PC방,가맹 PC방,,"현재 참가할 수 있는 캠페인 대상 임무 중에서 무작위로 정해진 임무에 참가합니다. 임무를 직접 선택하여 참가할 때보다 훨씬 많은 완료 보상을 받을 수 있습니다.
 
 ※ '무작위 임무: 가맹 PC방'의 경험치 및 길 보너스는 참가한 직업의 레벨에 따라 변동하며, 해당 임무에서 얻을 수 있는 경험치 및 길과의 차액을 보상으로 받게 됩니다.
 ※ '무작위 임무' 보상은 하루에 한 번만 받을 수 있으며, 보상 취득 상황은 오전 0시에 초기화됩니다.
 ※ 가맹 PC방에서 접속했을 때에만 입장할 수 있습니다.
-",,0,112363,0,0,0,0,0,0,0,0,0,0,5,24,24,0,0,142,2,0,0,1,0,90,0,2,1,0,11,False,True,False,False,True,True,True,False,False,False,True,False,True,True
-40,크리스탈라인 컨플릭트(일반전),일반전,,"크리스탈라인 컨플릭트. 그것은 에오르제아 도시군사동맹이 소규모 국지전을 가정하여 꾸민 새로운 모의 전투이다. 기존의 대인 전투에, 중요 물자인 '전술 크리스탈'을 확보해서 목적지까지 운반하는 전략적인 요소가 가미되었다. 최신 환영 투사 기술로 재현한 다채로운 환경에서, 승리를 위해 싸워라!",,0,112471,0,0,0,0,0,0,0,0,40027,0,3,30,30,0,47,146,29,3,2,6,43,5,0,0,0,0,-1,False,True,True,False,True,False,False,False,False,False,False,False,True,True
+",,0,112363,0,0,0,0,0,0,0,0,0,0,0,5,28,28,0,0,142,2,0,0,1,0,90,0,2,1,0,11,False,True,False,False,True,True,True,False,False,False,True,False,True,True
+40,크리스탈라인 컨플릭트(일반전),일반전,,"크리스탈라인 컨플릭트. 그것은 에오르제아 도시군사동맹이 소규모 국지전을 가정하여 꾸민 새로운 모의 전투이다. 기존의 대인 전투에, 중요 물자인 '전술 크리스탈'을 확보해서 목적지까지 운반하는 전략적인 요소가 가미되었다. 최신 환영 투사 기술로 재현한 다채로운 환경에서, 승리를 위해 싸워라!",,0,112471,0,0,0,0,0,0,0,0,0,40027,0,3,30,30,0,47,146,29,3,2,6,43,5,0,0,0,0,-1,False,True,True,False,True,False,False,False,False,False,False,False,True,True
 41,크리스탈라인 컨플릭트(등급전),등급전,,"크리스탈라인 컨플릭트. 그것은 에오르제아 도시군사동맹이 소규모 국지전을 가정하여 꾸민 새로운 모의 전투이다. 기존의 대인 전투에, 중요 물자인 '전술 크리스탈'을 확보해서 목적지까지 운반하는 전략적인 요소가 가미되었다. 최신 환영 투사 기술로 재현한 다채로운 환경에서, 승리를 위해 싸워라!
 
 ※ 승패에 따라 승점과 크리스탈 점수가 변동합니다.
 ※ 등급과 계급이 비슷한 상대가 매칭됩니다.
-※ 파티의 역할 구성, 등급, 계급, 크리스탈 점수가 비슷해지도록 팀원을 배치합니다.",,0,112472,0,0,0,0,0,0,0,0,40030,0,3,30,30,0,48,146,29,3,1,6,43,5,0,0,0,1,-1,False,True,True,False,True,False,False,False,False,False,False,False,True,False
+※ 파티의 역할 구성, 등급, 계급, 크리스탈 점수가 비슷해지도록 팀원을 배치합니다.",,0,112472,0,0,1,0,0,0,0,0,0,40030,0,3,30,30,0,48,146,29,3,1,6,43,5,0,0,0,1,-1,False,True,True,False,True,False,False,False,False,False,False,False,True,False
