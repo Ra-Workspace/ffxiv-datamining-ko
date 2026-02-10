@@ -19912,7 +19912,7 @@ Lv<Value>IntegerParameter(7)</Value>"
 17227,"수리 중지"
 17228,"수리 완료"
 17229,"장비 중이거나 장비함 및 소지품에 있는 모든 수리 가능한 아이템을 연속으로 수리하시겠습니까?
-비용: <Value>IntegerParameter(1)</Value>"
+비용: <Format(IntegerParameter(1),FF022C)/>"
 17230,""
 17231,""
 17232,""
