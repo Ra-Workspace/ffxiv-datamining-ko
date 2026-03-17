@@ -11109,7 +11109,7 @@ MGP는 반환되지 않습니다."
 <Sheet(DynamicEvent,IntegerParameter(2),11)/>"
 9895,"화면"
 9896,"----/--/--"
-9897,"'<Sheet(ExVersion,IntegerParameter(1),0)/>'의 부가 퀘스트 '<If(GreaterThan(IntegerParameter(3),0))>???<Else/><Highlight>StringParameter(2)</Highlight></If>' 완료 후,
+9897,"'<Sheet(ExVersion,IntegerParameter(1),0)/>'의 연대기 퀘스트 '<If(GreaterThan(IntegerParameter(3),0))>???<Else/><Highlight>StringParameter(2)</Highlight></If>' 완료 후,
 골드 소서 '신비의 광장'에 있는 '<Sheet(ENpcResident,1044839,0)/>'에게서 교환"
 9898,""
 9899,""
@@ -13658,7 +13658,8 @@ PvP팀 등록에 동의하십니까?"
 
 장비를 환영화하면 아래와 같이 변합니다.
 　・제작자 이름, 장착된 마테리아, 에테르 깃든 장비의 추가 능력치 일부 삭제
-　・장비 투영 초기화, 문장 제거
+　・장비 투영 및 염색 정보 초기화
+　・문장 제거
 　・결속도 0%, 내구도 100%로 초기화
 　・옷장에서 꺼낼 때 귀속"
 11995,"선택한 아이템을 <Sheet(Item,IntegerParameter(1),0)/>×<Value>IntegerParameter(2)</Value>개로 세트 환영화하여 환상의 옷장에 보관하시겠습니까?
@@ -17656,12 +17657,11 @@ PvP '크리스탈라인 컨플릭트'나
 15403,"외전"
 15404,"파티 모집 등록"
 15405,"조건에 맞는 파티 찾기 건수"
-15406,"<If(GreaterThan(IntegerParameter(1),0))>평균 아이템 레벨 <Value>IntegerParameter(1)</Value>이상
+15406,"<If(GreaterThan(IntegerParameter(4),0))>레벨 조율: <Value>IntegerParameter(4)</Value>
+<Else/></If><If(GreaterThan(IntegerParameter(1),0))>평균 아이템 레벨 <Value>IntegerParameter(1)</Value> 이상
 <Else/></If><If(GreaterThan(IntegerParameter(2),0))>아이템 레벨 조율: <Value>IntegerParameter(2)</Value>
-<Else/></If><If(GreaterThan(IntegerParameter(3),0))><Switch(IntegerParameter(3))><Case(1)>잡 체인지 가능</Case><Case(2)>잡 체인지 불가능
-부활 제한</Case><Case(3)>잡 체인지 불가능
-부활 제한
-전멸 시 초기화</Case></Switch><Else/></If>"
+<Else/></If><If(GreaterThan(IntegerParameter(3),0))><Switch(IntegerParameter(3))><Case(1)>임무 내 잡 체인지 가능</Case><Case(2)>임무 내 잡 체인지 불가  부활 제한</Case><Case(3)>임무 내 잡 체인지 불가  부활 제한
+전멸 시 초기화</Case><Case(4)>임무 내 잡 체인지 가능</Case></Switch><Else/></If>"
 15407,"다음 조건이 만족되지 않아 참가할 수 없습니다."
 15408,"변형 기술
 (2종류 설정 가능)"
@@ -17692,12 +17692,12 @@ PvP '크리스탈라인 컨플릭트'나
 15430,"혼자서 입장하시겠습니까?"
 15431,"전투 중이거나 변형 기술이 재사용 대기 중일 때는 변형 기술을 변경할 수 없습니다."
 15432,"퀘스트 '<Sheet(Quest,IntegerParameter(1),0)/>'<13>FF0F02280BFF065175657374E8020103FF04EBA5BCFF04EC9D84</13> 완료해야 읽을 수 있습니다."
-15433,""
-15434,""
-15435,""
-15436,""
-15437,""
-15438,""
+15433,"투표 수: <Value>IntegerParameter(1)</Value>/<Value>IntegerParameter(2)</Value>"
+15434,"남은 시간: <Value>IntegerParameter(1)</Value>초"
+15435,"경로 선택"
+15436,"보유 수"
+15437,"공략 종료"
+15438,"'공략 종료'가 과반수일 경우, 이동 지점 대신 탈출 지점이 나타납니다. 선택하시겠습니까?"
 15439,"<If(GreaterThan(IntegerParameter(2),0))><Value>IntegerParameter(2)</Value><Else/>1</If>~<Value>IntegerParameter(1)</Value>인용"
 15440,"아직 투표를 마치지 않았습니다. 창을 닫으시겠습니까?
 
@@ -19933,7 +19933,7 @@ Lv<Value>IntegerParameter(7)</Value>"
 17247,""
 17248,""
 17249,""
-17250,"초승달 섬: 남부편'에
+17250,"'초승달 섬: 남부편'에
 새로운 서포트 잡과 아이템이 추가되었습니다!
 
 추가된 아이템은 초승달 섬에 있는 NPC
