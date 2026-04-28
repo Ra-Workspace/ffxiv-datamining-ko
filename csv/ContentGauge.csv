@@ -96,3 +96,9 @@ int32,byte,str,ContentGaugeColor,bit&01,str,int16,sbyte,byte,int16,sbyte,byte,in
 92,0,"",0,False,"",0,0,0,0,0,0,0
 93,0,"거대 그라비데 덩어리",2,False,"",-1,1,0,-1,1,0,0
 94,0,"",0,False,"",0,0,0,0,0,0,0
+95,0,"",0,False,"",0,0,0,0,0,0,0
+96,0,"",0,False,"",0,0,0,0,0,0,0
+97,0,"에테르 공급률",2,True,"ContentGaugeMax_negative",-1,1,0,-1,1,0,0
+98,0,"프로마시아의 마력",3,True,"ContentGaugeMax_negative",100,1,2,-1,1,0,0
+99,0,"무의 힘",1,True,"ContentGaugeMax_negative",60,1,3,90,1,2,0
+100,0,"",0,False,"",0,0,0,0,0,0,0

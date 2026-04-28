@@ -1,0 +1,8 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_NO_TARGET_COLORANT","해당하는 아이템이 없습니다."
+1,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_1","갖고 있는 염료를 아래 아이템과 교환하시겠습니까?
+<Highlight>StringParameter(1)</Highlight>"
+2,"TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_2","
+· '<Sheet(Item,IntegerParameter(1),0)/>' <Value>IntegerParameter(2)</Value>개"

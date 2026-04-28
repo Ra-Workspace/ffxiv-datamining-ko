@@ -3,7 +3,7 @@
 int32,str
 0,""
 1,"<CommandIcon(10)/>아이템 회수"
-2,"<CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
+2,"<CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 3,"<CommandIcon(8)/>파티원 순서 변경  <CommandIcon(10)/>세부 메뉴"
 4,"<CommandIcon(11)/>이 조건으로 검색"
 5,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(8)/>구매  <CommandIcon(11)/>판매할 아이템 선택"
@@ -76,7 +76,7 @@ int32,str
 72,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(1)/>로그 선택 <CommandIcon(2)/>탭 전환 <CommandIcon(11)/>로그 확대"
 73,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그 확대"
 74,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>대화 입력으로 돌아가기  <CommandIcon(11)/>로그를 보통 크기로 되돌리기"
-75,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <CommandIcon(13)/>상용구 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
+75,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <CommandIcon(13)/>상용구<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 76,"<CommandIcon(3)/>뒤로  <CommandIcon(4)/>앞으로  <CommandIcon(13)/>상용구"
 77,"<CommandIcon(10)/>세부 메뉴  <CommandIcon(11)/>적용"
 78,"<CommandIcon(11)/>적용  <CommandIcon(10)/>설정 삭제"
@@ -232,14 +232,20 @@ Permission to use, copy, modify, distribute and sell this software and its docum
 LIBRARY FOR DUALSHOCK®4 & DualSense™ WIRELESS CONTROLLER
 ------
 ""DUALSHOCK"" and ""DualSense"" are registered trademarks or trademarks of Sony Interactive Entertainment Inc.
-Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc."
+Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 Sony Interactive Entertainment Inc.
+------
+
+
+------------------------
+QR Code is a registered trademark of DENSO WAVE INCORPORATED in Japan and in other countries.
+------------------------"
 174,"<CommandIcon(12)/><CommandIcon(13)/>범주 선택"
 175,"<CommandIcon(12)/><CommandIcon(13)/>작업 공정 전환 <CommandIcon(10)/>세부 메뉴"
 176,"<CommandIcon(12)/><CommandIcon(13)/>작업 공정 전환 <CommandIcon(10)/>세부 메뉴"
 177,"<CommandIcon(9)/>한 단계 뒤로  <CommandIcon(11)/>탐사 출항"
 178,"<CommandIcon(10)/>세부 메뉴"
 179,"<CommandIcon(8)/>선택 <CommandIcon(9)/>닫기 <CommandIcon(11)/>결정하고 닫기"
-180,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
+180,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 181,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>적용하고 닫기"
 182,"<CommandIcon(9)/>적용하고 닫기"
 183,"<CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>꼬마 친구 목록 보이기"
@@ -274,7 +280,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
  일부 꼬마 친구는 특수기로 '함정'을 설치할 수 있습니다. 함정은 설치 후 10초가 지나야 발동 가능해집니다. 함정을 발동할 때는 메뉴에서 '함정 발동'을 선택하세요.
  ※ 함정은 한 번에 1개만 설치할 수 있습니다.
 
-<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<If(GreaterThan(PlayerParameter(80),0))><UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><66>02</66> 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꼬마 친구 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
  ・꼬마 친구 하나 선택
    <CommandIcon(12)/>+<CommandIcon(7)/>: 꼬마 친구 파티 목록에서 꼬마 친구를 선택
@@ -308,7 +314,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
    ※ 선택한 꼬마 친구를 다시 왼쪽 클릭하면 주변에 있는 같은 꼬마 친구를 모두 선택합니다.
  왼쪽 끌기: 범위 안의 꼬마 친구를 모두 선택
 
-<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><If(GreaterThan(PlayerParameter(75),0))>컨트롤러<Else/>게임패드</If> 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow><66>02</66> 조작 방법<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>꼬마 친구 선택<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
  ・꼬마 친구 하나 선택
    <CommandIcon(12)/>+<CommandIcon(7)/>: 꼬마 친구 파티 목록에서 꼬마 친구를 선택
@@ -441,12 +447,12 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 277,"<CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>꼬마 친구 단축바 편집"
 278,"<CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>위치 변경"
 279,"<CommandIcon(7)/>이동 <CommandIcon(11)/><CommandIcon(8)/>결정 <CommandIcon(9)/>취소"
-280,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
+280,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 281,"<CommandIcon(5)/>이동 <CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴"
 282,"<CommandIcon(8)/>실행 <CommandIcon(10)/>세부 메뉴"
 283,"<CommandIcon(8)/>실행 <CommandIcon(10)/>세부 메뉴 <CommandIcon(11)/>위치 변경"
 284,"<CommandIcon(7)/>이동 <CommandIcon(11)/><CommandIcon(8)/>결정 <CommandIcon(9)/>취소"
-285,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
+285,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 286,"<CommandIcon(5)/>이동 <CommandIcon(8)/>실행 <CommandIcon(10)/>세부 메뉴"
 287,"<CommandIcon(7)/>이동 <CommandIcon(11)/><CommandIcon(8)/><CommandIcon(10)/>결정 <CommandIcon(9)/>취소"
 288,"<CommandIcon(8)/>부르기/돌려보내기 <CommandIcon(10)/>세부 메뉴"
@@ -466,14 +472,14 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 302,"<CommandIcon(10)/>세부 메뉴"
 303,"<CommandIcon(8)/><CommandIcon(10)/>개인실 정보 보기"
 304,"<CommandIcon(8)/><CommandIcon(10)/>개인실 정보 보기"
-305,"<CommandIcon(10)/>삭제<If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
+305,"<CommandIcon(10)/>삭제<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 306,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
 307,"<CommandIcon(8)/>실행 <CommandIcon(10)/>단축바에 등록 <CommandIcon(11)/>꼬마 친구 단축바 편집"
 308,"<CommandIcon(8)/>실행 <CommandIcon(10)/>단축바에 등록 "
 309,"<CommandIcon(8)/>실행 <CommandIcon(10)/>단축바에 등록 "
 310,"<CommandIcon(12)/><CommandIcon(13)/>페이즈 전환"
-311,"<CommandIcon(8)/>결정 <CommandIcon(24)/>상세 정보 스크롤"
-312,"<CommandIcon(8)/>결정"
+311,"<CommandIcon(8)/>결정 <CommandIcon(11)/>고향 서버 돌아가기 <CommandIcon(24)/>상세 정보 스크롤"
+312,"<CommandIcon(8)/>결정 <CommandIcon(11)/>고향 서버 돌아가기"
 313,"<CommandIcon(10)/>부르기 설정 변경 <CommandIcon(11)/>보조 기능 메뉴"
 314,"<CommandIcon(8)/>접속 상태 확인  <CommandIcon(10)/>세부 메뉴  <CommandIcon(9)/>돌아가기"
 315,"<CommandIcon(12)/><CommandIcon(13)/>페이즈 전환　<CommandIcon(8)/>유효한 상태 이상 확인"
@@ -547,7 +553,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 383,"<CommandIcon(24)/>"
 384,"<CommandIcon(25)/>"
 385,"<CommandIcon(11)/>빠른 스크롤 <CommandIcon(10)/>세부 메뉴"
-386,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제 <If(PlayerParameter(94))><If(Equal(PlayerParameter(78),99))><CommandIcon(11)/>가상 키보드<Else/><CommandIcon(11)/>화상 키보드</If><Else/><Indent/></If>"
+386,"<CommandIcon(5)/>이력 <CommandIcon(12)/>+ <CommandIcon(13)/>붙여넣기 <CommandIcon(10)/>삭제<If(PlayerParameter(94))> <CommandIcon(11)/><66>2A</66><Else/><Indent/></If>"
 387,"<CommandIcon(8)/>보상 받기  <CommandIcon(10)/>세부 메뉴"
 388,"<CommandIcon(10)/>세부 메뉴"
 389,"<CommandIcon(10)/>세부 메뉴"
@@ -677,7 +683,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 [Z] 키(무기 넣기/무기 꺼내기) / <Gui(16)/> 버튼
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키 / <CommandIcon(7)/> 방향키
+[<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키 / <CommandIcon(7)/><66>3E</66>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 [<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프) / <CommandIcon(11)/> 버튼
@@ -691,7 +697,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 <Gui(16)/> 버튼 / [Z] Key (무기 넣기/무기 꺼내기)
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/> <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If> / [<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키
+<CommandIcon(7)/> <66>3E</66> / [<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <CommandIcon(11)/> 버튼 / [<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프)
@@ -746,7 +752,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 [Z] 키(무기 넣기/무기 꺼내기) / <Gui(16)/> 버튼
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-[<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키 / <CommandIcon(7)/> 방향키
+[<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키 / <CommandIcon(7)/><66>3E</66>
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 [<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프) / <CommandIcon(11)/> 버튼
@@ -760,7 +766,7 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 <Gui(16)/> 버튼 / [Z] Key (무기 넣기/무기 꺼내기)
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>카메라 주시 대상 변경<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
-<CommandIcon(7)/> <If(Equal(PlayerParameter(106),99))>방향패드<Else/>방향키</If> / [<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키
+<CommandIcon(7)/> <66>3E</66> / [<If(Equal(PlayerParameter(78),3))>tab, shift+tab<Else/>Tab, Shift+Tab</If>] 키
 
 <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>다시보기 일시 정지 및 재생<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
 <CommandIcon(11)/> 버튼 / [<If(Equal(PlayerParameter(78),3))>스페이스 바<Else/>스페이스 바</If>](점프)
@@ -847,10 +853,10 @@ Library programs for DUALSHOCK®4 and DualSense™ wireless controllers © 2021 
 504,"<CommandIcon(10)/>サブコマンド <CommandIcon(11)/>複数選択 <CommandIcon(20)/>カーソルの移動"
 505,"<CommandIcon(8)/>열기/닫기/미리보기 <CommandIcon(11)/>미리보기 <CommandIcon(20)/>이동 <CommandIcon(25)/>회전 <CommandIcon(12)/>+<CommandIcon(24)/>확대/축소"
 506,"<CommandIcon(11)/>적용"
-507,""
-508,""
-509,""
-510,""
+507,"<CommandIcon(10)/>세부 메뉴"
+508,"<CommandIcon(8)/>결정 <CommandIcon(12)/><CommandIcon(13)/>데이터 센터 선택 <CommandIcon(11)/>고향 서버 돌아가기 <CommandIcon(24)/>상세 정보 스크롤"
+509,"<CommandIcon(8)/>결정 <CommandIcon(12)/><CommandIcon(13)/>데이터 센터 선택 <CommandIcon(11)/>고향 서버 돌아가기"
+510,"<CommandIcon(8)/><CommandIcon(10)/>세부 메뉴"
 511,""
 512,""
 513,""
