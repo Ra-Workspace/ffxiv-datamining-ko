@@ -1156,7 +1156,7 @@ http://ff14.co.kr","",""
 867,0,0,0,"최신 백업 캐릭터","",""
 868,0,0,0,"데이터 없음","",""
 869,0,0,0,"백업 일시: <Time(IntegerParameter(1))/><Value>TopLevelParameter(222)</Value>/<Value>TopLevelParameter(221)</Value>/<Value>TopLevelParameter(219)</Value> <Value>TopLevelParameter(218)</Value>:<TwoDigitValue>TopLevelParameter(217)</TwoDigitValue>","",""
-870,0,0,0,"[<Switch(IntegerParameter(1))><Case(1)>Win</Case><Case(2)>PS4</Case><Case(3)>Mac</Case><Case(4)>PS5</Case><Case(5)>Xbox</Case><Case(6)>Switch2</Case></Switch>]","",""
+870,0,0,0,"[<Switch(IntegerParameter(1))><Case(1)>Win</Case><Case(2)>PS4</Case><Case(3)>Mac</Case><Case(4)>PS5</Case><Case(5)>Xbox</Case><Case(6)>Switch 2</Case></Switch>]","",""
 871,0,0,0,"백업 준비가 완료되었습니다.","",""
 872,0,0,0,"다운로드 준비가 완료되었습니다.","",""
 873,0,0,0,"다른 캐릭터의 <UIForeground>F20239</UIForeground><UIGlow>F2023A</UIGlow>캐릭터 설정 데이터<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 적용합니다.","",""
@@ -2397,11 +2397,13 @@ http://ff14.co.kr","",""
 대외적으로는 역사 깊은 울 왕조의 여왕 '나나모 울 나모'가 통치하는 왕정이라고 하나,
 실제로는 모래전갈회라는 여섯 사람의 실세가 나랏일을 좌우하고 있다."
 1983,0,0,0,"","",""
-1984,0,0,0,"'이름에는 한글 및 영문만 사용할 수 있으며,2자이상 최대 9자로 지을 수 있습니다.
+1984,0,0,0,"'이름에는 한글 및 영문만 사용할 수 있으며,
+ 2자이상 최대 9자로 지을 수 있습니다.
  (한글, 영문 모두 한 글자로 취급됩니다.)
  공백은 넣을 수 없습니다.<If(Equal(PlayerParameter(75),7))>
 ※ 입력란 선택 중: <CommandIcon(11)/> <66>2A</66> 기동<Else/></If>","",""
-1985,0,0,0,"이름에는 한글 및 영문만 사용할 수 있으며,2자이상 최대 9자로 지을 수 있습니다.
+1985,0,0,0,"이름에는 한글 및 영문만 사용할 수 있으며,
+ 2자이상 최대 9자로 지을 수 있습니다.
  (한글, 영문 모두 한 글자로 취급됩니다.)
  공백은 넣을 수 없습니다.<If(Equal(PlayerParameter(75),7))>
 ※ 입력란 선택 중: <CommandIcon(11)/> <66>2A</66> 기동<Else/></If>","",""

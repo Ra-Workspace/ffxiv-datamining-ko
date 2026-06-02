@@ -1,153 +1,356 @@
 ﻿key,0,1
 #,,
 int32,str,str
-0,"",""
-1,"",""
-2,"",""
-3,"",""
-4,"",""
-5,"",""
-6,"",""
-7,"",""
-8,"",""
-9,"",""
-10,"",""
-11,"",""
-12,"",""
-13,"",""
-14,"",""
-15,"",""
-16,"",""
-17,"",""
-18,"",""
-19,"",""
-20,"",""
-21,"",""
-22,"",""
-23,"",""
-24,"",""
-25,"",""
-26,"",""
-27,"",""
-28,"",""
-29,"",""
-30,"",""
-31,"",""
-32,"",""
-33,"",""
-34,"",""
-35,"",""
-36,"",""
-37,"",""
-38,"",""
-39,"",""
-40,"",""
-41,"",""
-42,"",""
-43,"",""
-44,"",""
-45,"",""
-46,"",""
-47,"",""
-48,"",""
-49,"",""
-50,"",""
-51,"",""
-52,"",""
-53,"",""
-54,"",""
-55,"",""
-56,"",""
-57,"",""
-58,"",""
-59,"",""
-60,"",""
-61,"",""
-62,"",""
-63,"",""
-64,"",""
-65,"",""
-66,"",""
-67,"",""
-68,"",""
-69,"",""
-70,"",""
-71,"",""
-72,"",""
-73,"",""
-74,"",""
-75,"",""
-76,"",""
-77,"",""
-78,"",""
-79,"",""
-80,"",""
-81,"",""
-82,"",""
-83,"",""
-84,"",""
-85,"",""
-86,"",""
-87,"",""
-88,"",""
-89,"",""
-90,"",""
-91,"",""
-92,"",""
-93,"",""
-94,"",""
-95,"",""
-96,"",""
-97,"",""
-98,"",""
-99,"",""
-100,"",""
-101,"",""
-102,"",""
-103,"",""
-104,"",""
-105,"",""
-106,"",""
-107,"",""
-108,"",""
-109,"",""
-110,"",""
-111,"",""
-112,"",""
-113,"",""
-114,"",""
-115,"",""
-116,"",""
-117,"",""
-118,"",""
-119,"",""
-120,"",""
-121,"",""
-122,"",""
-123,"",""
-124,"",""
-125,"",""
-126,"",""
-127,"",""
-128,"",""
-129,"",""
-130,"",""
-131,"",""
-132,"",""
-133,"",""
-134,"",""
-135,"",""
-136,"",""
-137,"",""
-138,"",""
-139,"",""
-140,"",""
-141,"",""
-142,"",""
-143,"",""
-144,"",""
-145,"",""
-146,"",""
-147,"",""
-148,"",""
-149,"",""
+0,"TEXT_CTSSFSCHARACTER12_00963_GREETING_TIISOLJA_000_000","안녕, <Highlight>ObjectParameter(1)</Highlight> 씨!
+우리 가게 타코를 홍보하는 데 쓸 물건들 말인데,
+납품 좀 부탁해도 될까요?"
+1,"TEXT_CTSSFSCHARACTER12_00963_GREETING_TIISOLJA_000_001","<Highlight>ObjectParameter(1)</Highlight> 씨, 항상 도와줘서 고마워요~!
+알렉산드리아까지 맛을 그대로 유지할 수 있는,
+타코 배달용 물품을 잘 부탁해요~!"
+2,"TEXT_CTSSFSCHARACTER12_00963_GREETING_TIISOLJA_000_002","기다리고 있었어요, <Highlight>ObjectParameter(1)</Highlight> 씨!
+새로 발매할 타코에 꼭 필요한
+맛있는 페이스트용 재료를 잘 부탁해요~!"
+3,"TEXT_CTSSFSCHARACTER12_00963_GREETING_TIISOLJA_000_003","네네네, <Highlight>ObjectParameter(1)</Highlight> 씨.
+매번 정말로 고마워요~!
+타코냥 튜닉에 필요한 물건들, 잘 부탁해요~!"
+4,"TEXT_CTSSFSCHARACTER12_00963_GREETING_TIISOLJA_000_004","<Highlight>ObjectParameter(1)</Highlight> 씨 얼굴을 볼 수 있어서
+이 티 아줌마는 얼마나 기쁜지 몰라요!
+오늘은 우리 가게에서 최고로 맛있는 타코 먹고 갈래요~?"
+5,"TEXT_CTSSFSCHARACTER12_00963_TOPMENU_000_000","무엇을 하시겠습니까?"
+6,"TEXT_CTSSFSCHARACTER12_00963_TOPMENU_000_001","의뢰물 건네주기(<Sheet(ENpcResident,IntegerParameter(1),0)/>: 남은 횟수 <Value>IntegerParameter(2)</Value>회)"
+7,"TEXT_CTSSFSCHARACTER12_00963_TOPMENU_000_002","'단골 거래'에 대해 물어보기"
+8,"TEXT_CTSSFSCHARACTER12_00963_TOPMENU_000_003","취소"
+9,"TEXT_CTSSFSCHARACTER12_00963_TUTORIAL_000_000","단골손님에게 '소장품'을 납품하면 이야기가 진행됩니다.
+상세한 방법은 ''단골 거래'에 대해 물어보기'에서
+도움말을 확인해 보세요!"
+10,"TEXT_CTSSFSCHARACTER12_00963_TUTORIAL_001_000","의뢰물을 납품함으로써
+<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EAB080FF04EC9DB4</13> 당신을 신뢰하게 되었습니다."
+11,"TEXT_CTSSFSCHARACTER12_00963_TUTORIAL_001_001","납품 시마다 쌓이는 '신뢰도'가 최대치에 도달하면
+'신뢰 단계'가 상승하며, <Sheet(ENpcResident,IntegerParameter(1),0)/>의
+새로운 이야기를 볼 수 있습니다."
+12,"TEXT_CTSSFSCHARACTER12_00963_TUTORIAL_001_002","납품은 일주일에 최대 6번까지 가능합니다.
+적극적으로 소장품을 납품하여 신뢰도를 올리세요!"
+13,"TEXT_CTSSFSCHARACTER12_00963_WEEKLYLIMIT_000_000","이번 주에는 더 납품할 수 없습니다.
+현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
+다시 납품할 수 있습니다."
+14,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_001_000","우리 가게도 눈에 띄려고 깃털과 금세공으로 장식한 거예요!
+솔루션 나인에서도 손님들의 시선을 끌 수 있도록
+화려한 간판이나 전단지를 준비하면 좋을 것 같은데?"
+15,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_001_001","우리도 포장해 가도 따뜻하게 먹을 수 있게
+보온용 연금약을 용기에 발라 두기도 한답니다.
+멀리 운반해도 맛이 유지될 만한, 좋은 걸로 부탁해요!"
+16,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_001_002","맛있는 페이스트를 만들려면 다양한 도구가 필요해요.
+소재가 다른 조리 도구로 으깨는 정도를 조절하거나
+천으로 걸러보기도 하면서 이것저것 시도해 보고 싶어요!"
+17,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_001_003","귀여운 타코냥과 먹음직스러운 타코를
+튜닉 한가운데에 큼직하게 넣고 싶어요!
+좋은 원단이랑 고급 잉크를 쓰는 게 좋겠죠?"
+18,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_001_004","2호점 근처에서 팔던 음료수, 정말 좋지 않았나요?
+통통 튀는 타코에는 그렇게 통통 튀는 용기도 있으면 좋겠어요!"
+19,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_002_000","간판과 전단지는 아주 화려하게 만들고 싶거든요!
+어떤 암석 가루는 선명한 색이 나온다고 평판이 좋아서
+옷이랑 건물에도 많이 쓰인다고 들었어요~!"
+20,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_002_001","갓 구운 토르티야에 촉촉한 속재료가 들어가는 게 타코의 묘미!
+따뜻함을 유지하려면 샤드 같은 것이 아주 요긴하죠~!"
+21,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_002_002","재료가 전부 페이스트여도 타코를 완성해주는……
+그 중요한 역할을 맡고 있는 것이 바로 특제 향신료예요!
+가루 상태로 넣어 반죽해도 풍미가 좋은, 딱 맞는 게 있어요~!"
+22,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_002_003","평소 잘 유통되지 않는 목화가 좋대요!
+일할 때 입을 거라서 막 빨아도
+끄떡없는 튼튼한 원단을 썼으면 하거든요."
+23,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_002_004","토르티야는 원래 옥수수로 만들지만
+밀이나 콩으로도 만들 수 있어요.
+반죽에 향신료를 넣는 것도 괜찮을 것 같은데요~?"
+24,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_003_000","이 티 아줌마가 제일 좋아하는 생선이 있거든요?
+맛도 좋고 육수도 낼 수 있는데 비늘도 반짝반짝 이뻐요~!
+간판에 장식으로 쓰면 딱 어울릴 것 같은데 어때요?"
+25,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_003_001","우리 타코는 흘러넘칠 만큼 속재료가 듬뿍이죠!
+최대한 흐트러뜨리지 않고 배달할 수 있도록
+말리면 탄성이 살아나는 해파리 살을 완충재로 써봐요!"
+26,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_003_002","아주 빠르게 헤엄치는 새우가 있는데,
+영양가가 많은 대신 살이 좀 단단해요.
+부드럽게 으깨서 맛있는 페이스트로 만들까 봐요!"
+27,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_003_003","실을 진한 색으로 물들일 수 있는 오징어 먹물이 있대요!
+요리에 쓰이는 오징어 먹물도 있긴 한데,
+그건 진한 색으로 물들이기가 어려운 모양이에요~"
+28,"TEXT_CTSSFSCHARACTER12_00963_KNOWLEDGE_TIISOLJA_003_004","탄산 성분이 있어서 먹으면 톡톡 튀는 식감의 생선이 있대요!
+입에 넣는 순간 파직파직 터지는 자극적인 타코……
+어때, 어때, 한 번쯤 먹어보고 싶지 않나요?"
+29,"TEXT_CTSSFSCHARACTER12_00963_JUDGEMENT_TIISOLJA_000_000","……응, 잘 받았어요~!
+덕분에 우리도 안심하고 일에 전념할 수 있었어요.
+정말 고마워요~!"
+30,"TEXT_CTSSFSCHARACTER12_00963_JUDGEMENT_TIISOLJA_000_001","……응, 확실히 받았어요~!
+언제나 멋진 물건을 준비해줘서
+얼마나 고마운지 몰라요!"
+31,"TEXT_CTSSFSCHARACTER12_00963_JUDGEMENT_TIISOLJA_000_002","……어머 어머 어머, 이게 웬일이야, 정말!
+이런 세계 최고급이라 해도 될 물건을 가져오다니
+역시 <Highlight>ObjectParameter(1)</Highlight> 씨는 대단하군요!"
+32,"TEXT_CTSSFSCHARACTER12_00963_JUDGEMENT_TIISOLJA_000_003","……세상에, 세상에, 몇 번을 봐도 놀라워요!
+이렇게나 좋은 물건을 받았으니
+나도 힘내서 세상에서 제일 맛있는 타코를 준비해줄게요~!"
+33,"TEXT_CTSSFSCHARACTER12_00963_FULLBAG_000_000","소지품에 공간이 부족하여
+신뢰도 상승 보상을 받을 수 없습니다."
+34,"TEXT_CTSSFSCHARACTER12_00963_FULLBAG_000_001","소지품을 정리한 뒤,
+<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 다시 말을 거십시오."
+35,"TEXT_CTSSFSCHARACTER12_00963_BEFRANKUP_TIISOLJA_000_000","아~ 정말, 너무 큰 도움이 됐어요!
+저쪽에서 홍보할 때 쓸 수 있도록
+스트라타 씨한테도 바로 전달할게요~!"
+36,"TEXT_CTSSFSCHARACTER12_00963_BEFRANKUP_TIISOLJA_001_000","좋아, 이 정도만 있으면 충분해요!
+스트라타 씨에게 연락해서 배달 시식을 시작하라고 할게요~!"
+37,"TEXT_CTSSFSCHARACTER12_00963_BEFRANKUP_TIISOLJA_002_000","네네네, 이제 완벽해요!
+이제 이걸 사용해서 맛있는 시제품을 만들 테니까
+조~금만 기다려 줘요~"
+38,"TEXT_CTSSFSCHARACTER12_00963_BEFRANKUP_TIISOLJA_003_000","이렇게 좋은 걸 받아 버렸으니,
+멋있고 편한 유니폼으로 활용하면 되겠어요!
+그래, 후키에게 한번 입혀볼까 봐요!"
+39,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_001_001","준비해주신 걸 활용하니 홍보 효과가 아주 좋아요.
+먹어보고 싶다는 사람이 많아지면서 화제몰이 중입니다.
+첫 번째 과제는 달성한 걸로 하죠."
+40,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_001_002",""
+41,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_001_003","그런데 홍보를 통해 타코의 인지도가 높아져서
+음식에 보수적인 층에서는 번거롭다는 의견도 들립니다.
+종류가 너무 많아서 뭘 어떻게 선택해야 좋을지 모르겠다고……."
+42,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_001_004","저번에 말했듯이 알렉산드리아 태생인 주민들은
+주로 젤리나 퍼펙트 바 같은 효율을 중시한 식사를 하거든요.
+취향에 맞는 음식을 고르는 것이 익숙하지 않을 거예요."
+43,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_001_005","축제 때 찾아와준 것도 대부분 투랄 출신 사람들이었죠.
+그렇다고 메뉴나 재료를 너무 줄이는 건……."
+44,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_001_006","그런 건 우리 가게답지 않아요…….
+타코의 좋은 점은 다양한 재료 중에서
+내 취향에 맞는 재료만 한가득 고를 수 있다는 점이니까요……!"
+45,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_001_106","다양한 재료는 양보할 수 없지만,
+고민 없이 바로 고를 수 있는 추천 메뉴가 필요하겠어.
+우리 가게에선 '티 아줌마네 지옥불 타코'가 인기지만……."
+46,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_001_007","그래서 말인데요.
+다음 과제는 고객의 수요를 파악하는 것……
+실제로 시식해 보도록 하고, 다양한 취향을 알아봅시다."
+47,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_001_008","여러 가지 타코를 준비해서 현지에서 시식을 진행하는 거예요.
+그리고 처음 드시는 분이나 오랜만에 맛보는 분들에게
+다양한 의견을 들을 수 있는 기회로 삼는 거죠."
+48,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_001_009","고객분들의 취향에 맞추는 것이 제일 중요하니까요!
+그쪽 사람들이 먹고 싶어할 만한 타코가 어떤 맛일지
+완벽하게 찾아보는 거야~!"
+49,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_001_010","시식이라면 가게에서 요리사를 보내야겠네요!
+종류도 다양하게 준비해야 한다면
+후키 같은 베테랑이 있어야 할 것 같아요."
+50,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_001_011","신입 교육이랑 설비 투자는 아직 검토 중이긴 한데…….
+당분간은 툴라이욜라 쪽 운영을 조금 줄이고,
+시식 준비를 먼저 진행하는 게 좋으려나요."
+51,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_Q1_001_000","뭐라고 말씀하시겠습니까?"
+52,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_A1_001_001","저쪽에는 배달부라는 직업이 있을 텐데"
+53,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_A1_001_002","툴라이욜라에서 배송을 받으면……"
+54,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_001_012","그래요, 이 가게에서 조리한 걸 현지로 보내는 게 효율적이겠네요.
+좋습니다, 장거리 운송이 가능한 배달부를 알아보겠습니다."
+55,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_001_013","어머나, 그래주면 너무 고맙죠!
+그럼 말인데 혹시 저쪽에서 인기 있는 식품을
+툴라이욜라까지 가져와 달라고 할 수도 있어요~?"
+56,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_001_014","후후훗!
+시장 조사를 충분히 해볼게요!"
+57,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_001_015",""
+58,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_001_016",""
+59,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_001_017","그래도 일단은 시식에 쓸 타코부터 준비해야겠어요!
+당신은 보온 용기랑 운반 용품을 구해다 줄 수 있을까요?
+먼 곳으로 배송해도 맛이 그대로 유지될 만한 걸로 부탁해요!"
+60,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_002_000","덕분에 시식도 잘 진행해서 다양한 의견을 들을 수 있었습니다.
+토르티야와 재료 조합이 신선하고 맛있다,
+먼 데서 왔는데도 방금 만든 것처럼 맛있다, 이런 반응이 많았어요."
+61,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_002_001","하지만 효율을 중시하는 고객은 영양 부족을 걱정하는 경향이 있었고,
+재료가 자꾸 흘러서 먹기 불편하다는 의견도 있었습니다.
+관련 내용은 자료로 정리해 두었으니 확인 부탁드립니다."
+62,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_002","……가장 인기 있는 맛은 허브를 곁들인 로네크 고기 타코네요.
+고민하는 분들에겐 이걸 추천 메뉴로 권해 드리면 될 것 같아요!"
+63,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_003",""
+64,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_004","목표는 알렉산드리아 손님들도 편하게 먹을 수 있고,
+영양도 챙기면서 취향에도 딱 맞는 맛있는 타코네요~!
+좋아~ 이제 방향이 보여요!"
+65,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_002_005","후후…… 그렇다면 다음 과제는
+'새로운 주력 상품이 될 타코' 개발하기로 하시죠."
+66,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_MOBCHEF_002_006","(-???-)으아아, 사장님 도와주세요!"
+67,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_MOBCHEF_002_106","타코냥이 오래된 소스를 노리고 쫓아와선 떨어질 생각을 안 해요!"
+68,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TACOCAT_002_007","후냥~~!"
+69,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_008","어머나, 평소엔 얌전한 아이인데 배가 고픈 걸까~?
+마침 방금 부드러운 생선 딥이 완성됐으니까,
+조금 줘도 괜찮아~"
+70,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_009","……아, 그래요!
+좋은 생각이 났어요!"
+71,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_010","그쪽에서 인기 있는 젤리나 영양식처럼요,
+고기랑 허브 같은 속재료를 전부 페이스트로 만드는 거예요!
+그리고 흘리지 않게 토르티야로 감싸는 거죠! "
+72,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_011","그러면 먹기도 훨씬 편해지고 거기다가……
+페이스트에 몸에 좋은 재료를 갈아서 넣으면
+영양가 측면에서도 완벽하지 않겠어요~?"
+73,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_002_012","타, 타코는 여러 재료의 식감이 중요하잖아요!?
+그런 요소가 없는 것을 '티 아줌마네 타코집'의
+주력 상품으로 팔게 되면……?"
+74,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_002_013","과연, 그걸 정말로 타코라고 부를 수 있을지……. "
+75,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_014","어머 왜 안 되니~?
+우리 가게에서 만드는 건, 뭐든 다 진짜 타코라구~!"
+76,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_015","겉모습은 알렉산드리아식으로 완성하더라도,
+맛에서는 제대로 된 타코의 맛이 나도록 할 거야.
+그게 우리가 해야 할 일이니까!"
+77,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_002_115","……그, 그래요.
+사장님이 그렇게 말씀하신다면……."
+78,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_016","자, 그렇게 정해졌으면 얼른 시작해봐야죠!
+알렉산드리아와 툴라이욜라의 문화를 융합시킨 새로운 타코,
+이름하여 '네오 타코'를 만들어 보는 거예요~!"
+79,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_017","페이스트를 맛있게 완성하려면 손이 좀 가긴 하지만,
+주력 상품으로 팔려면 빠르게 많이 만들 수 있어야 하겠네요.
+작업 순서도 확인하고, 도구도 제대로 갖춰야겠어요."
+80,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_002_018","재료를 갈아서 페이스트로 만들려면
+전용 도구랑 풍미가 강한 식재료가 필요해요.
+당신에게 부탁드려도 되죠?"
+81,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_003_001","로네크 고기의 감칠맛에 톡 쏘는 허브……
+여기에 영양가 높은 재료를 더해 페이스트로 만들면서
+우리 가게만의 맛은 제대로 살린 것 같아요……."
+82,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_003_002","그래도 기존 메뉴랑 비교하면 꽤 파격적이긴 하죠.
+이걸 주력 상품으로 판다니……
+무엇보다, 이걸 '타코'라고 해도 괜찮을까요?"
+83,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_003","후키, 그건……."
+84,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TACOCAT_003_004","후냐냥~!
+후냐~~냥!"
+85,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_MOTHER00963_003_005","저, 여기가 타코 가게 맞나요?
+식사할 곳을 찾고 있었는데, 이 고양이가 자꾸 부르길래
+홀린 듯 따라왔더니 여기까지 오게 됐네요……."
+86,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_GIRL00963_003_006",""
+87,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_007","어머나, 잘 오셨어요~ '티 아줌마네 타코집'이에요!
+식사할 곳을 찾으셨다면 마침 잘 오셨네요.
+알렉산드리아식 새로운 타코를 방금 만들어 봤거든요……."
+88,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_008",""
+89,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_003_008","시험 삼아 만든 거긴 한데…… 괜찮으시면 드셔보시겠어요?
+이걸 타코라고 해도 될지, 아직 고민이긴 한데요,
+알렉산드리아 분들 입맛에는 어떨지, 여쭤보고 싶어서요……."
+90,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_MOTHER00963_003_009",""
+91,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_GIRL00963_003_010","맛있었어요, 내일도 또 먹고 싶어요!
+알렉산드리아 음식처럼 먹기 편한데,
+한입에 여러 맛이 나요…… 이런 건 처음이에요!"
+92,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_MOTHER00963_003_011","저는 투랄 출신인데요,
+정말 이 그리운 맛은 타코 그 자체네요……!"
+93,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_MOTHER00963_003_012","딸아이가 여기 음식에 잘 적응을 못했거든요.
+아까 타코라 불러도 될지 고민이라고 하셨는데……
+이 타코를 좋아할 알렉산드리아 사람들, 분명 많을 거예요!"
+94,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_013",""
+95,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_003_013","고마워요……!
+언젠가 가게에 정식 메뉴로 넣을 테니까
+괜찮으시다면 다시 방문해 주세요~!"
+96,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_014","손님이 기뻐해주셨어~!
+네오 타코, 어떤 것 같아……? 아직 고민 중이니?"
+97,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_015",""
+98,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_003_015","아뇨, 가장 중요한 것을 실현해주는 게 네오 타코라는 걸,
+저 손님들 덕분에 이제야 깨달았습니다.
+사장님에 비하면 제 생각이 짧았네요."
+99,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_016","맞아, 우리의 목표는
+손님들을 웃게 만드는 타코를 만드는 것이잖니!
+그걸 위해서라면 색다른 도전도 거침없이 해봐야지!"
+100,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_003_017",""
+101,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_003_018","원래 저도 사장님이 만든 기발한 메뉴에 끌려서
+'티 아줌마네 타코집'의 일원이 됐었죠.
+손님들이 기뻐할 타코를, 최선을 다해 선보일게요!"
+102,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_003_019",""
+103,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_020",""
+104,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_003_021","그렇다면 주력 상품 과제도 달성했다고 봐야겠군요.
+로디나에게 연락하고, 현지 매장도 준비를 해 놓겠습니다."
+105,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_003_022","자, 주력 상품은 만반의 준비를 끝낸 상태입니다만,
+성공시키기 위해 화제성을 좀 더 끌어올리고 싶군요.
+개점을 확실하게 알릴 수 있고 눈길을 사로잡을 무언가……."
+106,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_003_023","타코냥 캐릭터를 넣은 맞춤 튜닉을 만들어보는 건 어떨까요?
+편한 차림을 하고 있으면 그 그림으로 시선을 끌 수 있고,
+친근한 느낌도 더 살릴 수 있을 겁니다."
+107,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_STRATA_003_024",""
+108,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_025","너무 좋은데요~?
+타코냥도 어느새 우리 가게의 마스코트 고양이가 됐고……
+가게도 바빠졌으니, 고양이 손이라도 빌려야겠어요."
+109,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_026","그리고 물론, 튜닉 제작은
+우리 단골 장인이 실력 발휘를 해주실 거죠?"
+110,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_003_027","2호점에는 요리사를 몇 명 교대로 보낼 생각이라서
+조금 수량을 넉넉하게 만들면 좋을 것 같아요.
+귀엽게 만들어 줘요~~ 부탁해요~~!!"
+111,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_004_001","어머~~ 너무 잘 어울린다아~~!"
+112,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_004_002","품질도 참 좋네요, 역시 대단해요~
+고마워요, <Highlight>ObjectParameter(1)</Highlight> 씨!"
+113,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_004_003",""
+114,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_004_004","튜닉을 준비하고 있을 때도
+네오 타코의 재료와 조리법을 더 많이 연구했답니다!
+더 맛있는 맛을 찾아내는 것이 내 삶의 보람이거든요~!"
+115,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_004_005","사실은 저도 현지에 대해 조사하기도 하고,
+농장 및 생산 설비라는 반구의 내부 사정을 알아보기도 했어요.
+현지에서 구하기 쉬운 식재료가 있다면 그걸 활용할까 해서요."
+116,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_HHUKI_004_006","생산 설비의 채소 중에 타코 재료로 쓸 만한 게 있었어요.
+잘 조합하면 맛은 유지하면서 원가 절감도 될 것 같은데요,
+어떻게 생각하시나요, 사장님? "
+117,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_004_007","어머나, 세상에! 너무나 훌륭한 생각이네!
+2호점을 성공시키기 위해서라도 이것저것 시도해 보자!"
+118,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_004_008","이쪽 준비도 드디어 다 끝났어요!
+스트라타 씨에게도 전달해야겠네요."
+119,"TEXT_CTSSFSCHARACTER12_00963_LCUT_RANKUP_TIISOLJA_004_009","당신도 꼭 개점할 때 와주셔야 해요.
+이제 얼마 안 남았으니 잘 부탁해요~!"
+120,"TEXT_CTSSFSCHARACTER12_00963_RANKUPINFO_000_000","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+당신을 '티 아줌마네 타코집의 고마운 조력자'
+라고 여기게 되었습니다!"
+121,"TEXT_CTSSFSCHARACTER12_00963_RANKUPINFO_000_001","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+당신을 '티 아줌마네 타코집의 든든한 공동 기획자'
+라고 여기게 되었습니다!"
+122,"TEXT_CTSSFSCHARACTER12_00963_RANKUPINFO_000_002","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+당신을 '티 아줌마네 타코집 도약의 일등공신'
+이라고 여기게 되었습니다!"
+123,"TEXT_CTSSFSCHARACTER12_00963_RANKUPINFO_000_003","<Sheet(ENpcResident,IntegerParameter(1),0)/>의 신뢰 단계가 상승했습니다!
+당신을 '티 아줌마네 타코집의 명예 후견인'
+이라고 여기게 되었습니다!"
+124,"TEXT_CTSSFSCHARACTER12_00963_RANKUPINFO_001_001","<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13>
+계속해서 당신의 도움이 필요한 듯합니다."
+125,"TEXT_CTSSFSCHARACTER12_00963_RANKUPINFO_001_002","<Sheet(ENpcResident,IntegerParameter(1),0)/><13>FF16022812FF0D454E70635265736964656E74E8020103FF04EB8A94FF04EC9D80</13> 당신에게 새로운 부탁을 하려는 듯합니다."
+126,"TEXT_CTSSFSCHARACTER12_00963_AFTRANKUP_000_001","새로운 의뢰를 받아 납품 목록이 갱신되었습니다.
+<Sheet(ENpcResident,IntegerParameter(1),0)/>에게 말을 건 후
+'의뢰물 건네주기'를 선택해 확인하세요."
+127,"TEXT_CTSSFSCHARACTER12_00963_AFTRANKUP_001_001","단골 거래 이야기 퀘스트를 진행할 수 있게 되었습니다.
+툴라이욜라에 있는 '티소쟈'에게서 퀘스트를 받을 수 있습니다.
+퀘스트를 완료하면 납품 목록이 갱신됩니다."
+128,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_001_000","안녕, <Highlight>ObjectParameter(1)</Highlight> 씨!
+언제나 도와줘서 고마워요! "
+129,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_001_001","당신도 시간 있을 때 배 좀 채워 놔요!
+우리 가게는 매운맛도 인기지만, 달콤한 맛도 있잖아요.
+과일하고 꿀을 써서 단맛을 내기 때문에 간식으로도 좋아요!"
+130,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_002_000","정말이지, 늘 감사해요~!
+직원들 모두가 새로운 타코를 고민하는 과정에서
+본점에서 선보일 신메뉴도 탄생하고 있답니다."
+131,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_002_001","2호점 계획이 가게 전체에 좋은 흐름을 가져다줘서
+이 티 아줌마는 얼마나 기쁜지 몰라요!
+앞으로도 잘 부탁해요~! "
+132,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_003_000","타코냥이 얼마나 대단한지, 깜짝 놀랄 때가 많아요!
+종종 이쪽 가게로 와서
+본점의 마스코트 역할도 톡톡히 해주고 있어요."
+133,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_003_001","새로운 꼬마 손님들까지 데려와줬다니까요?
+이 아이들을 위한 타코 같은 것도
+생각해봐도 괜찮을 것 같지 않나요~?"
+134,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_004_000","모자이크 커피도 잘 되고 있으니
+나중에 커피와 어울리는 타코도 만들어 보고 싶어요.
+식사할 때는 같이 마시는 음료도 정말 중요하니까요!"
+135,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_004_001","우리 가게에서도 타코와 어울리는 음료를 내놓고 있지만,
+옆의 술집에도 여러 가지 주류가 준비되어 있어요~!
+관심이 있다면 꼭 한번 들러보세요~!"
+136,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_005_000","어머, 이게 누구야, 브루케부잖아!
+뭐야, 당신 가게도 시장 조사 중이야?"
+137,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_BRUKEVU_005_001","그런 대단한 일 하러 온 거 아냐.
+'티 아줌마네 타코집'이 알렉산드리아에 가게를 내고
+희한한 타코를 팔고 있다고 해서, 궁금해서 와봤어."
+138,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_005_002","우리는 있지, 이 든든한 장인님 덕분에
+대박 중에서도 초대박이 났어~!
+당신도 하나 먹고 가!"
+139,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_WUKLAMAT_006_000","안녕, 티 아줌마……"
+140,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_WUKLAMAT_006_001","<Highlight>ObjectParameter(1)</Highlight>도 잘 지냈어?"
+141,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_006_002","어머나, 세상에~~ 이게 얼마 만이에요?"
+142,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_WUKLAMAT_006_003","헤헷, 미안 미안.
+무왕 자리에 오른 뒤로 이래저래 바빠서 말이야."
+143,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_WUKLAMAT_006_004","그런데도 알렉산드리아풍 타코 이야기를 들으니
+도저히 참을 수가 없어서 잠깐 짬 내서 사러 왔어."
+144,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_006_005","너무 기뻐요!
+금방 맛있는 걸 준비해드릴 테니까
+조~금만 기다려주세요~~!"
+145,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_WUKLAMAT_006_006","모처럼 만났으니, <Highlight>ObjectParameter(1)</Highlight>도 같이 먹을래?"
+146,"TEXT_CTSSFSCHARACTER12_00963_RANKUP_TIISOLJA_006_007","자, 타코 두 개 나왔어요!
+경치 좋은 자리에 앉아서 천천히 드시고 가세요~!"
+147,"TEXT_CTSSFSCHARACTER12_00963_AFTWEEKLY_000_000","이번 주에는 더 납품할 수 없습니다.
+현실 시간으로 매주 <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>일</Case><Case(2)>월</Case><Case(3)>화</Case><Case(4)>수</Case><Case(5)>목</Case><Case(6)>금</Case><Case(7)>토</Case></Switch>요일 <If(GreaterThanOrEqualTo(TopLevelParameter(218),12))>오후<Else/>오전</If> <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>0</Case><Case(13)>1</Case><Case(14)>2</Case><Case(15)>3</Case><Case(16)>4</Case><Case(17)>5</Case><Case(18)>6</Case><Case(19)>7</Case><Case(20)>8</Case><Case(21)>9</Case><Case(22)>10</Case><Case(23)>11</Case></Switch><Else/>0</If>시부터
+다시 납품할 수 있습니다."
+148,"TEXT_CTSSFSCHARACTER12_00963_TIISOLJA_000_000","자, 드디어 기다리던 2호점이 개점한답니다~!"
+149,"TEXT_CTSSFSCHARACTER12_00963_QUEST_SYSTEM_000_002","단골 거래 이야기 퀘스트를 진행하기 위해서는
+현재 클래스가 채집가 또는 제작자여야 합니다."
