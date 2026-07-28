@@ -7,9 +7,14 @@ int32,str,str
 3,"TEXT_CTSMKDENTRANCE_00929_A1_000_002","취소"
 4,"TEXT_CTSMKDENTRANCE_00929_A1_000_003","지식 레벨과 화폐 확인"
 5,"TEXT_CTSMKDENTRANCE_00929_A1_000_004","서포트 잡 확인"
-6,"TEXT_CTSMKDENTRANCE_00929_MENU_CONTENT_CONFIRMINATION","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에
+6,"TEXT_CTSMKDENTRANCE_00929_MENU_CONTENT_CONFIRMINATION_SOUTH","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에
+입장하시겠습니까?
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>※ 지식 레벨이 20을 넘으면
+20 레벨로 자동 조정됩니다.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+7,"TEXT_CTSMKDENTRANCE_00929_MENU_CONTENT_CONFIRMINATION","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에
 입장하시겠습니까?"
-7,"TEXT_CTSMKDENTRANCE_00929_MENU_CONTENT_CONFIRMINATION_HARD","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에
+8,"TEXT_CTSMKDENTRANCE_00929_MENU_CONTENT_CONFIRMINATION_HARD","'<Sheet(ContentFinderCondition,IntegerParameter(1),43)/>'에
 입장하시겠습니까?"
-8,"TEXT_CTSMKDENTRANCE_00929_A1_000_005","예"
-9,"TEXT_CTSMKDENTRANCE_00929_A1_000_006","아니요"
+9,"TEXT_CTSMKDENTRANCE_00929_A1_000_005","예"
+10,"TEXT_CTSMKDENTRANCE_00929_A1_000_006","아니요"
