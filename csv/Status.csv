@@ -4853,38 +4853,40 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 4592,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4593,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4594,죽음의 선고,지속시간이 끝나면 전투불능이 되는 상태.,215503,0,393,0,0,0,1,2,9,200,0,0,0,0,0,0,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-4595,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4596,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4597,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4598,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4599,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4600,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4601,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4602,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4603,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4604,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4605,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4606,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4607,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4608,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4609,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4595,수심기 1: 비상,'비상'의 수심이 몸에 깃든 상태. 효과 중에 '맹렬' 무기 기술을 사용하면 수심기 연계 효과가 발생한다.,229001,0,1068,0,171,0,1,1,16,210,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+4596,수심기 1: 맹렬,'맹렬'의 수심이 몸에 깃든 상태. 효과 중에 '견고' 무기 기술을 사용하면 수심기 연계 효과가 발생한다.,229002,0,1069,0,171,0,1,1,16,210,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+4597,수심기 1: 견고,'견고'의 수심이 몸에 깃든 상태. 효과 중에 '마력' 무기 기술을 사용하면 수심기 연계 효과가 발생한다.,229003,0,1070,0,171,0,1,1,16,210,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+4598,수심기 1: 마력,'마력'의 수심이 몸에 깃든 상태. 효과 중에 '비상' 무기 기술을 사용하면 수심기 연계 효과가 발생한다.,229004,0,1071,0,171,0,1,1,16,210,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+4599,수심기 2: 활명격,'활명격'의 수심이 몸에 깃든 상태. 효과 중에 '멸명격' 무기 기술을 사용하면 수심기 연계 효과가 발생한다.,229005,0,1072,0,171,0,1,1,16,210,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+4600,수심기 2: 멸명격,'멸명격'의 수심이 몸에 깃든 상태. 효과 중에 '활명격' 무기 기술을 사용하면 수심기 연계 효과가 발생한다.,229006,0,1073,0,171,0,1,1,16,210,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+4601,인간 마수 동조,능력 해방 또는 빌리기를 실행할 수 있는 상태.,229007,0,0,0,0,0,1,1,16,0,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False
+4602,백수강 본능,백수강의 본능을 일시적으로 빌린 상태. 효과 중에는 '백수강 외피'를 실행할 수 있다.,229008,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4603,백충강 본능,백충강의 본능을 일시적으로 빌린 상태. 효과 중에는 '백충강 외피'를 실행할 수 있다.,229009,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4604,유익강 본능,유익강의 본능을 일시적으로 빌린 상태. 효과 중에는 '구름 활공'을 실행할 수 있다.,229010,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4605,초목강 본능,초목강의 본능을 일시적으로 빌린 상태. 효과 중에는 '씨앗 살포'를 실행할 수 있다.,229011,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4606,수서강 본능,수서강의 본능을 일시적으로 빌린 상태. 효과 중에는 '제압 파동'을 실행할 수 있다.,229012,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4607,갑린강 본능,갑린강의 본능을 일시적으로 빌린 상태. 효과 중에는 '갑린강 외피'를 실행할 수 있다.,229013,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4608,주술강 본능,주술강의 본능을 일시적으로 빌린 상태. 효과 중에는 '영혼 파괴'를 실행할 수 있다.,229014,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4609,시체강 본능,시체강의 본능을 일시적으로 빌린 상태. 효과 중에는 '재의 정화'를 실행할 수 있다.,229015,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
 4610,강력한 타격,"지속시간 동안, 실행하는 모든 근접 물리 공격이 극대화된다.",214258,100,0,0,0,0,1,1,16,0,0,1,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4611,인양 광선 사용 가능,인양 광선을 사용할 수 있는 상태.,216256,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 4612,플라스마 삽날 돌진 사용 가능,플라스마 삽날 돌진을 사용할 수 있는 상태.,216256,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 4613,삽날 충전,강화 삽날 돌진을 사용하여 기체 내부에 축적된 에너지.,219866,0,0,0,0,6,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
-4614,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4614,마지막 일격 효과 향상,다음에 실행하는 '마지막 일격'의 위력이 증가하는 상태.,229016,0,0,0,0,0,1,1,16,0,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
 4615,폭발가루 저주: 분산,폭발가루 저주에 걸린 상태. 지속시간이 끝나면 폭발을 일으킨다.,214327,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 4616,폭발가루 저주: 집중,폭발가루 저주에 걸린 상태. 지속시간이 끝나면 강력한 폭발을 일으킨다.,214328,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 4617,소진 저주,"소진 저주에 걸려, 지속시간이 끝나면 불속성 피해를 받는 상태. 얼음속성 공격을 받으면 해제된다.",214329,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 4618,버티기,강렬한 충격에 대비해 버티는 상태.,215250,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,True,False,True,True,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 4619,,,0,0,0,0,0,0,1,1,0,0,0,9,0,0,0,0,0,True,False,True,True,False,False,False,False,True,True,True,False,True,False,False,False,False,False
-4620,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4621,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4622,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4623,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4624,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4620,백충강 외피,"일부를 제외한 밀쳐내기와 끌어당기기 효과를 무효화하고, 반드시 방패 막기가 발동하는 상태.
+방패 막기가 발동하면 TP가 증가한다.",229017,100,0,0,0,0,1,1,16,30,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4621,백수강 외피,"받는 물리 피해량이 감소하고, 극대화 발동률이 증가한 상태.",229018,-25,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4622,씨앗 살포,"독에 중독된 상태. 주는 피해량이 감소하고, HP가 서서히 줄어든다.",229019,100,0,0,0,0,203,2,1,50,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+4623,갑린강 외피,"받는 마법 피해량이 일부 감소하는 상태.
+보호막이 지속시간 안에 피해를 최대로 흡수하면 TP가 증가한다.",229020,100,0,0,0,0,203,1,16,60,0,0,0,12,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4624,포획하기,'포획하기' 위한 태세를 갖춘 상태.,229021,0,0,0,0,0,1,1,16,60,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 4625,강풍 무효,"흐르는 모래에 빠져, 강풍에 의한 밀쳐내기 효과가 무효화되는 상태.",216824,0,0,0,0,0,1,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
-4626,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4626,포획하기 대상,'포획하기'에 걸린 상태. 전투불능 상태가 되었을 때 성공 여부가 판정된다.,229022,0,0,0,0,0,1,2,17,60,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4627,격노,분노에 휩싸여 온 힘을 다해 공격하는 상태.,214330,0,0,0,0,0,1,1,16,100,0,28,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 4628,풀베기 참가,풀베기에 참가한 상태.,216258,0,0,0,0,0,1,1,16,100,0,2,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 4629,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -4901,15 +4903,15 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 4640,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4641,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4642,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4643,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4644,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4645,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4646,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4647,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4648,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4649,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4650,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4651,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4643,수심기 속성: 무효,수심기 연계를 받지 못하는 상태.,229023,0,0,0,171,0,1,1,16,210,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+4644,백수강 본능,백수강의 본능을 일시적으로 빌린 상태. 효과 중에는 '백수강 외피'를 실행할 수 있다.,229008,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False
+4645,백충강 본능,백충강의 본능을 일시적으로 빌린 상태. 효과 중에는 '백충강 외피'를 실행할 수 있다.,229009,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False
+4646,유익강 본능,유익강의 본능을 일시적으로 빌린 상태. 효과 중에는 '구름 활공'을 실행할 수 있다.,229010,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False
+4647,초목강 본능,초목강의 본능을 일시적으로 빌린 상태. 효과 중에는 '씨앗 살포'를 실행할 수 있다.,229011,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False
+4648,수서강 본능,수서강의 본능을 일시적으로 빌린 상태. 효과 중에는 '제압 파동'을 실행할 수 있다.,229012,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False
+4649,갑린강 본능,갑린강의 본능을 일시적으로 빌린 상태. 효과 중에는 '갑린강 외피'를 실행할 수 있다.,229013,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False
+4650,주술강 본능,주술강의 본능을 일시적으로 빌린 상태. 효과 중에는 '영혼 파괴'를 실행할 수 있다.,229014,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False
+4651,시체강 본능,시체강의 본능을 일시적으로 빌린 상태. 효과 중에는 '재의 정화'를 실행할 수 있다.,229015,0,0,0,0,0,1,1,16,100,2,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False
 4652,맹독,독에 중독된 상태. HP가 서서히 줄어든다.,215517,100,0,0,0,0,1,2,1,10,0,0,0,0,0,0,5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4653,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4654,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5104,41 +5106,41 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 4843,왕국 질풍,이동 속도가 향상된 상태.,212817,0,0,0,0,0,1,1,16,0,0,18,0,6,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4844,불꽃 사슬 저주 α,불꽃 사슬 저주에 걸린 상태. 지속시간이 끝나면 같은 저주에 걸린 플레이어와 불꽃 사슬로 연결된다.,216766,0,0,0,0,0,1,2,17,200,0,0,0,23,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4845,불꽃 사슬 저주 β,불꽃 사슬 저주에 걸린 상태. 지속시간이 끝나면 같은 저주에 걸린 플레이어와 불꽃 사슬로 연결된다.,216767,0,0,0,0,0,1,2,17,200,0,0,0,23,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4846,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4847,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4848,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4849,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4850,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4851,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4852,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4853,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4854,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4855,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4856,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4857,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4858,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4859,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4860,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4861,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4862,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4863,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4864,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4865,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4866,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4867,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4868,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4869,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4870,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4846,리레이즈,전투불능 시 일정 확률로 자동 부활하는 상태.,216695,0,0,0,117,0,1,1,16,30,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,True,False,False,False,False,False
+4847,아이템 금지: 마수 시련장,임시 아이템 및 식사를 제외한 모든 아이템을 사용할 수 없는 상태.,229024,0,0,0,0,0,1,2,17,50,0,0,0,24,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+4848,양날의 검,주는 피해량이 증가하지만 HP가 서서히 줄어드는 상태.,215754,100,0,0,0,0,1,1,16,50,0,0,0,0,0,0,1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4849,블링크,일부를 제외한 물리 공격을 무효화하는 상태. 무효화에 성공할 때마다 1중첩씩 감소한다.,220041,0,0,0,0,16,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4850,항독약,독 저항이 올라간 상태.,229025,50,0,0,0,0,1,1,16,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4851,항마비약,마비 저항이 올라간 상태.,229026,50,0,0,0,0,1,1,16,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4852,항실명약,실명 저항이 올라간 상태.,229027,50,0,0,0,0,1,1,16,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4853,항석화약,석화 저항이 올라간 상태.,229028,50,0,0,0,0,1,1,16,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4854,항수면약,수면 저항이 올라간 상태.,229029,50,0,0,0,0,1,1,16,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4855,전리품 획득률 증가,"마수 시련장에서 다음 전투에 승리했을 때, 전리품을 획득할 확률이 증가하는 상태.",229030,200,0,0,0,0,1,1,16,50,1,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4856,마수 동전 획득량 증가,"마수 시련장에서 다음 전투에 승리했을 때, 마수 동전 획득량이 증가하는 상태.",229031,100,0,0,0,0,1,1,16,50,1,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4857,경화약,받는 피해량이 감소하는 상태.,229032,-20,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4858,단축약,"자동 공격 주기, 무기 기술 및 마법 시전 시간과 재사용 대기 시간이 줄어든 상태.",229033,-15,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4859,괴력약,물리 공격으로 주는 피해량이 증가하는 상태.,229034,30,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4860,마력약,마법 공격으로 주는 피해량이 증가하는 상태.,229035,30,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4861,특공약,극대화 발동률이 증가한 상태.,229036,30,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4862,민첩약,회피율이 증가한 상태.,229037,25,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4863,체력약,최대 HP가 증가한 상태.,229038,20,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+4864,불 저항약,일정 확률로 불속성 피해를 무효화하고 흡수하는 상태.,229039,0,0,0,0,0,1,1,16,1,0,41,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4865,물 저항약,일정 확률로 물속성 피해를 무효화하고 흡수하는 상태.,229040,0,0,0,0,0,1,1,16,1,0,46,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4866,땅 저항약,일정 확률로 땅속성 피해를 무효화하고 흡수하는 상태.,229041,0,0,0,0,0,1,1,16,1,0,44,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4867,번개 저항약,일정 확률로 번개속성 피해를 무효화하고 흡수하는 상태.,229042,0,0,0,0,0,1,1,16,1,0,45,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4868,바람 저항약,일정 확률로 바람속성 피해를 무효화하고 흡수하는 상태.,229043,0,0,0,0,0,1,1,16,1,0,43,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4869,얼음 저항약,일정 확률로 얼음속성 피해를 무효화하고 흡수하는 상태.,229044,0,0,0,0,0,1,1,16,1,0,42,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4870,시간의 모래,"마수 시련장에서 패배했을 때, 전투 시작 직전부터 다시 시작할 수 있는 상태.",229045,0,0,0,0,0,1,1,16,100,1,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 4871,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4872,,,0,0,0,0,89,0,1,1,0,0,0,28,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,True,False,False,False,False,False
 4873,분신술법,"1회에 한해, 일부를 제외한 물리 공격을 무효화하는 상태.",218957,0,0,0,0,3,1,1,16,0,0,27,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4874,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4874,주는 피해량 감소,적에게 주는 피해량이 감소하는 상태.,218441,-10,0,0,39,16,1,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4875,무적,받는 피해를 무효화하는 상태.,215024,0,0,0,0,0,1,1,16,200,0,0,0,1,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 4876,성큼성큼 텔레포,지속시간이 끝나면 발밑에 전송 마법진이 설치되는 상태.,214401,0,0,0,0,0,0,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
 4877,성큼성큼 텔레포,지속시간이 끝나면 발밑에 전송 마법진이 설치되는 상태.,214402,0,0,0,0,0,0,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
 4878,성큼성큼 텔레포,지속시간이 끝나면 발밑에 전송 마법진이 설치되는 상태.,214403,0,0,0,0,0,0,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
 4879,성큼성큼 텔레포,지속시간이 끝나면 발밑에 전송 마법진이 설치되는 상태.,214404,0,0,0,0,0,0,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
-4880,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4880,열상,바람속성 피해로 HP가 서서히 줄어드는 상태.,215526,10,0,0,0,0,1,2,17,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
 4881,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4882,무의 침식,무의 힘에 침식당하여 서서히 HP가 줄어드는 상태.,214386,10,0,0,0,0,1,2,17,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
 4883,공멸의 저주,공멸의 저주를 건 상태. HP가 서서히 줄어든다.,214397,10,0,0,0,0,1,2,17,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
@@ -5147,82 +5149,82 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 4886,●ターゲット対象外,●ターゲットの対象にならない。,215027,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 4887,_rsv_4887_-1_6_0_0_S74CFC3B0_E74CFC3B0,_rsv_4887_-1_6_1_0_S74CFC3B0_E74CFC3B0,215782,0,0,0,89,0,1,2,17,201,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 4888,_rsv_4888_-1_6_0_0_S74CFC3B0_E74CFC3B0,_rsv_4888_-1_6_1_0_S74CFC3B0_E74CFC3B0,215783,0,0,0,89,0,1,2,17,201,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
-4889,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4890,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4891,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4889,,,0,1,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,True,False,False,False,False,False
+4890,,,0,-1,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,True,False,False,False,False,False
+4891,석화,손발이 석화되어 행동이 불가능한 상태.,215001,0,1,0,85,0,1,2,6,10,0,0,0,32,0,0,0,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4892,변형 독수리의 눈 설정,"변형 독수리의 눈을 설정하여, 일시적으로 사용할 수 있는 상태.",216765,0,0,0,0,0,1,1,16,6,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
-4893,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4893,치고 빠지기,"적에게 주는 피해량이 증가하고, 회피율이 증가한 상태.",218315,18,0,0,0,5,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 4894,수면,잠에 빠져 행동이 불가능한 상태.,215013,0,3,0,1,0,1,2,2,100,0,0,0,3,0,0,0,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4895,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4896,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4897,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4898,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4899,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4900,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4901,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4902,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4903,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4904,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4905,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4906,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4907,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4908,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4909,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4910,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4911,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4912,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4913,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4914,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4915,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4916,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4917,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4918,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4919,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4920,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4921,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4922,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4923,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4924,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4925,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4926,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4927,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4928,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4929,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4930,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4931,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4932,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4933,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4934,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4935,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4936,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4937,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4938,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4939,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4940,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4941,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4942,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4943,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4944,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4945,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4946,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4947,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4948,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4949,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4950,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4951,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4952,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4953,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4954,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4895,,,0,25,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4896,,,0,50,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4897,,,0,20,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4898,,,0,35,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4899,,,0,10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4900,,,0,35,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4901,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4902,,,0,60,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4903,,,0,-5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4904,,,0,-15,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4905,,,0,10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4906,,,0,-5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4907,,,0,-5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4908,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4909,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4910,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4911,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4912,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4913,,,0,50,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4914,,,0,100,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4915,,,0,10,0,0,0,0,1,1,0,0,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4916,,,0,5,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4917,,,0,10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4918,,,0,30,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4919,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4920,,,0,3,0,0,0,0,1,1,0,0,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4921,,,0,35,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4922,,,0,30,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4923,,,0,35,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4924,,,0,25,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4925,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4926,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4927,,,0,10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4928,,,0,15,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4929,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4930,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4931,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4932,,,0,100,0,0,0,0,1,1,0,0,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4933,,,0,-40,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4934,,,0,15,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4935,,,0,3,0,0,0,0,1,1,0,0,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4936,,,0,50,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4937,,,0,10,0,0,0,0,1,1,0,0,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4938,,,0,-30,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4939,,,0,-40,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4940,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4941,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4942,,,0,3,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4943,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4944,,,0,30,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4945,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4946,,,0,30,0,0,0,0,1,1,0,0,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4947,,,0,30,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4948,,,0,30,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4949,,,0,200,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4950,,,0,200,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4951,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4952,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4953,,,0,30,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+4954,,,0,30,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
 4955,받는 피해량 감소,받는 피해량이 감소하는 상태.,215021,-10,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
 4956,,,0,0,0,0,0,0,1,1,0,0,0,28,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,True,False,False,False,False,False
-4957,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4958,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4959,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4960,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4961,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4962,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4963,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4964,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4957,수면 저항 증가,수면 저항이 올라간 상태.,214834,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4958,마비 저항 증가,마비 저항이 올라간 상태.,229046,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4959,석화 저항 증가,석화 저항이 올라간 상태.,229047,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4960,실명 저항 증가,실명 저항이 올라간 상태.,229048,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4961,독 저항 증가,독 저항이 올라간 상태.,215648,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4962,헤이스트,"자동 공격 주기, 무기 기술 및 마법 시전 시간과 재사용 대기 시간이 줄어든 상태.",215008,-15,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4963,받는 물리 피해량 감소,물리 공격으로 받는 피해량이 감소하는 상태.,215052,-10,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4964,받는 마법 피해량 감소,마법 공격으로 받는 피해량이 감소하는 상태.,215056,-10,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
 4965,눈의 정령의 축복,받는 피해량이 일부 감소하는 상태.,214769,100,0,0,0,0,1,1,16,0,0,0,0,12,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 4966,흉조: 동,특정 방향에서 일부 공격을 받으면 피해량이 증가하는 상태.,214359,0,1057,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4967,흉조: 서,특정 방향에서 일부 공격을 받으면 피해량이 증가하는 상태.,214360,0,1058,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5255,12 +5257,12 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 4994,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4995,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 4996,강화 인양 광선 사용 가능,강화 인양 광선을 사용할 수 있는 상태.,216256,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
-4997,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4998,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-4999,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5000,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5001,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5002,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+4997,불속성 저항 증가,불속성 저항력이 증가한다.,215028,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4998,물속성 저항 증가,물속성 저항력이 증가한다.,215033,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+4999,바람속성 저항 증가,바람속성 저항력이 증가한다.,215030,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5000,번개속성 저항 증가,번개속성 저항력이 증가한다.,215032,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5001,땅속성 저항 증가,땅속성 저항력이 증가한다.,215031,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5002,얼음속성 저항 증가,얼음속성 저항력이 증가한다.,215029,100,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
 5003,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5004,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5005,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5277,14 +5279,14 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5016,덧칠하기 +3,아르바텔의 잉크에 영향을 받은 상태. 자신의 지식 레벨이 3만큼 가산된다.,219428,0,0,0,0,0,1,2,17,200,0,0,0,54,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5017,덧칠하기 +4,아르바텔의 잉크에 영향을 받은 상태. 자신의 지식 레벨이 4만큼 가산된다.,219429,0,0,0,0,0,1,2,17,200,0,0,0,54,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5018,덧칠하기 +5,아르바텔의 잉크에 영향을 받은 상태. 자신의 지식 레벨이 5만큼 가산된다.,219430,0,0,0,0,0,1,2,17,200,0,0,0,54,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
-5019,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5020,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5021,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5022,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5023,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5024,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5025,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5026,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5019,주는 물리 피해량 증가,물리 공격으로 주는 피해량이 증가하는 상태.,215050,10,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5020,주는 마법 피해량 증가,마법 공격으로 주는 피해량이 증가하는 상태.,215054,10,0,0,0,0,203,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5021,물속성 저항 감소,물속성 저항이 떨어진 상태.,217421,-12,0,0,0,4,203,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5022,바람속성 저항 감소,바람속성 저항이 떨어진 상태.,218292,-12,0,0,0,4,203,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5023,불속성 저항 감소,불속성 저항이 떨어진 상태.,217941,-12,0,0,0,4,203,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5024,번개속성 저항 감소,번개속성 저항이 떨어진 상태.,217741,-12,0,0,0,4,203,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5025,땅속성 저항 감소,땅속성 저항이 떨어진 상태.,218512,-12,0,0,0,4,203,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5026,얼음속성 저항 감소,얼음속성 저항이 떨어진 상태.,218692,-12,0,0,0,4,203,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5027,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5028,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5029,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5397,19 +5399,19 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5136,공포 살포,'공포 살포'를 받은 상태. 같은 공격을 다시 받으면 큰 피해를 받는다.,214389,0,0,0,89,0,0,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 5137,공황 살포,'공황 살포'를 받은 상태. 같은 공격을 다시 받으면 큰 피해를 받는다.,214390,0,0,0,89,0,0,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 5138,좀비 항체,일정 시간 '서서히 좀비' 효과가 부여되지 않는 상태.,229999,0,0,0,0,0,1,1,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5139,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5140,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5141,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5139,ＨＰ自然回復無効,ＨＰ自然回復が無効化された状態。,216825,0,0,0,0,0,1,2,17,50,0,14,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5140,독,독에 중독된 상태. HP가 서서히 줄어든다.,215007,10,0,0,0,0,1,2,1,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+5141,독,독에 중독된 상태. HP가 서서히 줄어든다.,217001,10,0,0,0,8,1,2,1,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
 5142,이동 명령: 전,"이동 명령을 받은 상태. 효과가 끝나는 시점에 캐릭터가 향한 방향 기준으로, 앞으로 이동한다.",215774,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5143,이동 명령: 후,"이동 명령을 받은 상태. 효과가 끝나는 시점에 캐릭터가 향한 방향 기준으로, 뒤로 이동한다.",215775,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5144,_rsv_5144_-1_6_0_0_S74CFC3B0_E74CFC3B0,_rsv_5144_-1_6_1_0_S74CFC3B0_E74CFC3B0,214407,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False,False,False
-5145,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5146,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5147,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5148,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5149,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5150,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5151,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5145,가시털 세우기,받는 피해량이 감소하는 상태. 물리 공격을 받으면 반격 피해를 준다.,229052,-99,1163,0,0,0,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5146,서서히 혼란,서서히 혼란스러워지는 상태. 16중첩이 되면 혼란 상태가 된다.,220221,0,0,0,64,16,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+5147,주는 피해량 증가,적에게 주는 피해량이 증가하는 상태.,215519,20,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5148,계산 처리: 짝수,계산 처리를 해야 하는 상태. 지속 시간이 끝날 때 '짝수' 이외의 패널에 서 있으면 페널티를 받는다.,229053,0,0,0,0,0,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5149,계산 처리: 홀수,계산 처리를 해야 하는 상태. 지속 시간이 끝날 때 '홀수' 이외의 패널에 서 있으면 페널티를 받는다.,229054,0,0,0,0,0,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5150,계산 처리: 소수,계산 처리를 해야 하는 상태. 지속 시간이 끝날 때 '소수' 이외의 패널에 서 있으면 페널티를 받는다.,229055,0,0,0,0,0,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5151,계산 처리: 3의 배수,계산 처리를 해야 하는 상태. 지속 시간이 끝날 때 '3의 배수' 이외의 패널에 서 있으면 페널티를 받는다.,229056,0,0,0,0,0,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5152,과중 운반,"상당히 무거운 물건을 운반하는 상태.
 일정 시간이 지나면 피로해져 물건을 떨어뜨린다.",216246,0,0,0,0,0,1,2,0,100,0,1,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5153,원소 결핍,"육체를 유지하는 데 필요한 원소가 사라져 '원소 통합'으로 큰 피해를 받는 상태. 특정 속성 공격을 받으면 중첩 수가 감소하며, 0이 되면 해제된다.",218947,0,0,0,0,3,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
@@ -5434,18 +5436,20 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5172,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5173,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5174,강제 이동,지정된 방향으로 계속 이동하는 상태.,215773,0,0,0,67,0,1,2,17,200,0,0,0,0,0,0,0,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5175,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5176,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5177,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5178,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5179,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5180,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5181,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5182,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5183,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5175,과중력,이동 속도가 느려진 상태.,218132,0,6,0,0,8,1,2,4,100,0,1,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5176,가시밭,"가시가 다리에 엉킨 상태.
+이동 속도가 떨어지고 HP가 서서히 줄어든다.
+효과를 받는 중에는 끌어당기기와 밀쳐내기가 무효화된다.",215601,100,0,0,0,0,1,2,17,150,0,1,0,0,0,0,5,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5177,서서히 빙결,서서히 얼어붙는 상태. 8중첩이 되면 빙결 상태가 된다.,220161,0,0,0,0,8,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+5178,서서히 공황,공포가 누적되는 상태. 5중첩이 되면 공황 상태가 된다.,220181,0,0,0,0,5,1,2,17,10,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+5179,독소 보유,잠재적으로 독소를 보유한 상태. 전투불능이 되면 주위에 독소를 퍼뜨린다.,215538,0,703,0,0,0,1,2,17,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5180,받는 물리 피해량 증가,물리 공격으로 받는 피해량이 증가하는 상태.,215053,10,0,0,0,0,1,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+5181,받는 마법 피해량 증가,마법 공격으로 받는 피해량이 증가하는 상태.,215057,10,0,0,0,0,1,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+5182,서서히 팽창,서서히 팽창하는 상태. 16중첩이 되면 팽창 상태가 된다.,220201,0,0,0,0,16,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5183,맹독,독에 중독된 상태. HP가 서서히 줄어든다.,218561,10,0,0,0,16,1,2,1,10,0,0,0,0,0,0,5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5184,죽음의 선고,지속시간이 끝나면 전투불능이 되는 상태.,215503,0,0,0,0,0,1,2,9,200,0,0,0,0,0,0,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
 5185,죽음의 선고,지속시간이 끝나면 전투불능이 되는 상태.,215503,0,393,0,0,0,1,2,9,200,0,0,0,0,0,0,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-5186,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5186,짐승길,최대 HP와 주는 피해량이 증가하는 상태.,218311,10,0,0,0,3,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5187,죽음의 선고,지속시간이 끝나면 전투불능이 되는 상태.,215503,0,0,0,0,0,1,2,9,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5188,무기 기술 사용불가,무기 기술을 사용할 수 없는 상태.,215017,0,0,0,0,0,1,2,14,100,0,19,0,24,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5189,영체화,차원이 반쯤 뒤틀린 상태.,229992,0,0,0,0,0,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
@@ -5457,80 +5461,80 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5195,이동 명령: 우,"이동 명령을 받은 상태. 효과가 끝나는 시점에 캐릭터가 향한 방향 기준으로, 오른쪽으로 이동한다.",215777,0,632,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5196,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
 5197,,,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
-5198,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5199,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5200,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5201,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5202,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5203,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5204,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5205,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5206,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5207,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5208,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5209,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5210,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5211,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5212,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5213,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5214,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5215,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5216,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5217,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5218,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5219,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5220,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5221,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5222,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5223,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5224,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5225,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5226,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5227,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5228,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5229,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5230,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5231,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5232,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5233,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5234,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5235,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5236,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5237,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5238,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5239,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5240,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5241,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5242,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5243,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5244,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5245,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5246,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5247,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5248,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5249,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5250,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5251,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5252,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5253,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5254,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5255,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5256,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5257,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5258,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5259,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5260,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5261,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5262,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5263,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5264,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5265,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5266,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5267,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5268,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5269,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5270,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5271,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5198,별빛 극성 저항 증가,"불속성, 바람속성, 번개속성 저항이 올라간 상태.",229049,50,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5199,그림자 극성 저항 증가,"물속성, 땅속성, 얼음속성 저항이 올라간 상태.",229050,50,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5200,,,0,20,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5201,,,0,-10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5202,,,0,-15,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5203,,,0,10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5204,,,0,20,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5205,,,0,12,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5206,,,0,5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5207,,,0,3,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5208,,,0,8,0,0,0,0,1,1,0,0,0,18,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5209,,,0,-10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5210,,,0,-30,0,0,0,0,1,1,0,0,0,42,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5211,,,0,10,0,0,0,0,1,1,0,0,0,44,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5212,,,0,10,0,0,0,0,1,1,0,0,0,46,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5213,,,0,75,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5214,,,0,100,0,0,0,0,1,1,0,0,0,47,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5215,,,0,10,0,0,0,0,1,1,0,0,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5216,,,0,30,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5217,,,0,30,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5218,,,0,15,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5219,,,0,5,0,0,0,0,1,1,0,0,0,39,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5220,,,0,125,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5221,,,0,18,0,0,0,0,1,1,0,0,0,30,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5222,,,0,8,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5223,,,0,100,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5224,,,0,20,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5225,,,0,-5,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5226,,,0,360,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5227,,,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5228,,,0,25,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5229,,,0,10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5230,,,0,100,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5231,,,0,15,0,0,0,0,1,1,0,0,0,5,0,18,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5232,,,0,-8,0,0,0,0,1,1,0,0,0,5,0,18,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5233,,,0,-8,0,0,0,0,1,1,0,0,0,5,0,18,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5234,,,0,240,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5235,,,0,240,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5236,,,0,240,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5237,,,0,240,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5238,,,0,240,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5239,,,0,240,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5240,,,0,100,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5241,,,0,-2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5242,,,0,-5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5243,,,0,50,0,0,0,0,1,1,0,0,0,43,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5244,,,0,100,0,0,0,0,1,1,0,0,0,30,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5245,,,0,-15,0,0,0,0,1,1,0,0,0,30,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5246,,,0,25,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5247,,,0,-15,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5248,,,0,-5,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5249,,,0,-10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5250,,,0,-10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5251,,,0,25,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5252,,,0,15,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5253,,,0,-1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5254,,,0,80,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5255,,,0,70,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5256,,,0,40,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5257,,,0,5,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5258,,,0,5,0,0,0,0,1,1,0,0,0,45,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5259,,,0,100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5260,,,0,25,0,0,0,0,1,1,0,0,0,5,0,18,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5261,,,0,10,0,0,0,0,1,1,0,0,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5262,,,0,50,0,0,0,0,1,1,0,0,0,41,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5263,,,0,25,0,0,0,0,1,1,0,0,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5264,,,0,25,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5265,,,0,25,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5266,,,0,25,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5267,,,0,1,0,0,0,0,1,1,0,0,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5268,,,0,100,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5269,,,0,2,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5270,,,0,-6,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+5271,,,0,100,0,0,0,0,1,1,0,0,0,29,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
 5272,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5273,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5274,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5595,12 +5599,12 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5333,서포트 청마도사,옛 청마도사의 기억을 일시적으로 계승한 상태. 특정 서포트 기술을 사용할 수 있다.,216892,0,0,0,169,0,1,1,35,255,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 5334,서포트 적마도사,옛 적마도사의 기억을 일시적으로 계승한 상태. 특정 서포트 기술을 사용할 수 있다.,216893,0,0,0,169,0,1,1,35,255,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 5335,서포트 강령술사,옛 강령술사의 기억을 일시적으로 계승한 상태. 특정 서포트 기술을 사용할 수 있다.,216894,0,0,0,169,0,1,1,35,255,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
-5336,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5337,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5338,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5339,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5340,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5341,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5336,불속성 저항 감소,불속성 저항이 떨어진 상태.,217941,-12,0,0,0,8,1,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5337,물속성 저항 감소,물속성 저항이 떨어진 상태.,217421,-12,0,0,0,8,1,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5338,받는 피해량 감소,받는 피해량이 감소하는 상태.,217301,-10,0,0,40,8,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5339,주는 물리 피해량 증가,물리 공격으로 주는 피해량이 증가하는 상태.,218461,10,0,0,35,16,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5340,주는 마법 피해량 증가,마법 공격으로 주는 피해량이 증가하는 상태.,218481,10,0,0,37,16,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5341,소멸의 마력날: 충격파,소멸의 마력날에 찔린 상태. HP가 서서히 줄어들고 지속시간이 끝나면 찔렸던 마력날에서 충격파가 발생한다.,229057,10,0,0,0,0,1,2,17,1,0,0,0,0,0,0,2,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5342,버스트 타임,,0,0,0,0,0,0,1,1,16,0,0,28,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5343,광명의 인도,"균열 사이로 들어온 빛에 인도된 상태. 이동 속도가 향상되고, 무의 침식에 의한 HP 감소 효과가 무효화된다.",214414,0,1156,0,0,0,1,1,16,0,0,18,0,6,0,0,0,False,False,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False
 5344,,,0,-100,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
@@ -5615,7 +5619,7 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5353,황혼 망토[어둠],어둠속성 에테르에 휘감긴 상태. 빛속성 공격으로 받는 피해량이 증가한다.,214393,0,1107,0,89,0,1,2,17,255,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5354,,,0,0,0,0,0,99,1,2,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5355,치유의 원,지속적으로 HP가 회복되는 상태.,215119,-20,0,0,0,0,1,1,16,2,0,0,0,1,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
-5356,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5356,과중력,이동 속도가 느려진 상태.,215002,0,6,0,3,0,1,2,4,200,0,1,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5357,사투 대상,사투를 벌이는 상태. 자신에게 사투를 건 상대에게만 공격이 통한다.,214399,0,0,0,0,0,1,2,17,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
 5358,사투 대상,사투를 벌이는 상태. 자신에게 사투를 건 상대에게만 공격이 통한다.,214399,0,0,0,0,0,1,2,17,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
 5359,사투 대상,사투를 벌이는 상태. 자신에게 사투를 건 상대에게만 공격이 통한다.,214399,0,0,0,0,0,1,2,17,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
@@ -5640,22 +5644,22 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5378,,,0,0,0,0,0,0,1,2,0,0,0,0,0,23,0,0,0,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False
 5379,,,0,0,0,0,0,0,1,2,0,0,0,0,0,23,0,0,0,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False
 5380,,,0,0,0,0,0,0,1,2,0,0,0,0,0,23,0,0,0,False,False,False,False,False,False,False,False,False,False,True,False,True,False,False,False,False,False
-5381,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5382,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5383,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5384,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5381,실명,어둠에 사로잡혀 명중률이 떨어진 상태.,215012,-10,0,0,4,0,1,2,10,10,0,0,0,0,0,0,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+5382,마비,몸이 마비되어 잠깐씩 행동할 수 없는 상태.,215006,33,0,0,0,0,1,2,5,10,0,0,0,0,0,0,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+5383,악몽,깊은 잠에 빠져 행동이 불가능한 상태.,215573,0,3,0,1,0,1,2,2,10,0,0,0,3,0,0,0,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5384,열상,바람속성 피해로 HP가 서서히 줄어드는 상태.,215526,10,0,0,0,0,1,2,17,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
 5385,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5386,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5387,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5388,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5389,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5390,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5391,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5392,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5393,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5394,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5395,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5396,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5387,맹독,독에 중독된 상태. HP가 서서히 줄어든다.,215517,100,0,0,0,0,1,2,1,10,0,0,0,0,0,0,5,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+5388,마비,몸이 마비되어 잠깐씩 행동할 수 없는 상태.,215006,33,0,0,0,0,1,2,5,10,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5389,실명,어둠에 사로잡혀 명중률이 떨어진 상태.,215012,-10,0,0,4,0,1,2,10,10,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5390,헤이스트+,"자동 공격 주기, 무기 기술 및 마법 시전 시간과 재사용 대기 시간이 줄어든 상태.",217381,-2,0,0,0,5,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5391,주는 피해량 증가,적에게 주는 피해량이 증가하는 상태.,217061,2,0,0,57,8,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5392,받는 마법 피해량 감소,마법 공격으로 받는 피해량이 감소하는 상태.,217761,-2,0,0,0,8,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5393,받는 물리 피해량 감소,물리 공격으로 받는 피해량이 감소하는 상태.,217781,-2,0,0,0,8,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5394,서서히 HP 회복,지속적으로 HP가 회복되는 상태.,217521,10,0,0,0,8,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5395,고양감,기분이 고조된 상태.,218601,10,0,0,0,4,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5396,둔화,"자동 공격 주기, 무기 기술 및 마법 시전 시간과 재사용 대기 시간이 늘어난 상태.",215009,15,0,0,5,0,1,2,13,50,0,0,0,0,0,0,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
 5397,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5398,동풍 마법각인,동풍 마법각인이 새겨진 상태. 지속시간이 끝나면 동쪽에서 돌풍이 불어온다.,214394,0,1151,0,0,0,1,2,17,200,0,0,0,23,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 5399,서풍 마법각인,서풍 마법각인이 새겨진 상태. 지속시간이 끝나면 서쪽에서 돌풍이 불어온다.,214395,0,1152,0,0,0,1,2,17,200,0,0,0,23,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
@@ -5665,10 +5669,10 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5403,시한 저주: 동풍,시한 저주가 새겨진 상태. 지속시간이 끝나면 동쪽에서 돌풍이 불어온다.,229993,0,1139,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5404,시한 저주: 서풍,시한 저주가 새겨진 상태. 지속시간이 끝나면 서쪽에서 돌풍이 불어온다.,229994,0,1138,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5405,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5406,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5406,마력 공급,마력이 공급된 상태.,220141,0,0,0,0,5,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5407,실 들어올리기,조종당해 자유를 빼앗긴 상태. 아군을 계속 공격한다.,214410,1051,1130,0,64,0,1,2,17,100,0,0,0,0,0,0,0,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False
 5408,무력화,무력화되어 아무 행동도 할 수 없는 상태.,215405,0,72,0,0,0,1,2,0,0,0,4,0,0,0,0,0,True,False,True,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
-5409,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5409,주는 피해량 증가,적에게 주는 피해량이 증가하는 상태.,215519,10,624,0,0,0,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5410,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5411,기절,행동이 불가능한 상태.,215004,0,2,0,0,0,1,2,3,100,0,4,0,0,0,0,0,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
 5412,예비용 촉진제,"촉진제 탱크에서 연금제를 보충하여, 특수한 기술을 사용할 수 있는 상태.",217690,0,0,0,0,10,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
@@ -5680,41 +5684,41 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5418,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5419,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5420,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5421,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5421,죽음의 선고,지속시간이 끝나면 전투불능이 되는 상태.,215503,0,0,0,0,0,1,2,9,200,0,28,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5422,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5423,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5424,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5423,꿈틀이 외피,파트너의 힘을 빌려 자신을 강화해 모든 받는 피해량이 감소하는 상태.,215021,-10,0,0,0,0,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5424,서서히 혼란,서서히 혼란스러워지는 상태. 12중첩이 되면 혼란 상태가 된다.,220221,0,0,0,64,12,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 5425,독,독에 중독된 상태. HP가 서서히 줄어든다.,215007,10,0,0,0,0,1,2,1,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
-5426,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5426,ストンスキン,一定量のダメージを軽減する状態。,210401,100,0,0,0,0,1,1,16,30,0,0,0,12,0,0,0,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False
 5427,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5428,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5429,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5429,속박+,이동이 불가능한 상태.,215602,0,5,0,3,0,1,2,12,100,0,0,0,0,0,0,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5430,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5431,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5432,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5433,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5434,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5435,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5436,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5431,突属性耐性低下［強］,突属性に対する耐性が著しく低下した状態。,215818,-10,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5432,風属性耐性低下［強］,風属性に対する耐性が著しく低下した状態。,215721,-12,0,0,0,0,1,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5433,어미새의 분노,알이 깨져서 미쳐 날뛰는 상태. 적에게 주는 피해량이 증가한다.,217221,5,0,0,0,16,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5434,파라이즈 보호막,번개속성 반격 피해를 주고 마비를 부여하는 상태.,215502,100,1023,0,19,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5435,被物理ダメージ軽減,受ける物理ダメージが軽減される状態。,215052,-10,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5436,被魔法ダメージ軽減,受ける魔法ダメージが軽減される状態。,215056,-10,0,0,0,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
 5437,,,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 5438,연속 마법,연속으로 마법을 사용할 수 있는 상태.,213406,0,0,0,0,0,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5439,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5440,ライトクローク,光属性のエーテルを纏った状態。闇属性のエーテルを纏った者以外から受けるダメージを無効化する,214411,0,0,0,89,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5441,ダーククローク,闇属性のエーテルを纏った状態。光属性のエーテルを纏った者以外から受けるダメージを無効化する,214412,0,0,0,89,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
-5442,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5442,고통,무속성 피해로 HP가 서서히 줄어드는 상태.,215530,10,0,0,0,0,1,2,17,100,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
 5443,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5444,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5445,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5446,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5447,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5448,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5449,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5450,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5451,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5449,주는 물리 피해량 증가,물리 공격으로 주는 피해량이 증가하는 상태.,218461,10,0,0,35,5,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5450,주는 피해량 증가,적에게 주는 피해량이 증가하는 상태.,217061,2,0,0,57,5,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+5451,주는 피해량 감소,적에게 주는 피해량이 감소하는 상태.,215520,-10,0,0,0,0,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5452,_rsv_5452_-1_6_0_0_S74CFC3B0_E74CFC3B0,_rsv_5452_-1_6_1_0_S74CFC3B0_E74CFC3B0,217398,0,0,0,0,2,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5453,_rsv_5453_-1_6_0_0_S74CFC3B0_E74CFC3B0,_rsv_5453_-1_6_1_0_S74CFC3B0_E74CFC3B0,214413,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5454,_rsv_5454_-1_6_0_0_S74CFC3B0_E74CFC3B0,_rsv_5454_-1_6_1_0_S74CFC3B0_E74CFC3B0,215907,0,0,0,0,0,1,2,17,200,0,0,0,0,31,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-5455,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5455,속박,이동이 불가능한 상태.,215003,0,5,0,0,0,1,2,0,100,0,0,0,0,0,0,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5456,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5457,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5458,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5722,9 +5726,9 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5460,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5461,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5462,,,0,0,0,0,0,0,1,0,0,0,0,0,0,23,0,0,0,False,False,False,False,False,False,False,False,True,True,True,False,False,False,False,False,False,False
-5463,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5463,엑설런스,"일부를 제외한 대부분의 피해를 무효화하고, 주는 피해량이 증가한 상태.",216701,0,0,0,118,0,1,1,16,70,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
 5464,_rsv_5464_-1_6_0_0_S74CFC3B0_E74CFC3B0,_rsv_5464_-1_6_1_0_S74CFC3B0_E74CFC3B0,215780,0,20,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5465,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5465,화염 보호막,불속성 반격 피해를 주는 상태.,215508,0,982,0,19,0,1,1,16,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
 5466,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5467,받는 피해량 감소,받는 피해량이 감소하는 상태.,215021,-10,0,0,0,0,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5468,기술 실행 불가,기술을 실행할 수 없는 상태.,215045,0,0,0,0,0,1,2,17,100,0,19,0,24,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5754,13 +5758,13 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5492,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5493,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5494,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5495,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5496,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5497,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5498,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5499,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5500,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5501,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5495,화상,불속성 피해로 HP가 서서히 줄어드는 상태.,215524,10,0,0,0,0,1,2,17,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+5496,물독,물속성 피해로 HP가 서서히 줄어드는 상태.,215529,10,0,0,0,0,1,2,17,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+5497,열상,바람속성 피해로 HP가 서서히 줄어드는 상태.,215526,10,0,0,0,0,1,2,17,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+5498,감전,번개속성 피해로 HP가 서서히 줄어드는 상태.,215528,10,0,0,0,0,1,2,17,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+5499,진흙탕,땅속성 피해로 HP가 서서히 줄어드는 상태.,215527,10,0,0,0,0,1,2,17,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+5500,동상,얼음속성 피해로 HP가 서서히 줄어드는 상태.,215525,10,0,0,0,0,1,2,17,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+5501,고통,무속성 피해로 HP가 서서히 줄어드는 상태.,215530,10,0,0,0,0,1,2,17,10,0,0,0,0,0,0,5,False,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
 5502,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5503,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5504,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5795,8 +5799,8 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5533,봉인된 무기: 검,"봉인된 무기 중, 검을 사용하여 공격하려고 하는 상태.",214416,0,1026,0,89,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 5534,봉인된 무기: 활,"봉인된 무기 중, 활을 사용하여 공격하려고 하는 상태.",214417,0,1025,0,89,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 5535,봉인된 무기: 하프,"봉인된 무기 중, 하프를 사용하여 공격하려고 하는 상태.",214418,0,1028,0,89,0,1,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
-5536,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5537,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5536,비탄의 낙인,비탄의 낙인이 찍힌 상태. '비탄의 시선' 공격으로 받는 피해량이 증가한다.,218041,0,0,0,64,4,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5537,분노의 낙인,분노의 낙인이 찍힌 상태. '분노의 시선' 공격으로 받는 피해량이 증가한다.,218061,0,0,0,64,4,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5538,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5539,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5540,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5812,18 +5816,18 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 효과가 끝날 때 물속성 공격이 발생한다.",215903,0,0,0,0,0,1,2,17,196,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
 5549,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5550,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5551,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5552,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5553,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5554,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5555,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5551,불속성 저항 증가,불속성 저항력이 증가한다.,215028,100,0,0,0,0,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
+5552,번개속성 저항 감소,번개속성 저항이 떨어진 상태.,215271,-50,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
+5553,맹독,독에 중독된 상태. HP가 서서히 줄어든다.,215517,10,0,0,149,0,1,2,1,100,0,0,0,0,0,0,6,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+5554,맹독,독에 중독된 상태. HP가 서서히 줄어든다.,215517,10,0,0,149,0,1,2,1,100,0,0,0,0,0,0,6,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5555,속박+,이동이 불가능한 상태.,215602,0,5,0,3,0,1,2,12,100,0,0,0,0,0,0,0,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5556,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5557,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5558,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5559,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5560,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5561,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5562,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5562,고양감,기분이 고조된 상태.,218601,10,0,0,0,8,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 5563,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5564,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5565,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5847,7 +5851,7 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5583,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5584,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5585,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-5586,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5586,적개심 상승,자신을 향한 적의 적개심이 상승하는 상태.,216722,500,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5587,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5588,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5589,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -5862,3 +5866,253 @@ HP가 서서히 줄어든다.",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,Fals
 5598,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5599,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 5600,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5601,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5602,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5603,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5604,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5605,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5606,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5607,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5608,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5609,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5610,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5611,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5612,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5613,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5614,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5615,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5616,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5617,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5618,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5619,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5620,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5621,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5622,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5623,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5624,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5625,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5626,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5627,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5628,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5629,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5630,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5631,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5632,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5633,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5634,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5635,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5636,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5637,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5638,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5639,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5640,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5641,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5642,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5643,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5644,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5645,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5646,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5647,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5648,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5649,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5650,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5651,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5652,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5653,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5654,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5655,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5656,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5657,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5658,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5659,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5660,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5661,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5662,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5663,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5664,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5665,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5666,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5667,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5668,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5669,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5670,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5671,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5672,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5673,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5674,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5675,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5676,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5677,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5678,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5679,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5680,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5681,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5682,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5683,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5684,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5685,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5686,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5687,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5688,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5689,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5690,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5691,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5692,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5693,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5694,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5695,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5696,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5697,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5698,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5699,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5700,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5701,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5702,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5703,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5704,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5705,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5706,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5707,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5708,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5709,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5710,속박,이동이 불가능한 상태.,215003,0,5,0,67,0,1,2,12,100,0,0,0,0,0,0,0,False,True,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
+5711,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5712,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5713,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5714,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5715,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5716,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5717,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5718,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5719,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5720,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5721,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5722,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5723,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5724,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5725,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5726,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5727,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5728,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5729,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5730,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5731,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5732,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5733,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5734,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5735,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5736,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5737,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5738,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5739,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5740,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5741,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5742,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5743,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5744,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5745,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5746,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5747,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5748,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5749,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5750,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5751,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5752,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5753,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5754,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5755,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5756,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5757,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5758,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5759,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5760,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5761,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5762,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5763,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5764,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5765,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5766,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5767,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5768,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5769,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5770,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5771,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5772,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5773,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5774,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5775,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5776,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5777,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5778,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5779,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5780,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5781,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5782,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5783,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5784,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5785,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5786,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5787,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5788,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5789,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5790,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5791,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5792,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5793,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5794,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5795,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5796,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5797,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5798,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5799,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5800,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5801,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5802,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5803,기절,행동이 불가능한 상태.,215004,0,2,0,0,0,1,2,3,100,0,0,0,0,0,0,0,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+5804,둔화,"자동 공격 주기, 무기 기술 및 마법 시전 시간과 재사용 대기 시간이 늘어난 상태.",215009,15,0,0,5,0,1,2,13,50,0,0,0,0,0,0,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+5805,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5806,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5807,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5808,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5809,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5810,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5811,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5812,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5813,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5814,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5815,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5816,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5817,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5818,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5819,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5820,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5821,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5822,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5823,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5824,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5825,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5826,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5827,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5828,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5829,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5830,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5831,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5832,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5833,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5834,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5835,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5836,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5837,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5838,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5839,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5840,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5841,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5842,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5843,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5844,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5845,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5846,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5847,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5848,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5849,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+5850,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
