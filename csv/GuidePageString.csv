@@ -253,7 +253,7 @@ int32,str
 수의는 특정 무기 기술이 명중하면 축적되며, 수의를 소비하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>레무르 수의<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행할 수 있습니다."
 114,"레무르 상태 지속시간과 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>레무르 영혼<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 축적 상황을 확인할 수 있게 되었습니다.
 레무르 영혼을 소비하여 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>보이드 리퍼<UIGlow>01</UIGlow><UIForeground>01</UIForeground>나 레벨 90에 습득하는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>합일<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 등의 기술을 실행할 수 있습니다."
-115,"영혼 게이지"
+115,"영혼"
 116,"레무르"
 117,"정상건강"
 118,"의술석"
@@ -369,15 +369,37 @@ int32,str
 157,"기술 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피의 소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 실행하면, 자신에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>피의 소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 상태가 부여됩니다.
 이 효과가 지속되는 동안에만 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 최대 4단계까지 축적할 수 있습니다.
 또한 레벨 88에 특성 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>소일 충전 효과 향상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>을 습득하면, '피의 소일' 효과가 지속되는 동안에 소일을 6단계까지 축적할 수 있게 됩니다."
-158,""
-159,""
-160,""
-161,""
-162,""
-163,""
-164,""
-165,""
-166,""
+158,"TP"
+159,"연계"
+160,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>수심<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득하여, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마수조련사 TP 게이지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 화면에 표시됩니다.
+콤보에 성공하면 TP가 증가하며, TP가 100 이상이면 TP를 전부 소비하여 강력한 무기 기술을 실행할 수 있습니다.
+소비한 TP가 많을수록 무기 기술의 위력도 증가합니다.
+이와 같이 TP를 소비하는 무기 기술을 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>수심기 무기 기술<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이라고 부릅니다."
+161,"수심기 연계 상황을 확인할 수 있게 되었습니다.
+마수조련사와 사역마수는 각자의 수심기를 연계시켜 싸웁니다.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>《수심기 연계》<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+수심기에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>비상<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>맹렬<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>견고<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마력<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 이라는 4종류의 속성이 존재합니다. 수심기 무기 기술을 실행하면 4종류의 속성 중 하나가 마수조련사에게 부여되며, 연계 화면의 수심기 속성에 불이 들어옵니다.
+마수조련사 또는 사역마수 중 한쪽이 수심기 무기 기술을 실행한 다음, 7초 안에 나머지 한쪽이 수심기 무기 기술을 실행하면 적에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>수심기 연계<UIGlow>01</UIGlow><UIForeground>01</UIForeground>라 불리는 추격 피해를 줄 수 있습니다.
+연계 화면 아래에 표시된 숫자는 연계 횟수를 나타내며, 연계 횟수가 많을수록 수심기 연계의 위력이 증가합니다.
+"
+162,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>《수심기 연계 2: 활명격/멸명격》<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+'비상→맹렬', '맹렬→견고', '견고→마력', '마력→비상'과 같이, 연계 화면에 표시된 속성에서 시계 방향 순서로 수심기를 연계시키면 상위 기술인 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>수심기 연계 2<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 발생시킬 수 있습니다.
+'수심기 연계 2'를 발생시키면 마수조련사에게 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>활명격<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>멸명격<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 중 하나의 수심기 속성이 부여되어, 연계 화면 중앙에 불이 들어옵니다.
+
+마수조련사와 사역마수의 수심기를 적절히 사용하여 전투를 유리하게 이끌어 나가세요!"
+163,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>수심 2<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득한 후에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>사역마수 TP 게이지<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 화면에 표시됩니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>사역마수의 자동 공격<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 또는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>마지막 일격<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 실행 시 사역마수의 TP가 증가합니다.
+TP가 100 이상일 때 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>궁극기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하면 사역마수의 TP를 소비하여 수심기 무기 기술을 사용할 수 있습니다."
+164,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>수심 3<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득한 후에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>수심[주]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>가 화면에 표시됩니다.
+마수조련사의 수심기 무기 기술을 사용하여 수심기 연계에 성공하면 수심[주]가 1개 축적됩니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>기 모으기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하면 축적된 수심[주]를 전부 소비하여 마수조련사의 TP를 단숨에 증가시킬 수 있습니다.
+소비한 수심[주]의 수가 많을수록 TP 증가량도 늘어납니다."
+165,"<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>수심 4<UIGlow>01</UIGlow><UIForeground>01</UIForeground> 특성을 습득한 후에는 <UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>수심[종]<UIGlow>01</UIGlow><UIForeground>01</UIForeground>이 화면에 표시됩니다.
+사역마수의 수심기 무기 기술을 사용하여 수심기 연계에 성공하면 수심[종]이 1개 축적됩니다.
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>응원하기<UIGlow>01</UIGlow><UIForeground>01</UIForeground>를 실행하면 축적된 수심[종]을 전부 소비하여 사역마수의 TP를 단숨에 증가시킬 수 있습니다.
+소비한 수심[종]의 수가 많을수록 TP 증가량도 늘어납니다."
+166,"TP/수심"
 167,""
 168,""
 169,""
