@@ -16,3 +16,12 @@ int32,str,str
 7,"TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00003","희소 석판을 많이 모으면
 모그한테 가지고 와줘쿠뽀~
 비장의 아이템과 교환해줄게쿠뽀!"
+8,"TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001","'천문으로 이르는 길 Part 1'의 6주 차,
+<If(Equal(IntegerParameter(1),1))>주간 미니모그 도전을<Else/><If(Equal(IntegerParameter(1),2))>주간 임무를<Else/><If(Equal(IntegerParameter(1),3))>주간 미니모그 도전과 주간 임무를<Else/></If></If></If>
+완료 처리했으니 모그모그 안내서를 확인해쿠뽀!"
+9,"TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002","'모그모그★컬렉션~천문으로 이르는 길 Part 1~'의
+모그모그 안내서에 기재된 일부 임무의 달성 기한이
+이벤트 종료 일시와 다르게 설정되어 있었습니다."
+10,"TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003","대상 임무에 이벤트 종료 일시까지
+도전하지 못한 플레이어 여러분께
+보상으로 목표를 완료한 것으로 처리해 드리겠습니다."

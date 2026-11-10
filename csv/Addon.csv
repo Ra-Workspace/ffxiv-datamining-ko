@@ -7164,6 +7164,10 @@ PvP 시스템이나 대결 규칙에 대해서는
 6476,"개인실 이름"
 6477,"개인실을 철거합니다.
 설치된 내장재 아이템은 모두 소멸되며, 증축 비용은 반환되지 않습니다.
+
+또한 개인실에 설치한 가구와 개인실 창고에 있는 가구는 NPC '거주구 담당관'에게서 돌려받을 수 있습니다.
+(보관 기한: 35일)
+
 정말 철거하시겠습니까?"
 6478,"방문 불가"
 6479,"<Sheet(PlaceName,IntegerParameter(1),0)/> <Value>IntegerParameter(2)</Value>구 <Value>IntegerParameter(3)</Value>번지 <Value>IntegerParameter(4)</Value>호실"
@@ -20285,8 +20289,8 @@ Lv<Value>IntegerParameter(7)</Value>"
 17535,""
 17536,""
 17537,""
-17538,""
-17539,""
+17538,""
+17539,"(<Value>IntegerParameter(1)</Value>)"
 17540,"시작 지점입니다."
 17541,"적 #<Value>IntegerParameter(1)</Value>: 마물 <Value>IntegerParameter(2)</Value>종과 전투합니다."
 17542,"정예 적 #<Value>IntegerParameter(1)</Value>: 마물 <Value>IntegerParameter(2)</Value>종과 전투합니다."
@@ -20709,7 +20713,7 @@ Lv<Value>IntegerParameter(7)</Value>"
 17915,""
 17916,"추천 편성"
 17917,"시련장에 데려갈 사역마수를 선택하십시오."
-17918,"이 편성을 반영하시겠습니까?"
+17918,"현재 편성에 추천 사역마수를 추가한 이 편성을 반영하시겠습니까?"
 17919,"이 편성을 저장하시겠습니까?"
 17920,"이 편성을 불러오시겠습니까?"
 17921,"시련장 아이템 <Value>IntegerParameter(1)</Value>"
